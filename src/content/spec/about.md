@@ -1,9 +1,27 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+---
+title: 关于我
+# 下面这两行不用动
+layout: ../../layouts/MainLayout.astro
+---
 
-::github{repo="saicaca/fuwari"}
+## 🙋‍♂️ 你好！我是 Shenyize
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+欢迎来到我的个人主页。
+
+### 🎓 身份
+* **苏州大学软件工程专业在读学生**：目前专注于计算机科学领域的研究。
+* **研究方向**：LLM (大语言模型)、Reinforcement Learning (强化学习)。
+* **技术栈**：Python, PyTorch, Linux。
+
+### 🌟 兴趣爱好
+除了写代码，我还喜欢：
+* 玩 **Terraria** 和 **Genshin Impact**。
+* 折腾各种有趣的开源项目。
+* 探索 AI 的前沿技术。
+
+### 📬 联系我
+* **Email**: placidusax060211@gmail.com
+* **Bilibili**: https://space.bilibili.com/496174744
+
+---
+> "Stay hungry, stay foolish."
