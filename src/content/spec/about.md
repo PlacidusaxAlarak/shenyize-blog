@@ -20,7 +20,6 @@ title: 关于我
 * 探索 AI 的前沿技术。
 
 ### 📬 联系我
-* **Email**: placidusax060211@gmail.com
 * **Bilibili**: https://space.bilibili.com/496174744
 
 ---
