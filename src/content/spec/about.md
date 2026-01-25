@@ -15,7 +15,7 @@ title: 关于我
 
 ### 🌟 兴趣爱好
 除了写代码，我还喜欢：
-* 玩 **Terraria** 和 **Genshin Impact**。
+* 体育锻炼，尤其喜欢骑自行车，目前已经骑车前往上海，无锡，张家港，常熟等地。
 * 折腾各种有趣的开源项目。
 * 探索 AI 的前沿技术。
 
@@ -24,4 +24,4 @@ title: 关于我
 * **Bilibili**: https://space.bilibili.com/496174744
 
 ---
-> "Stay hungry, stay foolish."
+> "科学的殿堂中，没有诡辩者的位置"
