@@ -1,25 +1,25 @@
 ---
+import MainGridLayout from '../layouts/MainGridLayout.astro';
+import { getEntry } from 'astro:content';
 
-import { getEntry, render } from "astro:content";
-import Markdown from "@components/misc/Markdown.astro";
-import I18nKey from "../i18n/i18nKey";
-import { i18n } from "../i18n/translation";
-import MainGridLayout from "../layouts/MainGridLayout.astro";
+// 获取 'spec' 集合中的 'about' 文章
+const aboutPost = await getEntry('spec', 'about');
 
-const aboutPost = await getEntry("spec", "about");
-
+// 如果没找到 about.md，抛出错误（可选）
 if (!aboutPost) {
-	throw new Error("About page content not found");
+  throw new Error('Could not find about post');
 }
 
-const { Content } = await render(aboutPost);
+// 渲染 Markdown 内容
+const { Content } = await aboutPost.render();
 ---
-<MainGridLayout title={i18n(I18nKey.about)} description={i18n(I18nKey.about)}>
+
+<MainGridLayout title={aboutPost.data.title} description={aboutPost.data.description}>
     <div class="flex w-full rounded-[var(--radius-large)] overflow-hidden relative min-h-32">
         <div class="card-base z-10 px-9 py-6 relative w-full ">
-            <Markdown class="mt-2">
+            <div class="markdown-body emphasized">
                 <Content />
-            </Markdown>
+            </div>
         </div>
     </div>
 </MainGridLayout>

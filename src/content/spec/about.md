@@ -1,7 +1,7 @@
 ---
 title: 关于我
-# 下面这两行不用动
-layout: ../../layouts/MainLayout.astro
+
+
 ---
 
 ## 🙋‍♂️ 你好！我是 Shenyize
