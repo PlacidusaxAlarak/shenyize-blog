@@ -1,11 +1,12 @@
 ---
 title: 你好，访客！
 published: 2026-01-25
-description: 这是我写下的第一篇博客，用来简单介绍一下我自己
+description: 这是我写下的第一篇博客
 image: ''
-tags: [随笔, 开始]
+tags: [开始]
 category: 生活
 draft: false
+priority: 10
 ---
 
 # 欢迎来到我的网站
