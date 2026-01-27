@@ -1,8 +1,8 @@
 ---
-title: "算法题解索引"
+title: "算法题解"
 published: 2026-01-27
 description: "汇总所有 AtCoder 和 Codeforces 的算法题解索引。"
-tags: ["索引", "算法", "题解"]
+tags: ["算法", "Atcoder", "CodeForces"]
 category: "算法"
 priority: 9
 draft: false
@@ -20,4 +20,4 @@ draft: false
 
 ## Atcoder (1)
 
-- ["AtCoder ABC442_D: D - Swap and Range Sum](/posts/Atcoder/ABC442_D) <small style="color:gray">2026-01-27</small>
+- ["AtCoder ABC442_D: D - Swap and Range Sum](/posts/Atcoder/ABC442_D/) <small style="color:gray">2026-01-27</small>

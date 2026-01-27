@@ -16,7 +16,7 @@ const INDEX_FRONTMATTER = `---
 title: "算法题解索引"
 published: ${new Date().toISOString().split('T')[0]}
 description: "汇总所有 AtCoder 和 Codeforces 的算法题解索引。"
-tags: ["索引", "算法", "题解"]
+tags: ["算法", "Atcoder", "CodeForces"]
 category: "算法"
 priority: 9
 draft: false
@@ -75,7 +75,7 @@ function getFiles(dir) {
       title: fm.title || slug,
       date: fm.published || '1970-01-01',
       // 构建文章链接：/posts/目录名/文件名
-      link: `/posts/${dir}/${slug}`, 
+      link: `/posts/${dir}/${slug}/`, 
       filename: file
     };
   });
