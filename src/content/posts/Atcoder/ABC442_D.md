@@ -4,7 +4,7 @@ title: "AtCoder ABC442_D: D - Swap and Range Sum
 published: 2026-01-27
 description: "AtCoder 算法题解：D - Swap and Range Sum
 			Editorial"
-tags: ["AtCoder", "算法"]
+tags: ["Atcoder", "算法"]
 category: "算法"
 priority: 0
 ---

@@ -1,8 +1,8 @@
 ---
-title: "算法题解"
+title: "算法题解索引"
 published: 2026-01-27
-description: "汇总所有 AtCoder 和 Codeforces 的算法题解。"
-tags: ["Atcoder", "算法", "CodeForces"]
+description: "汇总所有 AtCoder 和 Codeforces 的算法题解索引。"
+tags: ["索引", "算法", "题解"]
 category: "算法"
 priority: 9
 draft: false
