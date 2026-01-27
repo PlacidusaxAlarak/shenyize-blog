@@ -1,3 +1,4 @@
+// astro.config.mjs
 import sitemap from "@astrojs/sitemap";
 import svelte from "@astrojs/svelte";
 import tailwind from "@astrojs/tailwind";
@@ -8,10 +9,10 @@ import expressiveCode from "astro-expressive-code";
 import icon from "astro-icon";
 import { defineConfig } from "astro/config";
 import rehypeAutolinkHeadings from "rehype-autolink-headings";
-import rehypeComponents from "rehype-components"; /* Render the custom directive content */
+import rehypeComponents from "rehype-components";
 import rehypeKatex from "rehype-katex";
 import rehypeSlug from "rehype-slug";
-import remarkDirective from "remark-directive"; /* Handle directives */
+import remarkDirective from "remark-directive";
 import remarkGithubAdmonitionsToDirectives from "remark-github-admonitions-to-directives";
 import remarkMath from "remark-math";
 import remarkSectionize from "remark-sectionize";
@@ -24,20 +25,52 @@ import { remarkExcerpt } from "./src/plugins/remark-excerpt.js";
 import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs";
 import { pluginCustomCopyButton } from "./src/plugins/expressive-code/custom-copy-button.js";
 
+/* New: 引入 execSync 用于执行生成脚本 */
+import { execSync } from "node:child_process";
+
+/* New: 定义自动生成题解索引的 Vite 插件 */
+function autoGenerateSolutions() {
+	return {
+		name: "auto-generate-solutions",
+		// 1. 在服务器启动或构建开始时运行一次
+		buildStart() {
+			try {
+				// 假设你的脚本在 scripts/generate-solutions.js
+				console.log("正在生成题解索引...");
+				execSync("node scripts/generate-solutions.js", { stdio: "inherit" });
+			} catch (e) {
+				console.error("题解索引生成失败:", e);
+			}
+		},
+		// 2. 监听文件热更新
+		handleHotUpdate({ file }) {
+			// 只有当 Atcoder 或 Codeforces 目录下的文件发生变化时才触发
+			if (
+				(file.includes("/posts/Atcoder/") || file.includes("/posts/Codeforces/")) &&
+				file.endsWith(".md")
+			) {
+				console.log("检测到题解变动，正在更新索引...");
+				try {
+					execSync("node scripts/generate-solutions.js", { stdio: "inherit" });
+				} catch (e) {
+					console.error("题解索引更新失败:", e);
+				}
+			}
+		},
+	};
+}
+
 // https://astro.build/config
 export default defineConfig({
 	site: "https://shenyize.com/",
 	base: "/",
 	trailingSlash: "always",
 	integrations: [
-		tailwind({
-			nesting: true,
-		}),
+		// ... (这里保持你原有的 integrations 不变)
+		tailwind({ nesting: true }),
 		swup({
 			theme: false,
-			animationClass: "transition-swup-", // see https://swup.js.org/options/#animationselector
-			// the default value `transition-` cause transition delay
-			// when the Tailwind class `transition-all` is used
+			animationClass: "transition-swup-",
 			containers: ["main", "#toc"],
 			smoothScrolling: true,
 			cache: true,
@@ -61,12 +94,12 @@ export default defineConfig({
 				pluginCollapsibleSections(),
 				pluginLineNumbers(),
 				pluginLanguageBadge(),
-				pluginCustomCopyButton()
+				pluginCustomCopyButton(),
 			],
 			defaultProps: {
 				wrap: true,
 				overridesByLang: {
-					'shellsession': {
+					shellsession: {
 						showLineNumbers: false,
 					},
 				},
@@ -76,7 +109,8 @@ export default defineConfig({
 				borderRadius: "0.75rem",
 				borderColor: "none",
 				codeFontSize: "0.875rem",
-				codeFontFamily: "'JetBrains Mono Variable', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace",
+				codeFontFamily:
+					"'JetBrains Mono Variable', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace",
 				codeLineHeight: "1.5rem",
 				frames: {
 					editorBackground: "var(--codeblock-bg)",
@@ -87,22 +121,23 @@ export default defineConfig({
 					editorActiveTabIndicatorBottomColor: "var(--primary)",
 					editorActiveTabIndicatorTopColor: "none",
 					editorTabBarBorderBottomColor: "var(--codeblock-topbar-bg)",
-					terminalTitlebarBorderBottomColor: "none"
+					terminalTitlebarBorderBottomColor: "none",
 				},
 				textMarkers: {
 					delHue: 0,
 					insHue: 180,
-					markHue: 250
-				}
+					markHue: 250,
+				},
 			},
 			frames: {
 				showCopyToClipboardButton: false,
-			}
+			},
 		}),
-        svelte(),
+		svelte(),
 		sitemap(),
 	],
 	markdown: {
+		// ... (保持原有的 markdown 配置不变)
 		remarkPlugins: [
 			remarkMath,
 			remarkReadingTime,
@@ -154,10 +189,11 @@ export default defineConfig({
 		],
 	},
 	vite: {
+		/* New: 注册自定义插件 */
+		plugins: [autoGenerateSolutions()],
 		build: {
 			rollupOptions: {
 				onwarn(warning, warn) {
-					// temporarily suppress this warning
 					if (
 						warning.message.includes("is dynamically imported by") &&
 						warning.message.includes("but also statically imported by")
