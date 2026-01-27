@@ -126,3 +126,31 @@ export async function getCategoryList(): Promise<Category[]> {
     }
     return ret;
 }
+
+// --- 请添加到 src/utils/content-utils.ts 文件的末尾 ---
+
+export async function getSortedSolutions() {
+    // 获取所有文章
+    const sorted = await getRawSortedPosts();
+    
+    // 过滤逻辑：只保留分类为 "算法" 的文章，或者是包含 "AtCoder"/"Codeforces" 标签的文章
+    // 你可以根据需要修改这里的判断条件
+    const solutions = sorted.filter(post => 
+        post.data.category === '算法' || 
+        post.data.tags?.includes('AtCoder') || 
+        post.data.tags?.includes('Codeforces')
+    );
+
+    // 为筛选出来的题解列表重新计算 "上一篇/下一篇"
+    // 这样在浏览题解时，点击 "下一篇" 会跳转到下一个题解，而不是跳转到其他生活类博客
+    for (let i = 1; i < solutions.length; i++) {
+        solutions[i].data.nextSlug = solutions[i - 1].slug;
+        solutions[i].data.nextTitle = solutions[i - 1].data.title;
+    }
+    for (let i = 0; i < solutions.length - 1; i++) {
+        solutions[i].data.prevSlug = solutions[i + 1].slug;
+        solutions[i].data.prevTitle = solutions[i + 1].data.title;
+    }
+
+    return solutions;
+}
