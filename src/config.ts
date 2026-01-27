@@ -57,6 +57,11 @@ export const profileConfig: ProfileConfig = {
             icon: "fa6-brands:bilibili", // B站图标代码
             url: "https://space.bilibili.com/496174744", 
         },
+    	{
+        	name: "AtCoder",
+        	icon: "fa6-solid:code", 
+        	url: "https://atcoder.jp/users/Placidusax",
+    	},
 	],
 };
 

@@ -1,0 +1,47 @@
+---
+// src/pages/solutions/[...page].astro
+import type { GetStaticPaths } from "astro";
+import Pagination from "../../components/control/Pagination.astro";
+import PostCard from "../../components/PostCard.astro";
+import { PAGE_SIZE } from "../../constants/constants";
+import MainGridLayout from "../../layouts/MainGridLayout.astro";
+import { getSortedSolutions } from "../../utils/content-utils"; // 我们稍后在 utils 中定义它
+import I18nKey from "../../i18n/i18nKey";
+import { i18n } from "../../i18n/translation";
+
+export const getStaticPaths = (async ({ paginate }) => {
+    // 获取经过排序和过滤的题解数据
+    const allSolutions = await getSortedSolutions();
+    return paginate(allSolutions, { pageSize: PAGE_SIZE });
+}) satisfies GetStaticPaths;
+
+const { page } = Astro.props;
+const len = page.data.length;
+---
+
+<MainGridLayout title={i18n(I18nKey.solutions)}>
+    <div class="flex flex-col gap-4 mb-4">
+        {page.data.map((entry, index) => (
+            <PostCard
+                entry={entry}
+                title={entry.data.title}
+                url={`/solutions/${entry.slug}/`}
+                published={entry.data.published}
+                updated={entry.data.updated}
+                tags={entry.data.tags || []}
+                category={entry.data.category || null}
+                image={entry.data.image || ""}
+                description={entry.data.description || ""}
+                draft={entry.data.draft || false}
+                class="onload-animation"
+                style={`animation-delay: calc(var(--content-delay) + ${index * 50}ms)`}
+            />
+        ))}
+    </div>
+    
+    <Pagination 
+        class="mx-auto onload-animation" 
+        page={page} 
+        style={`animation-delay: calc(var(--content-delay) + ${(len) * 50}ms)`} 
+    />
+</MainGridLayout>
