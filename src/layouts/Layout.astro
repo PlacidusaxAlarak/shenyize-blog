@@ -109,7 +109,6 @@ const bannerOffset =
 			/>
 		))}
 
-		<!-- Set the theme before the page is rendered to avoid a flash -->
 		<script is:inline define:vars={{DEFAULT_THEME, LIGHT_MODE, DARK_MODE, AUTO_MODE, BANNER_HEIGHT_EXTEND, PAGE_WIDTH, configHue}}>
 			// Load the theme from local storage
 			const theme = localStorage.getItem('theme') || DEFAULT_THEME;
@@ -140,10 +139,7 @@ const bannerOffset =
 		<style define:vars={{
 			configHue,
 			'page-width': `${PAGE_WIDTH}rem`,
-		}}></style>  <!-- defines global css variables. This will be applied to <html> <body> and some other elements idk why -->
-
-
-		<slot name="head"></slot>
+		}}></style>  <slot name="head"></slot>
 
 		<link rel="alternate" type="application/rss+xml" title={profileConfig.name} href={`${Astro.site}rss.xml`}/>
 
@@ -154,8 +150,35 @@ const bannerOffset =
 		<ConfigCarrier></ConfigCarrier>
 		<slot />
 
-		<!-- increase the page height during page transition to prevent the scrolling animation from jumping -->
 		<div id="page-height-extend" class="hidden h-[300vh]"></div>
+
+		<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+		<script is:inline>
+			// Reload Busuanzi on Swup page transition
+			function reloadBusuanzi() {
+				const scriptId = 'busuanzi-script-reload';
+				const existingScript = document.getElementById(scriptId);
+				if (existingScript) existingScript.remove();
+
+				const script = document.createElement('script');
+				script.id = scriptId;
+				script.src = '//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js';
+				script.async = true;
+				document.body.appendChild(script);
+			}
+
+			const setupBusuanzi = () => {
+				if (window.swup) {
+					window.swup.hooks.on('page:view', reloadBusuanzi);
+				}
+			};
+
+			if (window.swup) {
+				setupBusuanzi();
+			} else {
+				document.addEventListener('swup:enable', setupBusuanzi);
+			}
+		</script>
 	</body>
 </html>
 
