@@ -22,6 +22,6 @@ draft: false
 
 - ["AtCoder ABC442_D: D - Swap and Range Sum](/posts/Atcoder/ABC442D/) <small style="color:gray">2026-01-27</small>
 
-## Codeforces (1)
+## CodeForces (1)
 
-- [CodeForces 2193B: B. Reverse a Permutation](/posts/Codeforces/2193B/) <small style="color:gray">2026-01-29</small>
+- [CodeForces 2193B: B. Reverse a Permutation](/posts/CodeForces/2193B/) <small style="color:gray">2026-01-29</small>

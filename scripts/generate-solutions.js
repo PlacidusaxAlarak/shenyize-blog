@@ -7,11 +7,11 @@ import path from 'node:path';
 const POSTS_DIR = path.join(process.cwd(), 'src/content/posts');
 const OUTPUT_FILE = path.join(POSTS_DIR, 'solutions.md');
 
-// 需要扫描的子目录名称
+// 1. 修正目录名称：必须与实际文件夹名称完全一致（Linux下区分大小写）
+// 根据你的文件列表，CodeForces 的 F 是大写的
 const TARGET_DIRS = ['Atcoder', 'CodeForces'];
 
 // --- 核心：生成的 MD 文件模版 ---
-// 这里设置了 priority: 9，以及简单的介绍文案
 const INDEX_FRONTMATTER = `---
 title: "算法题解索引"
 published: ${new Date().toISOString().split('T')[0]}
@@ -34,8 +34,6 @@ draft: false
 `;
 
 // --- 辅助函数 ---
-
-// 简单的 Frontmatter 解析器，提取 title 和 published
 function parseFrontmatter(content) {
   const match = content.match(/^---\s+([\s\S]+?)\s+---/);
   if (!match) return {};
@@ -47,7 +45,6 @@ function parseFrontmatter(content) {
     if (colonIndex !== -1) {
       const key = line.slice(0, colonIndex).trim();
       let value = line.slice(colonIndex + 1).trim();
-      // 去除引号
       if (value.startsWith('"') && value.endsWith('"')) {
         value = value.slice(1, -1);
       }
@@ -57,7 +54,6 @@ function parseFrontmatter(content) {
   return frontmatter;
 }
 
-// 扫描目录获取文章列表
 function getFiles(dir) {
   const fullPath = path.join(POSTS_DIR, dir);
   if (!fs.existsSync(fullPath)) return [];
@@ -74,8 +70,8 @@ function getFiles(dir) {
     return {
       title: fm.title || slug,
       date: fm.published || '1970-01-01',
-      // 构建文章链接：/posts/目录名/文件名
-      link: `/posts/${dir}/${slug}/`, 
+      // 2. 关键修改：生成链接时强制转为小写，以匹配 Astro 的路由规则
+      link: `/posts/${dir.toLowerCase()}/${slug.toLowerCase()}/`, 
       filename: file
     };
   });
@@ -90,18 +86,15 @@ async function generate() {
     
     if (posts.length === 0) continue;
 
-    // 按日期倒序排列（最新的在前面）
     posts.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
     markdownContent += `\n## ${dir} (${posts.length})\n\n`;
     
     posts.forEach(post => {
-      // 生成 Markdown 列表项
       markdownContent += `- [${post.title}](${post.link}) <small style="color:gray">${post.date}</small>\n`;
     });
   }
 
-  // 写入文件
   fs.writeFileSync(OUTPUT_FILE, markdownContent, 'utf-8');
   console.log(`✅ 题解索引已更新 (Priority: 9): ${OUTPUT_FILE}`);
 }
