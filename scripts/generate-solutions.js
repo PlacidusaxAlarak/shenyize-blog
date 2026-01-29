@@ -8,7 +8,7 @@ const POSTS_DIR = path.join(process.cwd(), 'src/content/posts');
 const OUTPUT_FILE = path.join(POSTS_DIR, 'solutions.md');
 
 // 需要扫描的子目录名称
-const TARGET_DIRS = ['Atcoder', 'Codeforces'];
+const TARGET_DIRS = ['Atcoder', 'CodeForces'];
 
 // --- 核心：生成的 MD 文件模版 ---
 // 这里设置了 priority: 9，以及简单的介绍文案
