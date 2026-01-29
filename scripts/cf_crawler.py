@@ -66,8 +66,7 @@ int main() {{
     return 0;
 }}
 ```
-题目原文
-{markdown_content} """
+"""
 
         # 确保目录存在
         save_dir = "src/content/posts/CodeForces"
