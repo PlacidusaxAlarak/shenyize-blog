@@ -424,14 +424,6 @@ def ppo_train_epoch(epoch, loader, iters, old_actor_model, ref_model, actor_sche
 
 ```
 
----
-
-### 下一步建议
-
-现在你已经逐行理解了 PPO 的训练循环。在这个实现中，**混合奖励的设计** (`calculate_rewards`) 是引导模型产生推理能力（Reasoning）的关键。
-
-**是否希望我深入拆解 `calculate_rewards` 函数，看看它是如何通过正则匹配（Regex）给 `<think>` 标签打分的？**
-
 ## 主程序入口 (Main Execution)
 
 ```python title="train_ppo.py"
