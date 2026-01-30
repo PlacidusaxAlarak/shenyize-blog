@@ -1,7 +1,7 @@
 ---
 title: MiniMind PPO 训练源码深度解析
 published: 2026-01-29
-description: '深入剖析 MiniMind 项目的 PPO (Proximal Policy Optimization) 算法实现。本文将逐行解读 train_ppo.py，涵盖 Actor-Critic 架构、优势函数计算、KL 散度惩罚及分布式训练细节，帮助理解 LLM 的 RLHF 对齐过程。'
+description: '深入剖析 MiniMind 项目的 PPO (Proximal Policy Optimization) 算法实现。'
 image: ''
 tags: [LLM, Reinforcement Learning]
 category: 'Reinforcement Learning'
