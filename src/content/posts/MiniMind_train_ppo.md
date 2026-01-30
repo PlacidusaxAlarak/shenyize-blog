@@ -278,28 +278,36 @@ def ppo_train_epoch(epoch, loader, iters, old_actor_model, ref_model, actor_sche
 ```python
 
         # 前向传播获取 logits
+        # 拿已经生成的回答和输入前向传播一遍，就得到了词表中各个token的"分数"，我们后续要用到
         logits = actor_model(input_ids=gen_out, attention_mask=full_mask).logits  # [B, P+R, V]
         labels = gen_out[:, 1:].clone()  # [B, P+R-1] (Labels 是 input 向后错一位)
         
         # 获取生成 token 对应的 log_softmax 值
+        # [:, :-1]要去掉最后一个token, gather取出输出token的分数，再降维
         logp_tokens = F.log_softmax(logits[:, :-1], dim=-1).gather(2, labels.unsqueeze(-1)).squeeze(-1)  # [B, P+R-1]
         
         # 创建 mask 以屏蔽 Prompt 部分（我们只关心 Response 的概率）和 Padding 部分
         seq_len = gen_out.size(1) - 1
+        # [[0, 1, ..., seq_len-1]]>=[[B], [B], [B], ..., [B]]
+        # 利用Pytorch的广播机制，会被拉成一样的矩阵, [Batch, Seq_len]
         resp_mask = torch.arange(seq_len, device=gen_out.device).unsqueeze(0) >= prompt_lengths.unsqueeze(1)
+        # 找到是Padding的部分, 如果为True，必定不是Padding且是Response
         final_mask = resp_mask & (~labels.eq(tokenizer.pad_token_id))  # [B, P+R-1]
         
         # 求和得到整句 Response 的 log probability
+        # 加是因为log(a*b)=log(a)+log(b)
         actor_logp = (logp_tokens * final_mask).sum(dim=1)  # [B]
 
         # 8. 计算 Old Actor 和 Ref Model 的 Log Prob (不计算梯度)
         with torch.no_grad():
             # Old Actor: 用于计算 PPO 的概率比率 (Ratio)
+            # 和上述同样的原理
             old_logits = old_actor_model(input_ids=gen_out, attention_mask=full_mask).logits  # [B, P+R, V]
             old_logp_tokens = F.log_softmax(old_logits[:, :-1], dim=-1).gather(2, labels.unsqueeze(-1)).squeeze(-1)  # [B, P+R-1]
             old_logp = (old_logp_tokens * final_mask).sum(dim=1)  # [B]
             
             # Reference Model: 用于计算 KL 散度惩罚，防止模型跑偏
+            # 和上述同样的原理
             ref_logits = ref_model(input_ids=gen_out, attention_mask=full_mask).logits  # [B, P+R, V]
             ref_logp_tokens = F.log_softmax(ref_logits[:, :-1], dim=-1).gather(2, labels.unsqueeze(-1)).squeeze(-1)  # [B, P+R-1]
             ref_logp = (ref_logp_tokens * final_mask).sum(dim=1)  # [B]
@@ -311,16 +319,16 @@ def ppo_train_epoch(epoch, loader, iters, old_actor_model, ref_model, actor_sche
 这里实现了 PPO 论文的核心公式：，并加上了 Value Loss 和 KL 惩罚项。
 
 ```python
-        # 9. 计算各项指标
-        kl = (actor_logp - old_logp).mean()  # 用于监控策略变化幅度
-        kl_ref = (actor_logp - ref_logp).mean()  # 真实的 KL 惩罚项
+        # E[log(p)-log(q)], mean()即代表取平均，也就是E期望
+        # 这里是整句话的KL散度, 而不是一个Token的KL散度
+        kl = (actor_logp - old_logp).mean()  
+        kl_ref = (actor_logp - ref_logp).mean()  
         
-        # 10. 计算 Ratio (r_t)
         # ratio = exp(log(new) - log(old)) = new / old
         ratio = torch.exp(actor_logp - old_logp)  # [B]
         
-        # 11. PPO Clipping 核心逻辑
         surr1 = ratio * advantages  # [B] 未截断的损失
+
         # 截断 ratio 在 [1-epsilon, 1+epsilon] 之间
         surr2 = torch.clamp(ratio, 1.0 - args.clip_epsilon, 1.0 + args.clip_epsilon) * advantages  # [B]
         
@@ -342,7 +350,7 @@ def ppo_train_epoch(epoch, loader, iters, old_actor_model, ref_model, actor_sche
 标准的 PyTorch 优化步骤，包含梯度裁剪（防止梯度爆炸）和梯度累积。
 
 ```python
-        # 13. 梯度更新 (支持梯度累积)
+        # 梯度更新 (支持梯度累积)
         if (step + 1) % args.accumulation_steps == 0:
             clip_grad_norm_(actor_model.parameters(), args.grad_clip)
             clip_grad_norm_(critic_model.parameters(), args.grad_clip)
@@ -363,7 +371,7 @@ def ppo_train_epoch(epoch, loader, iters, old_actor_model, ref_model, actor_sche
 训练循环的最后部分，负责向 WandB 发送数据，定期同步 Old Actor，并保存模型权重。
 
 ```python
-        # 14. 日志记录 (仅主进程执行)
+        # 日志记录
         if is_main_process():
             # 计算平均生成长度，用于监控模型是否出现“沉默”或“啰嗦”倾向
             response_ids = gen_out[:, enc.input_ids.shape[1]:]
@@ -382,7 +390,7 @@ def ppo_train_epoch(epoch, loader, iters, old_actor_model, ref_model, actor_sche
             avg_len_val = avg_len.item()
             actor_lr = actor_optimizer.param_groups[0]['lr']
             critic_lr = critic_optimizer.param_groups[0]['lr']
-
+            # wandb用于画图
             if wandb is not None:
                 wandb.log({
                     "actor_loss": actor_loss_val,
@@ -399,15 +407,13 @@ def ppo_train_epoch(epoch, loader, iters, old_actor_model, ref_model, actor_sche
                    f"Reward: {reward_val:.6f}, KL: {kl_val:.6f}, KL_ref: {kl_ref_val:.6f}, "
                    f"Avg Response Len: {avg_len_val:.2f}, Actor LR: {actor_lr:.2e}, Critic LR: {critic_lr:.2e}")
 
-        # 15. 更新 Old Actor
-        # 这是一个重要的超参数 update_old_actor_freq。
-        # 我们不是每一步都更新 Old Actor，而是每隔几步更新一次，这允许 Actor 在 Old Actor 的“约束范围”内多走几步。
+        # Actor模型的延迟更新, 每update_old_actor_freq才更新一次
         if (step + 1) % args.update_old_actor_freq == 0:
             state_dict = actor_model.module.state_dict() if isinstance(actor_model, DistributedDataParallel) else actor_model.state_dict()
             old_actor_model.load_state_dict({k: v.detach().cpu() for k, v in state_dict.items()})
             old_actor_model.to(args.device)
 
-        # 16. 保存模型权重
+        # 保存模型权重
         if (step % args.save_interval == 0 or step == iters - 1) and is_main_process():
             actor_model.eval()
             moe_suffix = '_moe' if lm_config.use_moe else ''
