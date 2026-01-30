@@ -1,6 +1,6 @@
 ---
 title: "算法题解索引"
-published: 2026-01-29
+published: 2026-01-30
 description: "汇总所有 AtCoder 和 Codeforces 的算法题解索引。"
 tags: ["算法", "Atcoder", "CodeForces"]
 category: "算法"
@@ -20,8 +20,8 @@ draft: false
 
 ## Atcoder (1)
 
-- ["AtCoder ABC442_D: D - Swap and Range Sum](/posts/Atcoder/ABC442D/) <small style="color:gray">2026-01-27</small>
+- ["AtCoder ABC442_D: D - Swap and Range Sum](/posts/atcoder/abc442d/) <small style="color:gray">2026-01-27</small>
 
 ## CodeForces (1)
 
-- [CodeForces 2193B: B. Reverse a Permutation](/posts/CodeForces/2193B/) <small style="color:gray">2026-01-29</small>
+- [CodeForces 2193B: B. Reverse a Permutation](/posts/codeforces/2193b/) <small style="color:gray">2026-01-29</small>
