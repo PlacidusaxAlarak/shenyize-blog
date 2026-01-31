@@ -5,6 +5,7 @@ description: '深入剖析 MiniMind 项目的 PPO (Proximal Policy Optimization)
 image: ''
 tags: [LLM, Reinforcement Learning]
 category: 'Reinforcement Learning'
+slug: minimind_train_ppo
 draft: false
 lang: 'zh'
 priority: 5

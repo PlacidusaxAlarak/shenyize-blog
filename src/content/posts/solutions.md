@@ -18,8 +18,9 @@ draft: false
 :::
 
 
-## Atcoder (1)
+## Atcoder (2)
 
+- ["AtCoder ABC442_E: E - Laser Takahashi](/posts/atcoder/abc442_e/) <small style="color:gray">2026-01-31</small>
 - ["AtCoder ABC442_D: D - Swap and Range Sum](/posts/atcoder/abc442d/) <small style="color:gray">2026-01-27</small>
 
 ## CodeForces (2)
