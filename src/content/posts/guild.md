@@ -19,7 +19,8 @@ priority: 10
     * [大一下学期生存指南](/posts/suda-se-guide/大一下)
     * [大二上学期生存指南](/posts/suda-se-guide/大二上)
 * **算法研究**：专注于各种计算机算法的学习和研究。
-
+    * [MiniMind PPO 训练源码深度解析](/posts/MiniMind_train_ppo)
+    * [算法题解索引](/posts/solutions)
 > "千里之行，始于足下。"
 
 现在，我的博客终于干干净净，只属于我一个人了！
