@@ -78,7 +78,7 @@ warnings.filterwarnings('ignore')
 ## 核心架构设计 (The Critic Model)
 
 ```python title="train_ppo.py"
-# 自定义的Critic模型，继承自MiniMindLM
+# 自定义的Critic模型，继承自MiniMindForCausalLM
 class CriticModel(MiniMindForCausalLM):
     def __init__(self, params):
         super().__init__(params)
@@ -160,7 +160,7 @@ class CriticModel(MiniMindForCausalLM):
 
 1. 计算**全段回复**（Prompt + Think + Answer）的得分。
 2. 提取 `<answer>` 标签内的**纯回答内容**，再次计算得分。
-3. 最终得分 。
+3. 加权得到最终得分 
 
 这种加权机制（0.4/0.6）稍微偏向于最终答案的准确性，同时也兼顾了思考过程的合理性。
 
@@ -168,7 +168,7 @@ class CriticModel(MiniMindForCausalLM):
     with torch.no_grad():
         reward_model_scores = []
         for prompt, response in zip(prompts, responses):
-            #Reward Model评价的是对话，而不仅仅是一个句子。例如如果用户要求输出一句有语病的句子，如果仅仅是对句子评价，那么Reward Model会给这个语病句子给出很低的分数，但是这满足了用户的需求，所以影噶给一个很高的分数
+            #Reward Model评价的是对话，而不仅仅是一个句子。例如如果用户要求输出一句有语病的句子，如果仅仅是对句子评价，那么Reward Model会给这个语病句子给出很低的分数，但是这满足了用户的需求，所以应该给一个很高的分数
 
             #对回答进行解包，解析成Chat Format格式
             pattern = r"<\|im_start\|>(system|user|assistant)\s+(.*?)<\|im_end\|>"
@@ -226,8 +226,8 @@ def ppo_train_epoch(epoch, loader, iters, old_actor_model, ref_model, actor_sche
         enc = tokenizer(prompts, return_tensors="pt", padding=True, truncation=True, 
                        max_length=args.max_seq_len).to(args.device)  # input_ids: [B, P], attention_mask: [B, P]
         
-        # 记录 Prompt 的实际长度，后续用于区分 Prompt 和生成的 Response
-        prompt_lengths = torch.full((enc.input_ids.size(0),), enc.input_ids.shape[1], dtype=torch.long, device=enc.input_ids.device)  # [B], [B个Prompt Length]
+        # 使用标量记录 Prompt 的实际长度, 因为经过左侧填充, 所有Prompt_Length都一致
+        prompt_length = enc.input_ids.shape[1]
 
         with torch.no_grad():
             # DDP 模型需要使用 .module 访问 generate 方法，这是 PyTorch DDP 的特性
@@ -249,7 +249,7 @@ def ppo_train_epoch(epoch, loader, iters, old_actor_model, ref_model, actor_sche
 
         # 从生成的 token 中切片提取出 Response 部分进行解码
         # 这里的len(prompts)就是Batch_size
-        responses_text = [tokenizer.decode(gen_out[i, prompt_lengths[i]:], skip_special_tokens=True) for i in range(len(prompts))]
+        responses_text = [tokenizer.decode(gen_out[i, prompt_length:], skip_special_tokens=True) for i in range(len(prompts))]
         
         # 调用之前定义的 calculate_rewards，包含格式奖励、标记奖励和 Reward Model 打分
         rewards = calculate_rewards(prompts, responses_text, reward_model, reward_tokenizer)  # [B]
@@ -258,11 +258,11 @@ def ppo_train_epoch(epoch, loader, iters, old_actor_model, ref_model, actor_sche
         full_mask = (gen_out != tokenizer.pad_token_id).long()  # [B, P+R]的矩阵，不是Padding的地方为1，是为0
         values_seq = critic_model(input_ids=gen_out, attention_mask=full_mask)  # [B, P+R]，对于每一个位置，都给出了一个标量分数
         
-        # 加和(都是1)之后，再减一，就得到了最后一个有效token的索引
-        last_indices = full_mask.sum(dim=1) - 1  # [B]
+        # 因为arange是递增序列，所以最大的就是最后一个有效Token的位置
+        last_indices = (full_mask * torch.arange(full_mask.size(1), device=gen_out.device)).argmax(dim=1)
         
         # 提取最后一个 token 对应的 value 作为当前生成的整体价值预估
-        # arrange生成一个[0, 1, ..., B-1]的行坐标, 再根据last_indices的纵坐标, 提取出最后一个有效Token的索引
+        # arange生成一个[0, 1, ..., B-1]的行坐标, 再根据last_indices的纵坐标, 提取出最后一个有效Token的索引
         values = values_seq[torch.arange(values_seq.size(0), device=values_seq.device), last_indices]  # [B]
         
         # Advantage = 实际获得的奖励 - Critic 预估的价值
@@ -288,9 +288,8 @@ def ppo_train_epoch(epoch, loader, iters, old_actor_model, ref_model, actor_sche
         
         # 创建 mask 以屏蔽 Prompt 部分（我们只关心 Response 的概率）和 Padding 部分
         seq_len = gen_out.size(1) - 1
-        # [[0, 1, ..., seq_len-1]]>=[[B], [B], [B], ..., [B]]
-        # 利用Pytorch的广播机制，会被拉成一样的矩阵, [Batch, Seq_len]
-        resp_mask = torch.arange(seq_len, device=gen_out.device).unsqueeze(0) >= prompt_lengths.unsqueeze(1)
+        # 使用标量 prompt_length 进行比较
+        resp_mask = torch.arange(seq_len, device=gen_out.device).unsqueeze(0) >= prompt_length - 1
         # 找到是Padding的部分, 如果为True，必定不是Padding且是Response
         final_mask = resp_mask & (~labels.eq(tokenizer.pad_token_id))  # [B, P+R-1]
         
@@ -316,7 +315,11 @@ def ppo_train_epoch(epoch, loader, iters, old_actor_model, ref_model, actor_sche
 
 ### 第四步：构建 PPO 损失函数 (Loss Calculation)
 
-这里实现了 PPO 论文的核心公式：，并加上了 Value Loss 和 KL 惩罚项。
+这里实现了 PPO 论文的核心公式：<div style="overflow-x: auto; padding: 10px;">
+$$
+\mathcal{L}_{total}(\theta, \phi) = \frac{1}{B} \sum_{i=1}^{B} \left( - \min \left( r_i(\theta) \hat{A}_i, \ \text{clip}(r_i(\theta), 1-\epsilon, 1+\epsilon) \hat{A}_i \right) + \lambda_{vf} (V_\phi(x_i, y_i) - R_i)^2 + \lambda_{kl} \log \frac{\pi_\theta(y_i|x_i)}{\pi_{ref}(y_i|x_i)} \right)
+$$
+</div>
 
 ```python
         # E[log(p)-log(q)], mean()即代表取平均，也就是E期望
@@ -326,8 +329,8 @@ def ppo_train_epoch(epoch, loader, iters, old_actor_model, ref_model, actor_sche
         
         # ratio = exp(log(new) - log(old)) = new / old
         ratio = torch.exp(actor_logp - old_logp)  # [B]
-        
-        surr1 = ratio * advantages  # [B] 未截断的损失
+        # 未截断的损失
+        surr1 = ratio * advantages  # [B] 
 
         # 截断 ratio 在 [1-epsilon, 1+epsilon] 之间
         surr2 = torch.clamp(ratio, 1.0 - args.clip_epsilon, 1.0 + args.clip_epsilon) * advantages  # [B]
@@ -377,8 +380,11 @@ def ppo_train_epoch(epoch, loader, iters, old_actor_model, ref_model, actor_sche
             response_ids = gen_out[:, enc.input_ids.shape[1]:]
             is_eos = (response_ids == tokenizer.eos_token_id)
             eos_indices = torch.argmax(is_eos.int(), dim=1)
+            # 判断样本是不是真的有<eos>
             has_eos = is_eos.any(dim=1)
+            # 计算样本实际生成的有效长度
             lengths = torch.where(has_eos, eos_indices + 1, torch.tensor(response_ids.shape[1], device=is_eos.device))
+            #计算当前batch中样本生成长度的平均值
             avg_len = lengths.float().mean()
 
             # 提取 scalar 值以便打印
@@ -401,7 +407,7 @@ def ppo_train_epoch(epoch, loader, iters, old_actor_model, ref_model, actor_sche
                     "avg_response_len": avg_len_val,
                     "actor_lr": actor_lr,
                 })
-
+            # 日志信息
             Logger(f"Epoch: {epoch+1}, Step: {step}/{iters}, "
                    f"Actor Loss: {actor_loss_val:.6f}, Critic Loss: {critic_loss_val:.6f}, "
                    f"Reward: {reward_val:.6f}, KL: {kl_val:.6f}, KL_ref: {kl_ref_val:.6f}, "
@@ -415,24 +421,30 @@ def ppo_train_epoch(epoch, loader, iters, old_actor_model, ref_model, actor_sche
 
         # 保存模型权重
         if (step % args.save_interval == 0 or step == iters - 1) and is_main_process():
+            # 切换为eval模型, 会关闭 Dropout 层，并固定 BatchNorm 的统计量，确保保存的参数是稳定的。
             actor_model.eval()
             moe_suffix = '_moe' if lm_config.use_moe else ''
             ckp = f'{args.save_dir}/{args.save_weight}_{lm_config.hidden_size}{moe_suffix}.pth'
             actor_state = actor_model.module.state_dict() if isinstance(actor_model, DistributedDataParallel) else actor_model.state_dict()
             torch.save({k: v.half() for k, v in actor_state.items()}, ckp)
             
-            # 使用 lm_checkpoint 保存完整状态（包括 critic）
+            # 保存恢复训练所需要的一切
             lm_checkpoint(lm_config, weight=args.save_weight, model=actor_model, optimizer=actor_optimizer, 
                          epoch=epoch, step=step, wandb=wandb, save_dir='../checkpoints',
                          scheduler=actor_scheduler, critic_model=critic_model, 
                          critic_optimizer=critic_optimizer, critic_scheduler=critic_scheduler)
+            # 重新回到训练模式
             actor_model.train()
 
 ```
 
-## 主程序入口 (Main Execution)
+以下是将 `train_ppo.py` 主程序入口部分（`if __name__ == "__main__":`）按照代码中的注释块进行的 Markdown 分块解析：
 
-```python title="train_ppo.py"
+### 参数解析与全局配置
+
+这一部分定义了脚本运行所需的所有超参数，包括学习率、模型参数、路径配置以及 PPO 特有的系数（如 `clip_epsilon`, `kl_coef`）。
+
+```python
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="MiniMind PPO (Proximal Policy Optimization)")
     parser.add_argument("--save_dir", type=str, default="../out", help="模型保存目录")
@@ -465,22 +477,47 @@ if __name__ == "__main__":
     parser.add_argument("--wandb_project", type=str, default="MiniMind-PPO", help="wandb项目名")
     args = parser.parse_args()
 
-    # ========== 1. 初始化环境和随机种子 ==========
+```
+## 主程序入口
+### 1. 初始化环境和随机种子
+
+初始化分布式训练环境（如果需要），并设置随机种子以确保实验的可复现性。
+
+```python
     local_rank = init_distributed_mode()
     if dist.is_initialized(): args.device = f"cuda:{local_rank}"
     setup_seed(42 + (dist.get_rank() if dist.is_initialized() else 0))
-    
-    # ========== 2. 配置目录、模型参数、检查ckp ==========
+
+```
+
+### 2. 配置目录、模型参数、检查ckp
+
+创建保存目录，实例化模型配置对象 `MiniMindConfig`。如果开启了 `from_resume`，则会尝试寻找之前保存的 checkpoint 信息。
+
+```python
     os.makedirs(args.save_dir, exist_ok=True)
     lm_config = MiniMindConfig(hidden_size=args.hidden_size, num_hidden_layers=args.num_hidden_layers, use_moe=bool(args.use_moe))
     ckp_data = lm_checkpoint(lm_config, weight=args.save_weight, save_dir='../checkpoints') if args.from_resume==1 else None
-    
+
+```
+
+### 3. 设置混合精度
+
+根据设备类型和参数设置自动混合精度上下文（AMP），通常使用 `bfloat16` 或 `float16` 以节省显存并加速训练。
+
+```python
     # ========== 3. 设置混合精度 ==========
     device_type = "cuda" if "cuda" in args.device else "cpu"
     dtype = torch.bfloat16 if args.dtype == "bfloat16" else torch.float16
     autocast_ctx = nullcontext() if device_type == "cpu" else torch.cuda.amp.autocast(dtype=dtype)
-    
-    # ========== 4. 配wandb ==========
+
+```
+
+### 4. 配置wandb
+
+初始化 Weights & Biases (WandB) 或 SwanLab 用于实验监控。如果从断点恢复，会尝试恢复对应的 run ID。
+
+```python
     wandb = None
     if args.use_wandb and is_main_process():
         import swanlab as wandb
@@ -488,14 +525,29 @@ if __name__ == "__main__":
         resume = 'must' if wandb_id else None
         wandb_run_name = f"MiniMind-PPO-Epoch-{args.epochs}-BS-{args.batch_size}-LR-{args.learning_rate}"
         wandb.init(project=args.wandb_project, name=wandb_run_name, id=wandb_id, resume=resume)
-    
-    # ========== 5. 初始化模型和数据 ==========
+
+```
+
+### 5. 初始化模型和数据
+
+这是最关键的初始化步骤，构建了 PPO 所需的四个模型：
+
+1. **Actor Model**: 当前训练的策略网络。
+2. **Old Actor**: 用于计算比率（Ratio）的旧策略网络（冻结参数）。
+3. **Reference Model**: 用于计算 KL 散度的参考网络（冻结参数）。
+4. **Critic Model**: 价值网络，用于估计状态价值。
+此外，还加载了 **Reward Model**、数据集和优化器。
+
+```python
+    # 加载模型权重
     base_weight = "reason" if args.reasoning == 1 else "full_sft"
     # Actor模型
     actor_model, tokenizer = init_model(lm_config, base_weight, device=args.device)
-    tokenizer.padding_side = 'left'  # PPO需要左侧padding
+    # 生成式任务中，因为生成的Token都是向右追加的，所以要左对齐
+    tokenizer.padding_side = 'left'  
     # Old Actor模型
     old_actor_model, _ = init_model(lm_config, base_weight, device=args.device)
+    # 冻结参数，不参与训练
     old_actor_model = old_actor_model.eval().requires_grad_(False)
     # Reference模型
     ref_model, _ = init_model(lm_config, base_weight, device=args.device)
@@ -514,17 +566,27 @@ if __name__ == "__main__":
     reward_model = reward_model.to(args.device).eval().requires_grad_(False)
     reward_tokenizer = AutoTokenizer.from_pretrained(args.reward_model_path, trust_remote_code=True)
     # 数据和优化器
+    # 加载提示词数据集
     train_ds = RLAIFDataset(args.data_path, tokenizer, max_length=(args.max_seq_len + args.max_gen_len))
     train_sampler = DistributedSampler(train_ds) if dist.is_initialized() else None
+    # 优化器配置
     actor_optimizer = optim.AdamW(actor_model.parameters(), lr=args.learning_rate)
     critic_optimizer = optim.AdamW(critic_model.parameters(), lr=args.critic_learning_rate)
+    # 学习率调度与初始化
     loader_for_count = DataLoader(train_ds, batch_size=args.batch_size, sampler=train_sampler)
     iters = len(loader_for_count)
     total_optimizer_steps = (iters // args.accumulation_steps) * args.epochs
     actor_scheduler = CosineAnnealingLR(actor_optimizer, T_max=total_optimizer_steps, eta_min=args.learning_rate / 10)
     critic_scheduler = CosineAnnealingLR(critic_optimizer, T_max=total_optimizer_steps, eta_min=args.critic_learning_rate / 10)
-    
-    # ========== 6. 从ckp恢复状态 ==========
+
+```
+
+### 6. 从ckp恢复状态
+
+如果检测到 checkpoint 数据，将所有模型（Actor, Critic）、优化器和调度器的状态恢复到之前保存的点。
+
+```python
+    # 从checkpoint恢复状态
     start_epoch, start_step = 0, 0
     if ckp_data:
         actor_model.load_state_dict(ckp_data['model'])
@@ -535,16 +597,29 @@ if __name__ == "__main__":
         critic_scheduler.load_state_dict(ckp_data['critic_scheduler'])
         start_epoch = ckp_data['epoch']
         start_step = ckp_data.get('step', 0)
-    
-    # ========== 7. DDP包模型 ==========
+
+```
+
+### 7. DDP 分布式封装
+
+如果是分布式训练，使用 `DistributedDataParallel` (DDP) 封装 Actor 和 Critic 模型，同时忽略特定的 MoE 参数（如 `freqs_cos`）以避免广播错误。
+
+```python
     if dist.is_initialized():
         actor_model._ddp_params_and_buffers_to_ignore = {"freqs_cos", "freqs_sin"}
         critic_model._ddp_params_and_buffers_to_ignore = {"freqs_cos", "freqs_sin"}
         actor_model = DistributedDataParallel(actor_model, device_ids=[local_rank])
         critic_model = DistributedDataParallel(critic_model, device_ids=[local_rank])
         old_actor_model.to(args.device)
-    
-    # ========== 8. 开始训练 ==========
+
+```
+
+### 8. 开始训练
+
+进入主训练循环。这里处理了断点续训时的数据加载器跳过逻辑（`SkipBatchSampler`），并调用核心函数 `ppo_train_epoch` 开始 PPO 的 Epoch 训练。
+
+```python
+    # 开始训练
     for epoch in range(start_epoch, args.epochs):
         train_sampler and train_sampler.set_epoch(epoch)
         if epoch == start_epoch and start_step > 0:  # 第一个epoch且存在检查点
