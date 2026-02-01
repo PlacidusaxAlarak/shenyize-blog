@@ -12,11 +12,49 @@ priority: 5
 ---
 ![DPO算法完整流程图](./images/DPO.png)
 
+---
+
+## DPO 算法核心原理简述
+
+## DPO 算法核心原理简述
+
+DPO (Direct Preference Optimization, 直接偏好优化) 是大模型对齐领域的一次**“极简主义革命”**。
+
+它的核心思想非常犀利：**移除“中间商”，用解析解替代强化学习**。
+
+在传统的 RLHF 中，我们需要先训练一个“裁判”（奖励模型），再用复杂的 PPO 算法去讨好这个裁判。而 DPO 通过数学推导证明：**最优策略模型本身，就是奖励模型的隐式表达**。
+
+### 1. 核心公式：从“打分”到“比较”
+DPO 将复杂的强化学习问题简化为了一个**二分类问题**。它的目标非常直观：**增大“好回答”与“坏回答”之间的概率差**。
+
+在 MiniMind 的代码实现中，损失函数 $\mathcal{L}_{\text{DPO}}$ 被定义为：
+
+$$
+\mathcal{L}_{\text{DPO}} = -\log \sigma \left( \beta \left[ \log \frac{\pi_\theta(y_w|x)}{\pi_{\text{ref}}(y_w|x)} - \log \frac{\pi_\theta(y_l|x)}{\pi_{\text{ref}}(y_l|x)} \right] \right)
+$$
+
+* **$\pi_\theta$**: 当前训练的模型。
+* **$\pi_{\text{ref}}$**: 冻结的参考模型（防止模型跑偏）。
+* **$y_w$ / $y_l$**: 人类偏好（Chosen）与 拒绝（Rejected）的回答。
+* **$\beta$**: 控制约束力度的超参数。
+
+### 2. 算法逻辑：隐式奖励优化
+代码不再需要维护独立的 Critic 网络，而是直接计算**“相对优势”**：
+
+1.  **计算偏好差**：分别计算当前模型和参考模型对“好坏答案”的概率差值（Log Ratios）。
+2.  **构建 Logits**：如果当前模型比参考模型更倾向于“好答案”，则 Logits 变大。
+3.  **Sigmoid 损失**：通过 `-log(sigmoid(logits))` 将优化目标转化为最小化损失。
+
+在 MiniMind 中，采用 DPO 意味着我们**彻底告别了 PPO 的显式采样 (Rollout)**。训练过程变成了类似于 SFT 的监督学习，极大地**降低了显存占用 (VRAM)**，并获得了**如磐石般的训练稳定性**。
+
 ## 全局引用与辅助函数 (Imports & Helper Functions)
 
 与 PPO 不同，DPO 不需要复杂的 Actor-Critic 交互，也不需要额外的 Reward Model 进行推理时打分。它更多依赖于数学上的推导，将强化学习问题转化为二分类问题。
 
 首先是必要的库导入和计算 Log Probabilities 的辅助函数。`logits_to_log_probs` 是 DPO 算法的基础工具，用于从模型输出的 logits 中提取特定 label 对应的对数概率。
+
+<details>
+<summary><strong>👉 点击展开查看完整引用与环境初始化代码</strong></summary>
 
 ```python
 import os
@@ -43,14 +81,15 @@ warnings.filterwarnings('ignore')
 
 
 def logits_to_log_probs(logits, labels):
-    # logits shape: (batch_size, seq_len, vocab_size)
-    # labels shape: (batch_size, seq_len)
+    # logits shape: (batch_size, seq_len, vocab_size), 模型最后一层的原始打分
+    # labels shape: (batch_size, seq_len), 真实数据的索引
     # log_probs shape: (batch_size, seq_len)
     log_probs = F.log_softmax(logits, dim=2)
     log_probs_per_token = torch.gather(log_probs, dim=2, index=labels.unsqueeze(2)).squeeze(-1)
     return log_probs_per_token
 
 ```
+</details>
 
 ## DPO 核心损失函数 (DPO Loss)
 
@@ -60,15 +99,23 @@ def logits_to_log_probs(logits, labels):
 def dpo_loss(ref_log_probs, policy_log_probs, mask, beta):
     # ref_log_probs 和 policy_log_probs 都是 shape: (batch_size, seq_len)
     # [https://github.com/jingyaogong/minimind/issues/298](https://github.com/jingyaogong/minimind/issues/298)
-    seq_lengths = mask.sum(dim=1, keepdim=True).clamp_min(1e-8)  # 防止零长度mask导致除零NaN
+    # 统计一行有多少个1, 防止零长度mask导致除零NaN
+    seq_lengths = mask.sum(dim=1, keepdim=True).clamp_min(1e-8)  
+    # 把padding位置的概率值清零, 只保留有效内容, sum把一句话所有Token的对数概率加起来。/seq_lengths做平均 
+    # [2B, L]->[2B, 1]
     ref_log_probs = (ref_log_probs * mask).sum(dim=1) / seq_lengths.squeeze()
+    # 同理
     policy_log_probs = (policy_log_probs * mask).sum(dim=1) / seq_lengths.squeeze()
 
     # 将 chosen 和 rejected 数据分开
     batch_size = ref_log_probs.shape[0]
+    # 前一半:参考模型对"好回答"的打分
     chosen_ref_log_probs = ref_log_probs[:batch_size // 2]
+    # 后一半:参考模型对"坏回答"的打分
     reject_ref_log_probs = ref_log_probs[batch_size // 2:]
+    # 前一半:训练模型对"好回答"的打分
     chosen_policy_log_probs = policy_log_probs[:batch_size // 2]
+    # 后一半:训练模型对"坏回答"的打分
     reject_policy_log_probs = policy_log_probs[batch_size // 2:]
 
     pi_logratios = chosen_policy_log_probs - reject_policy_log_probs
