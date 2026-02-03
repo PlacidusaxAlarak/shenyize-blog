@@ -9,7 +9,7 @@ interface Props {
 	class: string;
 	published: Date;
 	updated?: Date;
-	tags: string[];
+	tags?: string[];
 	category: string | null;
 	hideTagsForMobile?: boolean;
 	hideUpdateDate?: boolean;
@@ -21,7 +21,7 @@ interface Props {
 const {
 	published,
 	updated,
-	tags,
+	tags = [],
 	category,
 	hideTagsForMobile = false,
 	hideUpdateDate = false,

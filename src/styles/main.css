@@ -110,6 +110,15 @@
     .btn-regular-dark.success {
         @apply bg-[oklch(0.75_0.14_var(--hue))] dark:bg-[oklch(0.75_0.14_var(--hue))]
     }
+
+    .skip-link {
+        @apply fixed left-4 top-4 z-[1000] rounded-lg px-4 py-2 text-sm font-bold
+        bg-[var(--card-bg)] text-[var(--primary)] shadow-lg
+        -translate-y-16 opacity-0 transition;
+    }
+    .skip-link:focus-visible {
+        @apply translate-y-0 opacity-100;
+    }
 }
 
 .custom-md img, #post-cover img {
@@ -118,6 +127,15 @@
 
 ::selection {
     background-color: var(--selection-bg)
+}
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible,
+select:focus-visible {
+    outline: 2px solid var(--primary);
+    outline-offset: 3px;
 }
 
 .dash-line {

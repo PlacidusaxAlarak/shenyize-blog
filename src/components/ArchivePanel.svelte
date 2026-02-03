@@ -5,8 +5,8 @@ import I18nKey from "../i18n/i18nKey";
 import { i18n } from "../i18n/translation";
 import { getPostUrlBySlug } from "../utils/url-utils";
 
-export let tags: string[];
-export let categories: string[];
+export let tags: string[] = [];
+export let categories: string[] = [];
 export let sortedPosts: Post[] = [];
 
 const params = new URLSearchParams(window.location.search);
@@ -18,7 +18,7 @@ interface Post {
 	slug: string;
 	data: {
 		title: string;
-		tags: string[];
+		tags?: string[];
 		category?: string;
 		published: Date;
 	};
@@ -141,7 +141,7 @@ onMount(async () => {
                                 class="hidden md:block md:w-[15%] text-left text-sm transition
                      whitespace-nowrap overflow-ellipsis overflow-hidden text-30"
                         >
-                            {formatTag(post.data.tags)}
+                             {formatTag(post.data.tags ?? [])}
                         </div>
                     </div>
                 </a>

@@ -31,6 +31,32 @@ const fakeResult: SearchResult[] = [
 	},
 ];
 
+const sanitizeExcerpt = (html: string): string => {
+	if (typeof document === "undefined") return html;
+	const template = document.createElement("template");
+	template.innerHTML = html;
+
+	const walker = document.createTreeWalker(
+		template.content,
+		NodeFilter.SHOW_ELEMENT,
+	);
+	const toRemove: Element[] = [];
+
+	while (walker.nextNode()) {
+		const el = walker.currentNode as Element;
+		if (el.tagName !== "MARK") {
+			toRemove.push(el);
+		}
+	}
+
+	for (const el of toRemove) {
+		const replacement = document.createTextNode(el.textContent ?? "");
+		el.replaceWith(replacement);
+	}
+
+	return template.innerHTML;
+};
+
 const togglePanel = () => {
 	const panel = document.getElementById("search-panel");
 	panel?.classList.toggle("float-panel-closed");
@@ -76,11 +102,11 @@ const search = async (keyword: string, isDesktop: boolean): Promise<void> => {
 		}
 
 		result = searchResults;
-		setPanelVisibility(result.length > 0, isDesktop);
+		setPanelVisibility(true, isDesktop);
 	} catch (error) {
 		console.error("Search error:", error);
 		result = [];
-		setPanelVisibility(false, isDesktop);
+		setPanelVisibility(true, isDesktop);
 	} finally {
 		isSearching = false;
 	}
@@ -181,10 +207,16 @@ top-20 left-4 md:left-[unset] right-4 shadow-2xl rounded-2xl p-2">
                 {item.meta.title}<Icon icon="fa6-solid:chevron-right" class="transition text-[0.75rem] translate-x-1 my-auto text-[var(--primary)]"></Icon>
             </div>
             <div class="transition text-sm text-50">
-                {@html item.excerpt}
+                {@html sanitizeExcerpt(item.excerpt ?? "")}
             </div>
         </a>
     {/each}
+
+    {#if isSearching}
+        <div class="px-3 py-2 text-sm text-50">Searching...</div>
+    {:else if initialized && (keywordDesktop || keywordMobile) && result.length === 0}
+        <div class="px-3 py-2 text-sm text-50">No results.</div>
+    {/if}
 </div>
 
 <style>

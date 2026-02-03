@@ -13,7 +13,11 @@ function joinUrl(...parts: string[]): string {
 }
 
 export function getPostUrlBySlug(slug: string): string {
-	return url(`/posts/${slug}/`);
+	return url(`/posts/${normalizeSlug(slug)}/`);
+}
+
+export function getSolutionUrlBySlug(slug: string): string {
+	return url(`/solutions/${normalizeSlug(slug)}/`);
 }
 
 export function getTagUrl(tag: string): string {
@@ -37,6 +41,10 @@ export function getDir(path: string): string {
 		return "/";
 	}
 	return path.substring(0, lastSlashIndex + 1);
+}
+
+export function normalizeSlug(slug: string): string {
+	return slug.toLowerCase();
 }
 
 export function url(path: string) {

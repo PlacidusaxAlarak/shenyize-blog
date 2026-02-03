@@ -25,7 +25,7 @@ let links: NavBarLink[] = navBarConfig.links.map(
     <div class:list={[
         className,
         "card-base !overflow-visible max-w-[var(--page-width)] h-[4.5rem] !rounded-t-none mx-auto flex items-center justify-between px-4"]}>
-        <a href={url('/')} class="btn-plain scale-animation rounded-lg h-[3.25rem] px-5 font-bold active:scale-95">
+        <a href={url('/')} class="btn-plain scale-animation rounded-lg h-[3.25rem] px-5 font-bold active:scale-95 dock-item" data-dock-item>
             <div class="flex flex-row text-[var(--primary)] items-center text-md">
                 <Icon name="material-symbols:home-outline-rounded" class="text-[1.75rem] mb-1 mr-2" />
                 {siteConfig.title}
@@ -33,8 +33,9 @@ let links: NavBarLink[] = navBarConfig.links.map(
         </a>
         <div class="hidden md:flex">
             {links.map((l) => {
-                return <a aria-label={l.name} href={l.external ? l.url : url(l.url)} target={l.external ? "_blank" : null}
-                          class="btn-plain scale-animation rounded-lg h-11 font-bold px-5 active:scale-95"
+                return <a aria-label={l.name} href={l.external ? l.url : url(l.url)} target={l.external ? "_blank" : null} rel={l.external ? "noopener noreferrer" : undefined}
+                          class="btn-plain scale-animation rounded-lg h-11 font-bold px-5 active:scale-95 dock-item"
+                          data-dock-item
                 >
                     <div class="flex items-center">
                         {l.name}
@@ -103,6 +104,25 @@ function loadButtonScript() {
 
 loadButtonScript();
 </script>
+
+<style>
+    .dock-item {
+        transform: translateY(0) scale(1);
+        transform-origin: center bottom;
+        transition: transform 180ms ease, box-shadow 180ms ease;
+        will-change: transform;
+        z-index: 1;
+    }
+    .dock-item:hover {
+        transform: translateY(-3px) scale(1.3);
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.16);
+        z-index: 5;
+    }
+    .dock-item:focus-visible {
+        transform: translateY(-2px) scale(1.2);
+        box-shadow: 0 6px 14px rgba(0, 0, 0, 0.14);
+    }
+</style>
 
 {import.meta.env.PROD && <script is:inline define:vars={{scriptUrl: url('/pagefind/pagefind.js')}}>
 async function loadPagefind() {
