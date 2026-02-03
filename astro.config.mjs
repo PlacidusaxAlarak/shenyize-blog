@@ -24,6 +24,7 @@ import { parseDirectiveNode } from "./src/plugins/remark-directive-rehype.js";
 import { remarkExcerpt } from "./src/plugins/remark-excerpt.js";
 import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs";
 import { pluginCustomCopyButton } from "./src/plugins/expressive-code/custom-copy-button.js";
+import { rehypeLowercaseInternalLinks } from "./src/plugins/rehype-lowercase-internal-links.mjs";
 
 /* New: 引入 execSync 用于执行生成脚本 */
 import { execSync } from "node:child_process";
@@ -153,6 +154,7 @@ export default defineConfig({
         rehypePlugins: [
             rehypeKatex,
             rehypeSlug,
+            rehypeLowercaseInternalLinks,
             [
                 rehypeComponents,
                 {

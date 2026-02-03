@@ -12,9 +12,10 @@ const OUTPUT_FILE = path.join(POSTS_DIR, 'solutions.md');
 const TARGET_DIRS = ['Atcoder', 'CodeForces'];
 
 // --- 核心：生成的 MD 文件模版 ---
-const INDEX_FRONTMATTER = `---
+function buildIndexFrontmatter(publishedDate) {
+  return `---
 title: "算法题解索引"
-published: ${new Date().toISOString().split('T')[0]}
+published: ${publishedDate}
 description: "汇总所有 AtCoder 和 Codeforces 的算法题解索引。"
 tags: ["算法", "Atcoder", "CodeForces"]
 category: "算法"
@@ -32,26 +33,76 @@ draft: false
 :::
 
 `;
+}
 
 // --- 辅助函数 ---
+function extractFrontmatterBlock(content) {
+  const match = content.match(/^---\s*([\s\S]+?)\s*---/);
+  return match ? match[1] : "";
+}
+
+function normalizeFrontmatterValue(value) {
+  let normalized = value.trim();
+  if (
+    (normalized.startsWith('"') && normalized.endsWith('"')) ||
+    (normalized.startsWith("'") && normalized.endsWith("'"))
+  ) {
+    normalized = normalized.slice(1, -1);
+  }
+  return normalized.replace(/\s+/g, " ").trim();
+}
+
 function parseFrontmatter(content) {
-  const match = content.match(/^---\s+([\s\S]+?)\s+---/);
-  if (!match) return {};
-  
+  const block = extractFrontmatterBlock(content);
+  const lines = block.split("\n");
   const frontmatter = {};
-  const lines = match[1].split('\n');
-  for (const line of lines) {
-    const colonIndex = line.indexOf(':');
-    if (colonIndex !== -1) {
+  let currentKey = "";
+  let currentValue = "";
+  let quoteChar = "";
+
+  for (const rawLine of lines) {
+    const line = rawLine ?? "";
+    if (!currentKey) {
+      const colonIndex = line.indexOf(":");
+      if (colonIndex === -1) continue;
       const key = line.slice(0, colonIndex).trim();
       let value = line.slice(colonIndex + 1).trim();
-      if (value.startsWith('"') && value.endsWith('"')) {
-        value = value.slice(1, -1);
+      if (!value) {
+        frontmatter[key] = "";
+        continue;
       }
-      frontmatter[key] = value;
+      if (
+        (value.startsWith('"') && !value.endsWith('"')) ||
+        (value.startsWith("'") && !value.endsWith("'"))
+      ) {
+        currentKey = key;
+        currentValue = value;
+        quoteChar = value[0];
+        continue;
+      }
+      frontmatter[key] = normalizeFrontmatterValue(value);
+      continue;
+    }
+
+    currentValue += `\n${line}`;
+    if (line.trimEnd().endsWith(quoteChar)) {
+      frontmatter[currentKey] = normalizeFrontmatterValue(currentValue);
+      currentKey = "";
+      currentValue = "";
+      quoteChar = "";
     }
   }
+
+  if (currentKey) {
+    frontmatter[currentKey] = normalizeFrontmatterValue(currentValue);
+  }
+
   return frontmatter;
+}
+
+function normalizeDate(value) {
+  const match = value.match(/\d{4}-\d{2}-\d{2}/);
+  return match ? match[0] : "";
 }
 
 function getFiles(dir) {
@@ -69,7 +120,7 @@ function getFiles(dir) {
     
     return {
       title: fm.title || slug,
-      date: fm.published || '1970-01-01',
+      date: normalizeDate(fm.published) || '1970-01-01',
       // 2. 关键修改：生成链接时强制转为小写，以匹配 Astro 的路由规则
       link: `/posts/${dir.toLowerCase()}/${slug.toLowerCase()}/`, 
       filename: file
@@ -77,9 +128,18 @@ function getFiles(dir) {
   });
 }
 
+function getExistingPublishedDate() {
+  if (!fs.existsSync(OUTPUT_FILE)) return "";
+  const content = fs.readFileSync(OUTPUT_FILE, "utf-8");
+  const fm = parseFrontmatter(content);
+  return normalizeDate(fm.published);
+}
+
 // --- 主逻辑 ---
 async function generate() {
-  let markdownContent = INDEX_FRONTMATTER;
+  let markdownContent = "";
+  const existingPublished = getExistingPublishedDate();
+  let latestDate = "";
 
   for (const dir of TARGET_DIRS) {
     const posts = getFiles(dir);
@@ -87,6 +147,11 @@ async function generate() {
     if (posts.length === 0) continue;
 
     posts.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+    if (!latestDate) {
+      latestDate = posts[0].date;
+    } else if (new Date(posts[0].date).getTime() > new Date(latestDate).getTime()) {
+      latestDate = posts[0].date;
+    }
 
     markdownContent += `\n## ${dir} (${posts.length})\n\n`;
     
@@ -95,7 +160,14 @@ async function generate() {
     });
   }
 
-  fs.writeFileSync(OUTPUT_FILE, markdownContent, 'utf-8');
+  const publishedDate =
+    existingPublished ||
+    latestDate ||
+    new Date().toISOString().split("T")[0];
+  const indexFrontmatter = buildIndexFrontmatter(publishedDate);
+  const finalContent = `${indexFrontmatter}${markdownContent}`;
+
+  fs.writeFileSync(OUTPUT_FILE, finalContent, 'utf-8');
   console.log(`✅ 题解索引已更新 (Priority: 9): ${OUTPUT_FILE}`);
 }
 

@@ -2,7 +2,7 @@
 import { type CollectionEntry, getCollection } from "astro:content";
 import I18nKey from "@i18n/i18nKey";
 import { i18n } from "@i18n/translation";
-import { getCategoryUrl } from "@utils/url-utils.ts";
+import { getCategoryUrl, normalizeSlug } from "@utils/url-utils.ts";
 
 // Retrieve posts and sort them by priority (primary) and publication date (secondary)
 async function getRawSortedPosts() {
@@ -32,11 +32,11 @@ export async function getSortedPosts() {
     const sorted = await getRawSortedPosts();
 
     for (let i = 1; i < sorted.length; i++) {
-        sorted[i].data.nextSlug = sorted[i - 1].slug;
+        sorted[i].data.nextSlug = normalizeSlug(sorted[i - 1].slug);
         sorted[i].data.nextTitle = sorted[i - 1].data.title;
     }
     for (let i = 0; i < sorted.length - 1; i++) {
-        sorted[i].data.prevSlug = sorted[i + 1].slug;
+        sorted[i].data.prevSlug = normalizeSlug(sorted[i + 1].slug);
         sorted[i].data.prevTitle = sorted[i + 1].data.title;
     }
 
@@ -53,7 +53,7 @@ export async function getSortedPostsList(): Promise<PostForList[]> {
 
     // delete post.body
     const sortedPostsList = sortedFullPosts.map((post) => ({
-        slug: post.slug,
+        slug: normalizeSlug(post.slug),
         data: post.data,
     }));
 
@@ -66,17 +66,17 @@ export type Tag = {
 };
 
 export async function getTagList(): Promise<Tag[]> {
-    const allBlogPosts = await getCollection<"posts">("posts", ({ data }) => {
-        return import.meta.env.PROD ? data.draft !== true : true;
-    });
+	const allBlogPosts = await getCollection<"posts">("posts", ({ data }) => {
+		return import.meta.env.PROD ? data.draft !== true : true;
+	});
 
-    const countMap: { [key: string]: number } = {};
-    allBlogPosts.forEach((post: { data: { tags: string[] } }) => {
-        post.data.tags.forEach((tag: string) => {
-            if (!countMap[tag]) countMap[tag] = 0;
-            countMap[tag]++;
-        });
-    });
+	const countMap: { [key: string]: number } = {};
+	allBlogPosts.forEach((post: { data: { tags?: string[] } }) => {
+		(post.data.tags ?? []).forEach((tag: string) => {
+			if (!countMap[tag]) countMap[tag] = 0;
+			countMap[tag]++;
+		});
+	});
 
     // sort tags
     const keys: string[] = Object.keys(countMap).sort((a, b) => {
@@ -130,25 +130,32 @@ export async function getCategoryList(): Promise<Category[]> {
 // --- 请添加到 src/utils/content-utils.ts 文件的末尾 ---
 
 export async function getSortedSolutions() {
-    // 获取所有文章
-    const sorted = await getRawSortedPosts();
-    
-    // 过滤逻辑：只保留分类为 "算法" 的文章，或者是包含 "AtCoder"/"Codeforces" 标签的文章
-    // 你可以根据需要修改这里的判断条件
-    const solutions = sorted.filter(post => 
-        post.data.category === '算法' || 
-        post.data.tags?.includes('AtCoder') || 
-        post.data.tags?.includes('Codeforces')
-    );
+	// 获取所有文章
+	const sorted = await getRawSortedPosts();
+
+	// 过滤逻辑：只保留分类为 "算法" 的文章，或者是包含 "AtCoder"/"Codeforces" 标签的文章
+	// 你可以根据需要修改这里的判断条件
+	const solutions = sorted.filter((post) => {
+		const category =
+			typeof post.data.category === "string" ? post.data.category.trim() : "";
+		const normalizedTags = (post.data.tags ?? []).map((tag) =>
+			tag.trim().toLowerCase(),
+		);
+		return (
+			category === "算法" ||
+			normalizedTags.includes("atcoder") ||
+			normalizedTags.includes("codeforces")
+		);
+	});
 
     // 为筛选出来的题解列表重新计算 "上一篇/下一篇"
     // 这样在浏览题解时，点击 "下一篇" 会跳转到下一个题解，而不是跳转到其他生活类博客
     for (let i = 1; i < solutions.length; i++) {
-        solutions[i].data.nextSlug = solutions[i - 1].slug;
+        solutions[i].data.nextSlug = normalizeSlug(solutions[i - 1].slug);
         solutions[i].data.nextTitle = solutions[i - 1].data.title;
     }
     for (let i = 0; i < solutions.length - 1; i++) {
-        solutions[i].data.prevSlug = solutions[i + 1].slug;
+        solutions[i].data.prevSlug = normalizeSlug(solutions[i + 1].slug);
         solutions[i].data.prevTitle = solutions[i + 1].data.title;
     }
 

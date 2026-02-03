@@ -29,6 +29,7 @@ interface Props {
 }
 
 let { title, banner, description, lang, setOGTypeArticle } = Astro.props;
+const pageBanner = banner;
 
 // apply a class to the body element to decide the height of the banner, only used for initial page load
 // Swup can update the body for each page visit, but it's after the page transition, causing a delay for banner height change
@@ -46,6 +47,26 @@ if (!banner || typeof banner !== "string" || banner.trim() === "") {
 banner = siteConfig.banner.src;
 
 const enableBanner = siteConfig.banner.enable;
+
+const isAbsoluteUrl = (value: string) =>
+	value.startsWith("http://") || value.startsWith("https://");
+const isPublicPath = (value: string) =>
+	value.startsWith("/") || isAbsoluteUrl(value);
+const isVideoPath = (value: string) =>
+	value.endsWith(".mp4") || value.endsWith(".webm");
+const defaultOgImage = "/favicon/favicon-light-192.png";
+const ogCandidate =
+	typeof pageBanner === "string" && pageBanner.trim() !== ""
+		? pageBanner.trim()
+		: "";
+const ogImagePath =
+	ogCandidate && isPublicPath(ogCandidate) && !isVideoPath(ogCandidate)
+		? ogCandidate
+		: defaultOgImage;
+const siteBase = Astro.site ?? Astro.url.origin;
+const ogImageUrl = isAbsoluteUrl(ogImagePath)
+	? ogImagePath
+	: new URL(ogImagePath, siteBase).href;
 
 let pageTitle: string;
 if (title) {
@@ -88,6 +109,8 @@ const bannerOffset =
 		<meta property="og:url" content={Astro.url}>
 		<meta property="og:title" content={pageTitle}>
 		<meta property="og:description" content={description || pageTitle}>
+		<meta property="og:image" content={ogImageUrl}>
+		<meta property="og:image:alt" content={title ? `${title} - ${siteConfig.title}` : siteConfig.title}>
 		{setOGTypeArticle ? (
         <meta property="og:type" content="article" />
         ) : (
@@ -98,6 +121,8 @@ const bannerOffset =
 		<meta property="twitter:url" content={Astro.url}>
 		<meta name="twitter:title" content={pageTitle}>
 		<meta name="twitter:description" content={description || pageTitle}>
+		<meta name="twitter:image" content={ogImageUrl}>
+		<link rel="canonical" href={Astro.url} />
 
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
@@ -147,6 +172,7 @@ const bannerOffset =
 	<body class=" min-h-screen transition " class:list={[{"lg:is-home": isHomePage, "enable-banner": enableBanner}]}
 		  data-overlayscrollbars-initialize
 	>
+		<a class="skip-link" href="#swup-container">跳到内容</a>
 		<ConfigCarrier></ConfigCarrier>
 		<slot />
 

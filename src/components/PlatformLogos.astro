@@ -1,0 +1,78 @@
+---
+interface Props {
+	tags?: string[];
+	slug?: string;
+	class?: string;
+}
+
+const { tags = [], slug = "", class: className } = Astro.props;
+
+const normalizedTags = tags.map((tag) => tag.trim().toLowerCase());
+const normalizedSlug = slug.toLowerCase();
+
+const hasCodeforces =
+	normalizedTags.includes("codeforces") || normalizedSlug.includes("codeforces");
+const hasAtcoder =
+	normalizedTags.includes("atcoder") || normalizedSlug.includes("atcoder");
+
+const platforms = [
+	...(hasCodeforces ? ["codeforces"] : []),
+	...(hasAtcoder ? ["atcoder"] : []),
+];
+---
+
+{platforms.length > 0 && (
+	<div class:list={["flex flex-wrap items-center gap-2", className]}>
+		{platforms.map((platform) => (
+			<div
+				class="flex items-center gap-1.5 rounded-md border border-black/5 bg-black/5 px-2 py-1 text-xs text-black/70 dark:border-white/10 dark:bg-white/10 dark:text-white/80"
+				title={platform === "codeforces" ? "Codeforces" : "AtCoder"}
+				aria-label={platform === "codeforces" ? "Codeforces logo" : "AtCoder logo"}
+			>
+				{platform === "codeforces" ? (
+					<svg
+						viewBox="0 0 120 24"
+						class="h-4 w-auto"
+						role="img"
+						aria-label="Codeforces logo"
+					>
+						<rect x="0" y="4" width="8" height="8" rx="1.5" fill="#1f8acb" />
+						<rect x="10" y="4" width="8" height="8" rx="1.5" fill="#f44336" />
+						<rect x="0" y="14" width="8" height="8" rx="1.5" fill="#f4c20d" />
+						<rect x="10" y="14" width="8" height="8" rx="1.5" fill="#00a152" />
+						<text
+							x="24"
+							y="16"
+							font-size="13.5"
+							font-weight="700"
+							font-family="Roboto, Arial, sans-serif"
+							fill="currentColor"
+							dominant-baseline="middle"
+						>
+							Codeforces
+						</text>
+					</svg>
+				) : (
+					<svg
+						viewBox="0 0 110 24"
+						class="h-4 w-auto"
+						role="img"
+						aria-label="AtCoder logo"
+					>
+						<text
+							x="0"
+							y="16"
+							font-size="14"
+							font-weight="700"
+							font-family="Roboto, Arial, sans-serif"
+							dominant-baseline="middle"
+						>
+							<tspan fill="#1f8acb">At</tspan>
+							<tspan fill="currentColor">Coder</tspan>
+						</text>
+					</svg>
+				)}
+			</div>
+		))}
+	</div>
+)}

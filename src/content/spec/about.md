@@ -13,6 +13,16 @@ title: 关于我
 ### 兴趣爱好
 除了写代码，我还喜欢：
 * **体育锻炼**：尤其喜欢骑自行车，目前已经骑车前往上海，无锡，张家港，常熟等地。
+  <div class="ride-gallery">
+    <figure>
+      <img src="/images/about/ride_1.jpg" alt="骑行记录截图：156.13 公里" loading="lazy" decoding="async" />
+      <figcaption>156.13 公里挑战</figcaption>
+    </figure>
+    <figure>
+      <img src="/images/about/ride_2.jpg" alt="骑行记录截图：130.65 公里" loading="lazy" decoding="async" />
+      <figcaption>130.65 公里挑战</figcaption>
+    </figure>
+  </div>
 * **电子游戏**：尤其喜欢泰拉瑞亚、原神以及战略类游戏。
 * **探索研究**：折腾各种有趣的开源项目，探索 AI 的前沿技术。
 
