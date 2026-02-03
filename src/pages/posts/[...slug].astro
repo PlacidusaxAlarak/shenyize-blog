@@ -117,15 +117,16 @@ const jsonLd = {
 
             <!-- metadata -->
             <div class="onload-animation">
-                <PostMetadata
-                        class="mb-5"
-                        published={entry.data.published}
-                        updated={entry.data.updated}
-                        tags={entry.data.tags}
-                        category={entry.data.category}
-                        wordCount={entry.data.wordCount}  
-                        readingTime={entry.data.readingTime}
-                ></PostMetadata>
+			<PostMetadata
+					class="mb-5"
+					published={entry.data.published}
+					updated={entry.data.updated}
+					tags={entry.data.tags}
+					category={entry.data.category}
+					wordCount={entry.data.wordCount}  
+					readingTime={entry.data.readingTime}
+					showViews={true}
+			></PostMetadata>
                 {!entry.data.image && <div class="border-[var(--line-divider)] border-dashed border-b-[1px] mb-5"></div>}
             </div>
 

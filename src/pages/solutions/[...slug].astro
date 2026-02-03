@@ -125,13 +125,14 @@ const jsonLd = {
             </div>
 
             <div class="onload-animation">
-                <PostMetadata
-                        class="mb-5"
-                        published={entry.data.published}
-                        updated={entry.data.updated}
-                        tags={entry.data.tags}
-                        category={entry.data.category}
-                ></PostMetadata>
+			<PostMetadata
+					class="mb-5"
+					published={entry.data.published}
+					updated={entry.data.updated}
+					tags={entry.data.tags}
+					category={entry.data.category}
+					showViews={true}
+			></PostMetadata>
                 
                 {entry.data.algorithms && entry.data.algorithms.length > 0 && (
                     <div class="flex flex-wrap gap-2 mb-5">
