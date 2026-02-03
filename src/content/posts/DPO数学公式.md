@@ -1,3 +1,14 @@
+---
+title: PPO (RLHF) 到 DPO 的完整数学推导
+published: 2026-02-03
+description: '严格按照 DPO 论文推导 Section 3-4 及 Appendix A.1-A.2 的核心公式。'
+tags: [LLM, Reinforcement Learning, DPO, Math]
+category: 'Reinforcement Learning'
+draft: false
+lang: 'zh'
+priority: 5
+---
+
 # PPO (RLHF) 到 DPO 的完整数学推导
 
 本文档严格按照 DPO 论文（*Direct Preference Optimization: Your Language Model is Secretly a Reward Model*）的逻辑，推导 Section 3-4 及 Appendix A.1-A.2 的核心公式。
