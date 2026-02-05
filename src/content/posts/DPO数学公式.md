@@ -1,4 +1,4 @@
----
+﻿---
 title: PPO (RLHF) 到 DPO 的完整数学推导
 published: 2026-02-03
 description: '严格按照 DPO 论文推导 Section 3-4 及 Appendix A.1-A.2 的核心公式。'
@@ -96,7 +96,22 @@ $$
 \log \pi^*(y|x) = -\log Z(x) + \log \pi_{\text{ref}}(y|x) + \frac{1}{\beta} r(x,y)
 $$
 
-移项可得关键恒等式：
+先移项解出 $r(x,y)$ 的表达式：
+$$
+\frac{1}{\beta} r(x,y) = \log \pi^*(y|x) - \log \pi_{\text{ref}}(y|x) + \log Z(x)
+$$
+
+将其逐步代入 $\log \frac{\pi(y|x)}{\pi_{\text{ref}}(y|x)} - \frac{1}{\beta} r(x,y)$：
+$$
+\begin{aligned}
+\log \frac{\pi(y|x)}{\pi_{\text{ref}}(y|x)} - \frac{1}{\beta} r(x,y)
+&= \log \pi(y|x) - \log \pi_{\text{ref}}(y|x) - \frac{1}{\beta} r(x,y) \\
+&= \log \pi(y|x) - \log \pi_{\text{ref}}(y|x) - \Big(\log \pi^*(y|x) - \log \pi_{\text{ref}}(y|x) + \log Z(x)\Big) \\
+&= \log \pi(y|x) - \log \pi^*(y|x) - \log Z(x) \\
+&= \log \frac{\pi(y|x)}{\pi^*(y|x)} - \log Z(x)
+\end{aligned}
+$$
+即得到关键恒等式：
 $$
 \log \frac{\pi(y|x)}{\pi_{\text{ref}}(y|x)} - \frac{1}{\beta} r(x,y) = \log \frac{\pi(y|x)}{\pi^*(y|x)} - \log Z(x) \tag{6}
 $$
@@ -108,6 +123,16 @@ $$
 \right]
 $$
 
+逐项展开求和：
+$$
+\sum_y \pi(y|x)\left(\log \frac{\pi(y|x)}{\pi^*(y|x)} - \log Z(x)\right)
+= \sum_y \pi(y|x)\log \frac{\pi(y|x)}{\pi^*(y|x)} - \log Z(x)\sum_y \pi(y|x).
+$$
+由于 $\sum_y \pi(y|x)=1$，上式化为
+$$
+\sum_y \pi(y|x)\log \frac{\pi(y|x)}{\pi^*(y|x)} - \log Z(x)
+= D_{\mathrm{KL}}(\pi(\cdot|x)\|\pi^*(\cdot|x)) - \log Z(x).
+$$
 由于 $\sum_y \pi(y|x) \log Z(x) = \log Z(x)$（与 $y$ 无关），目标变为：
 $$
 \min_{\pi} \mathbb{E}_{x} \left[ 
@@ -115,7 +140,95 @@ D_{\mathrm{KL}}(\pi(\cdot|x) \| \pi^*(\cdot|x)) - \log Z(x)
 \right] \tag{7}
 $$
 
+:::note
+提示：虽然 $Z(x)$ 的定义里含有 $r(x,y)$，但其中的 $y$ 是内部求和变量，求和完成后只剩下 $x$ 的函数。因此 $\log Z(x)$ 对外层 $\sum_y \pi(y|x)$ 来说是常数，有 $\sum_y \pi(y|x)\log Z(x)=\log Z(x)$。
+:::
+
+### 2.5.1 两条等价路线
+:::note
+路线 A（拉格朗日乘子法，逐步求解）：
+对固定的 $x$，最小化式 (3) 的内层目标
+$$
+\min_{\pi(\cdot|x)} \sum_y \pi(y|x)\left(\log \frac{\pi(y|x)}{\pi_{\text{ref}}(y|x)}-\frac{1}{\beta}r(x,y)\right),
+$$
+并满足约束 $\sum_y \pi(y|x)=1$。将目标展开为显式形式：
+$$
+\sum_y \pi(y|x)\log \pi(y|x)-\sum_y \pi(y|x)\log \pi_{\text{ref}}(y|x)-\frac{1}{\beta}\sum_y \pi(y|x)r(x,y).
+$$
+构造拉格朗日函数：
+$$
+\mathcal{L}=\sum_y \pi(y|x)\log \pi(y|x)-\sum_y \pi(y|x)\log \pi_{\text{ref}}(y|x)-\frac{1}{\beta}\sum_y \pi(y|x)r(x,y)+\lambda\Big(\sum_y \pi(y|x)-1\Big).
+$$
+对每个 $y$ 求偏导并令其为 0（注意 $\frac{\partial}{\partial \pi}\pi\log\pi=\log\pi+1$）：
+$$
+\frac{\partial \mathcal{L}}{\partial \pi(y|x)}=\log \pi(y|x)+1-\log \pi_{\text{ref}}(y|x)-\frac{1}{\beta}r(x,y)+\lambda=0.
+$$
+移项得到
+$$
+\log \pi(y|x)=\log \pi_{\text{ref}}(y|x)+\frac{1}{\beta}r(x,y)-(1+\lambda).
+$$
+两边取指数：
+$$
+\pi(y|x)=\exp(-(1+\lambda))\,\pi_{\text{ref}}(y|x)\exp\left(\frac{1}{\beta}r(x,y)\right).
+$$
+令 $Z(x)=\exp(1+\lambda)$，得到
+$$
+\pi^*(y|x)=\frac{1}{Z(x)}\pi_{\text{ref}}(y|x)\exp\left(\frac{1}{\beta}r(x,y)\right).
+$$
+最后用归一化条件 $\sum_y \pi^*(y|x)=1$ 解出
+$$
+Z(x)=\sum_y \pi_{\text{ref}}(y|x)\exp\left(\frac{1}{\beta}r(x,y)\right).
+$$
+:::
+
+:::note
+路线 B（改写为 KL + 常数，逐步等价变形）：
+从定义 (5) 出发，先写出
+$$
+\log \pi^*(y|x)=-\log Z(x)+\log \pi_{\text{ref}}(y|x)+\frac{1}{\beta}r(x,y).
+$$
+移项得到
+$$
+\frac{1}{\beta}r(x,y)=\log \pi^*(y|x)-\log \pi_{\text{ref}}(y|x)+\log Z(x).
+$$
+代入到式 (3) 的被积项：
+$$
+\begin{aligned}
+\log \frac{\pi(y|x)}{\pi_{\text{ref}}(y|x)}-\frac{1}{\beta}r(x,y)
+&=\log \pi(y|x)-\log \pi_{\text{ref}}(y|x)-\frac{1}{\beta}r(x,y) \\
+&=\log \pi(y|x)-\log \pi_{\text{ref}}(y|x)-\Big(\log \pi^*(y|x)-\log \pi_{\text{ref}}(y|x)+\log Z(x)\Big) \\
+&=\log \pi(y|x)-\log \pi^*(y|x)-\log Z(x) \\
+&=\log \frac{\pi(y|x)}{\pi^*(y|x)}-\log Z(x).
+\end{aligned}
+$$
+对 $y$ 求和：
+$$
+\sum_y \pi(y|x)\left(\log \frac{\pi(y|x)}{\pi^*(y|x)}-\log Z(x)\right)
+=\sum_y \pi(y|x)\log \frac{\pi(y|x)}{\pi^*(y|x)}-\log Z(x)\sum_y \pi(y|x),
+$$
+而 $\sum_y \pi(y|x)=1$，因此目标变为
+$$
+D_{\mathrm{KL}}(\pi(\cdot|x)\|\pi^*(\cdot|x))-\log Z(x).
+$$
+利用 KL 非负性，最优解满足
+$$
+D_{\mathrm{KL}}(\pi(\cdot|x)\|\pi^*(\cdot|x))=0 \Rightarrow \pi=\pi^*.
+$$
+:::
+
 ### 2.5 利用 Gibbs 不等式求解
+:::note
+Gibbs 不等式（KL 非负性）证明：对离散分布 $p,q$，记 $u=\frac{q_i}{p_i}$，利用不等式 $\log u \le u-1$（当且仅当 $u=1$ 取等），有
+$$
+\log \frac{p_i}{q_i} = -\log \frac{q_i}{p_i} \ge 1-\frac{q_i}{p_i}.
+$$
+两边乘以 $p_i$ 并对 $i$ 求和：
+$$
+\sum_i p_i \log \frac{p_i}{q_i} \ge \sum_i (p_i-q_i)=0.
+$$
+因此 $D_{\mathrm{KL}}(p\|q)\ge 0$，且当且仅当 $p=q$ 取等。
+:::
+
 根据 Gibbs 不等式（即 KL 散度非负性）：
 $$
 D_{\mathrm{KL}}(p \| q) \ge 0, \quad D_{\mathrm{KL}}(p \| q) = 0 \iff p = q
@@ -125,6 +238,18 @@ $$
 $$
 \boxed{\pi^*(y|x) = \frac{1}{Z(x)} \pi_{\text{ref}}(y|x) \exp\left( \frac{1}{\beta} r(x,y) \right)} \tag{论文 Eq.4}
 $$
+
+:::note
+关于“为什么 $\pi^*=\pi$”：由式 (7) 得目标为
+$$
+\min_{\pi}\; D_{\mathrm{KL}}(\pi(\cdot|x)\|\pi^*(\cdot|x))-\log Z(x).
+$$
+其中 $-\log Z(x)$ 与 $\pi$ 无关，因此等价于最小化 KL 散度。由 Gibbs 不等式，
+$$
+D_{\mathrm{KL}}(\pi\|\pi^*)\ge 0,\quad D_{\mathrm{KL}}(\pi\|\pi^*)=0 \iff \pi=\pi^*,
+$$
+故最优解满足 $\pi=\pi^*$。式 (4) 只是给出了这个最优分布 $\pi^*$ 的显式形式。
+:::
 
 ---
 
