@@ -117,11 +117,14 @@ def dpo_loss(ref_log_probs, policy_log_probs, mask, beta):
     chosen_policy_log_probs = policy_log_probs[:batch_size // 2]
     # 后一半:训练模型对"坏回答"的打分
     reject_policy_log_probs = policy_log_probs[batch_size // 2:]
-
+    # 策略模型对优选回答 vs 拒绝回答 的对数概率差
     pi_logratios = chosen_policy_log_probs - reject_policy_log_probs
+    # 参考模型对优选回答 vs 拒绝回答 的对数概率差
     ref_logratios = chosen_ref_log_probs - reject_ref_log_probs
     logits = pi_logratios - ref_logratios
+    # 损失函数
     loss = -F.logsigmoid(beta * logits)
+    # 取平均
     return loss.mean()
 
 ```
@@ -139,12 +142,15 @@ def train_epoch(epoch, loader, iters, ref_model, lm_config, start_step=0, wandb=
     start_time = time.time()
     
     for step, batch in enumerate(loader, start=start_step + 1):
+        # chosen与rejected的输入token
         x_chosen = batch['x_chosen'].to(args.device)
         x_rejected = batch['x_rejected'].to(args.device)
+        # 对应监督目标
         y_chosen = batch['y_chosen'].to(args.device)
         y_rejected = batch['y_rejected'].to(args.device)
         mask_chosen = batch['mask_chosen'].to(args.device)
         mask_rejected = batch['mask_rejected'].to(args.device)
+        # 拼接成一个大batch
         x = torch.cat([x_chosen, x_rejected], dim=0)
         y = torch.cat([y_chosen, y_rejected], dim=0)
         mask = torch.cat([mask_chosen, mask_rejected], dim=0)
@@ -152,14 +158,19 @@ def train_epoch(epoch, loader, iters, ref_model, lm_config, start_step=0, wandb=
         lr = get_lr(epoch * iters + step, args.epochs * iters, args.learning_rate)
         for param_group in optimizer.param_groups:
             param_group['lr'] = lr
-
+        # 混合精读上下文，减少显存
         with autocast_ctx:
+            # 关闭梯度记录，因为这里的参考模型只用来打分，不需要反向传播
             with torch.no_grad():
+                # x:[2B, L]
                 ref_outputs = ref_model(x)
+                # ref_logits:[2B, L, V], 模型输出的Logits
                 ref_logits = ref_outputs.logits
+            # y:[2B, L], ref_log_probs:[2B, L], 每个位置只保留一个数，即该位置目标词的logp
             ref_log_probs = logits_to_log_probs(ref_logits, y)
-            
+            # 前向传播计算
             outputs = model(x)
+            # 获得分数[2B, L, V]
             logits = outputs.logits
             policy_log_probs = logits_to_log_probs(logits, y)
 
@@ -170,16 +181,22 @@ def train_epoch(epoch, loader, iters, ref_model, lm_config, start_step=0, wandb=
 获取概率后，调用 `dpo_loss` 计算偏好损失，并加上辅助损失（Aux Loss，通常用于 MoE 负载均衡等）。随后进行标准的混合精度反向传播、梯度裁剪和参数更新。
 
 ```python
+            # 计算DPO主损失
             dpo_loss_val = dpo_loss(ref_log_probs, policy_log_probs, mask, beta=beta)
+            # 辅助损失
             loss = dpo_loss_val + outputs.aux_loss
+            # 不除以N会导致N次梯度直接相加，等效于把学习率放大N倍
             loss = loss / args.accumulation_steps
-
+        # 混合精度训练里的反向传播算法
         scaler.scale(loss).backward()
 
         if (step + 1) % args.accumulation_steps == 0:
             scaler.unscale_(optimizer)
+            # 梯度裁剪
             torch.nn.utils.clip_grad_norm_(model.parameters(), args.grad_clip)
+            # 优化器更新
             scaler.step(optimizer)
+            # 动态调整下一步的缩放因子
             scaler.update()
             optimizer.zero_grad(set_to_none=True)
 
@@ -190,6 +207,7 @@ def train_epoch(epoch, loader, iters, ref_model, lm_config, start_step=0, wandb=
 最后，负责记录训练日志（Loss, LR, Time）、上传 WandB 数据，并根据设定的间隔保存模型权重和 Checkpoint 状态，以便后续恢复或推理使用。
 
 ```python
+        # 记日志信息
         if step % args.log_interval == 0 or step == iters - 1:
             spend_time = time.time() - start_time
             current_loss = loss.item() * args.accumulation_steps
@@ -256,7 +274,7 @@ if __name__ == "__main__":
     parser.add_argument("--use_compile", default=0, type=int, choices=[0, 1], help="是否使用torch.compile加速（0=否，1=是）")
     args = parser.parse_args()
 
-    # ========== 1. 初始化环境和随机种子 ==========
+    # 初始化环境和随机种子
     local_rank = init_distributed_mode()
     if dist.is_initialized(): args.device = f"cuda:{local_rank}"
     setup_seed(42 + (dist.get_rank() if dist.is_initialized() else 0))
@@ -268,17 +286,17 @@ if __name__ == "__main__":
 在此阶段，我们初始化混合精度环境、WandB 监控，并加载 Policy Model。最关键的一步是**加载并冻结 Reference Model**，确保它在训练过程中保持不变，作为 KL 散度的基准。
 
 ```python
-    # ========== 2. 配置目录、模型参数、检查ckp ==========
+    # 配置目录、模型参数、检查ckpt
     os.makedirs(args.save_dir, exist_ok=True)
     lm_config = MiniMindConfig(hidden_size=args.hidden_size, num_hidden_layers=args.num_hidden_layers, use_moe=bool(args.use_moe))
     ckp_data = lm_checkpoint(lm_config, weight=args.save_weight, save_dir='../checkpoints') if args.from_resume==1 else None
     
-    # ========== 3. 设置混合精度 ==========
+    # 设置混合精度
     device_type = "cuda" if "cuda" in args.device else "cpu"
     dtype = torch.bfloat16 if args.dtype == "bfloat16" else torch.float16
     autocast_ctx = nullcontext() if device_type == "cpu" else torch.cuda.amp.autocast(dtype=dtype)
     
-    # ========== 4. 配wandb ==========
+    # 配wandb
     wandb = None
     if args.use_wandb and is_main_process():
         import swanlab as wandb
@@ -287,7 +305,7 @@ if __name__ == "__main__":
         wandb_run_name = f"MiniMind-DPO-Epoch-{args.epochs}-BatchSize-{args.batch_size}-LR-{args.learning_rate}"
         wandb.init(project=args.wandb_project, name=wandb_run_name, id=wandb_id, resume=resume)
     
-    # ========== 5. 定义模型和参考模型 ==========
+    # 5. 定义模型和参考模型
     model, tokenizer = init_model(lm_config, args.from_weight, device=args.device)
     if args.use_compile == 1:
         model = torch.compile(model)
@@ -311,7 +329,7 @@ if __name__ == "__main__":
 最后，如果存在 Checkpoint，则恢复模型和优化器状态。接着使用 DDP 封装模型，利用 `SkipBatchSampler` 处理断点续训的数据对齐，开始 Epoch 循环，并在结束后清理分布式进程组。
 
 ```python
-    # ========== 6. 从ckp恢复状态 ==========
+    # 6. 从ckpt恢复状态
     start_epoch, start_step = 0, 0
     if ckp_data:
         model.load_state_dict(ckp_data['model'])
@@ -320,12 +338,12 @@ if __name__ == "__main__":
         start_epoch = ckp_data['epoch']
         start_step = ckp_data.get('step', 0)
     
-    # ========== 7. DDP包模型 ==========
+    # DDP包模型
     if dist.is_initialized():
         model._ddp_params_and_buffers_to_ignore = {"freqs_cos", "freqs_sin"}
         model = DistributedDataParallel(model, device_ids=[local_rank])
     
-    # ========== 8. 开始训练 ==========
+    # 开始训练
     for epoch in range(start_epoch, args.epochs):
         train_sampler and train_sampler.set_epoch(epoch)
         setup_seed(42 + epoch); indices = torch.randperm(len(train_ds)).tolist()
@@ -338,7 +356,7 @@ if __name__ == "__main__":
         else:
             train_epoch(epoch, loader, len(loader), ref_model, lm_config, 0, wandb, args.beta)
     
-    # ========== 9. 清理分布进程 ==========
+    # 清理分布进程
     if dist.is_initialized(): dist.destroy_process_group()
 
 ```
