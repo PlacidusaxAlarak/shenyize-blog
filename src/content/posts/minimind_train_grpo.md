@@ -254,46 +254,56 @@ def grpo_train_epoch(epoch, loader, iters, ref_model, reward_model, reward_token
             for logits_row, ids_row in zip(logits, input_ids[:, -n_keep:]):
                 # logits_row是某一条样本的[n_keep, V], ids_row是同一条样本的[n_keep]
                 ids_row = ids_row.detach().clone() if ids_row.is_inference() else ids_row
-                
+                # unsqueeze(1)后变成[n_keepp, 1], 在词表维度上按照真实token id取值, 得到每个位置对应真实token的log概率, 形状为[n_keep, 1], squeeze(1)去掉多余维度, 得到[n_keep]
                 per_token_logps.append(torch.gather(logits_row.log_softmax(dim=-1), 1, ids_row.unsqueeze(1)).squeeze(1))
+            # 所有样本拼接成张量, 最终形状[N, n_keep]
             return torch.stack(per_token_logps)
-
+        # 进入自动混合精读上下文
         with autocast_ctx:
+            # 计算最后R个token的逐token log概率, 返回形状[B*G, R]
             per_token_logps = get_per_token_logps(model, outputs, completion_ids.size(1))  # [B*num_gen, R]
+            # 如果是MoE, 再跑一次拿到MoE的辅助输出
             res = model(outputs) if lm_config.use_moe else None
             aux_loss = res.aux_loss if res is not None else torch.tensor(0.0, device=args.device)
         
         with torch.no_grad():
+            # 用参考模型计算同样输出序列的逐token log概率, 形状[B*G, R]
             ref_per_token_logps = get_per_token_logps(ref_model, outputs, completion_ids.size(1))  # [B*num_gen, R]
-
+        # 解码成文本
         completions = tokenizer.batch_decode(completion_ids, skip_special_tokens=True)
+        # 用奖励模型计算每条response的标量奖励
         rewards = calculate_rewards(prompts, completions, reward_model, reward_tokenizer).to(args.device)  # [B*num_gen]
-
+        # 按照prompt分组, 计算优势, [B, G]
         grouped_rewards = rewards.view(-1, args.num_generations)  # [B, num_gen]
+        # 求均值/标准差并广播回[B*G]
         mean_r = grouped_rewards.mean(dim=1).repeat_interleave(args.num_generations)  # [B*num_gen]
         std_r = grouped_rewards.std(dim=1).repeat_interleave(args.num_generations)  # [B*num_gen]
+        # 计算标准化优势
         advantages = torch.clamp((rewards - mean_r) / (std_r + 1e-4), -10, 10)
         advantages = (advantages - advantages.mean()) / (advantages.std() + 1e-8)  # [B*num_gen]
-
+        # 计算每条样本第一个EOS的位置, 没有就默认R
         is_eos = completion_ids == tokenizer.eos_token_id  # [B*num_gen, R]
         eos_idx = torch.full((is_eos.size(0),), is_eos.size(1), dtype=torch.long, device=args.device)
         eos_idx[is_eos.any(dim=1)] = is_eos.int().argmax(dim=1)[is_eos.any(dim=1)]
         completion_mask = (torch.arange(is_eos.size(1), device=args.device).expand(is_eos.size(0), -1) <= eos_idx.unsqueeze(1)).int()  # [B*num_gen, R]
-
+        # 相当于 log p_ref - log p_pi
         kl_div = ref_per_token_logps - per_token_logps
+        # KL的一种平滑形式, 来自exp(x)-x-1, 数值稳定且对偏离有惩罚
         per_token_kl = torch.exp(kl_div) - kl_div - 1  # [B*num_gen, R]
+        # 前向值为exp(0)=1, 但反向梯度等价于 ∇log π_θ, 再乘以优势
         per_token_loss = -(torch.exp(per_token_logps - per_token_logps.detach()) * advantages.unsqueeze(1) - args.beta * per_token_kl)  # [B*num_gen, R]
+        # 做反向传播
         policy_loss = ((per_token_loss * completion_mask).sum(dim=1) / completion_mask.sum(dim=1)).mean()
         loss = (policy_loss + aux_loss) / args.accumulation_steps  # scalar
         loss.backward()
-
+        # 参数更新
         if (step + 1) % args.accumulation_steps == 0:
             if args.grad_clip > 0:
                 torch.nn.utils.clip_grad_norm_(model.parameters(), args.grad_clip)
             optimizer.step()
             scheduler.step()
             optimizer.zero_grad()
-
+        # 日志打印, wandb记录
         if step % args.log_interval == 0 or step == iters:
             policy_loss_val = loss.item() * args.accumulation_steps
             current_aux_loss = aux_loss.item()
