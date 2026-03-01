@@ -20,5 +20,10 @@
   },
   "frontMatter.dashboard.openOnStart": false,
   "python-envs.defaultEnvManager": "ms-python.python:conda",
-  "python-envs.defaultPackageManager": "ms-python.python:conda"
+  "python-envs.defaultPackageManager": "ms-python.python:conda",
+  "code-runner.runInTerminal": true,
+  "code-runner.executorMap": {
+    "python": "chcp 65001 | Out-Null; python -u \"$file\""
+  },
+  "terminal.integrated.defaultProfile.windows": "PowerShell"
 }
