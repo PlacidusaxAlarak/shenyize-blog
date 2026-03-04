@@ -13,7 +13,7 @@ priority: 0
 [https://atcoder.jp/contests/abc447/tasks/abc447_d](https://atcoder.jp/contests/abc447/tasks/abc447_d)
 
 ## 题目大意
-### 题目大意
+
 
 给定一个长度不超过 $10^6$ 且仅由字符 `A`、`B` 和 `C` 组成的字符串 $S$。
 
