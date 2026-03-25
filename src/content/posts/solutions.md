@@ -18,8 +18,9 @@ draft: false
 :::
 
 
-## Atcoder (8)
+## Atcoder (9)
 
+- [AtCoder ABC450_D: D - Minimize Range Editorial](/posts/atcoder/abc450_d/) <small style="color:gray">2026-03-25</small>
 - [AtCoder ABC449_D: D - Make Target 2 Editorial](/posts/atcoder/abc449_d/) <small style="color:gray">2026-03-23</small>
 - [AtCoder ABC448_D: D - Integer-duplicated Path Editorial](/posts/atcoder/abc448_d/) <small style="color:gray">2026-03-12</small>
 - [AtCoder ABC446_E: E - Multiple-Free Sequences Editorial](/posts/atcoder/abc446_e/) <small style="color:gray">2026-03-07</small>
