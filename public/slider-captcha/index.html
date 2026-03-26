@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Slider Captcha Simulator</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <main class="page-shell">
+      <section class="captcha-card" aria-labelledby="captcha-title">
+        <p class="eyebrow">localhost slider captcha sandbox</p>
+        <div class="card-header">
+          <div>
+            <h1 id="captcha-title">滑动拼图验证码仿真</h1>
+            <p class="lede">拖动下方滑条，让五边形拼块沿着 X 轴回到真实目标槽位；另一个槽位只是迷惑项。</p>
+          </div>
+          <p class="side-note">修改 <code>public/slider-captcha/js/config.js</code> 可以替换背景图路径与容差；点击“刷新验证码”会重新生成位置和倾斜角度。</p>
+        </div>
+
+        <div class="canvas-frame">
+          <canvas
+            id="captcha-canvas"
+            width="360"
+            height="220"
+            aria-label="滑动拼图验证码画布"
+          ></canvas>
+        </div>
+
+        <div class="slider-panel">
+          <div class="slider-panel-header">
+            <label class="slider-label" for="captcha-slider">拖动滑块对齐真实五边形缺口</label>
+            <button id="captcha-refresh" class="refresh-button" type="button">刷新验证码</button>
+          </div>
+          <input
+            id="captcha-slider"
+            class="captcha-slider"
+            type="range"
+            min="0"
+            max="100"
+            value="0"
+            step="0.1"
+          >
+        </div>
+
+        <div class="status-panel">
+          <p id="captcha-status" class="captcha-status" data-state="loading" role="status" aria-live="polite">
+            正在加载背景图与验证码状态...
+          </p>
+          <p id="captcha-meta" class="captcha-meta">默认使用内置示例图，后续可替换为正式背景资源。</p>
+        </div>
+      </section>
+    </main>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
+
