@@ -178,6 +178,12 @@ const bannerOffset =
 
 		<div id="page-height-extend" class="hidden h-[300vh]"></div>
 
+		<script>
+			import { initializeArticleCaptchaGates } from "../scripts/article-captcha/index.ts";
+
+			initializeArticleCaptchaGates();
+		</script>
+
 		<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 		<script is:inline>
 			// Reload Busuanzi on Swup page transition
