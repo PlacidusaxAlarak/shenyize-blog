@@ -1,7 +1,14 @@
 // @ts-ignore This client bundle imports runtime-authored .mjs helpers for direct node:test coverage.
 import { bindSliderInteractions } from "./interactions.mjs";
 // @ts-ignore This client bundle imports runtime-authored .mjs helpers for direct node:test coverage.
-import { createChallengeGeometry, createFreshCaptchaState, evaluateAttempt, sliderValueToPieceX } from "./logic.mjs";
+import {
+	createFreshCaptchaState,
+	createRotateChallenge,
+	evaluateRotationAttempt,
+	resolveCanvasSize,
+	resolveCircleRadius,
+	sliderValueToRotation,
+} from "./logic.mjs";
 // @ts-ignore This client bundle imports runtime-authored .mjs helpers for direct node:test coverage.
 import { loadBackgroundImage, renderCaptchaScene } from "./renderer.mjs";
 // @ts-ignore This client bundle imports runtime-authored .mjs helpers for direct node:test coverage.
@@ -13,12 +20,15 @@ const LOCK_CLASS = "article-captcha-locked";
 const SUCCESS_DISMISS_DELAY_MS = 500;
 
 const captchaConfig = Object.freeze({
-	tolerancePx: 5,
-	canvasWidth: 360,
-	canvasHeight: 220,
-	sliderStartX: 24,
-	pieceRadius: 34,
+	rotationToleranceDeg: 6,
+	maxCanvasWidth: 620,
 	padding: 18,
+	circleRadiusRatio: 0.18,
+	sliderMinValue: 0,
+	sliderMaxValue: 100,
+	minTravelTurns: 0.5,
+	maxTravelTurns: 0.95,
+	targetSliderPaddingRatio: 0.18,
 });
 
 type GateRoot = HTMLElement & {
@@ -78,7 +88,7 @@ function getSessionStorage() {
 	}
 }
 
-function readSessionState(storageKey: string) {
+function readPersistedState(storageKey: string) {
 	return getSessionStorage()?.getItem(storageKey) === STORAGE_VALUE;
 }
 
@@ -93,8 +103,10 @@ function pause(ms: number) {
 }
 
 function updateSliderVisual(slider: HTMLInputElement, value: number) {
+	const min = Number(slider.min || 0);
 	const max = Number(slider.max || 1);
-	const percentage = max === 0 ? 0 : (value / max) * 100;
+	const span = Math.max(max - min, 1);
+	const percentage = ((value - min) / span) * 100;
 	slider.style.setProperty("--range-progress", `${percentage}%`);
 }
 
@@ -143,25 +155,31 @@ function collectElements(root: GateRoot): ArticleCaptchaElements {
 }
 
 function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
-	const storageKey = root.dataset.storageKey ?? "article-captcha:posts";
-	const backgroundImageUrl = root.dataset.backgroundImageUrl ?? "/captcha/demo-background.svg";
+	const storageKey = root.dataset.storageKey ?? "site-captcha:passed";
+	const backgroundImageUrl = root.dataset.backgroundImageUrl ?? "/captcha/preview.jpg";
 	const fallbackBackgroundImageUrl =
 		root.dataset.fallbackBackgroundImageUrl ?? "/captcha/placeholder-background.svg";
 	const elements = collectElements(root);
 	const context = elements.canvas.getContext("2d");
 
 	if (!context) {
-		throw new Error("Unable to create the canvas rendering context for the article captcha.");
+		throw new Error("Unable to create the canvas rendering context for the site captcha.");
 	}
 
-	elements.canvas.width = captchaConfig.canvasWidth;
-	elements.canvas.height = captchaConfig.canvasHeight;
-
 	let backgroundImage: HTMLImageElement | undefined;
+	let challenge: ReturnType<typeof createRotateChallenge> | undefined;
 	let usingFallbackBackground = false;
-	let geometry = createChallengeGeometry(captchaConfig);
 	let challengeVersion = 0;
-	let challengeState = createFreshCaptchaState({ sliderStartX: captchaConfig.sliderStartX });
+	let challengeState = createFreshCaptchaState({
+		startRotationDeg: captchaConfig.sliderMinValue,
+		startSliderValue: captchaConfig.sliderMinValue,
+	});
+
+	const clampSliderValue = (value: number) =>
+		Math.min(
+			Math.max(Number(value), captchaConfig.sliderMinValue),
+			captchaConfig.sliderMaxValue,
+		);
 
 	const setStatus = (state: "idle" | "loading" | "error" | "success", message: string) => {
 		challengeState.status = state;
@@ -170,13 +188,21 @@ function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 	};
 
 	const updateMeta = () => {
-		elements.meta.textContent = usingFallbackBackground
-			? "主背景加载失败，当前使用站内占位图。题面里包含 1 个真实槽位和 1 个迷惑槽位。"
-			: "当前题面包含 1 个真实槽位和 1 个迷惑槽位；点击“刷新验证码”可重新生成位置和角度。";
+		const parts = [];
+
+		if (usingFallbackBackground) {
+			parts.push("主图加载失败，当前使用本站占位图。");
+		}
+
+		parts.push(
+			`每道题的正确位置和旋转灵敏度都会随机变化，通过条件为角度误差不超过 ±${captchaConfig.rotationToleranceDeg}°。`,
+		);
+
+		elements.meta.textContent = parts.join("");
 	};
 
 	const drawScene = () => {
-		if (!backgroundImage) {
+		if (!backgroundImage || !challenge) {
 			context.clearRect(0, 0, elements.canvas.width, elements.canvas.height);
 			return;
 		}
@@ -185,39 +211,55 @@ function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 			canvas: elements.canvas,
 			context,
 			backgroundImage,
-			geometry,
-			pieceX: challengeState.currentPieceX,
+			challenge,
+			rotationDeg: challengeState.currentRotationDeg,
 			status: challengeState.status,
 		});
 	};
 
+	const configureCanvasForImage = (image: HTMLImageElement) => {
+		const sourceWidth = image.naturalWidth || image.width || captchaConfig.maxCanvasWidth;
+		const sourceHeight = image.naturalHeight || image.height || captchaConfig.maxCanvasWidth;
+		const { canvasWidth, canvasHeight } = resolveCanvasSize({
+			sourceWidth,
+			sourceHeight,
+			maxCanvasWidth: captchaConfig.maxCanvasWidth,
+		});
+
+		elements.canvas.width = canvasWidth;
+		elements.canvas.height = canvasHeight;
+	};
+
 	const configureSlider = () => {
-		elements.slider.min = "0";
-		elements.slider.max = String(geometry.maxTravel);
-		elements.slider.step = "0.1";
+		elements.slider.min = String(captchaConfig.sliderMinValue);
+		elements.slider.max = String(captchaConfig.sliderMaxValue);
+		elements.slider.step = "0.01";
 		elements.slider.value = String(challengeState.sliderValue);
 		updateSliderVisual(elements.slider, challengeState.sliderValue);
 	};
 
-	const syncPiecePosition = (sliderValue: number) => {
-		const nextPieceX = sliderValueToPieceX({
-			sliderValue,
-			sliderStartX: geometry.sliderStartX,
-			maxTravel: geometry.maxTravel,
+	const syncRotation = (sliderValue: number) => {
+		if (!challenge) {
+			return;
+		}
+
+		const nextSliderValue = clampSliderValue(sliderValue);
+		const nextRotationDeg = sliderValueToRotation({
+			sliderValue: nextSliderValue,
+			challenge,
 		});
 
-		challengeState.currentPieceX = nextPieceX;
-		challengeState.sliderValue = nextPieceX - geometry.sliderStartX;
-		elements.slider.value = String(challengeState.sliderValue);
-		updateSliderVisual(elements.slider, challengeState.sliderValue);
+		challengeState.currentRotationDeg = nextRotationDeg;
+		challengeState.sliderValue = nextSliderValue;
+		elements.slider.value = String(nextSliderValue);
+		updateSliderVisual(elements.slider, nextSliderValue);
 		drawScene();
 	};
 
 	const animateBackToStart = (version: number) =>
 		new Promise<boolean>((resolve) => {
-			const fromX = challengeState.currentPieceX;
-			const toX = geometry.sliderStartX;
-			const delta = fromX - toX;
+			const fromValue = challengeState.sliderValue;
+			const toValue = challengeState.startSliderValue;
 			const duration = 320;
 			const startTime = performance.now();
 
@@ -229,22 +271,15 @@ function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 
 				const progress = Math.min((now - startTime) / duration, 1);
 				const eased = 1 - (1 - progress) ** 3;
-				challengeState.currentPieceX = fromX - delta * eased;
-				challengeState.sliderValue = challengeState.currentPieceX - geometry.sliderStartX;
-				elements.slider.value = String(challengeState.sliderValue);
-				updateSliderVisual(elements.slider, challengeState.sliderValue);
-				drawScene();
+				const nextSliderValue = fromValue + (toValue - fromValue) * eased;
+				syncRotation(nextSliderValue);
 
 				if (progress < 1) {
 					requestAnimationFrame(step);
 					return;
 				}
 
-				challengeState.currentPieceX = toX;
-				challengeState.sliderValue = 0;
-				elements.slider.value = "0";
-				updateSliderVisual(elements.slider, 0);
-				drawScene();
+				syncRotation(toValue);
 				resolve(true);
 			};
 
@@ -254,24 +289,24 @@ function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 	const sliderController = bindSliderInteractions({
 		slider: elements.slider,
 		onMove(value: number) {
-			if (challengeState.isAnimating || challengeState.isLocked) {
+			if (!challenge || challengeState.isAnimating || challengeState.isLocked) {
 				return;
 			}
 
-			setStatus("idle", "继续拖动滑块，让拼块对准真实槽位；另一处缺口只是迷惑项。");
-			syncPiecePosition(value);
+			setStatus("idle", "继续旋转圆片，直到圆内图像与外部背景完全贴合。");
+			syncRotation(value);
 		},
 		async onRelease(value: number) {
-			if (challengeState.isAnimating || challengeState.isLocked) {
+			if (!challenge || challengeState.isAnimating || challengeState.isLocked) {
 				return;
 			}
 
-			syncPiecePosition(value);
+			syncRotation(value);
 
-			const result = evaluateAttempt({
-				pieceX: challengeState.currentPieceX,
-				targetX: geometry.targetX,
-				tolerancePx: captchaConfig.tolerancePx,
+			const result = evaluateRotationAttempt({
+				currentRotationDeg: challengeState.currentRotationDeg,
+				targetRotationDeg: challenge.targetRotationDeg,
+				toleranceDeg: captchaConfig.rotationToleranceDeg,
 			});
 
 			if (result.success) {
@@ -279,7 +314,10 @@ function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 				const successVersion = challengeVersion;
 				sliderController.setDisabled(true);
 				elements.refreshButton.disabled = true;
-				setStatus("success", `验证成功，当前误差 ${Math.round(result.delta)}px。正在为你继续显示正文...`);
+				setStatus(
+					"success",
+					`验证成功，当前角度误差 ${Math.round(result.deltaDeg)}°。正在继续显示页面...`,
+				);
 				drawScene();
 				await pause(SUCCESS_DISMISS_DELAY_MS);
 				if (successVersion !== challengeVersion || !root.isConnected) {
@@ -292,7 +330,10 @@ function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 			const releaseVersion = challengeVersion;
 			challengeState.isAnimating = true;
 			sliderController.setDisabled(true);
-			setStatus("error", `验证失败，当前偏差 ${Math.round(result.delta)}px。你可能对准了迷惑槽位。`);
+			setStatus(
+				"error",
+				`验证失败，当前角度误差 ${Math.round(result.deltaDeg)}°。圆片正在回到起始位置。`,
+			);
 			drawScene();
 
 			const completed = await animateBackToStart(releaseVersion);
@@ -303,15 +344,36 @@ function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 
 			challengeState.isAnimating = false;
 			sliderController.setDisabled(false);
-			setStatus("error", "验证失败，滑块已回到起点。你可以重试，或点击“刷新验证码”。");
+			setStatus("error", "验证失败，圆片已回到起始位置。你可以重试，或点击“刷新验证码”。");
 			drawScene();
 		},
 	});
 
 	const createChallenge = (reason: "initial" | "refresh") => {
 		challengeVersion += 1;
-		geometry = createChallengeGeometry(captchaConfig);
-		challengeState = createFreshCaptchaState({ sliderStartX: geometry.sliderStartX });
+		const circleRadius = resolveCircleRadius({
+			canvasWidth: elements.canvas.width,
+			canvasHeight: elements.canvas.height,
+			padding: captchaConfig.padding,
+			circleRadiusRatio: captchaConfig.circleRadiusRatio,
+		});
+
+		challenge = createRotateChallenge({
+			canvasWidth: elements.canvas.width,
+			canvasHeight: elements.canvas.height,
+			circleRadius,
+			padding: captchaConfig.padding,
+			sliderMinValue: captchaConfig.sliderMinValue,
+			sliderMaxValue: captchaConfig.sliderMaxValue,
+			minTravelTurns: captchaConfig.minTravelTurns,
+			maxTravelTurns: captchaConfig.maxTravelTurns,
+			targetSliderPaddingRatio: captchaConfig.targetSliderPaddingRatio,
+		});
+
+		challengeState = createFreshCaptchaState({
+			startRotationDeg: challenge.startRotationDeg,
+			startSliderValue: challenge.startSliderValue,
+		});
 		sliderController.clearPointerSession();
 		configureSlider();
 		sliderController.setDisabled(false);
@@ -320,15 +382,15 @@ function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 		setStatus(
 			"idle",
 			reason === "refresh"
-				? "验证码已刷新。真实槽位和迷惑槽位的位置、角度都已重新生成。"
-				: "拖动下方滑块，让五边形拼块回到真实目标槽位。",
+				? "验证码已刷新，正确位置和旋转灵敏度已重新生成。"
+				: "拖动下方滑块，旋转中央圆片，让图像重新对齐。",
 		);
 		drawScene();
 		elements.slider.focus();
 	};
 
 	const initializeCaptcha = async () => {
-		if (readSessionState(storageKey)) {
+		if (readPersistedState(storageKey)) {
 			setGatePassed(root, elements, storageKey);
 			return;
 		}
@@ -336,19 +398,23 @@ function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 		setGateLocked(root, elements, true);
 		sliderController.setDisabled(true);
 		elements.refreshButton.disabled = true;
-		updateSliderVisual(elements.slider, 0);
-		setStatus("loading", "正在加载背景图与验证码画布...");
+		updateSliderVisual(elements.slider, captchaConfig.sliderMinValue);
+		setStatus("loading", "正在加载验证码...");
 
 		try {
-			const imageState = await loadBackgroundImage(backgroundImageUrl, fallbackBackgroundImageUrl);
+			const imageState = await loadBackgroundImage(
+				backgroundImageUrl,
+				fallbackBackgroundImageUrl,
+			);
 
 			backgroundImage = imageState.image;
 			usingFallbackBackground = imageState.usedFallback;
+			configureCanvasForImage(backgroundImage);
 			createChallenge("initial");
 		} catch (error) {
 			sliderController.setDisabled(true);
 			elements.refreshButton.disabled = true;
-			elements.meta.textContent = "背景资源加载失败，请检查验证码图片路径。";
+			elements.meta.textContent = "背景图加载失败，请检查验证码图片路径。";
 			setStatus("error", error instanceof Error ? error.message : String(error));
 		}
 	};

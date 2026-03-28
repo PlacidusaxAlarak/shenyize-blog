@@ -3,6 +3,7 @@ import "@fontsource/roboto/400.css";
 import "@fontsource/roboto/500.css";
 import "@fontsource/roboto/700.css";
 
+import ArticleCaptchaGate from "@components/article-captcha/ArticleCaptchaGate.astro";
 import ConfigCarrier from "@components/ConfigCarrier.astro";
 import { profileConfig, siteConfig } from "@/config";
 import {
@@ -173,10 +174,12 @@ const bannerOffset =
 		  data-overlayscrollbars-initialize
 	>
 		<a class="skip-link" href="#swup-container">跳到内容</a>
-		<ConfigCarrier></ConfigCarrier>
-		<slot />
+		<ArticleCaptchaGate>
+			<ConfigCarrier></ConfigCarrier>
+			<slot />
 
-		<div id="page-height-extend" class="hidden h-[300vh]"></div>
+			<div id="page-height-extend" class="hidden h-[300vh]"></div>
+		</ArticleCaptchaGate>
 
 		<script>
 			import { initializeArticleCaptchaGates } from "../scripts/article-captcha/index.ts";

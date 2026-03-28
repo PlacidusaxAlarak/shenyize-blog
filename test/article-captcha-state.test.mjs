@@ -16,7 +16,7 @@ function createOverlayElement() {
 	};
 }
 
-test("article captcha marks the current gate as passed and remembers the session", async () => {
+test("article captcha marks the current gate as passed and remembers the current session", async () => {
 	const { markGatePassed } = await stateModule();
 	const root = {
 		dataset: {
@@ -36,12 +36,12 @@ test("article captcha marks the current gate as passed and remembers the session
 
 	markGatePassed(
 		{ root, overlay, content },
-		{ storageKey: "article-captcha:posts", storage },
+		{ storageKey: "site-captcha:passed", storage },
 	);
 
 	assert.equal(root.dataset.gateState, "passed");
 	assert.equal(overlay.hidden, true);
 	assert.equal(overlay.getAttribute("aria-hidden"), "true");
 	assert.equal(content.inert, false);
-	assert.equal(storageEntries.get("article-captcha:posts"), "passed");
+	assert.equal(storageEntries.get("site-captcha:passed"), "passed");
 });

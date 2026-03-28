@@ -6,8 +6,8 @@ interface Props {
 }
 
 const {
-	storageKey = "article-captcha:posts",
-	backgroundImageUrl = "/captcha/demo-background.svg",
+	storageKey = "site-captcha:passed",
+	backgroundImageUrl = "/captcha/preview.jpg",
 	fallbackBackgroundImageUrl = "/captcha/placeholder-background.svg",
 } = Astro.props;
 ---
@@ -20,6 +20,10 @@ const {
 	data-fallback-background-image-url={fallbackBackgroundImageUrl}
 	data-gate-state="locked"
 >
+	<div class="article-captcha-content" data-article-captcha-content>
+		<slot />
+	</div>
+
 	<div
 		class="article-captcha-overlay"
 		data-article-captcha-overlay
@@ -28,19 +32,18 @@ const {
 		aria-labelledby="article-captcha-title"
 		aria-describedby="article-captcha-description"
 	>
-		<div class="article-captcha-card card-base">
-			<p class="article-captcha-eyebrow">Verification Required</p>
+		<div class="article-captcha-overlay-backdrop"></div>
+		<div class="article-captcha-card">
+			<p class="article-captcha-eyebrow">localhost rotate captcha sandbox</p>
 			<div class="article-captcha-header">
 				<div>
-					<h2 id="article-captcha-title" class="article-captcha-title">
-						滑动完成验证后继续阅读
-					</h2>
+					<h2 id="article-captcha-title" class="article-captcha-title">旋转拼图验证码</h2>
 					<p id="article-captcha-description" class="article-captcha-description">
-						请拖动下方滑块，让五边形拼块对齐真实缺口；另一处缺口是迷惑项。
+						拖动下方滑块，旋转中央圆片，让圆内图像与周围背景重新拼接到正确角度。
 					</p>
 				</div>
 				<p class="article-captcha-note">
-					验证通过后，本标签页内浏览其他文章时将不再重复弹出。
+					当前主图按原始比例显示，不再强制拉伸。每道题的正确滑块位置和旋转灵敏度都会随机变化。
 				</p>
 			</div>
 
@@ -48,26 +51,21 @@ const {
 				<canvas
 					class="article-captcha-canvas"
 					data-article-captcha-canvas
-					width="360"
-					height="220"
-					aria-label="滑动拼图验证码画布"
+					width="620"
+					height="620"
+					aria-label="旋转拼图验证码画布"
 				></canvas>
 			</div>
 
 			<div class="article-captcha-slider-panel">
 				<div class="article-captcha-slider-header">
 					<label class="article-captcha-slider-label" for="article-captcha-slider">
-						拖动滑块对齐真实五边形缺口
+						拖动滑块旋转中央圆片
 					</label>
-					<button
-						class="btn-regular article-captcha-refresh"
-						data-article-captcha-refresh
-						type="button"
-					>
+					<button class="article-captcha-refresh" data-article-captcha-refresh type="button">
 						刷新验证码
 					</button>
 				</div>
-
 				<input
 					id="article-captcha-slider"
 					class="article-captcha-slider"
@@ -76,7 +74,7 @@ const {
 					min="0"
 					max="100"
 					value="0"
-					step="0.1"
+					step="0.01"
 				/>
 			</div>
 
@@ -90,15 +88,11 @@ const {
 				>
 					正在加载验证码...
 				</p>
-				<p class="article-captcha-meta text-50" data-article-captcha-meta>
-					验证通过后即可继续阅读当前文章。
+				<p class="article-captcha-meta" data-article-captcha-meta>
+					每道题的正确位置和旋转灵敏度都会随机变化；主图加载失败时回退到本站占位图。
 				</p>
 			</div>
 		</div>
-	</div>
-
-	<div class="article-captcha-content" data-article-captcha-content>
-		<slot />
 	</div>
 </div>
 
@@ -112,99 +106,111 @@ const {
 	}
 
 	.article-captcha-overlay {
-		position: sticky;
-		top: clamp(1rem, 8vh, 4.5rem);
-		z-index: 40;
-		width: min(100%, 42rem);
-		margin: 0 auto 1.5rem;
+		position: fixed;
+		inset: 0;
+		z-index: 110;
+		display: grid;
+		place-items: center;
+		padding: 28px 18px;
+	}
+
+	.article-captcha-overlay-backdrop {
+		position: absolute;
+		inset: 0;
+		background:
+			linear-gradient(rgba(255, 255, 255, 0.18) 1px, transparent 1px),
+			linear-gradient(90deg, rgba(255, 255, 255, 0.16) 1px, transparent 1px),
+			radial-gradient(circle at top left, rgba(255, 237, 196, 0.92), transparent 42%),
+			radial-gradient(circle at right 18%, rgba(214, 132, 68, 0.28), transparent 28%),
+			linear-gradient(135deg, #f6ead1 0%, #efe0bf 44%, #e7d4a8 100%);
+		background-size:
+			22px 22px,
+			22px 22px,
+			auto,
+			auto,
+			auto;
+		backdrop-filter: blur(8px);
 	}
 
 	.article-captcha-card {
-		padding: 1.5rem;
-		border: 1px solid rgba(255, 255, 255, 0.1);
-		border-radius: 1.5rem;
+		--article-captcha-paper: #f7f0dc;
+		--article-captcha-ink: #1c1d20;
+		--article-captcha-muted: #5d615f;
+		--article-captcha-accent: #c96a2c;
+		--article-captcha-accent-strong: #7f3f1b;
+		--article-captcha-border: rgba(28, 29, 32, 0.1);
+		--article-captcha-card-shadow: 0 24px 60px rgba(39, 30, 14, 0.22);
+		position: relative;
+		z-index: 1;
+		width: min(100%, 860px);
+		padding: 28px;
+		border: 1px solid var(--article-captcha-border);
+		border-radius: 28px;
 		background:
-			linear-gradient(180deg, rgba(255, 255, 255, 0.92), rgba(250, 250, 252, 0.86)),
-			var(--card-bg);
-		box-shadow: 0 24px 80px rgba(15, 23, 42, 0.24);
-	}
-
-	:global(.dark) .article-captcha-card {
-		background:
-			linear-gradient(180deg, rgba(27, 31, 42, 0.92), rgba(17, 20, 28, 0.94)),
-			var(--card-bg);
-		border-color: rgba(255, 255, 255, 0.08);
-		box-shadow: 0 24px 80px rgba(0, 0, 0, 0.42);
+			linear-gradient(180deg, rgba(255, 255, 255, 0.86), rgba(255, 248, 235, 0.88)),
+			var(--article-captcha-paper);
+		box-shadow: var(--article-captcha-card-shadow);
+		backdrop-filter: blur(10px);
+		font-family:
+			"Microsoft YaHei",
+			"PingFang SC",
+			"Noto Sans SC",
+			"Trebuchet MS",
+			sans-serif;
+		color: var(--article-captcha-ink);
 	}
 
 	.article-captcha-eyebrow {
-		margin: 0 0 0.625rem;
-		font-size: 0.75rem;
-		font-weight: 700;
-		letter-spacing: 0.16em;
+		margin: 0 0 10px;
+		font-size: 0.8rem;
 		text-transform: uppercase;
-		color: var(--primary);
+		letter-spacing: 0.22em;
+		color: var(--article-captcha-accent-strong);
 	}
 
 	.article-captcha-header {
 		display: flex;
-		gap: 1rem;
+		gap: 18px;
 		align-items: flex-start;
 		justify-content: space-between;
-		margin-bottom: 1.25rem;
+		margin-bottom: 22px;
 	}
 
 	.article-captcha-title {
 		margin: 0;
-		font-size: clamp(1.5rem, 3vw, 2rem);
-		line-height: 1.1;
-		color: rgba(15, 23, 42, 0.92);
-	}
-
-	:global(.dark) .article-captcha-title {
-		color: rgba(255, 255, 255, 0.92);
+		font-size: clamp(2rem, 3vw, 2.8rem);
+		line-height: 1;
+		color: var(--article-captcha-ink);
 	}
 
 	.article-captcha-description {
-		margin: 0.625rem 0 0;
-		font-size: 0.96rem;
-		line-height: 1.6;
-		color: rgba(15, 23, 42, 0.68);
-	}
-
-	:global(.dark) .article-captcha-description,
-	:global(.dark) .article-captcha-note {
-		color: rgba(255, 255, 255, 0.68);
+		margin: 10px 0 0;
+		max-width: 40rem;
+		color: var(--article-captcha-muted);
+		font-size: 1rem;
+		line-height: 1.5;
 	}
 
 	.article-captcha-note {
-		max-width: 14rem;
+		max-width: 18rem;
 		margin: 0;
-		padding: 0.75rem 0.875rem;
-		border-radius: 1rem;
-		background: rgba(15, 23, 42, 0.06);
-		font-size: 0.86rem;
-		line-height: 1.5;
-		color: rgba(15, 23, 42, 0.64);
-	}
-
-	:global(.dark) .article-captcha-note {
-		background: rgba(255, 255, 255, 0.06);
+		padding: 12px 14px;
+		border-radius: 16px;
+		background: rgba(255, 255, 255, 0.72);
+		color: var(--article-captcha-muted);
+		font-size: 0.92rem;
+		line-height: 1.45;
 	}
 
 	.article-captcha-canvas-frame {
-		padding: 0.75rem;
-		border-radius: 1.25rem;
+		width: min(100%, 620px);
+		margin: 0 auto;
+		padding: 12px;
+		border-radius: 24px;
 		background:
-			linear-gradient(145deg, rgba(255, 255, 255, 0.82), rgba(241, 245, 249, 0.9));
-		border: 1px solid rgba(15, 23, 42, 0.08);
+			linear-gradient(145deg, rgba(255, 255, 255, 0.84), rgba(255, 243, 219, 0.92));
+		border: 1px solid rgba(28, 29, 32, 0.08);
 		box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.6);
-	}
-
-	:global(.dark) .article-captcha-canvas-frame {
-		background:
-			linear-gradient(145deg, rgba(30, 41, 59, 0.92), rgba(15, 23, 42, 0.96));
-		border-color: rgba(255, 255, 255, 0.08);
 	}
 
 	.article-captcha-canvas {
@@ -212,69 +218,80 @@ const {
 		width: 100%;
 		max-width: 100%;
 		height: auto;
-		border-radius: 1rem;
-		background: #e5e7eb;
-	}
-
-	:global(.dark) .article-captcha-canvas {
-		background: #111827;
+		border-radius: 18px;
+		background: #f2e7cf;
 	}
 
 	.article-captcha-slider-panel {
-		margin-top: 1.25rem;
-		padding: 1rem;
-		border-radius: 1.125rem;
-		background: rgba(15, 23, 42, 0.04);
-		border: 1px solid rgba(15, 23, 42, 0.08);
-	}
-
-	:global(.dark) .article-captcha-slider-panel {
-		background: rgba(255, 255, 255, 0.04);
-		border-color: rgba(255, 255, 255, 0.08);
+		margin-top: 22px;
+		padding: 18px;
+		border-radius: 20px;
+		background: rgba(255, 255, 255, 0.66);
+		border: 1px solid rgba(28, 29, 32, 0.08);
 	}
 
 	.article-captcha-slider-header {
 		display: flex;
-		gap: 0.875rem;
+		gap: 14px;
 		align-items: center;
 		justify-content: space-between;
-		margin-bottom: 0.75rem;
+		margin-bottom: 12px;
 	}
 
 	.article-captcha-slider-label {
 		display: block;
 		font-weight: 700;
-		color: rgba(15, 23, 42, 0.84);
-	}
-
-	:global(.dark) .article-captcha-slider-label {
-		color: rgba(255, 255, 255, 0.84);
+		color: var(--article-captcha-ink);
 	}
 
 	.article-captcha-refresh {
-		flex-shrink: 0;
+		appearance: none;
+		border: 0;
 		border-radius: 999px;
-		padding: 0.625rem 1rem;
-		font-size: 0.875rem;
+		padding: 10px 16px;
+		background: linear-gradient(135deg, #8e4318 0%, #d97832 100%);
+		color: #fff7ec;
+		font-size: 0.95rem;
 		font-weight: 700;
+		letter-spacing: 0.02em;
+		cursor: pointer;
+		box-shadow: 0 10px 24px rgba(114, 49, 15, 0.22);
+		transition:
+			transform 140ms ease,
+			box-shadow 140ms ease,
+			opacity 140ms ease;
+	}
+
+	.article-captcha-refresh:hover:enabled {
+		transform: translateY(-1px);
+		box-shadow: 0 14px 28px rgba(114, 49, 15, 0.28);
+	}
+
+	.article-captcha-refresh:active:enabled {
+		transform: translateY(0);
+	}
+
+	.article-captcha-refresh:disabled {
+		opacity: 0.6;
+		cursor: wait;
 	}
 
 	.article-captcha-slider {
 		width: 100%;
 		margin: 0;
 		appearance: none;
-		height: 1.125rem;
+		height: 20px;
 		border-radius: 999px;
-		border: 1px solid rgba(15, 23, 42, 0.08);
+		border: 1px solid rgba(28, 29, 32, 0.08);
 		background:
 			linear-gradient(
 				90deg,
-				oklch(0.74 0.16 var(--hue)) 0%,
-				oklch(0.78 0.13 var(--hue)) var(--range-progress, 0%),
-				rgba(148, 163, 184, 0.28) var(--range-progress, 0%),
-				rgba(148, 163, 184, 0.28) 100%
+				#c96a2c 0%,
+				#f1a955 var(--range-progress, 0%),
+				rgba(28, 29, 32, 0.1) var(--range-progress, 0%),
+				rgba(28, 29, 32, 0.1) 100%
 			);
-		box-shadow: inset 0 1px 3px rgba(15, 23, 42, 0.12);
+		box-shadow: inset 0 1px 3px rgba(28, 29, 32, 0.12);
 	}
 
 	.article-captcha-slider:disabled {
@@ -284,33 +301,33 @@ const {
 
 	.article-captcha-slider::-webkit-slider-thumb {
 		appearance: none;
-		width: 1.625rem;
-		height: 1.625rem;
+		width: 28px;
+		height: 28px;
 		border: 0;
 		border-radius: 50%;
 		background:
-			radial-gradient(circle at 32% 32%, #ffffff 0%, #f8fafc 34%, oklch(0.72 0.16 var(--hue)) 36%, oklch(0.58 0.15 var(--hue)) 100%);
+			radial-gradient(circle at 32% 32%, #fff7e8 0%, #fbe6b7 34%, #d97832 36%, #8e4318 100%);
 		box-shadow:
-			0 8px 20px rgba(15, 23, 42, 0.24),
-			0 0 0 3px rgba(255, 255, 255, 0.4);
+			0 8px 20px rgba(72, 30, 6, 0.24),
+			0 0 0 3px rgba(255, 255, 255, 0.5);
 		cursor: grab;
 	}
 
 	.article-captcha-slider::-moz-range-thumb {
-		width: 1.625rem;
-		height: 1.625rem;
+		width: 28px;
+		height: 28px;
 		border: 0;
 		border-radius: 50%;
 		background:
-			radial-gradient(circle at 32% 32%, #ffffff 0%, #f8fafc 34%, oklch(0.72 0.16 var(--hue)) 36%, oklch(0.58 0.15 var(--hue)) 100%);
+			radial-gradient(circle at 32% 32%, #fff7e8 0%, #fbe6b7 34%, #d97832 36%, #8e4318 100%);
 		box-shadow:
-			0 8px 20px rgba(15, 23, 42, 0.24),
-			0 0 0 3px rgba(255, 255, 255, 0.4);
+			0 8px 20px rgba(72, 30, 6, 0.24),
+			0 0 0 3px rgba(255, 255, 255, 0.5);
 		cursor: grab;
 	}
 
 	.article-captcha-slider::-moz-range-track {
-		height: 1.125rem;
+		height: 20px;
 		border-radius: 999px;
 		background: transparent;
 	}
@@ -318,20 +335,40 @@ const {
 	.article-captcha-status-panel {
 		display: flex;
 		flex-wrap: wrap;
-		gap: 0.625rem 1rem;
+		gap: 10px 18px;
 		align-items: center;
 		justify-content: space-between;
-		margin-top: 1rem;
+		margin-top: 18px;
 	}
 
 	.article-captcha-status {
 		margin: 0;
-		padding: 0.625rem 0.875rem;
+		padding: 10px 14px;
 		border-radius: 999px;
-		background: rgba(15, 23, 42, 0.08);
-		font-size: 0.92rem;
+		background: rgba(28, 29, 32, 0.08);
+		color: var(--article-captcha-ink);
 		font-weight: 700;
-		color: rgba(15, 23, 42, 0.84);
+	}
+
+	.article-captcha-status[data-state="success"] {
+		background: rgba(43, 142, 104, 0.16);
+		color: #1d6b4c;
+	}
+
+	.article-captcha-status[data-state="error"] {
+		background: rgba(196, 78, 38, 0.16);
+		color: #9b3b18;
+	}
+
+	.article-captcha-status[data-state="loading"] {
+		background: rgba(58, 96, 154, 0.16);
+		color: #274f83;
+	}
+
+	.article-captcha-meta {
+		margin: 0;
+		color: var(--article-captcha-muted);
+		font-size: 0.94rem;
 	}
 
 	.article-captcha-content {
@@ -352,53 +389,24 @@ const {
 
 	[data-gate-state="locked"] [data-article-captcha-content] {
 		filter: blur(18px);
-		opacity: 0.28;
+		opacity: 0.24;
 		pointer-events: none;
 		user-select: none;
 	}
 
 	[data-gate-state="locked"] [data-article-captcha-content]::after {
 		opacity: 1;
-		background:
-			linear-gradient(180deg, rgba(248, 250, 252, 0.55), rgba(248, 250, 252, 0.84)),
-			radial-gradient(circle at top, rgba(255, 255, 255, 0.42), transparent 42%);
-		backdrop-filter: blur(8px);
+		background: rgba(255, 247, 236, 0.4);
 	}
 
-	:global(.dark) [data-gate-state="locked"] [data-article-captcha-content]::after {
-		background:
-			linear-gradient(180deg, rgba(15, 23, 42, 0.44), rgba(15, 23, 42, 0.76)),
-			radial-gradient(circle at top, rgba(148, 163, 184, 0.18), transparent 42%);
+	:global(body.article-captcha-locked) {
+		overflow: hidden;
 	}
 
-	.article-captcha-status[data-state="success"] {
-		background: rgba(34, 197, 94, 0.16);
-		color: #166534;
-	}
-
-	.article-captcha-status[data-state="error"] {
-		background: rgba(239, 68, 68, 0.16);
-		color: #b91c1c;
-	}
-
-	.article-captcha-status[data-state="loading"] {
-		background: rgba(59, 130, 246, 0.16);
-		color: #1d4ed8;
-	}
-
-	.article-captcha-meta {
-		margin: 0;
-		font-size: 0.9rem;
-	}
-
-	@media (max-width: 48rem) {
-		.article-captcha-overlay {
-			top: 1rem;
-		}
-
+	@media (max-width: 720px) {
 		.article-captcha-card {
-			padding: 1.125rem;
-			border-radius: 1.25rem;
+			padding: 22px;
+			border-radius: 24px;
 		}
 
 		.article-captcha-header,

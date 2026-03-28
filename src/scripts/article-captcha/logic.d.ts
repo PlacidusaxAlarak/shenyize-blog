@@ -3,72 +3,85 @@ export interface Point {
 	y: number;
 }
 
-export interface PentagonShape {
-	points: Point[];
-	width: number;
-	height: number;
-	radius: number;
-}
-
-export interface Notch {
-	x: number;
-	y: number;
-	rotation: number;
-	kind: "target" | "decoy";
-}
-
-export interface ChallengeGeometry {
-	shape: PentagonShape;
-	sliderStartX: number;
-	targetX: number;
-	targetY: number;
-	targetNotch: Notch;
-	decoyNotch: Notch;
-	pieceRotation: number;
-	minNotchDistance: number;
+export interface RotateChallenge {
+	circleCenter: Point;
+	circleRadius: number;
 	safeBounds: {
 		minX: number;
 		maxX: number;
 		minY: number;
 		maxY: number;
 	};
-	maxTravel: number;
+	sliderMinValue: number;
+	sliderMaxValue: number;
+	startSliderValue: number;
+	targetSliderValue: number;
+	rotationSpanDeg: number;
+	degreesPerSliderUnit: number;
+	startRotationDeg: number;
+	targetRotationDeg: number;
 }
 
 export interface CaptchaState {
-	currentPieceX: number;
+	currentRotationDeg: number;
 	sliderValue: number;
+	startRotationDeg: number;
+	startSliderValue: number;
 	isAnimating: boolean;
 	isLocked: boolean;
 	status: "idle" | "loading" | "error" | "success";
 }
 
-export function createPentagonShape(radius: number): PentagonShape;
-
-export function createChallengeGeometry(options: {
+export function resolveCanvasSize(options: {
+	sourceWidth: number;
+	sourceHeight: number;
+	maxCanvasWidth: number;
+}): {
 	canvasWidth: number;
 	canvasHeight: number;
-	pieceRadius: number;
-	sliderStartX: number;
+};
+
+export function resolveCircleRadius(options: {
+	canvasWidth: number;
+	canvasHeight: number;
 	padding: number;
-	rng?: () => number;
-}): ChallengeGeometry;
-
-export function createFreshCaptchaState(options: {
-	sliderStartX: number;
-}): CaptchaState;
-
-export function sliderValueToPieceX(options: {
-	sliderValue: number;
-	sliderStartX: number;
-	maxTravel: number;
+	circleRadiusRatio?: number;
 }): number;
 
-export function evaluateAttempt(options: {
-	pieceX: number;
-	targetX: number;
-	tolerancePx: number;
+export function createRotateChallenge(options: {
+	canvasWidth: number;
+	canvasHeight: number;
+	circleRadius: number;
+	padding: number;
+	sliderMinValue?: number;
+	sliderMaxValue?: number;
+	minTravelTurns?: number;
+	maxTravelTurns?: number;
+	targetSliderPaddingRatio?: number;
+	rng?: () => number;
+}): RotateChallenge;
+
+export function createFreshCaptchaState(options: {
+	startRotationDeg: number;
+	startSliderValue: number;
+}): CaptchaState;
+
+export function sliderValueToRotation(options: {
+	sliderValue: number;
+	challenge: RotateChallenge;
+}): number;
+
+export function evaluateRotationAttempt(options: {
+	currentRotationDeg: number;
+	targetRotationDeg: number;
+	toleranceDeg: number;
 }): {
 	success: boolean;
-	delta: number;
+	deltaDeg: number;
 };
+
+export function interpolateRotationDeg(options: {
+	fromDeg: number;
+	toDeg: number;
+	progress: number;
+}): number;

@@ -1,4 +1,4 @@
-import type { CaptchaState, ChallengeGeometry } from "./logic.mjs";
+import type { CaptchaState, RotateChallenge } from "./logic.mjs";
 
 export interface LoadBackgroundImageOptions {
 	timeoutMs?: number;
@@ -18,7 +18,7 @@ export function renderCaptchaScene(options: {
 	canvas: HTMLCanvasElement;
 	context: CanvasRenderingContext2D;
 	backgroundImage: CanvasImageSource;
-	geometry: ChallengeGeometry;
-	pieceX: number;
+	challenge: RotateChallenge;
+	rotationDeg: number;
 	status: CaptchaState["status"];
 }): void;

@@ -1,208 +1,211 @@
-const TWO_PI = Math.PI * 2;
-const SIDES = 5;
-const MAX_ROTATION_DEGREES = 28;
-const MIN_DECOY_ROTATION_OFFSET_DEGREES = 18;
-const MAX_DECOY_ROTATION_OFFSET_DEGREES = 54;
+const FULL_ROTATION_DEG = 360;
+const DEFAULT_TARGET_ROTATION_DEG = 0;
+const MIN_CIRCLE_RADIUS = 24;
 
 function clamp(value, min, max) {
 	return Math.min(Math.max(value, min), max);
 }
 
-function toRadians(degrees) {
-	return (degrees * Math.PI) / 180;
+function clampUnitInterval(value) {
+	return clamp(value, 0, 0.999999);
 }
 
-function normalizeAngle(angle) {
-	let normalized = angle;
+function normalizeRotationDeg(value) {
+	const normalized = value % FULL_ROTATION_DEG;
 
-	while (normalized > Math.PI) {
-		normalized -= TWO_PI;
+	return normalized < 0 ? normalized + FULL_ROTATION_DEG : normalized;
+}
+
+function getRotationDeltaDeg(fromDeg, toDeg) {
+	const from = normalizeRotationDeg(fromDeg);
+	const to = normalizeRotationDeg(toDeg);
+	let delta = to - from;
+
+	if (delta > 180) {
+		delta -= FULL_ROTATION_DEG;
 	}
 
-	while (normalized <= -Math.PI) {
-		normalized += TWO_PI;
+	if (delta <= -180) {
+		delta += FULL_ROTATION_DEG;
 	}
 
-	return normalized;
+	return delta;
 }
 
-function pickCoordinate(min, max, rng) {
-	if (max <= min) {
-		return min;
+function getShortestDistanceDeg(firstDeg, secondDeg) {
+	return Math.abs(getRotationDeltaDeg(firstDeg, secondDeg));
+}
+
+function pickTravelSpanDeg({ rng, minTravelTurns, maxTravelTurns }) {
+	if (minTravelTurns <= 0 || maxTravelTurns <= 0 || minTravelTurns > maxTravelTurns) {
+		throw new Error("Travel turn range must be positive and ordered.");
 	}
 
-	const unit = clamp(rng(), 0, 0.999999);
-	return Math.round(min + (max - min) * unit);
+	const unit = clampUnitInterval(rng());
+	const turns = minTravelTurns + (maxTravelTurns - minTravelTurns) * unit;
+
+	return turns * FULL_ROTATION_DEG;
 }
 
-function pickRange(min, max, rng) {
-	const unit = clamp(rng(), 0, 0.999999);
-	return min + (max - min) * unit;
-}
+function pickTargetSliderValue({ rng, sliderMinValue, sliderMaxValue, targetSliderPaddingRatio }) {
+	const sliderSpan = sliderMaxValue - sliderMinValue;
+	const padding = sliderSpan * targetSliderPaddingRatio;
+	const minTarget = sliderMinValue + padding;
+	const maxTarget = sliderMaxValue - padding;
 
-function distanceBetween(first, second) {
-	return Math.hypot(first.x - second.x, first.y - second.y);
-}
-
-function isFarEnough(candidate, excludedOrigins, minDistance) {
-	return excludedOrigins.every((origin) => distanceBetween(candidate, origin) >= minDistance);
-}
-
-function fallbackOrigin(safeBounds, excludedOrigins, minDistance) {
-	const stepX = Math.max(12, Math.floor((safeBounds.maxX - safeBounds.minX) / 6));
-	const stepY = Math.max(12, Math.floor((safeBounds.maxY - safeBounds.minY) / 5));
-	let bestCandidate = { x: safeBounds.minX, y: safeBounds.minY };
-	let bestDistance = -Infinity;
-
-	for (let y = safeBounds.minY; y <= safeBounds.maxY; y += stepY) {
-		for (let x = safeBounds.minX; x <= safeBounds.maxX; x += stepX) {
-			const candidate = { x, y };
-			const shortestDistance = excludedOrigins.length === 0
-				? Infinity
-				: Math.min(...excludedOrigins.map((origin) => distanceBetween(candidate, origin)));
-
-			if (shortestDistance > bestDistance) {
-				bestDistance = shortestDistance;
-				bestCandidate = candidate;
-			}
-
-			if (isFarEnough(candidate, excludedOrigins, minDistance)) {
-				return candidate;
-			}
-		}
+	if (minTarget > maxTarget) {
+		return Math.round(sliderMinValue + sliderSpan / 2);
 	}
 
-	return bestCandidate;
+	const unit = clampUnitInterval(rng());
+	return Math.round(minTarget + (maxTarget - minTarget) * unit);
 }
 
-function pickOrigin(safeBounds, rng, excludedOrigins = [], minDistance = 0) {
-	for (let attempt = 0; attempt < 48; attempt += 1) {
-		const candidate = {
-			x: pickCoordinate(safeBounds.minX, safeBounds.maxX, rng),
-			y: pickCoordinate(safeBounds.minY, safeBounds.maxY, rng),
-		};
-
-		if (isFarEnough(candidate, excludedOrigins, minDistance)) {
-			return candidate;
-		}
+export function resolveCanvasSize({ sourceWidth, sourceHeight, maxCanvasWidth }) {
+	if (sourceWidth <= 0 || sourceHeight <= 0 || maxCanvasWidth <= 0) {
+		throw new Error("Canvas size inputs must be positive numbers.");
 	}
 
-	return fallbackOrigin(safeBounds, excludedOrigins, minDistance);
-}
-
-function pickPieceRotation(rng) {
-	return toRadians(pickRange(-MAX_ROTATION_DEGREES, MAX_ROTATION_DEGREES, rng));
-}
-
-function pickDecoyRotation(pieceRotation, rng) {
-	const offset = toRadians(
-		pickRange(MIN_DECOY_ROTATION_OFFSET_DEGREES, MAX_DECOY_ROTATION_OFFSET_DEGREES, rng),
-	);
-	const signedOffset = (rng() < 0.5 ? -1 : 1) * offset;
-
-	return normalizeAngle(pieceRotation + signedOffset);
-}
-
-export function createPentagonShape(radius) {
-	const rawPoints = Array.from({ length: SIDES }, (_, index) => {
-		const angle = -Math.PI / 2 + (TWO_PI * index) / SIDES;
-
-		return {
-			x: Math.cos(angle) * radius,
-			y: Math.sin(angle) * radius,
-		};
-	});
-
-	const xs = rawPoints.map((point) => point.x);
-	const ys = rawPoints.map((point) => point.y);
-	const minX = Math.min(...xs);
-	const maxX = Math.max(...xs);
-	const minY = Math.min(...ys);
-	const maxY = Math.max(...ys);
+	const scale = Math.min(1, maxCanvasWidth / sourceWidth);
 
 	return {
-		points: rawPoints.map((point) => ({
-			x: point.x - minX,
-			y: point.y - minY,
-		})),
-		width: maxX - minX,
-		height: maxY - minY,
-		radius,
+		canvasWidth: Math.round(sourceWidth * scale),
+		canvasHeight: Math.round(sourceHeight * scale),
 	};
 }
 
-export function createChallengeGeometry({
+export function resolveCircleRadius({
 	canvasWidth,
 	canvasHeight,
-	pieceRadius,
-	sliderStartX,
 	padding,
+	circleRadiusRatio = 0.18,
+}) {
+	const desiredRadius = Math.round(Math.min(canvasWidth, canvasHeight) * circleRadiusRatio);
+	const maxAllowedRadius = Math.min(
+		Math.floor(canvasWidth / 2) - padding,
+		Math.floor(canvasHeight / 2) - padding,
+	);
+
+	if (maxAllowedRadius < MIN_CIRCLE_RADIUS) {
+		throw new Error("Canvas dimensions are too small to place the centered circle.");
+	}
+
+	return clamp(desiredRadius, MIN_CIRCLE_RADIUS, maxAllowedRadius);
+}
+
+export function createRotateChallenge({
+	canvasWidth,
+	canvasHeight,
+	circleRadius,
+	padding,
+	sliderMinValue = 0,
+	sliderMaxValue = 100,
+	minTravelTurns = 0.5,
+	maxTravelTurns = 0.95,
+	targetSliderPaddingRatio = 0.18,
 	rng = Math.random,
 }) {
-	const shape = createPentagonShape(pieceRadius);
-	const rotationInsetX = pieceRadius - shape.width / 2;
-	const rotationInsetY = pieceRadius - shape.height / 2;
 	const safeBounds = {
-		minX: Math.max(padding + rotationInsetX, sliderStartX + pieceRadius * 2 + 36),
-		maxX: canvasWidth - padding - rotationInsetX - shape.width,
-		minY: padding + rotationInsetY,
-		maxY: canvasHeight - padding - rotationInsetY - shape.height,
+		minX: padding + circleRadius,
+		maxX: canvasWidth - padding - circleRadius,
+		minY: padding + circleRadius,
+		maxY: canvasHeight - padding - circleRadius,
+	};
+	const circleCenter = {
+		x: Math.round(canvasWidth / 2),
+		y: Math.round(canvasHeight / 2),
 	};
 
 	if (safeBounds.minX > safeBounds.maxX || safeBounds.minY > safeBounds.maxY) {
-		throw new Error("Canvas dimensions are too small for the configured pentagon size.");
+		throw new Error("Canvas dimensions are too small for the configured circle size.");
 	}
 
-	const minNotchDistance = Math.max(shape.width * 1.25, pieceRadius * 2.4);
-	const targetOrigin = pickOrigin(safeBounds, rng);
-	const decoyOrigin = pickOrigin(safeBounds, rng, [targetOrigin], minNotchDistance);
-	const pieceRotation = pickPieceRotation(rng);
-	const targetNotch = {
-		x: targetOrigin.x,
-		y: targetOrigin.y,
-		rotation: pieceRotation,
-		kind: "target",
-	};
-	const decoyNotch = {
-		x: decoyOrigin.x,
-		y: decoyOrigin.y,
-		rotation: pickDecoyRotation(pieceRotation, rng),
-		kind: "decoy",
-	};
+	if (
+		circleCenter.x < safeBounds.minX ||
+		circleCenter.x > safeBounds.maxX ||
+		circleCenter.y < safeBounds.minY ||
+		circleCenter.y > safeBounds.maxY
+	) {
+		throw new Error(
+			"Canvas dimensions are too small to keep the circle centered with the configured padding.",
+		);
+	}
+
+	if (sliderMaxValue <= sliderMinValue) {
+		throw new Error("Slider value range must be ordered.");
+	}
+
+	const targetSliderValue = pickTargetSliderValue({
+		rng,
+		sliderMinValue,
+		sliderMaxValue,
+		targetSliderPaddingRatio,
+	});
+	const startSliderValue = sliderMinValue;
+	const rotationSpanDeg = pickTravelSpanDeg({
+		rng,
+		minTravelTurns,
+		maxTravelTurns,
+	});
+	const degreesPerSliderUnit = rotationSpanDeg / (sliderMaxValue - sliderMinValue);
+	const startRotationDeg = normalizeRotationDeg(
+		DEFAULT_TARGET_ROTATION_DEG + (startSliderValue - targetSliderValue) * degreesPerSliderUnit,
+	);
 
 	return {
-		shape,
-		sliderStartX,
-		targetX: targetNotch.x,
-		targetY: targetNotch.y,
-		targetNotch,
-		decoyNotch,
-		pieceRotation,
-		minNotchDistance,
+		circleCenter,
+		circleRadius,
 		safeBounds,
-		maxTravel: canvasWidth - padding - rotationInsetX - shape.width - sliderStartX,
+		sliderMinValue,
+		sliderMaxValue,
+		startSliderValue,
+		targetSliderValue,
+		rotationSpanDeg,
+		degreesPerSliderUnit,
+		startRotationDeg,
+		targetRotationDeg: DEFAULT_TARGET_ROTATION_DEG,
 	};
 }
 
-export function createFreshCaptchaState({ sliderStartX }) {
+export function createFreshCaptchaState({ startRotationDeg, startSliderValue }) {
 	return {
-		currentPieceX: sliderStartX,
-		sliderValue: 0,
+		currentRotationDeg: startRotationDeg,
+		sliderValue: startSliderValue,
+		startRotationDeg,
+		startSliderValue,
 		isAnimating: false,
 		isLocked: false,
 		status: "idle",
 	};
 }
 
-export function sliderValueToPieceX({ sliderValue, sliderStartX, maxTravel }) {
-	return sliderStartX + clamp(sliderValue, 0, maxTravel);
+export function sliderValueToRotation({ sliderValue, challenge }) {
+	const nextSliderValue = clamp(
+		Number(sliderValue),
+		challenge.sliderMinValue,
+		challenge.sliderMaxValue,
+	);
+
+	return normalizeRotationDeg(
+		challenge.targetRotationDeg +
+			(nextSliderValue - challenge.targetSliderValue) * challenge.degreesPerSliderUnit,
+	);
 }
 
-export function evaluateAttempt({ pieceX, targetX, tolerancePx }) {
-	const delta = Math.abs(pieceX - targetX);
+export function evaluateRotationAttempt({
+	currentRotationDeg,
+	targetRotationDeg,
+	toleranceDeg,
+}) {
+	const deltaDeg = getShortestDistanceDeg(currentRotationDeg, targetRotationDeg);
 
 	return {
-		success: delta <= tolerancePx,
-		delta,
+		success: deltaDeg <= toleranceDeg,
+		deltaDeg,
 	};
+}
+
+export function interpolateRotationDeg({ fromDeg, toDeg, progress }) {
+	const easedProgress = clamp(progress, 0, 1);
+	return normalizeRotationDeg(fromDeg + getRotationDeltaDeg(fromDeg, toDeg) * easedProgress);
 }
