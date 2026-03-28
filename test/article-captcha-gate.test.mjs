@@ -55,7 +55,10 @@ test("article captcha gate component exposes sitewide defaults and first-visit s
 	assert.match(gateComponent, /step="0\.01"/);
 	assert.match(gateComponent, /\.article-captcha-overlay\s*\{[\s\S]*position:\s*fixed;/);
 	assert.match(gateComponent, /\.article-captcha-overlay\s*\{[\s\S]*inset:\s*0;/);
+	assert.match(gateComponent, /\.article-captcha-overlay\s*\{[\s\S]*overflow-y:\s*auto;/);
 	assert.match(gateComponent, /\.article-captcha-card\s*\{[\s\S]*width:\s*min\(100%,\s*860px\);/);
+	assert.match(gateComponent, /\.article-captcha-card\s*\{[\s\S]*max-height:\s*calc\(100vh\s*-\s*56px\);/);
+	assert.match(gateComponent, /\.article-captcha-card\s*\{[\s\S]*overflow-y:\s*auto;/);
 	assert.match(gateComponent, /\.article-captcha-slider\s*\{[\s\S]*height:\s*20px;/);
 });
 

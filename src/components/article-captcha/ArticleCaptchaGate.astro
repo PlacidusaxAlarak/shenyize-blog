@@ -112,6 +112,8 @@ const {
 		display: grid;
 		place-items: center;
 		padding: 28px 18px;
+		overflow-y: auto;
+		overscroll-behavior: contain;
 	}
 
 	.article-captcha-overlay-backdrop {
@@ -143,6 +145,7 @@ const {
 		position: relative;
 		z-index: 1;
 		width: min(100%, 860px);
+		max-height: calc(100vh - 56px);
 		padding: 28px;
 		border: 1px solid var(--article-captcha-border);
 		border-radius: 28px;
@@ -158,6 +161,7 @@ const {
 			"Trebuchet MS",
 			sans-serif;
 		color: var(--article-captcha-ink);
+		overflow-y: auto;
 	}
 
 	.article-captcha-eyebrow {
