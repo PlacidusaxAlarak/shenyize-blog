@@ -40,25 +40,32 @@ test("shared pages inherit the captcha gate from layouts instead of page-local w
 	assert.doesNotMatch(postsPage, /<ArticleCaptchaGate>/);
 });
 
-test("article captcha gate component exposes sitewide defaults and first-visit site copy", async () => {
+test("article captcha gate component exposes sitewide defaults without hint copy and keeps the slider visible in the viewport", async () => {
 	const gateComponent = await readRepoFile("src/components/article-captcha/ArticleCaptchaGate.astro");
 
 	assert.match(gateComponent, /storageKey = "site-captcha:passed"/);
 	assert.match(gateComponent, /backgroundImageUrl = "\/captcha\/preview\.jpg"/);
 	assert.match(gateComponent, /fallbackBackgroundImageUrl = "\/captcha\/placeholder-background\.svg"/);
-	assert.match(gateComponent, /localhost rotate captcha sandbox/);
-	assert.match(gateComponent, /旋转拼图验证码/);
-	assert.match(gateComponent, /拖动下方滑块，旋转中央圆片，让圆内图像与周围背景重新拼接到正确角度。/);
-	assert.match(gateComponent, /当前主图按原始比例显示，不再强制拉伸。/);
-	assert.match(gateComponent, /拖动滑块旋转中央圆片/);
+	assert.match(gateComponent, /安全验证/);
+	assert.match(gateComponent, /拖动滑块完成验证/);
+	assert.doesNotMatch(gateComponent, /localhost rotate captcha sandbox/);
+	assert.doesNotMatch(gateComponent, /旋转拼图验证码/);
+	assert.doesNotMatch(gateComponent, /拖动下方滑块，旋转中央圆片，让圆内图像与周围背景重新拼接到正确角度。/);
+	assert.doesNotMatch(gateComponent, /当前主图按原始比例显示，不再强制拉伸。/);
+	assert.doesNotMatch(gateComponent, /每道题的正确位置和旋转灵敏度都会随机变化/);
 	assert.match(gateComponent, /max="100"/);
 	assert.match(gateComponent, /step="0\.01"/);
 	assert.match(gateComponent, /\.article-captcha-overlay\s*\{[\s\S]*position:\s*fixed;/);
 	assert.match(gateComponent, /\.article-captcha-overlay\s*\{[\s\S]*inset:\s*0;/);
-	assert.match(gateComponent, /\.article-captcha-overlay\s*\{[\s\S]*overflow-y:\s*auto;/);
+	assert.match(gateComponent, /\.article-captcha-overlay\s*\{[\s\S]*padding:\s*clamp\(12px,\s*2\.8dvh,\s*24px\)\s+18px;/);
 	assert.match(gateComponent, /\.article-captcha-card\s*\{[\s\S]*width:\s*min\(100%,\s*860px\);/);
-	assert.match(gateComponent, /\.article-captcha-card\s*\{[\s\S]*max-height:\s*calc\(100vh\s*-\s*56px\);/);
-	assert.match(gateComponent, /\.article-captcha-card\s*\{[\s\S]*overflow-y:\s*auto;/);
+	assert.match(gateComponent, /\.article-captcha-overlay\s*\{[\s\S]*--article-captcha-overlay-padding:\s*clamp\(12px,\s*2\.8dvh,\s*24px\);/);
+	assert.match(
+		gateComponent,
+		/\.article-captcha-card\s*\{[\s\S]*max-height:\s*calc\(100dvh\s*-\s*\(var\(--article-captcha-overlay-padding\)\s*\*\s*2\)\);/,
+	);
+	assert.match(gateComponent, /\.article-captcha-card\s*\{[\s\S]*display:\s*grid;/);
+	assert.match(gateComponent, /\.article-captcha-canvas-frame\s*\{[\s\S]*width:\s*min\(100%,\s*620px,\s*52dvh\);/);
 	assert.match(gateComponent, /\.article-captcha-slider\s*\{[\s\S]*height:\s*20px;/);
 });
 
@@ -187,6 +194,9 @@ test("article captcha runtime keeps simulator-style slider behavior, session pas
 	assert.match(runtime, /minTravelTurns:\s*0\.5/);
 	assert.match(runtime, /maxTravelTurns:\s*0\.95/);
 	assert.match(runtime, /targetSliderPaddingRatio:\s*0\.18/);
+	assert.match(runtime, /focus\(\{\s*preventScroll:\s*true\s*\}\)/);
+	assert.doesNotMatch(runtime, /每道题的正确位置和旋转灵敏度都会随机变化/);
+	assert.doesNotMatch(runtime, /角度误差/);
 	assert.doesNotMatch(runtime, /recordChallenge/);
 	assert.doesNotMatch(runtime, /challengeRecordEndpoint/);
 });

@@ -34,16 +34,10 @@ const {
 	>
 		<div class="article-captcha-overlay-backdrop"></div>
 		<div class="article-captcha-card">
-			<p class="article-captcha-eyebrow">localhost rotate captcha sandbox</p>
 			<div class="article-captcha-header">
-				<div>
-					<h2 id="article-captcha-title" class="article-captcha-title">旋转拼图验证码</h2>
-					<p id="article-captcha-description" class="article-captcha-description">
-						拖动下方滑块，旋转中央圆片，让圆内图像与周围背景重新拼接到正确角度。
-					</p>
-				</div>
-				<p class="article-captcha-note">
-					当前主图按原始比例显示，不再强制拉伸。每道题的正确滑块位置和旋转灵敏度都会随机变化。
+				<h2 id="article-captcha-title" class="article-captcha-title">安全验证</h2>
+				<p id="article-captcha-description" class="article-captcha-sr-only">
+					拖动滑块完成验证。
 				</p>
 			</div>
 
@@ -53,14 +47,14 @@ const {
 					data-article-captcha-canvas
 					width="620"
 					height="620"
-					aria-label="旋转拼图验证码画布"
+					aria-label="验证码画布"
 				></canvas>
 			</div>
 
 			<div class="article-captcha-slider-panel">
 				<div class="article-captcha-slider-header">
-					<label class="article-captcha-slider-label" for="article-captcha-slider">
-						拖动滑块旋转中央圆片
+					<label class="article-captcha-sr-only" for="article-captcha-slider">
+						拖动滑块完成验证
 					</label>
 					<button class="article-captcha-refresh" data-article-captcha-refresh type="button">
 						刷新验证码
@@ -88,9 +82,6 @@ const {
 				>
 					正在加载验证码...
 				</p>
-				<p class="article-captcha-meta" data-article-captcha-meta>
-					每道题的正确位置和旋转灵敏度都会随机变化；主图加载失败时回退到本站占位图。
-				</p>
 			</div>
 		</div>
 	</div>
@@ -106,12 +97,13 @@ const {
 	}
 
 	.article-captcha-overlay {
+		--article-captcha-overlay-padding: clamp(12px, 2.8dvh, 24px);
 		position: fixed;
 		inset: 0;
 		z-index: 110;
 		display: grid;
 		place-items: center;
-		padding: 28px 18px;
+		padding: clamp(12px, 2.8dvh, 24px) 18px;
 		overflow-y: auto;
 		overscroll-behavior: contain;
 	}
@@ -145,8 +137,8 @@ const {
 		position: relative;
 		z-index: 1;
 		width: min(100%, 860px);
-		max-height: calc(100vh - 56px);
-		padding: 28px;
+		max-height: calc(100dvh - (var(--article-captcha-overlay-padding) * 2));
+		padding: clamp(16px, 2.2dvh, 22px);
 		border: 1px solid var(--article-captcha-border);
 		border-radius: 28px;
 		background:
@@ -161,55 +153,39 @@ const {
 			"Trebuchet MS",
 			sans-serif;
 		color: var(--article-captcha-ink);
-		overflow-y: auto;
-	}
-
-	.article-captcha-eyebrow {
-		margin: 0 0 10px;
-		font-size: 0.8rem;
-		text-transform: uppercase;
-		letter-spacing: 0.22em;
-		color: var(--article-captcha-accent-strong);
+		display: grid;
+		gap: clamp(12px, 1.8dvh, 18px);
+		overflow: hidden;
 	}
 
 	.article-captcha-header {
-		display: flex;
-		gap: 18px;
-		align-items: flex-start;
-		justify-content: space-between;
-		margin-bottom: 22px;
+		display: grid;
+		gap: 0;
 	}
 
 	.article-captcha-title {
 		margin: 0;
-		font-size: clamp(2rem, 3vw, 2.8rem);
-		line-height: 1;
+		font-size: clamp(1.5rem, 2.6vw, 2rem);
+		line-height: 1.1;
 		color: var(--article-captcha-ink);
 	}
 
-	.article-captcha-description {
-		margin: 10px 0 0;
-		max-width: 40rem;
-		color: var(--article-captcha-muted);
-		font-size: 1rem;
-		line-height: 1.5;
-	}
-
-	.article-captcha-note {
-		max-width: 18rem;
-		margin: 0;
-		padding: 12px 14px;
-		border-radius: 16px;
-		background: rgba(255, 255, 255, 0.72);
-		color: var(--article-captcha-muted);
-		font-size: 0.92rem;
-		line-height: 1.45;
+	.article-captcha-sr-only {
+		position: absolute;
+		width: 1px;
+		height: 1px;
+		padding: 0;
+		margin: -1px;
+		overflow: hidden;
+		clip: rect(0, 0, 0, 0);
+		white-space: nowrap;
+		border: 0;
 	}
 
 	.article-captcha-canvas-frame {
-		width: min(100%, 620px);
-		margin: 0 auto;
-		padding: 12px;
+		width: min(100%, 620px, 52dvh);
+		justify-self: center;
+		padding: clamp(8px, 1.2dvh, 12px);
 		border-radius: 24px;
 		background:
 			linear-gradient(145deg, rgba(255, 255, 255, 0.84), rgba(255, 243, 219, 0.92));
@@ -227,8 +203,7 @@ const {
 	}
 
 	.article-captcha-slider-panel {
-		margin-top: 22px;
-		padding: 18px;
+		padding: 14px 16px;
 		border-radius: 20px;
 		background: rgba(255, 255, 255, 0.66);
 		border: 1px solid rgba(28, 29, 32, 0.08);
@@ -236,16 +211,10 @@ const {
 
 	.article-captcha-slider-header {
 		display: flex;
-		gap: 14px;
+		gap: 10px;
 		align-items: center;
-		justify-content: space-between;
-		margin-bottom: 12px;
-	}
-
-	.article-captcha-slider-label {
-		display: block;
-		font-weight: 700;
-		color: var(--article-captcha-ink);
+		justify-content: flex-end;
+		margin-bottom: 10px;
 	}
 
 	.article-captcha-refresh {
@@ -339,10 +308,9 @@ const {
 	.article-captcha-status-panel {
 		display: flex;
 		flex-wrap: wrap;
-		gap: 10px 18px;
+		gap: 10px;
 		align-items: center;
-		justify-content: space-between;
-		margin-top: 18px;
+		justify-content: flex-start;
 	}
 
 	.article-captcha-status {
@@ -367,12 +335,6 @@ const {
 	.article-captcha-status[data-state="loading"] {
 		background: rgba(58, 96, 154, 0.16);
 		color: #274f83;
-	}
-
-	.article-captcha-meta {
-		margin: 0;
-		color: var(--article-captcha-muted);
-		font-size: 0.94rem;
 	}
 
 	.article-captcha-content {
@@ -409,20 +371,7 @@ const {
 
 	@media (max-width: 720px) {
 		.article-captcha-card {
-			padding: 22px;
 			border-radius: 24px;
-		}
-
-		.article-captcha-header,
-		.article-captcha-slider-header {
-			flex-direction: column;
-			align-items: stretch;
-		}
-
-		.article-captcha-note,
-		.article-captcha-refresh {
-			max-width: none;
-			width: 100%;
 		}
 	}
 </style>

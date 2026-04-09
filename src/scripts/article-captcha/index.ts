@@ -18,6 +18,12 @@ const GATE_SELECTOR = "[data-article-captcha-gate]";
 const STORAGE_VALUE = "passed";
 const LOCK_CLASS = "article-captcha-locked";
 const SUCCESS_DISMISS_DELAY_MS = 500;
+const CAPTCHA_INSTRUCTION_TEXT = "拖动滑块完成验证";
+const CAPTCHA_REFRESHED_TEXT = "验证码已刷新，请重新验证";
+const CAPTCHA_SUCCESS_TEXT = "验证成功，正在进入页面...";
+const CAPTCHA_RETRY_TEXT = "验证失败，请重试";
+const CAPTCHA_LOADING_TEXT = "正在加载验证码...";
+const CAPTCHA_LOAD_ERROR_TEXT = "验证码加载失败，请刷新页面重试";
 
 const captchaConfig = Object.freeze({
 	rotationToleranceDeg: 6,
@@ -47,7 +53,6 @@ type ArticleCaptchaElements = {
 	slider: HTMLInputElement;
 	refreshButton: HTMLButtonElement;
 	status: HTMLElement;
-	meta: HTMLElement;
 };
 
 type ArticleCaptchaController = {
@@ -150,7 +155,6 @@ function collectElements(root: GateRoot): ArticleCaptchaElements {
 		slider: getRequiredElement<HTMLInputElement>(root, "[data-article-captcha-slider]"),
 		refreshButton: getRequiredElement<HTMLButtonElement>(root, "[data-article-captcha-refresh]"),
 		status: getRequiredElement<HTMLElement>(root, "[data-article-captcha-status]"),
-		meta: getRequiredElement<HTMLElement>(root, "[data-article-captcha-meta]"),
 	};
 }
 
@@ -168,7 +172,6 @@ function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 
 	let backgroundImage: HTMLImageElement | undefined;
 	let challenge: ReturnType<typeof createRotateChallenge> | undefined;
-	let usingFallbackBackground = false;
 	let challengeVersion = 0;
 	let challengeState = createFreshCaptchaState({
 		startRotationDeg: captchaConfig.sliderMinValue,
@@ -185,20 +188,6 @@ function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 		challengeState.status = state;
 		elements.status.dataset.state = state;
 		elements.status.textContent = message;
-	};
-
-	const updateMeta = () => {
-		const parts = [];
-
-		if (usingFallbackBackground) {
-			parts.push("主图加载失败，当前使用本站占位图。");
-		}
-
-		parts.push(
-			`每道题的正确位置和旋转灵敏度都会随机变化，通过条件为角度误差不超过 ±${captchaConfig.rotationToleranceDeg}°。`,
-		);
-
-		elements.meta.textContent = parts.join("");
 	};
 
 	const drawScene = () => {
@@ -293,7 +282,7 @@ function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 				return;
 			}
 
-			setStatus("idle", "继续旋转圆片，直到圆内图像与外部背景完全贴合。");
+			setStatus("idle", CAPTCHA_INSTRUCTION_TEXT);
 			syncRotation(value);
 		},
 		async onRelease(value: number) {
@@ -314,10 +303,7 @@ function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 				const successVersion = challengeVersion;
 				sliderController.setDisabled(true);
 				elements.refreshButton.disabled = true;
-				setStatus(
-					"success",
-					`验证成功，当前角度误差 ${Math.round(result.deltaDeg)}°。正在继续显示页面...`,
-				);
+				setStatus("success", CAPTCHA_SUCCESS_TEXT);
 				drawScene();
 				await pause(SUCCESS_DISMISS_DELAY_MS);
 				if (successVersion !== challengeVersion || !root.isConnected) {
@@ -330,10 +316,7 @@ function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 			const releaseVersion = challengeVersion;
 			challengeState.isAnimating = true;
 			sliderController.setDisabled(true);
-			setStatus(
-				"error",
-				`验证失败，当前角度误差 ${Math.round(result.deltaDeg)}°。圆片正在回到起始位置。`,
-			);
+			setStatus("error", CAPTCHA_RETRY_TEXT);
 			drawScene();
 
 			const completed = await animateBackToStart(releaseVersion);
@@ -344,7 +327,7 @@ function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 
 			challengeState.isAnimating = false;
 			sliderController.setDisabled(false);
-			setStatus("error", "验证失败，圆片已回到起始位置。你可以重试，或点击“刷新验证码”。");
+			setStatus("error", CAPTCHA_RETRY_TEXT);
 			drawScene();
 		},
 	});
@@ -378,15 +361,9 @@ function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 		configureSlider();
 		sliderController.setDisabled(false);
 		elements.refreshButton.disabled = false;
-		updateMeta();
-		setStatus(
-			"idle",
-			reason === "refresh"
-				? "验证码已刷新，正确位置和旋转灵敏度已重新生成。"
-				: "拖动下方滑块，旋转中央圆片，让图像重新对齐。",
-		);
+		setStatus("idle", reason === "refresh" ? CAPTCHA_REFRESHED_TEXT : CAPTCHA_INSTRUCTION_TEXT);
 		drawScene();
-		elements.slider.focus();
+		elements.slider.focus({ preventScroll: true });
 	};
 
 	const initializeCaptcha = async () => {
@@ -399,7 +376,7 @@ function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 		sliderController.setDisabled(true);
 		elements.refreshButton.disabled = true;
 		updateSliderVisual(elements.slider, captchaConfig.sliderMinValue);
-		setStatus("loading", "正在加载验证码...");
+		setStatus("loading", CAPTCHA_LOADING_TEXT);
 
 		try {
 			const imageState = await loadBackgroundImage(
@@ -408,14 +385,13 @@ function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 			);
 
 			backgroundImage = imageState.image;
-			usingFallbackBackground = imageState.usedFallback;
 			configureCanvasForImage(backgroundImage);
 			createChallenge("initial");
 		} catch (error) {
 			sliderController.setDisabled(true);
 			elements.refreshButton.disabled = true;
-			elements.meta.textContent = "背景图加载失败，请检查验证码图片路径。";
-			setStatus("error", error instanceof Error ? error.message : String(error));
+			console.error("Unable to initialize the site captcha background.", error);
+			setStatus("error", CAPTCHA_LOAD_ERROR_TEXT);
 		}
 	};
 
