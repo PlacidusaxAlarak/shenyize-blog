@@ -33,7 +33,7 @@ const {
 		aria-describedby="article-captcha-description"
 	>
 		<div class="article-captcha-overlay-backdrop"></div>
-		<div class="article-captcha-card">
+		<div class="article-captcha-card" data-article-captcha-card>
 			<div class="article-captcha-header">
 				<h2 id="article-captcha-title" class="article-captcha-title">安全验证</h2>
 				<p id="article-captcha-description" class="article-captcha-sr-only">
@@ -41,7 +41,7 @@ const {
 				</p>
 			</div>
 
-			<div class="article-captcha-canvas-frame">
+			<div class="article-captcha-canvas-frame" data-article-captcha-canvas-frame>
 				<canvas
 					class="article-captcha-canvas"
 					data-article-captcha-canvas
@@ -50,16 +50,17 @@ const {
 					aria-label="验证码画布"
 				></canvas>
 			</div>
+		</div>
 
+		<div
+			class="article-captcha-controls"
+			data-article-captcha-controls
+			data-positioned="false"
+		>
 			<div class="article-captcha-slider-panel">
-				<div class="article-captcha-slider-header">
-					<label class="article-captcha-sr-only" for="article-captcha-slider">
-						拖动滑块完成验证
-					</label>
-					<button class="article-captcha-refresh" data-article-captcha-refresh type="button">
-						刷新验证码
-					</button>
-				</div>
+				<label class="article-captcha-sr-only" for="article-captcha-slider">
+					拖动滑块完成验证
+				</label>
 				<input
 					id="article-captcha-slider"
 					class="article-captcha-slider"
@@ -98,6 +99,7 @@ const {
 
 	.article-captcha-overlay {
 		--article-captcha-overlay-padding: clamp(12px, 2.8dvh, 24px);
+		--article-captcha-canvas-limit: 700px;
 		position: fixed;
 		inset: 0;
 		z-index: 110;
@@ -158,6 +160,32 @@ const {
 		overflow: hidden;
 	}
 
+	.article-captcha-controls {
+		position: absolute;
+		top: var(--article-captcha-controls-top, 18px);
+		left: var(--article-captcha-controls-left, 18px);
+		z-index: 2;
+		width: min(360px, calc(100vw - 36px));
+		display: grid;
+		gap: 10px;
+		padding: 14px;
+		border-radius: 24px;
+		background:
+			linear-gradient(180deg, rgba(255, 255, 255, 0.9), rgba(255, 245, 226, 0.86)),
+			rgba(247, 240, 220, 0.92);
+		border: 1px solid rgba(28, 29, 32, 0.08);
+		box-shadow: 0 20px 44px rgba(39, 30, 14, 0.2);
+		backdrop-filter: blur(10px);
+		opacity: 0;
+		pointer-events: none;
+		transition: opacity 180ms ease;
+	}
+
+	.article-captcha-controls[data-positioned="true"] {
+		opacity: 1;
+		pointer-events: auto;
+	}
+
 	.article-captcha-header {
 		display: grid;
 		gap: 0;
@@ -183,7 +211,7 @@ const {
 	}
 
 	.article-captcha-canvas-frame {
-		width: min(100%, 620px, 52dvh);
+		width: min(100%, var(--article-captcha-canvas-limit, 700px));
 		justify-self: center;
 		padding: clamp(8px, 1.2dvh, 12px);
 		border-radius: 24px;
@@ -203,50 +231,7 @@ const {
 	}
 
 	.article-captcha-slider-panel {
-		padding: 14px 16px;
-		border-radius: 20px;
-		background: rgba(255, 255, 255, 0.66);
-		border: 1px solid rgba(28, 29, 32, 0.08);
-	}
-
-	.article-captcha-slider-header {
-		display: flex;
-		gap: 10px;
-		align-items: center;
-		justify-content: flex-end;
-		margin-bottom: 10px;
-	}
-
-	.article-captcha-refresh {
-		appearance: none;
-		border: 0;
-		border-radius: 999px;
-		padding: 10px 16px;
-		background: linear-gradient(135deg, #8e4318 0%, #d97832 100%);
-		color: #fff7ec;
-		font-size: 0.95rem;
-		font-weight: 700;
-		letter-spacing: 0.02em;
-		cursor: pointer;
-		box-shadow: 0 10px 24px rgba(114, 49, 15, 0.22);
-		transition:
-			transform 140ms ease,
-			box-shadow 140ms ease,
-			opacity 140ms ease;
-	}
-
-	.article-captcha-refresh:hover:enabled {
-		transform: translateY(-1px);
-		box-shadow: 0 14px 28px rgba(114, 49, 15, 0.28);
-	}
-
-	.article-captcha-refresh:active:enabled {
-		transform: translateY(0);
-	}
-
-	.article-captcha-refresh:disabled {
-		opacity: 0.6;
-		cursor: wait;
+		padding: 0;
 	}
 
 	.article-captcha-slider {
@@ -308,7 +293,7 @@ const {
 	.article-captcha-status-panel {
 		display: flex;
 		flex-wrap: wrap;
-		gap: 10px;
+		gap: 8px;
 		align-items: center;
 		justify-content: flex-start;
 	}

@@ -3,6 +3,13 @@ export interface Point {
 	y: number;
 }
 
+export interface Rect {
+	left: number;
+	top: number;
+	right: number;
+	bottom: number;
+}
+
 export interface RotateChallenge {
 	circleCenter: Point;
 	circleRadius: number;
@@ -17,6 +24,8 @@ export interface RotateChallenge {
 	startSliderValue: number;
 	targetSliderValue: number;
 	rotationSpanDeg: number;
+	sensitivityScale: number;
+	rotationDirection: -1 | 1;
 	degreesPerSliderUnit: number;
 	startRotationDeg: number;
 	targetRotationDeg: number;
@@ -47,6 +56,33 @@ export function resolveCircleRadius(options: {
 	padding: number;
 	circleRadiusRatio?: number;
 }): number;
+
+export function resolveVisibleCanvasLimit(options: {
+	viewportWidth: number;
+	viewportHeight: number;
+	overlayPadding: number;
+	cardPaddingX: number;
+	cardPaddingY: number;
+	headerHeight: number;
+	contentGap: number;
+	framePaddingX: number;
+	framePaddingY: number;
+	maxCanvasWidth: number;
+}): number;
+
+export function resolveFloatingPanelPosition(options: {
+	viewportWidth: number;
+	viewportHeight: number;
+	panelWidth: number;
+	panelHeight: number;
+	blockedRect?: Rect;
+	padding?: number;
+	gap?: number;
+	rng?: () => number;
+}): {
+	left: number;
+	top: number;
+};
 
 export function createRotateChallenge(options: {
 	canvasWidth: number;

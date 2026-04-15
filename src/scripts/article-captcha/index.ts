@@ -7,6 +7,8 @@ import {
 	evaluateRotationAttempt,
 	resolveCanvasSize,
 	resolveCircleRadius,
+	resolveFloatingPanelPosition,
+	resolveVisibleCanvasLimit,
 	sliderValueToRotation,
 } from "./logic.mjs";
 // @ts-ignore This client bundle imports runtime-authored .mjs helpers for direct node:test coverage.
@@ -19,7 +21,6 @@ const STORAGE_VALUE = "passed";
 const LOCK_CLASS = "article-captcha-locked";
 const SUCCESS_DISMISS_DELAY_MS = 500;
 const CAPTCHA_INSTRUCTION_TEXT = "拖动滑块完成验证";
-const CAPTCHA_REFRESHED_TEXT = "验证码已刷新，请重新验证";
 const CAPTCHA_SUCCESS_TEXT = "验证成功，正在进入页面...";
 const CAPTCHA_RETRY_TEXT = "验证失败，请重试";
 const CAPTCHA_LOADING_TEXT = "正在加载验证码...";
@@ -27,7 +28,7 @@ const CAPTCHA_LOAD_ERROR_TEXT = "验证码加载失败，请刷新页面重试";
 
 const captchaConfig = Object.freeze({
 	rotationToleranceDeg: 6,
-	maxCanvasWidth: 620,
+	maxCanvasWidth: 760,
 	padding: 18,
 	circleRadiusRatio: 0.18,
 	sliderMinValue: 0,
@@ -35,6 +36,8 @@ const captchaConfig = Object.freeze({
 	minTravelTurns: 0.5,
 	maxTravelTurns: 0.95,
 	targetSliderPaddingRatio: 0.18,
+	floatingControlsPadding: 18,
+	floatingControlsGap: 18,
 });
 
 type GateRoot = HTMLElement & {
@@ -49,10 +52,20 @@ type GateRoot = HTMLElement & {
 type ArticleCaptchaElements = {
 	content: HTMLElement;
 	overlay: HTMLElement;
+	card: HTMLElement;
+	header: HTMLElement;
+	canvasFrame: HTMLElement;
+	controls: HTMLElement;
 	canvas: HTMLCanvasElement;
 	slider: HTMLInputElement;
-	refreshButton: HTMLButtonElement;
 	status: HTMLElement;
+};
+
+type RelativeRect = {
+	left: number;
+	top: number;
+	right: number;
+	bottom: number;
 };
 
 type ArticleCaptchaController = {
@@ -151,9 +164,12 @@ function collectElements(root: GateRoot): ArticleCaptchaElements {
 	return {
 		content: getRequiredElement<HTMLElement>(root, "[data-article-captcha-content]"),
 		overlay: getRequiredElement<HTMLElement>(root, "[data-article-captcha-overlay]"),
+		card: getRequiredElement<HTMLElement>(root, "[data-article-captcha-card]"),
+		header: getRequiredElement<HTMLElement>(root, ".article-captcha-header"),
+		canvasFrame: getRequiredElement<HTMLElement>(root, "[data-article-captcha-canvas-frame]"),
+		controls: getRequiredElement<HTMLElement>(root, "[data-article-captcha-controls]"),
 		canvas: getRequiredElement<HTMLCanvasElement>(root, "[data-article-captcha-canvas]"),
 		slider: getRequiredElement<HTMLInputElement>(root, "[data-article-captcha-slider]"),
-		refreshButton: getRequiredElement<HTMLButtonElement>(root, "[data-article-captcha-refresh]"),
 		status: getRequiredElement<HTMLElement>(root, "[data-article-captcha-status]"),
 	};
 }
@@ -173,6 +189,7 @@ function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 	let backgroundImage: HTMLImageElement | undefined;
 	let challenge: ReturnType<typeof createRotateChallenge> | undefined;
 	let challengeVersion = 0;
+	let controlsPositionFrame = 0;
 	let challengeState = createFreshCaptchaState({
 		startRotationDeg: captchaConfig.sliderMinValue,
 		startSliderValue: captchaConfig.sliderMinValue,
@@ -188,6 +205,126 @@ function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 		challengeState.status = state;
 		elements.status.dataset.state = state;
 		elements.status.textContent = message;
+	};
+
+	const toRelativeRect = (rect: DOMRect, containerRect: DOMRect): RelativeRect => ({
+		left: rect.left - containerRect.left,
+		top: rect.top - containerRect.top,
+		right: rect.right - containerRect.left,
+		bottom: rect.bottom - containerRect.top,
+	});
+
+	const readOverlayPadding = () => {
+		const overlayStyles = getComputedStyle(elements.overlay);
+		const values = [
+			overlayStyles.paddingTop,
+			overlayStyles.paddingRight,
+			overlayStyles.paddingBottom,
+			overlayStyles.paddingLeft,
+		]
+			.map((value) => Number.parseFloat(value))
+			.filter((value) => Number.isFinite(value));
+
+		return values.length > 0
+			? Math.max(captchaConfig.floatingControlsPadding, ...values)
+			: captchaConfig.floatingControlsPadding;
+	};
+
+	const readStyleSum = (styles: CSSStyleDeclaration, propertyNames: string[]) =>
+		propertyNames.reduce((sum, propertyName) => {
+			const value = Number.parseFloat(styles.getPropertyValue(propertyName));
+			return Number.isFinite(value) ? sum + value : sum;
+		}, 0);
+
+	const readGapValue = (styles: CSSStyleDeclaration) => {
+		for (const propertyName of ["row-gap", "gap"]) {
+			const value = Number.parseFloat(styles.getPropertyValue(propertyName));
+			if (Number.isFinite(value)) {
+				return value;
+			}
+		}
+
+		return 0;
+	};
+
+	const applyFloatingControlsPosition = () => {
+		if (!root.isConnected || root.dataset.gateState === "passed") {
+			return;
+		}
+
+		const overlayRect = elements.overlay.getBoundingClientRect();
+		const controlsRect = elements.controls.getBoundingClientRect();
+		if (
+			overlayRect.width <= 0 ||
+			overlayRect.height <= 0 ||
+			controlsRect.width <= 0 ||
+			controlsRect.height <= 0
+		) {
+			return;
+		}
+
+		const padding = readOverlayPadding();
+		const candidateBlockedRects = [elements.card, elements.canvasFrame]
+			.map((element) => element.getBoundingClientRect())
+			.filter((rect) => rect.width > 0 && rect.height > 0)
+			.map((rect) => toRelativeRect(rect, overlayRect));
+
+		let nextPosition: { left: number; top: number } | undefined;
+		for (const blockedRect of candidateBlockedRects) {
+			try {
+				nextPosition = resolveFloatingPanelPosition({
+					viewportWidth: overlayRect.width,
+					viewportHeight: overlayRect.height,
+					panelWidth: controlsRect.width,
+					panelHeight: controlsRect.height,
+					blockedRect,
+					padding,
+					gap: captchaConfig.floatingControlsGap,
+				});
+				break;
+			} catch {
+				continue;
+			}
+		}
+
+		if (!nextPosition) {
+			try {
+				nextPosition = resolveFloatingPanelPosition({
+					viewportWidth: overlayRect.width,
+					viewportHeight: overlayRect.height,
+					panelWidth: controlsRect.width,
+					panelHeight: controlsRect.height,
+					padding,
+					gap: 0,
+				});
+			} catch {
+				nextPosition = {
+					left: padding,
+					top: padding,
+				};
+			}
+		}
+
+		elements.controls.style.setProperty(
+			"--article-captcha-controls-left",
+			`${nextPosition.left}px`,
+		);
+		elements.controls.style.setProperty(
+			"--article-captcha-controls-top",
+			`${nextPosition.top}px`,
+		);
+		elements.controls.dataset.positioned = "true";
+	};
+
+	const scheduleFloatingControlsPosition = () => {
+		if (controlsPositionFrame) {
+			cancelAnimationFrame(controlsPositionFrame);
+		}
+
+		controlsPositionFrame = requestAnimationFrame(() => {
+			controlsPositionFrame = 0;
+			applyFloatingControlsPosition();
+		});
 	};
 
 	const drawScene = () => {
@@ -209,14 +346,37 @@ function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 	const configureCanvasForImage = (image: HTMLImageElement) => {
 		const sourceWidth = image.naturalWidth || image.width || captchaConfig.maxCanvasWidth;
 		const sourceHeight = image.naturalHeight || image.height || captchaConfig.maxCanvasWidth;
+		const overlayRect = elements.overlay.getBoundingClientRect();
+		const headerRect = elements.header.getBoundingClientRect();
+		const cardStyles = getComputedStyle(elements.card);
+		const frameStyles = getComputedStyle(elements.canvasFrame);
+		const overlayPadding = readOverlayPadding();
+		const cardPaddingX = readStyleSum(cardStyles, ["padding-left", "padding-right"]);
+		const cardPaddingY = readStyleSum(cardStyles, ["padding-top", "padding-bottom"]);
+		const framePaddingX = readStyleSum(frameStyles, ["padding-left", "padding-right"]);
+		const framePaddingY = readStyleSum(frameStyles, ["padding-top", "padding-bottom"]);
+		const contentGap = readGapValue(cardStyles);
+		const visibleCanvasLimit = resolveVisibleCanvasLimit({
+			viewportWidth: overlayRect.width || window.innerWidth,
+			viewportHeight: overlayRect.height || window.innerHeight,
+			overlayPadding,
+			cardPaddingX,
+			cardPaddingY,
+			headerHeight: headerRect.height,
+			contentGap,
+			framePaddingX,
+			framePaddingY,
+			maxCanvasWidth: captchaConfig.maxCanvasWidth,
+		});
 		const { canvasWidth, canvasHeight } = resolveCanvasSize({
 			sourceWidth,
 			sourceHeight,
-			maxCanvasWidth: captchaConfig.maxCanvasWidth,
+			maxCanvasWidth: visibleCanvasLimit,
 		});
 
 		elements.canvas.width = canvasWidth;
 		elements.canvas.height = canvasHeight;
+		elements.overlay.style.setProperty("--article-captcha-canvas-limit", `${canvasWidth}px`);
 	};
 
 	const configureSlider = () => {
@@ -302,7 +462,6 @@ function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 				challengeState.isLocked = true;
 				const successVersion = challengeVersion;
 				sliderController.setDisabled(true);
-				elements.refreshButton.disabled = true;
 				setStatus("success", CAPTCHA_SUCCESS_TEXT);
 				drawScene();
 				await pause(SUCCESS_DISMISS_DELAY_MS);
@@ -332,7 +491,7 @@ function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 		},
 	});
 
-	const createChallenge = (reason: "initial" | "refresh") => {
+	const createChallenge = () => {
 		challengeVersion += 1;
 		const circleRadius = resolveCircleRadius({
 			canvasWidth: elements.canvas.width,
@@ -360,9 +519,9 @@ function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 		sliderController.clearPointerSession();
 		configureSlider();
 		sliderController.setDisabled(false);
-		elements.refreshButton.disabled = false;
-		setStatus("idle", reason === "refresh" ? CAPTCHA_REFRESHED_TEXT : CAPTCHA_INSTRUCTION_TEXT);
+		setStatus("idle", CAPTCHA_INSTRUCTION_TEXT);
 		drawScene();
+		scheduleFloatingControlsPosition();
 		elements.slider.focus({ preventScroll: true });
 	};
 
@@ -374,9 +533,9 @@ function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 
 		setGateLocked(root, elements, true);
 		sliderController.setDisabled(true);
-		elements.refreshButton.disabled = true;
 		updateSliderVisual(elements.slider, captchaConfig.sliderMinValue);
 		setStatus("loading", CAPTCHA_LOADING_TEXT);
+		scheduleFloatingControlsPosition();
 
 		try {
 			const imageState = await loadBackgroundImage(
@@ -386,31 +545,29 @@ function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 
 			backgroundImage = imageState.image;
 			configureCanvasForImage(backgroundImage);
-			createChallenge("initial");
+			createChallenge();
 		} catch (error) {
 			sliderController.setDisabled(true);
-			elements.refreshButton.disabled = true;
 			console.error("Unable to initialize the site captcha background.", error);
 			setStatus("error", CAPTCHA_LOAD_ERROR_TEXT);
 		}
 	};
 
-	const handleRefresh = () => {
-		if (!backgroundImage) {
-			return;
-		}
-
-		createChallenge("refresh");
+	const handleViewportResize = () => {
+		scheduleFloatingControlsPosition();
 	};
 
-	elements.refreshButton.addEventListener("click", handleRefresh);
+	window.addEventListener("resize", handleViewportResize);
 	void initializeCaptcha();
 
 	return {
 		root,
 		destroy() {
+			if (controlsPositionFrame) {
+				cancelAnimationFrame(controlsPositionFrame);
+			}
 			sliderController.destroy();
-			elements.refreshButton.removeEventListener("click", handleRefresh);
+			window.removeEventListener("resize", handleViewportResize);
 			if (root.isConnected) {
 				elements.content.inert = false;
 			}
