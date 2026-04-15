@@ -1,0 +1,122 @@
+{
+  "objectID": 700958,
+  "isHighlight": false,
+  "accessionNumber": "2015.653.32",
+  "accessionYear": "2015",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP861769.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP861769.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 92087,
+      "role": "Engraver",
+      "name": "Henry Linton",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032872",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18511869",
+      "gender": ""
+    },
+    {
+      "constituentID": 80402,
+      "role": "Draftsman",
+      "name": "After an intermediary drawing by Edmond Morin",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500043504",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q17113961",
+      "gender": ""
+    },
+    {
+      "constituentID": 162573,
+      "role": "Artist",
+      "name": "After Joseph Mallord William Turner",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026846",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q159758",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "The Goddess of Discord in the Garden of the Hesperides, from \"lllustrated London News\"",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Engraver",
+  "artistPrefix": "",
+  "artistDisplayName": "Henry Linton",
+  "artistDisplayBio": "British, London 1815–1899 Kingston-upon-Thames",
+  "artistSuffix": "",
+  "artistAlphaSort": "Linton, Henry",
+  "artistNationality": "British",
+  "artistBeginDate": "1815",
+  "artistEndDate": "1899",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q18511869",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500032872",
+  "objectDate": "January 31, 1857",
+  "objectBeginDate": 1857,
+  "objectEndDate": 1857,
+  "medium": "Wood engraving",
+  "dimensions": "Image: 9 3/16 × 13 7/16 in. (23.4 × 34.2 cm)\r\nSheet: 9 13/16 × 13 3/4 in. (25 × 35 cm)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 23.4,
+        "Width": 34.2
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 25,
+        "Width": 35
+      }
+    }
+  ],
+  "creditLine": "Gift of Donato Esposito, 2015",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/700958",
+  "tags": [
+    {
+      "term": "Gardens",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008090",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1107656"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Goddess",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300343852",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q205985"
+    },
+    {
+      "term": "Bathing",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300343854",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q327651"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

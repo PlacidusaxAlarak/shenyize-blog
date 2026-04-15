@@ -1,0 +1,133 @@
+{
+  "objectID": 708343,
+  "isHighlight": false,
+  "accessionNumber": "17.3.756-2419",
+  "accessionYear": "1917",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP858197.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP858197.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 190502,
+      "role": "Engraver",
+      "name": "William Holl, the Elder",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18508736",
+      "gender": ""
+    },
+    {
+      "constituentID": 75988,
+      "role": "Artist",
+      "name": "After John Simon",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500051859",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q6257897",
+      "gender": ""
+    },
+    {
+      "constituentID": 94844,
+      "role": "Artist",
+      "name": "After Gerard van Soest",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500022266",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q539078",
+      "gender": ""
+    },
+    {
+      "constituentID": 190503,
+      "role": "Publisher",
+      "name": "Abraham Wivell I",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 164876,
+      "role": "Sitter",
+      "name": "William Shakespeare",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500272240",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q692",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "William Shakespeare",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "Wivell's Inquiry into the History of the Shakespeare Portraits",
+  "artistRole": "Engraver",
+  "artistPrefix": "",
+  "artistDisplayName": "William Holl, the Elder",
+  "artistDisplayBio": "British, 1771–1838",
+  "artistSuffix": "",
+  "artistAlphaSort": "Holl, William the Elder",
+  "artistNationality": "British",
+  "artistBeginDate": "1771",
+  "artistEndDate": "1838",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q18508736",
+  "artistULAN_URL": "(not assigned)",
+  "objectDate": "1827",
+  "objectBeginDate": 1827,
+  "objectEndDate": 1827,
+  "medium": "Stipple engraving",
+  "dimensions": "Chine collé: 8 1/8 × 6 5/16 in. (20.7 × 16 cm)\r\nSheet: 16 15/16 × 12 7/8 in. (43 × 32.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 20.7,
+        "Width": 16
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 43,
+        "Width": 32.7
+      }
+    }
+  ],
+  "creditLine": "Harris Brisbane Dick Fund, 1917",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/708343",
+  "tags": [
+    {
+      "term": "Shakespeare",
+      "AAT_URL": "http://vocab.getty.edu/page/ulan/500272240",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q692"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

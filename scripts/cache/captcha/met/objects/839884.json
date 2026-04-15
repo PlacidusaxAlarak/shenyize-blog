@@ -1,0 +1,93 @@
+{
+  "objectID": 839884,
+  "isHighlight": false,
+  "accessionNumber": "2020.148",
+  "accessionYear": "2020",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP-19564-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP-19564-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 211306,
+      "role": "Artist",
+      "name": "Clementine de Brelaz",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": "Female"
+    },
+    {
+      "constituentID": 211374,
+      "role": "Lithographer",
+      "name": "Manuel Luis",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "View of Sintra, the area near the clock-tower",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Clementine de Brelaz",
+  "artistDisplayBio": "Portuguese, 1811–1892",
+  "artistSuffix": "",
+  "artistAlphaSort": "Brelaz, Clementine de",
+  "artistNationality": "Portuguese",
+  "artistBeginDate": "1811",
+  "artistEndDate": "1892",
+  "artistGender": "Female",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "1840",
+  "objectBeginDate": 1840,
+  "objectEndDate": 1840,
+  "medium": "Lithograph on chine collé on a larger support sheet",
+  "dimensions": "Sheet: 12 5/8 × 20 7/8 in. (32 × 53 cm)\r\nSheet (Sheet with image): 7 11/16 × 11 7/8 in. (19.5 × 30.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 32,
+        "Width": 53
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": "Sheet with image",
+      "elementMeasurements": {
+        "Height": 19.5,
+        "Width": 30.2
+      }
+    }
+  ],
+  "creditLine": "Purchase, Friends of Drawings and Prints Gifts, 2020",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/839884",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

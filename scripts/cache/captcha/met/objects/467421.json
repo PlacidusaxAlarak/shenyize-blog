@@ -1,0 +1,113 @@
+{
+  "objectID": 467421,
+  "isHighlight": false,
+  "accessionNumber": "31.134.8",
+  "accessionYear": "1931",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/DT5143.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/md/web-large/DT5143.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/md/original/sf31-134-8s2.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 141285,
+      "role": "Artist",
+      "name": "Workshop of Pierre Remiet",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Medieval Art",
+  "objectName": "Manuscript leaf",
+  "title": "Leaf from a Manuscript of Valerius Maximus",
+  "culture": "French",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Workshop of Pierre Remiet",
+  "artistDisplayBio": "French, documented 1368–1396",
+  "artistSuffix": "",
+  "artistAlphaSort": "Remiet Pierre",
+  "artistNationality": "French",
+  "artistBeginDate": "1368",
+  "artistEndDate": "1396",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "ca. 1380–90",
+  "objectBeginDate": 1375,
+  "objectEndDate": 1385,
+  "medium": "Tempera, ink, and gold on parchment",
+  "dimensions": "Overall: 15 3/16 x 11 3/4 in. (38.6 x 29.8 cm)\r\nStudy mat: 19 3/16 x 14 3/16 in. (48.8 x 36.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 38.6,
+        "Width": 29.8
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Study mat",
+      "elementMeasurements": {
+        "Height": 48.8,
+        "Width": 36.1
+      }
+    }
+  ],
+  "creditLine": "Bequest of Gwynne M. Andrews, 1930",
+  "geographyType": "Made in",
+  "city": "",
+  "state": "Paris",
+  "county": "",
+  "country": "France",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Manuscripts and Illuminations",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/467421",
+  "tags": [
+    {
+      "term": "Altars",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300003725",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q101687"
+    },
+    {
+      "term": "Kings",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025481",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12097"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Ceres",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000735",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q32102"
+    },
+    {
+      "term": "Bishops",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025756",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q29182"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

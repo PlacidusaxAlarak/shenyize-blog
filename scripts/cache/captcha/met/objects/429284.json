@@ -1,0 +1,111 @@
+{
+  "objectID": 429284,
+  "isHighlight": false,
+  "accessionNumber": "29.88.5(9)",
+  "accessionYear": "1929",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP831348.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP831348.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 163778,
+      "role": "Artist",
+      "name": "Thomas Nast",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026650",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q214957",
+      "gender": ""
+    },
+    {
+      "constituentID": 166072,
+      "role": "Publisher",
+      "name": "Harper&#39;s Weekly",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500524528",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3127693",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Grand Review of the Army of the Potomac – Drawn by Mr. Thomas Nast (from \"Harper's Weekly\")",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Thomas Nast",
+  "artistDisplayBio": "American (born Germany), Landau 1840–1902 Guayaquil",
+  "artistSuffix": "",
+  "artistAlphaSort": "Nast, Thomas",
+  "artistNationality": "American, born Germany",
+  "artistBeginDate": "1840",
+  "artistEndDate": "1902",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q214957",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500026650",
+  "objectDate": "October 10, 1863",
+  "objectBeginDate": 1863,
+  "objectEndDate": 1863,
+  "medium": "Wood engraving",
+  "dimensions": "Sheet: 14 1/2 × 21 1/16 in. (36.9 × 53.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 36.9,
+        "Width": 53.5
+      }
+    }
+  ],
+  "creditLine": "Harris Brisbane Dick Fund, 1929",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/429284",
+  "tags": [
+    {
+      "term": "Army",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300137542",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q37726"
+    },
+    {
+      "term": "Soldiers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+    },
+    {
+      "term": "American Civil War",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000030",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8676"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Horses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

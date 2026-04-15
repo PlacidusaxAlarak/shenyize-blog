@@ -1,0 +1,110 @@
+{
+  "objectID": 486757,
+  "isHighlight": true,
+  "accessionNumber": "1996.403.7ab",
+  "accessionYear": "1996",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161715,
+      "role": "Artist",
+      "name": "Constantin Brancusi",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016157",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q153048",
+      "gender": ""
+    }
+  ],
+  "department": "Modern and Contemporary Art",
+  "objectName": "Sculpture",
+  "title": "Bird in Space",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Constantin Brancusi",
+  "artistDisplayBio": "French (born Romania), Hobita 1876–1957 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Brancusi, Constantin",
+  "artistNationality": "French, born Romania",
+  "artistBeginDate": "1876",
+  "artistEndDate": "1957",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q153048",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500016157",
+  "objectDate": "1923",
+  "objectBeginDate": 1923,
+  "objectEndDate": 1923,
+  "medium": "Marble",
+  "dimensions": "Overall (with base): 56 3/4 × 6 1/2 in. (144.1 × 16.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 144.1,
+        "Width": 16.5
+      }
+    },
+    {
+      "elementName": "Pedestal",
+      "elementDescription": "IM.1.1996.403.7ab bottom pedestal",
+      "elementMeasurements": {
+        "Height": 15.557531,
+        "Length": 182.88037,
+        "Width": 182.88037
+      }
+    },
+    {
+      "elementName": "Pedestal",
+      "elementDescription": "IM.1.1996.403.7ab top pedestal",
+      "elementMeasurements": {
+        "Height": 90.48768,
+        "Length": 34.92507,
+        "Width": 34.92507
+      }
+    },
+    {
+      "elementName": "Pedestal",
+      "elementDescription": "IM.1.1996.403.7ab inner pedestal mount",
+      "elementMeasurements": {
+        "Height": 37.465076,
+        "Length": 31.115063,
+        "Width": 31.115063
+      }
+    }
+  ],
+  "creditLine": "Bequest of Florene M. Schoenborn, 1995",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Sculpture",
+  "rightsAndReproduction": "© 2026 Artists Rights Society (ARS), New York",
+  "linkResource": "",
+  "metadataDate": "2026-03-31T09:41:00.23Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/486757",
+  "tags": [
+    {
+      "term": "Birds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q2381632",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

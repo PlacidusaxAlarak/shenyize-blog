@@ -1,0 +1,111 @@
+{
+  "objectID": 451287,
+  "isHighlight": false,
+  "accessionNumber": "55.121.10.4",
+  "accessionYear": "1955",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP231356.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP231356.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/is/original/DP231966.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/sf55-121-10-4a.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/181873.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/sf55-121-10-4b.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 164845,
+      "role": "Artist",
+      "name": "Painting by Nanha",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500332114",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 133379,
+      "role": "Calligrapher",
+      "name": "Mir &#39;Ali Haravi",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Islamic Art",
+  "objectName": "Album leaf",
+  "title": "\"Page of Calligraphy Illuminated with Animals and Plants in a Field of Flowers\", Folio from the Shah Jahan Album",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Painting by",
+  "artistDisplayName": "Nanha",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "Nanha",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500332114",
+  "objectDate": "verso: ca. 1610–15; recto: ca.1535–45",
+  "objectBeginDate": 1510,
+  "objectEndDate": 1640,
+  "medium": "Ink, opaque watercolor, and gold on paper",
+  "dimensions": "H. 15 1/16 in. (38.3 cm)\r\nW. 10 5/16 in. (26.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 38.2588,
+        "Width": 26.1938
+      }
+    }
+  ],
+  "creditLine": "Purchase, Rogers Fund and The Kevorkian Foundation Gift, 1955",
+  "geographyType": "Made in",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "India",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Codices",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/451287",
+  "tags": [
+    {
+      "term": "Persian",
+      "AAT_URL": null,
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9168"
+    },
+    {
+      "term": "Deer",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250308",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q685795"
+    },
+    {
+      "term": "Flowers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+    },
+    {
+      "term": "Calligraphy",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266660",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12681"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,87 @@
+{
+  "objectID": 365246,
+  "isHighlight": false,
+  "accessionNumber": "2004.250",
+  "accessionYear": "2004",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP820517.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP820517.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/dp/original/DR1014.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/2004.250.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DT243862.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 161968,
+      "role": "Artist",
+      "name": "Guercino (Giovanni Francesco Barbieri)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021925",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q334262",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "Seated Nude Young Man in Nearly Frontal View",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Guercino (Giovanni Francesco Barbieri)",
+  "artistDisplayBio": "Italian, Cento 1591–1666 Bologna",
+  "artistSuffix": "",
+  "artistAlphaSort": "Guercino (Giovanni Francesco Barbieri)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1591",
+  "artistEndDate": "1666",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q334262",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500021925",
+  "objectDate": "ca. 1618",
+  "objectBeginDate": 1613,
+  "objectEndDate": 1623,
+  "medium": "Modified black chalk (dipped in a gum solution), traces of white gouache highlights, on light brown paper",
+  "dimensions": "sheet: 23 x 16-7/16 in. (58.4 x 41.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 58.4,
+        "Width": 41.8
+      }
+    }
+  ],
+  "creditLine": "Purchase, Rogers Fund and Mr. and Mrs. David M. Tobey Gift, 2004",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/365246",
+  "tags": [
+    {
+      "term": "Male Nudes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

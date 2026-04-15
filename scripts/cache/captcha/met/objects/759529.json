@@ -1,0 +1,128 @@
+{
+  "objectID": 759529,
+  "isHighlight": false,
+  "accessionNumber": "53.693.49",
+  "accessionYear": "1953",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP878062.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP878062.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161808,
+      "role": "Artist",
+      "name": "Honoré Daumier",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500117998",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q187506",
+      "gender": ""
+    },
+    {
+      "constituentID": 165102,
+      "role": "Author",
+      "name": "Charles Philipon",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026672",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1065775",
+      "gender": ""
+    },
+    {
+      "constituentID": 78944,
+      "role": "Printer",
+      "name": "Aubert et Cie",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 105035,
+      "role": "Printer",
+      "name": "Junca",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 78944,
+      "role": "Publisher",
+      "name": "Aubert et Cie",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Plate 30: Robert Macaire before his judges, from 'Caricaturana,' published in Les Robert Macaires",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "'Caricaturana'",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Honoré Daumier",
+  "artistDisplayBio": "French, Marseilles 1808–1879 Valmondois",
+  "artistSuffix": "",
+  "artistAlphaSort": "Daumier, Honoré",
+  "artistNationality": "French",
+  "artistBeginDate": "1808",
+  "artistEndDate": "1879",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q187506",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500117998",
+  "objectDate": "1838",
+  "objectBeginDate": 1838,
+  "objectEndDate": 1838,
+  "medium": "Lithograph on wove paper; second state of two (Delteil)",
+  "dimensions": "Image: 7 15/16 × 10 7/8 in. (20.1 × 27.6 cm)\r\nSheet: 10 1/4 × 13 7/16 in. (26.1 × 34.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 26.1,
+        "Width": 34.1
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 20.1,
+        "Width": 27.6
+      }
+    }
+  ],
+  "creditLine": "Gift of Edwin De T. Bechtel, 1953",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/759529",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Law",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300417694",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

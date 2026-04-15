@@ -1,0 +1,105 @@
+{
+  "objectID": 435875,
+  "isHighlight": false,
+  "accessionNumber": "61.101.2",
+  "accessionYear": "1961",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP317780.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP317780.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161761,
+      "role": "Artist",
+      "name": "Paul Cézanne",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Madame Cézanne (Hortense Fiquet, 1850–1922) in the Conservatory",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Paul Cézanne",
+  "artistDisplayBio": "French, Aix-en-Provence 1839–1906 Aix-en-Provence",
+  "artistSuffix": "",
+  "artistAlphaSort": "Cézanne, Paul",
+  "artistNationality": "French",
+  "artistBeginDate": "1839",
+  "artistEndDate": "1906",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+  "objectDate": "1891",
+  "objectBeginDate": 1891,
+  "objectEndDate": 1891,
+  "medium": "Oil on canvas",
+  "dimensions": "36 1/4 x 28 3/4 in. (92.1 x 73 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 92.1,
+        "Width": 73
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 10.16,
+        "Height": 119.3802,
+        "Width": 102.8702
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "plexi",
+      "elementMeasurements": {
+        "Height": 92.07519,
+        "Width": 74.29515
+      }
+    }
+  ],
+  "creditLine": "Bequest of Stephen C. Clark, 1960",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-02-06T04:55:31.413Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435875",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q11802629",
+  "isTimelineWork": false,
+  "GalleryNumber": "826"
+}

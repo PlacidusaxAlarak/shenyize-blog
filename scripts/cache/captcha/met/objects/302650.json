@@ -1,0 +1,106 @@
+{
+  "objectID": 302650,
+  "isHighlight": false,
+  "accessionNumber": "2012.323.20",
+  "accessionYear": "2012",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ph/original/DP300695.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ph/web-large/DP300695.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ph/original/3559-027.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 55030,
+      "role": "Artist",
+      "name": "Linnaeus Tripe",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500022352",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q6554574",
+      "gender": ""
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "Amerapoora: Shwe-doung-dyk Pagoda",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Linnaeus Tripe",
+  "artistDisplayBio": "British, Devonport (Plymouth Dock) 1822–1902 Devonport",
+  "artistSuffix": "",
+  "artistAlphaSort": "Tripe, Linnaeus",
+  "artistNationality": "British",
+  "artistBeginDate": "1822",
+  "artistEndDate": "1902",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q6554574",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500022352",
+  "objectDate": "September 1–October 21, 1855",
+  "objectBeginDate": 1855,
+  "objectEndDate": 1855,
+  "medium": "Albumen silver print from waxed paper negative",
+  "dimensions": "Image: 25.8 x 34.6 cm (10 3/16 x 13 5/8 in.)\r\nMount: 45.5 x 58.3 cm (17 15/16 x 22 15/16 in.)\r\nMat: 20 × 24 in. (50.8 × 61 cm)",
+  "measurements": [
+    {
+      "elementName": "Mount",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 45.5,
+        "Width": 58.3
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 25.8,
+        "Width": 34.6
+      }
+    },
+    {
+      "elementName": "Mat",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 50.800102,
+        "Width": 60.96012
+      }
+    }
+  ],
+  "creditLine": "Purchase, The Buddy Taub Foundation, Dennis A. Roach and Jill Roach, Directors, and Alfred Stieglitz Society Gifts, 2012",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/302650",
+  "tags": [
+    {
+      "term": "Architecture",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300263552",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12271"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

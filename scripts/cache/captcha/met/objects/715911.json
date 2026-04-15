@@ -1,0 +1,122 @@
+{
+  "objectID": 715911,
+  "isHighlight": false,
+  "accessionNumber": "45.100.1",
+  "accessionYear": "1945",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP-1508-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP-1508-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 80254,
+      "role": "Artist",
+      "name": "Benoit Louis Prevost",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500041258",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2896413",
+      "gender": ""
+    },
+    {
+      "constituentID": 191964,
+      "role": "Artist",
+      "name": "Ignatius Sichelbart",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500057236",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1657543",
+      "gender": ""
+    },
+    {
+      "constituentID": 165545,
+      "role": "Artist",
+      "name": "(direxit) Charles Nicolas Cochin II",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021138",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2408093",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "The Submission of the Ili",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "The Conquests of the Emperor of China\r\n(Les Conquêtes de l'Empereur de la Chine)",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Benoit Louis Prevost",
+  "artistDisplayBio": "French, 1747–ca. 1804",
+  "artistSuffix": "",
+  "artistAlphaSort": "Prevost, Benoit Louis",
+  "artistNationality": "French",
+  "artistBeginDate": "1747",
+  "artistEndDate": "1804",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2896413",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500041258",
+  "objectDate": "1769",
+  "objectBeginDate": 1769,
+  "objectEndDate": 1769,
+  "medium": "Etching and engraving",
+  "dimensions": "Sheet: 39 5/8 × 25 13/16 in. (100.7 × 65.5 cm)\r\nPlate: 36 3/4 × 22 5/8 in. (93.3 × 57.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Plate",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 93.3,
+        "Width": 57.4
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 100.7,
+        "Width": 65.5
+      }
+    }
+  ],
+  "creditLine": "Harris Brisbane Dick Fund, 1945",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/715911",
+  "tags": [
+    {
+      "term": "Battles",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300185692",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q178561"
+    },
+    {
+      "term": "Horses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    },
+    {
+      "term": "Crowd",
+      "AAT_URL": null,
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q13430821"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

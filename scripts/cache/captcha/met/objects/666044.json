@@ -1,0 +1,91 @@
+{
+  "objectID": 666044,
+  "isHighlight": false,
+  "accessionNumber": "2016.704",
+  "accessionYear": "2016",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 180486,
+      "role": "Artist",
+      "name": "Edward Ranney",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500037066",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q55219674",
+      "gender": ""
+    }
+  ],
+  "department": "The Michael C. Rockefeller Wing",
+  "objectName": "Photograph",
+  "title": "Corridor, Ciudadela Rivero, Chan Chan",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Edward Ranney",
+  "artistDisplayBio": "American, born Chicago, Illinois, 1942",
+  "artistSuffix": "",
+  "artistAlphaSort": "Ranney, Edward",
+  "artistNationality": "American",
+  "artistBeginDate": "1942",
+  "artistEndDate": "9999",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q55219674",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500037066",
+  "objectDate": "1988, printed 1992",
+  "objectBeginDate": 1988,
+  "objectEndDate": 1988,
+  "medium": "Toned gelatin silver print",
+  "dimensions": "H. 13 x  W. 18 in. (33 x 45.7 cm)\r\n(Matted) H. 22 × W. 28 in. (55.9 × 71.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Mat",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 55.88011,
+        "Width": 71.12014
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 33.020065,
+        "Width": 45.720093
+      }
+    }
+  ],
+  "creditLine": "Gift of Joanne Pillsbury and Edward S. Harwood, in honor of Margaret L. Pillsbury, 2016",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "United States",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paper-Photographs",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/666044",
+  "tags": [
+    {
+      "term": "Architecture",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300263552",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12271"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

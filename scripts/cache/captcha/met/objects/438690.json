@@ -1,0 +1,114 @@
+{
+  "objectID": 438690,
+  "isHighlight": false,
+  "accessionNumber": "2019.406",
+  "accessionYear": "2019",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-18895-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-18895-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108276,
+      "role": "Artist",
+      "name": "Carlo Saraceni",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008651",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q938607",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Dormition of the Virgin",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Carlo Saraceni",
+  "artistDisplayBio": "Italian, Venice 1579?–1620 Venice",
+  "artistSuffix": "",
+  "artistAlphaSort": "Saraceni, Carlo",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1579",
+  "artistEndDate": "1620",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q938607",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500008651",
+  "objectDate": "ca. 1612",
+  "objectBeginDate": 1607,
+  "objectEndDate": 1617,
+  "medium": "Oil on canvas",
+  "dimensions": "120 1/8 x 91 in. (305.1 x 231.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Other",
+      "elementDescription": "Picture",
+      "elementMeasurements": {
+        "Weight": 41.27733
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 305.1181,
+        "Width": 231.1405
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 12.700026,
+        "Height": 347.98068,
+        "Width": 273.05054
+      }
+    }
+  ],
+  "creditLine": "Gift of Richard L. Feigen, in honor of Max Hollein, and in celebration of the Museum's 150th Anniversary, 2019",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438690",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Virgin Mary",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+    },
+    {
+      "term": "Death of the Virgin",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000556",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1245512"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q111272611",
+  "isTimelineWork": false,
+  "GalleryNumber": "620"
+}

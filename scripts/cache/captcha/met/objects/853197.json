@@ -1,0 +1,102 @@
+{
+  "objectID": 853197,
+  "isHighlight": false,
+  "accessionNumber": "2022.432.10",
+  "accessionYear": "2022",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP-25263-002.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP-25263-002.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/DP-25263-001.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/LC-TR_161_13_2021_sr1-001.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/LC-TR_161_13_2021_sr1-002.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/LC-TR_161_13_2021_sr1-003.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/LC-TR_161_13_2021_sr1-004.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/LC-TR_161_13_2021_sr1-005.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/LC-TR_161_13_2021_sr1-006.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 37502,
+      "role": "Artist",
+      "name": "Unidentified",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Hanging scroll",
+  "title": "Pine, Bamboo, Grape, and Squirrel",
+  "culture": "Korea and Japan",
+  "period": "Joseon dynasty (1392–1910)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Unidentified",
+  "artistDisplayBio": "",
+  "artistSuffix": "Artist, probably Korean",
+  "artistAlphaSort": "Unidentified",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "18th–19th century",
+  "objectBeginDate": 1700,
+  "objectEndDate": 1899,
+  "medium": "Hanging scroll; ink on paper",
+  "dimensions": "Image: 41 × 11 5/16 in. (104.1 × 28.7 cm)\r\nOverall with mounting: 73 7/8 × 16 3/16 in. (187.6 × 41.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall with mounting",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 187.64287,
+        "Width": 41.116333
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 104.140205,
+        "Width": 28.7
+      }
+    },
+    {
+      "elementName": "Storage",
+      "elementDescription": "Box",
+      "elementMeasurements": {
+        "Height": 6.6675134,
+        "Length": 47.307594,
+        "Width": 7.620015
+      }
+    }
+  ],
+  "creditLine": "Mary and Cheney Cowles Collection, Gift of Mary and Cheney Cowles, 2022",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-10-27T04:51:38.423Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/853197",
+  "tags": null,
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q126119120",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

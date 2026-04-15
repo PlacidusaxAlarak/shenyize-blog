@@ -1,0 +1,95 @@
+{
+  "objectID": 437892,
+  "isHighlight": false,
+  "accessionNumber": "14.40.647",
+  "accessionYear": "1914",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19523-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-19523-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162637,
+      "role": "Artist",
+      "name": "Workshop of Andrea del Verrocchio",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003951",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q183458",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Madonna and Child",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Workshop of",
+  "artistDisplayName": "Andrea del Verrocchio",
+  "artistDisplayBio": "Italian, Florence 1435–1488 Venice",
+  "artistSuffix": "",
+  "artistAlphaSort": "Verrocchio, Andrea del",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1435",
+  "artistEndDate": "1488",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q183458",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500003951",
+  "objectDate": "ca. 1470",
+  "objectBeginDate": 1465,
+  "objectEndDate": 1475,
+  "medium": "Tempera and gold on wood",
+  "dimensions": "26 x 19 in. (66 x 48.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 66,
+        "Width": 48.3
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Weight": 31.751791
+      }
+    }
+  ],
+  "creditLine": "Bequest of Benjamin Altman, 1913",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437892",
+  "tags": [
+    {
+      "term": "Cherries",
+      "AAT_URL": null,
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q196"
+    },
+    {
+      "term": "Madonna and Child",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905341",
+  "isTimelineWork": false,
+  "GalleryNumber": "604"
+}

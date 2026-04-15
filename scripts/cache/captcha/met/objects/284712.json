@@ -1,0 +1,96 @@
+{
+  "objectID": 284712,
+  "isHighlight": true,
+  "accessionNumber": "2001.474",
+  "accessionYear": "2001",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 54769,
+      "role": "Artist",
+      "name": "Diane Arbus",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012758",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q234608",
+      "gender": "Female"
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "Child with a toy hand grenade in Central Park, N.Y.C.",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Diane Arbus",
+  "artistDisplayBio": "American, New York 1923–1971 New York",
+  "artistSuffix": "",
+  "artistAlphaSort": "Arbus, Diane",
+  "artistNationality": "American",
+  "artistBeginDate": "1923-03-14",
+  "artistEndDate": "1971-07-26",
+  "artistGender": "Female",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q234608",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500012758",
+  "objectDate": "1962",
+  "objectBeginDate": 1962,
+  "objectEndDate": 1962,
+  "medium": "Gelatin silver print",
+  "dimensions": "Image: 39.5 x 38.3 cm (15 9/16 x 15 1/16 in.)\r\nSheet: 50.8 x 40.6 cm (20 x 16 in.)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 50.800102,
+        "Width": 40.64008
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 39.5,
+        "Width": 38.3
+      }
+    }
+  ],
+  "creditLine": "Purchase, Jennifer and Joseph Duke Gift, 2001",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "© The Estate of Diane Arbus",
+  "linkResource": "",
+  "metadataDate": "2024-10-03T04:53:53.567Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/284712",
+  "tags": [
+    {
+      "term": "Parks",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008187",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q22698"
+    },
+    {
+      "term": "Boys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q5097937",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

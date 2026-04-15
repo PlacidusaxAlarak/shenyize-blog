@@ -1,0 +1,131 @@
+{
+  "objectID": 435844,
+  "isHighlight": true,
+  "accessionNumber": "52.81",
+  "accessionYear": "1952",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-687-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-687-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/Caravaggio_Xraynocap.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 161744,
+      "role": "Artist",
+      "name": "Caravaggio (Michelangelo Merisi)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115312",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q42207",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Musicians",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Caravaggio (Michelangelo Merisi)",
+  "artistDisplayBio": "Italian, Milan or Caravaggio 1571–1610 Porto Ercole",
+  "artistSuffix": "",
+  "artistAlphaSort": "Caravaggio (Michelangelo Merisi)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1571",
+  "artistEndDate": "1610",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q42207",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115312",
+  "objectDate": "1597",
+  "objectBeginDate": 1597,
+  "objectEndDate": 1597,
+  "medium": "Oil on canvas",
+  "dimensions": "36 1/4 x 46 5/8 in. (92.1 x 118.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 92.1,
+        "Width": 118.4
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 8.255,
+        "Height": 122.5552,
+        "Width": 149.8603
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Picture + Frame (F.52.81A)",
+      "elementMeasurements": {
+        "Weight": 23.587046
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1952",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-01-21T04:52:24.343Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435844",
+  "tags": [
+    {
+      "term": "Grapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379338",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10978"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Music",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300435214",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q638"
+    },
+    {
+      "term": "Lutes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300042101",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q180733"
+    },
+    {
+      "term": "Violins",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300042215",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8355"
+    },
+    {
+      "term": "Cupid",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300380105",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5011"
+    },
+    {
+      "term": "Musicians",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025666",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q639669"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q655705",
+  "isTimelineWork": true,
+  "GalleryNumber": "620"
+}

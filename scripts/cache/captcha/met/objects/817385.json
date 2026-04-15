@@ -1,0 +1,101 @@
+{
+  "objectID": 817385,
+  "isHighlight": false,
+  "accessionNumber": "2020.33.1",
+  "accessionYear": "2020",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 178253,
+      "role": "Artist",
+      "name": "Faramarz Pilaram",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500464416",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q43135276",
+      "gender": ""
+    }
+  ],
+  "department": "Modern and Contemporary Art",
+  "objectName": "Work on paper",
+  "title": "Untitled (Sword of Ali)",
+  "culture": "Persia, Iran, Middle East",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Faramarz Pilaram",
+  "artistDisplayBio": "Iranian, born Tehran 1937–1982 Tehran",
+  "artistSuffix": "",
+  "artistAlphaSort": "Pilaram, Faramarz",
+  "artistNationality": "Iranian",
+  "artistBeginDate": "1937",
+  "artistEndDate": "1982",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q43135276",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500464416",
+  "objectDate": "ca. 1960–63",
+  "objectBeginDate": 1955,
+  "objectEndDate": 1968,
+  "medium": "Metallic paints, black ink stamps, graphite, oil pastel, and red paint on paper",
+  "dimensions": "58 3/8 × 23 7/8 in. (148.3 × 60.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Framed",
+      "elementDescription": "F.2020.33.1 White Wood w/ AR plexi",
+      "elementMeasurements": {
+        "Depth": 6.032512,
+        "Height": 158.75032,
+        "Width": 70.48514
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 148.2728,
+        "Width": 60.64262
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": "F.1.2020.33.1/ wood / glass/ No liner",
+      "elementMeasurements": {
+        "Depth": 1.5875032,
+        "Height": 152.7178,
+        "Width": 65.08763
+      }
+    }
+  ],
+  "creditLine": "Gift of the heirs of Eric and Sheila Azari, in celebration of the Museum’s 150th Anniversary, 2020",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Works on Paper",
+  "rightsAndReproduction": "© Pilaram Family (Ali Pilaram as Estate of Faramaz Pilaram)",
+  "linkResource": "",
+  "metadataDate": "2025-09-27T04:50:39.59Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/817385",
+  "tags": [
+    {
+      "term": "Swords",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300037048",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12791"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

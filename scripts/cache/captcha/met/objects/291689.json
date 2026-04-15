@@ -1,0 +1,109 @@
+{
+  "objectID": 291689,
+  "isHighlight": false,
+  "accessionNumber": "2009.480",
+  "accessionYear": "2009",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 59186,
+      "role": "Artist",
+      "name": "Robert Polidori",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500263766",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q365637",
+      "gender": ""
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "Dashashwemedh Road, Varanasi, India",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Robert Polidori",
+  "artistDisplayBio": "French and Canadian, born 1951",
+  "artistSuffix": "",
+  "artistAlphaSort": "Polidori, Robert",
+  "artistNationality": "French and Canadian",
+  "artistBeginDate": "1951",
+  "artistEndDate": "9999",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q365637",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500263766",
+  "objectDate": "2007",
+  "objectBeginDate": 2007,
+  "objectEndDate": 2007,
+  "medium": "Chromogenic print",
+  "dimensions": "Image: 128.3 x 162.6 cm (50 1/2 x 64 in.)\r\nMount: 152.4 x 182.9 cm (60 x 72 in.)\r\nFrame: 156.5 × 189.9 cm (61 5/8 × 74 3/4 in.)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 128.27026,
+        "Width": 162.56032
+      }
+    },
+    {
+      "elementName": "Mount",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 152.4003,
+        "Width": 182.88037
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 156.52782,
+        "Width": 189.86539
+      }
+    }
+  ],
+  "creditLine": "Gift of the artist, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "© Robert Polidori",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/291689",
+  "tags": [
+    {
+      "term": "Buildings",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+    },
+    {
+      "term": "Street Scene",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300386103",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7766995"
+    },
+    {
+      "term": "Markets",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300112347",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q132510"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

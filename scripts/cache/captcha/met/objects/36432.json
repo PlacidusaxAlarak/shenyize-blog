@@ -1,0 +1,125 @@
+{
+  "objectID": 36432,
+  "isHighlight": false,
+  "accessionNumber": "1986.495a–l",
+  "accessionYear": "1986",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP160540.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP160540.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/DP160541.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP160542.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP160543.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP160544.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP160545.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP160546.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP160547.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP160548.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP160549.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP160550.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP160551.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 11527,
+      "role": "Artist",
+      "name": "Jin Nong",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500320171",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q710049",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Album",
+  "title": "Plum blossoms",
+  "culture": "China",
+  "period": "Qing dynasty (1644–1911)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jin Nong",
+  "artistDisplayBio": "Chinese, 1687–1773",
+  "artistSuffix": "",
+  "artistAlphaSort": "Jin Nong",
+  "artistNationality": "Chinese",
+  "artistBeginDate": "1687",
+  "artistEndDate": "1773",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q710049",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500320171",
+  "objectDate": "dated 1757",
+  "objectBeginDate": 1757,
+  "objectEndDate": 1757,
+  "medium": "Album of twelve leaves; ink on paper",
+  "dimensions": "Image: 10 x 11 3/4 in. (25.4 x 29.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "with mat board",
+      "elementMeasurements": {
+        "Height": 35.5601,
+        "Width": 40.6401
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 25.4001,
+        "Width": 29.8451
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "original covers with brocade fabric (each)",
+      "elementMeasurements": {
+        "Depth": 0.635,
+        "Height": 28.2576,
+        "Width": 34.2901
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "with original mounting",
+      "elementMeasurements": {
+        "Height": 28.2576,
+        "Width": 34.2901
+      }
+    }
+  ],
+  "creditLine": "Edward Elliott Family Collection, Gift of Douglas Dillon, 1986",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/36432",
+  "tags": [
+    {
+      "term": "Flowers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+    },
+    {
+      "term": "Trees",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78919028",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

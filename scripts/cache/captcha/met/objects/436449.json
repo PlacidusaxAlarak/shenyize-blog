@@ -1,0 +1,93 @@
+{
+  "objectID": 436449,
+  "isHighlight": false,
+  "accessionNumber": "1993.400.3",
+  "accessionYear": "1993",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1952.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1952.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161924,
+      "role": "Artist",
+      "name": "Paul Gauguin",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011421",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q37693",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Siesta",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Paul Gauguin",
+  "artistDisplayBio": "French, Paris 1848–1903 Atuona, Hiva Oa, Marquesas Islands",
+  "artistSuffix": "",
+  "artistAlphaSort": "Gauguin, Paul",
+  "artistNationality": "French",
+  "artistBeginDate": "1848",
+  "artistEndDate": "1903",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q37693",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011421",
+  "objectDate": "ca. 1892–94",
+  "objectBeginDate": 1892,
+  "objectEndDate": 1894,
+  "medium": "Oil on canvas",
+  "dimensions": "35 x 45 3/4 in. (88.9 x 116.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 88.9,
+        "Width": 116.2
+      }
+    }
+  ],
+  "creditLine": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 1993, Bequest of Walter H. Annenberg, 2002",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-05-22T04:50:13.743Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436449",
+  "tags": [
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Baskets",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300194498",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q201097"
+    },
+    {
+      "term": "Irons",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300185311",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q483634"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q3212828",
+  "isTimelineWork": true,
+  "GalleryNumber": "822"
+}

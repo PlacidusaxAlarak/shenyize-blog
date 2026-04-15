@@ -1,0 +1,95 @@
+{
+  "objectID": 845805,
+  "isHighlight": false,
+  "accessionNumber": "2020.392",
+  "accessionYear": "2020",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/LC-TR_168_1ab_2020_sr1-006.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/LC-TR_168_1ab_2020_sr1-006.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/LC-TR_168_1ab_2020_sr1-015.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 11487,
+      "role": "Artist",
+      "name": "Nagasawa Rosetsu 長澤蘆雪",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500323051",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1632536",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Hanging scroll",
+  "title": "Moonlit Landscape",
+  "culture": "Japan",
+  "period": "Edo period (1615–1868)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Nagasawa Rosetsu 長澤蘆雪",
+  "artistDisplayBio": "Japanese, 1754–1799",
+  "artistSuffix": "",
+  "artistAlphaSort": "Nagasawa Rosetsu 長澤蘆雪",
+  "artistNationality": "Japanese",
+  "artistBeginDate": "1754",
+  "artistEndDate": "1799",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1632536",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500323051",
+  "objectDate": "1794–95",
+  "objectBeginDate": 1794,
+  "objectEndDate": 1795,
+  "medium": "Hanging scroll; ink on silk",
+  "dimensions": "Image: 38 3/8 × 15 15/16 in. (97.5 × 40.5 cm)\r\nOverall with mounting: 74 × 21 1/4 in. (188 × 54 cm)\r\nOverall with knobs: 74 × 23 1/4 in. (188 × 59.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall with mounting",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 187.96037,
+        "Width": 53.97511
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 97.472694,
+        "Width": 40.48133
+      }
+    },
+    {
+      "elementName": "Overall with knobs",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 187.96037,
+        "Width": 59.05512
+      }
+    }
+  ],
+  "creditLine": "Gift of Rosemarie and Leighton Longhi, 2020",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-10-06T04:51:04.6Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/845805",
+  "tags": null,
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q126119224",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

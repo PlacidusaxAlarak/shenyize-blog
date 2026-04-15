@@ -1,0 +1,111 @@
+{
+  "objectID": 853079,
+  "isHighlight": false,
+  "accessionNumber": "2022.309.15",
+  "accessionYear": "2022",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP-31700-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP-31700-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 165703,
+      "role": "Artist",
+      "name": "William Heath (&#39;Paul Pry&#39;)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500144698",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q8011810",
+      "gender": ""
+    },
+    {
+      "constituentID": 82465,
+      "role": "Publisher",
+      "name": "Thomas McLean",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q23831119",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "The Great Boa Tippet–\"Still ye have predilection for the serpent\"",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "William Heath ('Paul Pry')",
+  "artistDisplayBio": "British, Northumbria 1794/95–1840 Hampstead",
+  "artistSuffix": "",
+  "artistAlphaSort": "Heath, William",
+  "artistNationality": "British",
+  "artistBeginDate": "1794",
+  "artistEndDate": "1840",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q8011810",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500144698",
+  "objectDate": "November 29, 1829",
+  "objectBeginDate": 1828,
+  "objectEndDate": 1829,
+  "medium": "Hand-colored etching",
+  "dimensions": "Sheet: 13 11/16 × 9 5/16 in. (34.8 × 23.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 34.8,
+        "Width": 23.7
+      }
+    }
+  ],
+  "creditLine": "Gift of Jill Spalding, 2022",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/853079",
+  "tags": [
+    {
+      "term": "Satire",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055934",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q128758"
+    },
+    {
+      "term": "Hats",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300046106",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q80151"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Snakes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250870",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2102"
+    },
+    {
+      "term": "Fashion",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055811",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12684"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

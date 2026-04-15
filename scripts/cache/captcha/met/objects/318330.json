@@ -1,0 +1,108 @@
+{
+  "objectID": 318330,
+  "isHighlight": false,
+  "accessionNumber": "1999.295.14",
+  "accessionYear": "1999",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DP285705.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/DP285705.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ao/original/DP285805.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 219140,
+      "role": "Artist",
+      "name": "Kongo artist",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "The Michael C. Rockefeller Wing",
+  "objectName": "Cross",
+  "title": "Crucifix with Saint Anthony of Padua",
+  "culture": "Kongo",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Kongo artist",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "Kongo artist",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "16th–18th century (pendant figure); 19th century (cross)",
+  "objectBeginDate": 1500,
+  "objectEndDate": 1899,
+  "medium": "Brass, wood, lead-tin alloy sheet, plant fiber cord",
+  "dimensions": "H. 12 3/4 × W. 7 1/4 × D. 1 7/16 in. (32.4 × 18.4 × 3.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 3.6512573,
+        "Height": 32.3851,
+        "Width": 18.415
+      }
+    },
+    {
+      "elementName": "Height",
+      "elementDescription": "with string",
+      "elementMeasurements": {
+        "Height": 37.782574
+      }
+    }
+  ],
+  "creditLine": "Gift of Ernst Anspach, 1999",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "Angola",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Metal-Sculpture",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-16T15:24:05.89Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/318330",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Saint Anthony",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001255",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q170547"
+    },
+    {
+      "term": "Cross",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300235443",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40843"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116407235",
+  "isTimelineWork": true,
+  "GalleryNumber": "344"
+}

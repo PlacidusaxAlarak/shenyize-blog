@@ -1,0 +1,96 @@
+{
+  "objectID": 853191,
+  "isHighlight": false,
+  "accessionNumber": "2021.398.10",
+  "accessionYear": "2021",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP-24405-002.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP-24405-002.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/DP-24405-001.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 13427,
+      "role": "Artist",
+      "name": "Inscription by Ikkyū Sōjun",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500319872",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q467613",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Hanging scroll",
+  "title": "Rush-Sandal Chen (Chen Puxie)",
+  "culture": "Japan",
+  "period": "Muromachi period (1392–1573)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Inscription by",
+  "artistDisplayName": "Ikkyū Sōjun",
+  "artistDisplayBio": "Japanese, 1394–1481",
+  "artistSuffix": "",
+  "artistAlphaSort": "Ikkyū Sōjun",
+  "artistNationality": "Japanese",
+  "artistBeginDate": "1394",
+  "artistEndDate": "1481",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q467613",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500319872",
+  "objectDate": "late 15th century",
+  "objectBeginDate": 1467,
+  "objectEndDate": 1499,
+  "medium": "Hanging scroll; ink on paper",
+  "dimensions": "Image: 40 5/8 × 14 1/2 in. (103.2 × 36.8 cm)\r\nOverall with mounting: 70 3/4 × 15 5/16 in. (179.7 × 38.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall with mounting",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 179.70535,
+        "Width": 38.89383
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 103.187706,
+        "Width": 36.8
+      }
+    },
+    {
+      "elementName": "Storage",
+      "elementDescription": "Box",
+      "elementMeasurements": {
+        "Height": 11.430023,
+        "Length": 50.4826,
+        "Width": 13.652527
+      }
+    }
+  ],
+  "creditLine": "Mary and Cheney Cowles Collection, Gift of Mary and Cheney Cowles, 2021",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-09T04:56:11.727Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/853191",
+  "tags": null,
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q126119130",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

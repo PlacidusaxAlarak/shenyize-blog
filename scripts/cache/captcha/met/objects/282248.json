@@ -1,0 +1,88 @@
+{
+  "objectID": 282248,
+  "isHighlight": false,
+  "accessionNumber": "1998.180.1",
+  "accessionYear": "1998",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 55878,
+      "role": "Artist",
+      "name": "Gilles Peress",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500041571",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q324062",
+      "gender": ""
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "Sarajevo, Bosnia",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Gilles Peress",
+  "artistDisplayBio": "French, born 1946",
+  "artistSuffix": "",
+  "artistAlphaSort": "Peress, Gilles",
+  "artistNationality": "French",
+  "artistBeginDate": "1946",
+  "artistEndDate": "9999",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q324062",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500041571",
+  "objectDate": "1993, printed 1997",
+  "objectBeginDate": 1993,
+  "objectEndDate": 1993,
+  "medium": "Gelatin silver print",
+  "dimensions": "38.7 x 60 cm (15 1/4 x 23 5/8 in.)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 38.7,
+        "Width": 60
+      }
+    }
+  ],
+  "creditLine": "Gift of Henry M. Buhl, 1998",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "© Gilles Peress",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/282248",
+  "tags": [
+    {
+      "term": "Wars",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055314",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q198"
+    },
+    {
+      "term": "Death",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300151836",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

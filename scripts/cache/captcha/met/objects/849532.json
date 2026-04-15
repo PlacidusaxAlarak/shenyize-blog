@@ -1,0 +1,106 @@
+{
+  "objectID": 849532,
+  "isHighlight": false,
+  "accessionNumber": "52.632.154",
+  "accessionYear": "1952",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP-20369-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP-20369-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 163614,
+      "role": "Publisher",
+      "name": "Currier &amp; Ives",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500034474",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1144898",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "A Taste for the Fine Arts",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Publisher",
+  "artistPrefix": "",
+  "artistDisplayName": "Currier & Ives",
+  "artistDisplayBio": "American, active New York, 1857–1907",
+  "artistSuffix": "",
+  "artistAlphaSort": "Currier & Ives",
+  "artistNationality": "American",
+  "artistBeginDate": "1857",
+  "artistEndDate": "1907",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1144898",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500034474",
+  "objectDate": "1868–78",
+  "objectBeginDate": 1868,
+  "objectEndDate": 1878,
+  "medium": "Hand-colored lithograph",
+  "dimensions": "Image: 8 7/16 × 12 9/16 in. (21.5 × 31.9 cm)\r\nSheet: 9 15/16 × 14 1/16 in. (25.3 × 35.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 25.3,
+        "Width": 35.7
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 21.5,
+        "Width": 31.9
+      }
+    }
+  ],
+  "creditLine": "Gift of  A. S. Colgate, 1952",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/849532",
+  "tags": [
+    {
+      "term": "Cows",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    },
+    {
+      "term": "Easels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300079638",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q939611"
+    },
+    {
+      "term": "Palettes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300022625",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q425548"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

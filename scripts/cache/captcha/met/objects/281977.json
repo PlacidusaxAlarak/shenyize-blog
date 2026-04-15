@@ -1,0 +1,88 @@
+{
+  "objectID": 281977,
+  "isHighlight": true,
+  "accessionNumber": "1997.108",
+  "accessionYear": "1996",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 54816,
+      "role": "Artist",
+      "name": "Patrick Faigenbaum",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500333195",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20735668",
+      "gender": ""
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "Mestanskeho Pivovaru",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Patrick Faigenbaum",
+  "artistDisplayBio": "French, born 1954",
+  "artistSuffix": "",
+  "artistAlphaSort": "Faigenbaum, Patrick",
+  "artistNationality": "French",
+  "artistBeginDate": "1954",
+  "artistEndDate": "9999",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q20735668",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500333195",
+  "objectDate": "1994–96",
+  "objectBeginDate": 1994,
+  "objectEndDate": 1996,
+  "medium": "Gelatin silver print",
+  "dimensions": "92.9 x 90.8 cm (36 9/16 x 35 3/4 in.)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 92.9,
+        "Width": 90.8
+      }
+    }
+  ],
+  "creditLine": "Purchase, Anonymous Gift, 1997",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "© Patrick Faigenbaum",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/281977",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

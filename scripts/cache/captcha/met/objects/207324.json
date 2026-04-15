@@ -1,0 +1,114 @@
+{
+  "objectID": 207324,
+  "isHighlight": false,
+  "accessionNumber": "1982.450.4",
+  "accessionYear": "1982",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP169010.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP169010.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP169011.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP169012.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP169013.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP169008.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP169009.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 45939,
+      "role": "Manufactory",
+      "name": "Capodimonte Porcelain Manufactory",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q945058",
+      "gender": ""
+    },
+    {
+      "constituentID": 33864,
+      "role": "Modeler",
+      "name": "Model attributed to Giuseppe Gricci",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500414543",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5565429",
+      "gender": ""
+    },
+    {
+      "constituentID": 164049,
+      "role": "Artist",
+      "name": "After a print by Simon Guillain II",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500033998",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q52991022",
+      "gender": ""
+    },
+    {
+      "constituentID": 161748,
+      "role": "Artist",
+      "name": "of a drawing by Annibale Carracci",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115350",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7824",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Figure",
+  "title": "The Pottery Seller",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Manufactory",
+  "artistPrefix": "",
+  "artistDisplayName": "Capodimonte Porcelain Manufactory",
+  "artistDisplayBio": "Italian, 1740/43–1759",
+  "artistSuffix": "",
+  "artistAlphaSort": "Capodimonte Porcelain Manufactory",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1740",
+  "artistEndDate": "1759",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q945058",
+  "artistULAN_URL": "(not assigned)",
+  "objectDate": "ca. 1745",
+  "objectBeginDate": 1740,
+  "objectEndDate": 1750,
+  "medium": "Soft-paste porcelain, decorated in polychrome enamels, gold",
+  "dimensions": "Overall (confirmed): 7 7/8 × 3 5/8 × 4 1/8 in. (20 × 9.2 × 10.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "confirmed",
+      "elementMeasurements": {
+        "Depth": 10.477521,
+        "Height": 20.00254,
+        "Width": 9.207519
+      }
+    }
+  ],
+  "creditLine": "Gift of Douglas Dillon, 1982",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Ceramics-Porcelain",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-31T04:54:36.6Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/207324",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

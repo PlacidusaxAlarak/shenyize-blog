@@ -1,0 +1,102 @@
+{
+  "objectID": 438670,
+  "isHighlight": false,
+  "accessionNumber": "2003.42.48",
+  "accessionYear": "2003",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP150998.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP150998.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 120034,
+      "role": "Artist",
+      "name": "Charles Rémond",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000064",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3164608",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "View of the Colosseum and the Arch of Constantine from the Palatine",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Charles Rémond",
+  "artistDisplayBio": "French, Paris 1795–1875 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Rémond, Jean-Charles-Joseph",
+  "artistNationality": "French",
+  "artistBeginDate": "1795",
+  "artistEndDate": "1875",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3164608",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500000064",
+  "objectDate": "ca. 1822–24",
+  "objectBeginDate": 1822,
+  "objectEndDate": 1824,
+  "medium": "Oil on paper, laid down on canvas",
+  "dimensions": "11 1/4 x 15 1/4 in. (28.6 x 38.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 28.6,
+        "Width": 38.7
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 8.89,
+        "Height": 41.9101,
+        "Width": 53.3401
+      }
+    }
+  ],
+  "creditLine": "The Whitney Collection, Gift of Wheelock Whitney III, and Purchase, Gift of Mr. and Mrs. Charles S. McVeigh, by exchange, 2003",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-11-21T10:05:27.96Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438670",
+  "tags": [
+    {
+      "term": "Cities",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008389",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q515"
+    },
+    {
+      "term": "Ruins",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008057",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q109607"
+    },
+    {
+      "term": "Rome",
+      "AAT_URL": "http://vocab.getty.edu/page/tgn/7000874",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q220"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20167039",
+  "isTimelineWork": false,
+  "GalleryNumber": "805"
+}

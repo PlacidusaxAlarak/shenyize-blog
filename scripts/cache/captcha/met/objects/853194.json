@@ -1,0 +1,96 @@
+{
+  "objectID": 853194,
+  "isHighlight": true,
+  "accessionNumber": "2022.432.8",
+  "accessionYear": "2022",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP-24856-002.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP-24856-002.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/DP-24856-001.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 11803,
+      "role": "Artist",
+      "name": "Sesson Shūkei",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500121057",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3480606",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Hanging scroll",
+  "title": "Daoist Master Fei Zhangfang",
+  "culture": "Japan",
+  "period": "Muromachi period (1392–1573)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Sesson Shūkei",
+  "artistDisplayBio": "ca. 1504–ca. 1589",
+  "artistSuffix": "",
+  "artistAlphaSort": "Sesson Shūkei",
+  "artistNationality": "Japanese",
+  "artistBeginDate": "1504",
+  "artistEndDate": "1589",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3480606",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500121057",
+  "objectDate": "ca. 1555–61",
+  "objectBeginDate": 1555,
+  "objectEndDate": 1561,
+  "medium": "Hanging scroll; ink on paper",
+  "dimensions": "Image: 27 1/4 × 13 3/8 in. (69.2 × 34 cm)\r\nOverall with mounting: 60 1/2 × 18 3/8 in. (153.7 × 46.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall with mounting",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 153.6703,
+        "Width": 46.672592
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 69.21514,
+        "Width": 33.97257
+      }
+    },
+    {
+      "elementName": "Storage",
+      "elementDescription": "Box",
+      "elementMeasurements": {
+        "Height": 9.84252,
+        "Length": 55.88011,
+        "Width": 10.795022
+      }
+    }
+  ],
+  "creditLine": "Mary and Cheney Cowles Collection, Gift of Mary and Cheney Cowles, 2022",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-11-12T04:51:24.09Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/853194",
+  "tags": null,
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q126119125",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

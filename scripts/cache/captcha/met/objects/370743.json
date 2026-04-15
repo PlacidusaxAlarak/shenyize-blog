@@ -1,0 +1,103 @@
+{
+  "objectID": 370743,
+  "isHighlight": false,
+  "accessionNumber": "2005.418.14",
+  "accessionYear": "2005",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP801454.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP801454.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 79134,
+      "role": "Artist",
+      "name": "Joos de Momper the Younger",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029526",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q560548",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "River Landscape with Wagons on a Road near a Village",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Joos de Momper the Younger",
+  "artistDisplayBio": "Netherlandish, Antwerp 1564–1635 Antwerp",
+  "artistSuffix": "",
+  "artistAlphaSort": "Momper the Younger, Joos II de",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1564",
+  "artistEndDate": "1635",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q560548",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500029526",
+  "objectDate": "1586–1631",
+  "objectBeginDate": 1586,
+  "objectEndDate": 1631,
+  "medium": "Pen and brown ink, brown wash, traces of black chalk",
+  "dimensions": "sheet: 9 1/4 x 14 9/16 in. (23.5 x 37 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 23.5,
+        "Width": 37
+      }
+    }
+  ],
+  "creditLine": "Anonymous Gift, 2005",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-11T04:50:49.767Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/370743",
+  "tags": [
+    {
+      "term": "Houses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300005433",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3947"
+    },
+    {
+      "term": "Roads",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008217",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q34442"
+    },
+    {
+      "term": "Villages",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008372",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q532"
+    },
+    {
+      "term": "Rivers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

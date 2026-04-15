@@ -1,0 +1,98 @@
+{
+  "objectID": 207247,
+  "isHighlight": false,
+  "accessionNumber": "1982.60.371",
+  "accessionYear": "1982",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP156648.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP156648.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP156645.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP156646.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP156647.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 35091,
+      "role": "Factory",
+      "name": "Chantilly",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500055294",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3398119",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Figure",
+  "title": "Shoulao",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Factory",
+  "artistPrefix": "",
+  "artistDisplayName": "Chantilly",
+  "artistDisplayBio": "French",
+  "artistSuffix": "",
+  "artistAlphaSort": "Chantilly",
+  "artistNationality": "French",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3398119",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500055294",
+  "objectDate": "ca. 1735–40",
+  "objectBeginDate": 1730,
+  "objectEndDate": 1745,
+  "medium": "Tin-glazed soft-paste porcelain decorataed in polychrome enamels",
+  "dimensions": "Overall (confirmed): 10 1/4 x 8 5/8 x 4 1/2 in. (26 x 21.9 x 11.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "confirmed",
+      "elementMeasurements": {
+        "Depth": 11.430023,
+        "Height": 26.035051,
+        "Width": 21.907543
+      }
+    }
+  ],
+  "creditLine": "The Jack and Belle Linsky Collection, 1982",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Ceramics-Porcelain",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-31T04:54:36.6Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/207247",
+  "tags": [
+    {
+      "term": "Fans",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300258857",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q193220"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Gods",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300343851",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q178885"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116310219",
+  "isTimelineWork": false,
+  "GalleryNumber": "543"
+}

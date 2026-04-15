@@ -1,0 +1,104 @@
+{
+  "objectID": 208149,
+  "isHighlight": true,
+  "accessionNumber": "1993.332.2",
+  "accessionYear": "1993",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP248871.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP248871.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP248872.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP248873.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP246620.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 161888,
+      "role": "Artist",
+      "name": "Giovanni Battista Foggini",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020988",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1353158",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Bust",
+  "title": "Ferdinando de' Medici, Grand Prince of Tuscany",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Giovanni Battista Foggini",
+  "artistDisplayBio": "Italian, Florence 1652–1725 Florence",
+  "artistSuffix": "",
+  "artistAlphaSort": "Foggini, Giovanni Battista",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1652",
+  "artistEndDate": "1725",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1353158",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500020988",
+  "objectDate": "ca. 1680–82",
+  "objectBeginDate": 1675,
+  "objectEndDate": 1687,
+  "medium": "Marble, gray marble",
+  "dimensions": "Overall (confirmed): 38 3/4 × 28 7/8 × 14 in., 337 lb. (98.4 × 73.3 × 35.6 cm, 152.9 kg)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "historic dimensions, superceded, wt confirmed",
+      "elementMeasurements": {
+        "Depth": 30.4801,
+        "Height": 99.1,
+        "Weight": 152.8622,
+        "Width": 76.2002
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "confirmed",
+      "elementMeasurements": {
+        "Depth": 35.56007,
+        "Height": 98.42519,
+        "Weight": 152.8622,
+        "Width": 73.34264
+      }
+    }
+  ],
+  "creditLine": "Purchase, The Annenberg Foundation Gift, 1993",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Sculpture",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-31T04:54:36.6Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/208149",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q29383666",
+  "isTimelineWork": true,
+  "GalleryNumber": "550"
+}

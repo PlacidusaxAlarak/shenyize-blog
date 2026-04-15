@@ -1,0 +1,101 @@
+{
+  "objectID": 439081,
+  "isHighlight": false,
+  "accessionNumber": "2006.469",
+  "accessionYear": "2006",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP344253.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP344253.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/GermanCat16_Xraynocap.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/GermanCat16_IRRnocap.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 112816,
+      "role": "Artist",
+      "name": "Lucas Cranach the Elder and Workshop",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115364",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q191748",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Saint Maurice",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Lucas Cranach the Elder and Workshop",
+  "artistDisplayBio": "German, Kronach 1472–1553 Weimar",
+  "artistSuffix": "",
+  "artistAlphaSort": "Cranach, Lucas, the Elder, and Workshop",
+  "artistNationality": "German",
+  "artistBeginDate": "1472",
+  "artistEndDate": "1553",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q191748",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115364",
+  "objectDate": "ca. 1520–25",
+  "objectBeginDate": 1520,
+  "objectEndDate": 1525,
+  "medium": "Oil on linden",
+  "dimensions": "54 x 15 1/2 in. (137.2 x 39.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 137.1603,
+        "Width": 39.3701
+      }
+    }
+  ],
+  "creditLine": "Bequest of Eva F. Kollsman, 2005",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-11-21T10:05:27.96Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/439081",
+  "tags": [
+    {
+      "term": "Armor",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300226591",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q20793164"
+    },
+    {
+      "term": "Swords",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300037048",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12791"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Saints",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911613",
+  "isTimelineWork": true,
+  "GalleryNumber": "607"
+}

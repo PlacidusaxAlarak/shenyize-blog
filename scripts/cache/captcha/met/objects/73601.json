@@ -1,0 +1,83 @@
+{
+  "objectID": 73601,
+  "isHighlight": false,
+  "accessionNumber": "2007.13",
+  "accessionYear": "2007",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 17630,
+      "role": "Artist",
+      "name": "Michael Cherney",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500337855",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Photographic album",
+  "title": "Bounded by Mountains: Mount Hua",
+  "culture": "China",
+  "period": "Contemporary",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Michael Cherney",
+  "artistDisplayBio": "American, born 1969",
+  "artistSuffix": "",
+  "artistAlphaSort": "Cherney, Michael",
+  "artistNationality": "American",
+  "artistBeginDate": "1969",
+  "artistEndDate": "9999",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500337855",
+  "objectDate": "2005–6",
+  "objectBeginDate": 2005,
+  "objectEndDate": 2006,
+  "medium": "Photographic album of twelve leaves; inkjet print on mica-flecked paper",
+  "dimensions": "Image (each leaf): 10 1/4 x 14 15/16 in. (26 x 38 cm)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": "each leaf",
+      "elementMeasurements": {
+        "Height": 26,
+        "Width": 38
+      }
+    }
+  ],
+  "creditLine": "Purchase, Josephine L. Berger-Nadler Gift, in honor of Marie-Hélène and Guy Weill, 2007",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "© © Michael Cherney",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/73601",
+  "tags": [
+    {
+      "term": "Mountains",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

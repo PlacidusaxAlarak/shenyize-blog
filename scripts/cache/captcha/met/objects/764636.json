@@ -1,0 +1,122 @@
+{
+  "objectID": 764636,
+  "isHighlight": false,
+  "accessionNumber": "1986.1168.1",
+  "accessionYear": "1986",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP884893.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP884893.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 95976,
+      "role": "Engraver",
+      "name": "Lumb Stocks",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18821816",
+      "gender": ""
+    },
+    {
+      "constituentID": 95732,
+      "role": "Artist",
+      "name": "After Edward Matthew Ward",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500014693",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q386392",
+      "gender": ""
+    },
+    {
+      "constituentID": 77030,
+      "role": "Publisher",
+      "name": "D. Appleton &amp; Co.",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 96431,
+      "role": "Subject",
+      "name": "Charlotte Corday",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "The Last Toilet of Charlotte Corday",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Engraver",
+  "artistPrefix": "",
+  "artistDisplayName": "Lumb Stocks",
+  "artistDisplayBio": "British, Lightcliffe, Yorkshire 1812–1892 London",
+  "artistSuffix": "",
+  "artistAlphaSort": "Stocks, Lumb",
+  "artistNationality": "British",
+  "artistBeginDate": "1812",
+  "artistEndDate": "1892",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q18821816",
+  "artistULAN_URL": "(not assigned)",
+  "objectDate": "1869 or after",
+  "objectBeginDate": 1869,
+  "objectEndDate": 1869,
+  "medium": "Engraving on chine collé",
+  "dimensions": "Sheet: 13 3/4 × 9 9/16 in. (35 × 24.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 35,
+        "Width": 24.3
+      }
+    }
+  ],
+  "creditLine": "Gift of Mrs. Charles Wrightsman, 1986",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-11-21T10:05:27.96Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/764636",
+  "tags": [
+    {
+      "term": "Painting",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300054216",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q11629"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Palettes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300022625",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q425548"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

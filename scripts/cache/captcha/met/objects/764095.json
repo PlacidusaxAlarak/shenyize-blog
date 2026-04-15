@@ -1,0 +1,96 @@
+{
+  "objectID": 764095,
+  "isHighlight": false,
+  "accessionNumber": "2018.652.5",
+  "accessionYear": "2018",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP-18755-007.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-18755-007.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 169986,
+      "role": "Artist",
+      "name": "Unknown",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500125274",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q24238356",
+      "gender": ""
+    }
+  ],
+  "department": "The American Wing",
+  "objectName": "Painting",
+  "title": "Christ Carrying the Cross, called \"The Lord of the Fall\"",
+  "culture": "Peru (Cuzco)",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Unknown",
+  "artistDisplayBio": "",
+  "artistSuffix": "Cuzco Artist (Peru, second half 18th century)",
+  "artistAlphaSort": "Unknown",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q24238356",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500125274",
+  "objectDate": "ca. 1770–75",
+  "objectBeginDate": 1770,
+  "objectEndDate": 1775,
+  "medium": "Oil and gold on canvas",
+  "dimensions": "65 × 48 in. (165.1 × 121.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 174.5,
+        "Width": 131
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 165.10033,
+        "Width": 121.92024
+      }
+    }
+  ],
+  "creditLine": "Gift of James Kung Wei Li, in memory of Ambassador and Mme Ti-Tsun Li, Republic of China, 2018",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-10-03T04:51:20.327Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/764095",
+  "tags": [
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q104413133",
+  "isTimelineWork": false,
+  "GalleryNumber": "626"
+}

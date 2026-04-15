@@ -1,0 +1,97 @@
+{
+  "objectID": 489963,
+  "isHighlight": false,
+  "accessionNumber": "1999.363.20",
+  "accessionYear": "1999",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161848,
+      "role": "Artist",
+      "name": "Jean Dubuffet",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019113",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q170076",
+      "gender": ""
+    }
+  ],
+  "department": "Modern and Contemporary Art",
+  "objectName": "Painting",
+  "title": "Jean Paulhan",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jean Dubuffet",
+  "artistDisplayBio": "French, Le Havre 1901–1985 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Dubuffet, Jean",
+  "artistNationality": "French",
+  "artistBeginDate": "1901",
+  "artistEndDate": "1985",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q170076",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500019113",
+  "objectDate": "1946",
+  "objectBeginDate": 1946,
+  "objectEndDate": 1946,
+  "medium": "Acrylic and oil on Masonite",
+  "dimensions": "42 7/8 × 34 5/8 in. (108.9 × 87.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 108.9,
+        "Width": 87.9
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": "F.1999.363.20  Brass float - CANNOT accomodate plexi",
+      "elementMeasurements": {
+        "Depth": 5.08001,
+        "Height": 112.395226,
+        "Width": 90.17018
+      }
+    }
+  ],
+  "creditLine": "Jacques and Natasha Gelman Collection, 1998",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "© 2026 Artists Rights Society (ARS), New York",
+  "linkResource": "",
+  "metadataDate": "2026-01-07T04:49:48.69Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/489963",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19920774",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

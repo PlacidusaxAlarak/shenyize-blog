@@ -1,0 +1,106 @@
+{
+  "objectID": 53213,
+  "isHighlight": false,
+  "accessionNumber": "2015.300.48",
+  "accessionYear": "2015",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP700727.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP700727.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/DP700726.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 11984,
+      "role": "Artist",
+      "name": "Attributed to Kano Masanobu 狩野正信",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Hanging scroll",
+  "title": "Herd Boy with Ox",
+  "culture": "Japan",
+  "period": "Muromachi period (1392–1573)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Attributed to",
+  "artistDisplayName": "Kano Masanobu 狩野正信",
+  "artistDisplayBio": "Japanese, ca. 1434–ca. 1530",
+  "artistSuffix": "",
+  "artistAlphaSort": "Kano Masanobu",
+  "artistNationality": "Japanese",
+  "artistBeginDate": "1434",
+  "artistEndDate": "1530",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "late 15th century",
+  "objectBeginDate": 1467,
+  "objectEndDate": 1499,
+  "medium": "Folding fan mounted as a hanging scroll; ink and gold on paper",
+  "dimensions": "Image: 8 7/8 × 18 1/2 in. (22.5 × 47 cm)\r\nOverall with mounting: 53 1/8 × 27 11/16 in. (135 × 70.3 cm)\r\nOverall with knobs: 53 1/8 × 29 5/16 in. (135 × 74.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 22.5,
+        "Width": 46.990093
+      }
+    },
+    {
+      "elementName": "Overall with knobs",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 135,
+        "Width": 74.5
+      }
+    },
+    {
+      "elementName": "Overall with mounting",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 135,
+        "Width": 70.3
+      }
+    }
+  ],
+  "creditLine": "Mary Griggs Burke Collection, Gift of the Mary and Jackson Burke Foundation, 2015",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/53213",
+  "tags": [
+    {
+      "term": "Boys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+    },
+    {
+      "term": "Ox",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250282",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q473194"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78760336",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

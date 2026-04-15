@@ -1,0 +1,87 @@
+{
+  "objectID": 310227,
+  "isHighlight": false,
+  "accessionNumber": "1976.287.36",
+  "accessionYear": "1976",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DP-23891-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-23891-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-23891-003.jpg",
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-23891-002.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 224066,
+      "role": "Artist",
+      "name": "Topará artist(s)",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "The Michael C. Rockefeller Wing",
+  "objectName": "Bottle",
+  "title": "Double-chambered bottle with monkeys",
+  "culture": "Topará",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Topará artist(s)",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "Topará artist(s)",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "200 BCE–100 CE",
+  "objectBeginDate": -200,
+  "objectEndDate": 100,
+  "medium": "Ceramic",
+  "dimensions": "H. 5 × W. 4 7/8 × D. 2 3/4 in. (12.7 × 12.4 × 7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 6.985014,
+        "Height": 12.700026,
+        "Width": 12.3825245
+      }
+    }
+  ],
+  "creditLine": "Gift of Nathan Cummings, 1976",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "Peru",
+  "region": "South Coast",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Ceramics-Containers",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-05-31T04:50:53.377Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/310227",
+  "tags": [
+    {
+      "term": "Monkeys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250028",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1367"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": "362"
+}

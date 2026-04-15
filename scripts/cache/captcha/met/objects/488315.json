@@ -1,0 +1,92 @@
+{
+  "objectID": 488315,
+  "isHighlight": true,
+  "accessionNumber": "49.59.1",
+  "accessionYear": "1949",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161826,
+      "role": "Artist",
+      "name": "Charles Demuth",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004441",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q380494",
+      "gender": ""
+    }
+  ],
+  "department": "Modern and Contemporary Art",
+  "objectName": "Painting",
+  "title": "I Saw the Figure 5 in Gold",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Charles Demuth",
+  "artistDisplayBio": "American, Lancaster, Pennsylvania 1883–1935 Lancaster, Pennsylvania",
+  "artistSuffix": "",
+  "artistAlphaSort": "Demuth, Charles",
+  "artistNationality": "American",
+  "artistBeginDate": "1883",
+  "artistEndDate": "1935",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q380494",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500004441",
+  "objectDate": "1928",
+  "objectBeginDate": 1928,
+  "objectEndDate": 1928,
+  "medium": "Oil, graphite, ink, and gold leaf on paperboard (Upson board)",
+  "dimensions": "35 1/2 × 30 in. (90.2 × 76.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 90.2,
+        "Width": 76.2
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": "F.49.59.1 Painted white wood frame-AR plexi",
+      "elementMeasurements": {
+        "Depth": 5.08001,
+        "Height": 106.04521,
+        "Width": 90.17018
+      }
+    }
+  ],
+  "creditLine": "Alfred Stieglitz Collection, 1949",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-04-10T04:57:39.74Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/488315",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q6622215",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,101 @@
+{
+  "objectID": 701203,
+  "isHighlight": false,
+  "accessionNumber": "2015.709",
+  "accessionYear": "2015",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP701374.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/DP701374.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 188600,
+      "role": "Artist",
+      "name": "Ann Magdalen Yates",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": "Female"
+    }
+  ],
+  "department": "The American Wing",
+  "objectName": "Sampler",
+  "title": "Sampler",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Ann Magdalen Yates",
+  "artistDisplayBio": "American, born 1790",
+  "artistSuffix": "",
+  "artistAlphaSort": "Yates, Ann Magdalen",
+  "artistNationality": "American",
+  "artistBeginDate": "1790",
+  "artistEndDate": "",
+  "artistGender": "Female",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "ca. 1802",
+  "objectBeginDate": 1799,
+  "objectEndDate": 1805,
+  "medium": "Silk embroidery on linen",
+  "dimensions": "15 3/4 × 18 1/2 in. (40 × 47 cm)\r\nFramed: 20 1/4 × 22 3/4 in. (51.4 × 57.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Diameter": 51.435104,
+        "Height": 57.785114
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 40.00508,
+        "Width": 46.990093
+      }
+    }
+  ],
+  "creditLine": "Friends of the American Wing Fund, 2015",
+  "geographyType": "Made in",
+  "city": "New York",
+  "state": "New York",
+  "county": "",
+  "country": "United States",
+  "region": "Mid-Atlantic",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-07-29T04:53:22.743Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/701203",
+  "tags": [
+    {
+      "term": "Houses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300005433",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3947"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Trees",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

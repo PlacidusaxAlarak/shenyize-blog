@@ -1,0 +1,93 @@
+{
+  "objectID": 310517,
+  "isHighlight": false,
+  "accessionNumber": "1978.412.61",
+  "accessionYear": "1978",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DP-24359-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-24359-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-24359-003.jpg",
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-24359-002.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 224093,
+      "role": "Artist",
+      "name": "Nasca artist(s)",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "The Michael C. Rockefeller Wing",
+  "objectName": "Jar",
+  "title": "Head jar",
+  "culture": "Nasca",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Nasca artist(s)",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "Nasca artist(s)",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "100–500 CE",
+  "objectBeginDate": 100,
+  "objectEndDate": 500,
+  "medium": "Ceramic, slip",
+  "dimensions": "H. 7 13/16 x W. 6 1/4 in. (19.8 x 15.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Other",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Width": 15.88
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 19.8438,
+        "Width": 15.88
+      }
+    }
+  ],
+  "creditLine": "The Michael C. Rockefeller Memorial Collection, Purchase, Nelson A. Rockefeller Gift, 1961",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "Peru",
+  "region": "South Coast",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Ceramics-Containers",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/310517",
+  "tags": [
+    {
+      "term": "Heads",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300375054",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3409626"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

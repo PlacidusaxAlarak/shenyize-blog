@@ -1,0 +1,102 @@
+{
+  "objectID": 437984,
+  "isHighlight": false,
+  "accessionNumber": "1996.435",
+  "accessionYear": "1996",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19279-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-19279-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161947,
+      "role": "Artist",
+      "name": "Vincent van Gogh",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115588",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5582",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "La Berceuse (Woman Rocking a Cradle; Augustine-Alix Pellicot Roulin, 1851–1930)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Vincent van Gogh",
+  "artistDisplayBio": "Dutch, Zundert 1853–1890 Auvers-sur-Oise",
+  "artistSuffix": "",
+  "artistAlphaSort": "Gogh, Vincent van",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1853",
+  "artistEndDate": "1890",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5582",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115588",
+  "objectDate": "1889",
+  "objectBeginDate": 1889,
+  "objectEndDate": 1889,
+  "medium": "Oil on canvas",
+  "dimensions": "36 1/2 × 29 in. (92.7 × 73.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 92.7,
+        "Weight": 21.772657,
+        "Width": 73.7
+      }
+    },
+    {
+      "elementName": "Glazing",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 93.02769,
+        "Width": 73.977646
+      }
+    }
+  ],
+  "creditLine": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 1996, Bequest of Walter H. Annenberg, 2002",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-03-10T04:57:21.92Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437984",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Flowers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911437",
+  "isTimelineWork": true,
+  "GalleryNumber": "822"
+}

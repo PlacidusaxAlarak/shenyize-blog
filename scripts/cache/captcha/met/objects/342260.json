@@ -1,0 +1,83 @@
+{
+  "objectID": 342260,
+  "isHighlight": false,
+  "accessionNumber": "24.67.8",
+  "accessionYear": "1924",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP804676.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP804676.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 74898,
+      "role": "Artist",
+      "name": "Charles Samuel Keene",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030662",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q943757",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "\"A Wolf in Sheep's Clothing\"",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Charles Samuel Keene",
+  "artistDisplayBio": "British, Hornsey, Middlesex 1823–1891 London",
+  "artistSuffix": "",
+  "artistAlphaSort": "Keene, Charles Samuel",
+  "artistNationality": "British",
+  "artistBeginDate": "1823",
+  "artistEndDate": "1891",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q943757",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500030662",
+  "objectDate": "1870–1891",
+  "objectBeginDate": 1870,
+  "objectEndDate": 1891,
+  "medium": "Pen and brown ink, brush and wash, touches of white gouache (bodycolor)",
+  "dimensions": "Sheet: 5 9/16 × 7 7/16 in. (14.1 × 18.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 14.1,
+        "Width": 18.9
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1924",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/342260",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

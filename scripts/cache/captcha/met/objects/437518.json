@@ -1,0 +1,102 @@
+{
+  "objectID": 437518,
+  "isHighlight": false,
+  "accessionNumber": "25.110.52",
+  "accessionYear": "1925",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-15888-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-15888-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162349,
+      "role": "Artist",
+      "name": "Théodore Rousseau",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019946",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q310025",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "A River in a Meadow",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Théodore Rousseau",
+  "artistDisplayBio": "French, Paris 1812–1867 Barbizon",
+  "artistSuffix": "",
+  "artistAlphaSort": "Rousseau, Théodore",
+  "artistNationality": "French",
+  "artistBeginDate": "1812",
+  "artistEndDate": "1867",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q310025",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500019946",
+  "objectDate": "ca. 1840",
+  "objectBeginDate": 1835,
+  "objectEndDate": 1845,
+  "medium": "Oil on wood",
+  "dimensions": "16 3/4 x 26 1/8 in. (42.5 x 66.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 42.5,
+        "Width": 66.4
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 10.16,
+        "Height": 73.6601,
+        "Width": 97.1552
+      }
+    }
+  ],
+  "creditLine": "Bequest of Collis P. Huntington, 1900",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-04-30T04:49:03.02Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437518",
+  "tags": [
+    {
+      "term": "Cows",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+    },
+    {
+      "term": "Rivers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912910",
+  "isTimelineWork": false,
+  "GalleryNumber": "802"
+}

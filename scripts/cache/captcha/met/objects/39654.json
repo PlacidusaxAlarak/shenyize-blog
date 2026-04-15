@@ -1,0 +1,126 @@
+{
+  "objectID": 39654,
+  "isHighlight": false,
+  "accessionNumber": "1979.458.1a–ii",
+  "accessionYear": "1979",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP235628_CRD.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP235628_CRD.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/DP235620.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP235622.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP235621.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP235623.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP235624.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP235625.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP235626.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP235627.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP235628.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP235629.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP235630.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP235631.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP235632.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP235633.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP235634.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP235635.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP235636.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP235637.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 11795,
+      "role": "Artist",
+      "name": "Wen Zhengming",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500336955",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q306673",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Album",
+  "title": "Garden of the Inept Administrator",
+  "culture": "China",
+  "period": "Ming dynasty (1368–1644)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Wen Zhengming",
+  "artistDisplayBio": "Chinese, 1470–1559",
+  "artistSuffix": "",
+  "artistAlphaSort": "Wen Zhengming",
+  "artistNationality": "Chinese",
+  "artistBeginDate": "1470",
+  "artistEndDate": "1559",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q306673",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500336955",
+  "objectDate": "1551",
+  "objectBeginDate": 1551,
+  "objectEndDate": 1551,
+  "medium": "Album of eight leaves; ink on paper",
+  "dimensions": "Image: 10 3/8 × 10 3/4 in. (26.4 × 27.3 cm)\r\nImage with mounting: 15 3/8 × 16 3/4 in. (39.1 × 42.5 cm)\r\nDouble leaf unfolded: 15 3/8 × 33 1/2 in. (39.1 × 85.1 cm)\r\nMat: 18 5/16 × 34 in. (46.5 × 86.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 26.3526,
+        "Width": 27.3051
+      }
+    },
+    {
+      "elementName": "Mat",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 46.513844,
+        "Width": 86.360176
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "Double leaf unfolded",
+      "elementMeasurements": {
+        "Height": 39.052578,
+        "Width": 85.09017
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "Image with mounting",
+      "elementMeasurements": {
+        "Height": 39.052578,
+        "Width": 42.545086
+      }
+    }
+  ],
+  "creditLine": "Gift of Douglas Dillon, 1979",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-01-21T04:52:24.343Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/39654",
+  "tags": [
+    {
+      "term": "Gardens",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008090",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1107656"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78870433",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

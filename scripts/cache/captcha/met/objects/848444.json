@@ -1,0 +1,109 @@
+{
+  "objectID": 848444,
+  "isHighlight": false,
+  "accessionNumber": "2021.77.4",
+  "accessionYear": "2021",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-22351-042.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP-22351-042.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP-22351-052.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP-22351-055.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP-22351-053.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 34724,
+      "role": "Maker",
+      "name": "Wölfgang Rössler",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500056631",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21289994",
+      "gender": ""
+    },
+    {
+      "constituentID": 215055,
+      "role": "Maker",
+      "name": "mounts possibly by Jacob Hogel",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 200045,
+      "role": "Maker",
+      "name": "Anonymous",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Jug",
+  "title": "Jug with baptism of Christ",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Maker",
+  "artistPrefix": "",
+  "artistDisplayName": "Wölfgang Rössler",
+  "artistDisplayBio": "German, 1650–1717, active Nuremburg",
+  "artistSuffix": "",
+  "artistAlphaSort": "Rössler, Wölfgang",
+  "artistNationality": "German",
+  "artistBeginDate": "1650",
+  "artistEndDate": "1717",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q21289994",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500056631",
+  "objectDate": "ca. 1680–90",
+  "objectBeginDate": 1675,
+  "objectEndDate": 1695,
+  "medium": "Tin-glazed earthenware; gilded silver mounts",
+  "dimensions": "confirmed: 8 3/8 × 3 11/16 × 4 1/2 in. (21.3 × 9.4 × 11.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "confirmed",
+      "elementMeasurements": {
+        "Depth": 11.430023,
+        "Height": 21.3,
+        "Width": 9.366269
+      }
+    }
+  ],
+  "creditLine": "Bequest of Helga Kramarsky, 2020",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Ceramics-Pottery",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-31T04:54:36.6Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/848444",
+  "tags": [
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Baptism of Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001066",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q217048"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

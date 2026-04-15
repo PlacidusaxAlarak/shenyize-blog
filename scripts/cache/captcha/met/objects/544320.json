@@ -1,0 +1,90 @@
+{
+  "objectID": 544320,
+  "isHighlight": true,
+  "accessionNumber": "12.184",
+  "accessionYear": "1912",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/eg/original/DP322064.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/eg/web-large/DP322064.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/eg/original/DP322065.jpg",
+    "https://images.metmuseum.org/CRDImages/eg/original/DP322066.jpg",
+    "https://images.metmuseum.org/CRDImages/eg/original/DT527.jpg"
+  ],
+  "constituents": null,
+  "department": "Egyptian Art",
+  "objectName": "Stela, Mentuwoser",
+  "title": "Stela of the Steward Mentuwoser",
+  "culture": "",
+  "period": "Middle Kingdom",
+  "dynasty": "Dynasty 12",
+  "reign": "reign of Senwosret I, year 17",
+  "portfolio": "",
+  "artistRole": "",
+  "artistPrefix": "",
+  "artistDisplayName": "",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "ca. 1944 B.C.",
+  "objectBeginDate": -1944,
+  "objectEndDate": -1944,
+  "medium": "Limestone, paint",
+  "dimensions": "H. 103 cm (40 9/16 in.); W. 50.5 cm (19 7/8 in.); Th. 8.3 cm (3 1/4 in.)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 103,
+        "Thickness": 8.3,
+        "Weight": 117.02803,
+        "Width": 50.5
+      }
+    }
+  ],
+  "creditLine": "Gift of Edward S. Harkness, 1912",
+  "geographyType": "Probably from",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "Northern Upper Egypt",
+  "subregion": "Abydos",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/544320",
+  "tags": [
+    {
+      "term": "Food",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300254496",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2095"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Hieroglyphs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300028721",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q193762"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q29385782",
+  "isTimelineWork": true,
+  "GalleryNumber": "110"
+}

@@ -1,0 +1,127 @@
+{
+  "objectID": 726225,
+  "isHighlight": false,
+  "accessionNumber": "2014.99.2",
+  "accessionYear": "2014",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP703691.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP703691.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 11308,
+      "role": "Artist",
+      "name": "After Jacob Floris",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030844",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21540347",
+      "gender": ""
+    },
+    {
+      "constituentID": 173615,
+      "role": "Publisher",
+      "name": "Carlo Losi",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Album Print Ornament & Architecture",
+  "title": "Targhe ed altri ornati di varie e capricciose invenzioni (Cartouches and other ornaments of various and capricious invention, page 2)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "After",
+  "artistDisplayName": "Jacob Floris",
+  "artistDisplayBio": "Central European, 1524–1581",
+  "artistSuffix": "",
+  "artistAlphaSort": "Floris, Jacob",
+  "artistNationality": "Central European",
+  "artistBeginDate": "1524",
+  "artistEndDate": "1581",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q21540347",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500030844",
+  "objectDate": "1773",
+  "objectBeginDate": 1773,
+  "objectEndDate": 1773,
+  "medium": "Etching and engraving",
+  "dimensions": "Sheet: 7 7/8 × 10 5/16 in. (20 × 26.2 cm)\r\nPlate: 5 1/8 × 11 13/16 in. (13 × 30 cm)\r\nOverall: 8 1/4 × 10 5/8 in. (21 × 27 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 21,
+        "Width": 27
+      }
+    },
+    {
+      "elementName": "Plate",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 13,
+        "Width": 30
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 20,
+        "Width": 26.2
+      }
+    }
+  ],
+  "creditLine": "Purchase, Daniel Ergmann Gift, 2014",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Albums",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-09-24T04:50:58.447Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/726225",
+  "tags": [
+    {
+      "term": "Birds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+    },
+    {
+      "term": "Obelisks",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300007021",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q170980"
+    },
+    {
+      "term": "Shields",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300036869",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q131559"
+    },
+    {
+      "term": "Spears",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300037038",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q44475"
+    },
+    {
+      "term": "Female Nudes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

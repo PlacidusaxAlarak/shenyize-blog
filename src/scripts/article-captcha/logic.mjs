@@ -12,6 +12,21 @@ function clampUnitInterval(value) {
 	return clamp(value, 0, 0.999999);
 }
 
+function normalizeBackgroundImageUrls(imageUrls) {
+	if (!Array.isArray(imageUrls)) {
+		return [];
+	}
+
+	return [
+		...new Set(
+			imageUrls
+				.filter((value) => typeof value === "string")
+				.map((value) => value.trim())
+				.filter(Boolean),
+		),
+	];
+}
+
 function normalizeRotationDeg(value) {
 	const normalized = value % FULL_ROTATION_DEG;
 
@@ -389,6 +404,30 @@ export function createFreshCaptchaState({ startRotationDeg, startSliderValue }) 
 		isLocked: false,
 		status: "idle",
 	};
+}
+
+export function pickRandomBackgroundImageUrl({
+	imageUrls,
+	previousImageUrl,
+	rng = Math.random,
+}) {
+	const normalizedImageUrls = normalizeBackgroundImageUrls(imageUrls);
+	if (normalizedImageUrls.length === 0) {
+		return undefined;
+	}
+
+	const candidateImageUrls =
+		normalizedImageUrls.length > 1 && typeof previousImageUrl === "string"
+			? normalizedImageUrls.filter((imageUrl) => imageUrl !== previousImageUrl)
+			: normalizedImageUrls;
+	const selectionPool =
+		candidateImageUrls.length > 0 ? candidateImageUrls : normalizedImageUrls;
+	const selectionIndex = Math.min(
+		selectionPool.length - 1,
+		Math.floor(clampUnitInterval(rng()) * selectionPool.length),
+	);
+
+	return selectionPool[selectionIndex];
 }
 
 export function sliderValueToRotation({ sliderValue, challenge }) {

@@ -1,0 +1,114 @@
+{
+  "objectID": 670981,
+  "isHighlight": false,
+  "accessionNumber": "2015.300.47",
+  "accessionYear": "2015",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP-12232-034.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP-12232-034.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/DP-12232-033.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/SC-2015_300_47-001.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/SC-2015_300_47-002.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/SC-2015_300_47-003.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/SC-2015_300_47-004.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/SC-2015_300_47-005.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/SC-2015_300_47-006a.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/SC-2015_300_47-006b.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/SC-2015_300_47-006c.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 12486,
+      "role": "Artist",
+      "name": "Sekkyakushi",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Hanging scroll",
+  "title": "Oxherding",
+  "culture": "Japan",
+  "period": "Muromachi period (1392–1573)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Sekkyakushi",
+  "artistDisplayBio": "Japanese, active first half of the 15th century",
+  "artistSuffix": "",
+  "artistAlphaSort": "Sekkyakushi",
+  "artistNationality": "Japanese",
+  "artistBeginDate": "1400",
+  "artistEndDate": "1499",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "first half of the 15th century",
+  "objectBeginDate": 1400,
+  "objectEndDate": 1449,
+  "medium": "Hanging scroll; ink on paper",
+  "dimensions": "Image: 21 1/16 × 11 9/16 in. (53.5 × 29.4 cm)\r\nOverall with mounting: 54 3/4 × 15 5/8 in. (139 × 39.7 cm)\r\nOverall with knobs: 54 3/4 × 17 5/8 in. (139 × 44.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 53.5,
+        "Width": 29.4
+      }
+    },
+    {
+      "elementName": "Overall with knobs",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 139,
+        "Width": 44.7
+      }
+    },
+    {
+      "elementName": "Overall with mounting",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 139,
+        "Width": 39.7
+      }
+    }
+  ],
+  "creditLine": "Mary Griggs Burke Collection, Gift of the Mary and Jackson Burke Foundation, 2015",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/670981",
+  "tags": [
+    {
+      "term": "Boys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+    },
+    {
+      "term": "Ox",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250282",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q473194"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78618498",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

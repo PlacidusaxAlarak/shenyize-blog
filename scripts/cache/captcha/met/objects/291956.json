@@ -1,0 +1,101 @@
+{
+  "objectID": 291956,
+  "isHighlight": false,
+  "accessionNumber": "2010.416a, b",
+  "accessionYear": "2010",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164637,
+      "role": "Artist",
+      "name": "Hans Haacke",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500047257",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q657647",
+      "gender": ""
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photographs",
+  "title": "Thank You, Paine Webber",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Hans Haacke",
+  "artistDisplayBio": "American and German, born Cologne, 1936",
+  "artistSuffix": "",
+  "artistAlphaSort": "Haacke, Hans",
+  "artistNationality": "American and German",
+  "artistBeginDate": "1936",
+  "artistEndDate": "9999",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q657647",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500047257",
+  "objectDate": "1979",
+  "objectBeginDate": 1979,
+  "objectEndDate": 1979,
+  "medium": "Gelatin silver print and silver dye bleach print",
+  "dimensions": "107.3 x 103.2 cm (42 1/4 x 40 5/8 in.), each\r\nFrame: 109.2 × 104.8 cm (43 × 41 1/4 in.), each",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 107.315216,
+        "Width": 103.187706
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 109.220215,
+        "Width": 104.77521
+      }
+    }
+  ],
+  "creditLine": "Purchase, Vital Projects Fund Inc. Gift, through Joyce and Robert Menschel, 2010",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/291956",
+  "tags": [
+    {
+      "term": "Signs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300123013",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3695082"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Cars",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300178739",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1420"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

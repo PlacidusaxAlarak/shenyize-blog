@@ -1,0 +1,119 @@
+{
+  "objectID": 451731,
+  "isHighlight": false,
+  "accessionNumber": "63.210.44",
+  "accessionYear": "1963",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP132956.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP132956.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/is/original/178476.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DP256449.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DT264241.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/sf63-210-44r.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/sf63-210-44v.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/178478.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 130146,
+      "role": "Calligrapher",
+      "name": "Sultan &#39;Ali al-Mashhadi",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500116608",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5922231",
+      "gender": ""
+    },
+    {
+      "constituentID": 130655,
+      "role": "Author",
+      "name": "Farid al-Din `Attar",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q194091",
+      "gender": ""
+    }
+  ],
+  "department": "Islamic Art",
+  "objectName": "Folio from an illustrated manuscript",
+  "title": "\"The Anecdote of the Man Who Fell into the Water\", Folio 44r from a Mantiq al-Tayr (Language of the Birds)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Calligrapher",
+  "artistPrefix": "",
+  "artistDisplayName": "Sultan 'Ali al-Mashhadi",
+  "artistDisplayBio": "Iranian, Mashhad 1453–1520 Mashhad",
+  "artistSuffix": "",
+  "artistAlphaSort": "al-Mashhadi, Sultan 'Ali",
+  "artistNationality": "Iranian",
+  "artistBeginDate": "1453",
+  "artistEndDate": "1520",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5922231",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500116608",
+  "objectDate": "dated 892 AH/1487 CE",
+  "objectBeginDate": 1486,
+  "objectEndDate": 1488,
+  "medium": "Opaque watercolor, silver, and gold on paper",
+  "dimensions": "Painting: H. 7 3/8 in. (18.7 cm)\r\n                W.  5 1/8in. (13cm)\r\nPage: H. 13 in. (33 cm)\r\n          W. 8 7/16 in. (21.4 cm)\r\nMat: H. 19 1/4 in. (48.9 cm)\r\n        W. 14 1/4 in. (36.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 18.7,
+        "Width": 13
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "Page",
+      "elementMeasurements": {
+        "Height": 33.0201,
+        "Width": 21.4313
+      }
+    },
+    {
+      "elementName": "Mat",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 48.8951,
+        "Width": 36.1951
+      }
+    }
+  ],
+  "creditLine": "Fletcher Fund, 1963",
+  "geographyType": "Made in",
+  "city": "Herat",
+  "state": "",
+  "county": "",
+  "country": "present-day Afghanistan",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Codices",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-01-21T04:52:24.343Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/451731",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Donkeys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265959",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3537778"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

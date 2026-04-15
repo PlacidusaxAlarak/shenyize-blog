@@ -1,0 +1,93 @@
+{
+  "objectID": 309519,
+  "isHighlight": false,
+  "accessionNumber": "67.239.17",
+  "accessionYear": "1967",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DP-23564-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-23564-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-23564-004.jpg",
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-23564-003.jpg",
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-23564-002.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 223118,
+      "role": "Artist",
+      "name": "Cupisnique artist(s)",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "The Michael C. Rockefeller Wing",
+  "objectName": "Bottle",
+  "title": "Stirrup-spout bottle with feline and snake",
+  "culture": "Cupisnique",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Cupisnique artist(s)",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "Cupisnique artist(s)",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "1200–800 BCE",
+  "objectBeginDate": -1200,
+  "objectEndDate": -800,
+  "medium": "Ceramic",
+  "dimensions": "H. 9 1/2 x W. 7 1/2 x D. 6 1/2 in. (24.1 x 19.1 x 16.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 16.51,
+        "Height": 24.13,
+        "Width": 19.05
+      }
+    }
+  ],
+  "creditLine": "Harris Brisbane Dick and Fletcher Funds, 1967",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "Peru",
+  "region": "North Coast",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Ceramics-Containers",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-11-21T10:05:27.96Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/309519",
+  "tags": [
+    {
+      "term": "Animals",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300249525",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q729"
+    },
+    {
+      "term": "Serpents",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300417734",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2102"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116406819",
+  "isTimelineWork": false,
+  "GalleryNumber": "362"
+}

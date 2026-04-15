@@ -1,0 +1,106 @@
+{
+  "objectID": 296370,
+  "isHighlight": false,
+  "accessionNumber": "2011.555.11",
+  "accessionYear": "2011",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 163493,
+      "role": "Artist",
+      "name": "Lois Conner",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500037134",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q6668231",
+      "gender": "Female"
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "Da Fu, Le Shan, Sichuan, China",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Lois Conner",
+  "artistDisplayBio": "American, born New York, 1951",
+  "artistSuffix": "",
+  "artistAlphaSort": "Conner, Lois",
+  "artistNationality": "American",
+  "artistBeginDate": "1951",
+  "artistEndDate": "9999",
+  "artistGender": "Female",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q6668231",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500037134",
+  "objectDate": "1986, printed 1996",
+  "objectBeginDate": 1986,
+  "objectEndDate": 1986,
+  "medium": "Platinum print",
+  "dimensions": "Image: 42.6 x 16 cm (16 3/4 x 6 5/16 in.)\r\nSheet: 48.6 x 21 cm (19 1/8 x 8 1/4 in.)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 42.6,
+        "Width": 16
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 48.6,
+        "Width": 21
+      }
+    }
+  ],
+  "creditLine": "Gift of Susan and Arthur Fleischer Jr., 2011",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/296370",
+  "tags": [
+    {
+      "term": "Sculpture",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300047090",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q860861"
+    },
+    {
+      "term": "Mountains",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    },
+    {
+      "term": "Buddha",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300262950",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7055"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q98821563",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

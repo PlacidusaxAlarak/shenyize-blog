@@ -1,0 +1,88 @@
+{
+  "objectID": 815112,
+  "isHighlight": true,
+  "accessionNumber": "2019.48",
+  "accessionYear": "2019",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162361,
+      "role": "Artist",
+      "name": "Theo Van Rysselberghe",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030824",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q671883",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Little Denise (Denise Maréchal, later Madame Georges Béart, 1883–1956)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Theo Van Rysselberghe",
+  "artistDisplayBio": "Belgian, Ghent 1862–1926 Saint Clair",
+  "artistSuffix": "",
+  "artistAlphaSort": "Rysselberghe, Theo Van",
+  "artistNationality": "Belgian",
+  "artistBeginDate": "1862",
+  "artistEndDate": "1926",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q671883",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500030824",
+  "objectDate": "1889",
+  "objectBeginDate": 1889,
+  "objectEndDate": 1889,
+  "medium": "Oil on canvas",
+  "dimensions": "40 9/16 × 23 3/4 in. (103 × 60.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 103,
+        "Width": 60.3
+      }
+    }
+  ],
+  "creditLine": "Purchase, Bequest of Milena Jurzykowski, by exchange, Walter and Leonore Annenberg Acquisitions Endowment Fund, the Estate of David R. Graham and Leonard A. Lauder Gifts, Catharine Lorillard Wolfe Collection, Wolfe Fund, Acquisitions Fund, and Gifts of J. Pierpont Morgan, Paul-Jean Clays, and an Association of Gentlemen, by exchange, 2019",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-02-07T04:59:02.893Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/815112",
+  "tags": [
+    {
+      "term": "Girls",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q77587746",
+  "isTimelineWork": false,
+  "GalleryNumber": "825"
+}

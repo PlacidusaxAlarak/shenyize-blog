@@ -1,0 +1,133 @@
+{
+  "objectID": 828668,
+  "isHighlight": false,
+  "accessionNumber": "2019.409.1",
+  "accessionYear": "2019",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP-20895-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP-20895-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 72316,
+      "role": "Artist",
+      "name": "After Jacques Antoine Marie Lemoine",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020914",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3157864",
+      "gender": ""
+    },
+    {
+      "constituentID": 208839,
+      "role": "Printmaker",
+      "name": "Tiburce de Mare",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q52155225",
+      "gender": ""
+    },
+    {
+      "constituentID": 100988,
+      "role": "Printer",
+      "name": "A. Beillet",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 165555,
+      "role": "Sitter",
+      "name": "Jean Honoré Fragonard",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115329",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q127171",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Portrait of Jean Honoré Fragonard",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "After",
+  "artistDisplayName": "Jacques Antoine Marie Lemoine",
+  "artistDisplayBio": "French, Rouen 1751–1824 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Lemoine, Jacques Antoine Marie",
+  "artistNationality": "French",
+  "artistBeginDate": "1751",
+  "artistEndDate": "1824",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3157864",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500020914",
+  "objectDate": "ca. 1880",
+  "objectBeginDate": 1875,
+  "objectEndDate": 1885,
+  "medium": "Etching",
+  "dimensions": "Sheet: 17 1/2 × 12 5/8 in. (44.5 × 32 cm)\r\nPlate: 9 3/8 × 6 15/16 in. (23.8 × 17.7 cm)\r\nImage: 7 1/2 × 5 1/2 in. (19 × 14 cm)",
+  "measurements": [
+    {
+      "elementName": "Plate",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 23.8,
+        "Width": 17.7
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 44.5,
+        "Width": 32
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 19,
+        "Width": 14
+      }
+    }
+  ],
+  "creditLine": "Gift of Katrin Bellinger, 2019",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/828668",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Artists",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025103",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q483501"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

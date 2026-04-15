@@ -1,0 +1,122 @@
+{
+  "objectID": 431527,
+  "isHighlight": false,
+  "accessionNumber": "17.3.756-2026",
+  "accessionYear": "1917",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP876109.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP876109.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 98213,
+      "role": "Engraver",
+      "name": "Caroline Watson",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030187",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q16859203",
+      "gender": "Female"
+    },
+    {
+      "constituentID": 166174,
+      "role": "Artist",
+      "name": "After Samuel Cooper",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115383",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1382316",
+      "gender": ""
+    },
+    {
+      "constituentID": 161458,
+      "role": "Sitter",
+      "name": "Said to represent John Milton",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500284151",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q79759",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "John Milton",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Engraver",
+  "artistPrefix": "",
+  "artistDisplayName": "Caroline Watson",
+  "artistDisplayBio": "British, London 1760/61–1814 London",
+  "artistSuffix": "",
+  "artistAlphaSort": "Watson, Caroline",
+  "artistNationality": "British",
+  "artistBeginDate": "1760",
+  "artistEndDate": "1814",
+  "artistGender": "Female",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q16859203",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500030187",
+  "objectDate": "1786",
+  "objectBeginDate": 1786,
+  "objectEndDate": 1786,
+  "medium": "Stipple and engraving",
+  "dimensions": "Plate: 8 13/16 × 6 3/8 in. (22.4 × 16.2 cm)\r\nSheet: 9 13/16 × 7 7/16 in. (24.9 × 18.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 24.9,
+        "Width": 18.9
+      }
+    },
+    {
+      "elementName": "Plate",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 22.4,
+        "Width": 16.2
+      }
+    }
+  ],
+  "creditLine": "Harris Brisbane Dick Fund, 1917",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/431527",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Adam",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000219",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q70899"
+    },
+    {
+      "term": "Eve",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000205",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q830183"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q96184892",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

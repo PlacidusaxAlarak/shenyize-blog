@@ -1,0 +1,112 @@
+{
+  "objectID": 382925,
+  "isHighlight": false,
+  "accessionNumber": "28.97.22",
+  "accessionYear": "1928",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP821395.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP821395.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162573,
+      "role": "Artist",
+      "name": "Designed and etched by Joseph Mallord William Turner",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026846",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q159758",
+      "gender": ""
+    },
+    {
+      "constituentID": 91653,
+      "role": "Engraver",
+      "name": "William Say",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025369",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q8018157",
+      "gender": ""
+    },
+    {
+      "constituentID": 162573,
+      "role": "Publisher",
+      "name": "Joseph Mallord William Turner",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026846",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q159758",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Juvenile Tricks, part V, plate 22 from \"Liber Studiorum\"",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "Liber Studiorum",
+  "artistRole": "Artist",
+  "artistPrefix": "Designed and etched by",
+  "artistDisplayName": "Joseph Mallord William Turner",
+  "artistDisplayBio": "British, London 1775–1851 London",
+  "artistSuffix": "",
+  "artistAlphaSort": "Turner, Joseph Mallord William",
+  "artistNationality": "British",
+  "artistBeginDate": "1775",
+  "artistEndDate": "1851",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q159758",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500026846",
+  "objectDate": "January 1, 1811",
+  "objectBeginDate": 1811,
+  "objectEndDate": 1811,
+  "medium": "Etching and mezzotint; first state",
+  "dimensions": "plate: 7 1/16 x 10 3/8 in. (17.9 x 26.4 cm)\r\nsheet: 8 3/16 x 11 1/2 in. (20.8 x 29.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 20.7963,
+        "Width": 29.2101
+      }
+    },
+    {
+      "elementName": "Plate",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 17.9388,
+        "Width": 26.3526
+      }
+    }
+  ],
+  "creditLine": "Harris Brisbane Dick Fund, 1928",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/382925",
+  "tags": [
+    {
+      "term": "Boys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

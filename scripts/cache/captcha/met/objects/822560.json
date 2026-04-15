@@ -1,0 +1,93 @@
+{
+  "objectID": 822560,
+  "isHighlight": false,
+  "accessionNumber": "2019.210",
+  "accessionYear": "2019",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 191093,
+      "role": "Artist",
+      "name": "Peri Schwartz",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q27588659",
+      "gender": "Female"
+    },
+    {
+      "constituentID": 104476,
+      "role": "Printer",
+      "name": "Gregory Burnet",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "You Want It Darker",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Peri Schwartz",
+  "artistDisplayBio": "American, Brooklyn, New York, 1951–2021 White Plains, New York",
+  "artistSuffix": "",
+  "artistAlphaSort": "Schwartz, Peri",
+  "artistNationality": "American",
+  "artistBeginDate": "1951",
+  "artistEndDate": "2021",
+  "artistGender": "Female",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q27588659",
+  "artistULAN_URL": "(not assigned)",
+  "objectDate": "2018",
+  "objectBeginDate": 2018,
+  "objectEndDate": 2018,
+  "medium": "Spit bite etching with drypoint",
+  "dimensions": "Plate: 17 1/2 × 21 in. (44.5 × 53.3 cm)\r\nSheet: 25 in. × 26 3/4 in. (63.5 × 67.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 63.500126,
+        "Width": 67.94514
+      }
+    },
+    {
+      "elementName": "Plate",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 44.45009,
+        "Width": 53.340107
+      }
+    }
+  ],
+  "creditLine": "Gift of the artist, 2019",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-07-12T04:50:38.037Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/822560",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

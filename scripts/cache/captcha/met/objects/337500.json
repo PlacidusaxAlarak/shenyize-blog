@@ -1,0 +1,126 @@
+{
+  "objectID": 337500,
+  "isHighlight": true,
+  "accessionNumber": "08.162.1",
+  "accessionYear": "1908",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP289717.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP289717.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/dp/original/dp08.162.1.R.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/4160.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DT639.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162340,
+      "role": "Artist",
+      "name": "Dante Gabriel Rossetti",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500022594",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q186748",
+      "gender": ""
+    },
+    {
+      "constituentID": 100914,
+      "role": "Artist",
+      "name": "Henry Treffry Dunn",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019229",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5729291",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "Lady Lilith",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Dante Gabriel Rossetti",
+  "artistDisplayBio": "British, London 1828–1882 Birchington-on-Sea",
+  "artistSuffix": "",
+  "artistAlphaSort": "Rossetti, Dante Gabriel",
+  "artistNationality": "British",
+  "artistBeginDate": "1828",
+  "artistEndDate": "1882",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q186748",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500022594",
+  "objectDate": "1867",
+  "objectBeginDate": 1867,
+  "objectEndDate": 1867,
+  "medium": "Watercolor and gouache (bodycolor)",
+  "dimensions": "20 3/16 X 17 5/16 in. (51.3 x 44 cm)",
+  "measurements": [
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 72.390144,
+        "Width": 64.77013
+      }
+    },
+    {
+      "elementName": "Mat",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 65.40513,
+        "Width": 58.102615
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 51.3,
+        "Width": 44
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1908",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-01-21T04:52:24.343Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/337500",
+  "tags": [
+    {
+      "term": "Hair",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300400468",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q28472"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Flowers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+    },
+    {
+      "term": "Mirrors",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300037682",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35197"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q29384872",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

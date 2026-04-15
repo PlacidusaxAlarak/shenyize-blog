@@ -1,0 +1,93 @@
+{
+  "objectID": 898497,
+  "isHighlight": false,
+  "accessionNumber": "2023.295",
+  "accessionYear": "2023",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP-31035-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP-31035-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 81211,
+      "role": "Artist",
+      "name": "Thomas Worlidge",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031623",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7795306",
+      "gender": ""
+    },
+    {
+      "constituentID": 223674,
+      "role": "Sitter",
+      "name": "Henry Simons",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Henry Simons the Polish Jew",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Thomas Worlidge",
+  "artistDisplayBio": "British, Peterborough 1700–1766 Hammersmith",
+  "artistSuffix": "",
+  "artistAlphaSort": "Worlidge, Thomas",
+  "artistNationality": "British",
+  "artistBeginDate": "1700",
+  "artistEndDate": "1766",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q7795306",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500031623",
+  "objectDate": "1753",
+  "objectBeginDate": 1753,
+  "objectEndDate": 1753,
+  "medium": "Etching; first state of two",
+  "dimensions": "Plate: 6 9/16 × 4 5/16 in. (16.7 × 10.9 cm)\r\nSheet: 7 1/16 × 4 3/4 in. (18 × 12 cm)",
+  "measurements": [
+    {
+      "elementName": "Plate",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 16.7,
+        "Width": 10.9
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 18,
+        "Width": 12
+      }
+    }
+  ],
+  "creditLine": "Gift of Elizabeth A. Pergam, 2023",
+  "geographyType": "Published in",
+  "city": "London",
+  "state": "",
+  "county": "",
+  "country": "England",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/898497",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

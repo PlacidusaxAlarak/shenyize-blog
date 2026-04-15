@@ -1,0 +1,93 @@
+{
+  "objectID": 488893,
+  "isHighlight": false,
+  "accessionNumber": "55.99",
+  "accessionYear": "1955",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162406,
+      "role": "Artist",
+      "name": "Charles Sheeler",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115325",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q624868",
+      "gender": ""
+    }
+  ],
+  "department": "Modern and Contemporary Art",
+  "objectName": "Painting",
+  "title": "Golden Gate",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Charles Sheeler",
+  "artistDisplayBio": "American, Philadelphia, Pennsylvania 1883–1965 Dobbs Ferry, New York",
+  "artistSuffix": "",
+  "artistAlphaSort": "Sheeler, Charles",
+  "artistNationality": "American",
+  "artistBeginDate": "1883",
+  "artistEndDate": "1965",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q624868",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115325",
+  "objectDate": "1955",
+  "objectBeginDate": 1955,
+  "objectEndDate": 1955,
+  "medium": "Oil on canvas",
+  "dimensions": "25 × 34 in. (63.5 × 86.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 2.2225044,
+        "Height": 63.500126,
+        "Width": 86.360176
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": "F.55.99 Black wood frame-AR plexi",
+      "elementMeasurements": {
+        "Depth": 5.7150116,
+        "Height": 74.29515,
+        "Width": 97.1552
+      }
+    }
+  ],
+  "creditLine": "George A. Hearn Fund, 1955",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-16T04:54:57.693Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/488893",
+  "tags": [
+    {
+      "term": "Bridges",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300386855",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12280"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20189642",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

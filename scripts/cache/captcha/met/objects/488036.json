@@ -1,0 +1,106 @@
+{
+  "objectID": 488036,
+  "isHighlight": false,
+  "accessionNumber": "42.160",
+  "accessionYear": "1942",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161978,
+      "role": "Artist",
+      "name": "Marsden Hartley",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012910",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q553259",
+      "gender": ""
+    }
+  ],
+  "department": "Modern and Contemporary Art",
+  "objectName": "Painting",
+  "title": "Lobster Fishermen",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Marsden Hartley",
+  "artistDisplayBio": "American, Lewiston, Maine 1877–1943 Ellsworth, Maine",
+  "artistSuffix": "",
+  "artistAlphaSort": "Hartley, Marsden",
+  "artistNationality": "American",
+  "artistBeginDate": "1877",
+  "artistEndDate": "1943",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q553259",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500012910",
+  "objectDate": "1940–41",
+  "objectBeginDate": 1940,
+  "objectEndDate": 1941,
+  "medium": "Oil on hardboard (masonite)",
+  "dimensions": "29 3/4 × 40 7/8 in. (75.6 × 103.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 75.6,
+        "Width": 103.8
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": "F.42.160  Gold and black wood w/AR plexi",
+      "elementMeasurements": {
+        "Depth": 6.985014,
+        "Height": 100.647705,
+        "Width": 128.58775
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": "F.1.42.160  Old Gold and black wood - No plexi",
+      "elementMeasurements": {
+        "Depth": 6.350013,
+        "Height": 94.61519,
+        "Width": 120.01524
+      }
+    }
+  ],
+  "creditLine": "Arthur Hoppock Hearn Fund, 1942",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-04-10T04:57:39.74Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/488036",
+  "tags": [
+    {
+      "term": "Docks",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300120801",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q124282"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19920675",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

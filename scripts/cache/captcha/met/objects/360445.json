@@ -1,0 +1,101 @@
+{
+  "objectID": 360445,
+  "isHighlight": false,
+  "accessionNumber": "30.54.69",
+  "accessionYear": "1930",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP836417.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP836417.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162018,
+      "role": "Artist",
+      "name": "Jusepe de Ribera (called Lo Spagnoletto)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008521",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q297838",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "The poet, standing crowned with laurel, leaning on a stone",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jusepe de Ribera (called Lo Spagnoletto)",
+  "artistDisplayBio": "Spanish, Játiva 1591–1652 Naples",
+  "artistSuffix": "",
+  "artistAlphaSort": "Ribera, Jusepe de (called Lo Spagnoletto)",
+  "artistNationality": "Spanish",
+  "artistBeginDate": "1591",
+  "artistEndDate": "1652",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q297838",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500008521",
+  "objectDate": "1620–21",
+  "objectBeginDate": 1620,
+  "objectEndDate": 1621,
+  "medium": "Etching",
+  "dimensions": "Sheet: 6 3/8 × 4 15/16 in. (16.2 × 12.6 cm)\r\nPlate: 6 1/4 × 4 13/16 in. (15.9 × 12.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Plate",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 15.9,
+        "Width": 12.3
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 16.2,
+        "Width": 12.6
+      }
+    }
+  ],
+  "creditLine": "Harris Brisbane Dick Fund, 1930",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/360445",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Poets",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025513",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q49757"
+    },
+    {
+      "term": "Authors",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025492",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q482980"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

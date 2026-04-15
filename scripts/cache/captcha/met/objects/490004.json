@@ -1,0 +1,101 @@
+{
+  "objectID": 490004,
+  "isHighlight": true,
+  "accessionNumber": "1999.363.50",
+  "accessionYear": "1999",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162129,
+      "role": "Artist",
+      "name": "Joan Miró",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500014094",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q152384",
+      "gender": ""
+    }
+  ],
+  "department": "Modern and Contemporary Art",
+  "objectName": "Painting",
+  "title": "Potato",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Joan Miró",
+  "artistDisplayBio": "Spanish, Barcelona 1893–1983 Palma de Mallorca",
+  "artistSuffix": "",
+  "artistAlphaSort": "Miró, Joan",
+  "artistNationality": "Spanish",
+  "artistBeginDate": "1893",
+  "artistEndDate": "1983",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q152384",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500014094",
+  "objectDate": "1928",
+  "objectBeginDate": 1928,
+  "objectEndDate": 1928,
+  "medium": "Oil on canvas",
+  "dimensions": "39 3/4 × 32 1/8 in. (101 × 81.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 101,
+        "Width": 81.6
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": "F.1999.363.50 Gold wood frame-NO plexi",
+      "elementMeasurements": {
+        "Depth": 6.0452123,
+        "Height": 125.09525,
+        "Width": 106.36271
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": "F.1.1999.363.50  Brown wood w/brown wood liner - No plexi",
+      "elementMeasurements": {
+        "Depth": 6.6675134,
+        "Height": 121.602745,
+        "Width": 89.53518
+      }
+    }
+  ],
+  "creditLine": "Jacques and Natasha Gelman Collection, 1998",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "© 2026 Artists Rights Society (ARS), New York",
+  "linkResource": "",
+  "metadataDate": "2026-01-07T04:49:48.69Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/490004",
+  "tags": [
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20189406",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

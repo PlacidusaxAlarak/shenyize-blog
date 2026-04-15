@@ -1,0 +1,127 @@
+{
+  "objectID": 715747,
+  "isHighlight": false,
+  "accessionNumber": "45.100.5",
+  "accessionYear": "1945",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP-1512-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP-1512-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 70956,
+      "role": "Artist",
+      "name": "Jacques Aliamet",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500049289",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3158110",
+      "gender": ""
+    },
+    {
+      "constituentID": 19660,
+      "role": "Artist",
+      "name": "after Giovanni Damasceno Salusti",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 165545,
+      "role": "Artist",
+      "name": "(direxit) Charles Nicolas Cochin II",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021138",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2408093",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "The Combat of Khurungui",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "The Conquests of the Emperor of China\r\n(Les Conquêtes de l'Empereur de la Chine)",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jacques Aliamet",
+  "artistDisplayBio": "French, Abbeville 1726–1788 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Aliamet, Jacques",
+  "artistNationality": "French",
+  "artistBeginDate": "1726",
+  "artistEndDate": "1788",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3158110",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500049289",
+  "objectDate": "1774",
+  "objectBeginDate": 1774,
+  "objectEndDate": 1774,
+  "medium": "Etching and engraving",
+  "dimensions": "Sheet: 39 11/16 × 25 11/16 in. (100.8 × 65.3 cm)\r\nPlate: 22 15/16 × 36 9/16 in. (58.2 × 92.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Plate",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 58.2,
+        "Width": 92.8
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 100.8,
+        "Width": 65.3
+      }
+    }
+  ],
+  "creditLine": "Harris Brisbane Dick Fund, 1945",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-09-27T04:50:39.59Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/715747",
+  "tags": [
+    {
+      "term": "Tents",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300005694",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q170544"
+    },
+    {
+      "term": "Battles",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300185692",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q178561"
+    },
+    {
+      "term": "Soldiers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+    },
+    {
+      "term": "Bow and Arrow",
+      "AAT_URL": null,
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q19827042"
+    },
+    {
+      "term": "Horses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

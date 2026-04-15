@@ -1,0 +1,93 @@
+{
+  "objectID": 437368,
+  "isHighlight": false,
+  "accessionNumber": "14.40.641",
+  "accessionYear": "1914",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-15089-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-15089-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162285,
+      "role": "Artist",
+      "name": "Raffaellino del Garbo (also known as Raffaelle de&#39; Capponi and Raffaelle de&#39; Carli)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002831",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q954072",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Holy Family with an Angel",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Raffaellino del Garbo (also known as Raffaelle de' Capponi and Raffaelle de' Carli)",
+  "artistDisplayBio": "Italian, San Lorenzo a Vigliano, near Florence, ca. 1470–after 1527 Florence",
+  "artistSuffix": "",
+  "artistAlphaSort": "Raffaellino del Garbo",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1465",
+  "artistEndDate": "1527",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q954072",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500002831",
+  "objectDate": "ca. 1490",
+  "objectBeginDate": 1485,
+  "objectEndDate": 1495,
+  "medium": "Tempera on canvas, transferred from wood",
+  "dimensions": "22 x 15 in. (55.9 x 38.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 55.9,
+        "Width": 38.1
+      }
+    }
+  ],
+  "creditLine": "Bequest of Benjamin Altman, 1913",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437368",
+  "tags": [
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Madonna and Child",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+    },
+    {
+      "term": "Saint Joseph",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000953",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q128267"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19906273",
+  "isTimelineWork": false,
+  "GalleryNumber": "604"
+}

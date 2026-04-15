@@ -1,0 +1,98 @@
+{
+  "objectID": 338553,
+  "isHighlight": false,
+  "accessionNumber": "64.50",
+  "accessionYear": "1964",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP140839.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP140839.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/dp/original/DP144121.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP144122.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP144123.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP144124.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 161789,
+      "role": "Artist",
+      "name": "Pietro da Cortona (Pietro Berrettini)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115154",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q333323",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "Design for a Thesis Print with an Allegory of Knowledge and Portrait of Cardinal Antonio Barberini the Younger (1607–1671)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Pietro da Cortona (Pietro Berrettini)",
+  "artistDisplayBio": "Italian, Cortona 1596–1669 Rome",
+  "artistSuffix": "",
+  "artistAlphaSort": "Cortona, Pietro da (Pietro Berrettini)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1596",
+  "artistEndDate": "1669",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q333323",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115154",
+  "objectDate": "ca. 1635",
+  "objectBeginDate": 1635,
+  "objectEndDate": 1635,
+  "medium": "Pen and brown ink, brush and brown wash, highlighted with white, over black chalk, on brown paper",
+  "dimensions": "20-1/2 x 30-3/8 in.  (52.0 x 77.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 52,
+        "Width": 77.2
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1964",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/338553",
+  "tags": [
+    {
+      "term": "Human Figures",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

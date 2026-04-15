@@ -1,0 +1,91 @@
+{
+  "objectID": 265510,
+  "isHighlight": false,
+  "accessionNumber": "1987.1100.44",
+  "accessionYear": "1987",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 165301,
+      "role": "Artist",
+      "name": "Lee Miller",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023704",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q265131",
+      "gender": "Female"
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "Impasse des Deux Anges",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Lee Miller",
+  "artistDisplayBio": "American, Poughkeepsie, New York 1907–1977 Chiddingly, England",
+  "artistSuffix": "",
+  "artistAlphaSort": "Miller, Lee",
+  "artistNationality": "American",
+  "artistBeginDate": "1907",
+  "artistEndDate": "1977",
+  "artistGender": "Female",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q265131",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500023704",
+  "objectDate": "ca. 1931",
+  "objectBeginDate": 1929,
+  "objectEndDate": 1933,
+  "medium": "Gelatin silver print",
+  "dimensions": "29.2 x 22.7 cm (11 1/2 x 8 15/16 in.)",
+  "measurements": [
+    {
+      "elementName": "Mount",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 38.8,
+        "Width": 30.5
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 29.2,
+        "Width": 22.7
+      }
+    }
+  ],
+  "creditLine": "Ford Motor Company Collection, Gift of Ford Motor Company and John C. Waddell, 1987",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-03-21T04:54:46.133Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/265510",
+  "tags": [
+    {
+      "term": "Abstraction",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300056508",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q162150"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q98822729",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

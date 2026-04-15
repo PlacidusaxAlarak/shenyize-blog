@@ -1,0 +1,100 @@
+{
+  "objectID": 436521,
+  "isHighlight": false,
+  "accessionNumber": "29.100.15",
+  "accessionYear": "1929",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP347299.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP347299.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-29_100_15-Xray.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-29_100_15-IRR.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 165215,
+      "role": "Artist",
+      "name": "Hugo van der Goes",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007457",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q215251",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Portrait of a Man",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Hugo van der Goes",
+  "artistDisplayBio": "Netherlandish, Ghent, active by 1467–died 1482 Roode-Klooster",
+  "artistSuffix": "",
+  "artistAlphaSort": "Goes, Hugo van der",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1467",
+  "artistEndDate": "1482",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q215251",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500007457",
+  "objectDate": "ca. 1475",
+  "objectBeginDate": 1470,
+  "objectEndDate": 1480,
+  "medium": "Oil on wood",
+  "dimensions": "Oval, overall 12 1/2 x 10 1/2 in. (31.8 x 26.7 cm); painted surface 12 1/2 x 10 1/4 in. (31.8 x 26 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 31.8,
+        "Width": 26.7
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.7150116,
+        "Height": 46.037594,
+        "Width": 40.322582
+      }
+    }
+  ],
+  "creditLine": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-02-07T04:59:02.893Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436521",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20167120",
+  "isTimelineWork": false,
+  "GalleryNumber": "602"
+}

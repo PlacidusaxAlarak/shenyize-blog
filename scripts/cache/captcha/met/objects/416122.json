@@ -1,0 +1,133 @@
+{
+  "objectID": 416122,
+  "isHighlight": false,
+  "accessionNumber": "52.520.14",
+  "accessionYear": "1952",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP-39490-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP-39490-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 105471,
+      "role": "Artist",
+      "name": "Otto Knirsch",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029151",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q53503197",
+      "gender": ""
+    },
+    {
+      "constituentID": 71525,
+      "role": "Engraver",
+      "name": "After an engraving by Samuel William Reynolds, the younger",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024559",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18508642",
+      "gender": ""
+    },
+    {
+      "constituentID": 90447,
+      "role": "Artist",
+      "name": "After a painting by William John Thomas Collins",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115372",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2623883",
+      "gender": ""
+    },
+    {
+      "constituentID": 163614,
+      "role": "Publisher",
+      "name": "Currier &amp; Ives",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500034474",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1144898",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "The Sale of the Pet Lamb",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Otto Knirsch",
+  "artistDisplayBio": "American, born Dresden, Germany, active 1853–67 died Hoboken, New Jersey",
+  "artistSuffix": "",
+  "artistAlphaSort": "Knirsch, Otto",
+  "artistNationality": "American, born Germany",
+  "artistBeginDate": "1853",
+  "artistEndDate": "1867",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q53503197",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500029151",
+  "objectDate": "1857",
+  "objectBeginDate": 1857,
+  "objectEndDate": 1857,
+  "medium": "Hand-colored lithograph",
+  "dimensions": "Image: 15 1/4 × 19 3/8 in. (38.8 × 49.2 cm)\r\nImage with text: 16 3/4 × 19 3/8 in. (42.5 × 49.2 cm)\r\nSheet: 19 11/16 × 23 11/16 in. (50 × 60.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 38.8,
+        "Width": 49.212597
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 42.545086,
+        "Width": 49.212597
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 50,
+        "Width": 60.1
+      }
+    }
+  ],
+  "creditLine": "Gift of A. S. Colgate, 1952",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-04T04:51:25.263Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/416122",
+  "tags": [
+    {
+      "term": "Children",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    },
+    {
+      "term": "Lambs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250289",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4575936"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

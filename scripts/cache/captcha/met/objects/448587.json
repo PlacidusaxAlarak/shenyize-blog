@@ -1,0 +1,102 @@
+{
+  "objectID": 448587,
+  "isHighlight": false,
+  "accessionNumber": "31.82.1",
+  "accessionYear": "1931",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP212659.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP212659.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/is/original/84384.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DP212654.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DP212655.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DP212656.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DP212653.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DP212657.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DP212658.jpg"
+  ],
+  "constituents": null,
+  "department": "Islamic Art",
+  "objectName": "Panel",
+  "title": "Panel from a Tent Lining (Qanat)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "",
+  "artistPrefix": "",
+  "artistDisplayName": "",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "17th century",
+  "objectBeginDate": 1600,
+  "objectEndDate": 1699,
+  "medium": "Cotton; plain weave, mordant dyed and painted, resist-dyed",
+  "dimensions": "Textile: L. 103 in. (261.6 cm)\r\n             W. 50 in. (127 cm)\r\nMount: L. 114 1/4 in. (290.2 cm)\r\n             W. 59 in. (149.9 cm)\r\n             D. 2 1/2 in. (6.4 cm)\r\n            Wt. 165 lbs. (74.8 kg)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "Textile",
+      "elementMeasurements": {
+        "Height": 261.6205,
+        "Width": 127.0003
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Mount",
+      "elementMeasurements": {
+        "Depth": 6.35,
+        "Height": 290.1956,
+        "Weight": 74.843506,
+        "Width": 149.8603
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1931",
+  "geographyType": "Attributed to",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "India",
+  "region": "Deccan",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Textiles-Painted and/or Printed",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/448587",
+  "tags": [
+    {
+      "term": "Flowers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+    },
+    {
+      "term": "Plants",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132360",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q756"
+    },
+    {
+      "term": "Leaves",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300011892",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q33971"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": "462"
+}

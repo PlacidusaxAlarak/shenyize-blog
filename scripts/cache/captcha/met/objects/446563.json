@@ -1,0 +1,126 @@
+{
+  "objectID": 446563,
+  "isHighlight": true,
+  "accessionNumber": "13.228.29",
+  "accessionYear": "1913",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP159383.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP159383.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/is/original/I A Muslim Pilgrim learns a lesson in piety.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DP120804.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/73718.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/212334.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DT4794.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/30605.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/CAT 12r1_89A.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 133327,
+      "role": "Author",
+      "name": "Amir Khusrau Dihlavi",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q207817",
+      "gender": ""
+    },
+    {
+      "constituentID": 134927,
+      "role": "Calligrapher",
+      "name": "Muhammad Husain Kashmiri",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q110217081",
+      "gender": ""
+    },
+    {
+      "constituentID": 162808,
+      "role": "Artist",
+      "name": "Painting by Basawan",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500329649",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q728311",
+      "gender": ""
+    }
+  ],
+  "department": "Islamic Art",
+  "objectName": "Folio from an illustrated manuscript",
+  "title": "\"A Muslim Pilgrim Learns a Lesson in Piety from a Brahman\", Folio from a Khamsa (Quintet) of Amir Khusrau Dihlavi",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Author",
+  "artistPrefix": "",
+  "artistDisplayName": "Amir Khusrau Dihlavi",
+  "artistDisplayBio": "Indian, Patiyali, 1253–1325 Delhi",
+  "artistSuffix": "",
+  "artistAlphaSort": "Amir Khusrau Dihlavi",
+  "artistNationality": "Indian",
+  "artistBeginDate": "1228",
+  "artistEndDate": "1350",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q207817",
+  "artistULAN_URL": "(not assigned)",
+  "objectDate": "1597–98",
+  "objectBeginDate": 1572,
+  "objectEndDate": 1623,
+  "medium": "Image: Ink, opaque watercolor, and gold on paper\r\nMargins: Gold on dyed paper",
+  "dimensions": "Overall: H. 9 7/8 in. (25.1 cm)\r\n               W. 6 1/4 in. (15.9 cm)\r\nFrame:H. 25 in. (63.5 cm)\r\n             W. 19 in. (48.3 cm)\r\n             D. 1 in. (2.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 25.1,
+        "Width": 15.9
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 2.540005,
+        "Height": 63.500126,
+        "Width": 48.260098
+      }
+    }
+  ],
+  "creditLine": "Gift of Alexander Smith Cochran, 1913",
+  "geographyType": "Attributed to",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "India",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Codices",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/446563",
+  "tags": [
+    {
+      "term": "Animals",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300249525",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q729"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q29385019",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

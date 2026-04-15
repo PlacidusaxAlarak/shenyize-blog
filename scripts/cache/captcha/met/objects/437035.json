@@ -1,0 +1,124 @@
+{
+  "objectID": 437035,
+  "isHighlight": false,
+  "accessionNumber": "26.26",
+  "accessionYear": "1926",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-23271-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-23271-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-26_26-5.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-26_26-6.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-26_26-10.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-26_26-11.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-26_26-XRAY.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 118879,
+      "role": "Artist",
+      "name": "Workshop of the Master of the Virgin among Virgins",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003611",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q945799",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Lamentation",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Workshop of the",
+  "artistDisplayName": "Master of the Virgin among Virgins",
+  "artistDisplayBio": "Netherlandish, active ca. 1460–95",
+  "artistSuffix": "",
+  "artistAlphaSort": "Master of the Virgin among Virgins",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1460",
+  "artistEndDate": "1495",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q945799",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500003611",
+  "objectDate": "",
+  "objectBeginDate": 1470,
+  "objectEndDate": 1499,
+  "medium": "Oil on wood",
+  "dimensions": "34 7/8 x 20 1/4 in. (88.6 x 51.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 88.6,
+        "Width": 51.4
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1926",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-28T04:51:14.567Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437035",
+  "tags": [
+    {
+      "term": "Sadness",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055166",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q169251"
+    },
+    {
+      "term": "Suffering",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055184",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5780945"
+    },
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Mary Magdalene",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000161",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q63070"
+    },
+    {
+      "term": "Saint John the Evangelist",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001171",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q328804"
+    },
+    {
+      "term": "Virgin Mary",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+    },
+    {
+      "term": "Lamentation",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001196",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3155356"
+    },
+    {
+      "term": "Death",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300151836",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911839",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

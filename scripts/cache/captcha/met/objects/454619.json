@@ -1,0 +1,98 @@
+{
+  "objectID": 454619,
+  "isHighlight": false,
+  "accessionNumber": "2003.430",
+  "accessionYear": "2003",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP116022.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP116022.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/is/original/tr235.2003.JPG",
+    "https://images.metmuseum.org/CRDImages/is/original/tr235.2003closeup.JPG",
+    "https://images.metmuseum.org/CRDImages/is/original/2003.430.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/Jorrit 4_1r1_89J.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162823,
+      "role": "Artist",
+      "name": "Painting by Bhavanidas",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q16628601",
+      "gender": ""
+    }
+  ],
+  "department": "Islamic Art",
+  "objectName": "Illustrated single work",
+  "title": "The Emperor Aurangzeb Carried on a Palanquin",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Painting by",
+  "artistDisplayName": "Bhavanidas",
+  "artistDisplayBio": "active ca. 1700–1748",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bhavanidas",
+  "artistNationality": "",
+  "artistBeginDate": "1700",
+  "artistEndDate": "1748",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q16628601",
+  "artistULAN_URL": "(not assigned)",
+  "objectDate": "ca. 1705–20",
+  "objectBeginDate": 1675,
+  "objectEndDate": 1745,
+  "medium": "Opaque watercolor and gold on paper",
+  "dimensions": "H. 22 7/8 in. (58.1 cm)\r\nW. 15 1/8 in. (38.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 58.1026,
+        "Width": 38.4176
+      }
+    }
+  ],
+  "creditLine": "Louis V. Bell Fund, 2003",
+  "geographyType": "Made in",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "India",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Codices",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-10-20T04:51:47.577Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/454619",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Deer",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250308",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q685795"
+    },
+    {
+      "term": "Horses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q96178456",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

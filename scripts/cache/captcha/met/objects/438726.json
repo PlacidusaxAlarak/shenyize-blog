@@ -1,0 +1,96 @@
+{
+  "objectID": 438726,
+  "isHighlight": false,
+  "accessionNumber": "2004.85",
+  "accessionYear": "2004",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19457-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-19457-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162048,
+      "role": "Artist",
+      "name": "Nicolas Lancret",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029432",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q188172",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Servant Justified",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Nicolas Lancret",
+  "artistDisplayBio": "French, Paris 1690–1743 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Lancret, Nicolas",
+  "artistNationality": "French",
+  "artistBeginDate": "1690",
+  "artistEndDate": "1743",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q188172",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500029432",
+  "objectDate": "ca. 1740",
+  "objectBeginDate": 1735,
+  "objectEndDate": 1745,
+  "medium": "Oil on copper",
+  "dimensions": "11 x 14 in. (27.9 x 35.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 27.9401,
+        "Width": 35.5601
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 40.6401,
+        "Width": 45.7201
+      }
+    }
+  ],
+  "creditLine": "Purchase, Walter and Leonore Annenberg and The Annenberg Foundation Gift, 2004",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-11-21T10:05:27.96Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438726",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912060",
+  "isTimelineWork": false,
+  "GalleryNumber": "629"
+}

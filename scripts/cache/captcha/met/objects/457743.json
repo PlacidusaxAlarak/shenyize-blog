@@ -1,0 +1,100 @@
+{
+  "objectID": 457743,
+  "isHighlight": false,
+  "accessionNumber": "2011.409",
+  "accessionYear": "2011",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP257990.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP257990.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/is/original/DP257991.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 164849,
+      "role": "Artist",
+      "name": "Attributed to Payag",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500034105",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q105103587",
+      "gender": ""
+    }
+  ],
+  "department": "Islamic Art",
+  "objectName": "Illustrated  album leaf",
+  "title": "The Goddess Bhairavi Devi with Shiva",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Attributed to",
+  "artistDisplayName": "Payag",
+  "artistDisplayBio": "Indian, active ca. 1591–1658",
+  "artistSuffix": "",
+  "artistAlphaSort": "Payag",
+  "artistNationality": "Indian",
+  "artistBeginDate": "1586",
+  "artistEndDate": "1658",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q105103587",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500034105",
+  "objectDate": "ca. 1630–35",
+  "objectBeginDate": 1605,
+  "objectEndDate": 1660,
+  "medium": "Opaque watercolor and gold on paper",
+  "dimensions": "H. 7 1/4 in. (18.5 cm)\r\nW. 10 3/8 in. (26.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 18.5,
+        "Width": 26.5
+      }
+    }
+  ],
+  "creditLine": "Purchase, Lila Acheson Wallace Gift, 2011",
+  "geographyType": "Made in",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "India",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Codices",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-03-02T04:55:04.403Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/457743",
+  "tags": [
+    {
+      "term": "Skulls",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300191856",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q13147"
+    },
+    {
+      "term": "Fire",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300417275",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3196"
+    },
+    {
+      "term": "Goddess",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300343852",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q205985"
+    },
+    {
+      "term": "Shiva",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000021",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q11378"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

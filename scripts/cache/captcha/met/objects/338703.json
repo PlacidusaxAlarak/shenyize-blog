@@ -1,0 +1,124 @@
+{
+  "objectID": 338703,
+  "isHighlight": false,
+  "accessionNumber": "26.72.44",
+  "accessionYear": "1926",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP818319.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP818319.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 73211,
+      "role": "Artist",
+      "name": "Attributed to Pieter van der Heyden",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029457",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2094287",
+      "gender": ""
+    },
+    {
+      "constituentID": 161728,
+      "role": "Artist",
+      "name": "After Pieter Bruegel the Elder",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500013247",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q43270",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "The Land of Cockaigne",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Attributed to",
+  "artistDisplayName": "Pieter van der Heyden",
+  "artistDisplayBio": "Netherlandish, ca. 1525–1569",
+  "artistSuffix": "",
+  "artistAlphaSort": "Heyden, Pieter van der",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1525",
+  "artistEndDate": "1569",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2094287",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500029457",
+  "objectDate": "after 1570?",
+  "objectBeginDate": 1570,
+  "objectEndDate": 1570,
+  "medium": "Engraving; first state of three",
+  "dimensions": "Plate: 8 3/16 x 11 in. (20.8 x 27.9 cm)\r\nSheet: 9 1/8 x 11 15/16 in. (23.1 x 30.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 23.1,
+        "Width": 30.4
+      }
+    },
+    {
+      "elementName": "Plate",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 20.8,
+        "Width": 27.9
+      }
+    }
+  ],
+  "creditLine": "Harris Brisbane Dick Fund, 1926",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/338703",
+  "tags": [
+    {
+      "term": "Food",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300254496",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2095"
+    },
+    {
+      "term": "Soldiers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+    },
+    {
+      "term": "Sleeping",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300375130",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35831"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Pigs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250114",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q58697"
+    },
+    {
+      "term": "Farmers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025607",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q131512"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

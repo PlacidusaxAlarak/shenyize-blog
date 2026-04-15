@@ -1,0 +1,103 @@
+{
+  "objectID": 437896,
+  "isHighlight": false,
+  "accessionNumber": "25.110.140",
+  "accessionYear": "1925",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/EP1435.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/EP1435.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162643,
+      "role": "Artist",
+      "name": "Jean-Georges Vibert",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001927",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1280412",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Missionary's Adventures",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jean-Georges Vibert",
+  "artistDisplayBio": "French, Paris 1840–1902 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Vibert, Jean-Georges",
+  "artistNationality": "French",
+  "artistBeginDate": "1840",
+  "artistEndDate": "1902",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1280412",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001927",
+  "objectDate": "ca. 1883",
+  "objectBeginDate": 1878,
+  "objectEndDate": 1888,
+  "medium": "Oil on wood",
+  "dimensions": "39 x 53 in. (99.1 x 134.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 99.1,
+        "Width": 134.6
+      }
+    }
+  ],
+  "creditLine": "Bequest of Collis P. Huntington, 1900",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-02-06T04:55:31.413Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437896",
+  "tags": [
+    {
+      "term": "Interiors",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    },
+    {
+      "term": "Bishops",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025756",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q29182"
+    },
+    {
+      "term": "Monks",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025765",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q733786"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911890",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

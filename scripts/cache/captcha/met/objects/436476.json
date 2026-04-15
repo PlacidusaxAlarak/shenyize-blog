@@ -1,0 +1,98 @@
+{
+  "objectID": 436476,
+  "isHighlight": false,
+  "accessionNumber": "32.100.38",
+  "accessionYear": "1932",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP164814.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP164814.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 173800,
+      "role": "Artist",
+      "name": "South Netherlandish Painter",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500204286",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, part of an altarpiece",
+  "title": "The Annunciation",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "South Netherlandish Painter",
+  "artistDisplayBio": "ca. 1460",
+  "artistSuffix": "",
+  "artistAlphaSort": "South Netherlandish Painter",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500204286",
+  "objectDate": "",
+  "objectBeginDate": 1455,
+  "objectEndDate": 1465,
+  "medium": "Oil on wood, gold ground",
+  "dimensions": "39 x 37 in. (99.1 x 94 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 99.1,
+        "Width": 94
+      }
+    }
+  ],
+  "creditLine": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-19T04:50:33.487Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436476",
+  "tags": [
+    {
+      "term": "Virgin Mary",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+    },
+    {
+      "term": "Archangel Gabriel",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000493",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q81989"
+    },
+    {
+      "term": "Annunciation",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300412102",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q154326"
+    },
+    {
+      "term": "Beds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300038697",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q42177"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912347",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

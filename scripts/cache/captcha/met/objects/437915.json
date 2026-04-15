@@ -1,0 +1,102 @@
+{
+  "objectID": 437915,
+  "isHighlight": false,
+  "accessionNumber": "1976.23.2",
+  "accessionYear": "1976",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146460.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP146460.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 108434,
+      "role": "Artist",
+      "name": "Hendrick van Vliet",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011033",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q864173",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Interior of the Oude Kerk, Delft",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Hendrick van Vliet",
+  "artistDisplayBio": "Dutch, Delft 1611/12–1675 Delft",
+  "artistSuffix": "",
+  "artistAlphaSort": "Vliet, Hendrick van",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1611",
+  "artistEndDate": "1675",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q864173",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011033",
+  "objectDate": "1660",
+  "objectBeginDate": 1660,
+  "objectEndDate": 1660,
+  "medium": "Oil on canvas",
+  "dimensions": "32 1/2 x 26 in. (82.6 x 66 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 82.6,
+        "Width": 66
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 9.525019,
+        "Height": 107.315216,
+        "Width": 88.90018
+      }
+    }
+  ],
+  "creditLine": "Gift of Clarence Dillon, 1976",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437915",
+  "tags": [
+    {
+      "term": "Columns",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300001571",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4817"
+    },
+    {
+      "term": "Interiors",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+    },
+    {
+      "term": "Churches",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300007466",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q16970"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905272",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

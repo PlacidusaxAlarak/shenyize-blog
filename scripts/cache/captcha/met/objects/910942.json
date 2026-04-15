@@ -1,0 +1,101 @@
+{
+  "objectID": 910942,
+  "isHighlight": false,
+  "accessionNumber": "53.600.1138",
+  "accessionYear": "1953",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP-34346-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP-34346-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 165533,
+      "role": "Artist",
+      "name": "Claudine Bouzonnet Stella",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018274",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5129302",
+      "gender": "Female"
+    },
+    {
+      "constituentID": 162270,
+      "role": "Artist",
+      "name": "After Nicolas Poussin",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005036",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q41554",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Ego Mater pulchrae dilectionis Eccl. 24.",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Claudine Bouzonnet Stella",
+  "artistDisplayBio": "French, Lyons 1636–1697 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Stella, Claudine Bouzonnet",
+  "artistNationality": "French",
+  "artistBeginDate": "1636",
+  "artistEndDate": "1697",
+  "artistGender": "Female",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5129302",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500018274",
+  "objectDate": "1668",
+  "objectBeginDate": 1668,
+  "objectEndDate": 1668,
+  "medium": "Etching and engraving",
+  "dimensions": "Sheet: 17 1/8 × 21 1/8 in. (43.5 × 53.6 cm)\r\nPlate: 16 11/16 × 20 5/8 in. (42.4 × 52.4 cm)\r\nMat: 20 1/4 × 26 1/2 in. (51.4 × 67.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 43.5,
+        "Width": 53.6
+      }
+    },
+    {
+      "elementName": "Plate",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 42.4,
+        "Width": 52.4
+      }
+    },
+    {
+      "elementName": "Mat",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 51.4,
+        "Width": 67.3
+      }
+    }
+  ],
+  "creditLine": "Harris Brisbane Dick Fund, 1953",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/910942",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

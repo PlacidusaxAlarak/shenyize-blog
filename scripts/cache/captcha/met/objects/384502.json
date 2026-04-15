@@ -1,0 +1,125 @@
+{
+  "objectID": 384502,
+  "isHighlight": false,
+  "accessionNumber": "1973.630.11",
+  "accessionYear": "1973",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 166067,
+      "role": "Artist",
+      "name": "After Sir Lawrence Alma-Tadema",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008100",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q240526",
+      "gender": ""
+    },
+    {
+      "constituentID": 92328,
+      "role": "Engraver",
+      "name": "Charles Oliver Murray",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q17308882",
+      "gender": ""
+    },
+    {
+      "constituentID": 101193,
+      "role": "Publisher",
+      "name": "British and Foreign Artists&#39; Association",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 71095,
+      "role": "Publisher",
+      "name": "Knoedler and Co.",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Childish Affections",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "After",
+  "artistDisplayName": "Sir Lawrence Alma-Tadema",
+  "artistDisplayBio": "British (born The Netherlands), Dronrijp 1836–1912 Wiesbaden",
+  "artistSuffix": "",
+  "artistAlphaSort": "Alma-Tadema, Lawrence, Sir",
+  "artistNationality": "British, born The Netherlands",
+  "artistBeginDate": "1836",
+  "artistEndDate": "1912",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q240526",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500008100",
+  "objectDate": "1883",
+  "objectBeginDate": 1883,
+  "objectEndDate": 1883,
+  "medium": "Engraving on chine collé; proof",
+  "dimensions": "chine collé sheet: 16 3/4 x 11 1/4 in. (42.5 x 28.5 cm)\r\nmounting sheet: 18 11/16 x 13 11/16 in. (47.5 x 34.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 47.5,
+        "Width": 34.8
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 42.5,
+        "Width": 28.5
+      }
+    }
+  ],
+  "creditLine": "Gift of Herman H. Lowenstein, 1973",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/384502",
+  "tags": [
+    {
+      "term": "Gardens",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008090",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1107656"
+    },
+    {
+      "term": "Children",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

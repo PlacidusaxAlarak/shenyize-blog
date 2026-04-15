@@ -1,0 +1,96 @@
+{
+  "objectID": 207157,
+  "isHighlight": false,
+  "accessionNumber": "1982.60.275",
+  "accessionYear": "1982",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP223292.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP223292.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP223294.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP223297.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP-12528-006.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 38246,
+      "role": "Manufactory",
+      "name": "Villeroy",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 161736,
+      "role": "Artist",
+      "name": "After a print by Jacques Callot",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021688",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q460124",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Figure",
+  "title": "Dwarf (one of a pair)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Manufactory",
+  "artistPrefix": "",
+  "artistDisplayName": "Villeroy",
+  "artistDisplayBio": "French, 1734/37–1748",
+  "artistSuffix": "",
+  "artistAlphaSort": "Villeroy",
+  "artistNationality": "French",
+  "artistBeginDate": "1734",
+  "artistEndDate": "1748",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "ca. 1740–45",
+  "objectBeginDate": 1735,
+  "objectEndDate": 1750,
+  "medium": "Tin-glazed soft-paste porcelain decorated in polychrome enamels",
+  "dimensions": "Overall (confirmed): 4 5/8 × 2 13/16 × 2 5/8 in. (11.7 × 7.1 × 6.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "confirmed",
+      "elementMeasurements": {
+        "Depth": 6.6675134,
+        "Height": 11.747523,
+        "Width": 7.1437645
+      }
+    }
+  ],
+  "creditLine": "The Jack and Belle Linsky Collection, 1982",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Ceramics-Porcelain",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-31T04:54:36.6Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/207157",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116307161",
+  "isTimelineWork": false,
+  "GalleryNumber": "543"
+}

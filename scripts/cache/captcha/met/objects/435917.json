@@ -1,0 +1,111 @@
+{
+  "objectID": 435917,
+  "isHighlight": false,
+  "accessionNumber": "17.190.3",
+  "accessionYear": "1917",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-23270-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-23270-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-17_190_3-IRR.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-17_190_3-XRAY.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 107514,
+      "role": "Artist",
+      "name": "Marcellus Coffermans",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001523",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q935830",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Adoration of the Shepherds",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Marcellus Coffermans",
+  "artistDisplayBio": "Netherlandish, active 1549–70",
+  "artistSuffix": "",
+  "artistAlphaSort": "Coffermans, Marcellus",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1549",
+  "artistEndDate": "1570",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q935830",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001523",
+  "objectDate": "ca. 1550",
+  "objectBeginDate": 1545,
+  "objectEndDate": 1555,
+  "medium": "Oil on wood",
+  "dimensions": "8 1/8 x 5 1/2 in. (20.6 x 14 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 20.6,
+        "Width": 14
+      }
+    }
+  ],
+  "creditLine": "Gift of J. Pierpont Morgan, 1917",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-19T04:50:33.487Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435917",
+  "tags": [
+    {
+      "term": "Cows",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+    },
+    {
+      "term": "Lambs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250289",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4575936"
+    },
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Virgin Mary",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+    },
+    {
+      "term": "Adoration of the Shepherds",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000229",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1029715"
+    },
+    {
+      "term": "Saints",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20168278",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

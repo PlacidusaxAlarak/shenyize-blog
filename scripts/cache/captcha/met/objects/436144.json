@@ -1,0 +1,102 @@
+{
+  "objectID": 436144,
+  "isHighlight": false,
+  "accessionNumber": "39.161",
+  "accessionYear": "1939",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25462-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-25462-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161821,
+      "role": "Artist",
+      "name": "Edgar Degas",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115194",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q46373",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "James-Jacques-Joseph Tissot (1836–1902)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Edgar Degas",
+  "artistDisplayBio": "French, Paris 1834–1917 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Degas, Edgar",
+  "artistNationality": "French",
+  "artistBeginDate": "1834",
+  "artistEndDate": "1917",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q46373",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115194",
+  "objectDate": "ca. 1867–68",
+  "objectBeginDate": 1867,
+  "objectEndDate": 1868,
+  "medium": "Oil on canvas",
+  "dimensions": "59 5/8 x 44 in. (151.4 x 111.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 151.4,
+        "Width": 111.8
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 7.62,
+        "Height": 173.9903,
+        "Width": 136.5253
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1939",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-03-10T04:57:21.92Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436144",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Artists",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025103",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q483501"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q3937579",
+  "isTimelineWork": false,
+  "GalleryNumber": "810"
+}

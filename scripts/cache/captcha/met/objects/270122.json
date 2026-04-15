@@ -1,0 +1,98 @@
+{
+  "objectID": 270122,
+  "isHighlight": false,
+  "accessionNumber": "59.559.4",
+  "accessionYear": "1959",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 55682,
+      "role": "Artist",
+      "name": "Werner Bischof",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500070840",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q120369",
+      "gender": ""
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "In the Court of the Meiji Temple, Tokyo, Japan",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Werner Bischof",
+  "artistDisplayBio": "Swiss, 1916–1954",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bischof, Werner",
+  "artistNationality": "Swiss",
+  "artistBeginDate": "1916",
+  "artistEndDate": "1954",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q120369",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500070840",
+  "objectDate": "1952",
+  "objectBeginDate": 1952,
+  "objectEndDate": 1952,
+  "medium": "Gelatin silver print",
+  "dimensions": "Image: 35.3 x 42.1 cm (13 7/8 x 16 9/16 in.)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 35.3,
+        "Width": 42.1
+      }
+    }
+  ],
+  "creditLine": "Gift of Photography in the Fine Arts, 1959",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "© Bischof Werner / Magnum Photos",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/270122",
+  "tags": [
+    {
+      "term": "Temples",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300007595",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q44539"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    },
+    {
+      "term": "Winter",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300133101",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1311"
+    },
+    {
+      "term": "Snow",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055381",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7561"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q100156296",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

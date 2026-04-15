@@ -1,0 +1,125 @@
+{
+  "objectID": 437891,
+  "isHighlight": true,
+  "accessionNumber": "10.189",
+  "accessionYear": "1910",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP167124.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP167124.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/DP136513.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-10_189-2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-10_189-3.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162636,
+      "role": "Artist",
+      "name": "Paolo Veronese (Paolo Caliari)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021218",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q9440",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Mars and Venus United by Love",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Paolo Veronese (Paolo Caliari)",
+  "artistDisplayBio": "Italian, Verona 1528–1588 Venice",
+  "artistSuffix": "",
+  "artistAlphaSort": "Veronese, Paolo (Paolo Caliari)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1528",
+  "artistEndDate": "1588",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q9440",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500021218",
+  "objectDate": "1570s",
+  "objectBeginDate": 1570,
+  "objectEndDate": 1579,
+  "medium": "Oil on canvas",
+  "dimensions": "81 x 63 3/8 in. (205.7 x 161 cm)",
+  "measurements": [
+    {
+      "elementName": "Other",
+      "elementDescription": "Picture + Frame ",
+      "elementMeasurements": {
+        "Weight": 101.15214
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Picture + Frame (F.10.189)",
+      "elementMeasurements": {
+        "Weight": 108.86329
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 205.7,
+        "Width": 161
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 19.05,
+        "Height": 251.4605,
+        "Width": 208.2804
+      }
+    }
+  ],
+  "creditLine": "John Stewart Kennedy Fund, 1910",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-10-15T04:51:40.863Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437891",
+  "tags": [
+    {
+      "term": "Cupid",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300380105",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5011"
+    },
+    {
+      "term": "Mars",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001031",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q112"
+    },
+    {
+      "term": "Venus",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001064",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q47652"
+    },
+    {
+      "term": "Horses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q9372005",
+  "isTimelineWork": true,
+  "GalleryNumber": "608"
+}

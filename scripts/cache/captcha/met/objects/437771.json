@@ -1,0 +1,108 @@
+{
+  "objectID": 437771,
+  "isHighlight": false,
+  "accessionNumber": "71.33ab",
+  "accessionYear": "1871",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT256630.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT256630.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/DT256631.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/GermanCat60b_Xray_detail2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/GermanCat60B_Xray_detl.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/GermanCat60b_IRP_detail_StRemigius.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 128783,
+      "role": "Artist",
+      "name": "Swiss Painter",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500125269",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Saint Remigius Replenishing the Barrel of Wine; (interior) Saint Remigius and the Burning Wheat",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Swiss Painter",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "Swiss Painter",
+  "artistNationality": "Swiss",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500125269",
+  "objectDate": "ca. 1500–1505",
+  "objectBeginDate": 1500,
+  "objectEndDate": 1505,
+  "medium": "Oil, gold, and white metal on wood",
+  "dimensions": "54 1/4 x 30 1/2 in. (137.8 x 77.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 137.8,
+        "Width": 77.5
+      }
+    }
+  ],
+  "creditLine": "Purchase, 1871",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-08-06T04:50:55.473Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437771",
+  "tags": [
+    {
+      "term": "Wine",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379442",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q282"
+    },
+    {
+      "term": "Girls",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Saints",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911553",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

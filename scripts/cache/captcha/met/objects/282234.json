@@ -1,0 +1,93 @@
+{
+  "objectID": 282234,
+  "isHighlight": true,
+  "accessionNumber": "1998.132",
+  "accessionYear": "1998",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ph/original/DP352695.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ph/web-large/DP352695.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 55187,
+      "role": "Artist",
+      "name": "Charles Nègre",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015868",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1065673",
+      "gender": ""
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "The Refectory of the Imperial Asylum at Vincennes",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Charles Nègre",
+  "artistDisplayBio": "French, 1820–1880",
+  "artistSuffix": "",
+  "artistAlphaSort": "Nègre, Charles",
+  "artistNationality": "French",
+  "artistBeginDate": "1820",
+  "artistEndDate": "1880",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1065673",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500015868",
+  "objectDate": "1858–59",
+  "objectBeginDate": 1858,
+  "objectEndDate": 1859,
+  "medium": "Salted paper print from glass negative",
+  "dimensions": "34.2 x 42.5 cm (13 7/16 x 16 3/4 in.)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 34.2,
+        "Width": 42.5
+      }
+    }
+  ],
+  "creditLine": "Gift of Hans P. Kraus Jr. and Mariana Cook, in honor of André and Marie-Thérèse Jammes, 1998",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/282234",
+  "tags": [
+    {
+      "term": "Hospitals",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300343473",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q16917"
+    },
+    {
+      "term": "Interiors",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q29384146",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

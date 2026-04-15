@@ -1,0 +1,105 @@
+{
+  "objectID": 73159,
+  "isHighlight": false,
+  "accessionNumber": "2005.510.2",
+  "accessionYear": "2005",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP146997.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP146997.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/DP146994.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP146995.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP146996.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 17243,
+      "role": "Artist",
+      "name": "Cui He",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Hanging scroll",
+  "title": "Portrait of Li Xiangjun",
+  "culture": "China",
+  "period": "Qing dynasty (1644–1911)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Cui He",
+  "artistDisplayBio": "Chinese, active 1800–1850",
+  "artistSuffix": "",
+  "artistAlphaSort": "Cui He",
+  "artistNationality": "Chinese",
+  "artistBeginDate": "1800",
+  "artistEndDate": "1850",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "dated 1817",
+  "objectBeginDate": 1817,
+  "objectEndDate": 1817,
+  "medium": "Hanging scroll; ink and color on paper",
+  "dimensions": "Image: 20 5/8 x 49 in. (52.4 x 124.5 cm)\r\nOverall with knobs: 104 1/16 x 30 1/4 in. (264.3 x 76.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 52.387604,
+        "Width": 124.46025
+      }
+    },
+    {
+      "elementName": "Overall with knobs",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 264.31927,
+        "Width": 76.83515
+      }
+    }
+  ],
+  "creditLine": "The Lin Yutang Family Collection, Gift of Hsiang Ju Lin, in memory of Taiyi Lin Lai, 2005",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/73159",
+  "tags": [
+    {
+      "term": "Fans",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300258857",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q193220"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78712997",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

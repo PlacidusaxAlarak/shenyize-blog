@@ -1,0 +1,90 @@
+{
+  "objectID": 744124,
+  "isHighlight": false,
+  "accessionNumber": "26.50.1(115a)",
+  "accessionYear": "1926",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP874973.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP874973.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/dp/original/DP874972.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 76395,
+      "role": "Artist",
+      "name": "Formerly attributed to Monogrammist G.A. with the Caltrop",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Album Prints Ornament & Architecture",
+  "title": "Pantheon Rome, from a Series of Prints depicting (reconstructed) Buildings from Roman Antiquity",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Formerly attributed to",
+  "artistDisplayName": "Monogrammist G.A. with the Caltrop",
+  "artistDisplayBio": "Italian, 1530–1540",
+  "artistSuffix": "",
+  "artistAlphaSort": "Monogrammist G.A. with the Caltrop",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1535",
+  "artistEndDate": "1535",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "Plate ca. 1530–1550",
+  "objectBeginDate": 1530,
+  "objectEndDate": 1550,
+  "medium": "Engraving [moved slightly during printing]",
+  "dimensions": "Plate: 4 1/2 × 6 1/4 in. (11.4 × 15.8 cm)  [edges of the plates are not straight, the height varies from 9.5-11.4cm; top right corner is cut off]",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 11.4,
+        "Width": 15.8
+      }
+    }
+  ],
+  "creditLine": "Harris Brisbane Dick Fund, 1926",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Albums",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-10T04:50:22.027Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/744124",
+  "tags": [
+    {
+      "term": "Architecture",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300263552",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12271"
+    },
+    {
+      "term": "Arches",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300001062",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12277"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

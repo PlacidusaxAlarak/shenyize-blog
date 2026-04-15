@@ -1,0 +1,101 @@
+{
+  "objectID": 283307,
+  "isHighlight": false,
+  "accessionNumber": "1999.321f",
+  "accessionYear": "1999",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 56077,
+      "role": "Artist",
+      "name": "Seiichi Furuya",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500374018",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q4493559",
+      "gender": ""
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "Izu",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Seiichi Furuya",
+  "artistDisplayBio": "Japanese, born 1950",
+  "artistSuffix": "",
+  "artistAlphaSort": "Furuya, Seiichi",
+  "artistNationality": "Japanese",
+  "artistBeginDate": "1950",
+  "artistEndDate": "9999",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q4493559",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500374018",
+  "objectDate": "1978",
+  "objectBeginDate": 1978,
+  "objectEndDate": 1978,
+  "medium": "Chromogenic print",
+  "dimensions": "70 x 57.7cm (27 9/16 x 22 11/16in.)\r\nFrame: 76.2 × 63.5 cm (30 × 25 in.)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 70,
+        "Width": 57.7
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 76.20015,
+        "Width": 63.500126
+      }
+    }
+  ],
+  "creditLine": "Purchase, The Howard Gilman Foundation Gift, 1999",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "© Seiichi Furuya",
+  "linkResource": "",
+  "metadataDate": "2025-09-27T04:50:39.59Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/283307",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Cameras",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300022636",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q15328"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

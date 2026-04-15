@@ -1,0 +1,101 @@
+{
+  "objectID": 435962,
+  "isHighlight": true,
+  "accessionNumber": "38.64",
+  "accessionYear": "1938",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT2013.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT2013.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161787,
+      "role": "Artist",
+      "name": "Camille Corot",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115390",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q148475",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Hagar in the Wilderness",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Camille Corot",
+  "artistDisplayBio": "French, Paris 1796–1875 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Corot, Camille",
+  "artistNationality": "French",
+  "artistBeginDate": "1796",
+  "artistEndDate": "1875",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q148475",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115390",
+  "objectDate": "1835",
+  "objectBeginDate": 1835,
+  "objectEndDate": 1835,
+  "medium": "Oil on canvas",
+  "dimensions": "71 x 106 1/2 in. (180.3 x 270.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 180.3,
+        "Width": 270.5
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 214.31293,
+        "Width": 280.03555
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1938",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-04-09T04:55:49.057Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435962",
+  "tags": [
+    {
+      "term": "Children",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q18177483",
+  "isTimelineWork": true,
+  "GalleryNumber": "802"
+}

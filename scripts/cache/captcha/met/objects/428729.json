@@ -1,0 +1,117 @@
+{
+  "objectID": 428729,
+  "isHighlight": false,
+  "accessionNumber": "28.111.1(12)",
+  "accessionYear": "1928",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161712,
+      "role": "Photographer",
+      "name": "After Mathew B. Brady",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500126201",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q187850",
+      "gender": ""
+    },
+    {
+      "constituentID": 161996,
+      "role": "Former Attribution",
+      "name": "Formerly said to be after Winslow Homer",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019202",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q344838",
+      "gender": ""
+    },
+    {
+      "constituentID": 166072,
+      "role": "Publisher",
+      "name": "Harper&#39;s Weekly",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500524528",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3127693",
+      "gender": ""
+    },
+    {
+      "constituentID": 165506,
+      "role": "Publisher",
+      "name": "Harper &amp; Brothers",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500524493",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3127696",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "The Seceding South Carolina Delegation (from \"Harper's Weekly,\" Vol. IV)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Photographer",
+  "artistPrefix": "After",
+  "artistDisplayName": "Mathew B. Brady",
+  "artistDisplayBio": "American, born Ireland, 1823?–1896 New York",
+  "artistSuffix": "",
+  "artistAlphaSort": "Brady, Mathew B.",
+  "artistNationality": "American, born Ireland",
+  "artistBeginDate": "1823",
+  "artistEndDate": "1896",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q187850",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500126201",
+  "objectDate": "December 22, 1860",
+  "objectBeginDate": 1860,
+  "objectEndDate": 1860,
+  "medium": "Wood engraving after photographs",
+  "dimensions": "Sheet: 15 3/8 × 10 1/2 in. (39 × 26.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 39,
+        "Width": 26.7
+      }
+    }
+  ],
+  "creditLine": "Harris Brisbane Dick Fund, 1928",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/428729",
+  "tags": [
+    {
+      "term": "American Civil War",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000030",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8676"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q97584006",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

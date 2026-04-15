@@ -1,0 +1,131 @@
+{
+  "objectID": 468254,
+  "isHighlight": false,
+  "accessionNumber": "48.149.15",
+  "accessionYear": "1948",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/DT11895.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/md/web-large/DT11895.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 138861,
+      "role": "Artist",
+      "name": "Master of James IV of Scotland (probably Gerard Horenbout)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500354871",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1380221",
+      "gender": ""
+    }
+  ],
+  "department": "Medieval Art",
+  "objectName": "Manuscript cutting",
+  "title": "Manuscript Illumination with Adoration of the Magi",
+  "culture": "Netherlandish",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Master of James IV of Scotland (probably Gerard Horenbout)",
+  "artistDisplayBio": "Netherlandish, active ca. 1485–1530",
+  "artistSuffix": "",
+  "artistAlphaSort": "Master of James IV of Scotland (probably Gerard Horenbout)",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1480",
+  "artistEndDate": "1535",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1380221",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500354871",
+  "objectDate": "ca. 1515–25",
+  "objectBeginDate": 1515,
+  "objectEndDate": 1525,
+  "medium": "Tempera, ink, and shell gold on parchment",
+  "dimensions": "6 1/2 x 4 5/8in. (16.5 x 11.7cm)\r\nMat: 12 × 10 in. (30.5 × 25.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 16.5,
+        "Width": 11.7
+      }
+    },
+    {
+      "elementName": "Mat",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 30.48006,
+        "Width": 25.400051
+      }
+    }
+  ],
+  "creditLine": "Bequest of George D. Pratt, 1935",
+  "geographyType": "Made in",
+  "city": "Ghent (?)",
+  "state": "",
+  "county": "",
+  "country": "Netherlands",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Manuscripts and Illuminations",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-18T09:36:43.22Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/468254",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Cows",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    },
+    {
+      "term": "Donkeys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265959",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3537778"
+    },
+    {
+      "term": "Horses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+    },
+    {
+      "term": "Virgin Mary",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+    },
+    {
+      "term": "Jesus",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+    },
+    {
+      "term": "Adoration of the Magi",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000083",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q488841"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,81 @@
+{
+  "objectID": 308532,
+  "isHighlight": false,
+  "accessionNumber": "64.228.26",
+  "accessionYear": "1964",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DP-24360-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-24360-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-24360-002.jpg",
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-24360-003.jpg",
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-24360-004.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 224089,
+      "role": "Artist",
+      "name": "Moche artist(s)",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "The Michael C. Rockefeller Wing",
+  "objectName": "Bottle",
+  "title": "Tuber-inspired stirrup-spout bottle",
+  "culture": "Moche",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Moche artist(s)",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "Moche artist(s)",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "500–800 CE",
+  "objectBeginDate": 500,
+  "objectEndDate": 800,
+  "medium": "Ceramic, slip",
+  "dimensions": "H. 9 1/4 × W. 6 1/4 in. (23.5 × 15.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 23.495,
+        "Width": 15.88
+      }
+    }
+  ],
+  "creditLine": "Gift of Mr. and Mrs. Nathan Cummings, 1964",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "Peru",
+  "region": "North Coast",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Ceramics-Containers",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-05-31T04:50:53.377Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/308532",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": "362"
+}

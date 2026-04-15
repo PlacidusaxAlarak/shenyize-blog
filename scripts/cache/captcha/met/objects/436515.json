@@ -1,0 +1,88 @@
+{
+  "objectID": 436515,
+  "isHighlight": false,
+  "accessionNumber": "88.3.111",
+  "accessionYear": "1888",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19499-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-19499-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161939,
+      "role": "Artist",
+      "name": "Giovanni di Paolo (Giovanni di Paolo di Grazia)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500116438",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q946420",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Saints Matthew and Francis",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Giovanni di Paolo (Giovanni di Paolo di Grazia)",
+  "artistDisplayBio": "Italian, Siena 1398–1482 Siena",
+  "artistSuffix": "",
+  "artistAlphaSort": "Giovanni di Paolo (Giovanni di Paolo di Grazia)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1398",
+  "artistEndDate": "1482",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q946420",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500116438",
+  "objectDate": "ca. 1435",
+  "objectBeginDate": 1430,
+  "objectEndDate": 1440,
+  "medium": "Tempera on wood, gold ground",
+  "dimensions": "Overall, with added strips, 54 5/8 x 34 3/4 in. (138.7 x 88.3 cm); painted surface 52 7/8 x 33 1/2 in. (134.3 x 85.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 138.7,
+        "Width": 88.3
+      }
+    }
+  ],
+  "creditLine": "Gift of Coudert Brothers, 1888",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-01-15T04:50:28.29Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436515",
+  "tags": [
+    {
+      "term": "Saint Francis",
+      "AAT_URL": "http://vocab.getty.edu/page/ulan/500349636",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q676555"
+    },
+    {
+      "term": "Saint Matthew",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000497",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43600"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905072",
+  "isTimelineWork": false,
+  "GalleryNumber": "603"
+}

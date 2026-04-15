@@ -1,0 +1,93 @@
+{
+  "objectID": 435776,
+  "isHighlight": false,
+  "accessionNumber": "89.15.20",
+  "accessionYear": "1889",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP164851.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP164851.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164168,
+      "role": "Artist",
+      "name": "Attributed to Jörg Breu the Younger",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025707",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q876275",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Joseph Interpreting the Dreams of Pharaoh",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Attributed to",
+  "artistDisplayName": "Jörg Breu the Younger",
+  "artistDisplayBio": "German, Augsburg ca. 1510–1547 Augsburg",
+  "artistSuffix": "",
+  "artistAlphaSort": "Breu, Jörg, the Younger",
+  "artistNationality": "German",
+  "artistBeginDate": "1510",
+  "artistEndDate": "1547",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q876275",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500025707",
+  "objectDate": "ca. 1534–47",
+  "objectBeginDate": 1534,
+  "objectEndDate": 1547,
+  "medium": "Distemper on linen",
+  "dimensions": "67 5/8 x 57 1/4 in. (171.8 x 145.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 171.8,
+        "Width": 145.4
+      }
+    }
+  ],
+  "creditLine": "Marquand Collection, Gift of Henry G. Marquand, 1889",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435776",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    },
+    {
+      "term": "Crowd",
+      "AAT_URL": null,
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q13430821"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911408",
+  "isTimelineWork": false,
+  "GalleryNumber": "640"
+}

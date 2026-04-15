@@ -1,0 +1,85 @@
+{
+  "objectID": 473682,
+  "isHighlight": false,
+  "accessionNumber": "22.58.1a",
+  "accessionYear": "1922",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/cl/original/DP132210.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/cl/web-large/DP132210.jpg",
+  "additionalImages": [],
+  "constituents": null,
+  "department": "The Cloisters",
+  "objectName": "Arch",
+  "title": "Arch with Beasts",
+  "culture": "French",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "",
+  "artistPrefix": "",
+  "artistDisplayName": "",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "ca. 1150–75",
+  "objectBeginDate": 1150,
+  "objectEndDate": 1175,
+  "medium": "Marble",
+  "dimensions": "40 in. × 74 in. × 10 1/4 in. (101.6 × 188 × 26 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 26.035051,
+        "Height": 101.6,
+        "Width": 188
+      }
+    }
+  ],
+  "creditLine": "John Stewart Kennedy Fund, 1922",
+  "geographyType": "Made in",
+  "city": "",
+  "state": "Languedoc-Rousillon",
+  "county": "",
+  "country": "France",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Sculpture-Architectural",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-02-24T04:58:17.317Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/473682",
+  "tags": [
+    {
+      "term": "Centaurs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379740",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q83203"
+    },
+    {
+      "term": "Dragons",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300375726",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7559"
+    },
+    {
+      "term": "Griffins",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379594",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q130223"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116241496",
+  "isTimelineWork": true,
+  "GalleryNumber": "007"
+}

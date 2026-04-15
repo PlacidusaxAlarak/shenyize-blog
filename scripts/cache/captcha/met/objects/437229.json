@@ -1,0 +1,109 @@
+{
+  "objectID": 437229,
+  "isHighlight": false,
+  "accessionNumber": "14.40.632",
+  "accessionYear": "1914",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14962-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-14962-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-14_40_632_Suppl_1.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-14_40_632_diagram.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-14_40_632_XRay.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-14_40_632_IRR_FullRes.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-14_40_632_IRR_Detail_FullRes.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162179,
+      "role": "Artist",
+      "name": "Bernard van Orley",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023119",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q454678",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Virgin and Child with Angels",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Bernard van Orley",
+  "artistDisplayBio": "Netherlandish, Brussels ca. 1492–1541/42 Brussels",
+  "artistSuffix": "",
+  "artistAlphaSort": "Orley, Bernard van",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1492",
+  "artistEndDate": "1542",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q454678",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500023119",
+  "objectDate": "ca. 1518",
+  "objectBeginDate": 1513,
+  "objectEndDate": 1523,
+  "medium": "Oil on wood",
+  "dimensions": "33 5/8 x 27 1/2 in. (85.4 x 69.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 85.4,
+        "Width": 69.9
+      }
+    }
+  ],
+  "creditLine": "Bequest of Benjamin Altman, 1913",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-02-04T04:58:06.107Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437229",
+  "tags": [
+    {
+      "term": "Fountains",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300006179",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q483453"
+    },
+    {
+      "term": "Music",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300435214",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q638"
+    },
+    {
+      "term": "Peacocks",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250082",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q201251"
+    },
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Madonna and Child",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19906249",
+  "isTimelineWork": false,
+  "GalleryNumber": "636"
+}

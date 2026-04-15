@@ -1,0 +1,126 @@
+{
+  "objectID": 436793,
+  "isHighlight": false,
+  "accessionNumber": "32.100.57",
+  "accessionYear": "1932",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25890-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-25890-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_57_Suppl_1.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_57_IRR.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_57_verso.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162015,
+      "role": "Artist",
+      "name": "Joos van Cleve",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007799",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q153472",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Holy Family",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Joos van Cleve",
+  "artistDisplayBio": "Netherlandish, Cleve ca. 1485–1540/41 Antwerp",
+  "artistSuffix": "",
+  "artistAlphaSort": "Joos van Cleve",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1485",
+  "artistEndDate": "1541",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q153472",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500007799",
+  "objectDate": "ca. 1512–13",
+  "objectBeginDate": 1512,
+  "objectEndDate": 1513,
+  "medium": "Oil on wood",
+  "dimensions": "16 3/4 x 12 1/2 in. (42.5 x 31.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 42.5,
+        "Width": 31.8
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.397511,
+        "Height": 50.4826,
+        "Width": 39.37008
+      }
+    }
+  ],
+  "creditLine": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-02-04T04:58:06.107Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436793",
+  "tags": [
+    {
+      "term": "Fruit",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+    },
+    {
+      "term": "Grapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379338",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10978"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Holy Family",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001175",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q618057"
+    },
+    {
+      "term": "Virgin Mary",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+    },
+    {
+      "term": "Jesus",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+    },
+    {
+      "term": "Nursing",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379905",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q174876"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911535",
+  "isTimelineWork": true,
+  "GalleryNumber": "636"
+}

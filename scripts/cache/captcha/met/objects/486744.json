@@ -1,0 +1,108 @@
+{
+  "objectID": 486744,
+  "isHighlight": false,
+  "accessionNumber": "1996.403.14",
+  "accessionYear": "1996",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164611,
+      "role": "Artist",
+      "name": "Juan Gris",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015362",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q151152",
+      "gender": ""
+    }
+  ],
+  "department": "Modern and Contemporary Art",
+  "objectName": "Painting",
+  "title": "Violin and Playing Cards on a Table",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Juan Gris",
+  "artistDisplayBio": "Spanish, Madrid 1887–1927 Boulogne-sur-Seine",
+  "artistSuffix": "",
+  "artistAlphaSort": "Gris, Juan",
+  "artistNationality": "Spanish",
+  "artistBeginDate": "1887",
+  "artistEndDate": "1927",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q151152",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500015362",
+  "objectDate": "1913",
+  "objectBeginDate": 1913,
+  "objectEndDate": 1913,
+  "medium": "Oil on canvas",
+  "dimensions": "39 3/8 × 25 3/4 in. (100 × 65.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 2.063754,
+        "Height": 100.0127,
+        "Width": 65.4
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": "F.1996.403.14 Black wood frame-gold liner-NO plexi",
+      "elementMeasurements": {
+        "Depth": 5.7150116,
+        "Height": 117.4752,
+        "Width": 82.5502
+      }
+    }
+  ],
+  "creditLine": "Bequest of Florene M. Schoenborn, 1995",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-02-12T04:57:32.163Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/486744",
+  "tags": [
+    {
+      "term": "Playing Cards",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300211294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q47883"
+    },
+    {
+      "term": "Violins",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300042215",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8355"
+    },
+    {
+      "term": "Still Life",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+    },
+    {
+      "term": "Tables",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300039548",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q14748"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19922091",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

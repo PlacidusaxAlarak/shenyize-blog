@@ -1,0 +1,107 @@
+{
+  "objectID": 483301,
+  "isHighlight": false,
+  "accessionNumber": "1984.433.16",
+  "accessionYear": "1984",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162115,
+      "role": "Artist",
+      "name": "Henri Matisse",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017300",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5589",
+      "gender": ""
+    }
+  ],
+  "department": "Modern and Contemporary Art",
+  "objectName": "Painting",
+  "title": "Nasturtiums with the Painting \"Dance\" I",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Henri Matisse",
+  "artistDisplayBio": "French, Le Cateau-Cambrésis 1869–1954 Nice",
+  "artistSuffix": "",
+  "artistAlphaSort": "Matisse, Henri",
+  "artistNationality": "French",
+  "artistBeginDate": "1869",
+  "artistEndDate": "1954",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5589",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500017300",
+  "objectDate": "1912",
+  "objectBeginDate": 1912,
+  "objectEndDate": 1912,
+  "medium": "Oil on canvas",
+  "dimensions": "75 1/2 × 45 3/8 in. (191.8 × 115.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Framed",
+      "elementDescription": "Gold wood frame w/AR plexi",
+      "elementMeasurements": {
+        "Depth": 6.350013,
+        "Height": 204.47041,
+        "Width": 127.95276
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 191.8,
+        "Width": 115.3
+      }
+    }
+  ],
+  "creditLine": "Bequest of Scofield Thayer, 1982",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-03-19T04:55:24.63Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/483301",
+  "tags": [
+    {
+      "term": "Human Figures",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+    },
+    {
+      "term": "Dance",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300417581",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q11639"
+    },
+    {
+      "term": "Flowers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+    },
+    {
+      "term": "Chairs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300037772",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q15026"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20189382",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

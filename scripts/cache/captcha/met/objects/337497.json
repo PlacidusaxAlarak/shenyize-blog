@@ -1,0 +1,115 @@
+{
+  "objectID": 337497,
+  "isHighlight": true,
+  "accessionNumber": "24.197.2",
+  "accessionYear": "1924",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP826907.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP826907.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/dp/original/DP283235.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP283236.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP283237.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP283238.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP283246.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP283248.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP283249.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP283250.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP283251.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP283252.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP283253.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP283254.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP283256.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP283257.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP283258.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/efb_24.197.2_283230.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/efb_24.197.2_283230_03.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/efb_24.197.2_283249_03.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/efb_24.197.2_283254.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP807402.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP283234.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP283230.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP283231.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162124,
+      "role": "Artist",
+      "name": "Michelangelo Buonarroti",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010654",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5592",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "Studies for the Libyan Sibyl (recto); Studies for the Libyan Sibyl and a small Sketch for a Seated Figure (verso)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Michelangelo Buonarroti",
+  "artistDisplayBio": "Italian, Caprese 1475–1564 Rome",
+  "artistSuffix": "",
+  "artistAlphaSort": "Michelangelo Buonarroti",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1475",
+  "artistEndDate": "1564",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5592",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010654",
+  "objectDate": "ca. 1510–11",
+  "objectBeginDate": 1511,
+  "objectEndDate": 1511,
+  "medium": "Red chalk, with small accents of white chalk on the left shoulder of the figure in the main study (recto); soft black chalk, or less probably charcoal (verso)",
+  "dimensions": "Sheet: 11 3/8 × 8 7/16 in. (28.9 × 21.4 cm)\r\nFramed: 21 × 16 in. (53.3 × 40.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 28.9,
+        "Width": 21.4
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 53.340107,
+        "Width": 40.64008
+      }
+    }
+  ],
+  "creditLine": "Purchase, Joseph Pulitzer Bequest, 1924",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-10-25T04:51:59.88Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/337497",
+  "tags": [
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q29384857",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,103 @@
+{
+  "objectID": 370754,
+  "isHighlight": false,
+  "accessionNumber": "2005.418.25",
+  "accessionYear": "2005",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP801846.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP801846.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 75782,
+      "role": "Artist",
+      "name": "Tobias Verhaecht",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003815",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1860598",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "Wooded Landscape with Stag Hunt",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Tobias Verhaecht",
+  "artistDisplayBio": "Netherlandish, Antwerp 1561–1631 Antwerp",
+  "artistSuffix": "(?)",
+  "artistAlphaSort": "Verhaecht, Tobias",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1561",
+  "artistEndDate": "1631",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1860598",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500003815",
+  "objectDate": "late 16th–early 17th century",
+  "objectBeginDate": 1580,
+  "objectEndDate": 1631,
+  "medium": "Black chalk, pen and brown ink, brown wash",
+  "dimensions": "sheet: 8 5/16 x 15 1/2 in. (21.1 x 39.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 21.1,
+        "Width": 39.3
+      }
+    }
+  ],
+  "creditLine": "Anonymous Gift, 2005",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-11T04:50:49.767Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/370754",
+  "tags": [
+    {
+      "term": "Human Figures",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+    },
+    {
+      "term": "Hunting",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300239666",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q36963"
+    },
+    {
+      "term": "Deer",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250308",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q685795"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    },
+    {
+      "term": "Trees",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,108 @@
+{
+  "objectID": 438817,
+  "isHighlight": true,
+  "accessionNumber": "1987.47.1",
+  "accessionYear": "1987",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-20101-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-20101-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161821,
+      "role": "Artist",
+      "name": "Edgar Degas",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115194",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q46373",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Dance Class",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Edgar Degas",
+  "artistDisplayBio": "French, Paris 1834–1917 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Degas, Edgar",
+  "artistNationality": "French",
+  "artistBeginDate": "1834",
+  "artistEndDate": "1917",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q46373",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115194",
+  "objectDate": "1874",
+  "objectBeginDate": 1874,
+  "objectEndDate": 1874,
+  "medium": "Oil on canvas",
+  "dimensions": "32 7/8 x 30 3/8 in. (83.5 x 77.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 83.5027,
+        "Width": 77.1527
+      }
+    }
+  ],
+  "creditLine": "Bequest of Mrs. Harry Payne Bingham, 1986",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-02-06T04:55:31.413Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438817",
+  "tags": [
+    {
+      "term": "Girls",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Students",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025909",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q48282"
+    },
+    {
+      "term": "Dancers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025653",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5716684"
+    },
+    {
+      "term": "Ballet",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300054145",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q41425"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q18758802",
+  "isTimelineWork": true,
+  "GalleryNumber": "815"
+}

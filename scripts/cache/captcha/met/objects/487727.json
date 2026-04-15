@@ -1,0 +1,113 @@
+{
+  "objectID": 487727,
+  "isHighlight": false,
+  "accessionNumber": "33.144.2",
+  "accessionYear": "1933",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161677,
+      "role": "Artist",
+      "name": "Thomas Hart Benton",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005998",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q471764",
+      "gender": ""
+    }
+  ],
+  "department": "Modern and Contemporary Art",
+  "objectName": "Painting",
+  "title": "Cotton Pickers, Georgia",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Thomas Hart Benton",
+  "artistDisplayBio": "American, Neosho, Missouri 1889–1975 Kansas City, Missouri",
+  "artistSuffix": "",
+  "artistAlphaSort": "Benton, Thomas Hart",
+  "artistNationality": "American",
+  "artistBeginDate": "1889",
+  "artistEndDate": "1975",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q471764",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500005998",
+  "objectDate": "1928–29",
+  "objectBeginDate": 1928,
+  "objectEndDate": 1929,
+  "medium": "Tempera and oil on canvas",
+  "dimensions": "30 × 35 7/8 in. (76.2 × 91.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 2.8575058,
+        "Height": 76.2,
+        "Width": 91.12268
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": "F.1.33.144.2 Silver wood w/ silver liner w/ AR plexi",
+      "elementMeasurements": {
+        "Depth": 6.6675134,
+        "Height": 95.56769,
+        "Width": 110.49022
+      }
+    }
+  ],
+  "creditLine": "George A. Hearn Fund, 1933",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-02-07T04:59:02.893Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/487727",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Smoking",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300380156",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q662860"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    },
+    {
+      "term": "Working",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300412186",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q6958747"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19917896",
+  "isTimelineWork": true,
+  "GalleryNumber": "757"
+}

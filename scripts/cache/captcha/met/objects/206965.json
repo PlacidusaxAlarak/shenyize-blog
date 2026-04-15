@@ -1,0 +1,108 @@
+{
+  "objectID": 206965,
+  "isHighlight": false,
+  "accessionNumber": "1982.60.50",
+  "accessionYear": "1982",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP336058.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP336058.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP346105.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP168630.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP168631.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP168632.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP169990.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP169991.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 33705,
+      "role": "Maker",
+      "name": "Clockmaker: Ferdinand Berthoud",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500337204",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q124411",
+      "gender": ""
+    },
+    {
+      "constituentID": 33485,
+      "role": "Maker",
+      "name": "Case maker: Balthazar Lieutaud",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500054678",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2881602",
+      "gender": ""
+    },
+    {
+      "constituentID": 45502,
+      "role": "Modeler",
+      "name": "Mounts probably cast from models by Philippe II Caffieri",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009433",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3379491",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Longcase astronomical regulator",
+  "title": "Longcase astronomical regulator",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Maker",
+  "artistPrefix": "Clockmaker:",
+  "artistDisplayName": "Ferdinand Berthoud",
+  "artistDisplayBio": "French, 1727–1807",
+  "artistSuffix": "",
+  "artistAlphaSort": "Berthoud Ferdinand",
+  "artistNationality": "French",
+  "artistBeginDate": "1727",
+  "artistEndDate": "1807",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q124411",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500337204",
+  "objectDate": "ca. 1768–70",
+  "objectBeginDate": 1763,
+  "objectEndDate": 1775,
+  "medium": "Case: oak veneered with ebony and brass, with gilt-bronze mounts; Dial: white enamel; Movement: gilded brass and steel",
+  "dimensions": "Overall: 90 1/2 × 21 × 12 3/4 in. (229.9 × 53.3 × 32.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Height",
+      "elementDescription": "historic dimensions superseded",
+      "elementMeasurements": {
+        "Height": 229.87045
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 32.385063,
+        "Height": 229.87045,
+        "Width": 53.340107
+      }
+    }
+  ],
+  "creditLine": "The Jack and Belle Linsky Collection, 1982",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Horology",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-11-21T10:05:27.96Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/206965",
+  "tags": null,
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116308137",
+  "isTimelineWork": true,
+  "GalleryNumber": "540"
+}

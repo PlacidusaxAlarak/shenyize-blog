@@ -1,0 +1,104 @@
+{
+  "objectID": 284709,
+  "isHighlight": false,
+  "accessionNumber": "2001.366.3",
+  "accessionYear": "1980",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 56149,
+      "role": "Artist",
+      "name": "Dan Graham",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115596",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q698436",
+      "gender": ""
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "\"Reflective-Glass\" Office Building, Los Angeles",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Dan Graham",
+  "artistDisplayBio": "American, Urbana, Illinois 1942–2022 New York",
+  "artistSuffix": "",
+  "artistAlphaSort": "Graham, Dan",
+  "artistNationality": "American",
+  "artistBeginDate": "1942",
+  "artistEndDate": "2022",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q698436",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115596",
+  "objectDate": "1978",
+  "objectBeginDate": 1978,
+  "objectEndDate": 1978,
+  "medium": "Chromogenic print",
+  "dimensions": "Image: 13 1/4 in. × 9 in. (33.7 × 22.8 cm)\r\nSheet: 13 1/4 in. × 9 in. (33.7 × 22.8 cm)\r\nMount: 28 3/8 in. × 20 in. (72 × 50.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Mount",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 72,
+        "Width": 50.8
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 33.7,
+        "Width": 22.8
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 33.7,
+        "Width": 22.8
+      }
+    }
+  ],
+  "creditLine": "Gift of the artist, 2001",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "© Dan Graham",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/284709",
+  "tags": [
+    {
+      "term": "Architecture",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300263552",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12271"
+    },
+    {
+      "term": "Buildings",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

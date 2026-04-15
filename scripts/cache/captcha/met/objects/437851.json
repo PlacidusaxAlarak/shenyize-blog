@@ -1,0 +1,95 @@
+{
+  "objectID": 437851,
+  "isHighlight": false,
+  "accessionNumber": "14.40.649",
+  "accessionYear": "1914",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP250560.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP250560.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/DP233547.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162572,
+      "role": "Artist",
+      "name": "Cosmè Tura (Cosimo di Domenico di Bonaventura)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500022434",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7129",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Portrait of a Young Man",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Cosmè Tura (Cosimo di Domenico di Bonaventura)",
+  "artistDisplayBio": "Italian, Ferrara ca. 1433–1495 Ferrara",
+  "artistSuffix": "",
+  "artistAlphaSort": "Tura, Cosmè (Cosimo di Domenico di Bonaventura)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1433",
+  "artistEndDate": "1495",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q7129",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500022434",
+  "objectDate": "1470s",
+  "objectBeginDate": 1470,
+  "objectEndDate": 1479,
+  "medium": "Tempera on wood",
+  "dimensions": "Overall 11 1/8 x 7 3/4 in. (28.3 x 19.7 cm); painted surface 10 3/4 x 5 1/2 in. (27.3 x 14 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 28.3,
+        "Width": 19.7
+      }
+    }
+  ],
+  "creditLine": "Bequest of Benjamin Altman, 1913",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437851",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Profiles",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20166964",
+  "isTimelineWork": false,
+  "GalleryNumber": "611"
+}

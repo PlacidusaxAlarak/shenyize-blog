@@ -1,0 +1,124 @@
+{
+  "objectID": 436840,
+  "isHighlight": true,
+  "accessionNumber": "53.225.5",
+  "accessionYear": "1953",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP320103.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP320103.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-53_225_5-2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-53_225_5-3.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 164556,
+      "role": "Artist",
+      "name": "Adélaïde Labille-Guiard",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005516",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q235647",
+      "gender": "Female"
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Self-Portrait with Two Pupils, Marie Gabrielle Capet (1761–1818) and Marie Marguerite Carraux de Rosemond (1765–1788)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Adélaïde Labille-Guiard",
+  "artistDisplayBio": "French, Paris 1749–1803 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Labille-Guiard, Adélaïde",
+  "artistNationality": "French",
+  "artistBeginDate": "1749",
+  "artistEndDate": "1803",
+  "artistGender": "Female",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q235647",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500005516",
+  "objectDate": "1785",
+  "objectBeginDate": 1785,
+  "objectEndDate": 1785,
+  "medium": "Oil on canvas",
+  "dimensions": "83 x 59 1/2 in. (210.8 x 151.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 210.8,
+        "Width": 151.1
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 17.145035,
+        "Height": 265.43054,
+        "Width": 187.96037
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Picture + Frame (F.53.225.5A)",
+      "elementMeasurements": {
+        "Weight": 66.678764
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Frame (F.53.225.5A)",
+      "elementMeasurements": {
+        "Weight": 44.452507
+      }
+    }
+  ],
+  "creditLine": "Gift of Julia A. Berwind, 1953",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-04-08T04:55:19.717Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436840",
+  "tags": [
+    {
+      "term": "Painting",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300054216",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q11629"
+    },
+    {
+      "term": "Self-portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300124534",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q192110"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Artists",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025103",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q483501"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19904842",
+  "isTimelineWork": true,
+  "GalleryNumber": "632"
+}

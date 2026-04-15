@@ -1,0 +1,102 @@
+{
+  "objectID": 897175,
+  "isHighlight": false,
+  "accessionNumber": "2023.583.51",
+  "accessionYear": "2023",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 222718,
+      "role": "Artist",
+      "name": "Painting by Itō Ryūgai",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 229483,
+      "role": "Artist",
+      "name": "Colophon by Akimoto Shatei",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Handscroll",
+  "title": "Handscroll of Tyrannical Government",
+  "culture": "Japan",
+  "period": "Taishō period (1912–26)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Painting by",
+  "artistDisplayName": "Itō Ryūgai",
+  "artistDisplayBio": "Japanese, 1880–1960",
+  "artistSuffix": "",
+  "artistAlphaSort": "Itō Ryūgai",
+  "artistNationality": "Japanese",
+  "artistBeginDate": "1880",
+  "artistEndDate": "1960",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "1920",
+  "objectBeginDate": 1920,
+  "objectEndDate": 1920,
+  "medium": "Handscroll: ink and color on silk",
+  "dimensions": "Image: 19 11/16 in. × 33 ft. 7/8 in. (50 × 1008 cm)\r\nOverall with mounting: 21 1/16 in. × 38 ft. 11/16 in. (53.5 × 1160 cm)",
+  "measurements": [
+    {
+      "elementName": "Storage",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 11,
+        "Height": 57,
+        "Width": 11.5
+      }
+    },
+    {
+      "elementName": "Overall with mounting",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 53.5,
+        "Width": 1160
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 50,
+        "Width": 1008
+      }
+    }
+  ],
+  "creditLine": "Mary and Cheney Cowles Collection, Gift of Mary and Cheney Cowles, 2023",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-08-08T04:50:27.24Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/897175",
+  "tags": null,
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q126100101",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

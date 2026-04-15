@@ -1,0 +1,104 @@
+{
+  "objectID": 364478,
+  "isHighlight": false,
+  "accessionNumber": "2004.137",
+  "accessionYear": "2004",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP812346.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP812346.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/dp/original/271998.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP812347.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 91860,
+      "role": "Artist",
+      "name": "Delli brothers",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "Christ at the Column",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Delli brothers",
+  "artistDisplayBio": "Florentine, active Spain, 1430s–60s",
+  "artistSuffix": "",
+  "artistAlphaSort": "Delli Brothers",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1430",
+  "artistEndDate": "1469",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "ca. 1440–70",
+  "objectBeginDate": 1435,
+  "objectEndDate": 1445,
+  "medium": "Pen with brown and black carbon ink, brush with gray wash, watercolor, and gouache on parchment; inscriptions in brown ink of a different type",
+  "dimensions": "sheet: 15 7/8 x 11 15/16 in. (40.3 x 30.4 cm)\r\nmount: 16 3/8 x 12 5/16 in. (41.6 x 31.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 40.3,
+        "Width": 30.4
+      }
+    },
+    {
+      "elementName": "Mount",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 41.6,
+        "Width": 31.3
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 2004",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-10-03T04:51:20.327Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/364478",
+  "tags": [
+    {
+      "term": "Columns",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300001571",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4817"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,90 @@
+{
+  "objectID": 910391,
+  "isHighlight": false,
+  "accessionNumber": "2024.359",
+  "accessionYear": "2024",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-36365-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-36365-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/DP-36365-002.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 188574,
+      "role": "Artist",
+      "name": "Cecco del Caravaggio (Francesco Buoneri)",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Christ on the Cross",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Cecco del Caravaggio (Francesco Buoneri)",
+  "artistDisplayBio": "born ca. 1588/90–after 1620",
+  "artistSuffix": "",
+  "artistAlphaSort": "Caravaggio (Francesco Buoneri), Cecco del",
+  "artistNationality": "",
+  "artistBeginDate": "1588",
+  "artistEndDate": "1620",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "ca. 1615–20",
+  "objectBeginDate": 1610,
+  "objectEndDate": 1625,
+  "medium": "Oil on wood",
+  "dimensions": "22 13/16 × 15 3/8 in. (58 × 39 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 58,
+        "Width": 39
+      }
+    }
+  ],
+  "creditLine": "Purchase, Charles and Jessie Price Gift, 2024",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-24T04:54:53.227Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/910391",
+  "tags": [
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Crucifixion",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

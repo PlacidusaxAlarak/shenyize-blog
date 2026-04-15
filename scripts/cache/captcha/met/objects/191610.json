@@ -1,0 +1,94 @@
+{
+  "objectID": 191610,
+  "isHighlight": false,
+  "accessionNumber": "10.185",
+  "accessionYear": "1910",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-1222-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP-1222-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP-1222-002.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP236681.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 165339,
+      "role": "Artist",
+      "name": "Niccolò Roccatagliata",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011772",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3875892",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Statuette",
+  "title": "Virgin and child",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Niccolò Roccatagliata",
+  "artistDisplayBio": "Italian, born Genoa, active 1593–1636",
+  "artistSuffix": "",
+  "artistAlphaSort": "Roccatagliata, Niccolò",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1593",
+  "artistEndDate": "1636",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3875892",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011772",
+  "objectDate": "early 17th century",
+  "objectBeginDate": 1600,
+  "objectEndDate": 1615,
+  "medium": "Bronze",
+  "dimensions": "Overall (confirmed): 22 1/4 × 9 1/2 × 9 3/4 in. (56.5 × 24.1 × 24.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "confirmed",
+      "elementMeasurements": {
+        "Depth": 24.765049,
+        "Height": 56.515114,
+        "Width": 24.130049
+      }
+    },
+    {
+      "elementName": "Height",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 57.150116
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1910",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Sculpture-Bronze",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-31T04:54:36.6Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/191610",
+  "tags": [
+    {
+      "term": "Madonna and Child",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116311482",
+  "isTimelineWork": false,
+  "GalleryNumber": "536"
+}

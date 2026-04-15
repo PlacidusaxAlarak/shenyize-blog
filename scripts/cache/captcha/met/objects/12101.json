@@ -1,0 +1,115 @@
+{
+  "objectID": 12101,
+  "isHighlight": false,
+  "accessionNumber": "15.142.4",
+  "accessionYear": "1915",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162377,
+      "role": "Artist",
+      "name": "John Singer Sargent",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023972",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q155626",
+      "gender": ""
+    }
+  ],
+  "department": "The American Wing",
+  "objectName": "Watercolor",
+  "title": "Giudecca",
+  "culture": "American",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "John Singer Sargent",
+  "artistDisplayBio": "American, Florence 1856–1925 London",
+  "artistSuffix": "",
+  "artistAlphaSort": "Sargent, John Singer",
+  "artistNationality": "American",
+  "artistBeginDate": "1856",
+  "artistEndDate": "1925",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q155626",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500023972",
+  "objectDate": "1913 (?)",
+  "objectBeginDate": 1913,
+  "objectEndDate": 1913,
+  "medium": "Watercolor and graphite on off-white paper",
+  "dimensions": "13 1/16 x 20 15/16 in. (33.2 x 53.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 2.9,
+        "Height": 62.2,
+        "Width": 77.4702
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 33.2,
+        "Width": 53.1814
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "mat/mount size",
+      "elementMeasurements": {
+        "Height": 55.8801,
+        "Width": 71.1201
+      }
+    }
+  ],
+  "creditLine": "Purchase, Joseph Pulitzer Bequest, 1915",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/12101",
+  "tags": [
+    {
+      "term": "Buildings",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+    },
+    {
+      "term": "Bridges",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300386855",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12280"
+    },
+    {
+      "term": "Canals",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300006075",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12284"
+    },
+    {
+      "term": "Boats",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,98 @@
+{
+  "objectID": 825497,
+  "isHighlight": true,
+  "accessionNumber": "2019.556",
+  "accessionYear": "2019",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162294,
+      "role": "Artist",
+      "name": "Charles Ray",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500118700",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q872846",
+      "gender": ""
+    }
+  ],
+  "department": "Modern and Contemporary Art",
+  "objectName": "Sculpture",
+  "title": "Two horses",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Charles Ray",
+  "artistDisplayBio": "American, born Chicago, Illinois, 1953",
+  "artistSuffix": "",
+  "artistAlphaSort": "Ray, Charles",
+  "artistNationality": "American",
+  "artistBeginDate": "1953",
+  "artistEndDate": "9999",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q872846",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500118700",
+  "objectDate": "2019",
+  "objectBeginDate": 2019,
+  "objectEndDate": 2019,
+  "medium": "Granite",
+  "dimensions": "10 ft. 3/8 in. × 14 ft. 10 1/4 in. × 8 1/2 in. (305.8 × 452.8 × 21.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "Estimated weight of sculpture",
+      "elementMeasurements": {
+        "Weight": 4535.97
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 21.590044,
+        "Height": 305.7531,
+        "Width": 452.75592
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "Estimated weight of sculpture and fixture",
+      "elementMeasurements": {
+        "Weight": 5896.761
+      }
+    }
+  ],
+  "creditLine": "Purchase, Lila Acheson Wallace Gift, Gift of Continental Group, by exchange, and Bequest of Gioconda King, by exchange, 2019",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Sculpture",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-08-19T04:50:07.47Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/825497",
+  "tags": [
+    {
+      "term": "Horses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116445360",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

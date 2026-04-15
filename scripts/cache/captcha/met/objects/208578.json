@@ -1,0 +1,108 @@
+{
+  "objectID": 208578,
+  "isHighlight": false,
+  "accessionNumber": "72.6",
+  "accessionYear": "1872",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DT2883.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DT2883.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/559.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/558.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DT2884.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/ES28.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/15885.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 164278,
+      "role": "Artist",
+      "name": "Jean Antoine Houdon",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003939",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q318741",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Bust",
+  "title": "Benjamin Franklin (1706–1790)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jean Antoine Houdon",
+  "artistDisplayBio": "French, Versailles 1741–1828 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Houdon, Jean Antoine",
+  "artistNationality": "French",
+  "artistBeginDate": "1741",
+  "artistEndDate": "1828",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q318741",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500003939",
+  "objectDate": "1778",
+  "objectBeginDate": 1778,
+  "objectEndDate": 1778,
+  "medium": "Marble",
+  "dimensions": "Overall (weight confirmed): 23 1/8 × 14 1/2 × 11 1/4 in., 87 lb. (58.7 × 36.8 × 28.6 cm, 39.5 kg);\r\nHeight (without base): 17 1/2 in. (44.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Height",
+      "elementDescription": "without base",
+      "elementMeasurements": {
+        "Height": 44.45009
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "weight confirmed",
+      "elementMeasurements": {
+        "Depth": 28.575058,
+        "Height": 58.737617,
+        "Weight": 39.46294,
+        "Width": 36.830074
+      }
+    }
+  ],
+  "creditLine": "Gift of John Bard, 1872",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Sculpture",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-31T04:54:36.6Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/208578",
+  "tags": [
+    {
+      "term": "Benjamin Franklin",
+      "AAT_URL": "http://vocab.getty.edu/page/ulan/500331804",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q34969"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q28812786",
+  "isTimelineWork": true,
+  "GalleryNumber": "717"
+}

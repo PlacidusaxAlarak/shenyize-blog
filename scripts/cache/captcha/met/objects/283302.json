@@ -1,0 +1,93 @@
+{
+  "objectID": 283302,
+  "isHighlight": false,
+  "accessionNumber": "2005.100.159",
+  "accessionYear": "2005",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 166285,
+      "role": "Artist",
+      "name": "Bill Brandt",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026943",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q63184",
+      "gender": ""
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "Parlourmaid Preparing a Bath Before Dinner",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Bill Brandt",
+  "artistDisplayBio": "British (born Germany), Hamburg 1904–1983 London",
+  "artistSuffix": "",
+  "artistAlphaSort": "Brandt, Bill",
+  "artistNationality": "British, born Germany",
+  "artistBeginDate": "1904",
+  "artistEndDate": "1983",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q63184",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500026943",
+  "objectDate": "ca. 1937",
+  "objectBeginDate": 1932,
+  "objectEndDate": 1942,
+  "medium": "Gelatin silver print",
+  "dimensions": "23 x 18.7 cm (9 1/16 x 7 3/8 in.)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 23,
+        "Width": 18.7
+      }
+    }
+  ],
+  "creditLine": "Gilman Collection, Purchase, Ann Tenenbaum and Thomas H. Lee Gift, 2005",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-03-20T04:55:14.207Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/283302",
+  "tags": [
+    {
+      "term": "Bathrooms",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300004197",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q190771"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Servants",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025874",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q54128"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

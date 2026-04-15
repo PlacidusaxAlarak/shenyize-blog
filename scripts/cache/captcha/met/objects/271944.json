@@ -1,0 +1,88 @@
+{
+  "objectID": 271944,
+  "isHighlight": false,
+  "accessionNumber": "1997.50.4",
+  "accessionYear": "1997",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 56428,
+      "role": "Artist",
+      "name": "David Levinthal",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500343555",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q4256545",
+      "gender": ""
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "Untitled",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "David Levinthal",
+  "artistDisplayBio": "American, born 1949",
+  "artistSuffix": "",
+  "artistAlphaSort": "Levinthal, David",
+  "artistNationality": "American",
+  "artistBeginDate": "1949",
+  "artistEndDate": "9999",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q4256545",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500343555",
+  "objectDate": "1975",
+  "objectBeginDate": 1975,
+  "objectEndDate": 1975,
+  "medium": "Gelatin silver print",
+  "dimensions": "27.4 x 36.1 cm (10 13/16 x 14 3/16 in. )",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 27.4,
+        "Width": 36.1
+      }
+    }
+  ],
+  "creditLine": "Purchase, Rhoda and Elliott Levinthal Gift, 1997",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "© David Levinthal",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/271944",
+  "tags": [
+    {
+      "term": "Soldiers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+    },
+    {
+      "term": "Firearms",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300037148",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12796"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

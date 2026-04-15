@@ -1,0 +1,92 @@
+{
+  "objectID": 485819,
+  "isHighlight": false,
+  "accessionNumber": "1991.402.14",
+  "accessionYear": "1991",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162242,
+      "role": "Artist",
+      "name": "Francis Picabia",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006325",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q157321",
+      "gender": ""
+    }
+  ],
+  "department": "Modern and Contemporary Art",
+  "objectName": "Drawing",
+  "title": "Negro Song II",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Francis Picabia",
+  "artistDisplayBio": "French, Paris 1879–1953 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Picabia, Francis",
+  "artistNationality": "French",
+  "artistBeginDate": "1879",
+  "artistEndDate": "1953",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q157321",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500006325",
+  "objectDate": "1913",
+  "objectBeginDate": 1913,
+  "objectEndDate": 1913,
+  "medium": "Watercolor and graphite on illustration board",
+  "dimensions": "21 7/8 × 25 7/8 in. (55.6 × 65.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 55.6,
+        "Width": 65.72263
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": "F.1991.402.14",
+      "elementMeasurements": {
+        "Depth": 5.08001,
+        "Height": 72.07265,
+        "Width": 80.96266
+      }
+    }
+  ],
+  "creditLine": "Gift of William Benenson, 1991",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/485819",
+  "tags": [
+    {
+      "term": "Abstraction",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300056508",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q162150"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20190846",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

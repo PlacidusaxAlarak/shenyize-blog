@@ -1,0 +1,88 @@
+{
+  "objectID": 435637,
+  "isHighlight": false,
+  "accessionNumber": "32.100.125",
+  "accessionYear": "1932",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/EP713.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/EP713.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 107360,
+      "role": "Artist",
+      "name": "Jean Bellegambe",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023570",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q932136",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, wing of a triptych",
+  "title": "Charles de Saint-Radegonde, called Charles Coguin, Abbot of Anchin",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jean Bellegambe",
+  "artistDisplayBio": "French, Douai ca. 1470–1535/36 Douai",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bellegambe, Jean",
+  "artistNationality": "French",
+  "artistBeginDate": "1470",
+  "artistEndDate": "1536",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q932136",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500023570",
+  "objectDate": "ca. 1511–20",
+  "objectBeginDate": 1511,
+  "objectEndDate": 1520,
+  "medium": "Oil on wood",
+  "dimensions": "Arched top, 26 3/4 x 11 3/8 in. (67.9 x 28.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 67.9,
+        "Width": 28.9
+      }
+    }
+  ],
+  "creditLine": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-24T04:54:53.227Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435637",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912093",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

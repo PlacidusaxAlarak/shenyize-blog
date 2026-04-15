@@ -1,0 +1,93 @@
+{
+  "objectID": 310599,
+  "isHighlight": false,
+  "accessionNumber": "1978.412.151",
+  "accessionYear": "1978",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DP104813.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/DP104813.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ao/original/vs1978_412_151.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 223090,
+      "role": "Artist",
+      "name": "Classic Veracruz artist(s)",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "The Michael C. Rockefeller Wing",
+  "objectName": "Hacha",
+  "title": "Fish hacha",
+  "culture": "Classic Veracruz",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Classic Veracruz artist(s)",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "Classic Veracruz artist(s)",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "600–900 CE",
+  "objectBeginDate": 600,
+  "objectEndDate": 900,
+  "medium": "Stone, shell, traces of plaster, pigment",
+  "dimensions": "H. 14 7/8 x W. 3 1/4 x D. 9 5/8 in. (37.8 x 8.3 x 24.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Other",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 24.49
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 24.49,
+        "Height": 37.7825,
+        "Width": 8.26
+      }
+    }
+  ],
+  "creditLine": "The Michael C. Rockefeller Memorial Collection, Purchase, Nelson A. Rockefeller Gift, 1966",
+  "geographyType": "",
+  "city": "",
+  "state": "Veracruz",
+  "county": "",
+  "country": "Mexico",
+  "region": "Mesoamerica",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Stone-Sculpture",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-05-31T04:50:53.377Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/310599",
+  "tags": [
+    {
+      "term": "Fish",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266085",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q152"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": true,
+  "GalleryNumber": "360"
+}

@@ -1,5 +1,5 @@
 import assert from "node:assert/strict";
-import { readFile } from "node:fs/promises";
+import { access, readFile } from "node:fs/promises";
 import test from "node:test";
 
 const repoRoot = new URL("../", import.meta.url);
@@ -9,22 +9,14 @@ async function readRepoFile(relativePath) {
 	return readFile(filePath, "utf8");
 }
 
-test("slider captcha static bundle is hosted from a subpath with relative asset URLs", async () => {
-	const indexHtml = await readRepoFile("public/slider-captcha/index.html");
-	const configJs = await readRepoFile("public/slider-captcha/js/config.js");
-
-	assert.match(indexHtml, /href="\.\/styles\.css"/);
-	assert.match(indexHtml, /src="\.\/app\.js"/);
-	assert.doesNotMatch(indexHtml, /href="\/styles\.css"/);
-	assert.doesNotMatch(indexHtml, /src="\/app\.js"/);
-
-	assert.match(configJs, /backgroundImageUrl:\s*"\.\/assets\/demo-background\.svg"/);
-	assert.match(configJs, /fallbackBackgroundImageUrl:\s*"\.\/assets\/placeholder-background\.svg"/);
+test("standalone slider captcha demo is removed so the site keeps only the article captcha", async () => {
+	await assert.rejects(() => access(new URL("../public/slider-captcha/index.html", import.meta.url)));
+	await assert.rejects(() => access(new URL("../public/slider-captcha/app.js", import.meta.url)));
 });
 
-test("projects page exposes a link to the deployed slider captcha route", async () => {
+test("projects page no longer exposes the removed slider captcha route", async () => {
 	const projectsPage = await readRepoFile("src/pages/projects.astro");
 
-	assert.match(projectsPage, /url\("\/slider-captcha\/"\)/);
-	assert.match(projectsPage, /滑动拼图验证码仿真/);
+	assert.doesNotMatch(projectsPage, /url\("\/slider-captcha\/"\)/);
+	assert.doesNotMatch(projectsPage, /slider-captcha/);
 });

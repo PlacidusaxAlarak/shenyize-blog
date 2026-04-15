@@ -1,0 +1,135 @@
+{
+  "objectID": 231000,
+  "isHighlight": false,
+  "accessionNumber": "35.145.15a–d",
+  "accessionYear": "1935",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP221524.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP221524.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DT4845.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162822,
+      "role": "Manufactory",
+      "name": "Beauvais",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500110803",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2566130",
+      "gender": ""
+    },
+    {
+      "constituentID": 165080,
+      "role": "Designer",
+      "name": "Jean-Baptiste Oudry",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021906",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q737137",
+      "gender": ""
+    },
+    {
+      "constituentID": 165080,
+      "role": "Workshop director",
+      "name": "Woven under the direction of Jean-Baptiste Oudry",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021906",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q737137",
+      "gender": ""
+    },
+    {
+      "constituentID": 163327,
+      "role": "Workshop director",
+      "name": "and André Charlemagne Charron",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500336178",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q83189452",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Upholstery panels",
+  "title": "Four upholstery panels for a settee",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Manufactory",
+  "artistPrefix": "",
+  "artistDisplayName": "Beauvais",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "Beauvais",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2566130",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500110803",
+  "objectDate": "1754–56",
+  "objectBeginDate": 1754,
+  "objectEndDate": 1756,
+  "medium": "Wool and silk",
+  "dimensions": "a: 28 × 82 in. (71.1 × 208.3 cm)\r\nb: 36 × 92 in. (91.4 × 233.7 cm)\r\nc and d: 15 × 17 in. (38.1 × 43.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "c and d",
+      "elementMeasurements": {
+        "Height": 38.1001,
+        "Width": 43.1801
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "b",
+      "elementMeasurements": {
+        "Height": 91.4402,
+        "Width": 233.6805
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "a",
+      "elementMeasurements": {
+        "Height": 71.1201,
+        "Width": 208.2804
+      }
+    }
+  ],
+  "creditLine": "Gift of John D. Rockefeller Jr., 1935",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Textiles-Tapestries",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-08-01T04:50:48.7Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/231000",
+  "tags": [
+    {
+      "term": "Birds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+    },
+    {
+      "term": "Flowers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+    },
+    {
+      "term": "Trees",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

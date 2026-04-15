@@ -1,0 +1,93 @@
+{
+  "objectID": 452658,
+  "isHighlight": false,
+  "accessionNumber": "1974.290.33",
+  "accessionYear": "1974",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP108580.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP108580.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/is/original/sf1974-290-33a.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 130357,
+      "role": "Author",
+      "name": "Abu&#39;l Qasim Firdausi",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q43459",
+      "gender": ""
+    }
+  ],
+  "department": "Islamic Art",
+  "objectName": "Folio from an illustrated manuscript",
+  "title": "\"Iskandar Speaks with the Bird on the Mountain\", Folio from a Shahnama (Book of Kings) of Firdausi",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Author",
+  "artistPrefix": "",
+  "artistDisplayName": "Abu'l Qasim Firdausi",
+  "artistDisplayBio": "Iranian, Paj ca. 940/41–1020 Tus",
+  "artistSuffix": "",
+  "artistAlphaSort": "Abu'l Qasim Firdausi",
+  "artistNationality": "Iranian",
+  "artistBeginDate": "0935",
+  "artistEndDate": "1020",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q43459",
+  "artistULAN_URL": "",
+  "objectDate": "ca. 1330–40",
+  "objectBeginDate": 1305,
+  "objectEndDate": 1365,
+  "medium": "Ink, opaque watercolor, gold, and silver on paper",
+  "dimensions": "Page: \r\n        H. 8 1/16 in. (20.5 cm)\r\n        W. 5 1/4 in. (13.3 cm)\r\nPainting: \r\n        H. 1 7/8 in. (4.7 cm)\r\n        W. 4 1/4 in. (10.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "Page",
+      "elementMeasurements": {
+        "Height": 20.5,
+        "Width": 13.3
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Painting",
+      "elementMeasurements": {
+        "Height": 4.7,
+        "Width": 10.8
+      }
+    }
+  ],
+  "creditLine": "Bequest of Monroe C. Gutman, 1974",
+  "geographyType": "Attributed to",
+  "city": "probably Isfahan",
+  "state": "",
+  "county": "",
+  "country": "Iran",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Codices",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/452658",
+  "tags": [
+    {
+      "term": "Alexander The Great",
+      "AAT_URL": "http://vocab.getty.edu/page/ulan/500280655",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8409"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

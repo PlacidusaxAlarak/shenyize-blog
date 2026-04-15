@@ -1,0 +1,101 @@
+{
+  "objectID": 671399,
+  "isHighlight": false,
+  "accessionNumber": "2015.43",
+  "accessionYear": "2015",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP846852.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP846852.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 181855,
+      "role": "Artist",
+      "name": "Prince Rupert of the Rhine",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016189",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q76930",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "The Great Executioner with the Head of Saint John the Baptist",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Prince Rupert of the Rhine",
+  "artistDisplayBio": "Bohemian, Prague 1619–1682 Westminster",
+  "artistSuffix": "",
+  "artistAlphaSort": "Rupert of the Rhine, Prince",
+  "artistNationality": "Bohemian",
+  "artistBeginDate": "1619",
+  "artistEndDate": "1682",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q76930",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500016189",
+  "objectDate": "1658",
+  "objectBeginDate": 1658,
+  "objectEndDate": 1658,
+  "medium": "Mezzotint with engraving; third state",
+  "dimensions": "Sheet: 25 × 17 7/16 in. (63.5 × 44.3 cm)\r\nImage: 24 15/16 × 17 3/8 in. (63.3 × 44.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 63.5,
+        "Width": 44.3
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 63.3,
+        "Width": 44.2
+      }
+    }
+  ],
+  "creditLine": "Purchase, Lila Acheson Wallace Gift, in honor of George R. Goldner, 2015",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/671399",
+  "tags": [
+    {
+      "term": "Heads",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300375054",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3409626"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Saint John the Baptist",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

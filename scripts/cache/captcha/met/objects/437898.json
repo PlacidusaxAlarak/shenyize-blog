@@ -1,0 +1,97 @@
+{
+  "objectID": 437898,
+  "isHighlight": false,
+  "accessionNumber": "50.135.2",
+  "accessionYear": "1950",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP320094.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP320094.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162647,
+      "role": "Artist",
+      "name": "Elisabeth Louise Vigée Le Brun",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010070",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q213163",
+      "gender": "Female"
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Madame Grand (Noël Catherine Vorlée, 1761–1835)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Elisabeth Louise Vigée Le Brun",
+  "artistDisplayBio": "French, Paris 1755–1842 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Vigée Le Brun, Elisabeth Louise",
+  "artistNationality": "French",
+  "artistBeginDate": "1755",
+  "artistEndDate": "1842",
+  "artistGender": "Female",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q213163",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010070",
+  "objectDate": "1783",
+  "objectBeginDate": 1783,
+  "objectEndDate": 1783,
+  "medium": "Oil on canvas",
+  "dimensions": "Oval, 36 1/4 x 28 1/2 in. (92.1 x 72.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 92.1,
+        "Width": 72.4
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 10.795022,
+        "Height": 140.33528,
+        "Width": 90.17018
+      }
+    }
+  ],
+  "creditLine": "Bequest of Edward S. Harkness, 1940",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-27T04:50:31.807Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437898",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905205",
+  "isTimelineWork": true,
+  "GalleryNumber": "633"
+}

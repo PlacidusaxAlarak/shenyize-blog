@@ -1,0 +1,93 @@
+{
+  "objectID": 399922,
+  "isHighlight": false,
+  "accessionNumber": "2012.83",
+  "accessionYear": "2012",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP822404.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP822404.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 69887,
+      "role": "Artist",
+      "name": "Maria Sibylla Merian",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009826",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q62530",
+      "gender": "Female"
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "Study of Capers, Gorse, and a Beetle",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Maria Sibylla Merian",
+  "artistDisplayBio": "German, 1647–1717 (active Holland)",
+  "artistSuffix": "",
+  "artistAlphaSort": "Merian, Maria Sibylla",
+  "artistNationality": "German",
+  "artistBeginDate": "1647",
+  "artistEndDate": "1717",
+  "artistGender": "Female",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q62530",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500009826",
+  "objectDate": "1693",
+  "objectBeginDate": 1693,
+  "objectEndDate": 1693,
+  "medium": "Watercolor, white gouache, on vellum",
+  "dimensions": "sheet: 14 x 10 5/16 in. (35.5 x 26.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 35.5,
+        "Width": 26.2
+      }
+    }
+  ],
+  "creditLine": "Purchase, Guy Wildenstein Gift, 2012",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/399922",
+  "tags": [
+    {
+      "term": "Insects",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300310470",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1390"
+    },
+    {
+      "term": "Flowers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+    },
+    {
+      "term": "Plants",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132360",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q756"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q96184871",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

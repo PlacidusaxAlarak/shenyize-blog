@@ -1,0 +1,98 @@
+{
+  "objectID": 285898,
+  "isHighlight": false,
+  "accessionNumber": "2005.100.322",
+  "accessionYear": "2005",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161869,
+      "role": "Artist",
+      "name": "Walker Evans",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012076",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q363308",
+      "gender": ""
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "Room in Louisiana Plantation House",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Walker Evans",
+  "artistDisplayBio": "American, St. Louis, Missouri 1903–1975 New Haven, Connecticut",
+  "artistSuffix": "",
+  "artistAlphaSort": "Evans, Walker",
+  "artistNationality": "American",
+  "artistBeginDate": "1903",
+  "artistEndDate": "1975",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q363308",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500012076",
+  "objectDate": "March 1935",
+  "objectBeginDate": 1935,
+  "objectEndDate": 1935,
+  "medium": "Gelatin silver print",
+  "dimensions": "Image: 17.2 x 23.4 cm (6 3/4 x 9 3/16 in.)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 17.2,
+        "Width": 23.4
+      }
+    }
+  ],
+  "creditLine": "Gilman Collection, Purchase, Ann Tenenbaum and Thomas H. Lee Gift, 2005",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "© Walker Evans Archive, The Metropolitan Museum of Art",
+  "linkResource": "",
+  "metadataDate": "2026-03-10T04:57:21.92Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/285898",
+  "tags": [
+    {
+      "term": "Architecture",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300263552",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12271"
+    },
+    {
+      "term": "Columns",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300001571",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4817"
+    },
+    {
+      "term": "Houses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300005433",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3947"
+    },
+    {
+      "term": "Interiors",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

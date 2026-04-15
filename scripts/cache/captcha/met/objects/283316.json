@@ -1,0 +1,104 @@
+{
+  "objectID": 283316,
+  "isHighlight": false,
+  "accessionNumber": "2005.100.167",
+  "accessionYear": "2005",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 54908,
+      "role": "Artist",
+      "name": "Dorothea Lange",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007674",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q230673",
+      "gender": "Female"
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "[Demonstration, San Francisco]",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Dorothea Lange",
+  "artistDisplayBio": "American, 1895–1965",
+  "artistSuffix": "",
+  "artistAlphaSort": "Lange, Dorothea",
+  "artistNationality": "American",
+  "artistBeginDate": "1895",
+  "artistEndDate": "1965",
+  "artistGender": "Female",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q230673",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500007674",
+  "objectDate": "1933",
+  "objectBeginDate": 1933,
+  "objectEndDate": 1933,
+  "medium": "Gelatin silver print",
+  "dimensions": "Image: 7 1/2 × 6 7/8 in. (19 × 17.4 cm)\r\nSheet: 7 1/2 × 6 7/8 in. (19 × 17.4 cm)\r\nMount: 7 7/8 × 7 1/4 in. (20 × 18.4 cm), irregularly trimmed",
+  "measurements": [
+    {
+      "elementName": "Mount",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 20,
+        "Width": 18.4
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 19,
+        "Width": 17.4
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 19,
+        "Width": 17.4
+      }
+    }
+  ],
+  "creditLine": "Gilman Collection, Purchase, Joseph M. Cohen Gift, 2005",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/283316",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q98823376",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

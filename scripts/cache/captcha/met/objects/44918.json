@@ -1,0 +1,91 @@
+{
+  "objectID": 44918,
+  "isHighlight": true,
+  "accessionNumber": "26.117",
+  "accessionYear": "1926",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DT1615.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DT1615.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 11750,
+      "role": "Artist",
+      "name": "Ogata Kōrin",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500034109",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q952938",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Screen",
+  "title": "Rough Waves",
+  "culture": "Japan",
+  "period": "Edo period (1615–1868)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Ogata Kōrin",
+  "artistDisplayBio": "Japanese, 1658–1716",
+  "artistSuffix": "",
+  "artistAlphaSort": "Kōrin",
+  "artistNationality": "Japanese",
+  "artistBeginDate": "1658",
+  "artistEndDate": "1716",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q952938",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500034109",
+  "objectDate": "ca. 1704–9",
+  "objectBeginDate": 1694,
+  "objectEndDate": 1719,
+  "medium": "Two-panel folding screen; ink, color, and gold leaf on paper",
+  "dimensions": "Image: 57 11/16 × 65 1/8 in. (146.5 × 165.4 cm)\r\nOverall: 59 1/4 × 66 1/2 in. (150.5 × 168.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 146.5265,
+        "Width": 165.4178
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 150.4953,
+        "Width": 168.9103
+      }
+    }
+  ],
+  "creditLine": "Fletcher Fund, 1926",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-03-04T04:56:21.393Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/44918",
+  "tags": [
+    {
+      "term": "Waves",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300343616",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q165848"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q29383342",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

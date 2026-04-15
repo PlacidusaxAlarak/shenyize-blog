@@ -1,0 +1,103 @@
+{
+  "objectID": 310540,
+  "isHighlight": false,
+  "accessionNumber": "1978.412.88",
+  "accessionYear": "1978",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DP-22128-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-22128-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-22128-003.jpg",
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-22128-002.jpg",
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-22128-004.jpg",
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-22128-006.jpg",
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-22128-005.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 223139,
+      "role": "Artist",
+      "name": "Maya artist(s)",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "The Michael C. Rockefeller Wing",
+  "objectName": "Column",
+  "title": "Column",
+  "culture": "Maya",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Maya artist(s)",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "Maya artist(s)",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "800–900 CE",
+  "objectBeginDate": 800,
+  "objectEndDate": 900,
+  "medium": "Limestone, pigment",
+  "dimensions": "H. 68 3/4 x W. 29 in. (173.4 x 73.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Other",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Circumference": 186.05537,
+        "Depth": 66.04
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 66.04,
+        "Height": 174.62535,
+        "Width": 68.58014
+      }
+    }
+  ],
+  "creditLine": "The Michael C. Rockefeller Memorial Collection, Gift of Nelson A. Rockefeller, 1963",
+  "geographyType": "",
+  "city": "",
+  "state": "Campeche",
+  "county": "",
+  "country": "Mexico",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Stone-Sculpture",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-05-31T04:50:53.377Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/310540",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Headdresses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300046023",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q28972621"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116406860",
+  "isTimelineWork": false,
+  "GalleryNumber": "360"
+}

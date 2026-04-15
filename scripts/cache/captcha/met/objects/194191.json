@@ -1,0 +1,100 @@
+{
+  "objectID": 194191,
+  "isHighlight": false,
+  "accessionNumber": "17.190.1603",
+  "accessionYear": "1917",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP340434.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP340434.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP340673.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP340430.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP340432.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP340431.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP340433.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP338577.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 34033,
+      "role": "Maker",
+      "name": "Watchmaker: Jan Jansen Bockeltz",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Clock watch",
+  "title": "Clock watch with astronomical dial and sundial",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Maker",
+  "artistPrefix": "Watchmaker:",
+  "artistDisplayName": "Jan Jansen Bockeltz",
+  "artistDisplayBio": "Dutch, active ca. 1590, died 1626",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bockeltz, Jan Jansen",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1590",
+  "artistEndDate": "1626",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "ca. 1605–10",
+  "objectBeginDate": 1600,
+  "objectEndDate": 1615,
+  "medium": "Case: gilded brass; Dial: gilded brass, silver, and copper; Movement: gilded brass, partly blued steel, and silver",
+  "dimensions": "Overall: 3 1/2 × 2 7/16 × 2 5/16 in. (8.9 × 6.2 × 5.9 cm); Width of back plate: 2 1/8 in. (5.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "historic dimensions superseded",
+      "elementMeasurements": {
+        "Height": 6.7,
+        "Width": 5.4
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.8737617,
+        "Height": 8.8900175,
+        "Width": 6.1912622
+      }
+    },
+    {
+      "elementName": "Width",
+      "elementDescription": "width of back plate",
+      "elementMeasurements": {
+        "Width": 5.4
+      }
+    }
+  ],
+  "creditLine": "Gift of J. Pierpont Morgan, 1917",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Horology",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-08-07T04:50:37.167Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/194191",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": "520"
+}

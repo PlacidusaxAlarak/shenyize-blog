@@ -1,0 +1,103 @@
+{
+  "objectID": 436243,
+  "isHighlight": false,
+  "accessionNumber": "32.100.64",
+  "accessionYear": "1932",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-38479-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-38479-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/GermanCat23_IRRnocap.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/GermanCat23_Xraynocap.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 161857,
+      "role": "Artist",
+      "name": "Albrecht Dürer",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Salvator Mundi",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Albrecht Dürer",
+  "artistDisplayBio": "German, Nuremberg 1471–1528 Nuremberg",
+  "artistSuffix": "",
+  "artistAlphaSort": "Dürer, Albrecht",
+  "artistNationality": "German",
+  "artistBeginDate": "1471",
+  "artistEndDate": "1528",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+  "objectDate": "ca. 1505",
+  "objectBeginDate": 1500,
+  "objectEndDate": 1510,
+  "medium": "Oil on linden",
+  "dimensions": "22 7/8 x 18 1/2in. (58.1 x 47cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 58.1,
+        "Width": 47
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 7.62,
+        "Height": 69.2151,
+        "Width": 58.4201
+      }
+    },
+    {
+      "elementName": "Glazing",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 58.737617,
+        "Width": 46.672592
+      }
+    }
+  ],
+  "creditLine": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-02-07T04:59:02.893Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436243",
+  "tags": [
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911432",
+  "isTimelineWork": true,
+  "GalleryNumber": "607"
+}

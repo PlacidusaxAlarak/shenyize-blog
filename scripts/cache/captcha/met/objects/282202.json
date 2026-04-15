@@ -1,0 +1,99 @@
+{
+  "objectID": 282202,
+  "isHighlight": false,
+  "accessionNumber": "1998.49",
+  "accessionYear": "1998",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 55015,
+      "role": "Artist",
+      "name": "Sally Mann",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500105206",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q256434",
+      "gender": "Female"
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "Virginia, Untitled (Blue Hills)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Sally Mann",
+  "artistDisplayBio": "American, born 1951",
+  "artistSuffix": "",
+  "artistAlphaSort": "Mann, Sally",
+  "artistNationality": "American",
+  "artistBeginDate": "1951",
+  "artistEndDate": "9999",
+  "artistGender": "Female",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q256434",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500105206",
+  "objectDate": "1993, printed 1997",
+  "objectBeginDate": 1993,
+  "objectEndDate": 1993,
+  "medium": "Gelatin silver print",
+  "dimensions": "Visible: 30 × 38 in. (76.2 × 96.5 cm)\r\nFrame: 32 1/2 × 40 1/2 in. (82.6 × 102.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 77.47015,
+        "Width": 97.7902
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 76.20015,
+        "Width": 96.520195
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 82.55016,
+        "Width": 102.87021
+      }
+    }
+  ],
+  "creditLine": "Purchase, The Horace W. Goldsmith Foundation Gift, through Joyce and Robert Menschel, 1998",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "© Sally Mann",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/282202",
+  "tags": [
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q98823320",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

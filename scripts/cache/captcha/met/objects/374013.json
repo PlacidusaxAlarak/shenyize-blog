@@ -1,0 +1,119 @@
+{
+  "objectID": 374013,
+  "isHighlight": false,
+  "accessionNumber": "49.95.1833",
+  "accessionYear": "1949",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP825419.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP825419.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 80179,
+      "role": "Artist",
+      "name": "Jan Muller",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015311",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2725591",
+      "gender": ""
+    },
+    {
+      "constituentID": 162460,
+      "role": "Artist",
+      "name": "After Bartholomeus Spranger",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018180",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q447682",
+      "gender": ""
+    },
+    {
+      "constituentID": 86693,
+      "role": "Publisher",
+      "name": "Harmen Jansz. Muller",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500044024",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3161674",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Minerva Leading Hercules and Scipio to the Temple of Fame",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jan Muller",
+  "artistDisplayBio": "Netherlandish, Amsterdam 1571–1628 Amsterdam",
+  "artistSuffix": "",
+  "artistAlphaSort": "Muller, Jan",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1571",
+  "artistEndDate": "1628",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2725591",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500015311",
+  "objectDate": "ca. 1591",
+  "objectBeginDate": 1586,
+  "objectEndDate": 1596,
+  "medium": "Engraving: New Holl.'s third state of four",
+  "dimensions": "Sheet: 9 1/2 × 6 5/16 in. (24.1 × 16 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 24.1,
+        "Width": 16
+      }
+    }
+  ],
+  "creditLine": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/374013",
+  "tags": [
+    {
+      "term": "Roads",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008217",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q34442"
+    },
+    {
+      "term": "Temples",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300007595",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q44539"
+    },
+    {
+      "term": "Hercules",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000042",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q122248"
+    },
+    {
+      "term": "Mars",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001031",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q112"
+    },
+    {
+      "term": "Minerva",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001041",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q126916"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

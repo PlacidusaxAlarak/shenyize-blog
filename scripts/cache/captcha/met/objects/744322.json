@@ -1,0 +1,120 @@
+{
+  "objectID": 744322,
+  "isHighlight": false,
+  "accessionNumber": "59.533.1671(5)",
+  "accessionYear": "1959",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP873989.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP873989.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 165095,
+      "role": "Artist",
+      "name": "Designed and etched by Thomas Rowlandson",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006930",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q318584",
+      "gender": ""
+    },
+    {
+      "constituentID": 78345,
+      "role": "Artist",
+      "name": "Designed and etched by Auguste Charles Pugin",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020563",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2871122",
+      "gender": ""
+    },
+    {
+      "constituentID": 164761,
+      "role": "Artist",
+      "name": "Aquatint by John Hill",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012829",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21461812",
+      "gender": ""
+    },
+    {
+      "constituentID": 76478,
+      "role": "Publisher",
+      "name": "Rudolph Ackermann, London",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q70993",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "The Hall, Blue Coat School",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "Microcosm of London, pl. 10",
+  "artistRole": "Artist",
+  "artistPrefix": "Designed and etched by",
+  "artistDisplayName": "Thomas Rowlandson",
+  "artistDisplayBio": "British, London 1757–1827 London",
+  "artistSuffix": "",
+  "artistAlphaSort": "Rowlandson, Thomas",
+  "artistNationality": "British",
+  "artistBeginDate": "1757",
+  "artistEndDate": "1827",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q318584",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500006930",
+  "objectDate": "March 1, 1808",
+  "objectBeginDate": 1808,
+  "objectEndDate": 1808,
+  "medium": "Hand-colored etching and aquatint",
+  "dimensions": "Sheet: 9 13/16 × 11 1/2 in. (25 × 29.2 cm)\r\nPlate: 9 1/8 × 11 1/8 in. (23.1 × 28.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Plate",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 23.1,
+        "Width": 28.3
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": "trimmed",
+      "elementMeasurements": {
+        "Height": 25,
+        "Width": 29.2
+      }
+    }
+  ],
+  "creditLine": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1959",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/744322",
+  "tags": [
+    {
+      "term": "Interiors",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+    },
+    {
+      "term": "Spectators",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189768",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q63443976"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,122 @@
+{
+  "objectID": 441227,
+  "isHighlight": false,
+  "accessionNumber": "2011.26",
+  "accessionYear": "2011",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP255071.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP255071.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/DP245246.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/Perino X-ray.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/Perino During Cleaning.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/Perino Evidence.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162228,
+      "role": "Artist",
+      "name": "Perino del Vaga (Pietro Buonaccorsi)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000030",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q918778",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Holy Family with the Infant Saint John the Baptist",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Perino del Vaga (Pietro Buonaccorsi)",
+  "artistDisplayBio": "Italian, Florence 1501–1547 Rome",
+  "artistSuffix": "",
+  "artistAlphaSort": "Perino del Vaga (Pietro Buonaccorsi)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1501",
+  "artistEndDate": "1547",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q918778",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500000030",
+  "objectDate": "ca. 1524–26",
+  "objectBeginDate": 1524,
+  "objectEndDate": 1526,
+  "medium": "Oil on wood",
+  "dimensions": "34 3/4 x 25 5/8 in. (88.3 x 65.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 88.265175,
+        "Width": 65.08763
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 10.16002,
+        "Height": 114.93523,
+        "Width": 89.53518
+      }
+    }
+  ],
+  "creditLine": "Purchase, Acquisitions Fund, Mark Fisch and Rachel Davidson, Denise and Andrew Saul, and Friends of European Paintings Gifts, Gwynne Andrews Fund, Mr. and Mrs. J. Tomilson Hill, Jon and Barbara Landau, Charles and Jessie Price, Hester Diamond, and Fern and George Wachter Gifts, 2011",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-11-21T10:05:27.96Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/441227",
+  "tags": [
+    {
+      "term": "Birds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+    },
+    {
+      "term": "Holy Family",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001175",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q618057"
+    },
+    {
+      "term": "Saint John the Baptist",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+    },
+    {
+      "term": "Virgin Mary",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+    },
+    {
+      "term": "Jesus",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+    },
+    {
+      "term": "Joseph",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000953",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q128267"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911652",
+  "isTimelineWork": true,
+  "GalleryNumber": "609"
+}

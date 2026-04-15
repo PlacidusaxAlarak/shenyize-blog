@@ -1,0 +1,98 @@
+{
+  "objectID": 266859,
+  "isHighlight": true,
+  "accessionNumber": "1992.5158",
+  "accessionYear": "1992",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 55829,
+      "role": "Artist",
+      "name": "Jean-Marc Bustamante",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500116124",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q473000",
+      "gender": ""
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Print",
+  "title": "Lumière",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jean-Marc Bustamante",
+  "artistDisplayBio": "French, born 1952",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bustamante, Jean-Marc",
+  "artistNationality": "French",
+  "artistBeginDate": "1952",
+  "artistEndDate": "9999",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q473000",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500116124",
+  "objectDate": "1991",
+  "objectBeginDate": 1991,
+  "objectEndDate": 1991,
+  "medium": "Silkscreen on acrylic resin",
+  "dimensions": "110 x 185 cm (43 5/16 x 72 13/16 in.)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 110,
+        "Width": 185
+      }
+    }
+  ],
+  "creditLine": "Purchase, The Howard Gilman Foundation Gift, 1992",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "© Jean-Marc Bustamante",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/266859",
+  "tags": [
+    {
+      "term": "Schools",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266108",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3914"
+    },
+    {
+      "term": "Windows",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300002944",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35473"
+    },
+    {
+      "term": "Interiors",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+    },
+    {
+      "term": "Desks",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300039338",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1064858"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

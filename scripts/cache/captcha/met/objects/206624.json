@@ -1,0 +1,86 @@
+{
+  "objectID": 206624,
+  "isHighlight": false,
+  "accessionNumber": "1977.216.5a, b",
+  "accessionYear": "1977",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP156498.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP156498.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP156497.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 35100,
+      "role": "Factory",
+      "name": "Tournai",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Bust",
+  "title": "Louis XV",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Factory",
+  "artistPrefix": "",
+  "artistDisplayName": "Tournai",
+  "artistDisplayBio": "Belgian, established ca. 1750",
+  "artistSuffix": "",
+  "artistAlphaSort": "TOURNAI",
+  "artistNationality": "Belgian",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "ca. 1756",
+  "objectBeginDate": 1751,
+  "objectEndDate": 1761,
+  "medium": "Soft-paste porcelain",
+  "dimensions": "Overall (confirmed): 12 5/8 x 10 1/2 x 5 5/8 in. (32.1 x 26.7 x 14.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "confirmed",
+      "elementMeasurements": {
+        "Depth": 14.287529,
+        "Height": 32.067566,
+        "Width": 26.670053
+      }
+    }
+  ],
+  "creditLine": "Bequest of R. Thornton Wilson, in memory of his wife, Florence Ellsworth Wilson, 1977",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Ceramics-Porcelain",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-31T04:54:36.6Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/206624",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

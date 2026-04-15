@@ -1,0 +1,100 @@
+{
+  "objectID": 13744,
+  "isHighlight": false,
+  "accessionNumber": "41.16",
+  "accessionYear": "1941",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 178578,
+      "role": "Maker",
+      "name": "Attributed to Amy Harris Bowler",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": "Female"
+    },
+    {
+      "constituentID": 3129,
+      "role": "Maker",
+      "name": "Miss Mary Balch&#39;s Boarding and Day School",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "The American Wing",
+  "objectName": "Embroidered picture",
+  "title": "Memorial to Metcalf and Samuel Bowler",
+  "culture": "American",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Maker",
+  "artistPrefix": "Attributed to",
+  "artistDisplayName": "Amy Harris Bowler",
+  "artistDisplayBio": "American, 1789–1870",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bowler, Amy Harris",
+  "artistNationality": "American",
+  "artistBeginDate": "1789",
+  "artistEndDate": "1870",
+  "artistGender": "Female",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "ca. 1800",
+  "objectBeginDate": 1800,
+  "objectEndDate": 1800,
+  "medium": "Silk and chenille embroidery on silk",
+  "dimensions": "13 1/4 x 14 1/4 in. (33.7 x 36.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 33.7,
+        "Width": 36.1951
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.7150116,
+        "Height": 44.132587,
+        "Width": 48.260098
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1941",
+  "geographyType": "Made in",
+  "city": "Providence",
+  "state": "Rhode Island",
+  "county": "Providence Country",
+  "country": "United States",
+  "region": "New England",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-01-30T04:53:27.33Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/13744",
+  "tags": [
+    {
+      "term": "Trees",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

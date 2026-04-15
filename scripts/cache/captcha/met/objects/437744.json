@@ -1,0 +1,105 @@
+{
+  "objectID": 437744,
+  "isHighlight": false,
+  "accessionNumber": "13.175",
+  "accessionYear": "1913",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP296527.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP296527.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/DP296526.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162459,
+      "role": "Artist",
+      "name": "Spinello Aretino (Spinello di Luca Spinelli)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030643",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q287934",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, processional banner",
+  "title": "Saint Mary Magdalen Holding a Crucifix; (reverse) The Flagellation",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Spinello Aretino (Spinello di Luca Spinelli)",
+  "artistDisplayBio": "Italian, born Arezzo 1345–52, died 1410 Arezzo",
+  "artistSuffix": "",
+  "artistAlphaSort": "Spinello Aretino (Spinello di Luca Spinelli)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1345",
+  "artistEndDate": "1410",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q287934",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500030643",
+  "objectDate": "ca. 1395–1400",
+  "objectBeginDate": 1395,
+  "objectEndDate": 1400,
+  "medium": "Tempera on canvas, gold ground; photographic facsimile (Christ’s face on reverse)",
+  "dimensions": "69 1/2 x 47 1/4 in. (176.5 x 120 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 176.5,
+        "Width": 120
+      }
+    }
+  ],
+  "creditLine": "Gift of the family of Francis M. Bacon, 1914",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437744",
+  "tags": [
+    {
+      "term": "Musical Instruments",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300041620",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q34379"
+    },
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Mary Magdalene",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000161",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q63070"
+    },
+    {
+      "term": "Saints",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911536",
+  "isTimelineWork": false,
+  "GalleryNumber": "601"
+}

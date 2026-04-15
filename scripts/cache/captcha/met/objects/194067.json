@@ -1,0 +1,112 @@
+{
+  "objectID": 194067,
+  "isHighlight": false,
+  "accessionNumber": "17.190.1475",
+  "accessionYear": "1917",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP340439.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP340439.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP338574.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP340438.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP168594.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP168595.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP169985.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 34413,
+      "role": "Maker",
+      "name": "Movement by Nicholas Vallin",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Watch",
+  "title": "Watch in the form of a Lesser George",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Maker",
+  "artistPrefix": "Movement by",
+  "artistDisplayName": "Nicholas Vallin",
+  "artistDisplayBio": "Flemish, active ca. 1590–died 1603",
+  "artistSuffix": "",
+  "artistAlphaSort": "Vallin Nicholas",
+  "artistNationality": "Flemish",
+  "artistBeginDate": "1503",
+  "artistEndDate": "1603",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "ca. 1600",
+  "objectBeginDate": 1595,
+  "objectEndDate": 1605,
+  "medium": "Case and dial: gold, partly enameled; movement: gilded brass and steel",
+  "dimensions": "overall: 1 7/16 × 15/16 in. (3.7 × 2.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "historic dimensions superseded",
+      "elementMeasurements": {
+        "Height": 2.9,
+        "Width": 2.2
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 3.6512573,
+        "Width": 2.3812547
+      }
+    }
+  ],
+  "creditLine": "Gift of J. Pierpont Morgan, 1917",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Horology",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-11-21T10:05:27.96Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/194067",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Dragons",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300375726",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7559"
+    },
+    {
+      "term": "Horses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+    },
+    {
+      "term": "Saint George",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000509",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q48438"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116310216",
+  "isTimelineWork": true,
+  "GalleryNumber": "509"
+}

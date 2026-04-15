@@ -1,0 +1,94 @@
+{
+  "objectID": 857223,
+  "isHighlight": false,
+  "accessionNumber": "2023.330",
+  "accessionYear": "2023",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 218617,
+      "role": "Artist",
+      "name": "Beryl Korot",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500096122",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2414037",
+      "gender": "Female"
+    }
+  ],
+  "department": "Modern and Contemporary Art",
+  "objectName": "Time-Based Media; Video; Installation",
+  "title": "Dachau 1974",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Beryl Korot",
+  "artistDisplayBio": "American, born New York 1945",
+  "artistSuffix": "",
+  "artistAlphaSort": "Korot, Beryl",
+  "artistNationality": "American",
+  "artistBeginDate": "1945",
+  "artistEndDate": "9999",
+  "artistGender": "Female",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2414037",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500096122",
+  "objectDate": "1974",
+  "objectBeginDate": 1974,
+  "objectEndDate": 1974,
+  "medium": "Four-channel video installation, transferred from video tape, black-and-white, sound, 24 min. with photocopy (est.) on paper",
+  "dimensions": "Variable",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "Hard drive [2023.330.EDx1]",
+      "elementMeasurements": {
+        "Height": 0.47625095,
+        "Length": 10.16002,
+        "Width": 5.3
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "Installation dimensions, roughly",
+      "elementMeasurements": {
+        "Height": 254.0005,
+        "Width": 330.20065
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "Diagram 1 and 2",
+      "elementMeasurements": {
+        "Height": 61,
+        "Width": 45.7
+      }
+    }
+  ],
+  "creditLine": "Jointly owned by The Metropolitan Museum of Art and the Smithsonian American Art Museum. Purchased for The Metropolitan Museum of Art with Lila Acheson Wallace funds. Purchased for the Smithsonian American Art Museum with Luisita L. and Franz H. Denghausen Endowment funds, 2023",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Variable Media",
+  "rightsAndReproduction": "Copyright Beryl Korot 1974",
+  "linkResource": "",
+  "metadataDate": "2025-07-24T04:50:20.827Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/857223",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

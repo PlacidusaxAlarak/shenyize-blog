@@ -1,0 +1,112 @@
+{
+  "objectID": 436570,
+  "isHighlight": false,
+  "accessionNumber": "05.42",
+  "accessionYear": "1905",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP123919.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP123919.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161956,
+      "role": "Artist",
+      "name": "El Greco (Domenikos Theotokopoulos)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010916",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q301",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Adoration of the Shepherds",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "El Greco (Domenikos Theotokopoulos)",
+  "artistDisplayBio": "Greek, Iráklion (Candia) 1541–1614 Toledo",
+  "artistSuffix": "",
+  "artistAlphaSort": "Greco, El (Domenikos Theotokopoulos)",
+  "artistNationality": "Greek",
+  "artistBeginDate": "1540",
+  "artistEndDate": "1614",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q301",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010916",
+  "objectDate": "ca. 1605–10",
+  "objectBeginDate": 1605,
+  "objectEndDate": 1610,
+  "medium": "Oil on canvas",
+  "dimensions": "56 7/8 x 39 7/8 in. (144.5 x 101.3 cm); with added strips 64 1/2 x 42 in. (163.8 x 106.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 8.89,
+        "Height": 173.9903,
+        "Width": 129.5403
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 163.8,
+        "Width": 106.7
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1905",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-02-11T04:58:02.963Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436570",
+  "tags": [
+    {
+      "term": "Cows",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+    },
+    {
+      "term": "Lambs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250289",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4575936"
+    },
+    {
+      "term": "Virgin Mary",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+    },
+    {
+      "term": "Jesus",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+    },
+    {
+      "term": "Adoration of the Shepherds",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000229",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1029715"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911449",
+  "isTimelineWork": false,
+  "GalleryNumber": "619"
+}

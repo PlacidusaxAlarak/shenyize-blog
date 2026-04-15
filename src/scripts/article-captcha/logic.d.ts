@@ -41,6 +41,12 @@ export interface CaptchaState {
 	status: "idle" | "loading" | "error" | "success";
 }
 
+export function pickRandomBackgroundImageUrl(options: {
+	imageUrls: string[];
+	previousImageUrl?: string;
+	rng?: () => number;
+}): string | undefined;
+
 export function resolveCanvasSize(options: {
 	sourceWidth: number;
 	sourceHeight: number;

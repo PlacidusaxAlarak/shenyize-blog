@@ -1,0 +1,102 @@
+{
+  "objectID": 669367,
+  "isHighlight": false,
+  "accessionNumber": "2015.73",
+  "accessionYear": "2015",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 61974,
+      "role": "Artist",
+      "name": "Matthew Brandt",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500524790",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q95217495",
+      "gender": ""
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "1691082u2 (Demolition of Madison Square Garden, 1925)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Matthew Brandt",
+  "artistDisplayBio": "American, born Los Angeles, California, 1982",
+  "artistSuffix": "",
+  "artistAlphaSort": "Brandt, Matthew",
+  "artistNationality": "American",
+  "artistBeginDate": "1982",
+  "artistEndDate": "9999",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q95217495",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500524790",
+  "objectDate": "2014",
+  "objectBeginDate": 2014,
+  "objectEndDate": 2014,
+  "medium": "Gum bichromate print",
+  "dimensions": "Image: 58 3/8 × 43 1/2 in. (148.3 × 110.5 cm)\r\nFrame: 62 × 47 × 2 1/2 in. (157.5 × 119.4 × 6.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 148.3,
+        "Width": 110.5
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 6.350013,
+        "Height": 157.48032,
+        "Width": 119.38024
+      }
+    }
+  ],
+  "creditLine": "Purchase, Barbara Macklowe Gift, 2015",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "© Matthew Brandt",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/669367",
+  "tags": [
+    {
+      "term": "Buildings",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+    },
+    {
+      "term": "Cities",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008389",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q515"
+    },
+    {
+      "term": "New York City",
+      "AAT_URL": "http://vocab.getty.edu/page/tgn/7007567",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q60"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

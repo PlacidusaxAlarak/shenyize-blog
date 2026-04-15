@@ -1,0 +1,107 @@
+{
+  "objectID": 198704,
+  "isHighlight": false,
+  "accessionNumber": "41.49.6",
+  "accessionYear": "1941",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP169171.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP169171.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP169167.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP169168.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP169169.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP169170.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 40668,
+      "role": "Manufactory",
+      "name": "Medici Porcelain Manufactory",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500055295",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3908452",
+      "gender": ""
+    },
+    {
+      "constituentID": 162800,
+      "role": "Artist",
+      "name": "Based on a woodcut by Sebald Beham",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115491",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q507825",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Dish",
+  "title": "Dish depicting The Death of Saul",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Manufactory",
+  "artistPrefix": "",
+  "artistDisplayName": "Medici Porcelain Manufactory",
+  "artistDisplayBio": "Italian, Florence, ca. 1575–ca. 1587",
+  "artistSuffix": "",
+  "artistAlphaSort": "Medici Porcelain Manufactory",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1570",
+  "artistEndDate": "1592",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3908452",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500055295",
+  "objectDate": "ca. 1575–80",
+  "objectBeginDate": 1570,
+  "objectEndDate": 1585,
+  "medium": "Soft-paste porcelain decorated in underglaze blue",
+  "dimensions": "Overall, irregular diameter (confirmed): 2 1/4 × 13 3/16 × 13 1/8 in. (5.7 × 33.5 × 33.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "confirmed",
+      "elementMeasurements": {
+        "Depth": 33.337566,
+        "Height": 5.7150116,
+        "Width": 33.49632
+      }
+    }
+  ],
+  "creditLine": "Samuel D. Lee Fund, 1941",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Ceramics-Porcelain",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-09-03T04:50:00.593Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/198704",
+  "tags": [
+    {
+      "term": "Swords",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300037048",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12791"
+    },
+    {
+      "term": "Kings",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025481",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12097"
+    },
+    {
+      "term": "Coat of Arms",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300126352",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q14659"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116310665",
+  "isTimelineWork": false,
+  "GalleryNumber": "503"
+}

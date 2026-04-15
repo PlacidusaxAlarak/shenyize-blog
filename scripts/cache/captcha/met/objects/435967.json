@@ -1,0 +1,102 @@
+{
+  "objectID": 435967,
+  "isHighlight": false,
+  "accessionNumber": "29.100.18",
+  "accessionYear": "1929",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT2014.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT2014.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161787,
+      "role": "Artist",
+      "name": "Camille Corot",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115390",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q148475",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Burning of Sodom (formerly \"The Destruction of Sodom\")",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Camille Corot",
+  "artistDisplayBio": "French, Paris 1796–1875 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Corot, Camille",
+  "artistNationality": "French",
+  "artistBeginDate": "1796",
+  "artistEndDate": "1875",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q148475",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115390",
+  "objectDate": "1843 and 1857",
+  "objectBeginDate": 1843,
+  "objectEndDate": 1857,
+  "medium": "Oil on canvas",
+  "dimensions": "36 3/8 x 71 3/8 in. (92.4 x 181.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 92.4,
+        "Width": 181.3
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 12.7,
+        "Height": 125.7303,
+        "Width": 218.4404
+      }
+    }
+  ],
+  "creditLine": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-09-24T04:50:58.447Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435967",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Fire",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300417275",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3196"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911614",
+  "isTimelineWork": false,
+  "GalleryNumber": "803"
+}

@@ -1,0 +1,91 @@
+{
+  "objectID": 267019,
+  "isHighlight": true,
+  "accessionNumber": "1994.182",
+  "accessionYear": "1994",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ph/original/DT1161.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ph/web-large/DT1161.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 56404,
+      "role": "Artist",
+      "name": "David Johnson",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "American Barque \"Jane Tudor,\" Conway Bay",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "David Johnson",
+  "artistDisplayBio": "British",
+  "artistSuffix": "",
+  "artistAlphaSort": "Johnson, David",
+  "artistNationality": "British",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "ca. 1855",
+  "objectBeginDate": 1853,
+  "objectEndDate": 1857,
+  "medium": "Salted paper print from glass negative",
+  "dimensions": "21.9 x 26.7 cm (8 5/8 x 10 1/2 in.)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 21.9,
+        "Width": 26.7
+      }
+    },
+    {
+      "elementName": "Mount",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 39.9,
+        "Width": 56.8
+      }
+    }
+  ],
+  "creditLine": "Purchase, Nancy and Edwin Marks, Joyce and Robert Menschel, and Harriette and Noel Levine Gifts, 1994",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/267019",
+  "tags": [
+    {
+      "term": "Ships",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300082981",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q11446"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q29384055",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

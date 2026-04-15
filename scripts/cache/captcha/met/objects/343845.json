@@ -1,0 +1,108 @@
+{
+  "objectID": 343845,
+  "isHighlight": false,
+  "accessionNumber": "1974.205",
+  "accessionYear": "1974",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP801479.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP801479.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/dp/original/DP854970.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162485,
+      "role": "Artist",
+      "name": "Jan van der Straet, called Stradanus",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011304",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q143595",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "Allegory of America",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jan van der Straet, called Stradanus",
+  "artistDisplayBio": "Netherlandish, Bruges 1523–1605 Florence",
+  "artistSuffix": "",
+  "artistAlphaSort": "Straet, Jan van der, called Stradanus",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1523",
+  "artistEndDate": "1605",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q143595",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011304",
+  "objectDate": "ca. 1587–89",
+  "objectBeginDate": 1582,
+  "objectEndDate": 1594,
+  "medium": "Pen and brown ink, brown wash, heightened with white, over black chalk. Incised",
+  "dimensions": "Overall: 7 1/2 x 10 9/16in. (19 x 26.9cm)",
+  "measurements": [
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 40.6401,
+        "Width": 53.3401
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 19,
+        "Width": 26.9
+      }
+    }
+  ],
+  "creditLine": "Gift of Estate of James Hazen Hyde, 1959",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-07-14T04:51:25.973Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/343845",
+  "tags": [
+    {
+      "term": "Animals",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300249525",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q729"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Female Nudes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+    },
+    {
+      "term": "Trees",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,95 @@
+{
+  "objectID": 204504,
+  "isHighlight": false,
+  "accessionNumber": "64.304.2",
+  "accessionYear": "1964",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-456-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP-456-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP-456-003.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP-456-002.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DT232467.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 163302,
+      "role": "Artist",
+      "name": "Vittore Gambello",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023226",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q4015185",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Statuette",
+  "title": "Seated Hercules in the act of shooting at the stymphalian birds",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Vittore Gambello",
+  "artistDisplayBio": "Italian, Venice 1455/60–1537",
+  "artistSuffix": "",
+  "artistAlphaSort": "Gambello, Vittore",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1455",
+  "artistEndDate": "1537",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q4015185",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500023226",
+  "objectDate": "ca. 1515–20",
+  "objectBeginDate": 1510,
+  "objectEndDate": 1525,
+  "medium": "Bronze",
+  "dimensions": "Overall (confirmed): 11 3/4 × 8 × 5 1/4 in. (29.8 × 20.3 × 13.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Height",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 24.765049
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "confirmed",
+      "elementMeasurements": {
+        "Depth": 13.335027,
+        "Height": 29.84506,
+        "Width": 20.32004
+      }
+    }
+  ],
+  "creditLine": "Gift of C. Ruxton Love Jr., 1964",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Sculpture-Bronze",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-10-04T04:51:17.007Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/204504",
+  "tags": [
+    {
+      "term": "Hercules",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000042",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q122248"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116306785",
+  "isTimelineWork": false,
+  "GalleryNumber": "536"
+}

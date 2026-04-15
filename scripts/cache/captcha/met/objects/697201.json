@@ -1,0 +1,98 @@
+{
+  "objectID": 697201,
+  "isHighlight": false,
+  "accessionNumber": "2015.546",
+  "accessionYear": "2015",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP854935.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP854935.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 163817,
+      "role": "Artist",
+      "name": "Sir Edward John Poynter",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032375",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q465163",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "The West Wind, Lynmouth",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Sir Edward John Poynter",
+  "artistDisplayBio": "British (born France), Paris 1836–1919 London",
+  "artistSuffix": "",
+  "artistAlphaSort": "Poynter, Edward John, Sir",
+  "artistNationality": "British, born France",
+  "artistBeginDate": "1836",
+  "artistEndDate": "1919",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q465163",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500032375",
+  "objectDate": "1866",
+  "objectBeginDate": 1866,
+  "objectEndDate": 1866,
+  "medium": "Watercolor and gouache (bodycolor)",
+  "dimensions": "Sheet: 12 in. × 18 1/4 in. (30.5 × 46.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 30.5,
+        "Width": 46.4
+      }
+    }
+  ],
+  "creditLine": "Harry G. Sperling Fund, 2015",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/697201",
+  "tags": [
+    {
+      "term": "Rivers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    },
+    {
+      "term": "Rain",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055377",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7925"
+    },
+    {
+      "term": "Wind",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055395",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8094"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

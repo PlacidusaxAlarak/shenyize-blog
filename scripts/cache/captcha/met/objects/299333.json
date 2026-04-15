@@ -1,0 +1,120 @@
+{
+  "objectID": 299333,
+  "isHighlight": false,
+  "accessionNumber": "2011.496a–d",
+  "accessionYear": "2011",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 61501,
+      "role": "Artist",
+      "name": "Matt Keegan",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500333928",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q24765381",
+      "gender": ""
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "Untitled (Group 6)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Matt Keegan",
+  "artistDisplayBio": "American, born Manhasset, New York, 1976",
+  "artistSuffix": "",
+  "artistAlphaSort": "Keegan, Matt",
+  "artistNationality": "American",
+  "artistBeginDate": "1976",
+  "artistEndDate": "9999",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q24765381",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500333928",
+  "objectDate": "2011",
+  "objectBeginDate": 2011,
+  "objectEndDate": 2011,
+  "medium": "Chromogenic prints attached to sheet metal with spray-finished magnets",
+  "dimensions": "Overall: 121.9 x 243.8 cm (48 x 96 in.)\r\n2011.496.1: 20.3 x 25.5 cm (8 x 10 1/16 in.)\r\n2011.496.2: 35.5 x 24.2 cm (9 1/2 x 14 in.)\r\n2011.496.3: 41.2 x 60.9 cm (16 1/4 x 24 in.)\r\n2011.496.4: 16.9 x 25.5 cm (6 5/8 x 10 1/16 in.)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 41.2,
+        "Width": 60.9
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 35.5,
+        "Width": 24.2
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 20.3,
+        "Width": 25.5
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 121.92024,
+        "Width": 243.84048
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 16.9,
+        "Width": 25.5
+      }
+    }
+  ],
+  "creditLine": "Purchase, Vital Projects Fund Inc. Gift, through Joyce and Robert Menschel, 2011",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "© Care of the artist and D'Amelio Terras",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/299333",
+  "tags": [
+    {
+      "term": "Animals",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300249525",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q729"
+    },
+    {
+      "term": "Streets",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008247",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q79007"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

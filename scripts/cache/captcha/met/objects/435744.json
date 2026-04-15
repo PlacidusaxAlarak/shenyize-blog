@@ -1,0 +1,105 @@
+{
+  "objectID": 435744,
+  "isHighlight": false,
+  "accessionNumber": "66.167",
+  "accessionYear": "1966",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP123935.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP123935.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-66_167-2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-66_167-3.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 161703,
+      "role": "Artist",
+      "name": "François Boucher",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032143",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q180932",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Virgin and Child with the Young Saint John the Baptist and Angels",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "François Boucher",
+  "artistDisplayBio": "French, Paris 1703–1770 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Boucher, François",
+  "artistNationality": "French",
+  "artistBeginDate": "1703",
+  "artistEndDate": "1770",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q180932",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500032143",
+  "objectDate": "1765",
+  "objectBeginDate": 1765,
+  "objectEndDate": 1765,
+  "medium": "Oil on canvas",
+  "dimensions": "Oval, 16 1/8 x 13 5/8 in. (41 x 34.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 41,
+        "Width": 34.6
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 8.255,
+        "Height": 53.9751,
+        "Width": 46.9901
+      }
+    }
+  ],
+  "creditLine": "Gift of Adelaide Milton de Groot, in memory of the de Groot and Hawley families, 1966",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-27T04:50:31.807Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435744",
+  "tags": [
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Madonna and Child",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+    },
+    {
+      "term": "Saint John the Baptist",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912320",
+  "isTimelineWork": false,
+  "GalleryNumber": "631"
+}

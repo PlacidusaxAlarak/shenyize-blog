@@ -1,0 +1,130 @@
+{
+  "objectID": 668088,
+  "isHighlight": false,
+  "accessionNumber": "46.140.11",
+  "accessionYear": "1946",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP839594.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP839594.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 166067,
+      "role": "Artist",
+      "name": "After Sir Lawrence Alma-Tadema",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008100",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q240526",
+      "gender": ""
+    },
+    {
+      "constituentID": 83407,
+      "role": "Etcher",
+      "name": "Leopold Löwenstam",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 82465,
+      "role": "Publisher",
+      "name": "Thomas McLean",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q23831119",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Hide and Seek",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "After",
+  "artistDisplayName": "Sir Lawrence Alma-Tadema",
+  "artistDisplayBio": "British (born The Netherlands), Dronrijp 1836–1912 Wiesbaden",
+  "artistSuffix": "",
+  "artistAlphaSort": "Alma-Tadema, Lawrence, Sir",
+  "artistNationality": "British, born The Netherlands",
+  "artistBeginDate": "1836",
+  "artistEndDate": "1912",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q240526",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500008100",
+  "objectDate": "1891",
+  "objectBeginDate": 1891,
+  "objectEndDate": 1891,
+  "medium": "Etching on tissue; remarque proof",
+  "dimensions": "Image: 14 15/16 × 9 1/8 in. (38 × 23.2 cm)\r\nPlate: 17 15/16 × 11 1/8 in. (45.5 × 28.2 cm)\r\nSheet: 19 9/16 × 15 1/8 in. (49.7 × 38.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 49.7,
+        "Width": 38.4
+      }
+    },
+    {
+      "elementName": "Plate",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 45.5,
+        "Width": 28.2
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 38,
+        "Width": 23.2
+      }
+    }
+  ],
+  "creditLine": "Harris Brisbane Dick Fund, 1946",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/668088",
+  "tags": [
+    {
+      "term": "Obelisks",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300007021",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q170980"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Playing",
+      "AAT_URL": null,
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1150958"
+    },
+    {
+      "term": "Rome",
+      "AAT_URL": "http://vocab.getty.edu/page/tgn/7000874",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q220"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

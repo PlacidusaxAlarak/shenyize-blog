@@ -1,0 +1,92 @@
+{
+  "objectID": 436004,
+  "isHighlight": false,
+  "accessionNumber": "29.100.62",
+  "accessionYear": "1929",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT887.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT887.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161790,
+      "role": "Artist",
+      "name": "Gustave Courbet",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010927",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q34618",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Woman in the Waves",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Gustave Courbet",
+  "artistDisplayBio": "French, Ornans 1819–1877 La Tour-de-Peilz",
+  "artistSuffix": "",
+  "artistAlphaSort": "Courbet, Gustave",
+  "artistNationality": "French",
+  "artistBeginDate": "1819",
+  "artistEndDate": "1877",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q34618",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010927",
+  "objectDate": "1868",
+  "objectBeginDate": 1868,
+  "objectEndDate": 1868,
+  "medium": "Oil on canvas",
+  "dimensions": "25 3/4 x 21 1/4 in. (65.4 x 54 cm)",
+  "measurements": [
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 13.335,
+        "Height": 96.5202,
+        "Width": 86.3602
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 65.4,
+        "Width": 54
+      }
+    }
+  ],
+  "creditLine": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-04-07T04:57:58.963Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436004",
+  "tags": [
+    {
+      "term": "Female Nudes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q39013",
+  "isTimelineWork": true,
+  "GalleryNumber": "811"
+}

@@ -1,0 +1,116 @@
+{
+  "objectID": 265215,
+  "isHighlight": false,
+  "accessionNumber": "1987.1100.174",
+  "accessionYear": "1987",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161754,
+      "role": "Artist",
+      "name": "Henri Cartier-Bresson",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115484",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q156567",
+      "gender": ""
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "Jaipur, India",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Henri Cartier-Bresson",
+  "artistDisplayBio": "French, Chanteloup-en-Brie 1908–2004 Montjustin",
+  "artistSuffix": "",
+  "artistAlphaSort": "Cartier-Bresson, Henri",
+  "artistNationality": "French",
+  "artistBeginDate": "1908",
+  "artistEndDate": "2004",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q156567",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115484",
+  "objectDate": "1948",
+  "objectBeginDate": 1948,
+  "objectEndDate": 1948,
+  "medium": "Gelatin silver print",
+  "dimensions": "34.2 x 22.6 cm (13 7/16 x 8 7/8 in.)",
+  "measurements": [
+    {
+      "elementName": "Mount",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 34.2,
+        "Width": 22.6
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 34.2,
+        "Width": 22.6
+      }
+    }
+  ],
+  "creditLine": "Ford Motor Company Collection, Gift of Ford Motor Company and John C. Waddell, 1987",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "© Henri Cartier-Bresson / Magnum Photos",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/265215",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Elephants",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250160",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7378"
+    },
+    {
+      "term": "Horses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+    },
+    {
+      "term": "Street Scene",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300386103",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7766995"
+    },
+    {
+      "term": "Students",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025909",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q48282"
+    },
+    {
+      "term": "Teachers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025529",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q37226"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

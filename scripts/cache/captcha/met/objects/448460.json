@@ -1,0 +1,108 @@
+{
+  "objectID": 448460,
+  "isHighlight": false,
+  "accessionNumber": "30.95.174.2",
+  "accessionYear": "1930",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP107558.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP107558.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/is/original/sf30-95-174-1a.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 134773,
+      "role": "Artist",
+      "name": "Painting by Muhammad Zaman",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500116628",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2743344",
+      "gender": ""
+    }
+  ],
+  "department": "Islamic Art",
+  "objectName": "Illustrated  album leaf",
+  "title": "\"A Night-time Gathering\", Folio from the Davis Album",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Painting by",
+  "artistDisplayName": "Muhammad Zaman",
+  "artistDisplayBio": "Iranian, active 1649–1700",
+  "artistSuffix": "",
+  "artistAlphaSort": "Muhammad Zaman",
+  "artistNationality": "Iranian",
+  "artistBeginDate": "1624",
+  "artistEndDate": "1725",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2743344",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500116628",
+  "objectDate": "dated 1664–65",
+  "objectBeginDate": 1664,
+  "objectEndDate": 1665,
+  "medium": "Ink, opaque watercolor, and gold on paper",
+  "dimensions": "Page: H. 13 1/8 in. (33.3 cm)\r\n           W.  8 1/4 in. (21 cm)\r\nMat:  H. 19 1/4 in. (48.9 cm)\r\n         W. 14 1/4 in. (36.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 33.3,
+        "Width": 21
+      }
+    },
+    {
+      "elementName": "Mat",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 48.8951,
+        "Width": 36.195072
+      }
+    }
+  ],
+  "creditLine": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+  "geographyType": "Made in",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "Iran or India",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Codices",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-01-16T04:50:45.187Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/448460",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Flowers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+    },
+    {
+      "term": "Leaves",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300011892",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q33971"
+    },
+    {
+      "term": "Night",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300133095",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q575"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q87121973",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

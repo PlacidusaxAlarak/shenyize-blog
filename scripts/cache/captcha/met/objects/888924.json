@@ -1,0 +1,111 @@
+{
+  "objectID": 888924,
+  "isHighlight": false,
+  "accessionNumber": "2022.264",
+  "accessionYear": "2022",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25141-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-25141-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 123945,
+      "role": "Artist",
+      "name": "Charlotte Eustache Sophie de Fuligny Damas, marquise de Grollier",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Still Life with a Vase of Flowers, Melon, Peaches, and Grapes",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Charlotte Eustache Sophie de Fuligny Damas, marquise de Grollier",
+  "artistDisplayBio": "French, Paris 1741–1828 Epinay-sur-Seine",
+  "artistSuffix": "",
+  "artistAlphaSort": "Fuligny Damas, Charlotte Eustache Sophie de, marquise de Grollier",
+  "artistNationality": "French",
+  "artistBeginDate": "1741",
+  "artistEndDate": "1828",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "1780",
+  "objectBeginDate": 1780,
+  "objectEndDate": 1780,
+  "medium": "Oil on canvas",
+  "dimensions": "18 1/16 × 21 7/8 in. (45.8 × 55.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 45.8,
+        "Width": 55.5
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 63.500126,
+        "Width": 73.02515
+      }
+    }
+  ],
+  "creditLine": "Purchase, Friends of European Paintings Gifts, 2022",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-26T04:49:32.87Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/888924",
+  "tags": [
+    {
+      "term": "Fruit",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+    },
+    {
+      "term": "Grapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379338",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10978"
+    },
+    {
+      "term": "Peaches",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266272",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q13202263"
+    },
+    {
+      "term": "Flowers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+    },
+    {
+      "term": "Still Life",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q113727375",
+  "isTimelineWork": false,
+  "GalleryNumber": "632"
+}

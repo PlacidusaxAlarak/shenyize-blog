@@ -1,0 +1,88 @@
+{
+  "objectID": 282883,
+  "isHighlight": true,
+  "accessionNumber": "1999.240",
+  "accessionYear": "1999",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 55827,
+      "role": "Artist",
+      "name": "Michal Rovner",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500114667",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1930439",
+      "gender": "Female"
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Painting",
+  "title": "Border #8",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Michal Rovner",
+  "artistDisplayBio": "Israeli, born 1957",
+  "artistSuffix": "",
+  "artistAlphaSort": "Rovner, Michal",
+  "artistNationality": "Israeli",
+  "artistBeginDate": "1957",
+  "artistEndDate": "9999",
+  "artistGender": "Female",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1930439",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500114667",
+  "objectDate": "1997–98",
+  "objectBeginDate": 1997,
+  "objectEndDate": 1998,
+  "medium": "Paint on canvas",
+  "dimensions": "128.9 x 169.5 cm (50 3/4 x 66 3/4 in.)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 128.9,
+        "Width": 169.5
+      }
+    }
+  ],
+  "creditLine": "Purchase, The Horace W. Goldsmith Foundation Gift, through Joyce and Robert Menschel, 1999",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "© Michal Rovner",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/282883",
+  "tags": [
+    {
+      "term": "Roads",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008217",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q34442"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q83541085",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

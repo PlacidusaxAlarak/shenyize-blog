@@ -1,0 +1,114 @@
+{
+  "objectID": 211335,
+  "isHighlight": false,
+  "accessionNumber": "2001.593",
+  "accessionYear": "2001",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP236930.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP236930.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 165058,
+      "role": "Artist",
+      "name": "Probably by Antonio Rossellino",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002855",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q256079",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Relief",
+  "title": "Saint Jerome in the Wilderness",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Probably by",
+  "artistDisplayName": "Antonio Rossellino",
+  "artistDisplayBio": "Italian, Settignano 1427–ca. 1479 Florence",
+  "artistSuffix": "",
+  "artistAlphaSort": "Rossellino, Antonio",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1427",
+  "artistEndDate": "1479",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q256079",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500002855",
+  "objectDate": "ca. 1470",
+  "objectBeginDate": 1465,
+  "objectEndDate": 1475,
+  "medium": "Marble",
+  "dimensions": "Overall (confirmed): 16 5/8 × 15 1/4 × 2 7/8 in., 31 lb. (42.2 × 38.7 × 7.3 cm, 14.0615kg)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "historic dimensions, superceded; wt. confirmed",
+      "elementMeasurements": {
+        "Height": 42.5451,
+        "Weight": 14.0615,
+        "Width": 37.9413
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "confirmed",
+      "elementMeasurements": {
+        "Depth": 7.3025146,
+        "Height": 42.227585,
+        "Weight": 14.061508,
+        "Width": 38.735077
+      }
+    }
+  ],
+  "creditLine": "Purchase, Rogers Fund and Lila Acheson Wallace Gift, 2001",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Sculpture",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-31T04:54:36.6Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/211335",
+  "tags": [
+    {
+      "term": "Skulls",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300191856",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q13147"
+    },
+    {
+      "term": "Deer",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250308",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q685795"
+    },
+    {
+      "term": "Lions",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300310388",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q140"
+    },
+    {
+      "term": "Saint Jerome",
+      "AAT_URL": "http://vocab.getty.edu/page/ulan/500060933",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q44248"
+    },
+    {
+      "term": "Crucifixion",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116373897",
+  "isTimelineWork": false,
+  "GalleryNumber": "500"
+}

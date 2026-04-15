@@ -1,0 +1,124 @@
+{
+  "objectID": 447744,
+  "isHighlight": false,
+  "accessionNumber": "23.264.2",
+  "accessionYear": "1923",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP235937.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP235937.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/is/original/sf23-264-2a.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/55121.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/sf23-264-2b.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/sf23-264-2c.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/sf23-264-2d.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/55120.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/23.264.2a.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/23.264.2b.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 134774,
+      "role": "Artist",
+      "name": "Attributed to Kesav Das",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 134775,
+      "role": "Artist",
+      "name": "Attributed to Mah Muhammad",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Islamic Art",
+  "objectName": "Folio from an illustrated manuscript",
+  "title": "\"'Umar Walks around Fulad Castle, Meets a Foot Soldier and Kicks Him to the Ground\", Folio from a Hamzanama (The Adventures of Hamza)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Attributed to",
+  "artistDisplayName": "Kesav Das",
+  "artistDisplayBio": "Indian, active ca. 1570–1604",
+  "artistSuffix": "",
+  "artistAlphaSort": "Kesav Das",
+  "artistNationality": "Indian",
+  "artistBeginDate": "1545",
+  "artistEndDate": "1630",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "ca. 1570",
+  "objectBeginDate": 1545,
+  "objectEndDate": 1595,
+  "medium": "Ink, opaque watercolor, and gold on cloth; mounted on paper",
+  "dimensions": "Painting: Ht. 28 3/4 in. (73 cm)\r\n                 W. 22 1/4 in. (56.5 cm)\r\nFramed: Ht. 37 in. (94 cm)\r\n                 W. 30 5/16 (77 cm)\r\n                 Th. 1 15/16 in. (5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "Painting",
+      "elementMeasurements": {
+        "Height": 73,
+        "Width": 56.5
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5,
+        "Height": 94,
+        "Width": 77
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1923",
+  "geographyType": "Attributed to",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "India",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Codices",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-10-02T04:53:22.577Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/447744",
+  "tags": [
+    {
+      "term": "Castles",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300006891",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q23413"
+    },
+    {
+      "term": "Soldiers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Trees",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q107351798",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

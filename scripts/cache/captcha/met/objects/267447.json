@@ -1,0 +1,96 @@
+{
+  "objectID": 267447,
+  "isHighlight": false,
+  "accessionNumber": "28.127.6",
+  "accessionYear": "1928",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162479,
+      "role": "Artist",
+      "name": "Alfred Stieglitz",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024301",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q313055",
+      "gender": ""
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "Music – A Sequence of Ten Cloud Photographs, No. 1",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Alfred Stieglitz",
+  "artistDisplayBio": "American, Hoboken, New Jersey 1864–1946 New York",
+  "artistSuffix": "",
+  "artistAlphaSort": "Stieglitz, Alfred",
+  "artistNationality": "American",
+  "artistBeginDate": "1864",
+  "artistEndDate": "1946",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q313055",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500024301",
+  "objectDate": "1922",
+  "objectBeginDate": 1922,
+  "objectEndDate": 1922,
+  "medium": "Platinum print",
+  "dimensions": "19.2 x 24.1 cm. (7  9/16  x 9  1/2  in.)",
+  "measurements": [
+    {
+      "elementName": "Mount",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 19.6,
+        "Width": 24.1
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 19.2,
+        "Width": 24.1
+      }
+    }
+  ],
+  "creditLine": "Gift of David A. Schulte, 1928",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/267447",
+  "tags": [
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    },
+    {
+      "term": "Clouds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300343840",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8074"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

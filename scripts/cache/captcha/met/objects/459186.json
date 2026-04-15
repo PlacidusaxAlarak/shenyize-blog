@@ -1,0 +1,88 @@
+{
+  "objectID": 459186,
+  "isHighlight": true,
+  "accessionNumber": "1975.1.410",
+  "accessionYear": "1975",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP324215.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/rl/web-large/DP324215.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162263,
+      "role": "Artist",
+      "name": "Antonio Pollaiuolo",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500013242",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q318640",
+      "gender": ""
+    }
+  ],
+  "department": "Robert Lehman Collection",
+  "objectName": "Drawing",
+  "title": "Study for the Equestrian Monument to Francesco Sforza",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Antonio Pollaiuolo",
+  "artistDisplayBio": "Italian, Florence ca. 1432–1498 Rome",
+  "artistSuffix": "",
+  "artistAlphaSort": "Pollaiuolo, Antonio",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1432",
+  "artistEndDate": "1498",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q318640",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500013242",
+  "objectDate": "early to mid 1480s",
+  "objectBeginDate": 1480,
+  "objectEndDate": 1487,
+  "medium": "Pen and brown ink, light and dark brown wash; outlines of the horse and rider pricked for transfer.",
+  "dimensions": "11 1/16 x 10 in.  (28.1 x 25.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 28.1,
+        "Width": 25.4
+      }
+    }
+  ],
+  "creditLine": "Robert Lehman Collection, 1975",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-04-07T04:57:58.963Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/459186",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Horses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q29385296",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

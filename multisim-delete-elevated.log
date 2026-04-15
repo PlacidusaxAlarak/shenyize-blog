@@ -1,0 +1,163 @@
+﻿Starting elevated cleanup
+Stopping NI services/processes
+takeown G:\multisim\Shared
+
+成功: 此文件(或文件夹): "G:\multisim\Shared" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\LogosXT" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\mDNS Responder" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\NI Error Reporting" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\niauth" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\nisvcloc" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\Security" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\TraceEngine" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\LogosXT\nilxtcor.dll" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\mDNS Responder\nimdnsNSP.dll" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\NI Error Reporting\nierserver.exe" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\NI Error Reporting\niwsrp.dll" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\niauth\niauth_daemon.exe" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\niauth\niPortableRegistry.dll" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\nisvcloc\nisvcloc.exe" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\Security\nidmsrv.exe" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\Security\nidm_client_thinauth.dll" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\TraceEngine\ni_traceengine.dll" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+takeown exit: 0
+icacls G:\multisim\Shared
+已处理的文件: G:\multisim\Shared
+已处理的文件: G:\multisim\Shared\LogosXT
+已处理的文件: G:\multisim\Shared\mDNS Responder
+已处理的文件: G:\multisim\Shared\NI Error Reporting
+已处理的文件: G:\multisim\Shared\niauth
+已处理的文件: G:\multisim\Shared\nisvcloc
+已处理的文件: G:\multisim\Shared\Security
+已处理的文件: G:\multisim\Shared\TraceEngine
+已处理的文件: G:\multisim\Shared\LogosXT\nilxtcor.dll
+已处理的文件: G:\multisim\Shared\mDNS Responder\nimdnsNSP.dll
+已处理的文件: G:\multisim\Shared\NI Error Reporting\nierserver.exe
+已处理的文件: G:\multisim\Shared\NI Error Reporting\niwsrp.dll
+已处理的文件: G:\multisim\Shared\niauth\niauth_daemon.exe
+已处理的文件: G:\multisim\Shared\niauth\niPortableRegistry.dll
+已处理的文件: G:\multisim\Shared\nisvcloc\nisvcloc.exe
+已处理的文件: G:\multisim\Shared\Security\nidmsrv.exe
+已处理的文件: G:\multisim\Shared\Security\nidm_client_thinauth.dll
+已处理的文件: G:\multisim\Shared\TraceEngine\ni_traceengine.dll
+已成功处理 18 个文件; 处理 0 个文件时失败
+icacls exit: 0
+Deleting 1 top-level item(s)
+ERROR
+Remove-Item : 无法删除项 G:\multisim\Shared\LogosXT\nilxtcor.dll: 对路径“nilxtcor.dll”的访问被拒绝。
+所在位置 行:23 字符: 5
++     Remove-Item -LiteralPath $item.FullName -Recurse -Force -ErrorAct ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (nilxtcor.dll:FileInfo) [Remove-Item], UnauthorizedAccessException
+    + FullyQualifiedErrorId : RemoveFileSystemItemUnAuthorizedAccess,Microsoft.PowerShell.Commands.RemoveItemCommand
+
+Second elevated cleanup pass
+Stopping services: niauth, NIDomainService, NiSvcLoc, LkCitadelServer, lkClassAds, lkTimeSync, NIApplicationWebServer64
+Running taskkill fallback for lk*/ni* processes
+
+成功: 此文件(或文件夹): "G:\multisim\Shared" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\LogosXT" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\mDNS Responder" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\NI Error Reporting" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\niauth" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\nisvcloc" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\Security" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\TraceEngine" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\LogosXT\nilxtcor.dll" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\mDNS Responder\nimdnsNSP.dll" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\NI Error Reporting\nierserver.exe" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\NI Error Reporting\niwsrp.dll" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\niauth\niauth_daemon.exe" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\niauth\niPortableRegistry.dll" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\nisvcloc\nisvcloc.exe" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\Security\nidmsrv.exe" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\Security\nidm_client_thinauth.dll" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+
+成功: 此文件(或文件夹): "G:\multisim\Shared\TraceEngine\ni_traceengine.dll" 现在由用户 "DESKTOP-M6P8C6K\Hutao" 所有。
+已处理的文件: G:\multisim\Shared
+已处理的文件: G:\multisim\Shared\LogosXT
+已处理的文件: G:\multisim\Shared\mDNS Responder
+已处理的文件: G:\multisim\Shared\NI Error Reporting
+已处理的文件: G:\multisim\Shared\niauth
+已处理的文件: G:\multisim\Shared\nisvcloc
+已处理的文件: G:\multisim\Shared\Security
+已处理的文件: G:\multisim\Shared\TraceEngine
+已处理的文件: G:\multisim\Shared\LogosXT\nilxtcor.dll
+已处理的文件: G:\multisim\Shared\mDNS Responder\nimdnsNSP.dll
+已处理的文件: G:\multisim\Shared\NI Error Reporting\nierserver.exe
+已处理的文件: G:\multisim\Shared\NI Error Reporting\niwsrp.dll
+已处理的文件: G:\multisim\Shared\niauth\niauth_daemon.exe
+已处理的文件: G:\multisim\Shared\niauth\niPortableRegistry.dll
+已处理的文件: G:\multisim\Shared\nisvcloc\nisvcloc.exe
+已处理的文件: G:\multisim\Shared\Security\nidmsrv.exe
+已处理的文件: G:\multisim\Shared\Security\nidm_client_thinauth.dll
+已处理的文件: G:\multisim\Shared\TraceEngine\ni_traceengine.dll
+已成功处理 18 个文件; 处理 0 个文件时失败
+SECOND PASS ERROR
+Remove-Item : 无法删除项 G:\multisim\Shared\mDNS Responder\nimdnsNSP.dll: 对路径“nimdnsNSP.dll”的访问被拒绝。
+所在位置 行:19 字符: 5
++     Remove-Item -LiteralPath $item.FullName -Recurse -Force -ErrorAct ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (nimdnsNSP.dll:FileInfo) [Remove-Item], UnauthorizedAccessException
+    + FullyQualifiedErrorId : RemoveFileSystemItemUnAuthorizedAccess,Microsoft.PowerShell.Commands.RemoveItemCommand
+
+Third elevated cleanup pass
+DELETED: G:\multisim\Shared\NI Error Reporting\nierserver.exe
+DELETED: G:\multisim\Shared\Security\nidm_client_thinauth.dll
+DELETED: G:\multisim\Shared\TraceEngine\ni_traceengine.dll
+DELETED: G:\multisim\Shared\NI Error Reporting\niwsrp.dll
+DELETED: G:\multisim\Shared\niauth\niPortableRegistry.dll
+IMMEDIATE DELETE FAILED: G:\multisim\Shared\mDNS Responder\nimdnsNSP.dll :: 对路径“G:\multisim\Shared\mDNS Responder\nimdnsNSP.dll”的访问被拒绝。
+DELETED: G:\multisim\Shared\niauth\niauth_daemon.exe
+DELETED: G:\multisim\Shared\nisvcloc\nisvcloc.exe
+DELETED: G:\multisim\Shared\Security\nidmsrv.exe
+DELETED: G:\multisim\Shared\NI Error Reporting
+IMMEDIATE DELETE FAILED: G:\multisim\Shared\mDNS Responder :: 对路径“nimdnsNSP.dll”的访问被拒绝。
+DELETED: G:\multisim\Shared\TraceEngine
+DELETED: G:\multisim\Shared\Security
+DELETED: G:\multisim\Shared\nisvcloc
+DELETED: G:\multisim\Shared\niauth
+IMMEDIATE DELETE FAILED: G:\multisim\Shared :: 对路径“nimdnsNSP.dll”的访问被拒绝。
+FAILED TO SCHEDULE: G:\multisim\Shared\mDNS Responder\nimdnsNSP.dll (Win32=3)
+FAILED TO SCHEDULE: G:\multisim\Shared\mDNS Responder (Win32=3)
+FAILED TO SCHEDULE: G:\multisim\Shared (Win32=3)
+FAILED TO SCHEDULE: G:\multisim\Shared (Win32=3)
+Third pass complete
+Queueing pending delete entries
+QUEUED: \??\G:\multisim\Shared\mDNS Responder\nimdnsNSP.dll
+QUEUED: \??\G:\multisim\Shared\mDNS Responder
+QUEUED: \??\G:\multisim\Shared
+Pending delete entries written

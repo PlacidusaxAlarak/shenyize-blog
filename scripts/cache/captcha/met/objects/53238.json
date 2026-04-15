@@ -1,0 +1,148 @@
+{
+  "objectID": 53238,
+  "isHighlight": false,
+  "accessionNumber": "2015.300.69a, b",
+  "accessionYear": "2015",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP361158.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP361158.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/DP361168.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP361167.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP361169.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/SC-2015_300_69ab-001.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/SC-2015_300_69ab-002a.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/SC-2015_300_69ab-002b.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 12500,
+      "role": "Artist",
+      "name": "Painting by Kano Naizen",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500332387",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q374744",
+      "gender": ""
+    },
+    {
+      "constituentID": 18394,
+      "role": "Artist",
+      "name": "Inscribed by Takuan Sōhō",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q632866",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Hanging scrolls",
+  "title": "Zheng Huangniu and Yushanzhu",
+  "culture": "Japan",
+  "period": "Momoyama period (1573–1615)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Painting by",
+  "artistDisplayName": "Kano Naizen",
+  "artistDisplayBio": "Japanese, 1570–1616",
+  "artistSuffix": "",
+  "artistAlphaSort": "Kano Naizen",
+  "artistNationality": "Japanese",
+  "artistBeginDate": "1570",
+  "artistEndDate": "1616",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q374744",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500332387",
+  "objectDate": "early 17th century",
+  "objectBeginDate": 1600,
+  "objectEndDate": 1633,
+  "medium": "Pair of hanging scrolls; ink on paper",
+  "dimensions": "Image (a): 44 in. × 18 11/16 in. (111.7 × 47.4 cm)\r\nOverall with mounting (a): 78 11/16 × 24 5/8 in. (199.8 × 62.6 cm)\r\nOverall with knobs (a): 78 11/16 × 26 9/16 in. (199.8 × 67.5 cm)\r\nImage (b): 44 1/16 × 18 11/16 in. (111.9 × 47.4 cm)\r\nOverall with mounting (b): 78 15/16 × 24 1/2 in. (200.5 × 62.3 cm)\r\nOverall with knobs (b): 78 15/16 × 26 9/16 in. (200.5 × 67.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall with mounting",
+      "elementDescription": "b",
+      "elementMeasurements": {
+        "Height": 200.5,
+        "Width": 62.3
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": "b",
+      "elementMeasurements": {
+        "Height": 111.9,
+        "Width": 47.4
+      }
+    },
+    {
+      "elementName": "Overall with mounting",
+      "elementDescription": "a",
+      "elementMeasurements": {
+        "Height": 199.8,
+        "Width": 62.6
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": "a",
+      "elementMeasurements": {
+        "Height": 111.7,
+        "Width": 47.4
+      }
+    },
+    {
+      "elementName": "Overall with knobs",
+      "elementDescription": "a",
+      "elementMeasurements": {
+        "Height": 199.8,
+        "Width": 67.5
+      }
+    },
+    {
+      "elementName": "Overall with knobs",
+      "elementDescription": "b",
+      "elementMeasurements": {
+        "Height": 200.5,
+        "Width": 67.4
+      }
+    }
+  ],
+  "creditLine": "Mary Griggs Burke Collection, Gift of the Mary and Jackson Burke Foundation, 2015",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/53238",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Donkeys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265959",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3537778"
+    },
+    {
+      "term": "Monks",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025765",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q733786"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78759931",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

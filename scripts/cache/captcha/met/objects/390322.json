@@ -1,0 +1,104 @@
+{
+  "objectID": 390322,
+  "isHighlight": false,
+  "accessionNumber": "2018.839.122",
+  "accessionYear": "2018",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP-26496-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP-26496-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 80087,
+      "role": "Artist",
+      "name": "John William Orr",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 102507,
+      "role": "Designer",
+      "name": "Monument designed by William Wallace",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 102502,
+      "role": "Publisher",
+      "name": "C. G. Graham and Co.",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Plan of a Washington Monument",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "John William Orr",
+  "artistDisplayBio": "American (born, Ireland) 1815–1887 Jersey City, New Jersey",
+  "artistSuffix": "",
+  "artistAlphaSort": "Orr, John William",
+  "artistNationality": "American, born Ireland",
+  "artistBeginDate": "1815",
+  "artistEndDate": "1887",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "1848",
+  "objectBeginDate": 1848,
+  "objectEndDate": 1848,
+  "medium": "Wood engraving",
+  "dimensions": "Sheet: 23 13/16 × 14 9/16 in. (60.5 × 37 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 60.5,
+        "Width": 37
+      }
+    }
+  ],
+  "creditLine": "Bequest of Herbert Mitchell, 2008",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/390322",
+  "tags": [
+    {
+      "term": "Monuments",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300006958",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4989906"
+    },
+    {
+      "term": "George Washington",
+      "AAT_URL": "http://vocab.getty.edu/page/ulan/500126198",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q23"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

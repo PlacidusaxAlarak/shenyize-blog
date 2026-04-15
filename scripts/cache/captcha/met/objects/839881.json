@@ -1,0 +1,93 @@
+{
+  "objectID": 839881,
+  "isHighlight": false,
+  "accessionNumber": "2020.145",
+  "accessionYear": "2020",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP-19561-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP-19561-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 211306,
+      "role": "Artist",
+      "name": "Clementine de Brelaz",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": "Female"
+    },
+    {
+      "constituentID": 211374,
+      "role": "Lithographer",
+      "name": "Manuel Luis",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "View of Sintra with the Castanheiros hills in the background",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Clementine de Brelaz",
+  "artistDisplayBio": "Portuguese, 1811–1892",
+  "artistSuffix": "",
+  "artistAlphaSort": "Brelaz, Clementine de",
+  "artistNationality": "Portuguese",
+  "artistBeginDate": "1811",
+  "artistEndDate": "1892",
+  "artistGender": "Female",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "1840",
+  "objectBeginDate": 1840,
+  "objectEndDate": 1840,
+  "medium": "Lithograph on chinecollé on a larger support sheet",
+  "dimensions": "Sheet (Support sheet): 13 9/16 in. × 21 in. (34.5 × 53.4 cm)\r\nSheet (Sheet with image): 7 7/8 in. × 12 in. (20 × 30.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": "Support sheet",
+      "elementMeasurements": {
+        "Height": 34.5,
+        "Width": 53.4
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": "Sheet with image",
+      "elementMeasurements": {
+        "Height": 20,
+        "Width": 30.5
+      }
+    }
+  ],
+  "creditLine": "Purchase, Friends of Drawings and Prints Gifts, 2020",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/839881",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

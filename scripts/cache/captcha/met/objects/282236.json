@@ -1,0 +1,93 @@
+{
+  "objectID": 282236,
+  "isHighlight": false,
+  "accessionNumber": "1998.139",
+  "accessionYear": "1998",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161905,
+      "role": "Artist",
+      "name": "Lee Friedlander",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500014327",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q711391",
+      "gender": ""
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "Galax, Virginia",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Lee Friedlander",
+  "artistDisplayBio": "American, born Aberdeen, Washington, 1934",
+  "artistSuffix": "",
+  "artistAlphaSort": "Friedlander, Lee",
+  "artistNationality": "American",
+  "artistBeginDate": "1934",
+  "artistEndDate": "9999",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q711391",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500014327",
+  "objectDate": "1962",
+  "objectBeginDate": 1962,
+  "objectEndDate": 1962,
+  "medium": "Gelatin silver print",
+  "dimensions": "14.7 x 22.4 cm (5 13/16 x 8 13/16 in. )",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 14.7,
+        "Width": 22.4
+      }
+    }
+  ],
+  "creditLine": "Gift of Maria Morris Hambourg, 1998",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/282236",
+  "tags": [
+    {
+      "term": "Television",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300249920",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q289"
+    },
+    {
+      "term": "Interiors",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+    },
+    {
+      "term": "Beds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300038697",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q42177"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

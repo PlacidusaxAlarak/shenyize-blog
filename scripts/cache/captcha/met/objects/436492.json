@@ -1,0 +1,102 @@
+{
+  "objectID": 436492,
+  "isHighlight": false,
+  "accessionNumber": "80.3.674",
+  "accessionYear": "1880",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/EP371.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/EP371.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/Ghirlandaio giornate.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 161929,
+      "role": "Artist",
+      "name": "Domenico Ghirlandaio (Domenico Bigordi)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115228",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q191423",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Saint Christopher and the Infant Christ",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Domenico Ghirlandaio (Domenico Bigordi)",
+  "artistDisplayBio": "Italian, Florence 1448/49–1494 Florence",
+  "artistSuffix": "",
+  "artistAlphaSort": "Ghirlandaio, Domenico (Domenico Bigordi)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1448",
+  "artistEndDate": "1494",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q191423",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115228",
+  "objectDate": "",
+  "objectBeginDate": 1469,
+  "objectEndDate": 1494,
+  "medium": "Fresco",
+  "dimensions": "112 x 59 in. (284.5 x 149.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 284.5,
+        "Width": 149.9
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Weight": 181.43881
+      }
+    }
+  ],
+  "creditLine": "Gift of Cornelius Vanderbilt, 1880",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-10-29T04:53:29.753Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436492",
+  "tags": [
+    {
+      "term": "Rivers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+    },
+    {
+      "term": "Saint Christopher",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000586",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q193507"
+    },
+    {
+      "term": "Jesus",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q3946909",
+  "isTimelineWork": true,
+  "GalleryNumber": "961"
+}

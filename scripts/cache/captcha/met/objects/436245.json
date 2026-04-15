@@ -1,0 +1,86 @@
+{
+  "objectID": 436245,
+  "isHighlight": false,
+  "accessionNumber": "17.190.5",
+  "accessionYear": "1917",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP164788.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP164788.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/GermanCat24_Xraynocap.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/GermanCat24_IRRnocap1.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 161857,
+      "role": "Artist",
+      "name": "Albrecht Dürer",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Virgin and Child",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Albrecht Dürer",
+  "artistDisplayBio": "German, Nuremberg 1471–1528 Nuremberg",
+  "artistSuffix": "",
+  "artistAlphaSort": "Dürer, Albrecht",
+  "artistNationality": "German",
+  "artistBeginDate": "1471",
+  "artistEndDate": "1528",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+  "objectDate": "1516",
+  "objectBeginDate": 1516,
+  "objectEndDate": 1516,
+  "medium": "Oil on spruce",
+  "dimensions": "11 x 7 3/8 in. (27.9 x 18.7 cm); set in panel 11 x 8 1/4 in. (27.9 x 22.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 27.9,
+        "Width": 20.955042
+      }
+    }
+  ],
+  "creditLine": "Gift of J. Pierpont Morgan, 1917",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436245",
+  "tags": [
+    {
+      "term": "Madonna and Child",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911578",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

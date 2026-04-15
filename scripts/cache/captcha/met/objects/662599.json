@@ -1,0 +1,96 @@
+{
+  "objectID": 662599,
+  "isHighlight": false,
+  "accessionNumber": "2014.660",
+  "accessionYear": "2014",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP842158.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP842158.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 69070,
+      "role": "Artist",
+      "name": "Hendrick Hondius I",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006788",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q926814",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "A River Landscape with the Baptism of the Eunuch",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Hendrick Hondius I",
+  "artistDisplayBio": "Netherlandish, Duffel 1573–1650 Amsterdam",
+  "artistSuffix": "",
+  "artistAlphaSort": "Hondius, Hendrick I",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1573",
+  "artistEndDate": "1650",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q926814",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500006788",
+  "objectDate": "ca. 1605–25",
+  "objectBeginDate": 1600,
+  "objectEndDate": 1630,
+  "medium": "Pen and brown ink, brown and blue wash",
+  "dimensions": "Sheet: 10 13/16 × 16 3/8 in. (27.5 × 41.6 cm)\r\nMount: 14 5/16 × 19 15/16 in. (36.4 × 50.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 27.5,
+        "Width": 41.6
+      }
+    },
+    {
+      "elementName": "Mount",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 36.4,
+        "Width": 50.6
+      }
+    }
+  ],
+  "creditLine": "Acquisitions Fund, 2014",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/662599",
+  "tags": [
+    {
+      "term": "Rivers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

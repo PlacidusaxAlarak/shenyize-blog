@@ -1,0 +1,119 @@
+{
+  "objectID": 207968,
+  "isHighlight": false,
+  "accessionNumber": "1991.113a–f",
+  "accessionYear": "1991",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP349144.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP349144.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP351935.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP351937.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP351936.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP351939.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP351938.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 163568,
+      "role": "Designer",
+      "name": "Case and enamel design by the Firm of Lucien Falize",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500084132",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q29616942",
+      "gender": ""
+    },
+    {
+      "constituentID": 40400,
+      "role": "Designer",
+      "name": "in partnership with Germain Bapst",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500524773",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3104087",
+      "gender": ""
+    },
+    {
+      "constituentID": 33182,
+      "role": "Maker",
+      "name": "Clockmaker: Firm of Le Roy et Fils",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 34293,
+      "role": "Artist",
+      "name": "Sculpture by Léon Chédeville",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q106152656",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Clock",
+  "title": "Table clock with calendar",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Designer",
+  "artistPrefix": "Case and enamel design by the Firm of",
+  "artistDisplayName": "Lucien Falize",
+  "artistDisplayBio": "French, Paris 1839–1897 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Falize, Lucien",
+  "artistNationality": "French",
+  "artistBeginDate": "1839",
+  "artistEndDate": "1897",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q29616942",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500084132",
+  "objectDate": "1881",
+  "objectBeginDate": 1881,
+  "objectEndDate": 1881,
+  "medium": "Case: silver, partly enameled gold, hardstones, rock crystal, amethysts, and diamonds; movement: brass and steel",
+  "dimensions": "Overall: 18 1/2 × 7 × 7 in. (47 × 17.8 × 17.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 17.780035,
+        "Height": 46.990093,
+        "Width": 17.780035
+      }
+    }
+  ],
+  "creditLine": "Purchase, Mrs. Charles Wrightsman Gift, 1991",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Horology",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-11-21T10:05:27.96Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/207968",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116240651",
+  "isTimelineWork": false,
+  "GalleryNumber": "556"
+}

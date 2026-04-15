@@ -1,0 +1,125 @@
+{
+  "objectID": 436483,
+  "isHighlight": false,
+  "accessionNumber": "27.200",
+  "accessionYear": "1927",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14201-005.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-14201-005.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161927,
+      "role": "Artist",
+      "name": "Jean-Léon Gérôme",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115563",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q212499",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Pygmalion and Galatea",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jean-Léon Gérôme",
+  "artistDisplayBio": "French, Vesoul 1824–1904 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Gérôme, Jean-Léon",
+  "artistNationality": "French",
+  "artistBeginDate": "1824",
+  "artistEndDate": "1904",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q212499",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115563",
+  "objectDate": "ca. 1890",
+  "objectBeginDate": 1885,
+  "objectEndDate": 1895,
+  "medium": "Oil on canvas",
+  "dimensions": "35 x 27 in. (88.9 x 68.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 88.9,
+        "Width": 68.6
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 7.62,
+        "Height": 96.5202,
+        "Width": 79.3752
+      }
+    },
+    {
+      "elementName": "Glazing",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 88.90018,
+        "Width": 69.85014
+      }
+    }
+  ],
+  "creditLine": "Gift of Louis C. Raegner, 1927",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-16T04:54:57.693Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436483",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Female Nudes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+    },
+    {
+      "term": "Cupid",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300380105",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5011"
+    },
+    {
+      "term": "Galatea",
+      "AAT_URL": null,
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q241070"
+    },
+    {
+      "term": "Pygmalion",
+      "AAT_URL": null,
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q192343"
+    },
+    {
+      "term": "Artists",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025103",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q483501"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q17305070",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

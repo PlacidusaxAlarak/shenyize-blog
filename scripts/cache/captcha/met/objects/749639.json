@@ -1,0 +1,112 @@
+{
+  "objectID": 749639,
+  "isHighlight": true,
+  "accessionNumber": "2017.250",
+  "accessionYear": "2017",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164340,
+      "role": "Artist",
+      "name": "Franz von Stuck",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006652",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q45006",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Inferno",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Franz von Stuck",
+  "artistDisplayBio": "German, Tettenweis 1863–1928 Munich",
+  "artistSuffix": "",
+  "artistAlphaSort": "Stuck, Franz von",
+  "artistNationality": "German",
+  "artistBeginDate": "1863",
+  "artistEndDate": "1928",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q45006",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500006652",
+  "objectDate": "1908",
+  "objectBeginDate": 1908,
+  "objectEndDate": 1908,
+  "medium": "Oil on canvas",
+  "dimensions": "50 3/4 × 82 1/2 in. (128.9 × 209.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 128.90526,
+        "Width": 209.55042
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 7.620015,
+        "Height": 163.83032,
+        "Width": 218.75793
+      }
+    }
+  ],
+  "creditLine": "Purchase, Bequest of Julia W. Emmons, by exchange; Walter and Leonore Annenberg Acquisitions Endowment Fund; Charles Hack and the Hearn Family Trust and Mugrabi Family Gifts; Louis V. Bell, Harris Brisbane Dick, Fletcher, and Rogers Funds and Joseph Pulitzer Bequest; Pfeiffer Fund; Theodocia and Joseph Arkus and several members of The Chairman's Council Gifts, 2017",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-10-31T08:58:03.45Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/749639",
+  "tags": [
+    {
+      "term": "Male Nudes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+    },
+    {
+      "term": "Female Nudes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+    },
+    {
+      "term": "Snakes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250870",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2102"
+    },
+    {
+      "term": "Demons",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379730",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q177413"
+    },
+    {
+      "term": "Hell",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300185657",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q564"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116726823",
+  "isTimelineWork": false,
+  "GalleryNumber": "800"
+}

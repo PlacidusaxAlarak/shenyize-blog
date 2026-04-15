@@ -1,0 +1,125 @@
+{
+  "objectID": 352208,
+  "isHighlight": false,
+  "accessionNumber": "2002.61.96",
+  "accessionYear": "2002",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP839596.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP839596.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 166067,
+      "role": "Artist",
+      "name": "After Sir Lawrence Alma-Tadema",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008100",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q240526",
+      "gender": ""
+    },
+    {
+      "constituentID": 83407,
+      "role": "Etcher",
+      "name": "Leopold Löwenstam",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 83408,
+      "role": "Publisher",
+      "name": "Pilgeram &amp; Lefèvre",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Pleading",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "After",
+  "artistDisplayName": "Sir Lawrence Alma-Tadema",
+  "artistDisplayBio": "British (born The Netherlands), Dronrijp 1836–1912 Wiesbaden",
+  "artistSuffix": "",
+  "artistAlphaSort": "Alma-Tadema, Lawrence, Sir",
+  "artistNationality": "British, born The Netherlands",
+  "artistBeginDate": "1836",
+  "artistEndDate": "1912",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q240526",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500008100",
+  "objectDate": "1878",
+  "objectBeginDate": 1878,
+  "objectEndDate": 1878,
+  "medium": "Etching on chine collé; proof",
+  "dimensions": "image: 8 11/16 x 14 in. (22.1 x 35.6 cm)\r\nplate: 14 x 17 7/8 in. (35.6 x 45.4 cm)\r\nsheet: 15 3/4 x 19 15/16 in. (40 x 50.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 40.0051,
+        "Width": 50.6223
+      }
+    },
+    {
+      "elementName": "Plate",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 35.5601,
+        "Width": 45.3899
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 22.0726,
+        "Width": 35.5601
+      }
+    }
+  ],
+  "creditLine": "From the Robert Isaacson Collection, Gift of James David Draper, 2002",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/352208",
+  "tags": [
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Roses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266246",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q102231"
+    },
+    {
+      "term": "Plants",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132360",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q756"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

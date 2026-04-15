@@ -1,0 +1,87 @@
+{
+  "objectID": 308024,
+  "isHighlight": false,
+  "accessionNumber": "32.32.11",
+  "accessionYear": "1932",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DP-26535-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-26535-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ao/original/DP18591.jpg",
+    "https://images.metmuseum.org/CRDImages/ao/original/88388.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 222148,
+      "role": "Artist",
+      "name": "Nasca artist",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "The Michael C. Rockefeller Wing",
+  "objectName": "Bag",
+  "title": "Embroidered bag with fringe",
+  "culture": "Nasca",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Nasca artist",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "Nasca artist",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "7th century",
+  "objectBeginDate": 600,
+  "objectEndDate": 700,
+  "medium": "Camelid hair",
+  "dimensions": "W. 8 3/8 × L. 16 1/2 in. (21.26 × 41.91 cm)",
+  "measurements": [
+    {
+      "elementName": "Other",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Width": 21.26
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Length": 41.910084,
+        "Width": 21.26
+      }
+    }
+  ],
+  "creditLine": "Gift of George D. Pratt, 1932",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "Peru",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "Rio Grande de Nasca",
+  "classification": "Textiles-Woven",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/308024",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

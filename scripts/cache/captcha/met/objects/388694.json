@@ -1,0 +1,98 @@
+{
+  "objectID": 388694,
+  "isHighlight": false,
+  "accessionNumber": "33.104.2447",
+  "accessionYear": "1933",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP876928.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP876928.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 102109,
+      "role": "Publisher",
+      "name": "Johann Martin Will",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Attack on Fort Constitution, October 7, 1777",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Publisher",
+  "artistPrefix": "",
+  "artistDisplayName": "Johann Martin Will",
+  "artistDisplayBio": "German, 1727–1806",
+  "artistSuffix": "",
+  "artistAlphaSort": "Will, Johann Martin",
+  "artistNationality": "German",
+  "artistBeginDate": "1727",
+  "artistEndDate": "1806",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "ca. 1777",
+  "objectBeginDate": 1777,
+  "objectEndDate": 1783,
+  "medium": "Etching and engraving",
+  "dimensions": "sheet: 8 9/16 x 12 in. (21.7 x 30.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 21.7,
+        "Width": 30.5
+      }
+    }
+  ],
+  "creditLine": "Harris Brisbane Dick Fund, 1933",
+  "geographyType": "Published in",
+  "city": "Augsburg",
+  "state": "",
+  "county": "",
+  "country": "Germany",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/388694",
+  "tags": [
+    {
+      "term": "Battles",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300185692",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q178561"
+    },
+    {
+      "term": "Soldiers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+    },
+    {
+      "term": "American Revolution",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000252",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q192769"
+    },
+    {
+      "term": "Horses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

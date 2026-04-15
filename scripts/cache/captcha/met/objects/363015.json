@@ -1,0 +1,101 @@
+{
+  "objectID": 363015,
+  "isHighlight": false,
+  "accessionNumber": "30.49.11",
+  "accessionYear": "1930",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP805647.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP805647.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 79546,
+      "role": "Artist",
+      "name": "Alexander Cozens",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115417",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2610149",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "Ruined Castle and Trees",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Alexander Cozens",
+  "artistDisplayBio": "British, Russia 1717–1786 London",
+  "artistSuffix": "",
+  "artistAlphaSort": "Cozens, Alexander",
+  "artistNationality": "British",
+  "artistBeginDate": "1717",
+  "artistEndDate": "1786",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2610149",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115417",
+  "objectDate": "ca. 1762",
+  "objectBeginDate": 1760,
+  "objectEndDate": 1764,
+  "medium": "Graphite, brush and black ink, gray and brown wash; laid down on original paper mount with gray wash",
+  "dimensions": "Sheet: 10 1/2 × 16 3/4 in. (26.6 × 42.6 cm)\r\nMount: 15 1/8 in. × 20 7/8 in. (38.4 × 53.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 26.6,
+        "Width": 42.6
+      }
+    },
+    {
+      "elementName": "Mount",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 38.4,
+        "Width": 53.1
+      }
+    }
+  ],
+  "creditLine": "Harris Brisbane Dick Fund, 1930",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-09-27T04:50:39.59Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/363015",
+  "tags": [
+    {
+      "term": "Castles",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300006891",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q23413"
+    },
+    {
+      "term": "Ruins",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008057",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q109607"
+    },
+    {
+      "term": "Trees",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

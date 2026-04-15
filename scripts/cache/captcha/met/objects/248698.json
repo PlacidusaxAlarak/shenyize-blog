@@ -1,0 +1,99 @@
+{
+  "objectID": 248698,
+  "isHighlight": false,
+  "accessionNumber": "12.231.2",
+  "accessionYear": "1912",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP-18104-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/gr/web-large/DP-18104-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/gr/original/DP-18104-002.jpg",
+    "https://images.metmuseum.org/CRDImages/gr/original/DP-18104-003.jpg",
+    "https://images.metmuseum.org/CRDImages/gr/original/DP-18104-004.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 49162,
+      "role": "Artist",
+      "name": "Signed by Euphronios",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500116286",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q358508",
+      "gender": ""
+    },
+    {
+      "constituentID": 49169,
+      "role": "Artist",
+      "name": "Attributed to Onesimos",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115465",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q475054",
+      "gender": ""
+    }
+  ],
+  "department": "Greek and Roman Art",
+  "objectName": "Kylix",
+  "title": "Terracotta kylix (drinking cup)",
+  "culture": "Greek, Attic",
+  "period": "Late Archaic",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Signed by",
+  "artistDisplayName": "Euphronios",
+  "artistDisplayBio": "",
+  "artistSuffix": "as potter",
+  "artistAlphaSort": "Euphronios",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q358508",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500116286",
+  "objectDate": "ca. 490 BCE",
+  "objectBeginDate": -490,
+  "objectEndDate": -490,
+  "medium": "Terracotta",
+  "dimensions": "H. with handle  4 15/16 in. (12.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Other",
+      "elementDescription": "height with handle",
+      "elementMeasurements": {
+        "Height": 12.6
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1912 (12.231.2)\r\nAnonymous Gift, 1971 (1971.54)\r\nGift of E.D. Blake Vermeule, 1972 (1972.39.1, .2)",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Vases",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/248698",
+  "tags": [
+    {
+      "term": "Male Nudes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+    },
+    {
+      "term": "Herakles",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000042",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q122248"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116402460",
+  "isTimelineWork": false,
+  "GalleryNumber": "157"
+}

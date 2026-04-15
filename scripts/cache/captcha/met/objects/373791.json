@@ -1,0 +1,104 @@
+{
+  "objectID": 373791,
+  "isHighlight": false,
+  "accessionNumber": "2007.49.581",
+  "accessionYear": "2007",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164603,
+      "role": "Artist",
+      "name": "Natalia Goncharova",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115630",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q232391",
+      "gender": "Female"
+    },
+    {
+      "constituentID": 106109,
+      "role": "Printer",
+      "name": "T-va I. N. Kushnerev i Ko.",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 106108,
+      "role": "Publisher",
+      "name": "V. Kashin",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Doomed City from Mystical Images of War",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Natalia Goncharova",
+  "artistDisplayBio": "French (born Russia), Nagaevo 1881–1962 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Goncharova, Natalia",
+  "artistNationality": "French, born Russia",
+  "artistBeginDate": "1881",
+  "artistEndDate": "1962",
+  "artistGender": "Female",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q232391",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115630",
+  "objectDate": "1914",
+  "objectBeginDate": 1914,
+  "objectEndDate": 1914,
+  "medium": "Lithograph",
+  "dimensions": "Sheet: 12 1/2 x 9 in. (31.8 x 22.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 31.8,
+        "Width": 22.9
+      }
+    }
+  ],
+  "creditLine": "Bequest of William S. Lieberman, 2005",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "© 2026 Artists Rights Society (ARS), New York",
+  "linkResource": "",
+  "metadataDate": "2026-01-07T04:49:48.69Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/373791",
+  "tags": [
+    {
+      "term": "Human Figures",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+    },
+    {
+      "term": "Buildings",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

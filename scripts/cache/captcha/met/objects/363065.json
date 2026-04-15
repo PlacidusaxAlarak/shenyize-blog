@@ -1,0 +1,112 @@
+{
+  "objectID": 363065,
+  "isHighlight": false,
+  "accessionNumber": "54.90.811",
+  "accessionYear": "1954",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP853640.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP853640.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 166312,
+      "role": "Artist",
+      "name": "After Erskine Nicol",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001374",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5395843",
+      "gender": ""
+    },
+    {
+      "constituentID": 163614,
+      "role": "Publisher",
+      "name": "Currier &amp; Ives",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500034474",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1144898",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Homeward Bound (New York)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "After",
+  "artistDisplayName": "Erskine Nicol",
+  "artistDisplayBio": "British, Leith, Scotland 1825–1904 Feltham, Middlesex",
+  "artistSuffix": "",
+  "artistAlphaSort": "Nicol, Erskine",
+  "artistNationality": "British, Scottish",
+  "artistBeginDate": "1825",
+  "artistEndDate": "1904",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5395843",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001374",
+  "objectDate": "ca. 1860",
+  "objectBeginDate": 1855,
+  "objectEndDate": 1865,
+  "medium": "Hand-colored lithograph",
+  "dimensions": "Image: 11 1/2 × 7 11/16 in. (29.2 × 19.5 cm)\r\nImage and text: 12 1/2 × 7 11/16 in. (31.8 × 19.5 cm)\r\nSheet: 18 1/16 × 13 1/2 in. (45.8 × 34.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 45.7995,
+        "Width": 34.2901
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 29.2101,
+        "Width": 19.5263
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 31.750063,
+        "Width": 19.526289
+      }
+    }
+  ],
+  "creditLine": "The Edward W. C. Arnold Collection of New York Prints, Maps and Pictures, Bequest of Edward W. C. Arnold, 1954",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-03-03T04:54:59.2Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/363065",
+  "tags": [
+    {
+      "term": "Signs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300123013",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3695082"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

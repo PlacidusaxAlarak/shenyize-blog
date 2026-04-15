@@ -1,0 +1,113 @@
+{
+  "objectID": 13576,
+  "isHighlight": false,
+  "accessionNumber": "38.157",
+  "accessionYear": "1938",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT823.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/DT823.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ad/original/DT272980.jpg",
+    "https://images.metmuseum.org/CRDImages/ad/original/DT272981.jpg",
+    "https://images.metmuseum.org/CRDImages/ad/original/DT272982.jpg",
+    "https://images.metmuseum.org/CRDImages/ad/original/DT272983.jpg",
+    "https://images.metmuseum.org/CRDImages/ad/original/DT272984.jpg",
+    "https://images.metmuseum.org/CRDImages/ad/original/DT272985.jpg",
+    "https://images.metmuseum.org/CRDImages/ad/original/DT272986.jpg",
+    "https://images.metmuseum.org/CRDImages/ad/original/DT272987.jpg",
+    "https://images.metmuseum.org/CRDImages/ad/original/SC65324.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 3079,
+      "role": "Maker",
+      "name": "Zeruah H. Guernsey Caswell",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500330550",
+      "constituentWikidata_URL": "",
+      "gender": "Female"
+    }
+  ],
+  "department": "The American Wing",
+  "objectName": "Carpet",
+  "title": "Embroidered Carpet",
+  "culture": "American",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Maker",
+  "artistPrefix": "",
+  "artistDisplayName": "Zeruah H. Guernsey Caswell",
+  "artistDisplayBio": "1805–ca. 1895",
+  "artistSuffix": "",
+  "artistAlphaSort": "Caswell, Zeruah H. Guernsey",
+  "artistNationality": "American",
+  "artistBeginDate": "1805",
+  "artistEndDate": "1895",
+  "artistGender": "Female",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500330550",
+  "objectDate": "1832–35",
+  "objectBeginDate": 1832,
+  "objectEndDate": 1835,
+  "medium": "Wool, embroidered in chain-stitch",
+  "dimensions": "156 x 147 in. (396.2 x 373.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 396.2,
+        "Width": 373.3807
+      }
+    }
+  ],
+  "creditLine": "Gift of Katharine Keyes, in memory of her father, Homer Eaton Keyes, 1938",
+  "geographyType": "Made in",
+  "city": "Castleton",
+  "state": "Vermont",
+  "county": "",
+  "country": "United States",
+  "region": "New England",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/13576",
+  "tags": [
+    {
+      "term": "Birds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+    },
+    {
+      "term": "Cats",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265960",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q146"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    },
+    {
+      "term": "Flowers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+    },
+    {
+      "term": "Plants",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132360",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q756"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

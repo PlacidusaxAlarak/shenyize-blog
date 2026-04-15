@@ -1,0 +1,101 @@
+{
+  "objectID": 822746,
+  "isHighlight": false,
+  "accessionNumber": "2019.279.14",
+  "accessionYear": "2019",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP888811.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP888811.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 90914,
+      "role": "Engraver",
+      "name": "Mason Jackson",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q6783591",
+      "gender": ""
+    },
+    {
+      "constituentID": 207707,
+      "role": "Artist",
+      "name": "After Friedrich Boser",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500082339",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q15434559",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Fraternal Assistance, from \"Illustrated London News\"",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "Illustrated London News",
+  "artistRole": "Engraver",
+  "artistPrefix": "",
+  "artistDisplayName": "Mason Jackson",
+  "artistDisplayBio": "British, Ovingham, Northumberland 1819–1903 London",
+  "artistSuffix": "",
+  "artistAlphaSort": "Jackson, Mason",
+  "artistNationality": "British",
+  "artistBeginDate": "1819",
+  "artistEndDate": "1903",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q6783591",
+  "artistULAN_URL": "(not assigned)",
+  "objectDate": "August 19, 1865",
+  "objectBeginDate": 1865,
+  "objectEndDate": 1865,
+  "medium": "Wood engraving",
+  "dimensions": "Sheet: 3 3/16 × 1 3/4 in. (8.1 × 4.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 8.1,
+        "Width": 4.4
+      }
+    }
+  ],
+  "creditLine": "Gift of Donato Esposito, 2019",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/822746",
+  "tags": [
+    {
+      "term": "Boys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+    },
+    {
+      "term": "Girls",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+    },
+    {
+      "term": "Writing",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300054698",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q37260"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

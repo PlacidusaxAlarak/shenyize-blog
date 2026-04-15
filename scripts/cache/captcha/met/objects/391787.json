@@ -1,0 +1,107 @@
+{
+  "objectID": 391787,
+  "isHighlight": false,
+  "accessionNumber": "42.121(76)",
+  "accessionYear": "1942",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP808174.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP808174.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 69055,
+      "role": "Artist",
+      "name": "James Gillray",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017355",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q520806",
+      "gender": ""
+    },
+    {
+      "constituentID": 94029,
+      "role": "Publisher",
+      "name": "Hannah Humphrey",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18671367",
+      "gender": ""
+    },
+    {
+      "constituentID": 95070,
+      "role": "Subject",
+      "name": "Horatio Nelson, Viscount Nelson",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q83235",
+      "gender": ""
+    },
+    {
+      "constituentID": 166197,
+      "role": "Subject",
+      "name": "Sir William Hamilton",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500234139",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q15462",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "From Sir William Hamilton's Collection",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "James Gillray",
+  "artistDisplayBio": "British, London 1756–1815 London",
+  "artistSuffix": "",
+  "artistAlphaSort": "Gillray, James",
+  "artistNationality": "British",
+  "artistBeginDate": "1756",
+  "artistEndDate": "1815",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q520806",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500017355",
+  "objectDate": "May 8, 1801",
+  "objectBeginDate": 1801,
+  "objectEndDate": 1801,
+  "medium": "Hand-colored etching",
+  "dimensions": "sheet: 10 3/16 x 8 1/16 in. (25.8 x 20.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 25.8,
+        "Width": 20.5
+      }
+    }
+  ],
+  "creditLine": "Gift of Philip van Ingen, 1942",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-02-07T04:59:02.893Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/391787",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

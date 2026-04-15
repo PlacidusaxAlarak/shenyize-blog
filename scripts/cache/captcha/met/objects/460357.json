@@ -1,0 +1,83 @@
+{
+  "objectID": 460357,
+  "isHighlight": false,
+  "accessionNumber": "1975.1.1299",
+  "accessionYear": "1975",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/1299r.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/rl/web-large/1299r.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/rl/original/1299v.jpg",
+    "https://images.metmuseum.org/CRDImages/rl/original/SLP1299r.jpg",
+    "https://images.metmuseum.org/CRDImages/rl/original/SLP1299v.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162256,
+      "role": "Artist",
+      "name": "Pisanello (Antonio Pisano)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027080",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q311082",
+      "gender": ""
+    }
+  ],
+  "department": "Robert Lehman Collection",
+  "objectName": "Medal",
+  "title": "Medal:  Don Inigo d'Avalos",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Pisanello (Antonio Pisano)",
+  "artistDisplayBio": "Italian, Pisa or Verona by 1395–1455",
+  "artistSuffix": "",
+  "artistAlphaSort": "Pisanello (Antonio Pisano)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1395",
+  "artistEndDate": "1455",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q311082",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500027080",
+  "objectDate": "model ca. 1449–50 (old aftercase)",
+  "objectBeginDate": 1446,
+  "objectEndDate": 1453,
+  "medium": "Copper alloy with light brown patina; pierced.",
+  "dimensions": "Diam. 7.7 cm, wt. 145.88 g.",
+  "measurements": null,
+  "creditLine": "Robert Lehman Collection, 1975",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Medals",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-29T04:54:03.16Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/460357",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

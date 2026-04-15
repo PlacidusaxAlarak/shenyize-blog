@@ -1,0 +1,105 @@
+{
+  "objectID": 207032,
+  "isHighlight": true,
+  "accessionNumber": "1982.60.129",
+  "accessionYear": "1982",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP234110.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP234110.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP234111.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP234105.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP234107.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP234106.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP234109.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP234112.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP234065.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP234108.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 42065,
+      "role": "Artist",
+      "name": "Attributed to the Master of the Martyrdom of St. Sebastian",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Statuette group",
+  "title": "Hercules and Achelous",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Attributed to the",
+  "artistDisplayName": "Master of the Martyrdom of St. Sebastian",
+  "artistDisplayBio": "Austrian",
+  "artistSuffix": "",
+  "artistAlphaSort": "Master of the Martyrdom of St. Sebastian",
+  "artistNationality": "Austrian",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "probably mid-17th century",
+  "objectBeginDate": 1630,
+  "objectEndDate": 1665,
+  "medium": "Ivory",
+  "dimensions": "Overall (confirmed): H. 11 x W. 6 1/4 x D. 4 3/8 in. (27.9 x 15.9 x 11.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "confirmed",
+      "elementMeasurements": {
+        "Depth": 11.112522,
+        "Height": 27.940056,
+        "Width": 15.875031
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "historic dimensions, superceded",
+      "elementMeasurements": {
+        "Height": 27.9
+      }
+    }
+  ],
+  "creditLine": "The Jack and Belle Linsky Collection, 1982",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Sculpture-Miniature",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-11-21T10:05:27.96Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/207032",
+  "tags": [
+    {
+      "term": "Male Nudes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+    },
+    {
+      "term": "Hercules",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000042",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q122248"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q29383655",
+  "isTimelineWork": true,
+  "GalleryNumber": "537"
+}

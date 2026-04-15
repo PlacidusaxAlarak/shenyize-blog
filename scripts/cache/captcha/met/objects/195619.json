@@ -1,0 +1,129 @@
+{
+  "objectID": 195619,
+  "isHighlight": false,
+  "accessionNumber": "26.267.49",
+  "accessionYear": "1926",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 37231,
+      "role": "Maker",
+      "name": "Watchmaker: Firm of Vacheron and Constantin",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500461313",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 201269,
+      "role": "Maker",
+      "name": "Partnership of Jacques Barthélémi Vacheron",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 201270,
+      "role": "Maker",
+      "name": "and François Constantin",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Watch",
+  "title": "Hunter-case pocket watch",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Maker",
+  "artistPrefix": "Watchmaker:",
+  "artistDisplayName": "Firm of Vacheron and Constantin",
+  "artistDisplayBio": "Swiss, 1755–present",
+  "artistSuffix": "",
+  "artistAlphaSort": "Vacheron and Constantin",
+  "artistNationality": "Swiss",
+  "artistBeginDate": "1755",
+  "artistEndDate": "9999",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500461313",
+  "objectDate": "ca. 1844",
+  "objectBeginDate": 1839,
+  "objectEndDate": 1849,
+  "medium": "Case: gold; Dial: white enamel with gold hands; Movement: brass and steel",
+  "dimensions": "Overall: 2 3/8 × 1 5/8 × 5/16 in. (6 × 4.1 × 0.8 cm); Diameter (movement): 1 5/16 in. (3.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Diameter",
+      "elementDescription": "historic dimensions superseded",
+      "elementMeasurements": {
+        "Diameter": 4.127508
+      }
+    },
+    {
+      "elementName": "Diameter",
+      "elementDescription": "movement",
+      "elementMeasurements": {
+        "Diameter": 3.3337567
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 0.7937516,
+        "Height": 6.032512,
+        "Width": 4.127508
+      }
+    }
+  ],
+  "creditLine": "Anonymous Gift, in memory of Lady May Fletcher-Moulton, 1926",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Horology",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-10-02T04:53:22.577Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/195619",
+  "tags": [
+    {
+      "term": "Human Figures",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+    },
+    {
+      "term": "Buildings",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+    },
+    {
+      "term": "Monuments",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300006958",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4989906"
+    },
+    {
+      "term": "Cross",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300235443",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40843"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,106 @@
+{
+  "objectID": 717460,
+  "isHighlight": false,
+  "accessionNumber": "2016.514",
+  "accessionYear": "2016",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ph/original/DP-12248-079.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ph/web-large/DP-12248-079.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ph/original/DP-12248-080.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 59462,
+      "role": "Artist",
+      "name": "National Aeronautics and Space Administration (NASA)",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 163476,
+      "role": "Printer",
+      "name": "Eastman Kodak Co.",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500334798",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q486269",
+      "gender": ""
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "Crater Aristarchus, Schroter's Valley, and Vicinity",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "National Aeronautics and Space Administration (NASA)",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "National Aeronautics and Space Administration (NASA)",
+  "artistNationality": "American",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "1967",
+  "objectBeginDate": 1967,
+  "objectEndDate": 1967,
+  "medium": "Gelatin silver prints",
+  "dimensions": "Image: 13 3/4 × 12 1/4 in. (34.9 × 31.1 cm)\r\nMount: 18 × 16 in. (45.7 × 40.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Mount",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 45.720093,
+        "Width": 40.64008
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 34.92507,
+        "Width": 31.1
+      }
+    }
+  ],
+  "creditLine": "The Horace W. Goldsmith Foundation Fund, through Joyce and Robert Menschel, 2016",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-11-21T10:05:27.96Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/717460",
+  "tags": [
+    {
+      "term": "Moon",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300386951",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q405"
+    },
+    {
+      "term": "Astronomy",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300054534",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q333"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

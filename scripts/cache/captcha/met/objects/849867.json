@@ -1,0 +1,91 @@
+{
+  "objectID": 849867,
+  "isHighlight": false,
+  "accessionNumber": "Museum Accession.1927.6",
+  "accessionYear": "1927",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 87013,
+      "role": "Artist",
+      "name": "Rudolph Ruzicka",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500040796",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7377450",
+      "gender": ""
+    },
+    {
+      "constituentID": 96548,
+      "role": "Printer",
+      "name": "The Marchbanks Press",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Calendar page, June 1927",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Rudolph Ruzicka",
+  "artistDisplayBio": "American (born Czechoslovakia), Kourim, Bohemia 1883–1978 Hanover, New Hampshire",
+  "artistSuffix": "",
+  "artistAlphaSort": "Ruzicka, Rudolph",
+  "artistNationality": "American, born Czechoslovakia",
+  "artistBeginDate": "1883",
+  "artistEndDate": "1978",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q7377450",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500040796",
+  "objectDate": "1927",
+  "objectBeginDate": 1927,
+  "objectEndDate": 1927,
+  "medium": "Typographic materials",
+  "dimensions": "Sheet: 9 1/4 × 4 1/16 in. (23.5 × 10.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 23.5,
+        "Width": 10.3
+      }
+    }
+  ],
+  "creditLine": "Museum Accession, 1927",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/849867",
+  "tags": [
+    {
+      "term": "Cows",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

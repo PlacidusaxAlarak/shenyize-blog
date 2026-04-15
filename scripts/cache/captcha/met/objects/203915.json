@@ -1,0 +1,93 @@
+{
+  "objectID": 203915,
+  "isHighlight": false,
+  "accessionNumber": "64.101.1418",
+  "accessionYear": "1964",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-610-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP-610-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP-610-002.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 161722,
+      "role": "Artist",
+      "name": "Manner of Andrea Briosco, called Riccio",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025246",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q283580",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Statuette",
+  "title": "Seated Faun",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Manner of",
+  "artistDisplayName": "Andrea Briosco, called Riccio",
+  "artistDisplayBio": "Italian, Trent 1470–1532 Padua",
+  "artistSuffix": "",
+  "artistAlphaSort": "Briosco, Andrea, called Riccio",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1470",
+  "artistEndDate": "1532",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q283580",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500025246",
+  "objectDate": "ca. 1540–50",
+  "objectBeginDate": 1535,
+  "objectEndDate": 1555,
+  "medium": "Bronze",
+  "dimensions": "Overall (confirmed): 11 1/4 × 7 × 7 1/2 in. (28.6 × 17.8 × 19.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Height",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 28.575058
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "confirmed",
+      "elementMeasurements": {
+        "Depth": 19.050037,
+        "Height": 28.575058,
+        "Width": 17.780035
+      }
+    }
+  ],
+  "creditLine": "Gift of Irwin Untermyer, 1964",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Sculpture-Bronze",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-31T04:54:36.6Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/203915",
+  "tags": [
+    {
+      "term": "Male Nudes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

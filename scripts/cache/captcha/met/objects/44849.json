@@ -1,0 +1,263 @@
+{
+  "objectID": 44849,
+  "isHighlight": false,
+  "accessionNumber": "53.7.3",
+  "accessionYear": "1953",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP232567_CRD.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP232567_CRD.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/DP232566.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP232567.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP232568.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP232569.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP232570.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP232571.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP232572.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP232573.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP232574.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP232575.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP232576.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP232577.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP232578.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP232579.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP232580.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP232581.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP232582.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP232583.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP232584.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP232585.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP232586.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP232587.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP232588.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP259204.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 11810,
+      "role": "Artist",
+      "name": "Calligrapher: Sugawara Mitsushige",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Handscroll",
+  "title": "“Universal Gateway,” Chapter 25 of the Lotus Sutra",
+  "culture": "Japan",
+  "period": "Kamakura period (1185–1333)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Calligrapher:",
+  "artistDisplayName": "Sugawara Mitsushige",
+  "artistDisplayBio": "Japanese, active mid- 13th century",
+  "artistSuffix": "",
+  "artistAlphaSort": "Sugawara Mitsushige",
+  "artistNationality": "Japanese",
+  "artistBeginDate": "1234",
+  "artistEndDate": "1266",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "dated 1257",
+  "objectBeginDate": 1257,
+  "objectEndDate": 1257,
+  "medium": "Handscroll; ink, color, and gold on paper",
+  "dimensions": "Overall with mounting: 9 11/16 in. × 30 ft. 8 1/16 in. (24.6 × 934.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Other",
+      "elementDescription": "letter",
+      "elementMeasurements": {
+        "Height": 31.8,
+        "Width": 85.1
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Sheet #10",
+      "elementMeasurements": {
+        "Length": 53
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Sheet #4",
+      "elementMeasurements": {
+        "Length": 53.3
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Sheet #1",
+      "elementMeasurements": {
+        "Length": 39
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Sheet #18",
+      "elementMeasurements": {
+        "Length": 51.1
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Sheet #17",
+      "elementMeasurements": {
+        "Length": 52.3
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Sheet #11",
+      "elementMeasurements": {
+        "Length": 53
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Sheet #9",
+      "elementMeasurements": {
+        "Length": 53.1
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Sheet #8",
+      "elementMeasurements": {
+        "Length": 53.2
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Sheet #6",
+      "elementMeasurements": {
+        "Length": 53
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Sheet #2",
+      "elementMeasurements": {
+        "Length": 53
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Sheet #16",
+      "elementMeasurements": {
+        "Length": 51.4
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Sheet #13",
+      "elementMeasurements": {
+        "Length": 51.6
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Sheet #12",
+      "elementMeasurements": {
+        "Length": 53
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "certificate",
+      "elementMeasurements": {
+        "Height": 2.4,
+        "Width": 14.5
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Sheet #3",
+      "elementMeasurements": {
+        "Length": 52.7
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Sheet #14",
+      "elementMeasurements": {
+        "Length": 52.6
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "original frontispiece",
+      "elementMeasurements": {
+        "Height": 24.130049,
+        "Width": 33.020065
+      }
+    },
+    {
+      "elementName": "Overall with mounting",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 24.6,
+        "Width": 934.9
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Sheet #7",
+      "elementMeasurements": {
+        "Length": 53.3
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Sheet #5",
+      "elementMeasurements": {
+        "Length": 53.2
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Sheet #15",
+      "elementMeasurements": {
+        "Length": 53.1
+      }
+    }
+  ],
+  "creditLine": "Purchase, Louisa Eldridge McBurney Gift, 1953",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-02-28T04:58:01.027Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/44849",
+  "tags": [
+    {
+      "term": "Buddhism",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300073738",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q748"
+    },
+    {
+      "term": "Bodhisattvas",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300264360",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q178149"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78851362",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

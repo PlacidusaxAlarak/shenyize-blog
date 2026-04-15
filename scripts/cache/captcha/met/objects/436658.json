@@ -1,0 +1,107 @@
+{
+  "objectID": 436658,
+  "isHighlight": true,
+  "accessionNumber": "50.135.4",
+  "accessionYear": "1950",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP164836.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP164836.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/GermanCat30_IRRnocap.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/GermanCat30_Xraynocap.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-50_135_4-2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-50_135_4-3.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 161994,
+      "role": "Artist",
+      "name": "Hans Holbein the Younger",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005259",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q48319",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Hermann von Wedigh III (died 1560)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Hans Holbein the Younger",
+  "artistDisplayBio": "German, Augsburg 1497/98–1543 London",
+  "artistSuffix": "",
+  "artistAlphaSort": "Holbein, Hans, the Younger",
+  "artistNationality": "German",
+  "artistBeginDate": "1497",
+  "artistEndDate": "1543",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q48319",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500005259",
+  "objectDate": "1532",
+  "objectBeginDate": 1532,
+  "objectEndDate": 1532,
+  "medium": "Oil and gold on oak",
+  "dimensions": "16 5/8 x 12 3/4 in. (42.2 x 32.4 cm), with added strip of 1/2 in. (1.3 cm) at bottom",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 42.2,
+        "Width": 32.4
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.3975,
+        "Height": 54.6101,
+        "Width": 45.7201
+      }
+    }
+  ],
+  "creditLine": "Bequest of Edward S. Harkness, 1940",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-27T04:50:31.807Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436658",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Latin",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300388693",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q397"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911428",
+  "isTimelineWork": true,
+  "GalleryNumber": "612"
+}

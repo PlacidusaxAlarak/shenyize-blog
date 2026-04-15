@@ -1,0 +1,115 @@
+{
+  "objectID": 464453,
+  "isHighlight": false,
+  "accessionNumber": "17.190.489",
+  "accessionYear": "1917",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf17-190-489s01a.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/md/web-large/sf17-190-489s01a.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/md/original/sf17-190-489Ld01.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 163584,
+      "role": "Artist",
+      "name": "Baldassare degli Embriachi",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500078881",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2880657",
+      "gender": ""
+    }
+  ],
+  "department": "Medieval Art",
+  "objectName": "Altarpiece",
+  "title": "Altarpiece with the Lives of Jesus, Saint John the Baptist, and Saint John the Evangelist",
+  "culture": "North Italian",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Baldassare degli Embriachi",
+  "artistDisplayBio": "Italian, active 1390–1409",
+  "artistSuffix": "",
+  "artistAlphaSort": "Embriachi, Baldassare degli",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1390",
+  "artistEndDate": "1409",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2880657",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500078881",
+  "objectDate": "ca. 1390–1400",
+  "objectBeginDate": 1390,
+  "objectEndDate": 1400,
+  "medium": "Bone framed with intarsia and horn, traces of paint and gilding",
+  "dimensions": "without wooden base: 50 1/2 x 60 1/2 in.  (128.3 x 153.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 128.3,
+        "Width": 153.7
+      }
+    }
+  ],
+  "creditLine": "Gift of J. Pierpont Morgan, 1917",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Bone",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-18T09:36:43.22Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/464453",
+  "tags": [
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Saint John the Baptist",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+    },
+    {
+      "term": "Saint John the Evangelist",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001171",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q328804"
+    },
+    {
+      "term": "Annunciation",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300412102",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q154326"
+    },
+    {
+      "term": "Bearing the Cross",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001193",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3399226"
+    },
+    {
+      "term": "Crucifixion",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+    },
+    {
+      "term": "Nativity",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000124",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q51628"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116272517",
+  "isTimelineWork": true,
+  "GalleryNumber": "306"
+}

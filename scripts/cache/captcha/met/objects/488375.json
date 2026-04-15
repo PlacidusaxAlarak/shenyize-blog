@@ -1,0 +1,92 @@
+{
+  "objectID": 488375,
+  "isHighlight": false,
+  "accessionNumber": "49.70.15",
+  "accessionYear": "1949",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162242,
+      "role": "Artist",
+      "name": "Francis Picabia",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006325",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q157321",
+      "gender": ""
+    }
+  ],
+  "department": "Modern and Contemporary Art",
+  "objectName": "Drawing",
+  "title": "Negro Song I",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Francis Picabia",
+  "artistDisplayBio": "French, Paris 1879–1953 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Picabia, Francis",
+  "artistNationality": "French",
+  "artistBeginDate": "1879",
+  "artistEndDate": "1953",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q157321",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500006325",
+  "objectDate": "1913",
+  "objectBeginDate": 1913,
+  "objectEndDate": 1913,
+  "medium": "Watercolor and graphite on paperboard",
+  "dimensions": "26 1/8 × 22 in. (66.4 × 55.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 66.4,
+        "Width": 55.9
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": "F.49.70.15",
+      "elementMeasurements": {
+        "Depth": 4.4450088,
+        "Height": 91.440186,
+        "Width": 81.28016
+      }
+    }
+  ],
+  "creditLine": "Alfred Stieglitz Collection, 1949",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-04-14T04:58:18.07Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/488375",
+  "tags": [
+    {
+      "term": "Abstraction",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300056508",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q162150"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20191585",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

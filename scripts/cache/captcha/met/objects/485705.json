@@ -1,0 +1,123 @@
+{
+  "objectID": 485705,
+  "isHighlight": false,
+  "accessionNumber": "1991.139a-d",
+  "accessionYear": "1991",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164422,
+      "role": "Artist",
+      "name": "Joan Mitchell",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000901",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q469934",
+      "gender": "Female"
+    }
+  ],
+  "department": "Modern and Contemporary Art",
+  "objectName": "Painting",
+  "title": "\"La Vie en Rose\"",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Joan Mitchell",
+  "artistDisplayBio": "American, Chicago, Illinois 1925–1992 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Mitchell, Joan",
+  "artistNationality": "American",
+  "artistBeginDate": "1925",
+  "artistEndDate": "1992",
+  "artistGender": "Female",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q469934",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500000901",
+  "objectDate": "1979",
+  "objectBeginDate": 1979,
+  "objectEndDate": 1979,
+  "medium": "Oil on canvas",
+  "dimensions": "Overall: 9 ft. 2 1/2 in. × 22 ft. 3 15/16 in. × 4 in. (280.7 × 680.6 × 10.2 cm)\r\na - far left panel: 9 ft. 2 1/2 in. × 70 7/8 in. × 1 1/8 in. (280.7 × 180 × 2.9 cm)\r\nb - center left panel: 9 ft. 2 1/4 in. × 63 1/8 in. × 1 1/4 in. (280 × 160.3 × 3.2 cm)\r\nc - center right panel: 9 ft. 2 3/8 in. × 63 1/8 in. × 1 1/4 in. (280.4 × 160.3 × 3.2 cm)\r\nd - far right panel: 9 ft. 2 1/2 in. × 70 7/8 in. × 1 1/4 in. (280.7 × 180 × 3.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "d - far right panel",
+      "elementMeasurements": {
+        "Depth": 3.1750064,
+        "Height": 280.67056,
+        "Width": 180.02286
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "c - center right panel",
+      "elementMeasurements": {
+        "Depth": 3.1750064,
+        "Height": 280.35306,
+        "Width": 160.33781
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "b - center left panel",
+      "elementMeasurements": {
+        "Depth": 3.1750064,
+        "Height": 280.03555,
+        "Width": 160.33781
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "a - far left panel",
+      "elementMeasurements": {
+        "Depth": 2.8575058,
+        "Height": 280.67056,
+        "Width": 180.02286
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "Overall",
+      "elementMeasurements": {
+        "Depth": 10.16002,
+        "Height": 280.67056,
+        "Width": 680.6
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": "White wood float frame- Primary",
+      "elementMeasurements": {
+        "Depth": 4.445,
+        "Height": 285.4331,
+        "Width": 686.4364
+      }
+    }
+  ],
+  "creditLine": "Anonymous Gift and Purchase, George A. Hearn Fund, by exchange, 1991",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/485705",
+  "tags": null,
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20191614",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

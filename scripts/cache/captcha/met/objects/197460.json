@@ -1,0 +1,90 @@
+{
+  "objectID": 197460,
+  "isHighlight": false,
+  "accessionNumber": "33.153.2",
+  "accessionYear": "1933",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-22142-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP-22142-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/94825.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/94826.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/94827.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/94828.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/94829.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/94830.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 35616,
+      "role": "Artist",
+      "name": "Fulvio Signorini",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500046204",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q97572148",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Statue",
+  "title": "Saint Catherine of Siena",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Fulvio Signorini",
+  "artistDisplayBio": "1563–after 1609",
+  "artistSuffix": "",
+  "artistAlphaSort": "Signorini Fulvio",
+  "artistNationality": "",
+  "artistBeginDate": "1563",
+  "artistEndDate": "1609",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q97572148",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500046204",
+  "objectDate": "ca. 1600",
+  "objectBeginDate": 1595,
+  "objectEndDate": 1605,
+  "medium": "Bronze, partially oil-gilt",
+  "dimensions": "Wt. confirmed: 58 in., 695 lb. (147.3 cm, 315.2 kg)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "Wt. confirmed",
+      "elementMeasurements": {
+        "Height": 147.3,
+        "Weight": 315.24994
+      }
+    }
+  ],
+  "creditLine": "Harris Brisbane Dick Fund, 1933",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Sculpture-Bronze",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-31T04:54:36.6Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/197460",
+  "tags": [
+    {
+      "term": "Saint Catherine",
+      "AAT_URL": null,
+      "Wikidata_URL": null
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116398912",
+  "isTimelineWork": false,
+  "GalleryNumber": "503"
+}

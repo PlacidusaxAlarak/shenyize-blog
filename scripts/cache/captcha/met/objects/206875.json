@@ -1,0 +1,135 @@
+{
+  "objectID": 206875,
+  "isHighlight": false,
+  "accessionNumber": "1981.76a–c",
+  "accessionYear": "1981",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-1218-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP-1218-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP-1218-002.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP-1218-003.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP-1218-004.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP-22858-001.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 33861,
+      "role": "Maker",
+      "name": "Base by Giuseppe de&#39; Levi",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500073725",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q105479871",
+      "gender": ""
+    },
+    {
+      "constituentID": 37502,
+      "role": "Maker",
+      "name": "Corpus probably by Unidentified",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Statuette",
+  "title": "Crucifix on a Golgotha base",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Maker",
+  "artistPrefix": "Base by",
+  "artistDisplayName": "Giuseppe de' Levi",
+  "artistDisplayBio": "Italian, Verona 1522–1611/14 Verona",
+  "artistSuffix": "",
+  "artistAlphaSort": "Levi, Giuseppe de'",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1522",
+  "artistEndDate": "1614",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q105479871",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500073725",
+  "objectDate": "ca. 1590–1600 (base), later 17th century (corpus), 19th century (cross)",
+  "objectBeginDate": 1585,
+  "objectEndDate": 1899,
+  "medium": "Corpus: bronze, fire-gilt; cross and base: bronze",
+  "dimensions": "Overall combined confirmed: 23 5/8 × 11 1/8 × 7 1/8 in. (60 × 28.3 × 18.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "Corpus - 76 a confirmed",
+      "elementMeasurements": {
+        "Depth": 7.620015,
+        "Height": 31.432564,
+        "Width": 28.257557
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "Overall combined confirmed",
+      "elementMeasurements": {
+        "Depth": 18.097536,
+        "Height": 60.00762,
+        "Width": 28.257557
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "base - 76b confirmed",
+      "elementMeasurements": {
+        "Depth": 18.097536,
+        "Height": 12.3825245,
+        "Width": 24.765049
+      }
+    }
+  ],
+  "creditLine": "Purchase, Gift of Irwin Untermyer, by exchange, 1981",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Sculpture-Bronze",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-31T04:54:36.6Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/206875",
+  "tags": [
+    {
+      "term": "Skulls",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300191856",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q13147"
+    },
+    {
+      "term": "Snails",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300249702",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q308841"
+    },
+    {
+      "term": "Shells",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300011829",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q213096"
+    },
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Crucifixion",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

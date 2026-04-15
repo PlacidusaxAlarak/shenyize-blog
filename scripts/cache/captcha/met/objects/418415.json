@@ -1,0 +1,146 @@
+{
+  "objectID": 418415,
+  "isHighlight": false,
+  "accessionNumber": "54.90.1274(5)",
+  "accessionYear": "1954",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP-12920-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP-12920-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/dp/original/MM89491.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162434,
+      "role": "Etcher",
+      "name": "Begun by John Rubens Smith",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020310",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1701617",
+      "gender": ""
+    },
+    {
+      "constituentID": 164761,
+      "role": "Etcher",
+      "name": "Finished by John Hill",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012829",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21461812",
+      "gender": ""
+    },
+    {
+      "constituentID": 162682,
+      "role": "Artist",
+      "name": "after William Guy Wall",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500014016",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q280662",
+      "gender": ""
+    },
+    {
+      "constituentID": 163759,
+      "role": "Publisher",
+      "name": "Henry J. Megarey",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 105581,
+      "role": "Publisher",
+      "name": "W. B. Gilley",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 82852,
+      "role": "Publisher",
+      "name": "John Mill",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 105582,
+      "role": "Printer",
+      "name": "William and Charles Rollinson",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Hadley's Falls (No. 5 of The Hudson River Portfolio)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "The Hudson River Portfolio",
+  "artistRole": "Etcher",
+  "artistPrefix": "Begun by",
+  "artistDisplayName": "John Rubens Smith",
+  "artistDisplayBio": "American, London 1775–1849 New York",
+  "artistSuffix": "",
+  "artistAlphaSort": "Smith, John Rubens",
+  "artistNationality": "American",
+  "artistBeginDate": "1775",
+  "artistEndDate": "1849",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1701617",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500020310",
+  "objectDate": "1821–22",
+  "objectBeginDate": 1821,
+  "objectEndDate": 1824,
+  "medium": "Aquatint printed in color with hand-coloring; second state of three (Koke)",
+  "dimensions": "Image: 14 1/16 x 20 3/16 in. (35.7 x 51.3 cm)\r\nSheet: 19 x 24 1/2 in. (48.3 x 62.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 48.2601,
+        "Width": 62.2301
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 35.7188,
+        "Width": 51.2764
+      }
+    }
+  ],
+  "creditLine": "The Edward W. C. Arnold Collection of New York Prints, Maps and Pictures, Bequest of Edward W. C. Arnold, 1954",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/418415",
+  "tags": [
+    {
+      "term": "Waterfalls",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008736",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q34038"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

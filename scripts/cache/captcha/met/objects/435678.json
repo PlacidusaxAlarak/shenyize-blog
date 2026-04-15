@@ -1,0 +1,100 @@
+{
+  "objectID": 435678,
+  "isHighlight": false,
+  "accessionNumber": "1976.100.1",
+  "accessionYear": "1976",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP235224.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP235224.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/metdeBles_1976_1001_1_IRR.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/metdeBles_1976_100_1_Xray.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 109493,
+      "role": "Artist",
+      "name": "Workshop of Herri met de Bles",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500120673",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q677006",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Temptation of Saint Anthony",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Workshop of",
+  "artistDisplayName": "Herri met de Bles",
+  "artistDisplayBio": "Netherlandish, Bouvines 1480?–after 1550",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bles, Herri met de",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1480",
+  "artistEndDate": "1550",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q677006",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500120673",
+  "objectDate": "ca. 1550–60",
+  "objectBeginDate": 1550,
+  "objectEndDate": 1560,
+  "medium": "Oil on wood",
+  "dimensions": "Overall 8 7/8 x 13 3/4 in. (22.5 x 34.9 cm); painted surface 8 1/2 x 13 3/8 in. (21.6 x 34 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 22.5,
+        "Width": 34.9
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.7150116,
+        "Height": 26.352552,
+        "Width": 38.735077
+      }
+    }
+  ],
+  "creditLine": "Bequest of Harry G. Sperling, 1971",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-19T04:50:33.487Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435678",
+  "tags": [
+    {
+      "term": "Fires",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300068986",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3196"
+    },
+    {
+      "term": "Saint Anthony",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001255",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q170547"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912859",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

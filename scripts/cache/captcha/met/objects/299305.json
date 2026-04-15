@@ -1,0 +1,91 @@
+{
+  "objectID": 299305,
+  "isHighlight": false,
+  "accessionNumber": "2011.535",
+  "accessionYear": "2011",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 59882,
+      "role": "Artist",
+      "name": "John Goodman",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "Couple / 327 Commonwealth Avenue",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "John Goodman",
+  "artistDisplayBio": "American, born 1947",
+  "artistSuffix": "",
+  "artistAlphaSort": "Goodman, John",
+  "artistNationality": "American",
+  "artistBeginDate": "1947",
+  "artistEndDate": "9999",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "1976",
+  "objectBeginDate": 1976,
+  "objectEndDate": 1976,
+  "medium": "Gelatin silver print",
+  "dimensions": "Image: 26.6 x 24.8 cm (10 1/2 x 9 3/4 in.)\r\nSheet: 35.6 x 27.9 cm (14 x 11 in.)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 35.56007,
+        "Width": 27.940056
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 26.6,
+        "Width": 24.8
+      }
+    }
+  ],
+  "creditLine": "Twentieth-Century Photography Fund, 2011",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "© John Goodman 1976",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/299305",
+  "tags": [
+    {
+      "term": "Male Nudes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

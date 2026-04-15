@@ -1,0 +1,117 @@
+{
+  "objectID": 436482,
+  "isHighlight": false,
+  "accessionNumber": "87.15.130",
+  "accessionYear": "1887",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1971.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1971.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161927,
+      "role": "Artist",
+      "name": "Jean-Léon Gérôme",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115563",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q212499",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Prayer in the Mosque",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jean-Léon Gérôme",
+  "artistDisplayBio": "French, Vesoul 1824–1904 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Gérôme, Jean-Léon",
+  "artistNationality": "French",
+  "artistBeginDate": "1824",
+  "artistEndDate": "1904",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q212499",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115563",
+  "objectDate": "by 1874",
+  "objectBeginDate": 1870,
+  "objectEndDate": 1874,
+  "medium": "Oil on canvas",
+  "dimensions": "35 x 29 1/2 in. (88.9 x 74.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 88.9,
+        "Width": 74.9
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 13.97,
+        "Height": 130.8103,
+        "Width": 118.1102
+      }
+    }
+  ],
+  "creditLine": "Catharine Lorillard Wolfe Collection, Bequest of Catharine Lorillard Wolfe, 1887",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-04-15T04:58:02.433Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436482",
+  "tags": [
+    {
+      "term": "Arches",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300001062",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12277"
+    },
+    {
+      "term": "Columns",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300001571",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4817"
+    },
+    {
+      "term": "Interiors",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+    },
+    {
+      "term": "Mosques",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300007544",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q32815"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Orientalist",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055784",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q765606"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905195",
+  "isTimelineWork": true,
+  "GalleryNumber": "804"
+}

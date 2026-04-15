@@ -1,0 +1,149 @@
+{
+  "objectID": 365958,
+  "isHighlight": false,
+  "accessionNumber": "53.600.4837",
+  "accessionYear": "1953",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP819235.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP819235.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 82130,
+      "role": "Engraver",
+      "name": "William Ward",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012786",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q8020008",
+      "gender": ""
+    },
+    {
+      "constituentID": 161727,
+      "role": "Artist",
+      "name": "After Mather Brown",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001228",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q6786928",
+      "gender": ""
+    },
+    {
+      "constituentID": 104334,
+      "role": "Publisher",
+      "name": "Thomas Bradshaw",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 93009,
+      "role": "Sitter",
+      "name": "Joseph Bologne, Chevalier de Saint-Georges",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 228049,
+      "role": "Author",
+      "name": "Related author Nicolas Texier de la Boëssière",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 76979,
+      "role": "Subject",
+      "name": "Related person Henry Angelo",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Monsieur de St. George",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Engraver",
+  "artistPrefix": "",
+  "artistDisplayName": "William Ward",
+  "artistDisplayBio": "British, London 1766–1826 London",
+  "artistSuffix": "",
+  "artistAlphaSort": "Ward, William",
+  "artistNationality": "British",
+  "artistBeginDate": "1766",
+  "artistEndDate": "1826",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q8020008",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500012786",
+  "objectDate": "April 4, 1788",
+  "objectBeginDate": 1788,
+  "objectEndDate": 1788,
+  "medium": "Mezzotint; third state of three",
+  "dimensions": "plate: 14 7/8 x 10 7/8 in. (37.8 x 27.6 cm)\r\nsheet: 16 1/2 x 12 5/16 in. (41.9 x 31.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Plate",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 37.8,
+        "Width": 27.6
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 41.9,
+        "Width": 31.2
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 53.340107,
+        "Width": 40.64008
+      }
+    }
+  ],
+  "creditLine": "Harris Brisbane Dick Fund, 1953",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/365958",
+  "tags": [
+    {
+      "term": "Swords",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300037048",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12791"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q108285820",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

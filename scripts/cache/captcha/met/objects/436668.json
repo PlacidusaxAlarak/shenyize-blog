@@ -1,0 +1,100 @@
+{
+  "objectID": 436668,
+  "isHighlight": false,
+  "accessionNumber": "49.7.28",
+  "accessionYear": "1949",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP278970.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP278970.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/GermanCat34_Xraynocap.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/GermanCat34_IRRnocap.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 161994,
+      "role": "Artist",
+      "name": "Workshop of Hans Holbein the Younger",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005259",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q48319",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Portrait of a Man (Sir Ralph Sadler?)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Workshop of",
+  "artistDisplayName": "Hans Holbein the Younger",
+  "artistDisplayBio": "German, Augsburg 1497/98–1543 London",
+  "artistSuffix": "",
+  "artistAlphaSort": "Holbein, Hans, the Younger",
+  "artistNationality": "German",
+  "artistBeginDate": "1497",
+  "artistEndDate": "1543",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q48319",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500005259",
+  "objectDate": "1535",
+  "objectBeginDate": 1535,
+  "objectEndDate": 1535,
+  "medium": "Oil and gold on oak",
+  "dimensions": "Diameter 12 in. (30.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 30.5,
+        "Width": 30.5
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.08,
+        "Height": 40.9576,
+        "Width": 40.9576
+      }
+    }
+  ],
+  "creditLine": "The Jules Bache Collection, 1949",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-10-09T04:51:37.793Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436668",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911434",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

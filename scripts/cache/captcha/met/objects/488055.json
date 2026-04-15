@@ -1,0 +1,109 @@
+{
+  "objectID": 488055,
+  "isHighlight": false,
+  "accessionNumber": "42.180",
+  "accessionYear": "1942",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 142780,
+      "role": "Artist",
+      "name": "Richmond Barthé",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020064",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3431473",
+      "gender": ""
+    }
+  ],
+  "department": "Modern and Contemporary Art",
+  "objectName": "Sculpture",
+  "title": "Boxer",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Richmond Barthé",
+  "artistDisplayBio": "American, Bay St. Louis, Mississippi 1901–1989 Pasadena, California",
+  "artistSuffix": "",
+  "artistAlphaSort": "Barthe, Richmond",
+  "artistNationality": "American",
+  "artistBeginDate": "1901",
+  "artistEndDate": "1989",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3431473",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500020064",
+  "objectDate": "1942",
+  "objectBeginDate": 1942,
+  "objectEndDate": 1942,
+  "medium": "Bronze",
+  "dimensions": "18 1/4 × 7 × 12 in., 13 lb. (46.4 × 17.8 × 30.5 cm, 5.9 kg)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 30.5,
+        "Height": 46.35509,
+        "Weight": 5.8967614,
+        "Width": 17.780035
+      }
+    },
+    {
+      "elementName": "Pedestal",
+      "elementDescription": "IM.1.42.180 pedestal",
+      "elementMeasurements": {
+        "Height": 108.58522,
+        "Length": 50.800102,
+        "Width": 50.800102
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1942",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Sculpture",
+  "rightsAndReproduction": "© Estate of Richmond Barthé",
+  "linkResource": "",
+  "metadataDate": "2026-03-17T04:55:46.587Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/488055",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Male Nudes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+    },
+    {
+      "term": "Boxing",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300374825",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q32112"
+    },
+    {
+      "term": "Athletes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300236025",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2066131"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q96585920",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

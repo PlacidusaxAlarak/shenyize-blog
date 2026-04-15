@@ -1,0 +1,111 @@
+{
+  "objectID": 466085,
+  "isHighlight": false,
+  "accessionNumber": "1981.9a-c",
+  "accessionYear": "1981",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/MED47.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/md/web-large/MED47.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/md/original/MED46.jpg",
+    "https://images.metmuseum.org/CRDImages/md/original/SFSL-1981-9a-Face-1.jpg",
+    "https://images.metmuseum.org/CRDImages/md/original/098A_CAT57R4.jpg",
+    "https://images.metmuseum.org/CRDImages/md/original/SFSL-1981-9a-Face-3.jpg",
+    "https://images.metmuseum.org/CRDImages/md/original/SFSL-1981-9a-Face-2.jpg"
+  ],
+  "constituents": null,
+  "department": "Medieval Art",
+  "objectName": "Column",
+  "title": "Capital with Angels Holding the Veil of Saint Veronica, with a Column",
+  "culture": "North Italian",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "",
+  "artistPrefix": "",
+  "artistDisplayName": "",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "ca. 1325–75",
+  "objectBeginDate": 1325,
+  "objectEndDate": 1375,
+  "medium": "Limestone with traces of polychromy",
+  "dimensions": "Overall: 73 7/8 x 20 3/16 x 20 3/16 in. (187.6 x 51.3 x 51.3 cm)\r\ncapital: 15 3/8 x 20 1/4 x 20 1/4 in. (39.1 x 51.4 x 51.4 cm)\r\nshaft: 43 1/2 x 15 in. (110.5 x 38.1 cm)\r\nbase: 15 x 20 3/16 in. (38.1 x 51.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Other",
+      "elementDescription": "capital",
+      "elementMeasurements": {
+        "Depth": 51.435104,
+        "Height": 39.052578,
+        "Width": 51.435104
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 51.276352,
+        "Height": 187.64287,
+        "Width": 51.276352
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "base",
+      "elementMeasurements": {
+        "Diameter": 51.223434,
+        "Height": 38.100075
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "shaft",
+      "elementMeasurements": {
+        "Diameter": 38.100075,
+        "Height": 110.49022
+      }
+    }
+  ],
+  "creditLine": "Purchase, Gifts of Irwin Untermyer, J. Pierpont Morgan and Marcus T. Reynolds, by exchange;  Bequests of George D. Pratt, Susan Dwight Bliss and Henry Victor Burgy, by exchange; and Rogers and Frederick C. Hewitt Funds, 1981",
+  "geographyType": "Made in",
+  "city": "",
+  "state": "Veneto (?)",
+  "county": "",
+  "country": "Italy",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Sculpture-Architectural",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-18T09:36:43.22Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/466085",
+  "tags": [
+    {
+      "term": "Faces",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300251798",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q37017"
+    },
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116245073",
+  "isTimelineWork": false,
+  "GalleryNumber": "305"
+}

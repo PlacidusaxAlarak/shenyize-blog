@@ -1,0 +1,101 @@
+{
+  "objectID": 285446,
+  "isHighlight": false,
+  "accessionNumber": "2004.358",
+  "accessionYear": "2004",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 55967,
+      "role": "Artist",
+      "name": "Joel Sternfeld",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500037070",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1422150",
+      "gender": ""
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "After a Flash Flood, Rancho Mirage, California, July 1979",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Joel Sternfeld",
+  "artistDisplayBio": "American, born 1944",
+  "artistSuffix": "",
+  "artistAlphaSort": "Sternfeld, Joel",
+  "artistNationality": "American",
+  "artistBeginDate": "1944",
+  "artistEndDate": "9999",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1422150",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500037070",
+  "objectDate": "1979, printed 2003",
+  "objectBeginDate": 1979,
+  "objectEndDate": 1979,
+  "medium": "Chromogenic print",
+  "dimensions": "Image: 106.7 x 133.4 cm (42 x 52 1/2 in.)\r\nFrame: 126.4 x 153 cm (49 3/4 x 60 1/4 in.)",
+  "measurements": [
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 126.36525,
+        "Width": 153.03531
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 106.680214,
+        "Width": 133.35027
+      }
+    }
+  ],
+  "creditLine": "Purchase, Steven Ames, Harriett Ames Charitable Trust, and Joseph Cohen Gifts, 2004",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "© Joel Sternfeld",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/285446",
+  "tags": [
+    {
+      "term": "Houses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300005433",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3947"
+    },
+    {
+      "term": "Mountains",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+    },
+    {
+      "term": "Cars",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300178739",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1420"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

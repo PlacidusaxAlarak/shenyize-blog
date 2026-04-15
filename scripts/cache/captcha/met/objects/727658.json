@@ -1,0 +1,98 @@
+{
+  "objectID": 727658,
+  "isHighlight": false,
+  "accessionNumber": "2017.22.76",
+  "accessionYear": "2017",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 193395,
+      "role": "Artist",
+      "name": "Donovan Wylie",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500524622",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3036856",
+      "gender": ""
+    }
+  ],
+  "department": "Modern and Contemporary Art",
+  "objectName": "Photograph",
+  "title": "The Maze/Long Kesh Prison: Communal Area. H — Block 5, D — Wing",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Donovan Wylie",
+  "artistDisplayBio": "Irish, born Belfast, 1971",
+  "artistSuffix": "",
+  "artistAlphaSort": "Wylie, Donovan",
+  "artistNationality": "Irish",
+  "artistBeginDate": "1971",
+  "artistEndDate": "9999",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3036856",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500524622",
+  "objectDate": "2003",
+  "objectBeginDate": 2003,
+  "objectEndDate": 2003,
+  "medium": "Inkjet print",
+  "dimensions": "24 × 30 in. (61 × 76.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 60.96012,
+        "Width": 76.20015
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": "F. 2017.22.76",
+      "elementMeasurements": {
+        "Depth": 4,
+        "Face Width": 2.5,
+        "Height": 62.7,
+        "Width": 77.47015
+      }
+    }
+  ],
+  "creditLine": "Purchase, Lila Acheson Wallace Gift, 2017",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "© Donovan Wylie",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/727658",
+  "tags": [
+    {
+      "term": "Prisons",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300343479",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40357"
+    },
+    {
+      "term": "Interiors",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

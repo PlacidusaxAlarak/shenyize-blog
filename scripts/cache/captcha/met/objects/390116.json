@@ -1,0 +1,104 @@
+{
+  "objectID": 390116,
+  "isHighlight": false,
+  "accessionNumber": "24.90.1514",
+  "accessionYear": "1924",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/49DD_388R3.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/49DD_388R3.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161856,
+      "role": "Engraver",
+      "name": "Asher Brown Durand",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026080",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q391608",
+      "gender": ""
+    },
+    {
+      "constituentID": 162569,
+      "role": "Artist",
+      "name": "After John Trumbull",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016000",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q369263",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "The Declaration of Independence of the United States of America, July 4, 1776",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Engraver",
+  "artistPrefix": "",
+  "artistDisplayName": "Asher Brown Durand",
+  "artistDisplayBio": "American, Jefferson, New Jersey 1796–1886 Maplewood, New Jersey",
+  "artistSuffix": "",
+  "artistAlphaSort": "Durand, Asher Brown",
+  "artistNationality": "American",
+  "artistBeginDate": "1796",
+  "artistEndDate": "1886",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q391608",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500026080",
+  "objectDate": "1823",
+  "objectBeginDate": 1823,
+  "objectEndDate": 1823,
+  "medium": "Engraving; sixth state of six",
+  "dimensions": "image: 20 3/16 x 30 3/16 in. (51.3 x 76.7 cm)\r\nsheet: 23 7/8 x 32 in. (60.6 x 81.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 51.276352,
+        "Width": 76.67641
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 60.64262,
+        "Width": 81.28016
+      }
+    }
+  ],
+  "creditLine": "Bequest of Charles Allen Munn, 1924",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-01-03T04:55:03.877Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/390116",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Law",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300417694",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

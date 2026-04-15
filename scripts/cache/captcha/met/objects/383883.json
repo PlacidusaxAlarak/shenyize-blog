@@ -1,0 +1,126 @@
+{
+  "objectID": 383883,
+  "isHighlight": false,
+  "accessionNumber": "28.82.45",
+  "accessionYear": "1928",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP870096.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP870096.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164044,
+      "role": "Artist",
+      "name": "Hendrick Goudt",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115705",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2101519",
+      "gender": ""
+    },
+    {
+      "constituentID": 161865,
+      "role": "Artist",
+      "name": "After Adam Elsheimer",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115443",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q310285",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Tobias and the Angel (small plate)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Hendrick Goudt",
+  "artistDisplayBio": "Dutch, The Hague 1583–1648 Utrecht",
+  "artistSuffix": "",
+  "artistAlphaSort": "Goudt, Hendrick",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1580",
+  "artistEndDate": "1648",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2101519",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115705",
+  "objectDate": "1608",
+  "objectBeginDate": 1608,
+  "objectEndDate": 1608,
+  "medium": "Engraving; Holl.'s second state of three",
+  "dimensions": "Sheet: 5 5/16 × 7 3/8 in. (13.5 × 18.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 13.5,
+        "Width": 18.7
+      }
+    }
+  ],
+  "creditLine": "Harris Brisbane Dick Fund, 1928",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/383883",
+  "tags": [
+    {
+      "term": "Birds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Cows",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    },
+    {
+      "term": "Fish",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266085",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q152"
+    },
+    {
+      "term": "Frogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250018",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3116510"
+    },
+    {
+      "term": "Sheep",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250284",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7368"
+    },
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

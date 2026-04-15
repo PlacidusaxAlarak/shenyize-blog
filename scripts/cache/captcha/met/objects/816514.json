@@ -1,0 +1,98 @@
+{
+  "objectID": 816514,
+  "isHighlight": false,
+  "accessionNumber": "2020.263.3",
+  "accessionYear": "2020",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19776-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-19776-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 206072,
+      "role": "Artist",
+      "name": "Orsola Maddalena Caccia",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024887",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3356695",
+      "gender": "Female"
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Madonna and Child with the Infant Saint John the Baptist",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Orsola Maddalena Caccia",
+  "artistDisplayBio": "Italian, Moncalvo 1596–1676 Moncalvo",
+  "artistSuffix": "",
+  "artistAlphaSort": "Caccia, Orsola Maddalena",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1596",
+  "artistEndDate": "1676",
+  "artistGender": "Female",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3356695",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500024887",
+  "objectDate": "ca. 1645",
+  "objectBeginDate": 1640,
+  "objectEndDate": 1650,
+  "medium": "Oil on canvas",
+  "dimensions": "38 3/8 × 38 in. (97.5 × 96.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 97.5,
+        "Width": 96.5
+      }
+    }
+  ],
+  "creditLine": "Bequest of Errol M. Rudman, 2020",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-24T04:54:53.227Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/816514",
+  "tags": [
+    {
+      "term": "Madonna and Child",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+    },
+    {
+      "term": "Saint John the Baptist",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+    },
+    {
+      "term": "Virgin Mary",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+    },
+    {
+      "term": "Jesus",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q111272631",
+  "isTimelineWork": false,
+  "GalleryNumber": "620"
+}

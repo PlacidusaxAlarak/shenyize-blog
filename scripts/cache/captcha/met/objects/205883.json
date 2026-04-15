@@ -1,0 +1,101 @@
+{
+  "objectID": 205883,
+  "isHighlight": false,
+  "accessionNumber": "1974.356.319",
+  "accessionYear": "1974",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP352550.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP352550.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP352551.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP352536.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP352552.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 164832,
+      "role": "Manufactory",
+      "name": "Meissen Manufactory",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500054662",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q822407",
+      "gender": ""
+    },
+    {
+      "constituentID": 36289,
+      "role": "Factory director",
+      "name": "Böttger Period",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Figure",
+  "title": "Guanyin",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Manufactory",
+  "artistPrefix": "",
+  "artistDisplayName": "Meissen Manufactory",
+  "artistDisplayBio": "German, 1710–present",
+  "artistSuffix": "",
+  "artistAlphaSort": "Meissen Manufactory",
+  "artistNationality": "German",
+  "artistBeginDate": "1710",
+  "artistEndDate": "9999",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q822407",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500054662",
+  "objectDate": "1710–13",
+  "objectBeginDate": 1710,
+  "objectEndDate": 1713,
+  "medium": "Red stoneware with gilding",
+  "dimensions": "Overall (confirmed): 14 3/4 × 4 × 4 1/8 in. (37.5 × 10.2 × 10.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "confirmed",
+      "elementMeasurements": {
+        "Depth": 10.477521,
+        "Height": 37.465076,
+        "Width": 10.16002
+      }
+    }
+  ],
+  "creditLine": "The Lesley and Emma Sheafer Collection, Bequest of Emma A. Sheafer, 1973",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Ceramics-Pottery",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-11-14T04:52:10.177Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/205883",
+  "tags": [
+    {
+      "term": "Buddhism",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300073738",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q748"
+    },
+    {
+      "term": "Bodhisattvas",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300264360",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q178149"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116309920",
+  "isTimelineWork": false,
+  "GalleryNumber": "533"
+}

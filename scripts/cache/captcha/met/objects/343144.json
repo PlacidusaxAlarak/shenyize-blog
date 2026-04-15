@@ -1,0 +1,98 @@
+{
+  "objectID": 343144,
+  "isHighlight": false,
+  "accessionNumber": "95.24",
+  "accessionYear": "1895",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP820044.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP820044.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 165284,
+      "role": "Artist",
+      "name": "Jacob Maris",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500022053",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q978158",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "Dutch Canal, Rijswijk",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jacob Maris",
+  "artistDisplayBio": "Dutch, The Hague 1837–1899 Karlsbad",
+  "artistSuffix": "",
+  "artistAlphaSort": "Maris, Jacob",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1837",
+  "artistEndDate": "1899",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q978158",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500022053",
+  "objectDate": "second half 19th century",
+  "objectBeginDate": 1850,
+  "objectEndDate": 1899,
+  "medium": "Watercolor over traces of black chalk",
+  "dimensions": "Sheet: 16 1/16 × 19 1/16 in. (40.8 × 48.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 40.8,
+        "Width": 48.4
+      }
+    }
+  ],
+  "creditLine": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 1895",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-09-27T04:50:39.59Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/343144",
+  "tags": [
+    {
+      "term": "Human Figures",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+    },
+    {
+      "term": "Bridges",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300386855",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12280"
+    },
+    {
+      "term": "Canals",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300006075",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12284"
+    },
+    {
+      "term": "Boats",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

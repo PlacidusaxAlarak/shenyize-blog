@@ -1,0 +1,93 @@
+{
+  "objectID": 853958,
+  "isHighlight": false,
+  "accessionNumber": "2021.312.2a, b",
+  "accessionYear": "2021",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 93187,
+      "role": "Artist",
+      "name": "Merrill Wagner",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500058940",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q43139749",
+      "gender": "Female"
+    }
+  ],
+  "department": "Modern and Contemporary Art",
+  "objectName": "Sculpture",
+  "title": "Untitled",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Merrill Wagner",
+  "artistDisplayBio": "American, born Seattle, Washington 1935",
+  "artistSuffix": "",
+  "artistAlphaSort": "Wagner, Merrill",
+  "artistNationality": "American",
+  "artistBeginDate": "1935",
+  "artistEndDate": "9999",
+  "artistGender": "Female",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q43139749",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500058940",
+  "objectDate": "1988",
+  "objectBeginDate": 1988,
+  "objectEndDate": 1988,
+  "medium": "Slate",
+  "dimensions": "24 1/2 × 21 in. (62.2 × 53.3 cm)\r\nA: 24 1/2 × 11 1/4 in. (62.2 × 28.6 cm)\r\nB: 20 × 10 in. (50.8 × 25.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 62.230125,
+        "Width": 53.340107
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "B",
+      "elementMeasurements": {
+        "Height": 50.800102,
+        "Width": 25.400051
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "A",
+      "elementMeasurements": {
+        "Height": 62.230125,
+        "Width": 28.575058
+      }
+    }
+  ],
+  "creditLine": "Gift of Naomi S. Antonakos, 2021",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Sculpture",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2024-09-07T04:54:26.857Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/853958",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

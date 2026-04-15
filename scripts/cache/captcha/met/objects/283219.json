@@ -1,0 +1,88 @@
+{
+  "objectID": 283219,
+  "isHighlight": false,
+  "accessionNumber": "2005.100.618",
+  "accessionYear": "2005",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ph/original/DP205144.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ph/web-large/DP205144.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 54840,
+      "role": "Artist",
+      "name": "Carleton E. Watkins",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002731",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2939083",
+      "gender": ""
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "The Grizzly Giant, Mariposa Grove, Yosemite",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Carleton E. Watkins",
+  "artistDisplayBio": "American, 1829–1916",
+  "artistSuffix": "",
+  "artistAlphaSort": "Watkins, Carleton E.",
+  "artistNationality": "American",
+  "artistBeginDate": "1829",
+  "artistEndDate": "1916",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2939083",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500002731",
+  "objectDate": "1861",
+  "objectBeginDate": 1861,
+  "objectEndDate": 1861,
+  "medium": "Albumen silver print from glass negative",
+  "dimensions": "Image: 52.3 x 40.7; Mount: 61.4 x 54.1",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 52.3,
+        "Width": 40.7
+      }
+    }
+  ],
+  "creditLine": "Gilman Collection, Purchase, Gift of The Howard Gilman Foundation, by exchange, 2005",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-03-20T04:55:14.207Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/283219",
+  "tags": [
+    {
+      "term": "Forests",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300387598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4421"
+    },
+    {
+      "term": "Trees",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

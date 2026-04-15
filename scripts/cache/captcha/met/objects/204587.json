@@ -1,0 +1,111 @@
+{
+  "objectID": 204587,
+  "isHighlight": false,
+  "accessionNumber": "65.202",
+  "accessionYear": "1965",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP234101.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP234101.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP234103.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP234064.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP234100.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP245929.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP234104.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 33172,
+      "role": "Artist",
+      "name": "Antico (Pier Jacopo Alari Bonacolsi)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006970",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1464234",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Bust",
+  "title": "Emperor Antoninus Pius",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Antico (Pier Jacopo Alari Bonacolsi)",
+  "artistDisplayBio": "Italian, Mantua ca. 1460–1528 Gazzuolo",
+  "artistSuffix": "",
+  "artistAlphaSort": "Antico (Alari Bonacolsi, Pier Jacopo)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1460",
+  "artistEndDate": "1528",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1464234",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500006970",
+  "objectDate": "1519–24",
+  "objectBeginDate": 1519,
+  "objectEndDate": 1524,
+  "medium": "Bronze, partially oil-gilt, silver inlay, on serpentinite socle",
+  "dimensions": "Overall without base (confirmed): H. 25 1/4 x W. 19 3/4 x D. 14 1/4 in. (64.1 x 50.2 x 36.2 cm); Height with base (confirmed): 29 7/8 in. (75.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "confirmed",
+      "elementMeasurements": {
+        "Depth": 36.195072,
+        "Height": 64.13513,
+        "Width": 50.1651
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "historic dimensions, superceded",
+      "elementMeasurements": {
+        "Height": 74.6
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "historic dimensions, superceded",
+      "elementMeasurements": {
+        "Height": 58.7
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "confirmed",
+      "elementMeasurements": {
+        "Height": 75.88265
+      }
+    }
+  ],
+  "creditLine": "Gift of Edward Fowles, 1965",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Sculpture-Bronze",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-31T04:54:36.6Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/204587",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116310451",
+  "isTimelineWork": false,
+  "GalleryNumber": "536"
+}

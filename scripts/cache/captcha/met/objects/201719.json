@@ -1,0 +1,97 @@
+{
+  "objectID": 201719,
+  "isHighlight": false,
+  "accessionNumber": "54.147.8",
+  "accessionYear": "1954",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-12317-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP-12317-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP-12317-002.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP-12317-003.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 38246,
+      "role": "Factory",
+      "name": "Villeroy",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Feeding bowl",
+  "title": "Feeding bowl",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Factory",
+  "artistPrefix": "",
+  "artistDisplayName": "Villeroy",
+  "artistDisplayBio": "French, 1734/37–1748",
+  "artistSuffix": "",
+  "artistAlphaSort": "Villeroy",
+  "artistNationality": "French",
+  "artistBeginDate": "1734",
+  "artistEndDate": "1748",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "1745",
+  "objectBeginDate": 1745,
+  "objectEndDate": 1745,
+  "medium": "Tin-glazed soft-paste porcelain decorated in polychrome enamels",
+  "dimensions": "Overall (confirmed): 1 7/8 × 8 3/8 × 2 5/16 in. (4.8 × 21.3 × 5.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "confirmed",
+      "elementMeasurements": {
+        "Depth": 5.8737617,
+        "Height": 4.7625093,
+        "Width": 21.272543
+      }
+    }
+  ],
+  "creditLine": "Gift of R. Thornton Wilson, in memory of Florence Ellsworth Wilson, 1954",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Ceramics-Porcelain",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-31T04:54:36.6Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/201719",
+  "tags": [
+    {
+      "term": "Birds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+    },
+    {
+      "term": "Boys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+    },
+    {
+      "term": "Fish",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266085",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q152"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": "545"
+}

@@ -1,0 +1,124 @@
+{
+  "objectID": 395642,
+  "isHighlight": false,
+  "accessionNumber": "45.100.2",
+  "accessionYear": "1945",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP-1509-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP-1509-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-1509-002.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 164815,
+      "role": "Artist",
+      "name": "Jacques Philippe Le Bas",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016455",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q280936",
+      "gender": ""
+    },
+    {
+      "constituentID": 163320,
+      "role": "Artist",
+      "name": "After Giuseppe Castiglione",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008839",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q458671",
+      "gender": ""
+    },
+    {
+      "constituentID": 165545,
+      "role": "Artist",
+      "name": "(direxit) Charles Nicolas Cochin II",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021138",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2408093",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Storming the Camp at Mount Gadan",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "The Conquests of the Emperor of China\r\n(Les Conquêtes de l'Empereur de la Chine)",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jacques Philippe Le Bas",
+  "artistDisplayBio": "French, Paris 1707–1783 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Le Bas, Jacques Philippe",
+  "artistNationality": "French",
+  "artistBeginDate": "1707",
+  "artistEndDate": "1783",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q280936",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500016455",
+  "objectDate": "1769",
+  "objectBeginDate": 1769,
+  "objectEndDate": 1769,
+  "medium": "Etching and engraving",
+  "dimensions": "Sheet: 25 13/16 × 39 5/8 in. (65.5 × 100.6 cm)\r\nPlate: 22 11/16 x 36 13/16 in. (57.6 x 93.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 65.5,
+        "Width": 100.6
+      }
+    },
+    {
+      "elementName": "Plate",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 57.6,
+        "Width": 93.5
+      }
+    }
+  ],
+  "creditLine": "Harris Brisbane Dick Fund, 1945",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-09-27T04:50:39.59Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/395642",
+  "tags": [
+    {
+      "term": "Human Figures",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+    },
+    {
+      "term": "Horses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+    },
+    {
+      "term": "Mountains",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

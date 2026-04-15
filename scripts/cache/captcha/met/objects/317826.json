@@ -1,0 +1,88 @@
+{
+  "objectID": 317826,
+  "isHighlight": false,
+  "accessionNumber": "1997.35.2",
+  "accessionYear": "1997",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DT4135.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/DT4135.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-17828-001.jpg",
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-17828-002.jpg",
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-17828-003.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 221402,
+      "role": "Artist",
+      "name": "Taíno artist(s)",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "The Michael C. Rockefeller Wing",
+  "objectName": "Stone",
+  "title": "Three-cornered stone",
+  "culture": "Taíno",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Taíno artist(s)",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "Taíno artist(s)",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "900–1600 CE",
+  "objectBeginDate": 900,
+  "objectEndDate": 1600,
+  "medium": "Limestone",
+  "dimensions": "H. 6 3/4 x W. 3 3/4 x D. 7 1/4 in. (17.1 x 9.5 x 18.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 18.42,
+        "Height": 17.145,
+        "Width": 9.53
+      }
+    }
+  ],
+  "creditLine": "Purchase, Oscar de la Renta Gift, 1997",
+  "geographyType": "",
+  "city": "San Juan de la Maguana, reportedly",
+  "state": "",
+  "county": "",
+  "country": "Dominican Republic",
+  "region": "Caribbean",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Stone-Sculpture",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/317826",
+  "tags": [
+    {
+      "term": "Faces",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300251798",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q37017"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": true,
+  "GalleryNumber": "360"
+}

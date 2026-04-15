@@ -1,0 +1,81 @@
+{
+  "objectID": 309389,
+  "isHighlight": false,
+  "accessionNumber": "66.30.6",
+  "accessionYear": "1966",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DP-24278-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-24278-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-24278-003.jpg",
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-24278-002.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 224096,
+      "role": "Artist",
+      "name": "Inca artist(s)",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "The Michael C. Rockefeller Wing",
+  "objectName": "Bottle",
+  "title": "Urpu (jar)",
+  "culture": "Inca",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Inca artist(s)",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "Inca artist(s)",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "1400–1535 CE",
+  "objectBeginDate": 1400,
+  "objectEndDate": 1535,
+  "medium": "Ceramic, slip",
+  "dimensions": "H. 11 1/2 × W. 9 1/4 × D. 7 1/2 in. (29.2 × 23.5 × 19.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 19.050037,
+        "Height": 29.210058,
+        "Width": 23.495047
+      }
+    }
+  ],
+  "creditLine": "Gift of Nathan Cummings, 1966",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "Peru",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Ceramics-Containers",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-05-31T04:50:53.377Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/309389",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": "361"
+}

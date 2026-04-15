@@ -1,0 +1,102 @@
+{
+  "objectID": 760930,
+  "isHighlight": false,
+  "accessionNumber": "2017.322",
+  "accessionYear": "2017",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 142797,
+      "role": "Artist",
+      "name": "David Bates",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500118720",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q12629627",
+      "gender": ""
+    }
+  ],
+  "department": "Modern and Contemporary Art",
+  "objectName": "Painting",
+  "title": "The Deluge V",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "David Bates",
+  "artistDisplayBio": "American, born Dallas, Texas, 1952",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bates, David",
+  "artistNationality": "American",
+  "artistBeginDate": "1952",
+  "artistEndDate": "9999",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q12629627",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500118720",
+  "objectDate": "2007",
+  "objectBeginDate": 2007,
+  "objectEndDate": 2007,
+  "medium": "Oil on canvas",
+  "dimensions": "60 × 84 in. (152.4 × 213.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 152.4003,
+        "Width": 213.36043
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": "F.2017.322 Brown wood float frame-NO plexi",
+      "elementMeasurements": {
+        "Depth": 5.7150116,
+        "Height": 158.75032,
+        "Width": 219.71043
+      }
+    }
+  ],
+  "creditLine": "Gift of Jan Lee Bates, 2017",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "© David Bates",
+  "linkResource": "",
+  "metadataDate": "2025-12-13T04:50:44.133Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/760930",
+  "tags": [
+    {
+      "term": "Architecture",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300263552",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12271"
+    },
+    {
+      "term": "Floods",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300054731",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8068"
+    },
+    {
+      "term": "Cars",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300178739",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1420"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q126119966",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

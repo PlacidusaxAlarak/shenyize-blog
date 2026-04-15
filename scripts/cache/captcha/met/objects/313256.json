@@ -1,0 +1,89 @@
+{
+  "objectID": 313256,
+  "isHighlight": true,
+  "accessionNumber": "1979.206.1063",
+  "accessionYear": "1979",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DP-24340-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-24340-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-24340-005.jpg",
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-24340-004.jpg",
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-24340-003.jpg",
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-24340-002.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 223139,
+      "role": "Artist",
+      "name": "Maya artist(s)",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "The Michael C. Rockefeller Wing",
+  "objectName": "Male figure",
+  "title": "Mirror-bearer",
+  "culture": "Maya",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Maya artist(s)",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "Maya artist(s)",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "410–650 CE",
+  "objectBeginDate": 410,
+  "objectEndDate": 650,
+  "medium": "Cordia wood (bocote), red hematite",
+  "dimensions": "H. 14 1/8 x W. 9 x D. 9 in. (35.9 x 22.9 x 22.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 22.86,
+        "Height": 35.8775,
+        "Width": 22.86
+      }
+    }
+  ],
+  "creditLine": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "Guatemala or Mexico",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Wood-Sculpture",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/313256",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q29384320",
+  "isTimelineWork": true,
+  "GalleryNumber": "360"
+}

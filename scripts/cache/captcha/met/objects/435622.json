@@ -1,0 +1,107 @@
+{
+  "objectID": 435622,
+  "isHighlight": false,
+  "accessionNumber": "1982.438",
+  "accessionYear": "1982",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-24221-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-24221-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161658,
+      "role": "Artist",
+      "name": "Pompeo Batoni",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012720",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q505613",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Diana and Cupid",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Pompeo Batoni",
+  "artistDisplayBio": "Italian, Lucca 1708–1787 Rome",
+  "artistSuffix": "",
+  "artistAlphaSort": "Batoni, Pompeo",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1708",
+  "artistEndDate": "1787",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q505613",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500012720",
+  "objectDate": "1761",
+  "objectBeginDate": 1761,
+  "objectEndDate": 1761,
+  "medium": "Oil on canvas",
+  "dimensions": "49 x 68 in. (124.5 x 172.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 124.5,
+        "Width": 172.7
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 10.16,
+        "Height": 149.2253,
+        "Width": 195.5804
+      }
+    }
+  ],
+  "creditLine": "Purchase, The Charles Engelhard Foundation, Robert Lehman Foundation Inc., Mrs. Haebler Frantz, April R. Axton, L. H. P. Klotz, and David Mortimer Gifts; and Gifts of Mr. and Mrs. Charles Wrightsman, George Blumenthal, and J. Pierpont Morgan, Bequests of Millie Bruhl Fredrick and Mary Clark Thompson, and Rogers Fund, by exchange, 1982",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-11-21T10:05:27.96Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435622",
+  "tags": [
+    {
+      "term": "Bow and Arrow",
+      "AAT_URL": null,
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q19827042"
+    },
+    {
+      "term": "Cupid",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300380105",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5011"
+    },
+    {
+      "term": "Diana",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000118",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q132543"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911988",
+  "isTimelineWork": true,
+  "GalleryNumber": "627"
+}

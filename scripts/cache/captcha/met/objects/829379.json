@@ -1,0 +1,93 @@
+{
+  "objectID": 829379,
+  "isHighlight": false,
+  "accessionNumber": "2019.420.2",
+  "accessionYear": "2019",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP-20030-002.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP-20030-002.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/DP-20030-001.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 12865,
+      "role": "Artist",
+      "name": "Attributed to Kaō",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500121263",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Hanging scroll",
+  "title": "Herdboys and Buffalos",
+  "culture": "Japan",
+  "period": "Kamakura  (1185–1333)–Nanbokuchō period (1336–1392)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Attributed to",
+  "artistDisplayName": "Kaō",
+  "artistDisplayBio": "Japanese,active first half 14th century",
+  "artistSuffix": "",
+  "artistAlphaSort": "Kaō",
+  "artistNationality": "Japanese",
+  "artistBeginDate": "1245",
+  "artistEndDate": "1345",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500121263",
+  "objectDate": "probably 15th century",
+  "objectBeginDate": 1400,
+  "objectEndDate": 1499,
+  "medium": "Hanging scroll; ink on paper",
+  "dimensions": "Image: 19 11/16 × 11 5/8 in. (50 × 29.5 cm)\r\nOverall with mounting: 53 11/16 × 14 7/16 in. (136.4 × 36.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 50,
+        "Width": 29.5
+      }
+    },
+    {
+      "elementName": "Overall with mounting",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 136.4,
+        "Width": 36.6
+      }
+    }
+  ],
+  "creditLine": "Mary and Cheney Cowles Collection, Gift of Mary and Cheney Cowles, 2019",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-10-21T13:08:39.33Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/829379",
+  "tags": [
+    {
+      "term": "Buffalos",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250108",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q82728"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q126119540",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

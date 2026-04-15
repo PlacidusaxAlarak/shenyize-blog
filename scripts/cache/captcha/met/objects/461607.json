@@ -1,0 +1,95 @@
+{
+  "objectID": 461607,
+  "isHighlight": false,
+  "accessionNumber": "1975.1.2158",
+  "accessionYear": "1975",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DT2839.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/rl/web-large/DT2839.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/rl/original/86C_043r3_p.jpg",
+    "https://images.metmuseum.org/CRDImages/rl/original/86C_FRTS3R3M.jpg",
+    "https://images.metmuseum.org/CRDImages/rl/original/86D_043Vr1.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 161672,
+      "role": "Artist",
+      "name": "Possibly workshop of Benedetto da Maiano",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006675",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q675619",
+      "gender": ""
+    }
+  ],
+  "department": "Robert Lehman Collection",
+  "objectName": "Frame",
+  "title": "Tondo mirror frame",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Possibly workshop of",
+  "artistDisplayName": "Benedetto da Maiano",
+  "artistDisplayBio": "Italian, Maiano 1442–1497 Florence",
+  "artistSuffix": "",
+  "artistAlphaSort": "Benedetto da Maiano",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1442",
+  "artistEndDate": "1497",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q675619",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500006675",
+  "objectDate": "ca. 1480",
+  "objectBeginDate": 1480,
+  "objectEndDate": 1480,
+  "medium": "Stucco squeeze, blown convex mirror, gilt, orange-brown bole.",
+  "dimensions": "Overall: 21 7/16 × 14 3/4 in. (54.5 × 37.5 cm)\r\nSight: 5 × 5 1/8 in. (12.7 × 13 cm)",
+  "measurements": [
+    {
+      "elementName": "Sight",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 12.7,
+        "Width": 13
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "Overall",
+      "elementMeasurements": {
+        "Height": 54.5,
+        "Width": 37.5
+      }
+    }
+  ],
+  "creditLine": "Robert Lehman Collection, 1975",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Frames",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-29T04:54:03.16Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/461607",
+  "tags": [
+    {
+      "term": "Coat of Arms",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300126352",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q14659"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116280463",
+  "isTimelineWork": true,
+  "GalleryNumber": "954"
+}

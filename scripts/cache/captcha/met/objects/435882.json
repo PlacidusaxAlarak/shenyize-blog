@@ -1,0 +1,97 @@
+{
+  "objectID": 435882,
+  "isHighlight": true,
+  "accessionNumber": "51.112.1",
+  "accessionYear": "1951",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT47.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT47.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161761,
+      "role": "Artist",
+      "name": "Paul Cézanne",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Still Life with Apples and a Pot of Primroses",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Paul Cézanne",
+  "artistDisplayBio": "French, Aix-en-Provence 1839–1906 Aix-en-Provence",
+  "artistSuffix": "",
+  "artistAlphaSort": "Cézanne, Paul",
+  "artistNationality": "French",
+  "artistBeginDate": "1839",
+  "artistEndDate": "1906",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+  "objectDate": "ca. 1890",
+  "objectBeginDate": 1885,
+  "objectEndDate": 1895,
+  "medium": "Oil on canvas",
+  "dimensions": "28 3/4 x 36 3/8 in. (73 x 92.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 73,
+        "Width": 92.4
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 11.43,
+        "Height": 106.0452,
+        "Width": 124.4602
+      }
+    }
+  ],
+  "creditLine": "Bequest of Sam A. Lewisohn, 1951",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-01-21T04:52:24.343Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435882",
+  "tags": [
+    {
+      "term": "Apples",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266417",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q89"
+    },
+    {
+      "term": "Still Life",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19904841",
+  "isTimelineWork": true,
+  "GalleryNumber": "826"
+}

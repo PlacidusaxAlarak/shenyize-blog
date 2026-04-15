@@ -1,0 +1,92 @@
+{
+  "objectID": 452501,
+  "isHighlight": false,
+  "accessionNumber": "1973.92",
+  "accessionYear": "1973",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP164675.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP164675.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/is/original/sf1973-92v.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DP164674.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DP164676.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/sf1973-92r.jpg"
+  ],
+  "constituents": null,
+  "department": "Islamic Art",
+  "objectName": "Illustrated single work",
+  "title": "Kneeling Youth",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "",
+  "artistPrefix": "",
+  "artistDisplayName": "",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "late 16th century",
+  "objectBeginDate": 1575,
+  "objectEndDate": 1599,
+  "medium": "Ink, watercolor, and gold on paper",
+  "dimensions": "Overall:\r\n           H. 6 1/2 in. (16.5 cm)\r\n           W. 3 1/2 in. (8.9 cm)\r\nDimensions of entire page:\r\n           H. 8 3/8 in. (21.3 cm)\r\n           W. 12 3/16 in. (31 cm)",
+  "measurements": [
+    {
+      "elementName": "Other",
+      "elementDescription": "Dimensions of entire page",
+      "elementMeasurements": {
+        "Height": 31,
+        "Width": 21.3
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 16.5,
+        "Width": 8.9
+      }
+    }
+  ],
+  "creditLine": "Rogers and Fletcher Funds, 1973",
+  "geographyType": "Attributed to",
+  "city": "Qazvin",
+  "state": "",
+  "county": "",
+  "country": "Iran",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Codices",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-05-08T04:50:44.137Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/452501",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

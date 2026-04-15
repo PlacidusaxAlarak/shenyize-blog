@@ -1,0 +1,88 @@
+{
+  "objectID": 488500,
+  "isHighlight": false,
+  "accessionNumber": "49.70.55",
+  "accessionYear": "1949",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161826,
+      "role": "Artist",
+      "name": "Charles Demuth",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004441",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q380494",
+      "gender": ""
+    }
+  ],
+  "department": "Modern and Contemporary Art",
+  "objectName": "Drawing",
+  "title": "Bermuda No. 1, Tree and House",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Charles Demuth",
+  "artistDisplayBio": "American, Lancaster, Pennsylvania 1883–1935 Lancaster, Pennsylvania",
+  "artistSuffix": "",
+  "artistAlphaSort": "Demuth, Charles",
+  "artistNationality": "American",
+  "artistBeginDate": "1883",
+  "artistEndDate": "1935",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q380494",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500004441",
+  "objectDate": "1917",
+  "objectBeginDate": 1917,
+  "objectEndDate": 1917,
+  "medium": "Watercolor and graphite with cut paper on paper",
+  "dimensions": "10 in. × 13 15/16 in. (25.4 × 35.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 25.4,
+        "Width": 35.4
+      }
+    }
+  ],
+  "creditLine": "Alfred Stieglitz Collection, 1949",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-02-06T04:55:31.413Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/488500",
+  "tags": [
+    {
+      "term": "Houses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300005433",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3947"
+    },
+    {
+      "term": "Trees",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

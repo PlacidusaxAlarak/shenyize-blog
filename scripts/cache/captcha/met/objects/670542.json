@@ -1,0 +1,104 @@
+{
+  "objectID": 670542,
+  "isHighlight": false,
+  "accessionNumber": "2015.300.167a, b",
+  "accessionYear": "2015",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP-12232-187.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP-12232-187.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/DP-12232-189.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP-12232-191.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP-12232-188.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP-12232-190.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 11878,
+      "role": "Artist",
+      "name": "Ike no Taiga",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500121068",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2661041",
+      "gender": ""
+    },
+    {
+      "constituentID": 181666,
+      "role": "Calligrapher",
+      "name": "Rokunyo",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Hanging scrolls",
+  "title": "Evening Glow in a Mountain Village and Calligraphy",
+  "culture": "Japan",
+  "period": "Edo period (1615–1868)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Ike no Taiga",
+  "artistDisplayBio": "Japanese, 1723–1776",
+  "artistSuffix": "",
+  "artistAlphaSort": "Ike no Taiga",
+  "artistNationality": "Japanese",
+  "artistBeginDate": "1723",
+  "artistEndDate": "1776",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2661041",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500121068",
+  "objectDate": "late 18th–early 19th century",
+  "objectBeginDate": 1767,
+  "objectEndDate": 1833,
+  "medium": "Album leaves mounted as hanging scrolls; ink on paper",
+  "dimensions": "Image (each): 9 × 14 5/8 in. (22.9 × 37.1 cm)\r\nOverall with mounting (each): 39 1/4 × 21 1/2 in. (99.7 × 54.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall with mounting",
+      "elementDescription": "each",
+      "elementMeasurements": {
+        "Height": 99.6952,
+        "Width": 54.610107
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": "each",
+      "elementMeasurements": {
+        "Height": 22.860046,
+        "Width": 37.147575
+      }
+    }
+  ],
+  "creditLine": "Mary Griggs Burke Collection, Gift of the Mary and Jackson Burke Foundation, 2015",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/670542",
+  "tags": [
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78622942",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

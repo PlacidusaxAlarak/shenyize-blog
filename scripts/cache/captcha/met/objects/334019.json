@@ -1,0 +1,91 @@
+{
+  "objectID": 334019,
+  "isHighlight": false,
+  "accessionNumber": "35.103.19",
+  "accessionYear": "1935",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP800142.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP800142.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/dp/original/APS3071.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DT204708.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 161953,
+      "role": "Artist",
+      "name": "Goya (Francisco de Goya y Lucientes)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500118936",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5432",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "Crowd in a Park; page 31 from the \"Images of Spain\" album (F)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "Images of Spain",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Goya (Francisco de Goya y Lucientes)",
+  "artistDisplayBio": "Spanish, Fuendetodos 1746–1828 Bordeaux",
+  "artistSuffix": "",
+  "artistAlphaSort": "Goya (Francisco de Goya y Lucientes)",
+  "artistNationality": "Spanish",
+  "artistBeginDate": "1746",
+  "artistEndDate": "1828",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5432",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500118936",
+  "objectDate": "ca. 1812–20",
+  "objectBeginDate": 1807,
+  "objectEndDate": 1825,
+  "medium": "Brush, bistre and brown ink wash, traces of black chalk",
+  "dimensions": "Sheet: 8-1/8 x 5-5/8 in. (20.6 x 14.3cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 20.6,
+        "Width": 14.3
+      }
+    }
+  ],
+  "creditLine": "Harris Brisbane Dick Fund, 1935",
+  "geographyType": "Made in",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "Spain",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-09-17T04:49:46.407Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/334019",
+  "tags": [
+    {
+      "term": "Parks",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008187",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q22698"
+    },
+    {
+      "term": "Crowd",
+      "AAT_URL": null,
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q13430821"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

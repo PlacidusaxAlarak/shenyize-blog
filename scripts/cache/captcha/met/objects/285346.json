@@ -1,0 +1,88 @@
+{
+  "objectID": 285346,
+  "isHighlight": false,
+  "accessionNumber": "2005.100.301",
+  "accessionYear": "2005",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 54968,
+      "role": "Artist",
+      "name": "Manuel Alvarez Bravo",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028115",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q712262",
+      "gender": ""
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "El Soñador",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Manuel Alvarez Bravo",
+  "artistDisplayBio": "Mexican, Mexico City 1902–2002 Mexico City",
+  "artistSuffix": "",
+  "artistAlphaSort": "Alvarez Bravo, Manuel",
+  "artistNationality": "Mexican",
+  "artistBeginDate": "1902",
+  "artistEndDate": "2002",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q712262",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500028115",
+  "objectDate": "1931",
+  "objectBeginDate": 1931,
+  "objectEndDate": 1931,
+  "medium": "Gelatin silver print",
+  "dimensions": "12.3 x 16.9 cm (4 13/16 x 6 5/8 in.)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 12.3,
+        "Width": 16.9
+      }
+    }
+  ],
+  "creditLine": "Gilman Collection, Purchase, Ann Tenenbaum and Thomas H. Lee Gift, 2005",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "© 2026 Artists Rights Society (ARS), New York",
+  "linkResource": "",
+  "metadataDate": "2026-01-07T04:49:48.69Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/285346",
+  "tags": [
+    {
+      "term": "Sleeping",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300375130",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35831"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

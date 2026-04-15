@@ -1,0 +1,98 @@
+{
+  "objectID": 436097,
+  "isHighlight": false,
+  "accessionNumber": "14.40.636",
+  "accessionYear": "1914",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-26280-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-26280-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161810,
+      "role": "Artist",
+      "name": "Gerard David",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025998",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q333380",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, possibly the right wing of a diptych",
+  "title": "Christ Taking Leave of His Mother",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Gerard David",
+  "artistDisplayBio": "Netherlandish, Oudewater ca. 1455–1523 Bruges",
+  "artistSuffix": "",
+  "artistAlphaSort": "David, Gerard",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1455",
+  "artistEndDate": "1523",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q333380",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500025998",
+  "objectDate": "ca. 1500",
+  "objectBeginDate": 1495,
+  "objectEndDate": 1505,
+  "medium": "Oil on wood",
+  "dimensions": "Arched top, 6 1/8 x 4 3/4 in. (15.6 x 12.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 15.6,
+        "Width": 12.1
+      }
+    }
+  ],
+  "creditLine": "Bequest of Benjamin Altman, 1913",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-02-04T04:58:06.107Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436097",
+  "tags": [
+    {
+      "term": "Sadness",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055166",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q169251"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Virgin Mary",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905246",
+  "isTimelineWork": true,
+  "GalleryNumber": "635"
+}

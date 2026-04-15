@@ -1,0 +1,122 @@
+{
+  "objectID": 438820,
+  "isHighlight": true,
+  "accessionNumber": "40.175",
+  "accessionYear": "1940",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1967.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1967.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161790,
+      "role": "Artist",
+      "name": "Gustave Courbet",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010927",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q34618",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Young Ladies of the Village",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Gustave Courbet",
+  "artistDisplayBio": "French, Ornans 1819–1877 La Tour-de-Peilz",
+  "artistSuffix": "",
+  "artistAlphaSort": "Courbet, Gustave",
+  "artistNationality": "French",
+  "artistBeginDate": "1819",
+  "artistEndDate": "1877",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q34618",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010927",
+  "objectDate": "1851–52",
+  "objectBeginDate": 1851,
+  "objectEndDate": 1852,
+  "medium": "Oil on canvas",
+  "dimensions": "76 3/4 x 102 3/4 in. (194.9 x 261 cm)",
+  "measurements": [
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 15.24,
+        "Height": 233.0455,
+        "Width": 296.5456
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 194.9454,
+        "Width": 260.9855
+      }
+    }
+  ],
+  "creditLine": "Gift of Harry Payne Bingham, 1940",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-01-22T04:58:11.04Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438820",
+  "tags": [
+    {
+      "term": "Girls",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Cows",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    },
+    {
+      "term": "Baskets",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300194498",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q201097"
+    },
+    {
+      "term": "Parasols",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300046218",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1762975"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911495",
+  "isTimelineWork": true,
+  "GalleryNumber": "812"
+}

@@ -1,0 +1,94 @@
+{
+  "objectID": 197461,
+  "isHighlight": false,
+  "accessionNumber": "33.153.3",
+  "accessionYear": "1933",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-22143-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP-22143-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/94819.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/94820.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/94821.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/94822.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/94823.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 35616,
+      "role": "Artist",
+      "name": "Fulvio Signorini",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500046204",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q97572148",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Statue",
+  "title": "Saint Bernardino of Siena",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Fulvio Signorini",
+  "artistDisplayBio": "1563–after 1609",
+  "artistSuffix": "",
+  "artistAlphaSort": "Signorini Fulvio",
+  "artistNationality": "",
+  "artistBeginDate": "1563",
+  "artistEndDate": "1609",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q97572148",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500046204",
+  "objectDate": "ca. 1600",
+  "objectBeginDate": 1595,
+  "objectEndDate": 1605,
+  "medium": "Bronze, partially oil-gilt",
+  "dimensions": "Overall (confirmed): 58 1/2 in., 591 lb. (148.6 cm, 268.1 kg)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "confirmed",
+      "elementMeasurements": {
+        "Height": 148.6,
+        "Weight": 268.07584
+      }
+    }
+  ],
+  "creditLine": "Harris Brisbane Dick Fund, 1933",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Sculpture-Bronze",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-31T04:54:36.6Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/197461",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Saints",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116398921",
+  "isTimelineWork": false,
+  "GalleryNumber": "503"
+}

@@ -1,0 +1,103 @@
+{
+  "objectID": 40105,
+  "isHighlight": false,
+  "accessionNumber": "1989.363.17",
+  "accessionYear": "1989",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DT6277_CRD.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DT6277_CRD.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/DT6277.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DT6278.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DT6279.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DT6280.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DT6281.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DT6282.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 11624,
+      "role": "Artist",
+      "name": "Yelü Chucai",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q117449",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Handscroll",
+  "title": "Poem of Farewell to Liu Man",
+  "culture": "China",
+  "period": "Yuan dynasty (1271–1368)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Yelü Chucai",
+  "artistDisplayBio": "Khitan, 1190–1244",
+  "artistSuffix": "",
+  "artistAlphaSort": "YELÜ CHUCAI",
+  "artistNationality": "Khitan",
+  "artistBeginDate": "1190",
+  "artistEndDate": "1244",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q117449",
+  "artistULAN_URL": "(not assigned)",
+  "objectDate": "dated 1240",
+  "objectBeginDate": 1230,
+  "objectEndDate": 1250,
+  "medium": "Handscroll; ink on paper",
+  "dimensions": "Image: 14 1/2 x 111 3/4 in. (36.8 x 283.8 cm)\r\nOverall with mounting: 15 in. x 37 ft. 7 11/16 in. (38.1 x 1147.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall with mounting",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 38.1001,
+        "Width": 1147.2885
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 36.8301,
+        "Width": 283.8456
+      }
+    }
+  ],
+  "creditLine": "Bequest of John M. Crawford Jr., 1988",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Calligraphy",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-23T04:54:48.75Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/40105",
+  "tags": [
+    {
+      "term": "Poetry",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055931",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q482"
+    },
+    {
+      "term": "Calligraphy",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266660",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12681"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q83562248",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

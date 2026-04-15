@@ -1,0 +1,98 @@
+{
+  "objectID": 769297,
+  "isHighlight": false,
+  "accessionNumber": "2017.422",
+  "accessionYear": "2017",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-15413-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-15413-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-2017_422_suppl_002_2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-2017_422_suppl_003_2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-2017_422_suppl_004.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/DP-15417-001.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 165439,
+      "role": "Artist",
+      "name": "Giovanni Battista Gaulli (Il Baciccio)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000833",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q520573",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Pope Clement X (1590–1676)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Giovanni Battista Gaulli (Il Baciccio)",
+  "artistDisplayBio": "Italian, Genoa 1639–1709 Rome",
+  "artistSuffix": "",
+  "artistAlphaSort": "Gaulli, Giovanni Battista",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1639",
+  "artistEndDate": "1709",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q520573",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500000833",
+  "objectDate": "ca. 1670–71",
+  "objectBeginDate": 1670,
+  "objectEndDate": 1671,
+  "medium": "Oil on canvas",
+  "dimensions": "30 1/2 × 24 1/4 in. (77.5 × 61.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 77.47015,
+        "Width": 61.595123
+      }
+    }
+  ],
+  "creditLine": "Purchase, Friends of European Paintings Gifts, 2017",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-02-06T04:53:12.97Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/769297",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Popes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025773",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q19546"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78611598",
+  "isTimelineWork": false,
+  "GalleryNumber": "620"
+}

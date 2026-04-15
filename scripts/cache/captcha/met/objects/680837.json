@@ -1,0 +1,112 @@
+{
+  "objectID": 680837,
+  "isHighlight": false,
+  "accessionNumber": "2015.204",
+  "accessionYear": "2015",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 88048,
+      "role": "Artist",
+      "name": "Wilbur Macey Stone",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q105822458",
+      "gender": ""
+    },
+    {
+      "constituentID": 105629,
+      "role": "Designer",
+      "name": "After J. &amp; W. Beggarstaff",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 185522,
+      "role": "Printer",
+      "name": "R. S. Peck and Company, Hartford, Connecticut",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 164876,
+      "role": "Subject",
+      "name": "William Shakespeare",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500272240",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q692",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Poster",
+  "title": "Hartford Building and Loan Association: Hamlet",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Wilbur Macey Stone",
+  "artistDisplayBio": "American, 1862–1941",
+  "artistSuffix": "",
+  "artistAlphaSort": "Stone, Wilbur Macey",
+  "artistNationality": "American",
+  "artistBeginDate": "1862",
+  "artistEndDate": "1941",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q105822458",
+  "artistULAN_URL": "(not assigned)",
+  "objectDate": "1897",
+  "objectBeginDate": 1897,
+  "objectEndDate": 1897,
+  "medium": "Lithograph",
+  "dimensions": "Sheet: 27 × 15 in. (68.6 × 38.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 68.58014,
+        "Width": 38.100075
+      }
+    }
+  ],
+  "creditLine": "Purchase, Leonard A. Lauder Gift, 2015",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/680837",
+  "tags": [
+    {
+      "term": "Shakespeare",
+      "AAT_URL": "http://vocab.getty.edu/page/ulan/500272240",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q692"
+    },
+    {
+      "term": "Hamlet",
+      "AAT_URL": null,
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q41567"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

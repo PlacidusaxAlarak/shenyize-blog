@@ -1,0 +1,135 @@
+{
+  "objectID": 44759,
+  "isHighlight": false,
+  "accessionNumber": "1985.121a–l",
+  "accessionYear": "1985",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/1985_121_A_sf.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/1985_121_A_sf.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/1985_121_L_sf_CRD.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DT8084.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/1985_121_B_sf.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DT8085.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/1985_121_C_sf.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DT8086.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DT8087.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/1985_121_D_sf.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DT8088.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/1985_121_E_sf.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DT8089.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/1985_121_F_sf.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DT8090.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/1985_121_G_sf.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DT8091.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/1985_121_H_sf.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DT8092.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/1985_121_I_sf.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DT8093.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/1985_121_J_sf.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DT8094.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/1985_121_K_sf.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DT8095.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/1985_121_L_sf.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DT8096.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/1985_121_lid_ext.JPG",
+    "https://images.metmuseum.org/CRDImages/as/original/1985_121_lid_int.JPG"
+  ],
+  "constituents": [
+    {
+      "constituentID": 12165,
+      "role": "Artist",
+      "name": "Chen Hongshou",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500315780",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q588110",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Album",
+  "title": "Landscapes, Figures, and Flowers",
+  "culture": "China",
+  "period": "Ming dynasty (1368–1644)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Chen Hongshou",
+  "artistDisplayBio": "Chinese, 1598/99–1652",
+  "artistSuffix": "",
+  "artistAlphaSort": "Chen Hongshou",
+  "artistNationality": "Chinese",
+  "artistBeginDate": "1598",
+  "artistEndDate": "1652",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q588110",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500315780",
+  "objectDate": "dated 1618–22",
+  "objectBeginDate": 1618,
+  "objectEndDate": 1622,
+  "medium": "Album of twelve leaves; ink and color on paper",
+  "dimensions": "Image: 8 3/4 × 3 5/8 in. (22.2 × 9.2 cm)\r\nInscription: 8 3/4 × 3 5/8 in. (22.2 × 9.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "Inscription",
+      "elementMeasurements": {
+        "Height": 22.225044,
+        "Width": 9.207519
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 22.225044,
+        "Width": 9.207519
+      }
+    },
+    {
+      "elementName": "Mat",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 31.750063,
+        "Width": 31.750063
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "leaf",
+      "elementMeasurements": {
+        "Height": 28.575058,
+        "Width": 30.797562
+      }
+    }
+  ],
+  "creditLine": "Purchase, Friends of Far Eastern Art Gifts, 1985",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/44759",
+  "tags": [
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78851677",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

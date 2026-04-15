@@ -1,0 +1,105 @@
+{
+  "objectID": 452204,
+  "isHighlight": false,
+  "accessionNumber": "1971.193a–ff",
+  "accessionYear": "1971",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP170393.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP170393.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/is/original/1971.193.a-ff(2).JPG",
+    "https://images.metmuseum.org/CRDImages/is/original/1971.193.a-ff(6).JPG",
+    "https://images.metmuseum.org/CRDImages/is/original/1971.193.a-ff(8).JPG",
+    "https://images.metmuseum.org/CRDImages/is/original/1971.193.a-ff(1).JPG",
+    "https://images.metmuseum.org/CRDImages/is/original/1971.193.jpg"
+  ],
+  "constituents": null,
+  "department": "Islamic Art",
+  "objectName": "Chess set",
+  "title": "Chess Set",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "",
+  "artistPrefix": "",
+  "artistDisplayName": "",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "12th century",
+  "objectBeginDate": 1100,
+  "objectEndDate": 1199,
+  "medium": "Stonepaste; molded and glazed",
+  "dimensions": "Largest piece (King):\r\n                                  H. 2 in. (5.1 cm)\r\n                                  Diam. 2 1/8 in. (5.4 cm)\r\nSmall piece (Pawn):\r\n                                  H. 1 5/16 in. (3.3 cm)\r\n                                  Diam. 1 1/8 in. (2.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Diameter",
+      "elementDescription": "largest piece (king)",
+      "elementMeasurements": {
+        "Diameter": 5.397511
+      }
+    },
+    {
+      "elementName": "Height",
+      "elementDescription": "largest piece (king)",
+      "elementMeasurements": {
+        "Height": 5.08001
+      }
+    },
+    {
+      "elementName": "Diameter",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Diameter": 2.9
+      }
+    },
+    {
+      "elementName": "Height",
+      "elementDescription": "small piece (pawn)",
+      "elementMeasurements": {
+        "Height": 3.3
+      }
+    }
+  ],
+  "creditLine": "Pfeiffer Fund, 1971",
+  "geographyType": "Attributed to",
+  "city": "Nishapur",
+  "state": "",
+  "county": "",
+  "country": "Iran",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "games or toys",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-26T04:49:32.87Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/452204",
+  "tags": [
+    {
+      "term": "Chess",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300222748",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q718"
+    },
+    {
+      "term": "Games",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300069657",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q11410"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116281318",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

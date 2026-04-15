@@ -1,0 +1,109 @@
+{
+  "objectID": 228995,
+  "isHighlight": false,
+  "accessionNumber": "64.101.1294",
+  "accessionYear": "1964",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP153222.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP153222.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP153223.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP164257.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP164258.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/AR1230.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/182893.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/182894.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/209152.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 173559,
+      "role": "Printer",
+      "name": "The Book of Common Prayer printed by Robert Barker",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 202643,
+      "role": "Printer",
+      "name": "Printed by Richard Whittaker",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Book cover",
+  "title": "The New Testament, The Book of Common Prayer",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Printer",
+  "artistPrefix": "The Book of Common Prayer printed by",
+  "artistDisplayName": "Robert Barker",
+  "artistDisplayBio": "",
+  "artistSuffix": ", London, 1636",
+  "artistAlphaSort": "Barker, Robert",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "ca. 1636",
+  "objectBeginDate": 1631,
+  "objectEndDate": 1641,
+  "medium": "Silk, bullion, silver, and silver-gilt thread on canvas and satin",
+  "dimensions": "7 1/8 x 4 3/4 in. (18.1 x 12.1cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 18.097536,
+        "Width": 12.1
+      }
+    }
+  ],
+  "creditLine": "Gift of Irwin Untermyer, 1964",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Textiles-Embroidered",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-31T04:54:36.6Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/228995",
+  "tags": [
+    {
+      "term": "Musical Instruments",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300041620",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q34379"
+    },
+    {
+      "term": "Birds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

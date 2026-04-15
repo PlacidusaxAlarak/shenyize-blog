@@ -1,0 +1,85 @@
+{
+  "objectID": 310498,
+  "isHighlight": false,
+  "accessionNumber": "1978.412.42",
+  "accessionYear": "1978",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DP-25391-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-25391-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 223261,
+      "role": "Artist",
+      "name": "Mezcala artist(s)",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "The Michael C. Rockefeller Wing",
+  "objectName": "Figure",
+  "title": "Standing figure",
+  "culture": "Mezcala",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Mezcala artist(s)",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "Mezcala artist(s)",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "300 BCE–300 CE",
+  "objectBeginDate": -300,
+  "objectEndDate": 300,
+  "medium": "Greenstone",
+  "dimensions": "H. 13 3/4 x W. 4 7/8 x D. 3 7/8 in. (34.9 x 12.4 x 9.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 9.86,
+        "Height": 34.925,
+        "Width": 12.4
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 9.86
+      }
+    }
+  ],
+  "creditLine": "The Michael C. Rockefeller Memorial Collection, Gift of Luis de Hoyos, 1959",
+  "geographyType": "",
+  "city": "",
+  "state": "Guerrero",
+  "county": "",
+  "country": "Mexico",
+  "region": "Mesoamerica",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "Balsas River region",
+  "classification": "Stone-Sculpture",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/310498",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": "360"
+}

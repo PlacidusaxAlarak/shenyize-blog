@@ -1,0 +1,109 @@
+{
+  "objectID": 363965,
+  "isHighlight": false,
+  "accessionNumber": "67.803.4",
+  "accessionYear": "1967",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 78469,
+      "role": "Artist",
+      "name": "William Heath Robinson",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027869",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q731717",
+      "gender": ""
+    },
+    {
+      "constituentID": 184083,
+      "role": "Author",
+      "name": "Related author Elsie Smeaton Munro",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 69580,
+      "role": "Publisher",
+      "name": "Related publisher John Lane, The Bodley Head",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "\"Over Farms and Fields and Rivers and Ponds\" (for \"Cosy Hokie\" in \"Topsy-Turvy Tales\")",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "William Heath Robinson",
+  "artistDisplayBio": "British, London 1872–1944 Highgate, London",
+  "artistSuffix": "",
+  "artistAlphaSort": "Robinson, William Heath",
+  "artistNationality": "British",
+  "artistBeginDate": "1872",
+  "artistEndDate": "1944",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q731717",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500027869",
+  "objectDate": "ca. 1923",
+  "objectBeginDate": 1918,
+  "objectEndDate": 1928,
+  "medium": "Pen and black ink, brush and wash",
+  "dimensions": "sheet: 14 1/2 x 10 1/2 in. (36.8 x 26.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 36.8301,
+        "Width": 26.6701
+      }
+    }
+  ],
+  "creditLine": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1967",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/363965",
+  "tags": [
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Beds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300038697",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q42177"
+    },
+    {
+      "term": "Tables",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300039548",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q14748"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,155 @@
+{
+  "objectID": 451725,
+  "isHighlight": true,
+  "accessionNumber": "63.210.11",
+  "accessionYear": "1963",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP234083.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP234083.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/is/original/DP234754.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/is63.210.11.R.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/178462.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DT462.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/63.210.11.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DT227733.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DT227734.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DT227735.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DT227736.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DT227737.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DT227738.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DT227739.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DT227740.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DT227741.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/sf63-210-11r.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/sf63-210-11v.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/178463.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 130300,
+      "role": "Artist",
+      "name": "Painting by Habiballah of Sava",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q4494389",
+      "gender": ""
+    },
+    {
+      "constituentID": 130655,
+      "role": "Author",
+      "name": "Farid al-Din `Attar",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q194091",
+      "gender": ""
+    }
+  ],
+  "department": "Islamic Art",
+  "objectName": "Folio from an illustrated manuscript",
+  "title": "\"The Concourse of the Birds\", Folio 11r from a Mantiq al-Tayr (Language of the Birds)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Painting by",
+  "artistDisplayName": "Habiballah of Sava",
+  "artistDisplayBio": "Iranian, active ca. 1590–1610",
+  "artistSuffix": "",
+  "artistAlphaSort": "Habiballah",
+  "artistNationality": "Iranian",
+  "artistBeginDate": "1565",
+  "artistEndDate": "1635",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q4494389",
+  "artistULAN_URL": "(not assigned)",
+  "objectDate": "ca. 1600",
+  "objectBeginDate": 1575,
+  "objectEndDate": 1625,
+  "medium": "Ink, opaque watercolor, gold, and silver on paper",
+  "dimensions": "Painting: H. 10 in. (25.4 cm)\r\n                W. 4 1/2in. (11.4cm)\r\nPage: H. 13 in. (33 cm)\r\n            W. 8 3/16 in. (20.8 cm)\r\nMat: H. 19 1/4 in. (48.9 cm)\r\n        W. 14 1/4 in. (36.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Other",
+      "elementDescription": "Page",
+      "elementMeasurements": {
+        "Height": 33.0201,
+        "Width": 20.7963
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "Painting",
+      "elementMeasurements": {
+        "Height": 25.4,
+        "Width": 11.4
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Mat",
+      "elementMeasurements": {
+        "Height": 48.8951,
+        "Width": 36.1951
+      }
+    }
+  ],
+  "creditLine": "Fletcher Fund, 1963",
+  "geographyType": "Attributed to",
+  "city": "Isfahan",
+  "state": "",
+  "county": "",
+  "country": "Iran",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Codices",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-21T04:50:46.59Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/451725",
+  "tags": [
+    {
+      "term": "Cranes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300254555",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q25365"
+    },
+    {
+      "term": "Ducks",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250047",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3736439"
+    },
+    {
+      "term": "Poetry",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055931",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q482"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Persian",
+      "AAT_URL": null,
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9168"
+    },
+    {
+      "term": "Peacocks",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250082",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q201251"
+    },
+    {
+      "term": "Roosters",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300380127",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2216236"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q29385176",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

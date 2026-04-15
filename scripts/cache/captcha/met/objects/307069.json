@@ -1,0 +1,98 @@
+{
+  "objectID": 307069,
+  "isHighlight": false,
+  "accessionNumber": "2013.270",
+  "accessionYear": "2013",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ph/original/DP310797.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ph/web-large/DP310797.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ph/original/DP310801.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 62222,
+      "role": "Artist",
+      "name": "Gustave de Beaucorps",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500036873",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q19951826",
+      "gender": ""
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Waxed Paper Negative",
+  "title": "[Palace of the Dey of Algiers, Algeria]",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Gustave de Beaucorps",
+  "artistDisplayBio": "French, 1825–1906",
+  "artistSuffix": "",
+  "artistAlphaSort": "Beaucorps, Gustave de",
+  "artistNationality": "French",
+  "artistBeginDate": "1825",
+  "artistEndDate": "1906",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q19951826",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500036873",
+  "objectDate": "1859",
+  "objectBeginDate": 1859,
+  "objectEndDate": 1859,
+  "medium": "Waxed paper negative",
+  "dimensions": "Image: 28.7 × 38.6 cm (11 5/16 × 15 3/16 in.)\r\nSheet: 29.1 × 39.8 cm (11 7/16 × 15 11/16 in.), irregularly trimmed",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 29.051308,
+        "Width": 39.8
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 28.7,
+        "Width": 38.6
+      }
+    }
+  ],
+  "creditLine": "The Horace W. Goldsmith Foundation Fund, through Joyce and Robert Menschel, 2013",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Negatives",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/307069",
+  "tags": [
+    {
+      "term": "Architecture",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300263552",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12271"
+    },
+    {
+      "term": "Palaces",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300005734",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q16560"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

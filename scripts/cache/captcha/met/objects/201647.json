@@ -1,0 +1,115 @@
+{
+  "objectID": 201647,
+  "isHighlight": false,
+  "accessionNumber": "53.225.66",
+  "accessionYear": "1953",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/LC-53_225_66-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/LC-53_225_66-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/LC-53_225_66-002.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 165063,
+      "role": "Maker",
+      "name": "Manner of Bernard Palissy",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027684",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q524252",
+      "gender": ""
+    },
+    {
+      "constituentID": 72615,
+      "role": "Artist",
+      "name": "After an engraving by René Boyvin",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001492",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q325354",
+      "gender": ""
+    },
+    {
+      "constituentID": 72614,
+      "role": "Artist",
+      "name": "After an engraving by Pierre Milan",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015633",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q19569730",
+      "gender": ""
+    },
+    {
+      "constituentID": 161879,
+      "role": "Artist",
+      "name": "After an original design by Rosso Fiorentino",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500014451",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q312617",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Dish",
+  "title": "Dish with Diana, the Nymph of Fontainebleau",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Maker",
+  "artistPrefix": "Manner of",
+  "artistDisplayName": "Bernard Palissy",
+  "artistDisplayBio": "French, Agen, Lot-et-Garonne 1510–1590 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Palissy, Bernard",
+  "artistNationality": "French",
+  "artistBeginDate": "1510",
+  "artistEndDate": "1590",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q524252",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500027684",
+  "objectDate": "late 16th–early 17th century",
+  "objectBeginDate": 1585,
+  "objectEndDate": 1615,
+  "medium": "Lead-glazed earthenware",
+  "dimensions": "Overall (confirmed): 2 11/16 × 11 7/8 × 10 1/8 in. (6.8 × 30.2 × 25.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "confirmed",
+      "elementMeasurements": {
+        "Depth": 25.717552,
+        "Height": 6.8,
+        "Width": 30.2
+      }
+    }
+  ],
+  "creditLine": "Gift of Julia A. Berwind, 1953",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Ceramics-Pottery",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-31T04:54:36.6Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/201647",
+  "tags": [
+    {
+      "term": "Diana",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000118",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q132543"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

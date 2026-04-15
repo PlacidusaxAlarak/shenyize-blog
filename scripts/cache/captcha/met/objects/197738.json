@@ -1,0 +1,102 @@
+{
+  "objectID": 197738,
+  "isHighlight": false,
+  "accessionNumber": "35.145.1",
+  "accessionYear": "1935",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/TP101.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/TP101.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 34439,
+      "role": "Maker",
+      "name": "Frame by Nicolas-Quinibert Foliot",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008751",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3339997",
+      "gender": ""
+    },
+    {
+      "constituentID": 165689,
+      "role": "Designer",
+      "name": "Probably after a design by Pierre Contant d&#39;Ivry",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500013513",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1891629",
+      "gender": ""
+    },
+    {
+      "constituentID": 162822,
+      "role": "Manufactory",
+      "name": "Tapestry by Beauvais",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500110803",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2566130",
+      "gender": ""
+    },
+    {
+      "constituentID": 165080,
+      "role": "Factory director",
+      "name": "after designs by Jean-Baptiste Oudry",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021906",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q737137",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Settee",
+  "title": "Settee (canapé) (part of a set)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Maker",
+  "artistPrefix": "Frame by",
+  "artistDisplayName": "Nicolas-Quinibert Foliot",
+  "artistDisplayBio": "1706–1776, warden 1750/52",
+  "artistSuffix": "",
+  "artistAlphaSort": "FOLIOT NICOLAS-QUINIBERT",
+  "artistNationality": "",
+  "artistBeginDate": "1706",
+  "artistEndDate": "1776",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3339997",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500008751",
+  "objectDate": "ca. 1754–56",
+  "objectBeginDate": 1749,
+  "objectEndDate": 1761,
+  "medium": "Carved and gilded beech; wool and silk tapestry",
+  "dimensions": "44 x 92 1/2 x 32 in. (111.8 x 235 x 81.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 81.3,
+        "Height": 111.8,
+        "Width": 235
+      }
+    }
+  ],
+  "creditLine": "Gift of John D. Rockefeller Jr., 1935",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Woodwork-Furniture",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-08-01T04:50:48.7Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/197738",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

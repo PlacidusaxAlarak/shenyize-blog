@@ -1,0 +1,122 @@
+{
+  "objectID": 662131,
+  "isHighlight": false,
+  "accessionNumber": "63.550.345(1)",
+  "accessionYear": "1963",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP853624.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP853624.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 101310,
+      "role": "Artist",
+      "name": "William Keesey Hewitt",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500103072",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q27876568",
+      "gender": ""
+    },
+    {
+      "constituentID": 76201,
+      "role": "Lithographer",
+      "name": "Nathaniel Currier",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115501",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q6646654",
+      "gender": ""
+    },
+    {
+      "constituentID": 179706,
+      "role": "Publisher",
+      "name": "The New York Sun",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Awful Conflagration of the Steam Boat Lexington in Long Island Sound on Monday Eve, January 13th, 1840, by which melancholy occurrence, over 100 Persons Perished",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "William Keesey Hewitt",
+  "artistDisplayBio": "American, 1817–1893",
+  "artistSuffix": "",
+  "artistAlphaSort": "Hewitt, William K.",
+  "artistNationality": "American",
+  "artistBeginDate": "1817",
+  "artistEndDate": "1893",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q27876568",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500103072",
+  "objectDate": "1840",
+  "objectBeginDate": 1840,
+  "objectEndDate": 1840,
+  "medium": "Hand-colored lithograph",
+  "dimensions": "Image: 8 7/16 in. × 12 in. (21.4 × 30.5 cm)\r\nSheet: 11 9/16 × 14 1/2 in. (29.3 × 36.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": "Trimmed",
+      "elementMeasurements": {
+        "Height": 29.3,
+        "Width": 36.8
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 21.4,
+        "Width": 30.5
+      }
+    }
+  ],
+  "creditLine": "Bequest of Adele S. Colgate, 1962",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-10T04:56:23.25Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/662131",
+  "tags": [
+    {
+      "term": "Human Figures",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+    },
+    {
+      "term": "Fire",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300417275",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3196"
+    },
+    {
+      "term": "Boats",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+    },
+    {
+      "term": "Ships",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300082981",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q11446"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

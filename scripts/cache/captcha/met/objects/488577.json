@@ -1,0 +1,116 @@
+{
+  "objectID": 488577,
+  "isHighlight": false,
+  "accessionNumber": "50.117",
+  "accessionYear": "1950",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162756,
+      "role": "Artist",
+      "name": "Grant Wood",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031056",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q217434",
+      "gender": ""
+    }
+  ],
+  "department": "Modern and Contemporary Art",
+  "objectName": "Painting",
+  "title": "The Midnight Ride of Paul Revere",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Grant Wood",
+  "artistDisplayBio": "American, Anamosa, Iowa 1892–1942 Iowa City, Iowa",
+  "artistSuffix": "",
+  "artistAlphaSort": "Wood, Grant",
+  "artistNationality": "American",
+  "artistBeginDate": "1892",
+  "artistEndDate": "1942",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q217434",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500031056",
+  "objectDate": "1931",
+  "objectBeginDate": 1931,
+  "objectEndDate": 1931,
+  "medium": "Oil on Masonite",
+  "dimensions": "30 × 40 in. (76.2 × 101.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 76.2,
+        "Width": 101.6
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": "F.50.117 Original frame",
+      "elementMeasurements": {
+        "Depth": 5.08,
+        "Height": 82.5502,
+        "Width": 108.5852
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": "F.1.50.117 Silver Gilt frame w/ liner-AR Plexi",
+      "elementMeasurements": {
+        "Depth": 3.8100076,
+        "Height": 93.02769,
+        "Width": 119.06274
+      }
+    }
+  ],
+  "creditLine": "Arthur Hoppock Hearn Fund, 1950",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "© Figge Art Museum, successors to the Estate of Nan Wood Graham/Licensed by VAGA at Artists Rights Society (ARS), NY",
+  "linkResource": "",
+  "metadataDate": "2026-02-19T04:57:55.857Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/488577",
+  "tags": [
+    {
+      "term": "Towns",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008375",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3957"
+    },
+    {
+      "term": "American Revolution",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000252",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q192769"
+    },
+    {
+      "term": "Horses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+    },
+    {
+      "term": "Night",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300133095",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q575"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19920734",
+  "isTimelineWork": true,
+  "GalleryNumber": "757"
+}

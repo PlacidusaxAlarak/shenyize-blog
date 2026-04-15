@@ -1,0 +1,110 @@
+{
+  "objectID": 40512,
+  "isHighlight": false,
+  "accessionNumber": "1989.363.29",
+  "accessionYear": "1989",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP230507_CRD.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP230507_CRD.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/1989_363_29_epw.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/1989_363_29_ipw.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/1989_363_29_fp.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP230504.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP230505.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP230506.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP230507.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP230508.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP230509.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP230510.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP230511.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP230512.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP230513.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP276208.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP276247.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 11673,
+      "role": "Artist",
+      "name": "Xianyu Shu",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Handscroll",
+  "title": "Song of the Stone Drums",
+  "culture": "China",
+  "period": "Yuan dynasty (1271–1368)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Xianyu Shu",
+  "artistDisplayBio": "Chinese, 1246–1302",
+  "artistSuffix": "",
+  "artistAlphaSort": "Xianyu Shu",
+  "artistNationality": "",
+  "artistBeginDate": "1246",
+  "artistEndDate": "1302",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "dated 1301",
+  "objectBeginDate": 1301,
+  "objectEndDate": 1301,
+  "medium": "Handscroll; ink on paper",
+  "dimensions": "Image: 17 11/16 in. x 15 ft. 1 1/16 in. (44.9 x 459.9 cm)\r\nOverall with mounting: 18 in. x 38 ft. 11 3/16 in. (45.7 x 1186.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall with mounting",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 45.7201,
+        "Width": 1186.6586
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 44.9263,
+        "Width": 459.8997
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "storage box",
+      "elementMeasurements": {
+        "Depth": 7.9375157,
+        "Height": 8.572517,
+        "Width": 47.625095
+      }
+    }
+  ],
+  "creditLine": "Bequest of John M. Crawford Jr., 1988",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Calligraphy",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-23T04:54:48.75Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/40512",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

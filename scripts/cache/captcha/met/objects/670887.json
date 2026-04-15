@@ -1,0 +1,111 @@
+{
+  "objectID": 670887,
+  "isHighlight": false,
+  "accessionNumber": "2015.300.239",
+  "accessionYear": "2015",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP-12232-297.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP-12232-297.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/DP-12232-296.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/2015_300_239_Sig_Burke.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/SC-2015_300_239-001.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/SC-2015_300_239-002.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/SC-2015_300_239-003a.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/SC-2015_300_239-003b.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 181858,
+      "role": "Artist",
+      "name": "Traditionally attributed to Motsurin Jōtō (Bokusai)",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Hanging scroll",
+  "title": "A Line from the Chinese Poem “Grasses” by Bai Juyi",
+  "culture": "Japan",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Traditionally attributed to",
+  "artistDisplayName": "Motsurin Jōtō (Bokusai)",
+  "artistDisplayBio": "Japanese, died 1492",
+  "artistSuffix": "",
+  "artistAlphaSort": "Motsurin Jōtō",
+  "artistNationality": "Japanese",
+  "artistBeginDate": "",
+  "artistEndDate": "1492",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "probably 17th–18th century",
+  "objectBeginDate": 1600,
+  "objectEndDate": 1799,
+  "medium": "Hanging scroll; ink on paper",
+  "dimensions": "Image: 46 3/4 × 10 3/8 in. (118.8 × 26.4 cm)\r\nOverall with mounting: 74 11/16 × 10 15/16 in. (189.7 × 27.8 cm)\r\nOverall with knobs: 74 11/16 × 12 1/2 in. (189.7 × 31.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 118.8,
+        "Width": 26.4
+      }
+    },
+    {
+      "elementName": "Overall with knobs",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 189.7,
+        "Width": 31.8
+      }
+    },
+    {
+      "elementName": "Overall with mounting",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 189.7,
+        "Width": 27.8
+      }
+    }
+  ],
+  "creditLine": "Mary Griggs Burke Collection, Gift of the Mary and Jackson Burke Foundation, 2015",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Calligraphy",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-01-03T04:55:03.877Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/670887",
+  "tags": [
+    {
+      "term": "Poetry",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055931",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q482"
+    },
+    {
+      "term": "Calligraphy",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266660",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12681"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

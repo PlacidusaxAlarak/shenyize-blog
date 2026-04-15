@@ -1,0 +1,93 @@
+{
+  "objectID": 451270,
+  "isHighlight": true,
+  "accessionNumber": "55.121.10.24",
+  "accessionYear": "1955",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP246547.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP246547.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/is/original/55.121.10.24 Gallery 14.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DT5167.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/181891.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DP246553.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 134997,
+      "role": "Artist",
+      "name": "Painted by Chitarman",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q54086383",
+      "gender": ""
+    }
+  ],
+  "department": "Islamic Art",
+  "objectName": "Album leaf",
+  "title": "\"Shah Jahan on a Terrace, Holding a Pendant Set With His Portrait\", Folio from the Shah Jahan Album",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Painted by",
+  "artistDisplayName": "Chitarman",
+  "artistDisplayBio": "Indian, active ca. 1627–70",
+  "artistSuffix": "",
+  "artistAlphaSort": "Chitarman",
+  "artistNationality": "Indian",
+  "artistBeginDate": "1627",
+  "artistEndDate": "1670",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q54086383",
+  "artistULAN_URL": "(not assigned)",
+  "objectDate": "recto: dated 1627–28; verso: ca. 1530–50",
+  "objectBeginDate": 1515,
+  "objectEndDate": 1628,
+  "medium": "Ink, opaque watercolor, and gold on paper",
+  "dimensions": "H. 15 5/16 in. (38.9 cm)\r\nW. 10 1/8 in. (25.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 38.9,
+        "Width": 25.7176
+      }
+    }
+  ],
+  "creditLine": "Purchase, Rogers Fund and The Kevorkian Foundation Gift, 1955",
+  "geographyType": "Attributed to",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "India",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Codices",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-03-02T04:55:04.403Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/451270",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q29385142",
+  "isTimelineWork": true,
+  "GalleryNumber": "463"
+}

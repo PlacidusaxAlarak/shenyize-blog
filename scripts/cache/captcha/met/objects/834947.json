@@ -1,0 +1,99 @@
+{
+  "objectID": 834947,
+  "isHighlight": false,
+  "accessionNumber": "63.550.264",
+  "accessionYear": "1963",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP-19840-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP-19840-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 163614,
+      "role": "Publisher",
+      "name": "Currier &amp; Ives",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500034474",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1144898",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "The American National Game of Base Ball: Grand Match for the Championship at the Elysian Fields, Hoboken, N. J.",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Publisher",
+  "artistPrefix": "",
+  "artistDisplayName": "Currier & Ives",
+  "artistDisplayBio": "American, active New York, 1857–1907",
+  "artistSuffix": "",
+  "artistAlphaSort": "Currier & Ives",
+  "artistNationality": "American",
+  "artistBeginDate": "1857",
+  "artistEndDate": "1907",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1144898",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500034474",
+  "objectDate": "1866",
+  "objectBeginDate": 1866,
+  "objectEndDate": 1866,
+  "medium": "Hand-colored lithograph",
+  "dimensions": "Image: 19 5/8 × 29 5/8 in. (49.8 × 75.2 cm)\r\nImage and text: 21 in. × 29 5/8 in. (53.3 × 75.2 cm)\r\nSheet: 23 3/8 × 32 5/8 in. (59.4 × 82.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 59.37262,
+        "Width": 82.86767
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 53.340107,
+        "Width": 75.24765
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 49.8476,
+        "Width": 75.24765
+      }
+    }
+  ],
+  "creditLine": "Bequest of Adele S. Colgate, 1962",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/834947",
+  "tags": [
+    {
+      "term": "Baseball",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300222760",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5369"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

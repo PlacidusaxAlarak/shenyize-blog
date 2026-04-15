@@ -1,0 +1,91 @@
+{
+  "objectID": 206968,
+  "isHighlight": false,
+  "accessionNumber": "1982.60.53",
+  "accessionYear": "1982",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DT8880.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DT8880.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/232475.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 33582,
+      "role": "Maker",
+      "name": "Claude-Charles Saunier",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031492",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2976677",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Commode",
+  "title": "Commode",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Maker",
+  "artistPrefix": "",
+  "artistDisplayName": "Claude-Charles Saunier",
+  "artistDisplayBio": "French, 1735–1807",
+  "artistSuffix": "",
+  "artistAlphaSort": "Saunier, Claude-Charles",
+  "artistNationality": "French",
+  "artistBeginDate": "1735",
+  "artistEndDate": "1807",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2976677",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500031492",
+  "objectDate": "ca. 1780–90",
+  "objectBeginDate": 1775,
+  "objectEndDate": 1795,
+  "medium": "Oak veneered with ebony, mahogany, rosewood, Japanese lacquer panels, rosso levanto marble, gilt bronze",
+  "dimensions": "36 1/4 x 41 3/4 x 19 1/4 in. (92.1 x 106 x 48.9cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 48.9,
+        "Height": 92.1,
+        "Width": 106
+      }
+    }
+  ],
+  "creditLine": "The Jack and Belle Linsky Collection, 1982",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Woodwork-Furniture",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-31T04:54:36.6Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/206968",
+  "tags": [
+    {
+      "term": "Birds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+    },
+    {
+      "term": "Flowers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116308149",
+  "isTimelineWork": false,
+  "GalleryNumber": "539"
+}

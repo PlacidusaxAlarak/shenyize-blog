@@ -1,0 +1,83 @@
+{
+  "objectID": 282782,
+  "isHighlight": false,
+  "accessionNumber": "1999.230",
+  "accessionYear": "1999",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161906,
+      "role": "Artist",
+      "name": "Tom Friedman",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500126101",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2439673",
+      "gender": ""
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "Untitled",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Tom Friedman",
+  "artistDisplayBio": "American, born St. Louis, Missouri, 1965",
+  "artistSuffix": "",
+  "artistAlphaSort": "Friedman, Tom",
+  "artistNationality": "American",
+  "artistBeginDate": "1965",
+  "artistEndDate": "9999",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2439673",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500126101",
+  "objectDate": "1998",
+  "objectBeginDate": 1998,
+  "objectEndDate": 1998,
+  "medium": "Chromogenic print",
+  "dimensions": "Frame: 63.5 x 118.7 cm (25 x 46 3/4 in.)",
+  "measurements": [
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 63.500126,
+        "Width": 118.74524
+      }
+    }
+  ],
+  "creditLine": "Purchase, Jennifer and Joseph Duke Gift, 1999",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "© Tom Friedman",
+  "linkResource": "",
+  "metadataDate": "2025-11-21T10:05:27.96Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/282782",
+  "tags": [
+    {
+      "term": "Self-portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300124534",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q192110"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

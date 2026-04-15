@@ -1,0 +1,97 @@
+{
+  "objectID": 437870,
+  "isHighlight": false,
+  "accessionNumber": "49.7.43",
+  "accessionYear": "1949",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-24467-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-24467-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162615,
+      "role": "Artist",
+      "name": "Velázquez (Diego Rodríguez de Silva y Velázquez)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016881",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q297",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "María Teresa (1638–1683), Infanta of Spain",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Velázquez (Diego Rodríguez de Silva y Velázquez)",
+  "artistDisplayBio": "Spanish, Seville 1599–1660 Madrid",
+  "artistSuffix": "",
+  "artistAlphaSort": "Velázquez (Diego Rodríguez de Silva y Velázquez)",
+  "artistNationality": "Spanish",
+  "artistBeginDate": "1599",
+  "artistEndDate": "1660",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q297",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500016881",
+  "objectDate": "1651–54",
+  "objectBeginDate": 1651,
+  "objectEndDate": 1654,
+  "medium": "Oil on canvas",
+  "dimensions": "Overall 13 1/2 x 15 3/4 in. (34.3 x 40 cm); original painted surface 12 7/8 x 15 1/8 in. (32.7 x 38.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 34.3,
+        "Width": 40
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 6.35,
+        "Height": 56.5151,
+        "Width": 62.2301
+      }
+    }
+  ],
+  "creditLine": "The Jules Bache Collection, 1949",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-10-09T04:51:37.793Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437870",
+  "tags": [
+    {
+      "term": "Girls",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911687",
+  "isTimelineWork": true,
+  "GalleryNumber": "625"
+}

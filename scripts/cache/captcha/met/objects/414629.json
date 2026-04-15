@@ -1,0 +1,91 @@
+{
+  "objectID": 414629,
+  "isHighlight": false,
+  "accessionNumber": "45.82.2(44)",
+  "accessionYear": "1945",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP273761.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP273761.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 74662,
+      "role": "Artist",
+      "name": "Giovanni Battista Bonacina",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019455",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3107039",
+      "gender": ""
+    },
+    {
+      "constituentID": 161680,
+      "role": "Artist",
+      "name": "After Gian Lorenzo Bernini",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032022",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q160538",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Portici della piazza di S. Pietro di Roma. Plate 44 from the Album 'Basilica di S. Pietro in Vaticano'",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Giovanni Battista Bonacina",
+  "artistDisplayBio": "Italian, Milan 1620–ca. 1670",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bonacina, Giovanni Battista",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1620",
+  "artistEndDate": "1670",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3107039",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500019455",
+  "objectDate": "ca. 1656–67",
+  "objectBeginDate": 1656,
+  "objectEndDate": 1667,
+  "medium": "Engraving",
+  "dimensions": "Sheet: 21 5/16 x 33 3/16 in. (54.2 x 84.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 54.2,
+        "Width": 84.3
+      }
+    }
+  ],
+  "creditLine": "Harris Brisbane Dick Fund, 1945",
+  "geographyType": "Published in",
+  "city": "Rome?",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/414629",
+  "tags": [
+    {
+      "term": "Architecture",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300263552",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12271"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

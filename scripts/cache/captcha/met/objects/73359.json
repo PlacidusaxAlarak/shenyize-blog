@@ -1,0 +1,98 @@
+{
+  "objectID": 73359,
+  "isHighlight": false,
+  "accessionNumber": "2015.300.217",
+  "accessionYear": "2015",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP-12232-281.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP-12232-281.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/DP-12232-280.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 12507,
+      "role": "Artist",
+      "name": "Katō Nobukiyo",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q47470129",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Hanging scroll",
+  "title": "Ten Rakan Examining a Painting of White-Robed Kannon",
+  "culture": "Japan",
+  "period": "Edo period (1615–1868)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Katō Nobukiyo",
+  "artistDisplayBio": "Japanese, 1734–1810",
+  "artistSuffix": "",
+  "artistAlphaSort": "Katō Nobukiyo",
+  "artistNationality": "Japanese",
+  "artistBeginDate": "1734",
+  "artistEndDate": "1810",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q47470129",
+  "artistULAN_URL": "(not assigned)",
+  "objectDate": "1788–92",
+  "objectBeginDate": 1788,
+  "objectEndDate": 1792,
+  "medium": "Hanging scroll; ink and color on paper",
+  "dimensions": "Image: 55 1/4 × 22 3/4 in. (140.3 × 57.8 cm)\r\nOverall with mounting: 91 1/8 × 32 5/8 in. (231.5 × 82.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall with mounting",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 231.45796,
+        "Width": 82.86767
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 140.33528,
+        "Width": 57.785114
+      }
+    }
+  ],
+  "creditLine": "Mary Griggs Burke Collection, Gift of the Mary and Jackson Burke Foundation, 2015",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/73359",
+  "tags": [
+    {
+      "term": "Painting",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300054216",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q11629"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78711790",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

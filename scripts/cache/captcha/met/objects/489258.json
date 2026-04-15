@@ -1,0 +1,93 @@
+{
+  "objectID": 489258,
+  "isHighlight": false,
+  "accessionNumber": "62.95",
+  "accessionYear": "1962",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161998,
+      "role": "Artist",
+      "name": "Edward Hopper",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031212",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q203401",
+      "gender": ""
+    }
+  ],
+  "department": "Modern and Contemporary Art",
+  "objectName": "Painting",
+  "title": "The Lighthouse at Two Lights",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Edward Hopper",
+  "artistDisplayBio": "American, Nyack, New York 1882–1967 New York",
+  "artistSuffix": "",
+  "artistAlphaSort": "Hopper, Edward",
+  "artistNationality": "American",
+  "artistBeginDate": "1882",
+  "artistEndDate": "1967",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q203401",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500031212",
+  "objectDate": "1929",
+  "objectBeginDate": 1929,
+  "objectEndDate": 1929,
+  "medium": "Oil on canvas",
+  "dimensions": "29 1/4 × 43 in. (74.3 × 109.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 2.4130049,
+        "Height": 74.29515,
+        "Width": 109.220215
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": "F.62.95 Gold wood w/ fillets AR Plexi",
+      "elementMeasurements": {
+        "Depth": 3.8100076,
+        "Height": 84.45517,
+        "Width": 119.3802
+      }
+    }
+  ],
+  "creditLine": "Hugo Kastor Fund, 1962",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-04-10T04:57:39.74Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/489258",
+  "tags": [
+    {
+      "term": "Lighthouses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300007741",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q39715"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19917692",
+  "isTimelineWork": true,
+  "GalleryNumber": "757"
+}

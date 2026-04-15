@@ -1,0 +1,106 @@
+{
+  "objectID": 440723,
+  "isHighlight": true,
+  "accessionNumber": "2008.547.1",
+  "accessionYear": "2008",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP243839.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP243839.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161927,
+      "role": "Artist",
+      "name": "Jean-Léon Gérôme",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115563",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q212499",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Bashi-Bazouk",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jean-Léon Gérôme",
+  "artistDisplayBio": "French, Vesoul 1824–1904 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Gérôme, Jean-Léon",
+  "artistNationality": "French",
+  "artistBeginDate": "1824",
+  "artistEndDate": "1904",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q212499",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115563",
+  "objectDate": "1868–69",
+  "objectBeginDate": 1868,
+  "objectEndDate": 1869,
+  "medium": "Oil on canvas",
+  "dimensions": "31 3/4 x 26 in. (80.6 x 66 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 80.645164,
+        "Width": 66.04013
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 100.9652,
+        "Width": 84.45517
+      }
+    }
+  ],
+  "creditLine": "Gift of Mrs. Charles Wrightsman, 2008",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-04-15T04:58:02.433Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440723",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Profiles",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+    },
+    {
+      "term": "Orientalist",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055784",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q765606"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19861716",
+  "isTimelineWork": true,
+  "GalleryNumber": "804"
+}

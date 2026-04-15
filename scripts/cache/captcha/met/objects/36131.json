@@ -1,0 +1,136 @@
+{
+  "objectID": 36131,
+  "isHighlight": true,
+  "accessionNumber": "1981.4.1a–o",
+  "accessionYear": "1981",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/1981_4_1a.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/1981_4_1a.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/DP161099.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP161100.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP161101.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP161102.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP161103.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP161104.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP161105.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP161106.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP161107.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP161108.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP161109.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP161110.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP161111.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP161112.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP161113.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 11704,
+      "role": "Artist",
+      "name": "Gong Xian",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500125754",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3110482",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Album",
+  "title": "Landscapes with poems",
+  "culture": "China",
+  "period": "Qing dynasty (1644–1911)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Gong Xian",
+  "artistDisplayBio": "Chinese, 1619–1689",
+  "artistSuffix": "",
+  "artistAlphaSort": "Gong Xian",
+  "artistNationality": "Chinese",
+  "artistBeginDate": "1619",
+  "artistEndDate": "1689",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3110482",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500125754",
+  "objectDate": "1688",
+  "objectBeginDate": 1688,
+  "objectEndDate": 1688,
+  "medium": "Fifteen leaves from an album (1980.516.2a–c and 1981.4.1a–o) of eighteen leaves",
+  "dimensions": "10 3/4 x 16 1/8 in. (27.3 x 41 cm)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 27.3051,
+        "Width": 40.9576
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": "leaves n, o",
+      "elementMeasurements": {
+        "Height": 35.5601,
+        "Width": 53.6576
+      }
+    },
+    {
+      "elementName": "Overall with mounting",
+      "elementDescription": "leaves n, o",
+      "elementMeasurements": {
+        "Height": 40.9576,
+        "Width": 58.1026
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "painting and calligraphy",
+      "elementMeasurements": {
+        "Height": 35.4013,
+        "Width": 52.2289
+      }
+    },
+    {
+      "elementName": "Overall with mounting",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 40.9576,
+        "Width": 58.1026
+      }
+    }
+  ],
+  "creditLine": "Gift of Douglas Dillon, 1981",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/36131",
+  "tags": [
+    {
+      "term": "Poetry",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055931",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q482"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q29383237",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

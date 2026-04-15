@@ -1,0 +1,106 @@
+{
+  "objectID": 53408,
+  "isHighlight": false,
+  "accessionNumber": "2015.300.213",
+  "accessionYear": "2015",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP-12232-273.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP-12232-273.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/DP-12232-272.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 11829,
+      "role": "Artist",
+      "name": "Itō Jakuchū",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500118864",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1240575",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Hanging scroll",
+  "title": "White Plum Blossoms and Moon",
+  "culture": "Japan",
+  "period": "Edo period (1615–1868)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Itō Jakuchū",
+  "artistDisplayBio": "Japanese, 1716–1800",
+  "artistSuffix": "",
+  "artistAlphaSort": "Itō Jakuchū",
+  "artistNationality": "Japanese",
+  "artistBeginDate": "1716",
+  "artistEndDate": "1800",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1240575",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500118864",
+  "objectDate": "1755",
+  "objectBeginDate": 1755,
+  "objectEndDate": 1755,
+  "medium": "Hanging scroll; ink and color on silk",
+  "dimensions": "Image: 55 3/8 × 31 1/4 in. (140.7 × 79.4 cm)\r\nOverall with mounting: 8 ft. 5 15/16 in. × 38 7/16 in. (259 × 97.6 cm) \r\nOverall with knobs: 8 ft. 5 15/16 in. × 41 1/8 in. (259 × 104.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 140.7,
+        "Width": 79.4
+      }
+    },
+    {
+      "elementName": "Overall with knobs",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 259,
+        "Width": 104.5
+      }
+    },
+    {
+      "elementName": "Overall with mounting",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 259,
+        "Width": 97.6
+      }
+    }
+  ],
+  "creditLine": "Mary Griggs Burke Collection, Gift of the Mary and Jackson Burke Foundation, 2015",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/53408",
+  "tags": [
+    {
+      "term": "Flowers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+    },
+    {
+      "term": "Trees",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78759658",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

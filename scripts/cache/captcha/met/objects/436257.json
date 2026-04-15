@@ -1,0 +1,102 @@
+{
+  "objectID": 436257,
+  "isHighlight": false,
+  "accessionNumber": "71.41",
+  "accessionYear": "1871",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-18296-037.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-18296-037.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161858,
+      "role": "Artist",
+      "name": "Anthony van Dyck",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115190",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q150679",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Saint Rosalie Interceding for the Plague-stricken of Palermo",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Anthony van Dyck",
+  "artistDisplayBio": "Flemish, Antwerp 1599–1641 London",
+  "artistSuffix": "",
+  "artistAlphaSort": "Dyck, Anthony van",
+  "artistNationality": "Flemish",
+  "artistBeginDate": "1599",
+  "artistEndDate": "1641",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q150679",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115190",
+  "objectDate": "1624",
+  "objectBeginDate": 1624,
+  "objectEndDate": 1624,
+  "medium": "Oil on canvas",
+  "dimensions": "39 1/4 x 29 in. (99.7 x 73.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 99.7,
+        "Width": 73.7
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 10.795,
+        "Height": 128.9053,
+        "Width": 104.7752
+      }
+    }
+  ],
+  "creditLine": "Purchase, 1871",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-08-06T04:50:55.473Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436257",
+  "tags": [
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Putti",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250465",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q284865"
+    },
+    {
+      "term": "Saints",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q3949246",
+  "isTimelineWork": true,
+  "GalleryNumber": "621"
+}

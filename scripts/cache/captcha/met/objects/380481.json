@@ -1,0 +1,112 @@
+{
+  "objectID": 380481,
+  "isHighlight": false,
+  "accessionNumber": "63.550.47",
+  "accessionYear": "1962",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DT9291.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DT9291.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 76200,
+      "role": "Artist",
+      "name": "Frances Flora Bond Palmer",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021237",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q22019204",
+      "gender": "Female"
+    },
+    {
+      "constituentID": 163614,
+      "role": "Publisher",
+      "name": "Lithographed and published by Currier &amp; Ives",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500034474",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1144898",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "\"Rounding a Bend\" on the Mississippi – The Parting Salute",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Frances Flora Bond Palmer",
+  "artistDisplayBio": "American (born England), Leicester 1812–1876 New York",
+  "artistSuffix": "",
+  "artistAlphaSort": "Palmer, Frances Flora Bond",
+  "artistNationality": "American, born England",
+  "artistBeginDate": "1812",
+  "artistEndDate": "1876",
+  "artistGender": "Female",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q22019204",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500021237",
+  "objectDate": "1866",
+  "objectBeginDate": 1866,
+  "objectEndDate": 1866,
+  "medium": "Hand-colored lithograph",
+  "dimensions": "Image: 18 1/8 × 27 3/4 in. (46 × 70.5 cm)\r\nImage and text: 20 1/8 × 27 3/4 in. (51.1 × 70.5 cm)\r\nSheet: 21 7/8 × 29 3/4 in. (55.6 × 75.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 51.117603,
+        "Width": 70.48514
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 46,
+        "Width": 70.5
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 55.56261,
+        "Width": 75.56515
+      }
+    }
+  ],
+  "creditLine": "Bequest of Adele S. Colgate, 1962",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/380481",
+  "tags": [
+    {
+      "term": "Rivers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+    },
+    {
+      "term": "Boats",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q96184835",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

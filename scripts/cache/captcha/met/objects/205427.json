@@ -1,0 +1,111 @@
+{
+  "objectID": 205427,
+  "isHighlight": false,
+  "accessionNumber": "1971.206.23",
+  "accessionYear": "1971",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP156524.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP156524.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP156535.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/ES2291.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/246645.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 164856,
+      "role": "Manufactory",
+      "name": "Sèvres Manufactory",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500054661",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q653307",
+      "gender": ""
+    },
+    {
+      "constituentID": 36123,
+      "role": "Decorator",
+      "name": "Louis-François L&#39;Écot",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Vase",
+  "title": "Vase (vase chinois) (one of a pair)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Manufactory",
+  "artistPrefix": "",
+  "artistDisplayName": "Sèvres Manufactory",
+  "artistDisplayBio": "French, 1740–present",
+  "artistSuffix": "",
+  "artistAlphaSort": "Sèvres Manufactory",
+  "artistNationality": "French",
+  "artistBeginDate": "1740",
+  "artistEndDate": "9999",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q653307",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500054661",
+  "objectDate": "1791",
+  "objectBeginDate": 1791,
+  "objectEndDate": 1791,
+  "medium": "Hard-paste porcelain decorated in black enamel, platinum, two tones of gold; gilt metal; interior metal rod",
+  "dimensions": "Overall (confirmed): H. 15-1/8 x W. 5-1/2 x D. 5 in. (38.4 x 14 x 12.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "confirmed",
+      "elementMeasurements": {
+        "Depth": 12.700026,
+        "Height": 38.417576,
+        "Length": 13.970028
+      }
+    }
+  ],
+  "creditLine": "Gift of Mr. and Mrs. Charles Wrightsman, 1971",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Ceramics-Porcelain",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-11-21T10:05:27.96Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/205427",
+  "tags": [
+    {
+      "term": "Animals",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300249525",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q729"
+    },
+    {
+      "term": "Birds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+    },
+    {
+      "term": "Chinoiserie",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300021167",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q863679"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116242509",
+  "isTimelineWork": false,
+  "GalleryNumber": "524"
+}

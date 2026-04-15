@@ -1,0 +1,138 @@
+{
+  "objectID": 774518,
+  "isHighlight": false,
+  "accessionNumber": "17.3.888-222",
+  "accessionYear": "1917",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP879316.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP879316.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 166206,
+      "role": "Artist",
+      "name": "After Henry William Bunbury",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500013604",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3133158",
+      "gender": ""
+    },
+    {
+      "constituentID": 99062,
+      "role": "Sitter",
+      "name": "Probably represents Carl Friedrich Abel",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q168539",
+      "gender": ""
+    },
+    {
+      "constituentID": 98698,
+      "role": "Sitter",
+      "name": "Possibly represents Johann Christian Bach",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q106641",
+      "gender": ""
+    },
+    {
+      "constituentID": 202576,
+      "role": "Sitter",
+      "name": "Probably represents Johann Christian Fisher",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 202577,
+      "role": "Sitter",
+      "name": "Probably represents Giovanni Punto",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1348716",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Concerto Spirituale",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "After",
+  "artistDisplayName": "Henry William Bunbury",
+  "artistDisplayBio": "British, Mildenhall, Suffolk 1750–1811 Keswick, Cumberland",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bunbury, Henry William",
+  "artistNationality": "British",
+  "artistBeginDate": "1750",
+  "artistEndDate": "1811",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3133158",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500013604",
+  "objectDate": "ca. 1803 (?)",
+  "objectBeginDate": 1798,
+  "objectEndDate": 1808,
+  "medium": "Etching",
+  "dimensions": "Plate: 5 1/2 × 4 1/8 in. (13.9 × 10.4 cm)\r\nSheet: 7 11/16 × 5 1/4 in. (19.5 × 13.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 19.5,
+        "Width": 13.3
+      }
+    },
+    {
+      "elementName": "Plate",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 13.9,
+        "Width": 10.4
+      }
+    }
+  ],
+  "creditLine": "Harris Brisbane Dick Fund, 1917",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/774518",
+  "tags": [
+    {
+      "term": "Musical Instruments",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300041620",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q34379"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Musicians",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025666",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q639669"
+    },
+    {
+      "term": "Caricature",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015634",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q482919"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,113 @@
+{
+  "objectID": 456342,
+  "isHighlight": false,
+  "accessionNumber": "2008.251",
+  "accessionYear": "2008",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP238325.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP238325.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/is/original/DP238324.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DP238329.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DP238323.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DP238321.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DP238331.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DP238336.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DP238320.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DP238332.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DP238334.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DP238326.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DP238333.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DP238319.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DP238322.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DP238316.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DP238317.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DP238318.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DP238327.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DP238328.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DP238330.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DP238335.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DP238337.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 130358,
+      "role": "Author",
+      "name": "Muhi al-Din Lari",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q30049877",
+      "gender": ""
+    }
+  ],
+  "department": "Islamic Art",
+  "objectName": "Illustrated manuscript",
+  "title": "Futuh al-Haramayn (Description of the Holy Cities)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Author",
+  "artistPrefix": "",
+  "artistDisplayName": "Muhi al-Din Lari",
+  "artistDisplayBio": "Iranian or Indian, died 1521 or 1526/27",
+  "artistSuffix": "",
+  "artistAlphaSort": "Muhi al-Din Lari",
+  "artistNationality": "Iranian or Indian",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q30049877",
+  "artistULAN_URL": "(not assigned)",
+  "objectDate": "dated 1089 AH/1678 CE",
+  "objectBeginDate": 1677,
+  "objectEndDate": 1679,
+  "medium": "Ink, opaque watercolor, and gold on paper",
+  "dimensions": "Text block: \r\n                H. 5 15/16 in. (15.1 cm)\r\n                W. 3 in. (7.6 cm)\r\nEntire page:\r\n                 H. 7 3/8 in. (18.8 cm)\r\n                 W. 4 5/16 in. (11 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "Entire page",
+      "elementMeasurements": {
+        "Height": 18.8,
+        "Width": 11
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "Text block",
+      "elementMeasurements": {
+        "Height": 15.1,
+        "Width": 7.6
+      }
+    }
+  ],
+  "creditLine": "Purchase, Funds from various donors, Elizabeth S. Ettinghausen Gift, in memory of Richard Ettinghausen, and Louis E. and Theresa S. Seley Purchase Fund for Islamic Art, 2008",
+  "geographyType": "Attributed to",
+  "city": "Kharepatan",
+  "state": "",
+  "county": "",
+  "country": "India",
+  "region": "Deccan",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Codices",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-01-21T04:52:24.343Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/456342",
+  "tags": [
+    {
+      "term": "Calligraphy",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266660",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12681"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116256488",
+  "isTimelineWork": false,
+  "GalleryNumber": "463"
+}

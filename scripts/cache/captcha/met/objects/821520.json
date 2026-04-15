@@ -1,0 +1,82 @@
+{
+  "objectID": 821520,
+  "isHighlight": false,
+  "accessionNumber": "00.5.149",
+  "accessionYear": "1900",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DP-39202-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-39202-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-39202-002.jpg",
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-39202-003.jpg",
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-39202-004.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 223261,
+      "role": "Artist",
+      "name": "Mezcala artist(s)",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "The Michael C. Rockefeller Wing",
+  "objectName": "Figure",
+  "title": "Seated figure",
+  "culture": "Guerrero",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Mezcala artist(s)",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "Mezcala artist(s)",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "300 BCE–300 CE",
+  "objectBeginDate": -300,
+  "objectEndDate": 300,
+  "medium": "Stone",
+  "dimensions": "H. 3 1/2 x W. 1 1/2 x D. 1 3/4 in. (H. 8.9 x W. 3.8 x D. 4.4 cm.)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 4.4450088,
+        "Height": 8.8900175,
+        "Width": 3.8100076
+      }
+    }
+  ],
+  "creditLine": "",
+  "geographyType": "",
+  "city": "",
+  "state": "Guerrero",
+  "county": "",
+  "country": "Mexico",
+  "region": "Mesoamerica",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Stone-Sculpture",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-05-31T04:50:53.377Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/821520",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": "360"
+}

@@ -1,0 +1,109 @@
+{
+  "objectID": 726266,
+  "isHighlight": false,
+  "accessionNumber": "2014.99.43",
+  "accessionYear": "2014",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP703732.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP703732.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 163130,
+      "role": "Artist",
+      "name": "Associated with Cornelis Bos",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028261",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5171219",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Album Print Ornament & Architecture",
+  "title": "Series of Cartouches, in: Targhe ed altri ornati di varie e capricciose invenzioni (Cartouches and other ornaments of various and capricious invention, page 43)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Associated with",
+  "artistDisplayName": "Cornelis Bos",
+  "artistDisplayBio": "Netherlandish, Hertogenbosch ca. 1510?–before 1556 Groningen",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bos, Cornelis",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1510",
+  "artistEndDate": "1556",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5171219",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500028261",
+  "objectDate": "ca. 1545–60",
+  "objectBeginDate": 1540,
+  "objectEndDate": 1560,
+  "medium": "Engraving",
+  "dimensions": "Sheet: 7 7/8 × 10 5/16 in. (20 × 26.2 cm)\r\nPlate: 5 1/8 × 11 13/16 in. (13 × 30 cm)\r\nOverall: 8 1/4 × 10 5/8 in. (21 × 27 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 21,
+        "Width": 27
+      }
+    },
+    {
+      "elementName": "Plate",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 13,
+        "Width": 30
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 20,
+        "Width": 26.2
+      }
+    }
+  ],
+  "creditLine": "Purchase, Daniel Ergmann Gift, 2014",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Albums",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-09-24T04:50:58.447Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/726266",
+  "tags": [
+    {
+      "term": "Birds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+    },
+    {
+      "term": "Cartouches",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300010256",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q368205"
+    },
+    {
+      "term": "Coat of Arms",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300126352",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q14659"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

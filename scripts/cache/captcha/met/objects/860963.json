@@ -1,0 +1,90 @@
+{
+  "objectID": 860963,
+  "isHighlight": false,
+  "accessionNumber": "2022.97",
+  "accessionYear": "2022",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP-24412-002.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP-24412-002.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/DP-24412-001.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 37502,
+      "role": "Artist",
+      "name": "Unidentified artist",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Hanging scroll",
+  "title": "Mending clothes by daylight",
+  "culture": "China",
+  "period": "Southern Song dynasty (1127–1279)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Unidentified artist",
+  "artistDisplayBio": "Chinese, 13th century",
+  "artistSuffix": "",
+  "artistAlphaSort": "Unidentified artist",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "calligraphy datable to 1240s",
+  "objectBeginDate": 1240,
+  "objectEndDate": 1249,
+  "medium": "Hanging scroll; ink on paper",
+  "dimensions": "Image: 25 9/16 × 11 1/4 in. (65 × 28.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 65,
+        "Width": 28.5
+      }
+    }
+  ],
+  "creditLine": "Purchase, Robert Hatfield Ellsworth Bequest, 2022",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-01-08T04:49:05.567Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/860963",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Sewing",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300053658",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q652122"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q126118809",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

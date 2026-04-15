@@ -1,0 +1,87 @@
+{
+  "objectID": 482282,
+  "isHighlight": false,
+  "accessionNumber": "1981.284",
+  "accessionYear": "1981",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 147291,
+      "role": "Artist",
+      "name": "Bob Thompson",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500080773",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q4934184",
+      "gender": ""
+    }
+  ],
+  "department": "Modern and Contemporary Art",
+  "objectName": "Painting",
+  "title": "Allegory",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Bob Thompson",
+  "artistDisplayBio": "American, Louisville, Kentucky 1937–1966 Rome, Italy",
+  "artistSuffix": "",
+  "artistAlphaSort": "Thompson, Bob",
+  "artistNationality": "American",
+  "artistBeginDate": "1937",
+  "artistEndDate": "1966",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q4934184",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500080773",
+  "objectDate": "1960",
+  "objectBeginDate": 1960,
+  "objectEndDate": 1960,
+  "medium": "Oil on canvas",
+  "dimensions": "60 × 71 (152.4 × 180.3)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 4.6037593,
+        "Height": 152.4,
+        "Width": 180.3
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": "F.1981.284 Blonde brown wood float frame-no plexi",
+      "elementMeasurements": {
+        "Depth": 7.9375157,
+        "Height": 162.56032,
+        "Width": 187.64287
+      }
+    }
+  ],
+  "creditLine": "George A. Hearn Fund, 1981",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "© Estate of Bob Thompson",
+  "linkResource": "",
+  "metadataDate": "2026-03-24T04:55:11.88Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/482282",
+  "tags": null,
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19920622",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

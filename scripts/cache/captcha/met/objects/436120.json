@@ -1,0 +1,105 @@
+{
+  "objectID": 436120,
+  "isHighlight": false,
+  "accessionNumber": "66.65.2",
+  "accessionYear": "1966",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25458-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-25458-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161821,
+      "role": "Artist",
+      "name": "Edgar Degas",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115194",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q46373",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Old Italian Woman",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Edgar Degas",
+  "artistDisplayBio": "French, Paris 1834–1917 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Degas, Edgar",
+  "artistNationality": "French",
+  "artistBeginDate": "1834",
+  "artistEndDate": "1917",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q46373",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115194",
+  "objectDate": "1857",
+  "objectBeginDate": 1857,
+  "objectEndDate": 1857,
+  "medium": "Oil on canvas",
+  "dimensions": "29 1/2 x 24 in. (74.9 x 61 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 74.9,
+        "Width": 61
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 10.795022,
+        "Height": 100.647705,
+        "Width": 87.94768
+      }
+    },
+    {
+      "elementName": "Glazing",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 75.88265,
+        "Width": 62.547626
+      }
+    }
+  ],
+  "creditLine": "Bequest of Charles Goldman, 1966",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-07-02T04:50:13.22Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436120",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912191",
+  "isTimelineWork": false,
+  "GalleryNumber": "815"
+}

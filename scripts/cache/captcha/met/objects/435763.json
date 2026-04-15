@@ -1,0 +1,100 @@
+{
+  "objectID": 435763,
+  "isHighlight": false,
+  "accessionNumber": "71.156–57",
+  "accessionYear": "1871",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT241954.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT241954.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/Bouts_copy_diptych_Virgin_IRR.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/Bouts_copy_diptych_Virgin_XrayNEW.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/Bouts_copy_diptych_Figure1.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/Bouts_copy_diptych_Christ_IRR.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/Bouts_copy_diptych_Figure2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/Bouts_copy_diptych_Christ_Xray.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 161710,
+      "role": "Artist",
+      "name": "Posthumous Workshop Copy after Dieric Bouts",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024814",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q313561",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Mourning Virgin; Christ Crowned with Thorns",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Posthumous Workshop Copy after",
+  "artistDisplayName": "Dieric Bouts",
+  "artistDisplayBio": "Netherlandish, Leuven, ca. 1525",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bouts, Dieric",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1457",
+  "artistEndDate": "1475",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q313561",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500024814",
+  "objectDate": "",
+  "objectBeginDate": 1520,
+  "objectEndDate": 1530,
+  "medium": "Oil on oak",
+  "dimensions": "Each 16 x 12 1/2 in. (40.6 x 31.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 40.6,
+        "Width": 31.8
+      }
+    }
+  ],
+  "creditLine": "Purchase, 1871",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-03-14T04:55:42.9Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435763",
+  "tags": [
+    {
+      "term": "Sadness",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055166",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q169251"
+    },
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Virgin Mary",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905244",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

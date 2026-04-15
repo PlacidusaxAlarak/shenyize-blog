@@ -1,0 +1,107 @@
+{
+  "objectID": 380862,
+  "isHighlight": false,
+  "accessionNumber": "54.90.794",
+  "accessionYear": "1954",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP853584.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP853584.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 76201,
+      "role": "Lithographer",
+      "name": "Lithographed and published by Nathaniel Currier",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115501",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q6646654",
+      "gender": ""
+    },
+    {
+      "constituentID": 162378,
+      "role": "Artist",
+      "name": "Napoleon Sarony",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027268",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q965637",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "U. S. Ship North Carolina, 102 Guns",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Lithographer",
+  "artistPrefix": "Lithographed and published by",
+  "artistDisplayName": "Nathaniel Currier",
+  "artistDisplayBio": "American, Roxbury, Massachusetts 1813–1888 New York",
+  "artistSuffix": "",
+  "artistAlphaSort": "Currier, Nathaniel",
+  "artistNationality": "American",
+  "artistBeginDate": "1813",
+  "artistEndDate": "1888",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q6646654",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115501",
+  "objectDate": "1843",
+  "objectBeginDate": 1843,
+  "objectEndDate": 1843,
+  "medium": "Hand-colored lithograph",
+  "dimensions": "Image: 9 1/8 × 13 1/16 in. (23.2 × 33.2 cm)\r\nImage and text: 9 3/16 × 13 1/16 in. (23.3 × 33.2 cm)\r\nSheet: 10 × 14 in. (25.4 × 35.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 25.4,
+        "Width": 35.5
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 23.2,
+        "Width": 33.178818
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 23.336296,
+        "Width": 33.178818
+      }
+    }
+  ],
+  "creditLine": "The Edward W. C. Arnold Collection of New York Prints, Maps and Pictures, Bequest of Edward W. C. Arnold, 1954",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-23T04:54:48.75Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/380862",
+  "tags": [
+    {
+      "term": "Ships",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300082981",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q11446"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

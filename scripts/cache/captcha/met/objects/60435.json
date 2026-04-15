@@ -1,0 +1,101 @@
+{
+  "objectID": 60435,
+  "isHighlight": false,
+  "accessionNumber": "2014.719.4",
+  "accessionYear": "2014",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP700719.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP700719.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/TR_430_4_2010_trans.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP700718.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/SC-2014_719_4-001.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/SC-2014_719_4-002.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/SC-2014_719_4-003.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/SC-2014_719_4-004a.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/SC-2014_719_4-004b.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 13422,
+      "role": "Artist",
+      "name": "Myōe Kōben 明恵高弁",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Hanging scroll",
+  "title": "Section of the Dream Diary (Yume no ki)",
+  "culture": "Japan",
+  "period": "Kamakura period (1185–1333)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Myōe Kōben 明恵高弁",
+  "artistDisplayBio": "Japanese, 1173–1232",
+  "artistSuffix": "",
+  "artistAlphaSort": "Myōe Kōben",
+  "artistNationality": "Japanese",
+  "artistBeginDate": "1173",
+  "artistEndDate": "1232",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "1225",
+  "objectBeginDate": 1225,
+  "objectEndDate": 1225,
+  "medium": "Hanging scroll; ink on paper",
+  "dimensions": "Image: 13 1/4 x 21 5/8 in. (33.7 x 54.9 cm)\r\nOverall with mounting: 48 x 27 in. (121.9 x 68.6 cm)\r\nOverall with knobs: 48 x 29 1/8 in. (121.9 x 74 cm)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 33.7,
+        "Width": 54.9
+      }
+    },
+    {
+      "elementName": "Overall with knobs",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 121.9,
+        "Width": 74
+      }
+    },
+    {
+      "elementName": "Overall with mounting",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 121.9,
+        "Width": 68.6
+      }
+    }
+  ],
+  "creditLine": "Gift of Sylvan Barnet and William Burto, in honor of Saretta and Howard Barnet, 2014",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Calligraphy",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-10-23T04:51:40.987Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/60435",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

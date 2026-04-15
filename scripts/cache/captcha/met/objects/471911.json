@@ -1,0 +1,118 @@
+{
+  "objectID": 471911,
+  "isHighlight": true,
+  "accessionNumber": "62.189",
+  "accessionYear": "1962",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/cl/original/DP132217.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/cl/web-large/DP132217.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/cl/original/DP167911.jpg",
+    "https://images.metmuseum.org/CRDImages/cl/original/DP169537.jpg",
+    "https://images.metmuseum.org/CRDImages/cl/original/DP169538.jpg",
+    "https://images.metmuseum.org/CRDImages/cl/original/DP169536.jpg",
+    "https://images.metmuseum.org/CRDImages/cl/original/DP167910.jpg",
+    "https://images.metmuseum.org/CRDImages/cl/original/DP167912.jpg",
+    "https://images.metmuseum.org/CRDImages/cl/original/DP167909.jpg",
+    "https://images.metmuseum.org/CRDImages/cl/original/DP167913.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 141570,
+      "role": "Artist",
+      "name": "Workshop of Biduinus",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500055001",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2901766",
+      "gender": ""
+    }
+  ],
+  "department": "The Cloisters",
+  "objectName": "Portal",
+  "title": "Portal from the Church of San Leonardo al Frigido",
+  "culture": "Italian",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Workshop of",
+  "artistDisplayName": "Biduinus",
+  "artistDisplayBio": "Italian, active last quarter 12th century",
+  "artistSuffix": "",
+  "artistAlphaSort": "Workshop of Biduinus",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1175",
+  "artistEndDate": "1200",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2901766",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500055001",
+  "objectDate": "ca. 1175",
+  "objectBeginDate": 1170,
+  "objectEndDate": 1180,
+  "medium": "Marble (Carrara marble)",
+  "dimensions": "13 ft. 2 in. × 76 in. × 14 in. (401.3 × 193 × 35.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 35.56007,
+        "Height": 401.3208,
+        "Width": 193.04039
+      }
+    }
+  ],
+  "creditLine": "The Cloisters Collection, 1962",
+  "geographyType": "Made in",
+  "city": "",
+  "state": "Tuscany",
+  "county": "",
+  "country": "Italy",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Installations",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/471911",
+  "tags": [
+    {
+      "term": "Donkeys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265959",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3537778"
+    },
+    {
+      "term": "Lions",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300310388",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q140"
+    },
+    {
+      "term": "Apostles",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300343837",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43412"
+    },
+    {
+      "term": "Jesus",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+    },
+    {
+      "term": "Annunciation",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300412102",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q154326"
+    },
+    {
+      "term": "Visitation",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000359",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q691810"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q29385514",
+  "isTimelineWork": true,
+  "GalleryNumber": "002"
+}

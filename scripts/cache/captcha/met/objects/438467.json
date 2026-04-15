@@ -1,0 +1,130 @@
+{
+  "objectID": 438467,
+  "isHighlight": false,
+  "accessionNumber": "2001.216.3",
+  "accessionYear": "2001",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP136254.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP136254.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/DP136255.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-2001_216_3_Suppl_1.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-2001_216_3_IRR_Eliz.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-2001_216_3_IRR_nurse.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-2001_216_3_IRR_upperleft.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-2001_216_3_IRR_women.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-2001_216_3_Xray.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162179,
+      "role": "Artist",
+      "name": "Bernard van Orley",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023119",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q454678",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Birth and Naming of Saint John the Baptist; (reverse) Trompe-l'oeil with Painting of The Man of Sorrows",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Bernard van Orley",
+  "artistDisplayBio": "Netherlandish, Brussels ca. 1492–1541/42 Brussels",
+  "artistSuffix": "",
+  "artistAlphaSort": "Orley, Bernard van",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1492",
+  "artistEndDate": "1542",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q454678",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500023119",
+  "objectDate": "ca. 1514–15",
+  "objectBeginDate": 1514,
+  "objectEndDate": 1515,
+  "medium": "Oil on wood",
+  "dimensions": "25 × 30 in. (63.5 × 76.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 63.5,
+        "Width": 76.2
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 4.5,
+        "Height": 75.5,
+        "Width": 86.3
+      }
+    }
+  ],
+  "creditLine": "Bequest of Hertha Katz, 2000",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-02-04T04:58:06.107Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438467",
+  "tags": [
+    {
+      "term": "Interiors",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+    },
+    {
+      "term": "Infants",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189561",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q998"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Peacocks",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250082",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q201251"
+    },
+    {
+      "term": "Saint John the Baptist",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+    },
+    {
+      "term": "Beds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300038697",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q42177"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905391",
+  "isTimelineWork": false,
+  "GalleryNumber": "636"
+}

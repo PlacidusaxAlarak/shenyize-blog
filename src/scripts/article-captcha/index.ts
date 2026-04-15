@@ -5,6 +5,7 @@ import {
 	createFreshCaptchaState,
 	createRotateChallenge,
 	evaluateRotationAttempt,
+	pickRandomBackgroundImageUrl,
 	resolveCanvasSize,
 	resolveCircleRadius,
 	resolveFloatingPanelPosition,
@@ -44,6 +45,7 @@ type GateRoot = HTMLElement & {
 	dataset: DOMStringMap & {
 		storageKey?: string;
 		backgroundImageUrl?: string;
+		backgroundImageUrls?: string;
 		fallbackBackgroundImageUrl?: string;
 		gateState?: string;
 	};
@@ -108,6 +110,33 @@ function getSessionStorage() {
 
 function readPersistedState(storageKey: string) {
 	return getSessionStorage()?.getItem(storageKey) === STORAGE_VALUE;
+}
+
+function readBackgroundImageUrls(root: GateRoot, defaultBackgroundImageUrl: string) {
+	const serializedBackgroundImageUrls = root.dataset.backgroundImageUrls;
+	if (!serializedBackgroundImageUrls) {
+		return [defaultBackgroundImageUrl];
+	}
+
+	try {
+		const parsedImageUrls = JSON.parse(serializedBackgroundImageUrls);
+		if (!Array.isArray(parsedImageUrls)) {
+			return [defaultBackgroundImageUrl];
+		}
+
+		const normalizedImageUrls = [
+			...new Set(
+				parsedImageUrls
+					.filter((value) => typeof value === "string")
+					.map((value) => value.trim())
+					.filter(Boolean),
+			),
+		];
+
+		return normalizedImageUrls.length > 0 ? normalizedImageUrls : [defaultBackgroundImageUrl];
+	} catch {
+		return [defaultBackgroundImageUrl];
+	}
 }
 
 function pause(ms: number) {
@@ -177,6 +206,7 @@ function collectElements(root: GateRoot): ArticleCaptchaElements {
 function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 	const storageKey = root.dataset.storageKey ?? "site-captcha:passed";
 	const backgroundImageUrl = root.dataset.backgroundImageUrl ?? "/captcha/preview.jpg";
+	const backgroundImageUrls = readBackgroundImageUrls(root, backgroundImageUrl);
 	const fallbackBackgroundImageUrl =
 		root.dataset.fallbackBackgroundImageUrl ?? "/captcha/placeholder-background.svg";
 	const elements = collectElements(root);
@@ -190,6 +220,7 @@ function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 	let challenge: ReturnType<typeof createRotateChallenge> | undefined;
 	let challengeVersion = 0;
 	let controlsPositionFrame = 0;
+	let currentBackgroundImageUrl: string | undefined;
 	let challengeState = createFreshCaptchaState({
 		startRotationDeg: captchaConfig.sliderMinValue,
 		startSliderValue: captchaConfig.sliderMinValue,
@@ -387,6 +418,16 @@ function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 		updateSliderVisual(elements.slider, challengeState.sliderValue);
 	};
 
+	const selectBackgroundImageUrl = () => {
+		currentBackgroundImageUrl =
+			pickRandomBackgroundImageUrl({
+				imageUrls: backgroundImageUrls,
+				previousImageUrl: currentBackgroundImageUrl,
+			}) ?? backgroundImageUrl;
+
+		return currentBackgroundImageUrl;
+	};
+
 	const syncRotation = (sliderValue: number) => {
 		if (!challenge) {
 			return;
@@ -539,7 +580,7 @@ function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 
 		try {
 			const imageState = await loadBackgroundImage(
-				backgroundImageUrl,
+				selectBackgroundImageUrl(),
 				fallbackBackgroundImageUrl,
 			);
 

@@ -1,0 +1,103 @@
+{
+  "objectID": 435760,
+  "isHighlight": false,
+  "accessionNumber": "32.100.55",
+  "accessionYear": "1932",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP375525.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP375525.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/Bouts_A_wkshp_MoS_IRR_Final_FullRes.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/Bouts_A_wkshp_MoS_Figure1.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/Bouts_A_wkshp_MoS_Figure2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/Bouts_A_MoS_32_100_55_XrayNEW.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/ep32.100.55.bw.R.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 163124,
+      "role": "Artist",
+      "name": "Workshop of Aelbert Bouts",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006416",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q380743",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Man of Sorrows",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Workshop of",
+  "artistDisplayName": "Aelbert Bouts",
+  "artistDisplayBio": "Netherlandish, Leuven ca. 1451/54–1549",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bouts, Aelbert",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1451",
+  "artistEndDate": "1549",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q380743",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500006416",
+  "objectDate": "ca. 1525",
+  "objectBeginDate": 1520,
+  "objectEndDate": 1530,
+  "medium": "Oil on oak",
+  "dimensions": "Arched top, 17 1/2 x 11 1/4 in. (44.5 x 28.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 44.5,
+        "Width": 28.6
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 8.572517,
+        "Height": 59.05512,
+        "Width": 42.545086
+      }
+    }
+  ],
+  "creditLine": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-19T04:50:33.487Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435760",
+  "tags": [
+    {
+      "term": "Sadness",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055166",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q169251"
+    },
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905117",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

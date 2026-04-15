@@ -1,0 +1,104 @@
+{
+  "objectID": 44567,
+  "isHighlight": false,
+  "accessionNumber": "1988.324.2",
+  "accessionYear": "1988",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 12237,
+      "role": "Artist",
+      "name": "Wu Changshuo",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500125703",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q715400",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Hanging scroll",
+  "title": "Spring Offerings",
+  "culture": "China",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Wu Changshuo",
+  "artistDisplayBio": "Chinese, 1844–1927",
+  "artistSuffix": "",
+  "artistAlphaSort": "Wu Changshuo",
+  "artistNationality": "Chinese",
+  "artistBeginDate": "1844",
+  "artistEndDate": "1927",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q715400",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500125703",
+  "objectDate": "dated 1919",
+  "objectBeginDate": 1919,
+  "objectEndDate": 1919,
+  "medium": "Hanging scroll; ink and color on paper",
+  "dimensions": "Image: 58 x 31 1/2 in. (147.3 x 80 cm)\r\nOverall with mounting: 100 3/8 x 39 3/8 in. (255 x 100 cm)\r\nOverall with knobs: 100 3/8 x 43 in. (255 x 109.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 147.3203,
+        "Width": 80.0102
+      }
+    },
+    {
+      "elementName": "Overall with knobs",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 254.953,
+        "Width": 109.2202
+      }
+    },
+    {
+      "elementName": "Overall with mounting",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 254.953,
+        "Width": 100.0127
+      }
+    }
+  ],
+  "creditLine": "Gift of Robert Hatfield Ellsworth, in memory of La Ferne Hatfield Ellsworth, 1988",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-11-13T04:51:50.813Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/44567",
+  "tags": [
+    {
+      "term": "Flowers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+    },
+    {
+      "term": "Plants",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132360",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q756"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q83562414",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

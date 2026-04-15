@@ -1,0 +1,124 @@
+{
+  "objectID": 395643,
+  "isHighlight": false,
+  "accessionNumber": "45.100.16",
+  "accessionYear": "1945",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/LC-45_100_16-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/LC-45_100_16-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-1523-001.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 164815,
+      "role": "Artist",
+      "name": "Jacques Philippe Le Bas",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016455",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q280936",
+      "gender": ""
+    },
+    {
+      "constituentID": 163320,
+      "role": "Artist",
+      "name": "after Giuseppe Castiglione",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008839",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q458671",
+      "gender": ""
+    },
+    {
+      "constituentID": 165545,
+      "role": "Artist",
+      "name": "(direxit) Charles Nicolas Cochin II",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021138",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2408093",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "The Victory Banquet",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "The Conquests of the Emperor of China\r\n(Les Conquêtes de l'Empereur de la Chine)",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jacques Philippe Le Bas",
+  "artistDisplayBio": "French, Paris 1707–1783 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Le Bas, Jacques Philippe",
+  "artistNationality": "French",
+  "artistBeginDate": "1707",
+  "artistEndDate": "1783",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q280936",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500016455",
+  "objectDate": "1770",
+  "objectBeginDate": 1770,
+  "objectEndDate": 1770,
+  "medium": "Etching and engraving",
+  "dimensions": "Sheet: 25 11/16 × 39 5/8 in. (65.3 × 100.7 cm)\r\nPlate: 22 9/16 x 36 11/16 in. (57.3 x 93.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 65.3,
+        "Width": 100.7
+      }
+    },
+    {
+      "elementName": "Plate",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 57.3,
+        "Width": 93.2
+      }
+    }
+  ],
+  "creditLine": "Harris Brisbane Dick Fund, 1945",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-09-27T04:50:39.59Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/395643",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Crowd",
+      "AAT_URL": null,
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q13430821"
+    },
+    {
+      "term": "Pavilions",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300002660",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q276173"
+    },
+    {
+      "term": "Banquets",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247614",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q626066"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

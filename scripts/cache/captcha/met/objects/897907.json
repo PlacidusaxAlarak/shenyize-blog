@@ -1,0 +1,83 @@
+{
+  "objectID": 897907,
+  "isHighlight": false,
+  "accessionNumber": "2023.443",
+  "accessionYear": "2023",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP-29207-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-29207-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ad/original/DP-29207-003.jpg",
+    "https://images.metmuseum.org/CRDImages/ad/original/DP-29207-002.jpg",
+    "https://images.metmuseum.org/CRDImages/ad/original/DP-29207-004.jpg",
+    "https://images.metmuseum.org/CRDImages/ad/original/DP-29207-005.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 207398,
+      "role": "Maker",
+      "name": "Attributed to Eliphalet Chapin",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500329484",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5361281",
+      "gender": ""
+    }
+  ],
+  "department": "The American Wing",
+  "objectName": "",
+  "title": "Armchair",
+  "culture": "American",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Maker",
+  "artistPrefix": "Attributed to",
+  "artistDisplayName": "Eliphalet Chapin",
+  "artistDisplayBio": "American, East Windsor, Connecticut, 1741–1807",
+  "artistSuffix": "",
+  "artistAlphaSort": "Chapin, Eliphalet",
+  "artistNationality": "American",
+  "artistBeginDate": "1741",
+  "artistEndDate": "1807",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5361281",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500329484",
+  "objectDate": "ca. 1781",
+  "objectBeginDate": 1776,
+  "objectEndDate": 1786,
+  "medium": "Cherry, white pine, modern upholstery",
+  "dimensions": "41 × 25 3/4 × 22 1/4 in. (104.1 × 65.4 × 56.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 56.515114,
+        "Height": 104.140205,
+        "Width": 65.40513
+      }
+    }
+  ],
+  "creditLine": "Gift of Erving and Joyce Wolf, in memory of Diane R. Wolf, 2023",
+  "geographyType": "(none assigned)",
+  "city": "East Windsor",
+  "state": "Connecticut",
+  "county": "",
+  "country": "United States",
+  "region": "New England",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/897907",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": "749"
+}

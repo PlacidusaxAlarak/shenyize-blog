@@ -1,0 +1,94 @@
+{
+  "objectID": 786826,
+  "isHighlight": true,
+  "accessionNumber": "2018.228",
+  "accessionYear": "2018",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 144178,
+      "role": "Artist",
+      "name": "Sam Gilliam",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500013570",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2216478",
+      "gender": ""
+    }
+  ],
+  "department": "Modern and Contemporary Art",
+  "objectName": "Painting",
+  "title": "Carousel State",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Sam Gilliam",
+  "artistDisplayBio": "American, born Tupelo, Mississippi, 1933–2022 Washington, D.C.",
+  "artistSuffix": "",
+  "artistAlphaSort": "Gilliam, Sam",
+  "artistNationality": "American",
+  "artistBeginDate": "1933",
+  "artistEndDate": "2022",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2216478",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500013570",
+  "objectDate": "1968",
+  "objectBeginDate": 1968,
+  "objectEndDate": 1968,
+  "medium": "Acrylic and aluminum powder on canvas",
+  "dimensions": "9.926 × 70.5 (302.6 × 2149.4 cm)\r\nInstalled: 13 ft. 1 in. × 22 ft. (398.8 × 670.6 cm)\r\n[irregular shape]",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "Installed",
+      "elementMeasurements": {
+        "Height": 398.7808,
+        "Width": 670.56134
+      }
+    },
+    {
+      "elementName": "Crate",
+      "elementDescription": "Slat crate CR.2018.228",
+      "elementMeasurements": {
+        "Height": 108.90272,
+        "Length": 391.79578,
+        "Width": 96.83769
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 302.62195,
+        "Width": 2149.3901
+      }
+    }
+  ],
+  "creditLine": "Gift of the artist, in celebration of the Museum's 150th Anniversary, 2018",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "© Estate of Sam Gilliam",
+  "linkResource": "",
+  "metadataDate": "2025-06-03T04:50:54.917Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/786826",
+  "tags": null,
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q96358152",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,94 @@
+{
+  "objectID": 309540,
+  "isHighlight": false,
+  "accessionNumber": "69.7.10",
+  "accessionYear": "1969",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DP-17780-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-17780-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-17780-002.jpg",
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-17780-003.jpg",
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-17780-004.jpg",
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-17780-005.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 223508,
+      "role": "Artist",
+      "name": "Tairona artist(s)",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "The Michael C. Rockefeller Wing",
+  "objectName": "Pendant",
+  "title": "Figure pendant",
+  "culture": "Tairona",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Tairona artist(s)",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "Tairona artist(s)",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "900–1600 CE",
+  "objectBeginDate": 900,
+  "objectEndDate": 1600,
+  "medium": "Gold",
+  "dimensions": "H. 5 3/8 × W. 6 5/8 × D. 2 in. (13.7 × 16.8 × 5.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.08001,
+        "Height": 13.652527,
+        "Width": 16.827534
+      }
+    }
+  ],
+  "creditLine": "Gift of H. L. Bache Foundation, 1969",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "Colombia",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Metal-Ornaments",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/309540",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Headdresses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300046023",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q28972621"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q81391820",
+  "isTimelineWork": true,
+  "GalleryNumber": "360"
+}

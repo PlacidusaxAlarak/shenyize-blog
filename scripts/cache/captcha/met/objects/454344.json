@@ -1,0 +1,110 @@
+{
+  "objectID": 454344,
+  "isHighlight": false,
+  "accessionNumber": "2002.503",
+  "accessionYear": "2002",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP103079.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP103079.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/is/original/sf2002-503-a.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/2002.503.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/sf2002-503b.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DP107190.jpg"
+  ],
+  "constituents": null,
+  "department": "Islamic Art",
+  "objectName": "Folio from an illustrated manuscript",
+  "title": "\"Rama Receives Sugriva and Jambavat, the Monkey and Bear Kings\", Folio from a Ramayana",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "",
+  "artistPrefix": "",
+  "artistDisplayName": "",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "ca. 1605",
+  "objectBeginDate": 1580,
+  "objectEndDate": 1630,
+  "medium": "Ink, opaque watercolor, and gold on paper",
+  "dimensions": "Painting: H. 10 7/8 in. (27.6 cm)\r\n                 W. 7 1/2 in. (19.1 cm)\r\nPage: H. 10 7/8 in. (27.6 cm)\r\n            W. 7 1/2 in. (19.1 cm)\r\nMat: H. 19 1/4 in. (48.9 cm)\r\n        W. 14 1/4 in. (36.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "Painting",
+      "elementMeasurements": {
+        "Height": 27.622555,
+        "Width": 19.050037
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "Mat",
+      "elementMeasurements": {
+        "Height": 48.8951,
+        "Width": 36.195072
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "Page",
+      "elementMeasurements": {
+        "Height": 27.622555,
+        "Width": 19.050037
+      }
+    }
+  ],
+  "creditLine": "Cynthia Hazen Polsky and Leon B. Polsky Fund, 2002",
+  "geographyType": "Attributed to",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "India",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Codices",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-09-29T04:51:42.5Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/454344",
+  "tags": [
+    {
+      "term": "Bears",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266516",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q30090244"
+    },
+    {
+      "term": "Princes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025482",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2747456"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Monkeys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250028",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1367"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

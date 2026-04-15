@@ -1,0 +1,110 @@
+{
+  "objectID": 437127,
+  "isHighlight": true,
+  "accessionNumber": "29.100.113",
+  "accessionYear": "1929",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162135,
+      "role": "Artist",
+      "name": "Claude Monet",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019484",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q296",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Bridge over a Pond of Water Lilies",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Claude Monet",
+  "artistDisplayBio": "French, Paris 1840–1926 Giverny",
+  "artistSuffix": "",
+  "artistAlphaSort": "Monet, Claude",
+  "artistNationality": "French",
+  "artistBeginDate": "1840",
+  "artistEndDate": "1926",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q296",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500019484",
+  "objectDate": "1899",
+  "objectBeginDate": 1899,
+  "objectEndDate": 1899,
+  "medium": "Oil on canvas",
+  "dimensions": "36 1/2 x 29 in. (92.7 x 73.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 92.7,
+        "Width": 73.7
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 11.43,
+        "Height": 127.0003,
+        "Width": 109.2202
+      }
+    },
+    {
+      "elementName": "Glazing",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 95.25019,
+        "Width": 77.15266
+      }
+    }
+  ],
+  "creditLine": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-02-06T04:55:31.413Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437127",
+  "tags": [
+    {
+      "term": "Bridges",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300386855",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12280"
+    },
+    {
+      "term": "Ponds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008688",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3253281"
+    },
+    {
+      "term": "Water Lilies",
+      "AAT_URL": null,
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3347071"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905213",
+  "isTimelineWork": true,
+  "GalleryNumber": "819"
+}

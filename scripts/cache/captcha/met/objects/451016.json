@@ -1,0 +1,110 @@
+{
+  "objectID": 451016,
+  "isHighlight": false,
+  "accessionNumber": "50.23.1",
+  "accessionYear": "1950",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP148339.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP148339.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/is/original/DP148340.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/147003.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/150859.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/sf50-23-1.jpg"
+  ],
+  "constituents": null,
+  "department": "Islamic Art",
+  "objectName": "Folio from an illustrated manuscript",
+  "title": "\"Muhammad Revives the Sick Boy\", Folio from a Falnama (Book of Omens) of Ja'far al-Sadiq",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "",
+  "artistPrefix": "",
+  "artistDisplayName": "",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "1550s",
+  "objectBeginDate": 1525,
+  "objectEndDate": 1575,
+  "medium": "Ink, opaque watercolor, and gold on paper",
+  "dimensions": "Painting: H. 23 1/16 in. (58.6 cm)\r\n                W. 17in. (43.2cm)\r\nMat : H. 28 in. (71.1 cm)\r\n         W. 22 in. (55.9 cm)\r\nFrame: H. 30 1/2 in. (77.5 cm)\r\n             W. 24 1/2 in. (62.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "Painting",
+      "elementMeasurements": {
+        "Height": 58.6,
+        "Width": 43.2
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "frame",
+      "elementMeasurements": {
+        "Height": 77.47015,
+        "Width": 62.230125
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "mat",
+      "elementMeasurements": {
+        "Height": 71.12014,
+        "Width": 55.88011
+      }
+    }
+  ],
+  "creditLine": "Purchase, Francis M. Weld Gift, 1950",
+  "geographyType": "Attributed to",
+  "city": "Qazvin",
+  "state": "",
+  "county": "",
+  "country": "Iran",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Codices",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-09-05T04:50:43.26Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/451016",
+  "tags": [
+    {
+      "term": "Illness",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189799",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q814207"
+    },
+    {
+      "term": "Boys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

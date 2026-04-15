@@ -1,0 +1,109 @@
+{
+  "objectID": 337700,
+  "isHighlight": true,
+  "accessionNumber": "20.24.76",
+  "accessionYear": "1920",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP880858.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP880858.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/dp/original/dp20.24.76.R.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DT647.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 71894,
+      "role": "Artist",
+      "name": "Ugo da Carpi",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500013568",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1967967",
+      "gender": ""
+    },
+    {
+      "constituentID": 162231,
+      "role": "Artist",
+      "name": "After Baldassarre Tommaso Peruzzi",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030776",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q177213",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Hercules chasing Avarice from the Temple of the Muses",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Ugo da Carpi",
+  "artistDisplayBio": "Italian, Carpi ca. 1480–1532 Bologna",
+  "artistSuffix": "",
+  "artistAlphaSort": "Carpi, Ugo da",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1480",
+  "artistEndDate": "1532",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1967967",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500013568",
+  "objectDate": "ca. 1520–27",
+  "objectBeginDate": 1515,
+  "objectEndDate": 1525,
+  "medium": "Chiaroscuro woodcut from two blocks in green",
+  "dimensions": "11 15/16 × 9 1/4 in. (30.3 × 23.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 30.3,
+        "Width": 23.5
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1920",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-07-31T04:50:45.81Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/337700",
+  "tags": [
+    {
+      "term": "Mythology",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055985",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9134"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Female Nudes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+    },
+    {
+      "term": "Hercules",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000042",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q122248"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q29384899",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,93 @@
+{
+  "objectID": 435864,
+  "isHighlight": false,
+  "accessionNumber": "30.15",
+  "accessionYear": "1930",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-29214-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-29214-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164211,
+      "role": "Artist",
+      "name": "Giacomo Ceruti",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016508",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q524248",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "A Woman with a Dog",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Giacomo Ceruti",
+  "artistDisplayBio": "Italian, Milan 1698–1767 Milan",
+  "artistSuffix": "",
+  "artistAlphaSort": "Ceruti, Giacomo",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1698",
+  "artistEndDate": "1767",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q524248",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500016508",
+  "objectDate": "1740s",
+  "objectBeginDate": 1740,
+  "objectEndDate": 1749,
+  "medium": "Oil on canvas",
+  "dimensions": "38 x 28 1/2 in. (96.5 x 72.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 96.5,
+        "Width": 72.4
+      }
+    }
+  ],
+  "creditLine": "Maria DeWitt Jesup Fund, 1930",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435864",
+  "tags": [
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905690",
+  "isTimelineWork": false,
+  "GalleryNumber": "630"
+}

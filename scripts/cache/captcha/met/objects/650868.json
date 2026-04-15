@@ -1,0 +1,89 @@
+{
+  "objectID": 650868,
+  "isHighlight": false,
+  "accessionNumber": "2014.489",
+  "accessionYear": "2014",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 176946,
+      "role": "Artist",
+      "name": "Lucas Blalock",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500473292",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q43127573",
+      "gender": ""
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "Both Chairs in CW's Living Room",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Lucas Blalock",
+  "artistDisplayBio": "American, born 1978",
+  "artistSuffix": "",
+  "artistAlphaSort": "Blalock, Lucas",
+  "artistNationality": "American",
+  "artistBeginDate": "1978",
+  "artistEndDate": "9999",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q43127573",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500473292",
+  "objectDate": "2012",
+  "objectBeginDate": 2012,
+  "objectEndDate": 2012,
+  "medium": "Chromogenic print",
+  "dimensions": "Frame: 53 9/16 × 42 5/8 × 2 in. (136 × 108.3 × 5.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.08001,
+        "Height": 136.04903,
+        "Width": 108.267715
+      }
+    }
+  ],
+  "creditLine": "Purchase, Vital Projects Fund Inc. Gift, through Joyce and Robert Menschel, 2014",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "© Lucas Blalock",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/650868",
+  "tags": [
+    {
+      "term": "Living Rooms",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300004435",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q475018"
+    },
+    {
+      "term": "Chairs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300037772",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q15026"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,104 @@
+{
+  "objectID": 397617,
+  "isHighlight": false,
+  "accessionNumber": "2012.136.257.2",
+  "accessionYear": "2012",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP833471.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP833471.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161736,
+      "role": "Artist",
+      "name": "Jacques Callot",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021688",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q460124",
+      "gender": ""
+    },
+    {
+      "constituentID": 91383,
+      "role": "Publisher",
+      "name": "Israël Henriet",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500082521",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3155663",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Naval battle with ruined ship and smoking battlements, from \"Italian landscapes\" (Diverse vedute designate in Fiorenza / Paysages italiens)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "Italian landscapes (Diverse vedute designate in Fiorenza / Paysages italiens)",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jacques Callot",
+  "artistDisplayBio": "French, Nancy 1592–1635 Nancy",
+  "artistSuffix": "",
+  "artistAlphaSort": "Callot, Jacques",
+  "artistNationality": "French",
+  "artistBeginDate": "1592",
+  "artistEndDate": "1635",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q460124",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500021688",
+  "objectDate": "ca. 1618–35",
+  "objectBeginDate": 1618,
+  "objectEndDate": 1635,
+  "medium": "Etching",
+  "dimensions": "sheet: 4 7/16 x 9 5/8 in. (11.3 x 24.5 cm)\r\nmount: 4 15/16 x 10 3/16 in. (12.5 x 25.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Mount",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 12.5,
+        "Width": 25.85
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 11.3,
+        "Width": 24.5
+      }
+    }
+  ],
+  "creditLine": "Bequest of Phyllis Massar, 2011",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/397617",
+  "tags": [
+    {
+      "term": "Boats",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+    },
+    {
+      "term": "Ships",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300082981",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q11446"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

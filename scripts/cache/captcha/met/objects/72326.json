@@ -1,0 +1,116 @@
+{
+  "objectID": 72326,
+  "isHighlight": false,
+  "accessionNumber": "2003.417",
+  "accessionYear": "2003",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP142632.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP142632.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/DP142615.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP142616.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP142617.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP142618.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP142619.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP142620.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP142621.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP142622.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP142623.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP142624.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP142625.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP142626.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP142627.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP142628.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP142629.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP142630.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP142631.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP142635.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP142633.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP142634.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 37502,
+      "role": "Artist",
+      "name": "Unidentified artist",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Handscroll",
+  "title": "Map of the Grand Canal from Beijing to the Yangzi River",
+  "culture": "China",
+  "period": "Qing dynasty (1644–1911)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Unidentified artist",
+  "artistDisplayBio": "Chinese, late 18th or early 19th century",
+  "artistSuffix": "",
+  "artistAlphaSort": "Unidentified artist",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "late 18th or early 19th century",
+  "objectBeginDate": 1767,
+  "objectEndDate": 1833,
+  "medium": "Handscroll; ink and color on silk",
+  "dimensions": "Image: 21 7/8 in. × 30 ft. 7 in. (55.6 × 932.2 cm)\r\nOverall: H. 32 1/4 in. (81.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 55.6,
+        "Width": 932.1819
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 81.91516
+      }
+    }
+  ],
+  "creditLine": "Purchase, Friends of Asian Art Gifts, 2003",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-19T04:50:33.487Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/72326",
+  "tags": [
+    {
+      "term": "Canals",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300006075",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12284"
+    },
+    {
+      "term": "Maps",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300028094",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4006"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q59297511",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

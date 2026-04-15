@@ -1,0 +1,157 @@
+{
+  "objectID": 40507,
+  "isHighlight": false,
+  "accessionNumber": "1988.135",
+  "accessionYear": "1988",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP213981_CRD.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP213981_CRD.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/DP-18595-002.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP-18595-003.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP-18595-004.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP-18595-005.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP-18595-006.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP-18595-007.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP-18595-008.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP-18595-009.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP-18595-010.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP-18595-011.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP-18595-001.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 11642,
+      "role": "Artist",
+      "name": "Zhao Mengfu",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500121418",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q197461",
+      "gender": ""
+    },
+    {
+      "constituentID": 11786,
+      "role": "Artist",
+      "name": "Zhao Yong",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500331828",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q773258",
+      "gender": ""
+    },
+    {
+      "constituentID": 11671,
+      "role": "Artist",
+      "name": "Zhao Lin",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Handscroll",
+  "title": "Grooms and horses",
+  "culture": "China",
+  "period": "Yuan dynasty (1271–1368)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Zhao Mengfu",
+  "artistDisplayBio": "Chinese, 1254–1322",
+  "artistSuffix": "",
+  "artistAlphaSort": "Zhao Mengfu",
+  "artistNationality": "Chinese",
+  "artistBeginDate": "1254",
+  "artistEndDate": "1322",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q197461",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500121418",
+  "objectDate": "dated 1296 and 1359",
+  "objectBeginDate": 1296,
+  "objectEndDate": 1359,
+  "medium": "Handscroll; ink and color on paper",
+  "dimensions": "Image: 11 7/8 x 70 1/8 in. (30.2 x 178.1 cm)\r\nOverall with mounting: 12 1/4 in. x 29 ft. 2 1/2 in. (31.1 x 890.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "blue storage box",
+      "elementMeasurements": {
+        "Depth": 8.8900175,
+        "Height": 9.207519,
+        "Width": 34.60757
+      }
+    },
+    {
+      "elementName": "Overall with mounting",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 31.1151,
+        "Width": 890.2718
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 30.1626,
+        "Width": 178.1179
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": "Zhao Mengfu",
+      "elementMeasurements": {
+        "Height": 30.1626,
+        "Width": 43.4976
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": "Zhao Lin",
+      "elementMeasurements": {
+        "Height": 30.1626,
+        "Width": 61.5951
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": "Zhao Yong",
+      "elementMeasurements": {
+        "Height": 30.1626,
+        "Width": 73.0251
+      }
+    }
+  ],
+  "creditLine": "Gift of John M. Crawford Jr., 1988",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-23T04:54:48.75Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/40507",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Horses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q58464107",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

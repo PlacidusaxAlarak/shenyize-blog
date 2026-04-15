@@ -1,0 +1,109 @@
+{
+  "objectID": 366206,
+  "isHighlight": false,
+  "accessionNumber": "25.31.2",
+  "accessionYear": "1925",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161998,
+      "role": "Artist",
+      "name": "Edward Hopper",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031212",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q203401",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Night Shadows",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Edward Hopper",
+  "artistDisplayBio": "American, Nyack, New York 1882–1967 New York",
+  "artistSuffix": "",
+  "artistAlphaSort": "Hopper, Edward",
+  "artistNationality": "American",
+  "artistBeginDate": "1882",
+  "artistEndDate": "1967",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q203401",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500031212",
+  "objectDate": "1921",
+  "objectBeginDate": 1921,
+  "objectEndDate": 1921,
+  "medium": "Etching",
+  "dimensions": "Plate: 6 7/8 x 8 3/16 in. (17.4 x 20.8 cm)\r\nSheet: 13 3/16 x 14 7/16 in. (33.5 x 36.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 33.5,
+        "Width": 36.6
+      }
+    },
+    {
+      "elementName": "Plate",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 17.4,
+        "Width": 20.8
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 40.64008,
+        "Width": 53.340107
+      }
+    }
+  ],
+  "creditLine": "Harris Brisbane Dick Fund, 1925",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-09-03T04:50:00.593Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/366206",
+  "tags": [
+    {
+      "term": "Streets",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008247",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q79007"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Night",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300133095",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q575"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

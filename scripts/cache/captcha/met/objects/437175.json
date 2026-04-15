@@ -1,0 +1,95 @@
+{
+  "objectID": 437175,
+  "isHighlight": true,
+  "accessionNumber": "43.13",
+  "accessionYear": "1943",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14936-010.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-14936-010.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-43_13-2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-43_13-3.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162152,
+      "role": "Artist",
+      "name": "Bartolomé Estebán Murillo",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007425",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q192062",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Virgin and Child",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Bartolomé Estebán Murillo",
+  "artistDisplayBio": "Spanish, Seville 1617–1682 Seville",
+  "artistSuffix": "",
+  "artistAlphaSort": "Murillo, Bartolomé Estebán",
+  "artistNationality": "Spanish",
+  "artistBeginDate": "1617",
+  "artistEndDate": "1682",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q192062",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500007425",
+  "objectDate": "1670s",
+  "objectBeginDate": 1670,
+  "objectEndDate": 1679,
+  "medium": "Oil on canvas",
+  "dimensions": "65 1/4 x 43 in. (165.7 x 109.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 165.7,
+        "Width": 109.2
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.08001,
+        "Height": 184.78537,
+        "Width": 129.15926
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1943",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-02-04T04:58:06.107Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437175",
+  "tags": [
+    {
+      "term": "Madonna and Child",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911474",
+  "isTimelineWork": false,
+  "GalleryNumber": "624"
+}

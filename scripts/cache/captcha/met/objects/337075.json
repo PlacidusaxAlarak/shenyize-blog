@@ -1,0 +1,102 @@
+{
+  "objectID": 337075,
+  "isHighlight": true,
+  "accessionNumber": "1997.153",
+  "accessionYear": "1997",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP862672.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP862672.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/dp/original/DP862699.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP862674.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162291,
+      "role": "Artist",
+      "name": "Raphael (Raffaello Sanzio or Santi)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023578",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5597",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "Lucretia",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Raphael (Raffaello Sanzio or Santi)",
+  "artistDisplayBio": "Italian, Urbino 1483–1520 Rome",
+  "artistSuffix": "",
+  "artistAlphaSort": "Raphael (Raffaello Sanzio or Santi)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1483",
+  "artistEndDate": "1520",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5597",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500023578",
+  "objectDate": "1508–10",
+  "objectBeginDate": 1508,
+  "objectEndDate": 1510,
+  "medium": "Pen and brown ink over black chalk, partially incised with a stylus (recto); rubbed with black chalk for transfer (verso)",
+  "dimensions": "15-5/8 x 11-1/2 in.  (39.7 x 29.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 60.96012,
+        "Width": 45.720093
+      }
+    },
+    {
+      "elementName": "Mat",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 55.88011,
+        "Width": 40.64008
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 39.7,
+        "Width": 29.2
+      }
+    }
+  ],
+  "creditLine": "Purchase, Lila Acheson Wallace Gift, 1997",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-03-28T04:49:34.793Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/337075",
+  "tags": [
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q29384768",
+  "isTimelineWork": true,
+  "GalleryNumber": "899"
+}

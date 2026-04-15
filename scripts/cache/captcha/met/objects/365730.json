@@ -1,0 +1,98 @@
+{
+  "objectID": 365730,
+  "isHighlight": false,
+  "accessionNumber": "2004.350.2",
+  "accessionYear": "2004",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP801288.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP801288.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 73094,
+      "role": "Artist",
+      "name": "Remigio Cantagallina",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500022555",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1089033",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "A View of a Village with Figures",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Remigio Cantagallina",
+  "artistDisplayBio": "Italian, Borgo Sansepolcro ca. 1582–1656 Florence",
+  "artistSuffix": "",
+  "artistAlphaSort": "Cantagallina, Remigio",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1582",
+  "artistEndDate": "1656",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1089033",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500022555",
+  "objectDate": "1624",
+  "objectBeginDate": 1624,
+  "objectEndDate": 1624,
+  "medium": "Pen and brown ink, over traces of black chalk or leadpoint; framing lines in pen and brown ink",
+  "dimensions": "sheet: 10 9/16 x 15 7/8 in. (26.8 x 40.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 26.8,
+        "Width": 40.4
+      }
+    }
+  ],
+  "creditLine": "Bequest of John and Alice Steiner, 2003",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/365730",
+  "tags": [
+    {
+      "term": "Human Figures",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+    },
+    {
+      "term": "Buildings",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+    },
+    {
+      "term": "Villages",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008372",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q532"
+    },
+    {
+      "term": "Trees",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

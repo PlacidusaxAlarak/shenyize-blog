@@ -1,0 +1,95 @@
+{
+  "objectID": 486564,
+  "isHighlight": false,
+  "accessionNumber": "1995.14.3a, b",
+  "accessionYear": "1995",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162033,
+      "role": "Artist",
+      "name": "Anselm Kiefer",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500047395",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q170344",
+      "gender": ""
+    }
+  ],
+  "department": "Modern and Contemporary Art",
+  "objectName": "Drawing",
+  "title": "Autumn Forest",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Anselm Kiefer",
+  "artistDisplayBio": "German, born Donaueschingen, 1945",
+  "artistSuffix": "",
+  "artistAlphaSort": "Kiefer, Anselm",
+  "artistNationality": "German",
+  "artistBeginDate": "1945",
+  "artistEndDate": "9999",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q170344",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500047395",
+  "objectDate": "1970",
+  "objectBeginDate": 1970,
+  "objectEndDate": 1970,
+  "medium": "Watercolor, opaque watercolor, and graphite on papers",
+  "dimensions": "a: 4 5/8 × 6 3/4 in. (11.7 × 17.1 cm)\r\nb: 9 1/4 × 12 3/4 in. (23.5 × 32.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "b",
+      "elementMeasurements": {
+        "Height": 23.495047,
+        "Width": 32.385063
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.08001,
+        "Face Width": 1.8,
+        "Height": 83.82017,
+        "Width": 63.500126
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "a",
+      "elementMeasurements": {
+        "Height": 11.7,
+        "Width": 17.1
+      }
+    }
+  ],
+  "creditLine": "Purchase, Lila Acheson Wallace Gift, 1995",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "© Anselm Kiefer",
+  "linkResource": "",
+  "metadataDate": "2024-10-30T04:55:38.483Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/486564",
+  "tags": null,
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20200597",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

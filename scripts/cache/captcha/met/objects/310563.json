@@ -1,0 +1,91 @@
+{
+  "objectID": 310563,
+  "isHighlight": true,
+  "accessionNumber": "1978.412.111",
+  "accessionYear": "1978",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DT1271.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/DT1271.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ao/original/ao1978.412.111.AV1.jpg",
+    "https://images.metmuseum.org/CRDImages/ao/original/ao1978.412.111.AV2.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 224093,
+      "role": "Artist",
+      "name": "Nasca artist(s)",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "The Michael C. Rockefeller Wing",
+  "objectName": "Drum",
+  "title": "Drum",
+  "culture": "Nasca",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Nasca artist(s)",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "Nasca artist(s)",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "100–400 CE",
+  "objectBeginDate": -100,
+  "objectEndDate": 400,
+  "medium": "Ceramic, slip",
+  "dimensions": "H.17 3/4 x Diam. 10 in. (45.1 x 25.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Diameter": 25.4001,
+        "Height": 45.085
+      }
+    }
+  ],
+  "creditLine": "The Michael C. Rockefeller Memorial Collection, Gift of Mr. and Mrs. Raymond Wielgus, 1964",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "Peru",
+  "region": "South Coast",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Ceramics-Musical Instruments",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/310563",
+  "tags": [
+    {
+      "term": "Human Figures",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+    },
+    {
+      "term": "Snakes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250870",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2102"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q29384253",
+  "isTimelineWork": true,
+  "GalleryNumber": "362"
+}

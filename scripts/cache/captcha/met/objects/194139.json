@@ -1,0 +1,116 @@
+{
+  "objectID": 194139,
+  "isHighlight": false,
+  "accessionNumber": "17.190.1548",
+  "accessionYear": "1917",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP338714.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP338714.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP338717.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP338716.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP337219.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP338711.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP338712.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP338713.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP338715.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP340910.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP340911.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 37007,
+      "role": "Maker",
+      "name": "Watchmaker: W.A.",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Watch",
+  "title": "Watch",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Maker",
+  "artistPrefix": "Watchmaker:",
+  "artistDisplayName": "W.A.",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "W.A.",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "1571",
+  "objectBeginDate": 1571,
+  "objectEndDate": 1571,
+  "medium": "Case and dial: gilded brass; Movement: gilded brass and polished steel",
+  "dimensions": "Overall: 1 7/8 × 1 1/4 × 7/8 in. (4.8 × 3.2 × 2.2 cm); Height of back plate: 1 5/8 in. (4.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 2.2225044,
+        "Height": 4.7625093,
+        "Width": 3.1750064
+      }
+    },
+    {
+      "elementName": "Height",
+      "elementDescription": "back plate",
+      "elementMeasurements": {
+        "Height": 4.127508
+      }
+    }
+  ],
+  "creditLine": "Gift of J. Pierpont Morgan, 1917",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Horology",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-11-21T10:05:27.96Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/194139",
+  "tags": [
+    {
+      "term": "Animals",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300249525",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q729"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Trees",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

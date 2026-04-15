@@ -1,0 +1,86 @@
+{
+  "objectID": 309385,
+  "isHighlight": false,
+  "accessionNumber": "66.30.2",
+  "accessionYear": "1966",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DP102151.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/DP102151.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ao/original/DP102150.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 224865,
+      "role": "Artist",
+      "name": "Recuay artist(s)",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "The Michael C. Rockefeller Wing",
+  "objectName": "Bottle",
+  "title": "Double-chambered bottle with mouse",
+  "culture": "Recuay",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Recuay artist(s)",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "Recuay artist(s)",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "200–700 CE",
+  "objectBeginDate": 200,
+  "objectEndDate": 700,
+  "medium": "Ceramic, slip",
+  "dimensions": "H. 6 × W. 5 × D. 5 in. (15.2 × 12.7 × 12.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 12.700026,
+        "Height": 15.24003,
+        "Width": 12.700026
+      }
+    }
+  ],
+  "creditLine": "Gift of Nathan Cummings, 1966",
+  "geographyType": "",
+  "city": "",
+  "state": "Ancash",
+  "county": "",
+  "country": "Peru",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Ceramics-Containers",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-05-31T04:50:53.377Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/309385",
+  "tags": [
+    {
+      "term": "Mice",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250249",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q39275"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": true,
+  "GalleryNumber": "362"
+}

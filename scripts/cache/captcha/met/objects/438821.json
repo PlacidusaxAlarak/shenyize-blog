@@ -1,0 +1,112 @@
+{
+  "objectID": 438821,
+  "isHighlight": true,
+  "accessionNumber": "51.112.2",
+  "accessionYear": "1951",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1025.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1025.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161924,
+      "role": "Artist",
+      "name": "Paul Gauguin",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011421",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q37693",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Ia Orana Maria (Hail Mary)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Paul Gauguin",
+  "artistDisplayBio": "French, Paris 1848–1903 Atuona, Hiva Oa, Marquesas Islands",
+  "artistSuffix": "",
+  "artistAlphaSort": "Gauguin, Paul",
+  "artistNationality": "French",
+  "artistBeginDate": "1848",
+  "artistEndDate": "1903",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q37693",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011421",
+  "objectDate": "1891",
+  "objectBeginDate": 1891,
+  "objectEndDate": 1891,
+  "medium": "Oil on canvas",
+  "dimensions": "44 3/4 x 34 1/2 in. (113.7 x 87.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 113.6652,
+        "Width": 87.6302
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 8.89,
+        "Height": 135.2553,
+        "Width": 109.8552
+      }
+    }
+  ],
+  "creditLine": "Bequest of Sam A. Lewisohn, 1951",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-03-10T04:57:21.92Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/438821",
+  "tags": [
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    },
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Virgin Mary",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+    },
+    {
+      "term": "Jesus",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q1118465",
+  "isTimelineWork": true,
+  "GalleryNumber": "825"
+}

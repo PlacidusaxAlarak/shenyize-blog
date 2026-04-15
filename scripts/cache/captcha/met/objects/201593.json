@@ -1,0 +1,121 @@
+{
+  "objectID": 201593,
+  "isHighlight": false,
+  "accessionNumber": "53.201",
+  "accessionYear": "1953",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP249585.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP249585.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP158400.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP158401.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP249586.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 33857,
+      "role": "Artist",
+      "name": "Giuliano Finelli",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011676",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1469300",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Bust",
+  "title": "Cardinal Scipione Borghese (1577–1633)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Giuliano Finelli",
+  "artistDisplayBio": "Italian, Carrara 1601–1653 Rome",
+  "artistSuffix": "",
+  "artistAlphaSort": "Finelli, Giuliano",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1601",
+  "artistEndDate": "1653",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1469300",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011676",
+  "objectDate": "1631–32",
+  "objectBeginDate": 1631,
+  "objectEndDate": 1632,
+  "medium": "Marble",
+  "dimensions": "Overall (confirmed): H. 32 1/4 x W. 30 7/8 x D. 16 in., Wt. 333lb. (81.9 x 78.4 x 40.6 cm, 151.0478kg);\r\nOverall height including socle (confirmed): 38 1/2 in. (97.8 cm);\r\nPedestal: H. 48 1/4 x Circum. 11 3/4 x W. 17 x D. 17 in. (122.6 x 29.8 x 43.2 x 43.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Pedestal",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Circumference": 29.8451,
+        "Depth": 43.1801,
+        "Height": 122.5552,
+        "Width": 43.1801
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "confirmed",
+      "elementMeasurements": {
+        "Depth": 40.64008,
+        "Height": 81.91516,
+        "Weight": 151.0478,
+        "Width": 78.42265
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "confirmed",
+      "elementMeasurements": {
+        "Height": 97.7902
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "historic dimensions, superceded",
+      "elementMeasurements": {
+        "Depth": 43.1801,
+        "Height": 97.7902,
+        "Weight": 151.0478,
+        "Width": 80.0102
+      }
+    }
+  ],
+  "creditLine": "Purchase, Louisa Eldridge McBurney Gift, 1953",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Sculpture",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-11-14T04:52:10.177Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/201593",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116374056",
+  "isTimelineWork": true,
+  "GalleryNumber": "618"
+}

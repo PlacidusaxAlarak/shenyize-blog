@@ -1,0 +1,100 @@
+{
+  "objectID": 13877,
+  "isHighlight": false,
+  "accessionNumber": "1988.134",
+  "accessionYear": "1988",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP332444.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/DP332444.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ad/original/DP342277.jpg",
+    "https://images.metmuseum.org/CRDImages/ad/original/TP651.jpg",
+    "https://images.metmuseum.org/CRDImages/ad/original/DT1826.jpg",
+    "https://images.metmuseum.org/CRDImages/ad/original/DP332808.jpg",
+    "https://images.metmuseum.org/CRDImages/ad/original/DP332809.jpg",
+    "https://images.metmuseum.org/CRDImages/ad/original/DP332806.jpg",
+    "https://images.metmuseum.org/CRDImages/ad/original/DP332804.jpg",
+    "https://images.metmuseum.org/CRDImages/ad/original/DP332807.jpg",
+    "https://images.metmuseum.org/CRDImages/ad/original/244325.jpg",
+    "https://images.metmuseum.org/CRDImages/ad/original/RT643.jpg",
+    "https://images.metmuseum.org/CRDImages/ad/original/ADA2969.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 7246,
+      "role": "Maker",
+      "name": "Members of the Brown and Turner families",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "The American Wing",
+  "objectName": "Quilt",
+  "title": "Quilt, Album pattern",
+  "culture": "American",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Maker",
+  "artistPrefix": "Members of the",
+  "artistDisplayName": "Brown and Turner families",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "Brown and Turner families",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "begun 1846",
+  "objectBeginDate": 1846,
+  "objectEndDate": 1846,
+  "medium": "Cotton",
+  "dimensions": "83 3/8 x 85 in. (211.8 x 215.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 211.8,
+        "Width": 215.9004
+      }
+    }
+  ],
+  "creditLine": "Bequest of Margaret Brown Potvin, 1987",
+  "geographyType": "Made in",
+  "city": "Baltimore",
+  "state": "Maryland",
+  "county": "",
+  "country": "United States",
+  "region": "Mid-Atlantic",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/13877",
+  "tags": [
+    {
+      "term": "Eagles",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250049",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2092297"
+    },
+    {
+      "term": "Flowers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

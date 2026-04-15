@@ -1,0 +1,103 @@
+{
+  "objectID": 452662,
+  "isHighlight": false,
+  "accessionNumber": "1974.290.37",
+  "accessionYear": "1974",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP108584.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP108584.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/is/original/sf1974-290-37a.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 130357,
+      "role": "Author",
+      "name": "Abu&#39;l Qasim Firdausi",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q43459",
+      "gender": ""
+    }
+  ],
+  "department": "Islamic Art",
+  "objectName": "Folio from an illustrated manuscript",
+  "title": "\"The Execution of Mazdak\", Folio from a Shahnama (Book of Kings)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Author",
+  "artistPrefix": "",
+  "artistDisplayName": "Abu'l Qasim Firdausi",
+  "artistDisplayBio": "Iranian, Paj ca. 940/41–1020 Tus",
+  "artistSuffix": "",
+  "artistAlphaSort": "Abu'l Qasim Firdausi",
+  "artistNationality": "Iranian",
+  "artistBeginDate": "0935",
+  "artistEndDate": "1020",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q43459",
+  "artistULAN_URL": "",
+  "objectDate": "ca. 1330–40",
+  "objectBeginDate": 1305,
+  "objectEndDate": 1365,
+  "medium": "Ink, opaque watercolor, gold, and silver on paper",
+  "dimensions": "Page:\r\n        H. 8 1/16 in. (20.5 cm)\r\n        W. 5 1/4 in. (13.3 cm)\r\nPainting: \r\n        H. 1 5/8 in. (4.1 cm) \r\n        W. 4 5/16 in. (10.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "Page",
+      "elementMeasurements": {
+        "Height": 20.5,
+        "Width": 13.3
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Painting",
+      "elementMeasurements": {
+        "Height": 4.1,
+        "Width": 10.9
+      }
+    }
+  ],
+  "creditLine": "Bequest of Monroe C. Gutman, 1974",
+  "geographyType": "Attributed to",
+  "city": "probably Isfahan",
+  "state": "",
+  "county": "",
+  "country": "Iran",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Codices",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/452662",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Execution",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300069680",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3966286"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

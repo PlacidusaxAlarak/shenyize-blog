@@ -1,0 +1,102 @@
+{
+  "objectID": 437873,
+  "isHighlight": false,
+  "accessionNumber": "14.40.639",
+  "accessionYear": "1914",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP239023.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP239023.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/vreceiptfront1211.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/vreceiptback1211.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-14_40_639-2.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162615,
+      "role": "Artist",
+      "name": "Velázquez (Diego Rodríguez de Silva y Velázquez)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016881",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q297",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Philip IV (1605–1665), King of Spain",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Velázquez (Diego Rodríguez de Silva y Velázquez)",
+  "artistDisplayBio": "Spanish, Seville 1599–1660 Madrid",
+  "artistSuffix": "",
+  "artistAlphaSort": "Velázquez (Diego Rodríguez de Silva y Velázquez)",
+  "artistNationality": "Spanish",
+  "artistBeginDate": "1599",
+  "artistEndDate": "1660",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q297",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500016881",
+  "objectDate": "probably 1624",
+  "objectBeginDate": 1624,
+  "objectEndDate": 1624,
+  "medium": "Oil on canvas",
+  "dimensions": "78 3/4 x 40 1/2 in. (200 x 102.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 200,
+        "Width": 102.9
+      }
+    }
+  ],
+  "creditLine": "Bequest of Benjamin Altman, 1913",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-27T04:50:31.807Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437873",
+  "tags": [
+    {
+      "term": "Kings",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025481",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12097"
+    },
+    {
+      "term": "Philip IV",
+      "AAT_URL": "http://vocab.getty.edu/page/ulan/500282775",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q691402"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911409",
+  "isTimelineWork": true,
+  "GalleryNumber": "625"
+}

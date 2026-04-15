@@ -1,0 +1,135 @@
+{
+  "objectID": 670889,
+  "isHighlight": false,
+  "accessionNumber": "2015.300.210a, b",
+  "accessionYear": "2015",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP-12232-265.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP-12232-265.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/TR_10_9ab_2015_SR1_10.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP-12232-267.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP-12232-269.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP-12232-266.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP-12232-268.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/2015_300_210ab_D1_Burke.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 13137,
+      "role": "Artist",
+      "name": "Kōno Bairei",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500123308",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3201302",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Hanging scrolls",
+  "title": "Luring the Sun Goddess Amaterasu Out of a Cave with Music; Death of the Historical Buddha",
+  "culture": "Japan",
+  "period": "Meiji period (1868–1912)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Kōno Bairei",
+  "artistDisplayBio": "Japanese, 1844–1895",
+  "artistSuffix": "",
+  "artistAlphaSort": "Kōno Bairei",
+  "artistNationality": "Japanese",
+  "artistBeginDate": "1844",
+  "artistEndDate": "1895",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3201302",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500123308",
+  "objectDate": "late 19th century",
+  "objectBeginDate": 1868,
+  "objectEndDate": 1899,
+  "medium": "Pair of hanging scrolls; ink, color, and gold on silk",
+  "dimensions": "Image (a): 27 15/16 × 10 5/8 in. (71 × 27 cm)\r\nOverall with mounting (a): 61 × 13 3/16 in. (155 × 33.5 cm)\r\nOverall with knobs (a): 61 × 15 1/8 in. (155 × 38.4 cm)\r\nImage (b): 27 7/8 × 10 11/16 in. (70.8 × 27.2 cm)\r\nOverall with mounting (b): 60 7/8 × 13 1/8 in. (154.7 × 33.4 cm)\r\nOverall with knobs (b): 60 7/8 × 15 1/8 in. (154.7 × 38.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": "a",
+      "elementMeasurements": {
+        "Height": 71,
+        "Width": 27
+      }
+    },
+    {
+      "elementName": "Overall with knobs",
+      "elementDescription": "b",
+      "elementMeasurements": {
+        "Height": 154.7,
+        "Width": 38.4
+      }
+    },
+    {
+      "elementName": "Overall with mounting",
+      "elementDescription": "b",
+      "elementMeasurements": {
+        "Height": 154.7,
+        "Width": 33.4
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": "b",
+      "elementMeasurements": {
+        "Height": 70.8,
+        "Width": 27.2
+      }
+    },
+    {
+      "elementName": "Overall with knobs",
+      "elementDescription": "a",
+      "elementMeasurements": {
+        "Height": 155,
+        "Width": 38.4
+      }
+    },
+    {
+      "elementName": "Overall with mounting",
+      "elementDescription": "a",
+      "elementMeasurements": {
+        "Height": 155,
+        "Width": 33.5
+      }
+    }
+  ],
+  "creditLine": "Mary Griggs Burke Collection, Gift of the Mary and Jackson Burke Foundation, 2015",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-24T04:54:53.227Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/670889",
+  "tags": [
+    {
+      "term": "Caves",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008746",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35509"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78622623",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

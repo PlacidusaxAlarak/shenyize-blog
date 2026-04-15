@@ -1,0 +1,110 @@
+{
+  "objectID": 437925,
+  "isHighlight": false,
+  "accessionNumber": "49.7.54",
+  "accessionYear": "1949",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP120381.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP120381.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-49_7_54-2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-49_7_54-3.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162693,
+      "role": "Artist",
+      "name": "Antoine Watteau",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032644",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q183221",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The French Comedians",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Antoine Watteau",
+  "artistDisplayBio": "French, Valenciennes 1684–1721 Nogent-sur-Marne",
+  "artistSuffix": "",
+  "artistAlphaSort": "Watteau, Antoine",
+  "artistNationality": "French",
+  "artistBeginDate": "1684",
+  "artistEndDate": "1721",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q183221",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500032644",
+  "objectDate": "ca. 1720",
+  "objectBeginDate": 1715,
+  "objectEndDate": 1725,
+  "medium": "Oil on canvas",
+  "dimensions": "22 1/2 x 28 3/4 in. (57.2 x 73 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 57.2,
+        "Width": 73
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 8.255,
+        "Height": 89.5352,
+        "Width": 105.0927
+      }
+    }
+  ],
+  "creditLine": "The Jules Bache Collection, 1949",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-10-24T04:51:05.727Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437925",
+  "tags": [
+    {
+      "term": "Theatre",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300417582",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q11635"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Actors",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025658",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q33999"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911603",
+  "isTimelineWork": true,
+  "GalleryNumber": "629"
+}

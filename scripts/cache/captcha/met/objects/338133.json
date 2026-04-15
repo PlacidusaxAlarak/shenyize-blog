@@ -1,0 +1,98 @@
+{
+  "objectID": 338133,
+  "isHighlight": false,
+  "accessionNumber": "1999.311",
+  "accessionYear": "1999",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP801095.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP801095.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/dp/original/DP801035.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 69770,
+      "role": "Artist",
+      "name": "Pieter Aertsen",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027884",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q326548",
+      "gender": ""
+    },
+    {
+      "constituentID": 161982,
+      "role": "Former Attribution",
+      "name": "Maarten van Heemskerck",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500124291",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q538350",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "Raguel's Reception of Tobias at Ecbatana",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Pieter Aertsen",
+  "artistDisplayBio": "Netherlandish, Amsterdam 1507/8–1575 Amsterdam",
+  "artistSuffix": "",
+  "artistAlphaSort": "Aertsen, Pieter",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1507",
+  "artistEndDate": "1575",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q326548",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500027884",
+  "objectDate": "1520–75",
+  "objectBeginDate": 1520,
+  "objectEndDate": 1575,
+  "medium": "Pen and brown ink, with gray wash",
+  "dimensions": "7 1/8 x 13 3/8 in. (18.1 x 33.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 18.1,
+        "Width": 33.9
+      }
+    }
+  ],
+  "creditLine": "Purchase, Carl Selden Trust, 1999",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/338133",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

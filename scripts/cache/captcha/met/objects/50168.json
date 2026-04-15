@@ -1,0 +1,114 @@
+{
+  "objectID": 50168,
+  "isHighlight": false,
+  "accessionNumber": "2000.664",
+  "accessionYear": "2000",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP-21612-002.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP-21612-002.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/DP-21612-001.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/2000.664_inscription.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/2000.664_lower left seal.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/2000.664_lower right seal.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 12378,
+      "role": "Artist",
+      "name": "Shi Zhong",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Hanging scroll",
+  "title": "Winter landscape with fisherman",
+  "culture": "China",
+  "period": "Ming dynasty (1368–1644)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Shi Zhong",
+  "artistDisplayBio": "Chinese, 1438–after 1506",
+  "artistSuffix": "",
+  "artistAlphaSort": "Shi Zhong",
+  "artistNationality": "Chinese",
+  "artistBeginDate": "1438",
+  "artistEndDate": "1506",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "late 15th–early 16th century",
+  "objectBeginDate": 1478,
+  "objectEndDate": 1517,
+  "medium": "Hanging scroll; ink on paper",
+  "dimensions": "Image: 56 x 12 5/8 in. (142.2 x 32.1 cm)\r\nOverall with mounting: 83 1/2 x 19 1/8 in. (212.1 x 48.6 cm)\r\nOverall with knobs: 83 1/2 x 22 1/2 in. (212.1 x 57.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall with knobs",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 212.0904,
+        "Width": 57.1501
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 142.2403,
+        "Width": 32.0676
+      }
+    },
+    {
+      "elementName": "Overall with mounting",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 212.0904,
+        "Width": 48.5776
+      }
+    }
+  ],
+  "creditLine": "Ex coll.: C. C. Wang Family, Gift of  C. C. Wang, in honor of Wen C. Fong, 2000",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/50168",
+  "tags": [
+    {
+      "term": "Fishing",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300239470",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q14373"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    },
+    {
+      "term": "Boats",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78821420",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

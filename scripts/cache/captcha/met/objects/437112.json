@@ -1,0 +1,105 @@
+{
+  "objectID": 437112,
+  "isHighlight": false,
+  "accessionNumber": "29.100.107",
+  "accessionYear": "1929",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162135,
+      "role": "Artist",
+      "name": "Claude Monet",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019484",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q296",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Bouquet of Sunflowers",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Claude Monet",
+  "artistDisplayBio": "French, Paris 1840–1926 Giverny",
+  "artistSuffix": "",
+  "artistAlphaSort": "Monet, Claude",
+  "artistNationality": "French",
+  "artistBeginDate": "1840",
+  "artistEndDate": "1926",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q296",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500019484",
+  "objectDate": "1881",
+  "objectBeginDate": 1881,
+  "objectEndDate": 1881,
+  "medium": "Oil on canvas",
+  "dimensions": "39 3/4 x 32 in. (101 x 81.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 101,
+        "Width": 81.3
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 12.065,
+        "Height": 128.2703,
+        "Width": 108.2677
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Plexi",
+      "elementMeasurements": {
+        "Height": 103.5052,
+        "Width": 82.232666
+      }
+    }
+  ],
+  "creditLine": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-03-06T04:55:44.903Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437112",
+  "tags": [
+    {
+      "term": "Sunflowers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300404749",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q171497"
+    },
+    {
+      "term": "Still Life",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905274",
+  "isTimelineWork": false,
+  "GalleryNumber": "819"
+}

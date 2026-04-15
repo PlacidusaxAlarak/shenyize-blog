@@ -1,0 +1,93 @@
+{
+  "objectID": 226426,
+  "isHighlight": false,
+  "accessionNumber": "39.13.7",
+  "accessionYear": "1939",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP152958.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP152958.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161995,
+      "role": "Artist",
+      "name": "After an engraving of by Wenceslaus Hollar",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028368",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q448555",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Portrait",
+  "title": "Charles I",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "After an engraving of by",
+  "artistDisplayName": "Wenceslaus Hollar",
+  "artistDisplayBio": "Bohemian, Prague 1607–1677 London",
+  "artistSuffix": "",
+  "artistAlphaSort": "Hollar, Wenceslaus",
+  "artistNationality": "Bohemian",
+  "artistBeginDate": "1607",
+  "artistEndDate": "1677",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q448555",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500028368",
+  "objectDate": "1650–70",
+  "objectBeginDate": 1650,
+  "objectEndDate": 1670,
+  "medium": "Silk and metal thread on silk",
+  "dimensions": "H. 6 x W. 4 1/2 inches (15.2 x 11.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 15.9,
+        "Width": 11.43
+      }
+    }
+  ],
+  "creditLine": "Purchase, Mrs. Thomas J. Watson Gift, 1939",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Textiles-Embroidered",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-31T04:54:36.6Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/226426",
+  "tags": [
+    {
+      "term": "Kings",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025481",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12097"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

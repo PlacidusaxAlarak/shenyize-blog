@@ -1,0 +1,104 @@
+{
+  "objectID": 729644,
+  "isHighlight": true,
+  "accessionNumber": "46.46.311",
+  "accessionYear": "1946",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP865112.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP865112.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 86215,
+      "role": "Artist",
+      "name": "José Guadalupe Posada",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032573",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q732526",
+      "gender": ""
+    },
+    {
+      "constituentID": 191590,
+      "role": "Artist",
+      "name": "Manuel Manilla",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500347966",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1556749",
+      "gender": ""
+    },
+    {
+      "constituentID": 178806,
+      "role": "Publisher",
+      "name": "Antonio Vanegas Arroyo",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q605568",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "In proof of true love, a watercarrier skeleton arguing with a woman (Posada); two skeleton angels in upper corners (Manilla)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "José Guadalupe Posada",
+  "artistDisplayBio": "Mexican, Aguascalientes 1852–1913 Mexico City",
+  "artistSuffix": "",
+  "artistAlphaSort": "Posada, José Guadalupe",
+  "artistNationality": "Mexican",
+  "artistBeginDate": "1852",
+  "artistEndDate": "1913",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q732526",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500032573",
+  "objectDate": "ca. 1890–96",
+  "objectBeginDate": 1885,
+  "objectEndDate": 1895,
+  "medium": "Type-metal engraving and letterpress",
+  "dimensions": "Sheet: 15 3/4 × 11 13/16 in. (40 × 30 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 40,
+        "Width": 30
+      }
+    }
+  ],
+  "creditLine": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1946",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-01-07T04:49:48.69Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/729644",
+  "tags": [
+    {
+      "term": "Skeletons",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300191778",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7881"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

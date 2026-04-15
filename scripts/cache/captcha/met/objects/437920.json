@@ -1,0 +1,95 @@
+{
+  "objectID": 437920,
+  "isHighlight": false,
+  "accessionNumber": "71.5",
+  "accessionYear": "1871",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145940.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145940.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/Vosmaer diagram2.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 108438,
+      "role": "Artist",
+      "name": "Jacob Vosmaer",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010811",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1478130",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "A Vase with Flowers",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jacob Vosmaer",
+  "artistDisplayBio": "Dutch, Delft ca. 1584–1641 Delft",
+  "artistSuffix": "",
+  "artistAlphaSort": "Vosmaer, Jacob",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1584",
+  "artistEndDate": "1641",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1478130",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010811",
+  "objectDate": "probably 1613",
+  "objectBeginDate": 1613,
+  "objectEndDate": 1613,
+  "medium": "Oil on wood",
+  "dimensions": "33 1/2 x 24 5/8 in. (85.1 x 62.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 85.1,
+        "Width": 62.5
+      }
+    }
+  ],
+  "creditLine": "Purchase, 1871",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437920",
+  "tags": [
+    {
+      "term": "Flowers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+    },
+    {
+      "term": "Still Life",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+    },
+    {
+      "term": "Vases",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132254",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191851"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912017",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

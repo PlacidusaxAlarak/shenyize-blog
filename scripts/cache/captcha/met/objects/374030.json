@@ -1,0 +1,101 @@
+{
+  "objectID": 374030,
+  "isHighlight": false,
+  "accessionNumber": "51.501.6341",
+  "accessionYear": "1951",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP825422.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP825422.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 80179,
+      "role": "Artist",
+      "name": "Jan Muller",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015311",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2725591",
+      "gender": ""
+    },
+    {
+      "constituentID": 86693,
+      "role": "Publisher",
+      "name": "Harmen Jansz. Muller",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500044024",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3161674",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Belshazzar's Feast",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jan Muller",
+  "artistDisplayBio": "Netherlandish, Amsterdam 1571–1628 Amsterdam",
+  "artistSuffix": "",
+  "artistAlphaSort": "Muller, Jan",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1571",
+  "artistEndDate": "1628",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2725591",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500015311",
+  "objectDate": "ca. 1598",
+  "objectBeginDate": 1593,
+  "objectEndDate": 1603,
+  "medium": "Engraving; New Holl.'s second state of three",
+  "dimensions": "Sheet: 13 7/8 × 15 9/16 in. (35.3 × 39.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 35.3,
+        "Width": 39.5
+      }
+    }
+  ],
+  "creditLine": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1951",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/374030",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Dining",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379052",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q661199"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

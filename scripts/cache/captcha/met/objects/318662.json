@@ -1,0 +1,94 @@
+{
+  "objectID": 318662,
+  "isHighlight": false,
+  "accessionNumber": "1999.484.2",
+  "accessionYear": "1999",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DT4514.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/DT4514.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ao/original/DT4515.jpg",
+    "https://images.metmuseum.org/CRDImages/ao/original/DT4516.jpg",
+    "https://images.metmuseum.org/CRDImages/ao/original/DT4517.jpg",
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-14503-001.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 232429,
+      "role": "Artist",
+      "name": "Chamá artist(s)",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "The Michael C. Rockefeller Wing",
+  "objectName": "Vessel",
+  "title": "Vessel with throne scene",
+  "culture": "Maya",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Chamá artist(s)",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "Chamá artist(s)",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "600–900 CE",
+  "objectBeginDate": 600,
+  "objectEndDate": 900,
+  "medium": "Ceramic, slip",
+  "dimensions": "H. 7 1/2 × W. 5 1/2 × D. 5 1/2 in. (19.1 × 14 × 14 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 13.970028,
+        "Height": 19.050037,
+        "Width": 13.970028
+      }
+    }
+  ],
+  "creditLine": "Gift of Charles and Valerie Diker, 1999",
+  "geographyType": "",
+  "city": "Alta Verapaz",
+  "state": "",
+  "county": "",
+  "country": "Guatemala",
+  "region": "Mesoamerica",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Ceramics-Containers",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/318662",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Thrones",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300038141",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q189233"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": true,
+  "GalleryNumber": "360"
+}

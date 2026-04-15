@@ -1,0 +1,148 @@
+{
+  "objectID": 816191,
+  "isHighlight": false,
+  "accessionNumber": "2018.853.4a–c",
+  "accessionYear": "2018",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP-18093-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP-18093-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/DP-18093-005.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP-18093-003.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP-18093-007.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP-18093-004.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP-18093-002.jpg",
+    "https://images.metmuseum.org/CRDImages/as/original/DP-18093-006.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 37502,
+      "role": "Artist",
+      "name": "Unidentified artist",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Hanging scrolls",
+  "title": "White-Robed Kannon, Kanzan, and Jittoku",
+  "culture": "Japan",
+  "period": "Nanbokuchō (1336–1392)–Muromachi period (1392–1573)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Unidentified artist",
+  "artistDisplayBio": "",
+  "artistSuffix": ", 14th century",
+  "artistAlphaSort": "Unidentified artist",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "Kanzan and Jittoku: probably 14th century; Kannon: probably 15th century",
+  "objectBeginDate": 1300,
+  "objectEndDate": 1573,
+  "medium": "Set of three hanging scrolls; ink on silk",
+  "dimensions": "Image (a): 33 3/8 × 15 1/16 in. (84.8 × 38.3 cm)\r\nOverall with mounting (a): 69 1/2 × 20 13/16 in. (176.5 × 52.9 cm)\r\nOverall with knobs (a): 69 1/2 × 22 13/16 in. (176.5 × 57.9 cm)\r\nImage (b): 33 5/16 × 14 1/16 in. (84.6 × 35.7 cm)\r\nOverall with mounting (b): 69 1/2 × 19 7/8 in. (176.5 × 50.5 cm)\r\nOverall with knobs (b): 69 1/2 × 21 7/8 in. (176.5 × 55.6 cm)\r\nImage (c): 33 5/16 × 14 3/16 in. (84.6 × 36 cm)\r\nOverall with mounting (c): 69 1/2 × 17 1/2 in. (176.5 × 44.5 cm)\r\nOverall with knobs (c): 69 1/2 × 21 7/8 in. (176.5 × 55.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall with knobs",
+      "elementDescription": "c",
+      "elementMeasurements": {
+        "Height": 176.53035,
+        "Width": 55.56261
+      }
+    },
+    {
+      "elementName": "Overall with mounting",
+      "elementDescription": "c",
+      "elementMeasurements": {
+        "Height": 176.53035,
+        "Width": 44.45009
+      }
+    },
+    {
+      "elementName": "Overall with knobs",
+      "elementDescription": "b",
+      "elementMeasurements": {
+        "Height": 176.53035,
+        "Width": 55.56261
+      }
+    },
+    {
+      "elementName": "Overall with mounting",
+      "elementDescription": "b",
+      "elementMeasurements": {
+        "Height": 176.53035,
+        "Width": 50.4826
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": "b",
+      "elementMeasurements": {
+        "Height": 84.61392,
+        "Width": 35.718822
+      }
+    },
+    {
+      "elementName": "Overall with knobs",
+      "elementDescription": "a",
+      "elementMeasurements": {
+        "Height": 176.53035,
+        "Width": 57.943867
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": "c",
+      "elementMeasurements": {
+        "Height": 84.61392,
+        "Width": 36.036324
+      }
+    },
+    {
+      "elementName": "Overall with mounting",
+      "elementDescription": "a",
+      "elementMeasurements": {
+        "Height": 176.53035,
+        "Width": 52.863857
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": "a",
+      "elementMeasurements": {
+        "Height": 84.77267,
+        "Width": 38.258827
+      }
+    }
+  ],
+  "creditLine": "Mary and Cheney Cowles Collection, Gift of Mary and Cheney Cowles, 2018",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-10-17T04:51:23.97Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/816191",
+  "tags": null,
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78610277",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

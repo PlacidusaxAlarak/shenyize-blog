@@ -1,0 +1,106 @@
+{
+  "objectID": 53458,
+  "isHighlight": false,
+  "accessionNumber": "2015.300.176",
+  "accessionYear": "2015",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP-12232-210.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP-12232-210.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/DP-12232-209.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 12517,
+      "role": "Artist",
+      "name": "Urakami (Uragami) Gyokudō",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500121073",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q737819",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Hanging scroll",
+  "title": "Lingering Rain over Half the Village",
+  "culture": "Japan",
+  "period": "Edo period (1615–1868)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Urakami (Uragami) Gyokudō",
+  "artistDisplayBio": "Japanese, 1745–1820",
+  "artistSuffix": "",
+  "artistAlphaSort": "Urakami (Uragami) Gyokudō",
+  "artistNationality": "Japanese",
+  "artistBeginDate": "1745",
+  "artistEndDate": "1820",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q737819",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500121073",
+  "objectDate": "ca. 1815–20",
+  "objectBeginDate": 1700,
+  "objectEndDate": 1899,
+  "medium": "Folding fan mounted as a hanging scroll; ink on paper",
+  "dimensions": "Image: 8 9/16 × 18 7/8 in. (21.7 × 48 cm)\r\nOverall with mounting: 41 3/4 × 23 1/2 in. (106 × 59.7 cm)\r\nOverall with knobs: 41 3/4 × 25 11/16 in. (106 × 65.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 21.7,
+        "Width": 48
+      }
+    },
+    {
+      "elementName": "Overall with knobs",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 106,
+        "Width": 65.2
+      }
+    },
+    {
+      "elementName": "Overall with mounting",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 106,
+        "Width": 59.7
+      }
+    }
+  ],
+  "creditLine": "Mary Griggs Burke Collection, Gift of the Mary and Jackson Burke Foundation, 2015",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/53458",
+  "tags": [
+    {
+      "term": "Mountains",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78758560",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

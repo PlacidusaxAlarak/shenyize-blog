@@ -1,0 +1,97 @@
+09:10:37 [types] Generated 1ms
+09:10:37 [content] Syncing content
+09:10:37 [content] Astro config changed
+09:10:37 [content] Clearing content store
+09:10:39 [content] Synced content
+正在生成题解索引...
+✅ 题解索引已更新 (Priority: 9): G:\shenyize-blog\src\content\posts\solutions.md
+09:10:39 [glob-loader] Reloaded data from solutions.md
+09:10:39 [vite] Forced re-optimization of dependencies
+
+ astro  v5.13.10 ready in 20501 ms
+
+┃ Local    http://127.0.0.1:4321/
+
+09:10:39 watching for file changes...
+09:11:23 [200] / 3437ms
+09:11:23 [200] / 2495ms
+09:11:27 [vite] [32m✨ new dependencies optimized: [33m@swup/astro/serialise, @swup/astro/idle, @swup/astro/client/Swup, @swup/astro/client/SwupA11yPlugin, @swup/astro/client/SwupPreloadPlugin, @swup/astro/client/SwupScrollPlugin, @swup/astro/client/SwupHeadPlugin, @swup/astro/client/SwupScriptsPlugin[32m[39m
+09:11:27 [vite] [32m✨ optimized dependencies changed. reloading[39m
+09:11:27 [200] /_image/ 1695ms
+09:11:27 [200] / 158ms
+09:11:29 [200] / 160ms
+09:11:39 [200] / 39ms
+09:11:40 [200] / 57ms
+09:11:41 [200] / 36ms
+09:11:41 [200] / 66ms
+09:11:42 [200] / 57ms
+09:11:43 [200] / 40ms
+09:11:44 [200] / 69ms
+09:11:44 [200] / 60ms
+09:11:45 [200] / 62ms
+09:11:45 [200] / 48ms
+09:11:46 [200] / 55ms
+09:11:47 [200] / 49ms
+09:16:20 [watch] src/scripts/article-captcha/logic.mjs
+09:16:20 [watch] src/scripts/article-captcha/logic.mjs
+09:16:21 [200] / 191ms
+09:16:22 [200] / 13ms
+09:16:39 [watch] src/scripts/article-captcha/logic.d.ts
+09:16:39 [watch] src/scripts/article-captcha/logic.d.ts
+09:16:40 [200] / 148ms
+09:16:41 [200] / 13ms
+09:17:00 [watch] /src/components/article-captcha/ArticleCaptchaGate.astro?astro&type=style&index=0&lang.css
+09:17:00 [watch] /src/components/article-captcha/ArticleCaptchaGate.astro?astro&type=style&index=0&lang.css
+09:17:37 [watch] src/scripts/article-captcha/index.ts
+09:17:37 [watch] src/scripts/article-captcha/index.ts
+09:17:38 [200] / 488ms
+09:17:40 [200] / 24ms
+09:18:37 [watch] src/content/posts/solutions.md
+09:18:37 [watch] src/content/posts/solutions.md
+09:18:37 [glob-loader] Reloaded data from solutions.md
+09:18:38 [watch] src/content/posts/solutions.md
+09:18:38 [watch] src/content/posts/solutions.md
+09:18:38 [glob-loader] Reloaded data from solutions.md
+09:18:39 [200] / 490ms
+09:18:42 [200] / 32ms
+09:18:45 [watch] src/content/posts/solutions.md
+09:18:45 [watch] src/content/posts/solutions.md
+09:18:45 [glob-loader] Reloaded data from solutions.md
+09:18:46 [200] / 505ms
+09:18:50 [200] / 25ms
+09:19:57 [200] / 59ms
+09:19:59 [200] / 42ms
+09:20:15 [200] / 49ms
+09:20:16 [200] / 61ms
+09:20:17 [200] / 38ms
+09:20:18 [200] / 46ms
+09:20:18 [200] / 34ms
+09:20:19 [200] / 33ms
+09:20:19 [200] / 38ms
+09:20:20 [200] / 39ms
+09:20:21 [200] / 26ms
+09:20:22 [200] / 46ms
+09:20:22 [200] / 41ms
+09:20:23 [200] / 45ms
+09:26:12 [watch] src/components/article-captcha/ArticleCaptchaGate.astro
+09:26:13 [200] / 521ms
+09:26:15 [200] / 34ms
+09:27:06 [watch] src/scripts/article-captcha/index.ts
+09:27:06 [watch] src/scripts/article-captcha/index.ts
+09:27:07 [200] / 355ms
+09:27:09 [200] / 23ms
+09:27:44 [watch] /src/components/article-captcha/ArticleCaptchaGate.astro?astro&type=style&index=0&lang.css
+09:27:44 [watch] /src/components/article-captcha/ArticleCaptchaGate.astro?astro&type=style&index=0&lang.css
+09:28:26 [watch] src/content/posts/solutions.md
+09:28:26 [watch] src/content/posts/solutions.md
+09:28:26 [glob-loader] Reloaded data from solutions.md
+09:28:27 [watch] src/content/posts/solutions.md
+09:28:27 [watch] src/content/posts/solutions.md
+09:28:27 [glob-loader] Reloaded data from solutions.md
+09:28:27 [200] / 607ms
+09:28:30 [200] / 31ms
+09:28:35 [watch] src/content/posts/solutions.md
+09:28:35 [watch] src/content/posts/solutions.md
+09:28:35 [glob-loader] Reloaded data from solutions.md
+09:28:36 [200] / 359ms
+09:28:39 [200] / 23ms

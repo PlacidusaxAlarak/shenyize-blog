@@ -1,0 +1,102 @@
+{
+  "objectID": 436143,
+  "isHighlight": false,
+  "accessionNumber": "29.100.554",
+  "accessionYear": "1929",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT241540.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT241540.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161821,
+      "role": "Artist",
+      "name": "Edgar Degas",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115194",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q46373",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Drawing",
+  "title": "Fan Mount: The Ballet",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Edgar Degas",
+  "artistDisplayBio": "French, Paris 1834–1917 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Degas, Edgar",
+  "artistNationality": "French",
+  "artistBeginDate": "1834",
+  "artistEndDate": "1917",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q46373",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115194",
+  "objectDate": "1879",
+  "objectBeginDate": 1879,
+  "objectEndDate": 1879,
+  "medium": "Watercolor and metallic paint on silk",
+  "dimensions": "6 1/8 x 21 1/4 in. (15.6 x 54 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 15.6,
+        "Width": 54
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 4.127508,
+        "Height": 36.195072,
+        "Width": 64.13513
+      }
+    }
+  ],
+  "creditLine": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-24T04:54:53.227Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436143",
+  "tags": [
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Dancing",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300389779",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43393537"
+    },
+    {
+      "term": "Ballet",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300054145",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q41425"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911965",
+  "isTimelineWork": false,
+  "GalleryNumber": "690"
+}

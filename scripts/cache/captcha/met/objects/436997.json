@@ -1,0 +1,110 @@
+{
+  "objectID": 436997,
+  "isHighlight": false,
+  "accessionNumber": "43.161",
+  "accessionYear": "1943",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP164823.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP164823.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/GermanCat46b_Xray.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 108001,
+      "role": "Artist",
+      "name": "Master of the Berswordt Altar",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500013887",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3842963",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting, part of the wing of an altarpiece",
+  "title": "The Crucifixion",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Master of the Berswordt Altar",
+  "artistDisplayBio": "German, Westphalian, active ca. 1400–35",
+  "artistSuffix": "",
+  "artistAlphaSort": "Master of the Berswordt Altar",
+  "artistNationality": "German",
+  "artistBeginDate": "1400",
+  "artistEndDate": "1435",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3842963",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500013887",
+  "objectDate": "ca. 1400",
+  "objectBeginDate": 1395,
+  "objectEndDate": 1405,
+  "medium": "Oil, egg(?), and gold on plywood, transferred from wood",
+  "dimensions": "23 1/2 x 17 in. (59.7 x 43.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 59.7,
+        "Width": 43.2
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1943",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436997",
+  "tags": [
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Mary Magdalene",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000161",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q63070"
+    },
+    {
+      "term": "Saint John the Evangelist",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001171",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q328804"
+    },
+    {
+      "term": "Virgin Mary",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+    },
+    {
+      "term": "Crucifixion",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911673",
+  "isTimelineWork": true,
+  "GalleryNumber": "603"
+}

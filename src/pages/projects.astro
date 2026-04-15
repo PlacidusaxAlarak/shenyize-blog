@@ -3,16 +3,7 @@ import MainGridLayout from "../layouts/MainGridLayout.astro";
 import { url } from "../utils/url-utils";
 
 const title = "项目";
-const description = "我做过的一些项目与实验，包含工程实践、交互原型与个人工具。";
-const projects = [
-	{
-		title: "滑动拼图验证码仿真",
-		summary:
-			"一个部署在站内的 Canvas 验证码 demo，包含真实缺口、迷惑缺口、随机旋转、失败回弹与随时可用的刷新逻辑。",
-		href: url("/slider-captcha/"),
-		tags: ["Canvas", "Vanilla JS", "Astro 静态部署"],
-	},
-];
+const description = "这里收录站点里的公开内容与持续整理中的实验记录。";
 ---
 
 <MainGridLayout title={title} description={description}>
@@ -21,33 +12,15 @@ const projects = [
 			<h1 class="text-3xl md:text-[2.25rem]/[2.75rem] font-bold text-90 mb-3">{title}</h1>
 			<p class="text-75 text-sm md:text-base mb-6">{description}</p>
 
-			<div class="grid gap-4">
-				{projects.map((project) => (
-					<article class="card-base p-5 flex flex-col gap-4">
-						<div class="flex flex-col gap-2">
-							<div class="flex flex-wrap items-center justify-between gap-3">
-								<h2 class="text-xl font-bold text-90">{project.title}</h2>
-								<a class="link-underline text-sm" href={project.href}>打开演示</a>
-							</div>
-							<p class="text-75 text-sm">{project.summary}</p>
-						</div>
-
-						<div class="flex flex-wrap gap-2 text-xs text-50">
-							{project.tags.map((tag) => (
-								<span class="px-2 py-1 rounded-md bg-black/5 dark:bg-white/10">{tag}</span>
-							))}
-						</div>
-					</article>
-				))}
-			</div>
-
-			<div class="border-[var(--line-divider)] border-dashed border-t-[1px] my-6"></div>
-
-			<div class="text-75 text-sm">
-				除了这个交互 demo，你也可以继续浏览
-				<a class="link-underline" href={url("/solutions/")}>题解</a>
-				与其他内容。
-			</div>
+			<article class="card-base p-5 flex flex-col gap-3">
+				<h2 class="text-xl font-bold text-90">当前公开内容</h2>
+				<p class="text-75 text-sm">
+					独立验证码演示页已移除，站点当前只保留文章访问流程中的圆形旋转验证码。
+				</p>
+				<p class="text-75 text-sm">
+					你可以继续浏览<a class="link-underline" href={url("/solutions/")}>题解</a>与其他文章内容。
+				</p>
+			</article>
 		</div>
 	</div>
 </MainGridLayout>

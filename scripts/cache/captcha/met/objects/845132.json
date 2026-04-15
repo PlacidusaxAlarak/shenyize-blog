@@ -1,0 +1,109 @@
+{
+  "objectID": 845132,
+  "isHighlight": false,
+  "accessionNumber": "2020.396.11",
+  "accessionYear": "2020",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP-25911-002.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP-25911-002.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/DP-25911-001.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 214130,
+      "role": "Artist",
+      "name": "Inscription by Seisetsu Shūcho",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 215074,
+      "role": "Artist",
+      "name": "Painting by Gekijō",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Hanging scroll",
+  "title": "Moon amid Clouds",
+  "culture": "Japan",
+  "period": "Edo period (1615–1868)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Inscription by",
+  "artistDisplayName": "Seisetsu Shūcho",
+  "artistDisplayBio": "Japanese, 1745–1820",
+  "artistSuffix": "",
+  "artistAlphaSort": "Seisetsu Shūcho",
+  "artistNationality": "Japanese",
+  "artistBeginDate": "1745",
+  "artistEndDate": "1820",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "early 19th century",
+  "objectBeginDate": 1800,
+  "objectEndDate": 1833,
+  "medium": "Hanging scroll; ink on paper",
+  "dimensions": "Image: 42 1/8 × 16 5/16 in. (107 × 41.4 cm)\r\nOverall with mounting: 72 7/8 × 22 1/8 in. (185.1 × 56.2 cm)\r\nOverall with knobs: 72 7/8 × 24 1/8 in. (185.1 × 61.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall with mounting",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 185.10287,
+        "Width": 56.197613
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 107,
+        "Width": 41.4
+      }
+    },
+    {
+      "elementName": "Overall with knobs",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 185.10287,
+        "Width": 61.277622
+      }
+    }
+  ],
+  "creditLine": "Mary and Cheney Cowles Collection, Gift of Mary and Cheney Cowles, 2020",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-08-30T04:50:45.897Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/845132",
+  "tags": [
+    {
+      "term": "Moon",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300386951",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q405"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q126119282",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

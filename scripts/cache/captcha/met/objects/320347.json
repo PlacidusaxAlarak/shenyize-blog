@@ -1,0 +1,83 @@
+{
+  "objectID": 320347,
+  "isHighlight": false,
+  "accessionNumber": "00.5.111",
+  "accessionYear": "1900",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DP-39201-004.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-39201-004.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-39201-003.jpg",
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-39201-002.jpg",
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-39201-001.jpg",
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-39201-005.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 230002,
+      "role": "Artist",
+      "name": "Teotihuacan artist(s)",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "The Michael C. Rockefeller Wing",
+  "objectName": "Head",
+  "title": "Feathered serpent head",
+  "culture": "Teotihuacan",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Teotihuacan artist(s)",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "Teotihuacan artist(s)",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "100-500 CE",
+  "objectBeginDate": 100,
+  "objectEndDate": 500,
+  "medium": "Stone, pigment",
+  "dimensions": "W. 20 1/2 × D. 23 5/8 × L. 16 15/16 in. (52 × 60 × 43 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 60,
+        "Length": 43,
+        "Width": 52
+      }
+    }
+  ],
+  "creditLine": "Museum Purchase, 1900",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "Mexico",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Stone-Sculpture",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/320347",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": "360"
+}

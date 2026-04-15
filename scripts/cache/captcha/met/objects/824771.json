@@ -1,0 +1,129 @@
+{
+  "objectID": 824771,
+  "isHighlight": true,
+  "accessionNumber": "2019.138.4",
+  "accessionYear": "2019",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP-18368-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP-18368-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-18368-003.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-18368-004.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-18368-005.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-18368-006.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-18368-007.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-18368-008.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-18368-009.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-18368-010.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-18368-011.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-18368-012.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-18368-013.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-18368-014.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-18368-015.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-18368-016.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-18368-017.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-18368-018.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-18368-019.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-18368-020.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-18368-021.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-18368-022.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-18368-023.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-18368-024.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162647,
+      "role": "Artist",
+      "name": "Elisabeth Louise Vigée Le Brun",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010070",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q213163",
+      "gender": "Female"
+    },
+    {
+      "constituentID": 166362,
+      "role": "Sitter",
+      "name": "Marie Antoinette, Queen of France",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500122363",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q47365",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "Marie Antoinette in a Park",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Elisabeth Louise Vigée Le Brun",
+  "artistDisplayBio": "French, Paris 1755–1842 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Vigée Le Brun, Elisabeth Louise",
+  "artistNationality": "French",
+  "artistBeginDate": "1755",
+  "artistEndDate": "1842",
+  "artistGender": "Female",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q213163",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010070",
+  "objectDate": "ca. 1780–81",
+  "objectBeginDate": 1775,
+  "objectEndDate": 1786,
+  "medium": "Black chalk, stumped, and white chalk; framing lines in black chalk",
+  "dimensions": "Sheet: 23 3/16 × 15 7/8 in. (58.9 × 40.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 58.9,
+        "Width": 40.4
+      }
+    }
+  ],
+  "creditLine": "Bequest of Mrs. Charles Wrightsman, 2019",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-07-04T04:50:30.83Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/824771",
+  "tags": [
+    {
+      "term": "Marie Antoinette",
+      "AAT_URL": "http://vocab.getty.edu/page/ulan/500122363",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q47365"
+    },
+    {
+      "term": "Queens",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025483",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q16511993"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q96195214",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

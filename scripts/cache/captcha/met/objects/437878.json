@@ -1,0 +1,105 @@
+{
+  "objectID": 437878,
+  "isHighlight": false,
+  "accessionNumber": "14.40.611",
+  "accessionYear": "1914",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP355525.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP355525.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/SF X-radiograph.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 108413,
+      "role": "Artist",
+      "name": "Johannes Vermeer",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032927",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q41264",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "A Maid Asleep",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Johannes Vermeer",
+  "artistDisplayBio": "Dutch, Delft 1632–1675 Delft",
+  "artistSuffix": "",
+  "artistAlphaSort": "Vermeer, Johannes",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1632",
+  "artistEndDate": "1675",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q41264",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500032927",
+  "objectDate": "ca. 1656–57",
+  "objectBeginDate": 1656,
+  "objectEndDate": 1657,
+  "medium": "Oil on canvas",
+  "dimensions": "34 1/2 x 30 1/8 in. (87.6 x 76.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 87.6,
+        "Width": 76.5
+      }
+    }
+  ],
+  "creditLine": "Bequest of Benjamin Altman, 1913",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-04-11T04:53:28.333Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437878",
+  "tags": [
+    {
+      "term": "Interiors",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+    },
+    {
+      "term": "Fruit",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+    },
+    {
+      "term": "Sleeping",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300375130",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35831"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Servants",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025874",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q54128"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q684935",
+  "isTimelineWork": true,
+  "GalleryNumber": "614"
+}

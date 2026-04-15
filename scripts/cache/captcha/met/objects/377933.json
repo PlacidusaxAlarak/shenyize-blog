@@ -1,0 +1,93 @@
+{
+  "objectID": 377933,
+  "isHighlight": false,
+  "accessionNumber": "2007.279a–q",
+  "accessionYear": "2007",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162355,
+      "role": "Artist",
+      "name": "Edward Ruscha",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024159",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q430967",
+      "gender": ""
+    },
+    {
+      "constituentID": 92747,
+      "role": "Printer",
+      "name": "Printed by Ed Hamilton",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 162355,
+      "role": "Publisher",
+      "name": "Published by Edward Ruscha",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024159",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q430967",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Portfolio",
+  "title": "That is Right",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Edward Ruscha",
+  "artistDisplayBio": "American, born Omaha, Nebraska, 1937",
+  "artistSuffix": "",
+  "artistAlphaSort": "Ruscha, Edward",
+  "artistNationality": "American",
+  "artistBeginDate": "1937",
+  "artistEndDate": "9999",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q430967",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500024159",
+  "objectDate": "1989",
+  "objectBeginDate": 1989,
+  "objectEndDate": 1989,
+  "medium": "16 lithographs; 11 B.A.T. proofs and one A.P. from the portfolio of 12 and 4 prints with notations",
+  "dimensions": "9 x 11 inches each ( 22.9 x 27.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Other",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 12.7,
+        "Width": 25.4001
+      }
+    }
+  ],
+  "creditLine": "John B. Turner Fund, 2007",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Portfolios",
+  "rightsAndReproduction": "© Edward Ruscha",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/377933",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

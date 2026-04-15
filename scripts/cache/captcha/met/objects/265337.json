@@ -1,0 +1,93 @@
+{
+  "objectID": 265337,
+  "isHighlight": false,
+  "accessionNumber": "1987.1100.285",
+  "accessionYear": "1987",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164947,
+      "role": "Artist",
+      "name": "Ben Shahn",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005524",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q695239",
+      "gender": ""
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "[Street Scene, Natchez, Mississippi: Two Women Walking along Sidewalk before Storefront]",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Ben Shahn",
+  "artistDisplayBio": "American (born Lithuania), Kaunas 1898–1969 New York",
+  "artistSuffix": "",
+  "artistAlphaSort": "Shahn, Ben",
+  "artistNationality": "American, born Lithuania",
+  "artistBeginDate": "1898",
+  "artistEndDate": "1969",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q695239",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500005524",
+  "objectDate": "1935",
+  "objectBeginDate": 1935,
+  "objectEndDate": 1935,
+  "medium": "Gelatin silver print",
+  "dimensions": "26.6 x 34.1 cm (10 1/2 x 13 7/16 in.)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 26.6,
+        "Width": 34.1
+      }
+    }
+  ],
+  "creditLine": "Ford Motor Company Collection, Gift of Ford Motor Company and John C. Waddell, 1987",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/265337",
+  "tags": [
+    {
+      "term": "Towns",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008375",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3957"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Street Scene",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300386103",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7766995"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

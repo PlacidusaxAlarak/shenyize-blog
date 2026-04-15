@@ -1,0 +1,93 @@
+{
+  "objectID": 310681,
+  "isHighlight": false,
+  "accessionNumber": "1978.412.237a, b",
+  "accessionYear": "1978",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DP-25034-007.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-25034-007.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-25034-006.jpg",
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-25034-005.jpg",
+    "https://images.metmuseum.org/CRDImages/ao/original/DP-25034-004.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 224863,
+      "role": "Artist",
+      "name": "Wari artist(s)",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "The Michael C. Rockefeller Wing",
+  "objectName": "Lime container",
+  "title": "Lime container",
+  "culture": "Wari",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Wari artist(s)",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "Wari artist(s)",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "650–1000 CE",
+  "objectBeginDate": 650,
+  "objectEndDate": 1000,
+  "medium": "Wood, pigment",
+  "dimensions": "H. 4 1/4 × W. 2 1/8 × D. 1 3/4 in. (10.8 × 5.4 × 4.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 4.4450088,
+        "Height": 10.795022,
+        "Width": 5.397511
+      }
+    }
+  ],
+  "creditLine": "The Michael C. Rockefeller Memorial Collection, Purchase, Nelson A. Rockefeller Gift, 1969",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "Peru",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Wood-Containers",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-05-31T04:50:53.377Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/310681",
+  "tags": [
+    {
+      "term": "Weapons",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300036926",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q728"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": "362"
+}

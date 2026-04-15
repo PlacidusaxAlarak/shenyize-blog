@@ -1,0 +1,105 @@
+{
+  "objectID": 436040,
+  "isHighlight": false,
+  "accessionNumber": "29.100.24",
+  "accessionYear": "1929",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP280790.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP280790.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/DP280791.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/GermanCat8_IRR_detail of headnocap.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 161794,
+      "role": "Artist",
+      "name": "Lucas Cranach the Elder",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115364",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q191748",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Portrait of a Man with a Rosary",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Lucas Cranach the Elder",
+  "artistDisplayBio": "German, Kronach 1472–1553 Weimar",
+  "artistSuffix": "",
+  "artistAlphaSort": "Cranach, Lucas, the Elder",
+  "artistNationality": "German",
+  "artistBeginDate": "1472",
+  "artistEndDate": "1553",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q191748",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115364",
+  "objectDate": "ca. 1508",
+  "objectBeginDate": 1503,
+  "objectEndDate": 1513,
+  "medium": "Oil on oak",
+  "dimensions": "18 3/4 x 13 7/8 in. (47.6 x 35.2cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 47.6,
+        "Width": 35.2
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 5.715,
+        "Height": 59.6901,
+        "Width": 47.3076
+      }
+    }
+  ],
+  "creditLine": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436040",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Rosaries",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300262831",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q132539"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911507",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

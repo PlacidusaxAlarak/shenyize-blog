@@ -1,0 +1,117 @@
+{
+  "objectID": 488089,
+  "isHighlight": false,
+  "accessionNumber": "43.159.1",
+  "accessionYear": "1943",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161677,
+      "role": "Artist",
+      "name": "Thomas Hart Benton",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005998",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q471764",
+      "gender": ""
+    }
+  ],
+  "department": "Modern and Contemporary Art",
+  "objectName": "Painting",
+  "title": "July Hay",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Thomas Hart Benton",
+  "artistDisplayBio": "American, Neosho, Missouri 1889–1975 Kansas City, Missouri",
+  "artistSuffix": "",
+  "artistAlphaSort": "Benton, Thomas Hart",
+  "artistNationality": "American",
+  "artistBeginDate": "1889",
+  "artistEndDate": "1975",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q471764",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500005998",
+  "objectDate": "1943",
+  "objectBeginDate": 1943,
+  "objectEndDate": 1943,
+  "medium": "Egg tempera, methyl cellulose, and oil on Masonite",
+  "dimensions": "38 × 27 in. (96.5 × 68.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 2.540005,
+        "Height": 96.5,
+        "Width": 68.58014
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": "F.43.159.1 Alt. frame",
+      "elementMeasurements": {
+        "Depth": 6.35,
+        "Height": 115.5702,
+        "Width": 86.3602
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": "F.1.43.159.1 Silver and dark brown wood frame-AR plexi",
+      "elementMeasurements": {
+        "Depth": 6.350013,
+        "Height": 113.98273,
+        "Width": 85.09017
+      }
+    }
+  ],
+  "creditLine": "George A. Hearn Fund, 1943",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-03-31T09:41:00.23Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/488089",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Trees",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+    },
+    {
+      "term": "Working",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300412186",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q6958747"
+    },
+    {
+      "term": "Harvesting",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300417516",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q213753"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19918560",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

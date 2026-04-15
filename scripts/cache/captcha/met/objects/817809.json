@@ -1,0 +1,85 @@
+{
+  "objectID": 817809,
+  "isHighlight": false,
+  "accessionNumber": "2018.911.2",
+  "accessionYear": "2018",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 98117,
+      "role": "Artist",
+      "name": "Frederick Landseer Griggs",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025866",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5423942",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "St. Mary’s, Nottingham",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Frederick Landseer Griggs",
+  "artistDisplayBio": "British, Hitchin, Hertfordshire 1876–1938 Chipping Campden",
+  "artistSuffix": "",
+  "artistAlphaSort": "Griggs, Frederick Landseer",
+  "artistNationality": "British",
+  "artistBeginDate": "1876",
+  "artistEndDate": "1938",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5423942",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500025866",
+  "objectDate": "1928",
+  "objectBeginDate": 1928,
+  "objectEndDate": 1928,
+  "medium": "Etching; fourth state of four",
+  "dimensions": "Plate: 7 1/2 × 10 3/8 in. (19 × 26.3 cm)\r\nSheet: 12 5/16 × 15 3/16 in. (31.3 × 38.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 31.3,
+        "Width": 38.5
+      }
+    },
+    {
+      "elementName": "Plate",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 19,
+        "Width": 26.3
+      }
+    }
+  ],
+  "creditLine": "Gift of Robert Pearlstein, 2018",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-03-25T04:56:54.88Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/817809",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

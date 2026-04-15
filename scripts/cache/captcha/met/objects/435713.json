@@ -1,0 +1,102 @@
+{
+  "objectID": 435713,
+  "isHighlight": false,
+  "accessionNumber": "1972.261",
+  "accessionYear": "1972",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP120565.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP120565.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-1972_261-2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-1972_261-3.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 107418,
+      "role": "Artist",
+      "name": "Paulus Bor",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027875",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2625028",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Disillusioned Medea",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Paulus Bor",
+  "artistDisplayBio": "Dutch, Amersfoort ca. 1601–1669 Amersfoort",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bor, Paulus",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1601",
+  "artistEndDate": "1669",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2625028",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500027875",
+  "objectDate": "ca. 1640",
+  "objectBeginDate": 1635,
+  "objectEndDate": 1645,
+  "medium": "Oil on canvas",
+  "dimensions": "61 1/4 x 44 1/4 in. (155.6 x 112.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Other",
+      "elementDescription": "Picture + Frame (F.1972.261)",
+      "elementMeasurements": {
+        "Weight": 27.215822
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 155.6,
+        "Width": 112.4
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 8.89,
+        "Height": 175.5779,
+        "Width": 130.1753
+      }
+    }
+  ],
+  "creditLine": "Gift of Ben Heller, 1972",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-27T04:50:31.807Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435713",
+  "tags": [
+    {
+      "term": "Female Nudes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905184",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

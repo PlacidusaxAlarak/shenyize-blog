@@ -1,0 +1,95 @@
+{
+  "objectID": 447798,
+  "isHighlight": false,
+  "accessionNumber": "25.68.5",
+  "accessionYear": "1925",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP319098.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP319098.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/is/original/sf25-68-5r.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/59615.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/246377.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 130222,
+      "role": "Artist",
+      "name": "Painting by Riza-yi &#39;Abbasi",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q380726",
+      "gender": ""
+    },
+    {
+      "constituentID": 135083,
+      "role": "Calligrapher",
+      "name": "Nur al-Din Muhammad Lahiji",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Islamic Art",
+  "objectName": "Illustrated single work",
+  "title": "The Old man and the Youth",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Painting by",
+  "artistDisplayName": "Riza-yi 'Abbasi",
+  "artistDisplayBio": "Iranian, ca. 1565–d. 1635",
+  "artistSuffix": "",
+  "artistAlphaSort": "Riza-yi `Abbasi",
+  "artistNationality": "Iranian",
+  "artistBeginDate": "1540",
+  "artistEndDate": "1660",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q380726",
+  "artistULAN_URL": "(not assigned)",
+  "objectDate": "second quarter 17th century",
+  "objectBeginDate": 1625,
+  "objectEndDate": 1650,
+  "medium": "Ink, transparent and opaque watercolor, and gold on paper",
+  "dimensions": "H. 5 in. (12.7 cm)\r\nW. 2 1/8 in. (5.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 12.7,
+        "Width": 5.4
+      }
+    }
+  ],
+  "creditLine": "Fletcher Fund, 1925",
+  "geographyType": "Attributed to",
+  "city": "Isfahan",
+  "state": "",
+  "county": "",
+  "country": "Iran",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Codices",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/447798",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

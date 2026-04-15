@@ -1,0 +1,88 @@
+{
+  "objectID": 341703,
+  "isHighlight": false,
+  "accessionNumber": "2000.328a, b",
+  "accessionYear": "2000",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162059,
+      "role": "Artist",
+      "name": "Leonardo da Vinci",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010879",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q762",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "Studies for Hercules Holding a Club Seen in Frontal View, Male Nude Unsheathing a Sword, and the Movements of Water (recto); Study for Hercules Holding a Club Seen in Rear View (verso)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Leonardo da Vinci",
+  "artistDisplayBio": "Italian, Vinci 1452–1519 Amboise",
+  "artistSuffix": "",
+  "artistAlphaSort": "Vinci, Leonardo da",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1452",
+  "artistEndDate": "1519",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q762",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010879",
+  "objectDate": "ca. 1506–8",
+  "objectBeginDate": 1501,
+  "objectEndDate": 1513,
+  "medium": "Pen and brown ink; soft black chalk or charcoal (recto); soft black chalk or charcoal (verso)",
+  "dimensions": "5-3/8 x 5-1/2 in.  (13.7 x 14 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 13.7,
+        "Width": 14
+      }
+    }
+  ],
+  "creditLine": "Purchase, Florence B. Selden Bequest and Rogers Fund, and Promised Gift of Leon D. and Debra R. Black, 2000",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-10-07T04:53:32.167Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/341703",
+  "tags": [
+    {
+      "term": "Male Nudes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+    },
+    {
+      "term": "Hercules",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000042",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q122248"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

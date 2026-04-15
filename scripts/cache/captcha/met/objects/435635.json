@@ -1,0 +1,92 @@
+{
+  "objectID": 435635,
+  "isHighlight": false,
+  "accessionNumber": "12.194",
+  "accessionYear": "1912",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP280850.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP280850.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/GermanCat3_IRRnocap.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-12_194-2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-12_194-3.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 161666,
+      "role": "Artist",
+      "name": "Barthel Beham",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010818",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q499934",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Chancellor Leonhard von Eck (1480–1550)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Barthel Beham",
+  "artistDisplayBio": "German, Nuremberg ca. 1502–1540 Italy",
+  "artistSuffix": "",
+  "artistAlphaSort": "Beham, Barthel",
+  "artistNationality": "German",
+  "artistBeginDate": "1502",
+  "artistEndDate": "1540",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q499934",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010818",
+  "objectDate": "1527",
+  "objectBeginDate": 1527,
+  "objectEndDate": 1527,
+  "medium": "Oil on spruce",
+  "dimensions": "22 1/8 x 14 7/8 in. (56.2 x 37.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 56.2,
+        "Width": 37.8
+      }
+    }
+  ],
+  "creditLine": "John Stewart Kennedy Fund, 1912",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-27T04:50:31.807Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435635",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911424",
+  "isTimelineWork": true,
+  "GalleryNumber": "612"
+}

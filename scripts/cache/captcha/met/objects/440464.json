@@ -1,0 +1,113 @@
+{
+  "objectID": 440464,
+  "isHighlight": false,
+  "accessionNumber": "2009.145",
+  "accessionYear": "2009",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP214443.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP214443.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-2009_145-2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-2009_145-3.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162491,
+      "role": "Artist",
+      "name": "Pierre Hubert Subleyras",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000017",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q464898",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Pope Benedict XIV (Prospero Lambertini, 1675–1758)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Pierre Hubert Subleyras",
+  "artistDisplayBio": "French, Saint-Gilles-du-Gard 1699–1749 Rome",
+  "artistSuffix": "",
+  "artistAlphaSort": "Subleyras, Pierre Hubert",
+  "artistNationality": "French",
+  "artistBeginDate": "1699",
+  "artistEndDate": "1749",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q464898",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500000017",
+  "objectDate": "1746",
+  "objectBeginDate": 1746,
+  "objectEndDate": 1746,
+  "medium": "Oil on canvas",
+  "dimensions": "25 1/4 x 19 1/4 in. (64.1 x 48.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Rabbet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 65.72263,
+        "Width": 51.117603
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 64.4526,
+        "Width": 48.8951
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 6.985014,
+        "Height": 83.50267,
+        "Width": 67.94514
+      }
+    }
+  ],
+  "creditLine": "Purchase, Friends of European Paintings Gifts, Bequest of Joan Whitney Payson, by exchange, Gwynne Andrews Fund, Charles and Jessie Price Gift, and Valerie Delacorte Fund Gift, in memory of George T. Delacorte, 2009",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-03-28T04:49:34.793Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440464",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Popes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025773",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q19546"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912062",
+  "isTimelineWork": true,
+  "GalleryNumber": "627"
+}

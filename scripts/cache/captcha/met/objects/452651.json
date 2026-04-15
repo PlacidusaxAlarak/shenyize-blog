@@ -1,0 +1,106 @@
+{
+  "objectID": 452651,
+  "isHighlight": false,
+  "accessionNumber": "1974.290.26",
+  "accessionYear": "1974",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP108574.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP108574.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 130357,
+      "role": "Author",
+      "name": "Abu&#39;l Qasim Firdausi",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q43459",
+      "gender": ""
+    }
+  ],
+  "department": "Islamic Art",
+  "objectName": "Folio from an illustrated manuscript",
+  "title": "\"Isfandiyar's Third Course: He Slays a Dragon\", Folio from a Shahnama (Book of Kings)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Author",
+  "artistPrefix": "",
+  "artistDisplayName": "Abu'l Qasim Firdausi",
+  "artistDisplayBio": "Iranian, Paj ca. 940/41–1020 Tus",
+  "artistSuffix": "",
+  "artistAlphaSort": "Abu'l Qasim Firdausi",
+  "artistNationality": "Iranian",
+  "artistBeginDate": "0935",
+  "artistEndDate": "1020",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q43459",
+  "artistULAN_URL": "",
+  "objectDate": "ca. 1330–40",
+  "objectBeginDate": 1305,
+  "objectEndDate": 1365,
+  "medium": "Ink, opaque watercolor, gold, and silver on paper",
+  "dimensions": "Page: 8 1/8 x 5 1/4 in. (20.6 x 13.4 cm)\r\nPainting: H. 1 5/8 in. (4.2 cm)\r\n                 W.4 3/16 in. (10.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Other",
+      "elementDescription": "Painting",
+      "elementMeasurements": {
+        "Height": 4.2,
+        "Width": 10.6
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "Page",
+      "elementMeasurements": {
+        "Height": 20.6,
+        "Width": 13.4
+      }
+    }
+  ],
+  "creditLine": "Bequest of Monroe C. Gutman, 1974",
+  "geographyType": "Attributed to",
+  "city": "probably Isfahan",
+  "state": "",
+  "county": "",
+  "country": "Iran",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Codices",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/452651",
+  "tags": [
+    {
+      "term": "Bow and Arrow",
+      "AAT_URL": null,
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q19827042"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Dragons",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300375726",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7559"
+    },
+    {
+      "term": "Horses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

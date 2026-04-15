@@ -1,0 +1,102 @@
+{
+  "objectID": 192770,
+  "isHighlight": false,
+  "accessionNumber": "14.45",
+  "accessionYear": "1914",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP224276.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP224276.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/ES345.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 33379,
+      "role": "Artist",
+      "name": "Agostino d&#39;Antonio di Duccio",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005732",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q395755",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Relief",
+  "title": "Saint Bridget of Sweden Receiving the Rule of Her Order",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Agostino d'Antonio di Duccio",
+  "artistDisplayBio": "Italian, Florence, 1418–1498",
+  "artistSuffix": "",
+  "artistAlphaSort": "Agostino d'Antonio di Duccio",
+  "artistNationality": "Italian, Florence",
+  "artistBeginDate": "1418",
+  "artistEndDate": "1498",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q395755",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500005732",
+  "objectDate": "1459",
+  "objectBeginDate": 1459,
+  "objectEndDate": 1459,
+  "medium": "Marble",
+  "dimensions": "Overall (confirmed): 16 3/4 × 25 1/8 × 2 3/4 in., 57 lb. (42.5 × 63.8 × 7 cm, 25.9 kg)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "confirmed",
+      "elementMeasurements": {
+        "Depth": 6.985,
+        "Height": 42.5,
+        "Weight": 25.855,
+        "Width": 63.8
+      }
+    }
+  ],
+  "creditLine": "John Stewart Kennedy Fund, 1914",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Sculpture",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-31T04:54:36.6Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/192770",
+  "tags": [
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Flowers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+    },
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Saints",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": "500"
+}

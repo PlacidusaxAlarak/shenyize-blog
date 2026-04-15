@@ -1,0 +1,93 @@
+{
+  "objectID": 828497,
+  "isHighlight": false,
+  "accessionNumber": "2019.263",
+  "accessionYear": "2019",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-18781-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-18781-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164211,
+      "role": "Artist",
+      "name": "Giacomo Ceruti",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016508",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q524248",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "An Old Man with a Dog",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Giacomo Ceruti",
+  "artistDisplayBio": "Italian, Milan 1698–1767 Milan",
+  "artistSuffix": "",
+  "artistAlphaSort": "Ceruti, Giacomo",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1698",
+  "artistEndDate": "1767",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q524248",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500016508",
+  "objectDate": "1740s",
+  "objectBeginDate": 1740,
+  "objectEndDate": 1749,
+  "medium": "Oil on canvas",
+  "dimensions": "25 9/16 × 17 11/16 in. (65 × 45 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 65,
+        "Width": 45
+      }
+    }
+  ],
+  "creditLine": "Gift of Fabrizio Moretti, in honor of Keith Christiansen, and in celebration of the Museum's 150th Anniversary, 2019",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-06-26T04:49:32.87Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/828497",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78605934",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

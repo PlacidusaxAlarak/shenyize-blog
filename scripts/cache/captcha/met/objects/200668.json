@@ -1,0 +1,120 @@
+{
+  "objectID": 200668,
+  "isHighlight": true,
+  "accessionNumber": "50.145.66",
+  "accessionYear": "1950",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP242660.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP242660.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP242663.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP242662.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP242661.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP236929.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/es50.145.66.AV2.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 164278,
+      "role": "Artist",
+      "name": "Jean Antoine Houdon",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003939",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q318741",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Bust",
+  "title": "Sabine Houdon (1787–1836)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jean Antoine Houdon",
+  "artistDisplayBio": "French, Versailles 1741–1828 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Houdon, Jean Antoine",
+  "artistNationality": "French",
+  "artistBeginDate": "1741",
+  "artistEndDate": "1828",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q318741",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500003939",
+  "objectDate": "1788",
+  "objectBeginDate": 1788,
+  "objectEndDate": 1788,
+  "medium": "White marble on gray marble socle",
+  "dimensions": "Overall, without base (confirmed): H. 10 3/4 x W. 8 7/8 x D. 5 7/8 in., 20lb. (27.3 x 22.5 x 14.9 cm, 9.0719kg); Height with base (confirmed): 13 1/2 in. (34.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Other",
+      "elementDescription": "historic dimensions, superceded",
+      "elementMeasurements": {
+        "Height": 34.2901
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "historic dimensions, superceded",
+      "elementMeasurements": {
+        "Depth": 15.24,
+        "Height": 27.5,
+        "Weight": 9.0719,
+        "Width": 21.59
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "confirmed",
+      "elementMeasurements": {
+        "Height": 34.29007
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "confirmed",
+      "elementMeasurements": {
+        "Depth": 14.92253,
+        "Height": 27.305054,
+        "Weight": 9.07194,
+        "Width": 22.542545
+      }
+    }
+  ],
+  "creditLine": "Bequest of Mary Stillman Harkness, 1950",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Sculpture",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-31T04:54:36.6Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/200668",
+  "tags": [
+    {
+      "term": "Girls",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q29383582",
+  "isTimelineWork": true,
+  "GalleryNumber": "552"
+}

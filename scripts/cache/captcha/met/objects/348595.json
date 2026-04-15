@@ -1,0 +1,99 @@
+{
+  "objectID": 348595,
+  "isHighlight": false,
+  "accessionNumber": "24.39.4",
+  "accessionYear": "1924",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/MM7434.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/MM7434.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161996,
+      "role": "Artist",
+      "name": "Winslow Homer",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019202",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q344838",
+      "gender": ""
+    },
+    {
+      "constituentID": 94045,
+      "role": "Publisher",
+      "name": "Christian Klackner",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Eight Bells",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Winslow Homer",
+  "artistDisplayBio": "American, Boston, Massachusetts 1836–1910 Prouts Neck, Maine",
+  "artistSuffix": "",
+  "artistAlphaSort": "Homer, Winslow",
+  "artistNationality": "American",
+  "artistBeginDate": "1836",
+  "artistEndDate": "1910",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q344838",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500019202",
+  "objectDate": "1887",
+  "objectBeginDate": 1887,
+  "objectEndDate": 1887,
+  "medium": "Etching on parchment",
+  "dimensions": "image: 19 x 24 1/4 in. (48.3 x 61.6 cm)\r\nsheet: 26 3/4 x 30 3/4 in. (67.9 x 78.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 67.9451,
+        "Width": 78.1052
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 48.2601,
+        "Width": 61.5951
+      }
+    }
+  ],
+  "creditLine": "Harris Brisbane Dick Fund, 1924",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-05-31T04:50:53.377Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/348595",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

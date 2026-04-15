@@ -1,0 +1,90 @@
+{
+  "objectID": 203842,
+  "isHighlight": false,
+  "accessionNumber": "64.101.1124",
+  "accessionYear": "1964",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP105780.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP105780.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP105781.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP105782.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP105792.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 41131,
+      "role": "Maker",
+      "name": "William Linnell",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500104545",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21289976",
+      "gender": ""
+    },
+    {
+      "constituentID": 41132,
+      "role": "Maker",
+      "name": "and John Linnell",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009084",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q15434866",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Standing shelf",
+  "title": "Standing shelf (one of a pair)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Maker",
+  "artistPrefix": "",
+  "artistDisplayName": "William Linnell",
+  "artistDisplayBio": "ca. 1703–1763",
+  "artistSuffix": "",
+  "artistAlphaSort": "Linnell, William",
+  "artistNationality": "",
+  "artistBeginDate": "1703",
+  "artistEndDate": "1763",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q21289976",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500104545",
+  "objectDate": "ca. 1753–54",
+  "objectBeginDate": 1748,
+  "objectEndDate": 1759,
+  "medium": "Lacquered and painted pine, mahogany and British walnut",
+  "dimensions": "Overall: 59 × 23 × 10 1/2 in. (149.9 × 58.4 × 26.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 26.670053,
+        "Height": 149.8603,
+        "Width": 58.420116
+      }
+    }
+  ],
+  "creditLine": "Gift of Irwin Untermyer, 1964",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Woodwork-Furniture",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-02-07T04:59:02.893Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/203842",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

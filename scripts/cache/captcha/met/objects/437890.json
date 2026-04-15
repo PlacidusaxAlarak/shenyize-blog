@@ -1,0 +1,105 @@
+{
+  "objectID": 437890,
+  "isHighlight": false,
+  "accessionNumber": "29.100.105",
+  "accessionYear": "1929",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14936-005.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-14936-005.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-29_100_105-2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-29_100_105-3.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162636,
+      "role": "Artist",
+      "name": "Paolo Veronese (Paolo Caliari)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021218",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q9440",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Boy with a Greyhound",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Paolo Veronese (Paolo Caliari)",
+  "artistDisplayBio": "Italian, Verona 1528–1588 Venice",
+  "artistSuffix": "",
+  "artistAlphaSort": "Veronese, Paolo (Paolo Caliari)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1528",
+  "artistEndDate": "1588",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q9440",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500021218",
+  "objectDate": "possibly 1570s",
+  "objectBeginDate": 1570,
+  "objectEndDate": 1579,
+  "medium": "Oil on canvas",
+  "dimensions": "68 3/8 x 40 1/8 in. (173.7 x 101.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 173.7,
+        "Width": 101.9
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": "Travel Frame used for 1998 Havemeyer Exhibition in Paris",
+      "elementMeasurements": {
+        "Depth": 7.9375157,
+        "Height": 190.50038,
+        "Width": 121.602745
+      }
+    }
+  ],
+  "creditLine": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-10-23T04:51:40.987Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437890",
+  "tags": [
+    {
+      "term": "Boys",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Dogs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911888",
+  "isTimelineWork": true,
+  "GalleryNumber": "612"
+}

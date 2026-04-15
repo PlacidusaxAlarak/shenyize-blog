@@ -1,0 +1,96 @@
+{
+  "objectID": 451320,
+  "isHighlight": false,
+  "accessionNumber": "55.121.39",
+  "accessionYear": "1955",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DT4817.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DT4817.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/is/original/sf55-121-39d.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/sf55-121-39r.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 130222,
+      "role": "Artist",
+      "name": "Painting by Riza-yi &#39;Abbasi",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q380726",
+      "gender": ""
+    }
+  ],
+  "department": "Islamic Art",
+  "objectName": "Album leaf",
+  "title": "Man in a Fur-Lined Coat",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Painting by",
+  "artistDisplayName": "Riza-yi 'Abbasi",
+  "artistDisplayBio": "Iranian, ca. 1565–d. 1635",
+  "artistSuffix": "",
+  "artistAlphaSort": "Riza-yi `Abbasi",
+  "artistNationality": "Iranian",
+  "artistBeginDate": "1540",
+  "artistEndDate": "1660",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q380726",
+  "artistULAN_URL": "(not assigned)",
+  "objectDate": "ca. 1600",
+  "objectBeginDate": 1575,
+  "objectEndDate": 1625,
+  "medium": "Ink, opaque watercolor, and gold on paper",
+  "dimensions": "H. 5 3/8 in. (13.6 cm)\r\nW. 2 1/2 in. (6.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 13.6,
+        "Width": 6.4
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1955",
+  "geographyType": "Attributed to",
+  "city": "Isfahan",
+  "state": "",
+  "county": "",
+  "country": "Iran",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Codices",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-04-30T04:49:03.02Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/451320",
+  "tags": [
+    {
+      "term": "Birds",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+    },
+    {
+      "term": "Fruit",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

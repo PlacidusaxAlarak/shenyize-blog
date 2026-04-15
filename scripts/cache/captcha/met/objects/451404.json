@@ -1,0 +1,107 @@
+{
+  "objectID": 451404,
+  "isHighlight": false,
+  "accessionNumber": "57.51.25",
+  "accessionYear": "1957",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP231962.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP231962.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/is/original/sf57-51-25r.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DT200629.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DT200630.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 133192,
+      "role": "Author",
+      "name": "Muhammad ibn Badr al-Din Jajarmi",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Islamic Art",
+  "objectName": "Folio from an illustrated manuscript",
+  "title": "Folio from a Mu'nis al-ahrar fi daqa'iq al-ash'ar (The Free Man's Companion to the Subtleties of Poems) of Jajarmi",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Author",
+  "artistPrefix": "",
+  "artistDisplayName": "Muhammad ibn Badr al-Din Jajarmi",
+  "artistDisplayBio": "Iranian, active 1340s",
+  "artistSuffix": "",
+  "artistAlphaSort": "Muhammad ibn Badr al-Din Jajarmi",
+  "artistNationality": "Iranian",
+  "artistBeginDate": "1315",
+  "artistEndDate": "1365",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "dated 741 AH/1341 CE",
+  "objectBeginDate": 1340,
+  "objectEndDate": 1342,
+  "medium": "Ink, opaque watercolor, and gold on paper",
+  "dimensions": "H. 6 5/8 in. (16.8 cm)\r\nW. 9 1/8 in. (23.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 23.1775,
+        "Width": 16.8275
+      }
+    }
+  ],
+  "creditLine": "Cora Timken Burnett Collection of Persian Miniatures and Other Persian Art Objects, Bequest of Cora Timken Burnett, 1956",
+  "geographyType": "Attributed to",
+  "city": "Isfahan",
+  "state": "",
+  "county": "",
+  "country": "Iran",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Codices",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-01-21T04:52:24.343Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/451404",
+  "tags": [
+    {
+      "term": "Poetry",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055931",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q482"
+    },
+    {
+      "term": "Wells",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300006207",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43483"
+    },
+    {
+      "term": "Goats",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250122",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2934"
+    },
+    {
+      "term": "Moon",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300386951",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q405"
+    },
+    {
+      "term": "Zodiac",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300009937",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40540"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}
