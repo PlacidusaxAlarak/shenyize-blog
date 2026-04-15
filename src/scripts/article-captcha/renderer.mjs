@@ -1,4 +1,4 @@
-const DEFAULT_IMAGE_TIMEOUT_MS = 3000;
+const DEFAULT_IMAGE_TIMEOUT_MS = 12000;
 
 function loadImage(
 	source,

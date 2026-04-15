@@ -74,7 +74,11 @@ test("article captcha gate component exposes sitewide defaults without hint copy
 	assert.match(gateComponent, /\.article-captcha-overlay\s*\{[\s\S]*position:\s*fixed;/);
 	assert.match(gateComponent, /\.article-captcha-overlay\s*\{[\s\S]*inset:\s*0;/);
 	assert.match(gateComponent, /\.article-captcha-overlay\s*\{[\s\S]*padding:\s*clamp\(12px,\s*2\.8dvh,\s*24px\)\s+18px;/);
-	assert.match(gateComponent, /\.article-captcha-card\s*\{[\s\S]*width:\s*min\(100%,\s*860px\);/);
+	assert.match(gateComponent, /\.article-captcha-card\s*\{[\s\S]*width:\s*fit-content;/);
+	assert.match(
+		gateComponent,
+		/\.article-captcha-card\s*\{[\s\S]*max-width:\s*min\(100%,\s*860px\);/,
+	);
 	assert.match(gateComponent, /\.article-captcha-controls\s*\{[\s\S]*position:\s*absolute;/);
 	assert.doesNotMatch(gateComponent, /data-article-captcha-refresh/);
 	assert.doesNotMatch(gateComponent, /\.article-captcha-refresh/);

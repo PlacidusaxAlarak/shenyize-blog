@@ -144,7 +144,8 @@ const backgroundImageUrls = await getArticleCaptchaBackgroundImageUrls({
 		--article-captcha-card-shadow: 0 24px 60px rgba(39, 30, 14, 0.22);
 		position: relative;
 		z-index: 1;
-		width: min(100%, 860px);
+		width: fit-content;
+		max-width: min(100%, 860px);
 		max-height: calc(100dvh - (var(--article-captcha-overlay-padding) * 2));
 		padding: clamp(16px, 2.2dvh, 22px);
 		border: 1px solid var(--article-captcha-border);

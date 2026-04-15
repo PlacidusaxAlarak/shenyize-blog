@@ -37,3 +37,23 @@ test("article captcha falls back when the primary image load hangs past the time
 	assert.equal(result.usedFallback, true);
 	assert.equal(result.image, fallbackImage);
 });
+
+test("article captcha keeps the primary image when it is slow but still finishes within the default timeout", async () => {
+	const { loadBackgroundImage } = await rendererModule();
+	const primaryImage = createFakeImage((_, image) => {
+		setTimeout(() => {
+			image.onload?.();
+		}, 3500);
+	});
+	const fallbackImage = createFakeImage(() => {});
+	let imageIndex = 0;
+
+	const result = await loadBackgroundImage("/captcha/slow.jpg", "/captcha/fallback.svg", {
+		imageFactory() {
+			return imageIndex++ === 0 ? primaryImage : fallbackImage;
+		},
+	});
+
+	assert.equal(result.usedFallback, false);
+	assert.equal(result.image, primaryImage);
+});
