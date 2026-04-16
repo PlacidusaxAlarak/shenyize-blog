@@ -21,12 +21,11 @@ test("article captcha discovers supported local images from the public backgroun
 	const { getArticleCaptchaBackgroundImageUrls } = await backgroundPoolModule();
 	const imageUrls = await getArticleCaptchaBackgroundImageUrls({
 		publicDir: tempPublicDir,
-		fallbackUrls: ["/captcha/preview.jpg", "/captcha/demo-background.svg"],
+		fallbackUrls: ["/captcha/preview.jpg"],
 	});
 
 	assert.deepEqual(imageUrls, [
 		"/captcha/preview.jpg",
-		"/captcha/demo-background.svg",
 		"/captcha/backgrounds/nested/scene-b.webp",
 		"/captcha/backgrounds/scene-a.jpg",
 	]);
@@ -38,14 +37,14 @@ test("article captcha random image selection avoids repeating the previous image
 	const selected = pickRandomBackgroundImageUrl({
 		imageUrls: [
 			"/captcha/preview.jpg",
-			"/captcha/demo-background.svg",
 			"/captcha/backgrounds/scene-a.jpg",
+			"/captcha/backgrounds/scene-b.jpg",
 		],
 		previousImageUrl: "/captcha/preview.jpg",
 		rng: () => 0,
 	});
 
-	assert.equal(selected, "/captcha/demo-background.svg");
+	assert.equal(selected, "/captcha/backgrounds/scene-a.jpg");
 	assert.equal(
 		pickRandomBackgroundImageUrl({
 			imageUrls: ["/captcha/preview.jpg"],
