@@ -1,0 +1,87 @@
+{
+  "objectID": 41907,
+  "isHighlight": false,
+  "accessionNumber": "1986.267.12",
+  "accessionYear": "1986",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP-30198-002.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP-30198-002.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/DP-30198-001.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 12175,
+      "role": "Artist",
+      "name": "Bao Shichen",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500313849",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q10901530",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Hanging scroll",
+  "title": "Two Riders",
+  "culture": "China",
+  "period": "Qing dynasty (1644–1911)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Bao Shichen",
+  "artistDisplayBio": "Chinese, 1775–1855",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bao Shichen",
+  "artistNationality": "Chinese",
+  "artistBeginDate": "1775",
+  "artistEndDate": "1855",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q10901530",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500313849",
+  "objectDate": "",
+  "objectBeginDate": 1775,
+  "objectEndDate": 1855,
+  "medium": "Hanging scroll; ink on paper",
+  "dimensions": "37 1/4 x 13 in. (94.6 x 33.0 cm)",
+  "measurements": [
+    {
+      "elementName": "Other",
+      "elementDescription": "incl. mounting",
+      "elementMeasurements": {
+        "Height": 197.2,
+        "Width": 52.7
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 94.6,
+        "Width": 33
+      }
+    }
+  ],
+  "creditLine": "Gift of Robert Hatfield Ellsworth, in memory of La Ferne Hatfield Ellsworth, 1986",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-11-13T04:51:50.813Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/41907",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

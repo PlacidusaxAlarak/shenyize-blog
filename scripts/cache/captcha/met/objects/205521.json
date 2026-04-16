@@ -1,0 +1,95 @@
+{
+  "objectID": 205521,
+  "isHighlight": false,
+  "accessionNumber": "1973.287.2",
+  "accessionYear": "1973",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-1232-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP-1232-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP-1232-002.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP-1232-003.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 35475,
+      "role": "Artist",
+      "name": "Workshop of Vincenzo Grandi",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500054891",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q55061815",
+      "gender": ""
+    },
+    {
+      "constituentID": 35476,
+      "role": "Artist",
+      "name": "and Gian Gerolamo Grandi",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500337205",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q55064214",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Candlestick",
+  "title": "Altar candlestick with busts in relief of Saints Peter and Paul (one of a pair)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Workshop of",
+  "artistDisplayName": "Vincenzo Grandi",
+  "artistDisplayBio": "mentioned 1507–1577/78",
+  "artistSuffix": "",
+  "artistAlphaSort": "Grandi Vincenzo",
+  "artistNationality": "",
+  "artistBeginDate": "1507",
+  "artistEndDate": "1578",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q55061815",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500054891",
+  "objectDate": "mid-16th century",
+  "objectBeginDate": 1525,
+  "objectEndDate": 1575,
+  "medium": "Bronze, partially oil-gilt",
+  "dimensions": "Overall (confirmed): 36 1/4 × 12 × 13 in. (92.1 × 30.5 × 33 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 33.020065,
+        "Height": 92.07519,
+        "Width": 30.48006
+      }
+    }
+  ],
+  "creditLine": "Ann and George Blumenthal Fund, 1973",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Sculpture-Bronze",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-31T04:54:36.6Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/205521",
+  "tags": [
+    {
+      "term": "Saint Matthew",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000497",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43600"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116242482",
+  "isTimelineWork": false,
+  "GalleryNumber": "502"
+}

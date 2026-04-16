@@ -1,0 +1,88 @@
+{
+  "objectID": 485435,
+  "isHighlight": false,
+  "accessionNumber": "1990.274.1ab",
+  "accessionYear": "1990",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161762,
+      "role": "Artist",
+      "name": "Marc Chagall",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115354",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q93284",
+      "gender": ""
+    }
+  ],
+  "department": "Modern and Contemporary Art",
+  "objectName": "Drawing",
+  "title": "Snow, Winter in Vitebsk",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Marc Chagall",
+  "artistDisplayBio": "French (born former Russian Empire, now Belarus), Vitebsk 1887–1985 Saint-Paul-de-Vence",
+  "artistSuffix": "",
+  "artistAlphaSort": "Chagall, Marc",
+  "artistNationality": "French, born former Russian Empire, now Belarus",
+  "artistBeginDate": "1887",
+  "artistEndDate": "1985",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q93284",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115354",
+  "objectDate": "1911",
+  "objectBeginDate": 1911,
+  "objectEndDate": 1911,
+  "medium": "Opaque watercolor on board (recto) ; Opaque watercolor on board (verso)",
+  "dimensions": "18 7/8 × 23 13/16 in. (47.9 × 60.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 47.9,
+        "Width": 60.5
+      }
+    }
+  ],
+  "creditLine": "The Frederick and Helen Serger Collection, Bequest of Helen Serger, in honor of William S. Lieberman, 1989",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "© 2026 Artists Rights Society (ARS), New York",
+  "linkResource": "",
+  "metadataDate": "2026-01-07T04:49:48.69Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/485435",
+  "tags": [
+    {
+      "term": "Winter",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300133101",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1311"
+    },
+    {
+      "term": "Snow",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300055381",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7561"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20189678",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

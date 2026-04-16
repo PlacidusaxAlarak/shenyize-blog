@@ -1,0 +1,102 @@
+{
+  "objectID": 464268,
+  "isHighlight": false,
+  "accessionNumber": "17.190.269",
+  "accessionYear": "1917",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf17-190-269s1.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/md/web-large/sf17-190-269s1.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/md/original/sf17-190-269d1.jpg",
+    "https://images.metmuseum.org/CRDImages/md/original/sf17-190-269d2.jpg",
+    "https://images.metmuseum.org/CRDImages/md/original/sf17-190-269d3.jpg",
+    "https://images.metmuseum.org/CRDImages/md/original/sf17-190-269d4.jpg",
+    "https://images.metmuseum.org/CRDImages/md/original/sf17-190-269s3.jpg",
+    "https://images.metmuseum.org/CRDImages/md/original/sf17-190-269s2.jpg",
+    "https://images.metmuseum.org/CRDImages/md/original/sf17-190-269s4.jpg"
+  ],
+  "constituents": null,
+  "department": "Medieval Art",
+  "objectName": "Diptych",
+  "title": "Diptych with the Passion of Jesus",
+  "culture": "French or Netherlandish",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "",
+  "artistPrefix": "",
+  "artistDisplayName": "",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "1400–1450",
+  "objectBeginDate": 1400,
+  "objectEndDate": 1450,
+  "medium": "Elephant ivory, parchment, pigment, silver frame",
+  "dimensions": "Overall (open): 6 5/16 x 12 11/16 x 9/16 in. (16 x 32.2 x 1.4 cm)\r\nOverall (closed): 6 5/16 x 6 5/16 x 1 1/16 in. (16 x 16 x 2.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "closed",
+      "elementMeasurements": {
+        "Depth": 2.7,
+        "Height": 16,
+        "Width": 16
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "open",
+      "elementMeasurements": {
+        "Depth": 1.4,
+        "Height": 16,
+        "Width": 32.2
+      }
+    }
+  ],
+  "creditLine": "Gift of J. Pierpont Morgan, 1917",
+  "geographyType": "Made in",
+  "city": "Hainaut",
+  "state": "",
+  "county": "",
+  "country": "France or Netherlands",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Ivories-Elephant",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-02-07T04:59:02.893Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/464268",
+  "tags": [
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Crucifixion",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+    },
+    {
+      "term": "Coat of Arms",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300126352",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q14659"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

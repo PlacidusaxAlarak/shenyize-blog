@@ -1,0 +1,109 @@
+{
+  "objectID": 835119,
+  "isHighlight": false,
+  "accessionNumber": "2019.251a",
+  "accessionYear": "2019",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 106652,
+      "role": "Artist",
+      "name": "Nicola López",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500294236",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q59137256",
+      "gender": "Female"
+    },
+    {
+      "constituentID": 103881,
+      "role": "Printer",
+      "name": "Marina Ancona",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 210310,
+      "role": "Printer",
+      "name": "10 Grand Press",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 106652,
+      "role": "Publisher",
+      "name": "Nicola López",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500294236",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q59137256",
+      "gender": "Female"
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Ideal Structures for a Dubious Future (Block Building)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Nicola López",
+  "artistDisplayBio": "American, born Santa Fe, New Mexico, 1975",
+  "artistSuffix": "",
+  "artistAlphaSort": "López, Nicola",
+  "artistNationality": "American",
+  "artistBeginDate": "1975",
+  "artistEndDate": "9999",
+  "artistGender": "Female",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q59137256",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500294236",
+  "objectDate": "2012",
+  "objectBeginDate": 2012,
+  "objectEndDate": 2012,
+  "medium": "Explosive intaglio",
+  "dimensions": "Sheet: 13 × 17 in. (33 × 43.2 cm)\r\nImage: 8 in. × 11 3/4 in. (20.3 × 29.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 20.32004,
+        "Width": 29.84506
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 33.020065,
+        "Width": 43.180088
+      }
+    }
+  ],
+  "creditLine": "John B. Turner Fund, 2019",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/835119",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

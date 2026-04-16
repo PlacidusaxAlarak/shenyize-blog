@@ -1,0 +1,88 @@
+{
+  "objectID": 208898,
+  "isHighlight": false,
+  "accessionNumber": "54.147.20a–d, .21a–d",
+  "accessionYear": "1954",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP155617.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP155617.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP155618.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 35489,
+      "role": "Modeler",
+      "name": "Model attributed to Jean-Claude Duplessis",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500055285",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3164955",
+      "gender": ""
+    },
+    {
+      "constituentID": 164856,
+      "role": "Manufactory",
+      "name": "Sèvres Manufactory",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500054661",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q653307",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Wall light sconces",
+  "title": "Two wall sconces (Bras de cheminée)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Modeler",
+  "artistPrefix": "Model attributed to",
+  "artistDisplayName": "Jean-Claude Duplessis",
+  "artistDisplayBio": "French, ca. 1695–1774, active 1748–74",
+  "artistSuffix": "",
+  "artistAlphaSort": "Duplessis, Jean-Claude",
+  "artistNationality": "French",
+  "artistBeginDate": "1695",
+  "artistEndDate": "1774",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3164955",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500055285",
+  "objectDate": "ca. 1761",
+  "objectBeginDate": 1756,
+  "objectEndDate": 1766,
+  "medium": "Soft-paste porcelain decorated in polychrome enamel, gold, gilt bronze",
+  "dimensions": "Overall (confirmed): 17 3/8 × 11 × 7 1/4 in. (44.1 × 27.9 × 18.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "confirmed",
+      "elementMeasurements": {
+        "Depth": 18.415037,
+        "Height": 44.132587,
+        "Width": 27.940056
+      }
+    }
+  ],
+  "creditLine": "Gift of R. Thornton Wilson, in memory of Florence Ellsworth Wilson, 1954",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Ceramics-Porcelain",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-31T04:54:36.6Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/208898",
+  "tags": null,
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116308648",
+  "isTimelineWork": false,
+  "GalleryNumber": "523"
+}

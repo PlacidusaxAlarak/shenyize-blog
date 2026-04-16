@@ -1,0 +1,121 @@
+{
+  "objectID": 757456,
+  "isHighlight": false,
+  "accessionNumber": "21.44(117)",
+  "accessionYear": "1921",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/MM83234.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/MM83234.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 76326,
+      "role": "Artist",
+      "name": "Abraham de Bruyn",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008141",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2821866",
+      "gender": ""
+    },
+    {
+      "constituentID": 107052,
+      "role": "Publisher",
+      "name": "Joos de Bosscher",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Book Print Ornament & Architecture",
+  "title": "Paedagogi habitus, qui Christianam prolem in disceplinam acceperit; Proles Christiana Turcorum Imperatori tributa; Assamoglani habitus, qui ad militiam se instituit; Asmoglam vestituis qui ad agriculturam exercetur",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Abraham de Bruyn",
+  "artistDisplayBio": "Flemish, Antwerp 1540–1587 Cologne (?)",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bruyn, Abraham de",
+  "artistNationality": "Flemish",
+  "artistBeginDate": "1540",
+  "artistEndDate": "1587",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2821866",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500008141",
+  "objectDate": "1580",
+  "objectBeginDate": 1580,
+  "objectEndDate": 1580,
+  "medium": "Engraving",
+  "dimensions": "Image: 7 13/16 × 12 11/16 in. (19.9 × 32.2 cm)\r\nFrame: 9 1/2 × 14 5/16 in. (24.2 × 36.4 cm)\r\nSheet: 21 5/16 × 16 5/16 in. (54.2 × 41.5 cm)\r\nBook: 21 7/8 × 16 3/4 × 1 15/16 in. (55.5 × 42.5 × 5 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 54.2,
+        "Width": 41.5
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 24.2,
+        "Width": 36.4
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 19.9,
+        "Width": 32.2
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "Book",
+      "elementMeasurements": {
+        "Depth": 5,
+        "Height": 55.5,
+        "Width": 42.5
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1921",
+  "geographyType": "Printed",
+  "city": "Mechelen (Malines)",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Books",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/757456",
+  "tags": [
+    {
+      "term": "Musical Instruments",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300041620",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q34379"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

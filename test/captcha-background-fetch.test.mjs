@@ -34,6 +34,27 @@ test("captcha background fetch config targets the local captcha backgrounds dire
 	assert.ok(config.keywords.includes("ocean"));
 	assert.ok(config.keywords.includes("island"));
 	assert.ok(config.keywords.includes("ruins"));
+	assert.ok(config.keywords.includes("facade"));
+	assert.ok(config.keywords.includes("doorway"));
+	assert.ok(config.keywords.includes("staircase"));
+	assert.ok(config.keywords.includes("arcade"));
+	assert.ok(config.keywords.includes("cloister"));
+	assert.ok(config.keywords.includes("station"));
+	assert.ok(config.keywords.includes("pavilion"));
+	assert.ok(config.keywords.includes("tower"));
+	assert.ok(config.keywords.includes("gate"));
+	assert.ok(config.keywords.includes("nave"));
+	assert.ok(config.keywords.includes("piazza"));
+	assert.ok(config.keywords.includes("portico"));
+	assert.ok(config.keywords.includes("colonnade"));
+	assert.ok(config.keywords.includes("cathedral"));
+	assert.ok(config.keywords.includes("monastery"));
+	assert.ok(config.keywords.includes("church interior"));
+	assert.ok(config.keywords.includes("city gate"));
+	assert.ok(config.keywords.includes("alley"));
+	assert.ok(config.keywords.includes("boulevard"));
+	assert.ok(config.keywords.includes("terrace"));
+	assert.ok(config.keywords.includes("balcony"));
 });
 
 test("captcha background fetcher produces manifest entries with stable required fields", async () => {
@@ -252,6 +273,63 @@ test("captcha background fetcher accepts nature-heavy ocean or rock scenes for n
 				classification: "Photographs",
 				department: "Photographs",
 				medium: "Albumen silver print",
+				tags: [],
+			},
+		}),
+		true,
+	);
+});
+
+test("captcha background fetcher accepts structural architectural scenes that provide strong rotation cues", async () => {
+	const { isLikelyScenicCaptchaObject } = await import("../scripts/fetch-captcha-backgrounds.mjs");
+
+	assert.equal(
+		isLikelyScenicCaptchaObject({
+			keyword: "staircase",
+			object: {
+				title: "Grand Staircase with Columns",
+				objectName: "Photograph",
+				classification: "Photographs",
+				department: "Photographs",
+				medium: "Gelatin silver print",
+				tags: [],
+			},
+		}),
+		true,
+	);
+});
+
+test("captcha background fetcher rejects decorative objects even when architectural words appear in the metadata", async () => {
+	const { isLikelyScenicCaptchaObject } = await import("../scripts/fetch-captcha-backgrounds.mjs");
+
+	assert.equal(
+		isLikelyScenicCaptchaObject({
+			keyword: "tower",
+			object: {
+				title: "Snuffbox with a Tower and Gate",
+				objectName: "Snuffbox",
+				classification: "Metalwork",
+				department: "European Sculpture and Decorative Arts",
+				medium: "Gold and enamel",
+				tags: [{ term: "Buildings" }],
+			},
+		}),
+		false,
+	);
+});
+
+test("captcha background fetcher accepts cathedral or cloister interiors that still provide strong directional structure", async () => {
+	const { isLikelyScenicCaptchaObject } = await import("../scripts/fetch-captcha-backgrounds.mjs");
+
+	assert.equal(
+		isLikelyScenicCaptchaObject({
+			keyword: "cathedral interior",
+			object: {
+				title: "Cathedral Interior with Colonnade",
+				objectName: "Photograph",
+				classification: "Photographs",
+				department: "Photographs",
+				medium: "Gelatin silver print",
 				tags: [],
 			},
 		}),

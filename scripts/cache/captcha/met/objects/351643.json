@@ -1,0 +1,109 @@
+{
+  "objectID": 351643,
+  "isHighlight": false,
+  "accessionNumber": "32.18(1-2)",
+  "accessionYear": "1932",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP-14576-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP-14576-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-14576-002.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-14576-003.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-14576-004.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-14576-005.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-14576-006.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-14576-007.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-14576-008.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-17208-001.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-17208-002.jpg",
+    "https://images.metmuseum.org/CRDImages/dp/original/DP-17208-003.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 165236,
+      "role": "Artist",
+      "name": "Augustin Hirschvogel",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011339",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q707101",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Book",
+  "title": "A True and Thorough Instruction in Geometry (Ein aigentliche und grundtliche anweysung in die Geometria)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Augustin Hirschvogel",
+  "artistDisplayBio": "German, Nuremberg 1503–1553 Vienna",
+  "artistSuffix": "",
+  "artistAlphaSort": "Hirschvolgel, Augustin",
+  "artistNationality": "German",
+  "artistBeginDate": "1503",
+  "artistEndDate": "1553",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q707101",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011339",
+  "objectDate": "1543",
+  "objectBeginDate": 1543,
+  "objectEndDate": 1543,
+  "medium": "Etching",
+  "dimensions": "32.18(1): 7 9/16 × 5 7/8 × 7/16 in. (19.2 × 14.9 × 1.1 cm)\r\n32.18(2): 8 × 6 5/16 × 7/16 in. (20.3 × 16 × 1.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 1.1,
+        "Height": 19.2,
+        "Width": 14.9
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 1.1,
+        "Height": 20.25,
+        "Width": 16
+      }
+    }
+  ],
+  "creditLine": "Harris Brisbane Dick Fund, 1932",
+  "geographyType": "Made in",
+  "city": "Nuremberg: no printer, 1 April 1543",
+  "state": "",
+  "county": "",
+  "country": "Germany",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Books",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/351643",
+  "tags": [
+    {
+      "term": "Owls",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300310290",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8021345"
+    },
+    {
+      "term": "Geometry",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300054529",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8087"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

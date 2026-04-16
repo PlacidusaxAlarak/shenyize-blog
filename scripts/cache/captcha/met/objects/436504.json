@@ -1,0 +1,117 @@
+{
+  "objectID": 436504,
+  "isHighlight": true,
+  "accessionNumber": "11.126.1",
+  "accessionYear": "1911",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-31416-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-31416-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/DP-19501-002.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 107703,
+      "role": "Artist",
+      "name": "Giotto di Bondone",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010766",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7814",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Adoration of the Magi",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Giotto di Bondone",
+  "artistDisplayBio": "Italian, Florentine, 1266/76–1337",
+  "artistSuffix": "",
+  "artistAlphaSort": "Giotto di Bondone",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1266",
+  "artistEndDate": "1337",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q7814",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010766",
+  "objectDate": "possibly ca. 1320",
+  "objectBeginDate": 1315,
+  "objectEndDate": 1325,
+  "medium": "Tempera on wood, gold ground",
+  "dimensions": "17 3/4 x 17 1/4 in. (45.1 x 43.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 45.1,
+        "Width": 43.8
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 10.16002,
+        "Height": 60.64262,
+        "Width": 57.785114
+      }
+    },
+    {
+      "elementName": "Glazing",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 47.625095,
+        "Width": 46.037594
+      }
+    }
+  ],
+  "creditLine": "John Stewart Kennedy Fund, 1911",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-01-30T04:53:27.33Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/436504",
+  "tags": [
+    {
+      "term": "Animals",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300249525",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q729"
+    },
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Jesus",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+    },
+    {
+      "term": "Adoration of the Magi",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000083",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q488841"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911414",
+  "isTimelineWork": true,
+  "GalleryNumber": "601"
+}

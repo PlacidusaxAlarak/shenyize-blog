@@ -1,0 +1,88 @@
+{
+  "objectID": 4832,
+  "isHighlight": false,
+  "accessionNumber": "2006.90.3a, b",
+  "accessionYear": "2006",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP157655.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/DP157655.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 1100,
+      "role": "Maker",
+      "name": "Wood and Hughes",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "The American Wing",
+  "objectName": "Sugar bowl",
+  "title": "Sugar bowl",
+  "culture": "American",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Maker",
+  "artistPrefix": "",
+  "artistDisplayName": "Wood and Hughes",
+  "artistDisplayBio": "1845–99",
+  "artistSuffix": "",
+  "artistAlphaSort": "Wood and Hughes",
+  "artistNationality": "American",
+  "artistBeginDate": "1845",
+  "artistEndDate": "1899",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "1862–63",
+  "objectBeginDate": 1862,
+  "objectEndDate": 1863,
+  "medium": "Silver",
+  "dimensions": "9 1/16 x 6 1/4 in. (23 x 15.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 23,
+        "Width": 15.875
+      }
+    }
+  ],
+  "creditLine": "Friends of the American Wing Fund, 2006",
+  "geographyType": "Made in",
+  "city": "New York",
+  "state": "New York",
+  "county": "",
+  "country": "United States",
+  "region": "Mid-Atlantic",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/4832",
+  "tags": [
+    {
+      "term": "Factories",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300006232",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q83405"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116366102",
+  "isTimelineWork": false,
+  "GalleryNumber": "706"
+}

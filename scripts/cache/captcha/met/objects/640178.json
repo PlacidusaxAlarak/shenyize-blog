@@ -1,0 +1,85 @@
+{
+  "objectID": 640178,
+  "isHighlight": false,
+  "accessionNumber": "2013.544.2",
+  "accessionYear": "2013",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP834434.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP834434.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/dp/original/DP834433.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162225,
+      "role": "Artist",
+      "name": "Charles Percier",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012660",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q969714",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing; Ornament & Architecture",
+  "title": "Chalice for the Coronation of Napoleon I",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Charles Percier",
+  "artistDisplayBio": "French, Paris 1764–1838 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Percier, Charles",
+  "artistNationality": "French",
+  "artistBeginDate": "1764",
+  "artistEndDate": "1838",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q969714",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500012660",
+  "objectDate": "1804",
+  "objectBeginDate": 1804,
+  "objectEndDate": 1804,
+  "medium": "Graphite, pen and brown ink, brush and gray and reddish-brown wash",
+  "dimensions": "Sheet: 10 1/2 × 7 5/16 in. (26.7 × 18.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 26.7,
+        "Width": 18.6
+      }
+    }
+  ],
+  "creditLine": "Van Day Truex Fund, 2013",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-11-20T16:34:38.377Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/640178",
+  "tags": [
+    {
+      "term": "Chalices",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300194762",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q210723"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

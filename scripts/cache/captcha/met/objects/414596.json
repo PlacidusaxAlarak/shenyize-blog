@@ -1,0 +1,109 @@
+{
+  "objectID": 414596,
+  "isHighlight": false,
+  "accessionNumber": "45.82.2(39)",
+  "accessionYear": "1945",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP273757.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP273757.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161680,
+      "role": "Artist",
+      "name": "After Gian Lorenzo Bernini",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032022",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q160538",
+      "gender": ""
+    },
+    {
+      "constituentID": 86867,
+      "role": "Publisher",
+      "name": "Giovanni Giacomo De Rossi",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500353716",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q12631500",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Collection Ornament & Architecture",
+  "title": "Isolated View of Bernini's Baldacchino. Plate 39 from the Album 'Basilica di S. Pietro in Vaticano'",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "After",
+  "artistDisplayName": "Gian Lorenzo Bernini",
+  "artistDisplayBio": "Italian, Naples 1598–1680 Rome",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bernini, Gian Lorenzo",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1598",
+  "artistEndDate": "1680",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q160538",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500032022",
+  "objectDate": "1653–91",
+  "objectBeginDate": 1653,
+  "objectEndDate": 1691,
+  "medium": "Engraving",
+  "dimensions": "Plate: 26 1/2 x 14 7/16 in. (67.3 x 36.6 cm)\r\nSheet: 29 3/16 x 14 3/8 in. (74.2 x 36.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 74.2,
+        "Width": 36.5
+      }
+    },
+    {
+      "elementName": "Plate",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 67.3,
+        "Width": 36.6
+      }
+    }
+  ],
+  "creditLine": "Harris Brisbane Dick Fund, 1945",
+  "geographyType": "Published in",
+  "city": "Rome?",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/414596",
+  "tags": [
+    {
+      "term": "Architecture",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300263552",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12271"
+    },
+    {
+      "term": "Angels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+    },
+    {
+      "term": "Cross",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300235443",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q40843"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

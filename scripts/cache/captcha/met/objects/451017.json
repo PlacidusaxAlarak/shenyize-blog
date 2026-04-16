@@ -1,0 +1,105 @@
+{
+  "objectID": 451017,
+  "isHighlight": false,
+  "accessionNumber": "50.23.2",
+  "accessionYear": "1950",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP148341.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP148341.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/is/original/DP148342.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/147004.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/150860.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/sf50-23-2.jpg"
+  ],
+  "constituents": null,
+  "department": "Islamic Art",
+  "objectName": "Folio from an illustrated manuscript",
+  "title": "\"Coffin of Imam 'Ali\", Folio from a Falnama (The Book of Omens) of Ja'far al-Sadiq",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "",
+  "artistPrefix": "",
+  "artistDisplayName": "",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "mid-1550s–early 1560s",
+  "objectBeginDate": 1530,
+  "objectEndDate": 1585,
+  "medium": "Ink, opaque watercolor, and gold on paper",
+  "dimensions": "Painting: H. 22 5/16 in. (56.7 cm)\r\n                W. 16 7/8 in. (42.8 cm)\r\nMat : H. 28 in. (71.1 cm)\r\n         W. 22 in. (55.9 cm)\r\nFrame: H. 30 1/2 in. (77.5 cm)\r\n             W. 24 1/2 in. (62.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Mat",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 71.12014,
+        "Width": 55.88011
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "Painting",
+      "elementMeasurements": {
+        "Height": 56.7,
+        "Width": 42.8
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": "Frame",
+      "elementMeasurements": {
+        "Height": 77.47015,
+        "Width": 62.230125
+      }
+    }
+  ],
+  "creditLine": "Purchase, Francis M. Weld Gift, 1950",
+  "geographyType": "Attributed to",
+  "city": "Qazvin",
+  "state": "",
+  "county": "",
+  "country": "Iran",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Codices",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/451017",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Camels",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250139",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7375"
+    },
+    {
+      "term": "Hills",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008777",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q54050"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

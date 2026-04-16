@@ -1,0 +1,91 @@
+{
+  "objectID": 440847,
+  "isHighlight": false,
+  "accessionNumber": "2010.117",
+  "accessionYear": "2010",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP226424.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP226424.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-2010_117-2.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-2010_117-3.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 161916,
+      "role": "Artist",
+      "name": "Gaetano Gandolfi",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005315",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1491011",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Head of a Bishop",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Gaetano Gandolfi",
+  "artistDisplayBio": "Italian, San Matteo della Decima 1734–1802 Bologna",
+  "artistSuffix": "",
+  "artistAlphaSort": "Gandolfi, Gaetano",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1734",
+  "artistEndDate": "1802",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1491011",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500005315",
+  "objectDate": "ca. 1770",
+  "objectBeginDate": 1765,
+  "objectEndDate": 1775,
+  "medium": "Oil on canvas",
+  "dimensions": "18 3/8 x 14 7/8 in. (46.7 x 37.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 46.672592,
+        "Width": 37.782574
+      }
+    }
+  ],
+  "creditLine": "Purchase, Charles and Jessie Price and Stephen Mazoh Gifts, 2010",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-11-21T10:05:27.96Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/440847",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Bishops",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025756",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q29182"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911920",
+  "isTimelineWork": true,
+  "GalleryNumber": "639"
+}

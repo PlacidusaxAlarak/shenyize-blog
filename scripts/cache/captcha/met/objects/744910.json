@@ -1,0 +1,106 @@
+{
+  "objectID": 744910,
+  "isHighlight": false,
+  "accessionNumber": "2016.360.9",
+  "accessionYear": "2016",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP862846.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP862846.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 187179,
+      "role": "Artist",
+      "name": "Jan van Haelbeeck",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500099754",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21931901",
+      "gender": ""
+    },
+    {
+      "constituentID": 192504,
+      "role": "Artist",
+      "name": "Jean Leclerc IV",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Prints",
+  "title": "Enigmes Joyeuses pour les Bons Esprits, Plate 9",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jan van Haelbeeck",
+  "artistDisplayBio": "Flemish, active Paris (and Copenhagen?), ca. 1600–1630, died Paris, ca. 1630",
+  "artistSuffix": "",
+  "artistAlphaSort": "van Haelbeeck, Jan",
+  "artistNationality": "Flemish",
+  "artistBeginDate": "1595",
+  "artistEndDate": "1635",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q21931901",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500099754",
+  "objectDate": "ca. 1615",
+  "objectBeginDate": 1610,
+  "objectEndDate": 1620,
+  "medium": "Copper engraving",
+  "dimensions": "Sheet: 5 1/16 in. × 6 in. (12.8 × 15.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 12.8,
+        "Width": 15.2
+      }
+    }
+  ],
+  "creditLine": "Mary Oenslager Fund, 2016",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/744910",
+  "tags": [
+    {
+      "term": "Wells",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300006207",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43483"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Buckets",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300045651",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q47107"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

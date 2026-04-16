@@ -1,0 +1,101 @@
+{
+  "objectID": 748313,
+  "isHighlight": false,
+  "accessionNumber": "46.46.452(2)",
+  "accessionYear": "1946",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 94671,
+      "role": "Printmaker",
+      "name": "George August Periam",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 76800,
+      "role": "Printer",
+      "name": "Carlos Alvarado Lang",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500118527",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1042679",
+      "gender": ""
+    },
+    {
+      "constituentID": 76801,
+      "role": "Publisher",
+      "name": "Imprenta Universitaria, Mexico City",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "'The Repulse' a woman spurning the advances of young handsome man",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Printmaker",
+  "artistPrefix": "",
+  "artistDisplayName": "George August Periam",
+  "artistDisplayBio": "Mexican, born England, active 1838–58",
+  "artistSuffix": "",
+  "artistAlphaSort": "Periam, George August",
+  "artistNationality": "Mexican",
+  "artistBeginDate": "1838",
+  "artistEndDate": "1858",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "ca. 1856 [reprinted 1938]",
+  "objectBeginDate": 1851,
+  "objectEndDate": 1938,
+  "medium": "Engraving",
+  "dimensions": "Sheet: 17 5/16 × 12 13/16 in. (44 × 32.5 cm)\r\nImage: 3 15/16 × 2 15/16 in. (10 × 7.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 44,
+        "Width": 32.5
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 10,
+        "Width": 7.5
+      }
+    }
+  ],
+  "creditLine": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1946",
+  "geographyType": "Published in",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "Mexico",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/748313",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

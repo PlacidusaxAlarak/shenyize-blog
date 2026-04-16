@@ -1,0 +1,105 @@
+{
+  "objectID": 82467,
+  "isHighlight": false,
+  "accessionNumber": "C.I.59.26.3a, b",
+  "accessionYear": "1959",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 20807,
+      "role": "Design House",
+      "name": "House of Dior",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500331493",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q542767",
+      "gender": ""
+    },
+    {
+      "constituentID": 161838,
+      "role": "Designer",
+      "name": "Christian Dior",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500073211",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q159694",
+      "gender": ""
+    }
+  ],
+  "department": "Costume Institute",
+  "objectName": "Dress",
+  "title": "\"La Cigale\"",
+  "culture": "French",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Design House",
+  "artistPrefix": "",
+  "artistDisplayName": "House of Dior",
+  "artistDisplayBio": "French, founded 1946",
+  "artistSuffix": "",
+  "artistAlphaSort": "Dior, House of",
+  "artistNationality": "French",
+  "artistBeginDate": "1946",
+  "artistEndDate": "9999",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q542767",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500331493",
+  "objectDate": "fall/winter 1952–53",
+  "objectBeginDate": 1952,
+  "objectEndDate": 1953,
+  "medium": "cotton/rayon/acetate blend",
+  "dimensions": "",
+  "measurements": [
+    {
+      "elementName": "Other",
+      "elementDescription": "Waist",
+      "elementMeasurements": {
+        "Length": 71.1201
+      }
+    },
+    {
+      "elementName": "Length",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Length": 111.7602
+      }
+    },
+    {
+      "elementName": "Length at CB",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Length": 119.3802
+      }
+    },
+    {
+      "elementName": "Width",
+      "elementDescription": "a",
+      "elementMeasurements": {
+        "Width": 396.2408
+      }
+    }
+  ],
+  "creditLine": "Gift of Irene Stone, in memory of her daughter, Mrs. Ethel S. Greene, 1959",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/82467",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

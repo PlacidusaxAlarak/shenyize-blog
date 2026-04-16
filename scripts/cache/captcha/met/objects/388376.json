@@ -1,0 +1,99 @@
+{
+  "objectID": 388376,
+  "isHighlight": true,
+  "accessionNumber": "18.13.5",
+  "accessionYear": "1918",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP816472.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP816472.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161857,
+      "role": "Artist",
+      "name": "Albrecht Dürer",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+      "gender": ""
+    },
+    {
+      "constituentID": 162059,
+      "role": "Artist",
+      "name": "After Leonardo da Vinci",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010879",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q762",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Collection Ornament & Architecture",
+  "title": "Embroidery Pattern with Seven Six-pointed Stars and Four Corner Pieces",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Albrecht Dürer",
+  "artistDisplayBio": "German, Nuremberg 1471–1528 Nuremberg",
+  "artistSuffix": "",
+  "artistAlphaSort": "Dürer, Albrecht",
+  "artistNationality": "German",
+  "artistBeginDate": "1471",
+  "artistEndDate": "1528",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+  "objectDate": "before 1521",
+  "objectBeginDate": 1500,
+  "objectEndDate": 1521,
+  "medium": "Woodcut",
+  "dimensions": "sheet: 12 7/8 x 10 1/8 in. (32.7 x 25.7 cm)\r\nimage: 10 9/16 x 8 1/4 in. (26.8 x 21 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 32.702564,
+        "Width": 25.717552
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 26.8,
+        "Width": 21
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1918",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-10-07T04:53:32.167Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/388376",
+  "tags": [
+    {
+      "term": "Ornament",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300164595",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q335261"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

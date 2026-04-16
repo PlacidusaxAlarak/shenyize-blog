@@ -1,0 +1,113 @@
+{
+  "objectID": 193609,
+  "isHighlight": false,
+  "accessionNumber": "17.190.639",
+  "accessionYear": "1917",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP340468.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP340468.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP340913.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP340912.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 188885,
+      "role": "Maker",
+      "name": "Movement attributed to Master CR",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 73634,
+      "role": "Artist",
+      "name": "Stem and foot probably cast from designs by Matthias Zündt",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500328603",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q6791628",
+      "gender": ""
+    },
+    {
+      "constituentID": 163130,
+      "role": "Artist",
+      "name": "Band of case from design by Cornelis Bos",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028261",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5171219",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Mirror clock",
+  "title": "Mirror clock",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Maker",
+  "artistPrefix": "Movement attributed to",
+  "artistDisplayName": "Master CR",
+  "artistDisplayBio": "probably active before 1565",
+  "artistSuffix": "",
+  "artistAlphaSort": "CR Master",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "1565",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "ca. 1565–70",
+  "objectBeginDate": 1560,
+  "objectEndDate": 1575,
+  "medium": "Case: gilded brass and gilded copper; Dial: gilded brass; Movement: plated frame of iron, iron wheels",
+  "dimensions": "Overall: 16 × 6 1/4 × 1 1/4 in. (40.6 × 15.9 × 3.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 3.1750064,
+        "Height": 40.64008,
+        "Width": 15.875031
+      }
+    }
+  ],
+  "creditLine": "Gift of J. Pierpont Morgan, 1917",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Horology",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-11-21T10:05:27.96Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/193609",
+  "tags": [
+    {
+      "term": "Dragons",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300375726",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7559"
+    },
+    {
+      "term": "Sphinx",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300375739",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q151480"
+    },
+    {
+      "term": "Satyrs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379732",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q163709"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": true,
+  "GalleryNumber": "520"
+}

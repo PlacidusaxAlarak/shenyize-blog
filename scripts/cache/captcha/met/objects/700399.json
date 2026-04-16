@@ -1,0 +1,96 @@
+{
+  "objectID": 700399,
+  "isHighlight": false,
+  "accessionNumber": "1977.617.4",
+  "accessionYear": "1977",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP855566.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP855566.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 76469,
+      "role": "Artist",
+      "name": "Anonymous, French, 17th century",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 98988,
+      "role": "Publisher",
+      "name": "Pierre Firens I",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500065738",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q31106834",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print, Fete, Ornament & Architecture",
+  "title": "Funeral effigy of Henry IV, King of France",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Anonymous, French, 17th century",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "Anonymous, French, 17th century",
+  "artistNationality": "French",
+  "artistBeginDate": "1600",
+  "artistEndDate": "1700",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "1610",
+  "objectBeginDate": 1610,
+  "objectEndDate": 1610,
+  "medium": "Etching",
+  "dimensions": "Sheet (Trimmed): 8 5/16 × 5 3/8 in. (21.1 × 13.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": "Trimmed",
+      "elementMeasurements": {
+        "Height": 21.1,
+        "Width": 13.7
+      }
+    }
+  ],
+  "creditLine": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1977",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/700399",
+  "tags": [
+    {
+      "term": "Kings",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025481",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12097"
+    },
+    {
+      "term": "Coat of Arms",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300126352",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q14659"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

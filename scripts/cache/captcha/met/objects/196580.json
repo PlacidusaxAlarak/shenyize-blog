@@ -1,0 +1,83 @@
+{
+  "objectID": 196580,
+  "isHighlight": false,
+  "accessionNumber": "30.93.2",
+  "accessionYear": "1930",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP106677.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP106677.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP106678.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP106679.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP106680.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP106681.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 45069,
+      "role": "Maker",
+      "name": "Attributed to the Workshop of Giuliano da Maiano (1432–1490) and Benedetto da Maiano (1442–1497)",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Chair",
+  "title": "Chair (Sgabello)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Maker",
+  "artistPrefix": "Attributed to the",
+  "artistDisplayName": "Workshop of Giuliano da Maiano (1432–1490) and Benedetto da Maiano (1442–1497)",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "Workshop of Giuliano da Maiano and Benedetto da Maiano",
+  "artistNationality": "",
+  "artistBeginDate": "1432",
+  "artistEndDate": "1497",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "ca. 1489–91",
+  "objectBeginDate": 1484,
+  "objectEndDate": 1496,
+  "medium": "Walnut, maple, ebony; ebonized wood, and fruitwood; traces of gilding and red paint",
+  "dimensions": "H. 58 x W. 16-3/4 x D. 16-1/2 in.  (147.3 x 42.5 x 41.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 41.9,
+        "Height": 147.3,
+        "Width": 42.5
+      }
+    }
+  ],
+  "creditLine": "Fletcher Fund, 1930",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Woodwork-Furniture",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-02-07T04:53:29.613Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/196580",
+  "tags": null,
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116310632",
+  "isTimelineWork": true,
+  "GalleryNumber": "500"
+}

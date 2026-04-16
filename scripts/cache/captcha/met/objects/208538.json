@@ -1,0 +1,102 @@
+{
+  "objectID": 208538,
+  "isHighlight": false,
+  "accessionNumber": "1996.7",
+  "accessionYear": "1996",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP236917.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP236917.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP237217.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP237216.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP237218.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 169986,
+      "role": "Artist",
+      "name": "Unknown",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500125274",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q24238356",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Bust",
+  "title": "Alexander Danilovich Menshikov (1673–1729)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Unknown",
+  "artistDisplayBio": "",
+  "artistSuffix": "Artist, Swiss, Austrian, or German, active Russia ca. 1703–4",
+  "artistAlphaSort": "Unknown",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q24238356",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500125274",
+  "objectDate": "probably shortly before 1704",
+  "objectBeginDate": 1685,
+  "objectEndDate": 1704,
+  "medium": "Red pine (pinus sylvestris), with wrought-iron clips",
+  "dimensions": "Overall (confirmed): 31 × 19 3/8 × 12 1/2 in. (78.7 × 49.2 × 31.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "historic dimensions, superceded",
+      "elementMeasurements": {
+        "Depth": 30.4801,
+        "Height": 78.4,
+        "Width": 48.2601
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "confirmed",
+      "elementMeasurements": {
+        "Depth": 31.750063,
+        "Height": 78.74016,
+        "Width": 49.212597
+      }
+    }
+  ],
+  "creditLine": "Wrightsman Fund, 1996",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Sculpture",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-11-21T10:05:27.96Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/208538",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116373917",
+  "isTimelineWork": true,
+  "GalleryNumber": "551"
+}

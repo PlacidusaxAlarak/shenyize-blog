@@ -1,0 +1,91 @@
+{
+  "objectID": 49645,
+  "isHighlight": false,
+  "accessionNumber": "1986.267.209",
+  "accessionYear": "1986",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 11710,
+      "role": "Artist",
+      "name": "Qi Baishi",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500125676",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q369608",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Hanging scroll",
+  "title": "Scuttling Crab",
+  "culture": "China",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Qi Baishi",
+  "artistDisplayBio": "Chinese, 1864–1957",
+  "artistSuffix": "",
+  "artistAlphaSort": "QI BAISHI",
+  "artistNationality": "Chinese",
+  "artistBeginDate": "1864",
+  "artistEndDate": "1957",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q369608",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500125676",
+  "objectDate": "dated 1919",
+  "objectBeginDate": 1919,
+  "objectEndDate": 1919,
+  "medium": "Hanging scroll; ink on paper",
+  "dimensions": "20 1/4 x 14 7/16 in. (51.4 x 36.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Other",
+      "elementDescription": "mounting/knobs",
+      "elementMeasurements": {
+        "Height": 157.2,
+        "Width": 59.7
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 51.4,
+        "Width": 36.7
+      }
+    }
+  ],
+  "creditLine": "Gift of Robert Hatfield Ellsworth, in memory of La Ferne Hatfield Ellsworth, 1986",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-11-13T04:51:50.813Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/49645",
+  "tags": [
+    {
+      "term": "Crabs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300249722",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q16033394"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

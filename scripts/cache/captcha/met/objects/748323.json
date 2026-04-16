@@ -1,0 +1,101 @@
+{
+  "objectID": 748323,
+  "isHighlight": false,
+  "accessionNumber": "46.46.452(4)",
+  "accessionYear": "1946",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 197527,
+      "role": "Printmaker",
+      "name": "Luis G. Campa",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 76800,
+      "role": "Printer",
+      "name": "Carlos Alvarado Lang",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500118527",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1042679",
+      "gender": ""
+    },
+    {
+      "constituentID": 76801,
+      "role": "Publisher",
+      "name": "Imprenta Universitaria, Mexico City",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "The ecstacy of St Francis, set within a decorative frame",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Printmaker",
+  "artistPrefix": "",
+  "artistDisplayName": "Luis G. Campa",
+  "artistDisplayBio": "Mexican, fl. ca. 1850s",
+  "artistSuffix": "",
+  "artistAlphaSort": "Campa, Luis G.",
+  "artistNationality": "Mexican",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "1859 [reprinted 1938]",
+  "objectBeginDate": 1859,
+  "objectEndDate": 1859,
+  "medium": "Engraving",
+  "dimensions": "Sheet: 17 5/16 × 12 13/16 in. (44 × 32.5 cm)\r\nImage: 9 1/4 × 7 3/16 in. (23.5 × 18.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 44,
+        "Width": 32.5
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 23.5,
+        "Width": 18.3
+      }
+    }
+  ],
+  "creditLine": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1946",
+  "geographyType": "Published in",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "Mexico",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/748323",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

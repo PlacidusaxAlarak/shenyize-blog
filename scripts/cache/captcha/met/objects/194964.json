@@ -1,0 +1,94 @@
+{
+  "objectID": 194964,
+  "isHighlight": false,
+  "accessionNumber": "23.31.8, .9",
+  "accessionYear": "1923",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP339374.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP339374.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP339375.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP339373.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP340573.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 163908,
+      "role": "Manufactory",
+      "name": "Haviland &amp; Co.",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500524349",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3128706",
+      "gender": ""
+    },
+    {
+      "constituentID": 161766,
+      "role": "Factory director",
+      "name": "Under the technical direction of Ernest Chaplet",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500059181",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3056883",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Vases",
+  "title": "Pair of vases",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Manufactory",
+  "artistPrefix": "",
+  "artistDisplayName": "Haviland & Co.",
+  "artistDisplayBio": "American and French, 1864–1931",
+  "artistSuffix": "",
+  "artistAlphaSort": "Haviland & Co.",
+  "artistNationality": "American and French",
+  "artistBeginDate": "1864",
+  "artistEndDate": "1931",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3128706",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500524349",
+  "objectDate": "ca. 1884–86",
+  "objectBeginDate": 1879,
+  "objectEndDate": 1889,
+  "medium": "Hard-paste porcelain",
+  "dimensions": "Height (each): 9 3/4 in. (24.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Height",
+      "elementDescription": "each",
+      "elementMeasurements": {
+        "Height": 24.765049
+      }
+    }
+  ],
+  "creditLine": "Gift of George Haviland, 1923",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Ceramics-Porcelain",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-31T04:54:36.6Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/194964",
+  "tags": [
+    {
+      "term": "Flowers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

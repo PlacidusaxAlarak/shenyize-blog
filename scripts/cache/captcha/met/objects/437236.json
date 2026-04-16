@@ -1,0 +1,91 @@
+{
+  "objectID": 437236,
+  "isHighlight": false,
+  "accessionNumber": "17.190.22",
+  "accessionYear": "1917",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-26281-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-26281-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-17_190_22-IRR.jpg",
+    "https://images.metmuseum.org/CRDImages/ep/original/LC-17_190_22-XRAY.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 109725,
+      "role": "Artist",
+      "name": "Albert van Ouwater",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009673",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q163420",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting fragment",
+  "title": "Head of a Donor",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Albert van Ouwater",
+  "artistDisplayBio": "Netherlandish, ca. 1410/15–1475",
+  "artistSuffix": "",
+  "artistAlphaSort": "Ouwater, Albert van",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1410",
+  "artistEndDate": "1475",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q163420",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500009673",
+  "objectDate": "ca. 1465–70",
+  "objectBeginDate": 1455,
+  "objectEndDate": 1470,
+  "medium": "Oil on wood",
+  "dimensions": "3 7/8 x 3 1/2 in. (9.8 x 8.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 9.8,
+        "Width": 8.9
+      }
+    }
+  ],
+  "creditLine": "Gift of J. Pierpont Morgan, 1917",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-02-07T04:59:02.893Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/437236",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911563",
+  "isTimelineWork": false,
+  "GalleryNumber": "602"
+}

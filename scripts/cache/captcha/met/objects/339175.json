@@ -1,0 +1,101 @@
+{
+  "objectID": 339175,
+  "isHighlight": false,
+  "accessionNumber": "1975.96",
+  "accessionYear": "1975",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP808132.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP808132.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 73759,
+      "role": "Artist",
+      "name": "Attributed to Giovanni Francesco Melzi",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020383",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q469379",
+      "gender": ""
+    },
+    {
+      "constituentID": 162059,
+      "role": "Artist",
+      "name": "After Leonardo da Vinci",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010879",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q762",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "A Grotesque Couple: Old Woman with an Elaborate Headdress and \r\nOld Man with Large Ears and Lacking a Chin",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Attributed to",
+  "artistDisplayName": "Giovanni Francesco Melzi",
+  "artistDisplayBio": "Italian, Milan 1491/93–ca. 1570 Vaprio d'Adda",
+  "artistSuffix": "",
+  "artistAlphaSort": "Melzi, Giovanni Francesco",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1491",
+  "artistEndDate": "1570",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q469379",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500020383",
+  "objectDate": "1491/93–1570",
+  "objectBeginDate": 1491,
+  "objectEndDate": 1570,
+  "medium": "Pen and brown ink",
+  "dimensions": "2-1/8 x 3-7/8 in.  (5.4 x 9.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 5.4,
+        "Width": 9.9
+      }
+    }
+  ],
+  "creditLine": "Gift of Mrs. Edward Fowles, in memory of Edward Fowles, 1975",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-10-07T04:53:32.167Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/339175",
+  "tags": [
+    {
+      "term": "Couples",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379217",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q219160"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

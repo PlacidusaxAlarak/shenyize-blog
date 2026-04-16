@@ -1,0 +1,91 @@
+{
+  "objectID": 301900,
+  "isHighlight": false,
+  "accessionNumber": "2012.115",
+  "accessionYear": "2012",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 163384,
+      "role": "Artist",
+      "name": "Pol Bury",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008200",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q492909",
+      "gender": ""
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "Chicago",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Pol Bury",
+  "artistDisplayBio": "Belgian, Haine-Saint-Pierre 1922–2005 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bury, Pol",
+  "artistNationality": "Belgian",
+  "artistBeginDate": "1922",
+  "artistEndDate": "2005",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q492909",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500008200",
+  "objectDate": "ca. 1969",
+  "objectBeginDate": 1964,
+  "objectEndDate": 1974,
+  "medium": "Gelatin silver print",
+  "dimensions": "Sheet: 29.6 x 15.5 cm (11 5/8 x 6 1/8 in.)\r\nMount: 40 x 30.1 cm (15 3/4 x 11 7/8 in.)",
+  "measurements": [
+    {
+      "elementName": "Mount",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 40,
+        "Width": 30.1
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 29.6,
+        "Width": 15.5
+      }
+    }
+  ],
+  "creditLine": "Twentieth-Century Photography Fund, 2012",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "© 2026 Artists Rights Society (ARS), New York",
+  "linkResource": "",
+  "metadataDate": "2026-01-07T04:49:48.69Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/301900",
+  "tags": [
+    {
+      "term": "Buildings",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

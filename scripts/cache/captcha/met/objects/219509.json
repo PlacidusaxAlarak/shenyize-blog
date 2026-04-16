@@ -1,0 +1,86 @@
+{
+  "objectID": 219509,
+  "isHighlight": false,
+  "accessionNumber": "13.109",
+  "accessionYear": "1913",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP158555.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP158555.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP158556.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP158557.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 46276,
+      "role": "Maker",
+      "name": "Mary Pots",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": "Female"
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Sampler",
+  "title": "Embroidered band sampler",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Maker",
+  "artistPrefix": "",
+  "artistDisplayName": "Mary Pots",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "Pots Mary",
+  "artistNationality": "",
+  "artistBeginDate": "1600",
+  "artistEndDate": "1700",
+  "artistGender": "Female",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "1648",
+  "objectBeginDate": 1648,
+  "objectEndDate": 1648,
+  "medium": "Silk embroidery on linen; double running, satin, detached buttonhole, Montenegrin cross, herringbone, and chain stitches",
+  "dimensions": "L. 34 1/2 x W. 8 1/4 inches (87.6 x 21 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 87.63017,
+        "Width": 20.955042
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1913",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Textiles-Embroidered",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-31T04:54:36.6Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/219509",
+  "tags": [
+    {
+      "term": "Flowers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,116 @@
+{
+  "objectID": 453367,
+  "isHighlight": false,
+  "accessionNumber": "1996.98a",
+  "accessionYear": "1996",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP234016.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP234016.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/is/original/sf1996-98a.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/DT4001.jpg",
+    "https://images.metmuseum.org/CRDImages/is/original/1996.98.JPG"
+  ],
+  "constituents": [
+    {
+      "constituentID": 130228,
+      "role": "Artist",
+      "name": "Painting attributed to Bichitr",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500336838",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q856754",
+      "gender": ""
+    }
+  ],
+  "department": "Islamic Art",
+  "objectName": "Illustrated album leaf",
+  "title": "Portrait of the Elephant  'Alam Guman",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Painting attributed to",
+  "artistDisplayName": "Bichitr",
+  "artistDisplayBio": "Indian, active ca. 1610–60",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bichitr",
+  "artistNationality": "Indian",
+  "artistBeginDate": "1585",
+  "artistEndDate": "1685",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q856754",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500336838",
+  "objectDate": "ca. 1640",
+  "objectBeginDate": 1615,
+  "objectEndDate": 1665,
+  "medium": "Opaque watercolor and gold on paper",
+  "dimensions": "Whole page a:\r\n                      H. 18 1/8 in. (46 cm)\r\n                      W. 12 5/8 in. (32 cm)\r\nWhole page b:\r\n                      H. 18.1/8 in. (46 cm)\r\n                      W. 12 5/8 in. (32 cm)\r\nCalligraphy page:\r\n                      H. 73/4 in. (19.6 cm)\r\n                      W. 3 1/16 in. (7.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Other",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 19.6,
+        "Width": 7.6
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 46,
+        "Width": 32
+      }
+    },
+    {
+      "elementName": "Other",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 46,
+        "Width": 32
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 46,
+        "Width": 32.1
+      }
+    }
+  ],
+  "creditLine": "Harris Brisbane Dick Fund, 1996",
+  "geographyType": "Made in",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "India",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Codices",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/453367",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Elephants",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250160",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7378"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

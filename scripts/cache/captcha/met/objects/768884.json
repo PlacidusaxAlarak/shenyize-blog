@@ -1,0 +1,91 @@
+{
+  "objectID": 768884,
+  "isHighlight": false,
+  "accessionNumber": "2017.728a, b",
+  "accessionYear": "2017",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 20161,
+      "role": "Design House",
+      "name": "Comme des Garçons",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500404094",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1115170",
+      "gender": ""
+    },
+    {
+      "constituentID": 20160,
+      "role": "Designer",
+      "name": "Rei Kawakubo",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017874",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q268033",
+      "gender": "Female"
+    }
+  ],
+  "department": "Costume Institute",
+  "objectName": "Ensemble",
+  "title": "Ensemble",
+  "culture": "Japanese",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Design House",
+  "artistPrefix": "",
+  "artistDisplayName": "Comme des Garçons",
+  "artistDisplayBio": "Japanese, founded 1969",
+  "artistSuffix": "",
+  "artistAlphaSort": "Comme des Garçons",
+  "artistNationality": "Japanese",
+  "artistBeginDate": "1969",
+  "artistEndDate": "9999",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1115170",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500404094",
+  "objectDate": "spring/summer 1991",
+  "objectBeginDate": 1991,
+  "objectEndDate": 1991,
+  "medium": "polyester",
+  "dimensions": "",
+  "measurements": [
+    {
+      "elementName": "Length at CB",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Length": 76.20015
+      }
+    },
+    {
+      "elementName": "Length at CB",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Length": 57.150116
+      }
+    }
+  ],
+  "creditLine": "Purchase, Funds from various donors, by exchange, 2017",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/768884",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

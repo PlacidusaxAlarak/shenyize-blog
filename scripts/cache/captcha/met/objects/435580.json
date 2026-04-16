@@ -1,0 +1,92 @@
+{
+  "objectID": 435580,
+  "isHighlight": false,
+  "accessionNumber": "32.100.82",
+  "accessionYear": "1932",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT285189.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT285189.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 107311,
+      "role": "Artist",
+      "name": "Antonello da Messina (Antonello di Giovanni d&#39;Antonio)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007324",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5594",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "Christ Crowned with Thorns",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Antonello da Messina (Antonello di Giovanni d'Antonio)",
+  "artistDisplayBio": "Italian, Messina ca. 1430–1479 Messina",
+  "artistSuffix": "",
+  "artistAlphaSort": "Antonello da Messina (Antonello di Giovanni d'Antonio)",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1430",
+  "artistEndDate": "1479",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5594",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500007324",
+  "objectDate": "",
+  "objectBeginDate": 1450,
+  "objectEndDate": 1479,
+  "medium": "Oil, possibly over tempera, on wood",
+  "dimensions": "16 3/4 x 12 in. (42.5 x 30.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 42.5,
+        "Width": 30.5
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 12.7,
+        "Height": 71.7551,
+        "Width": 55.8801
+      }
+    }
+  ],
+  "creditLine": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-03-05T04:55:54.84Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435580",
+  "tags": [
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911551",
+  "isTimelineWork": true,
+  "GalleryNumber": "605"
+}

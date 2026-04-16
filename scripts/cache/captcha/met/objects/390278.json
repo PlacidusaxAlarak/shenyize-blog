@@ -1,0 +1,93 @@
+{
+  "objectID": 390278,
+  "isHighlight": false,
+  "accessionNumber": "2018.839.48",
+  "accessionYear": "2018",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP880541.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP880541.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 69141,
+      "role": "Artist",
+      "name": "After Michelangelo Pergolesi",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500096147",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q6828221",
+      "gender": ""
+    },
+    {
+      "constituentID": 103704,
+      "role": "Publisher",
+      "name": "Dulouchamp",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print; Ornament and architecture",
+  "title": "Varieties of Leaf Ornament, nos. CCCCLV–CCCCLIX, plate 68 from \"Designs for Various Ornaments\"",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "Designs for Various Ornaments",
+  "artistRole": "Artist",
+  "artistPrefix": "After",
+  "artistDisplayName": "Michelangelo Pergolesi",
+  "artistDisplayBio": "Italian, active from 1760–died 1801",
+  "artistSuffix": "",
+  "artistAlphaSort": "Pergolesi, Michelangelo",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1760",
+  "artistEndDate": "1801",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q6828221",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500096147",
+  "objectDate": "1801",
+  "objectBeginDate": 1801,
+  "objectEndDate": 1801,
+  "medium": "Etching",
+  "dimensions": "Plate: 17 15/16 × 11 5/16 in. (45.5 × 28.8 cm)\r\nSheet: 21 1/4 × 14 15/16 in. (54 × 37.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 54,
+        "Width": 37.9
+      }
+    },
+    {
+      "elementName": "Plate",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 45.5,
+        "Width": 28.8
+      }
+    }
+  ],
+  "creditLine": "Bequest of Herbert Mitchell, 2008",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/390278",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

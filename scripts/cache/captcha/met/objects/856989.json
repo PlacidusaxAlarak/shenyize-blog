@@ -1,0 +1,103 @@
+{
+  "objectID": 856989,
+  "isHighlight": false,
+  "accessionNumber": "2022.162",
+  "accessionYear": "2022",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 218394,
+      "role": "Artist",
+      "name": "Archibald J. Motley, Jr.",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500097988",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q4786462",
+      "gender": ""
+    }
+  ],
+  "department": "Modern and Contemporary Art",
+  "objectName": "Painting",
+  "title": "Uncle Bob",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Archibald J. Motley, Jr.",
+  "artistDisplayBio": "American, New Orleans, Louisiana 1891–1981 Chicago, Illinois",
+  "artistSuffix": "",
+  "artistAlphaSort": "Motley, Jr., Archibald J.",
+  "artistNationality": "American",
+  "artistBeginDate": "1891",
+  "artistEndDate": "1981",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q4786462",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500097988",
+  "objectDate": "1928",
+  "objectBeginDate": 1928,
+  "objectEndDate": 1928,
+  "medium": "Oil on canvas",
+  "dimensions": "40 1/4 in. × 36 in. (102.2 × 91.4 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 2.2225044,
+        "Height": 102.23521,
+        "Width": 91.440186
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": "F.2022.162 Brown wood -NO plexi",
+      "elementMeasurements": {
+        "Depth": 4.1910086,
+        "Height": 115.57023,
+        "Width": 104.77521
+      }
+    }
+  ],
+  "creditLine": "Purchase, George A. Hearn Fund, The Ford Foundation and Lila Acheson Wallace Gifts, and funds from various donors, 2022",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "© Estate of Archibald John Motley Jr. All reserved rights 2023 / Bridgeman Images",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/856989",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    },
+    {
+      "term": "Pipes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300248067",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q104526"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116445631",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

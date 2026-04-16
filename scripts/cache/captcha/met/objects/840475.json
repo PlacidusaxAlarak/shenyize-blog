@@ -1,0 +1,101 @@
+{
+  "objectID": 840475,
+  "isHighlight": false,
+  "accessionNumber": "2020.111.1–.5",
+  "accessionYear": "2020",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 151891,
+      "role": "Artist",
+      "name": "Julie Mehretu",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500122539",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q447568",
+      "gender": "Female"
+    },
+    {
+      "constituentID": 104476,
+      "role": "Printer",
+      "name": "Gregory Burnet",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 189395,
+      "role": "Publisher",
+      "name": "Burnet Editions",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Algorithms / Apparitions / Translations",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Julie Mehretu",
+  "artistDisplayBio": "American, born Addis Ababa, Ethiopia, 1970",
+  "artistSuffix": "",
+  "artistAlphaSort": "Mehretu, Julie",
+  "artistNationality": "American, born Ethiopia",
+  "artistBeginDate": "1970",
+  "artistEndDate": "9999",
+  "artistGender": "Female",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q447568",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500122539",
+  "objectDate": "2013",
+  "objectBeginDate": 2013,
+  "objectEndDate": 2013,
+  "medium": "Etching with aquatint, spitbite, softground, hardground, drypoint, engraving, and pochoir",
+  "dimensions": "Sheet: 31 1/4 × 37 1/4 in. (79.4 × 94.6 cm)\r\nPlate: 23 × 30 in. (58.4 × 76.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Plate",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 58.420116,
+        "Width": 76.20015
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 79.37516,
+        "Width": 94.61519
+      }
+    }
+  ],
+  "creditLine": "John B. Turner Fund, 2020",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "© Julie Mehretu",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/840475",
+  "tags": null,
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q96635190",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

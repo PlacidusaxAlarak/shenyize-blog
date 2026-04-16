@@ -1,0 +1,99 @@
+{
+  "objectID": 283326,
+  "isHighlight": false,
+  "accessionNumber": "1999.345",
+  "accessionYear": "1999",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 58753,
+      "role": "Artist",
+      "name": "Craig Kalpakjian",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500330059",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q43132254",
+      "gender": ""
+    },
+    {
+      "constituentID": 55959,
+      "role": "Maker",
+      "name": "Framed by Bark Frameworks",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "Corridor",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Craig Kalpakjian",
+  "artistDisplayBio": "American, born 1961",
+  "artistSuffix": "",
+  "artistAlphaSort": "Kalpakjian, Craig",
+  "artistNationality": "American",
+  "artistBeginDate": "1961",
+  "artistEndDate": "9999",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q43132254",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500330059",
+  "objectDate": "1997",
+  "objectBeginDate": 1997,
+  "objectEndDate": 1997,
+  "medium": "Silver dye bleach print",
+  "dimensions": "74.9 x 100.3cm (29 1/2 x 39 1/2in.)\r\nFrame: 35 × 45 in. (88.9 × 114.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 74.9,
+        "Width": 100.3
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 88.90018,
+        "Width": 114.30023
+      }
+    }
+  ],
+  "creditLine": "Gift of the artist, Sarah Wittenborn Miller, and Robert Miller, 1999",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "© Craig Kalpakjian",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/283326",
+  "tags": [
+    {
+      "term": "Interiors",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

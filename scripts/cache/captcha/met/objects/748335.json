@@ -1,0 +1,109 @@
+{
+  "objectID": 748335,
+  "isHighlight": false,
+  "accessionNumber": "46.46.452(11)",
+  "accessionYear": "1946",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 197529,
+      "role": "Printmaker",
+      "name": "Buenaventura Enciso",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 197531,
+      "role": "Artist",
+      "name": "After Manuel Vilar",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500039481",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q9028220",
+      "gender": ""
+    },
+    {
+      "constituentID": 76800,
+      "role": "Printer",
+      "name": "Carlos Alvarado Lang",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500118527",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1042679",
+      "gender": ""
+    },
+    {
+      "constituentID": 76801,
+      "role": "Publisher",
+      "name": "Imprenta Universitaria, Mexico City",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "A sculpture showing Saint Carlo embracing a child",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Printmaker",
+  "artistPrefix": "",
+  "artistDisplayName": "Buenaventura Enciso",
+  "artistDisplayBio": "Mexican, fl. ca. 1850s–1860s",
+  "artistSuffix": "",
+  "artistAlphaSort": "Enciso, Buenaventura",
+  "artistNationality": "Mexican",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "ca. 1865 [reprinted 1938]",
+  "objectBeginDate": 1865,
+  "objectEndDate": 1865,
+  "medium": "Engraving",
+  "dimensions": "Sheet: 17 5/16 × 12 13/16 in. (44 × 32.5 cm)\r\nImage: 9 13/16 × 3 9/16 in. (25 × 9 cm)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 25,
+        "Width": 9
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 44,
+        "Width": 32.5
+      }
+    }
+  ],
+  "creditLine": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1946",
+  "geographyType": "Published in",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "Mexico",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/748335",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

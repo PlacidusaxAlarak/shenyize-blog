@@ -1,0 +1,96 @@
+{
+  "objectID": 200554,
+  "isHighlight": false,
+  "accessionNumber": "49.7.59a, b",
+  "accessionYear": "1949",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-263-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP-263-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP-263-002-JPG TMS 4000px 300dpi.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP-263-004-JPG TMS 4000px 300dpi.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP-263-003-JPG TMS 4000px 300dpi.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/215146.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 161722,
+      "role": "Artist",
+      "name": "Possibly workshop of Andrea Briosco, called Riccio",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025246",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q283580",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Statuette group",
+  "title": "Triton and Nereid",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Possibly workshop of",
+  "artistDisplayName": "Andrea Briosco, called Riccio",
+  "artistDisplayBio": "Italian, Trent 1470–1532 Padua",
+  "artistSuffix": "",
+  "artistAlphaSort": "Briosco, Andrea, called Riccio",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1470",
+  "artistEndDate": "1532",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q283580",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500025246",
+  "objectDate": "after 1532–before ca. 1550",
+  "objectBeginDate": 1532,
+  "objectEndDate": 1555,
+  "medium": "Bronze",
+  "dimensions": "Overall (confirmed): 8 5/8 × 4 3/8 × 6 1/8 in. (21.9 × 11.1 × 15.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Height",
+      "elementDescription": "without base",
+      "elementMeasurements": {
+        "Height": 22.225044
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "confirmed",
+      "elementMeasurements": {
+        "Depth": 15.557531,
+        "Height": 21.907543,
+        "Width": 11.112522
+      }
+    }
+  ],
+  "creditLine": "The Jules Bache Collection, 1949",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Sculpture-Bronze",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-31T04:54:36.6Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/200554",
+  "tags": [
+    {
+      "term": "Triton",
+      "AAT_URL": null,
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q148030"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116308635",
+  "isTimelineWork": false,
+  "GalleryNumber": "536"
+}

@@ -1,0 +1,91 @@
+{
+  "objectID": 88535,
+  "isHighlight": false,
+  "accessionNumber": "2004.154a–c",
+  "accessionYear": "2004",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 206689,
+      "role": "Design House",
+      "name": "John Galliano",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 20214,
+      "role": "Designer",
+      "name": "John Galliano",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500332093",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q313607",
+      "gender": ""
+    }
+  ],
+  "department": "Costume Institute",
+  "objectName": "Ensemble",
+  "title": "Ensemble",
+  "culture": "British",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Design House",
+  "artistPrefix": "",
+  "artistDisplayName": "John Galliano",
+  "artistDisplayBio": "founded 1984",
+  "artistSuffix": "",
+  "artistAlphaSort": "John Galliano",
+  "artistNationality": "",
+  "artistBeginDate": "1984",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "spring/summer 2001",
+  "objectBeginDate": 2001,
+  "objectEndDate": 2001,
+  "medium": "a) polyester, viscose/synthetic blend, cotton; b,c) leather, synthetic, cotton",
+  "dimensions": "",
+  "measurements": [
+    {
+      "elementName": "Heel to Toe",
+      "elementDescription": "b,c",
+      "elementMeasurements": {
+        "Length": 31.7501
+      }
+    },
+    {
+      "elementName": "Length at Side Seam",
+      "elementDescription": "a",
+      "elementMeasurements": {
+        "Length": 115.5702
+      }
+    }
+  ],
+  "creditLine": "Gift of John Galliano S.A., 2004",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-03-25T04:56:54.88Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/88535",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

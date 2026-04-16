@@ -1,0 +1,96 @@
+{
+  "objectID": 466293,
+  "isHighlight": false,
+  "accessionNumber": "1996.581",
+  "accessionYear": "1996",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/cl/original/DT4118.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/cl/web-large/DT4118.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/cl/original/LC-1996_581.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 138837,
+      "role": "Artist",
+      "name": "Follower of the Master of the Lorsch Calvary",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "The Cloisters",
+  "objectName": "Relief",
+  "title": "The Road to Calvary",
+  "culture": "German",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Follower of the",
+  "artistDisplayName": "Master of the Lorsch Calvary",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "Master of the Lorsch Calvary",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "ca. 1440",
+  "objectBeginDate": 1437,
+  "objectEndDate": 1443,
+  "medium": "Alabaster",
+  "dimensions": "7 3/8 × 11 7/16 × 13/16 in. (18.8 × 29 × 2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 2,
+        "Height": 18.8,
+        "Width": 29
+      }
+    }
+  ],
+  "creditLine": "The Cloisters Collection, 1996",
+  "geographyType": "Made in",
+  "city": "",
+  "state": "Middle Rhineland",
+  "county": "",
+  "country": "Germany",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Sculpture-Stone",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-02-07T04:59:02.893Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/466293",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Bearing the Cross",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901001193",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3399226"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116243794",
+  "isTimelineWork": true,
+  "GalleryNumber": "016"
+}

@@ -1,0 +1,109 @@
+{
+  "objectID": 748414,
+  "isHighlight": false,
+  "accessionNumber": "46.46.452(19)",
+  "accessionYear": "1946",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 197561,
+      "role": "Printmaker",
+      "name": "Tomás de la Peña",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 163855,
+      "role": "Artist",
+      "name": "After Domenichino (Domenico Zampieri)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018832",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q320118",
+      "gender": ""
+    },
+    {
+      "constituentID": 76800,
+      "role": "Printer",
+      "name": "Carlos Alvarado Lang",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500118527",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1042679",
+      "gender": ""
+    },
+    {
+      "constituentID": 76801,
+      "role": "Publisher",
+      "name": "Imprenta Universitaria, Mexico City",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Saint Cecilia",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Printmaker",
+  "artistPrefix": "",
+  "artistDisplayName": "Tomás de la Peña",
+  "artistDisplayBio": "Mexican, fl. 1860s",
+  "artistSuffix": "",
+  "artistAlphaSort": "Peña, Tomás de la",
+  "artistNationality": "Mexican",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "1864 [reprinted 1938]",
+  "objectBeginDate": 1864,
+  "objectEndDate": 1864,
+  "medium": "Engraving",
+  "dimensions": "Sheet: 17 5/16 × 12 13/16 in. (44 × 32.5 cm)\r\nImage: 4 15/16 × 4 1/8 in. (12.5 × 10.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 44,
+        "Width": 32.5
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 12.5,
+        "Width": 10.5
+      }
+    }
+  ],
+  "creditLine": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1946",
+  "geographyType": "Published in",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "Mexico",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/748414",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

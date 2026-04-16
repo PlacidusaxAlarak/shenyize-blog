@@ -1,0 +1,98 @@
+{
+  "objectID": 663122,
+  "isHighlight": false,
+  "accessionNumber": "2015.651",
+  "accessionYear": "2015",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP865813.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP865813.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 73905,
+      "role": "Artist",
+      "name": "Anonymous, French, 18th century",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500397994",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q4233718",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Christ in the House of Martha and Mary",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Anonymous, French, 18th century",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "Anonymous, French, 18th century",
+  "artistNationality": "French",
+  "artistBeginDate": "1700",
+  "artistEndDate": "1800",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q4233718",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500397994",
+  "objectDate": "18th century",
+  "objectBeginDate": 1700,
+  "objectEndDate": 1800,
+  "medium": "Engraving",
+  "dimensions": "Sheet: 12 1/16 × 7 1/2 in. (30.6 × 19.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 30.6,
+        "Width": 19.1
+      }
+    }
+  ],
+  "creditLine": "Gift of Jamie Mulherron, 2015",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/663122",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Christ",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+    },
+    {
+      "term": "Saints",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

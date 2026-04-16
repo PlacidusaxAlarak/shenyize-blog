@@ -1,0 +1,109 @@
+{
+  "objectID": 196365,
+  "isHighlight": false,
+  "accessionNumber": "28.154",
+  "accessionYear": "1928",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP106636.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP106636.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP106637.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP106638.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP106639.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP106640.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP106641.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP111697.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP116762.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP120721.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 163654,
+      "role": "Designer",
+      "name": "Design attributed to Jean François Cuvilliés the Elder",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007421",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q60739",
+      "gender": ""
+    },
+    {
+      "constituentID": 36743,
+      "role": "Maker",
+      "name": "Construction attributed to Johann Michael Schmidt",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 36744,
+      "role": "Maker",
+      "name": "Carving attributed to Joachim Dietrich",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Commode",
+  "title": "Commode",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Designer",
+  "artistPrefix": "Design attributed to",
+  "artistDisplayName": "Jean François Cuvilliés the Elder",
+  "artistDisplayBio": "German (born Belgian), Soignies 1695–1768 Munich",
+  "artistSuffix": "",
+  "artistAlphaSort": "Cuvilliés, Jean François, the Elder",
+  "artistNationality": "German, born Belgian",
+  "artistBeginDate": "1695",
+  "artistEndDate": "1768",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q60739",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500007421",
+  "objectDate": "ca. 1735–40",
+  "objectBeginDate": 1730,
+  "objectEndDate": 1745,
+  "medium": "Pine and linden wood; carved, partially painted, and gilded gesso, partly incised; Tegernsee limestone top",
+  "dimensions": "33 1/4 × 51 1/2 × 24 1/2 in. (84.5 × 130.8 × 62.2 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 62.230125,
+        "Height": 84.5,
+        "Width": 130.8
+      }
+    }
+  ],
+  "creditLine": "Fletcher Fund, 1928",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Woodwork-Furniture",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-31T04:54:36.6Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/196365",
+  "tags": [
+    {
+      "term": "Satyrs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300379732",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q163709"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116311369",
+  "isTimelineWork": false,
+  "GalleryNumber": "533"
+}

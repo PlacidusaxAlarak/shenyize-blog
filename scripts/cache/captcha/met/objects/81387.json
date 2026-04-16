@@ -1,0 +1,98 @@
+{
+  "objectID": 81387,
+  "isHighlight": false,
+  "accessionNumber": "1999.58a–d",
+  "accessionYear": "1999",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 20242,
+      "role": "Design House",
+      "name": "Louis Vuitton Co.",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q191485",
+      "gender": ""
+    },
+    {
+      "constituentID": 165633,
+      "role": "Designer",
+      "name": "Marc Jacobs",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500277365",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q313108",
+      "gender": ""
+    }
+  ],
+  "department": "Costume Institute",
+  "objectName": "Ensemble",
+  "title": "Ensemble",
+  "culture": "French",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Design House",
+  "artistPrefix": "",
+  "artistDisplayName": "Louis Vuitton Co.",
+  "artistDisplayBio": "French, founded 1854",
+  "artistSuffix": "",
+  "artistAlphaSort": "Vuitton Louis",
+  "artistNationality": "French",
+  "artistBeginDate": "1854",
+  "artistEndDate": "9999",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q191485",
+  "artistULAN_URL": "(not assigned)",
+  "objectDate": "fall/winter 1998–99",
+  "objectBeginDate": 1998,
+  "objectEndDate": 1999,
+  "medium": "(a) rubberized cotton; (b) silk; (c, d) leather",
+  "dimensions": "",
+  "measurements": [
+    {
+      "elementName": "Length",
+      "elementDescription": "c",
+      "elementMeasurements": {
+        "Length": 27.9401
+      }
+    },
+    {
+      "elementName": "Length at Side Seam",
+      "elementDescription": "b",
+      "elementMeasurements": {
+        "Length": 73.0251
+      }
+    },
+    {
+      "elementName": "Length at CB",
+      "elementDescription": "a",
+      "elementMeasurements": {
+        "Length": 114.9352
+      }
+    }
+  ],
+  "creditLine": "Gift of Louis Vuitton, 1999",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-04-01T04:53:33.463Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/81387",
+  "tags": null,
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q68352172",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

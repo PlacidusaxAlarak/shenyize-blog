@@ -1,0 +1,96 @@
+{
+  "objectID": 202388,
+  "isHighlight": false,
+  "accessionNumber": "60.37.1",
+  "accessionYear": "1960",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-258.001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP-258.001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP-258-002.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/170686.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/170687.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/170688.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 165528,
+      "role": "Artist",
+      "name": "Possibly Workshop of Neroccio de&#39; Landi",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007415",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1398270",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Statuette",
+  "title": "The Virgin Mary",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Possibly Workshop of",
+  "artistDisplayName": "Neroccio de' Landi",
+  "artistDisplayBio": "Italian, Siena 1447–1500 Siena",
+  "artistSuffix": "",
+  "artistAlphaSort": "Neroccio de' Landi",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1447",
+  "artistEndDate": "1500",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1398270",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500007415",
+  "objectDate": "late 15th century",
+  "objectBeginDate": 1485,
+  "objectEndDate": 1499,
+  "medium": "Bronze, partially fire-gilt",
+  "dimensions": "Overall (confirmed): 7 5/8 × 2 1/2 × 1 9/16 in. (19.4 × 6.4 × 4 cm);\r\nHeight (base): 3 3/16 in. (8.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Height",
+      "elementDescription": "base",
+      "elementMeasurements": {
+        "Height": 8.096266
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "confirmed",
+      "elementMeasurements": {
+        "Depth": 3.9687579,
+        "Height": 19.367538,
+        "Width": 6.350013
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1960",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Sculpture-Bronze",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-31T04:54:36.6Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/202388",
+  "tags": [
+    {
+      "term": "Virgin Mary",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116308219",
+  "isTimelineWork": false,
+  "GalleryNumber": "500"
+}

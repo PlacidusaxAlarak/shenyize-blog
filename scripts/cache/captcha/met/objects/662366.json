@@ -1,0 +1,101 @@
+{
+  "objectID": 662366,
+  "isHighlight": false,
+  "accessionNumber": "21.15.3(20)",
+  "accessionYear": "1921",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP361967.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP361967.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 85612,
+      "role": "Publisher",
+      "name": "Giovanni Ostaus",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 164873,
+      "role": "Illustrator",
+      "name": "Woodcut of Lucrezia designed by Giuseppe Salviati (Giuseppe Porta, called Il Salviati)",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025137",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3108131",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Books, Prints, Ornament & Architecture",
+  "title": "La Vera Perfettione del Disegno di varie sorti di recami, page 11 (recto)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Publisher",
+  "artistPrefix": "",
+  "artistDisplayName": "Giovanni Ostaus",
+  "artistDisplayBio": "Italian, active Venice ca. 1554–91",
+  "artistSuffix": ", Venice",
+  "artistAlphaSort": "Ostaus, Giovanni",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1507",
+  "artistEndDate": "1607",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "1567",
+  "objectBeginDate": 1567,
+  "objectEndDate": 1567,
+  "medium": "Woodcut",
+  "dimensions": "Overall: 6 5/16 x 8 7/16 in. (16 x 21.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 16,
+        "Width": 21.5
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1928",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Books",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/662366",
+  "tags": [
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Cornucopia",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300303413",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q332682"
+    },
+    {
+      "term": "Flowers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

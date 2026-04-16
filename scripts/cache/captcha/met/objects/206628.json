@@ -1,0 +1,101 @@
+{
+  "objectID": 206628,
+  "isHighlight": false,
+  "accessionNumber": "1977.216.9",
+  "accessionYear": "1977",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP168325.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP168325.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP168323.jpg",
+    "https://images.metmuseum.org/CRDImages/es/original/DP168324.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 164832,
+      "role": "Manufactory",
+      "name": "Meissen Manufactory",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500054662",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q822407",
+      "gender": ""
+    },
+    {
+      "constituentID": 34158,
+      "role": "Modeler",
+      "name": "Johann Friedrich Eberlein",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500022920",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1693544",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Figure",
+  "title": "Eagle owl",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Manufactory",
+  "artistPrefix": "",
+  "artistDisplayName": "Meissen Manufactory",
+  "artistDisplayBio": "German, 1710–present",
+  "artistSuffix": "",
+  "artistAlphaSort": "Meissen Manufactory",
+  "artistNationality": "German",
+  "artistBeginDate": "1710",
+  "artistEndDate": "9999",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q822407",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500054662",
+  "objectDate": "ca. 1735",
+  "objectBeginDate": 1730,
+  "objectEndDate": 1740,
+  "medium": "Hard-paste porcelain",
+  "dimensions": "Overall (confirmed): 20 1/2 x 11 9/16 x 9 3/8 in., 27.5lb. (52.1 x 29.4 x 23.8 cm, 12.4739kg)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "confirmed",
+      "elementMeasurements": {
+        "Depth": 23.812548,
+        "Height": 52.070103,
+        "Weight": 12.473918,
+        "Width": 29.368809
+      }
+    }
+  ],
+  "creditLine": "Bequest of R. Thornton Wilson, in memory of his wife, Florence Ellsworth Wilson, 1977",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Ceramics-Porcelain",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-31T04:54:36.6Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/206628",
+  "tags": [
+    {
+      "term": "Eagles",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250049",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2092297"
+    },
+    {
+      "term": "Owls",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300310290",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8021345"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

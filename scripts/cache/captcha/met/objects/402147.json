@@ -1,0 +1,117 @@
+{
+  "objectID": 402147,
+  "isHighlight": false,
+  "accessionNumber": "2011.510.19",
+  "accessionYear": "2011",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP820810.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP820810.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 165065,
+      "role": "Artist",
+      "name": "Hans Vredeman de Vries",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006358",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q944332",
+      "gender": ""
+    },
+    {
+      "constituentID": 72154,
+      "role": "Artist",
+      "name": "Engraved by Johannes van Doetecum I",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500055787",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18129846",
+      "gender": ""
+    },
+    {
+      "constituentID": 72155,
+      "role": "Artist",
+      "name": "Engraved by Lucas van Doetecum",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500055788",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18516699",
+      "gender": ""
+    },
+    {
+      "constituentID": 73117,
+      "role": "Publisher",
+      "name": "Hieronymus Cock",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005618",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q640361",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Collection Ornament & Architecture",
+  "title": "Cœnotaphiorum (19)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Hans Vredeman de Vries",
+  "artistDisplayBio": "Netherlandish, Leeuwarden 1527–1606 (?)  Antwerp (?)",
+  "artistSuffix": "",
+  "artistAlphaSort": "Vredeman de Vries, Hans",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1527",
+  "artistEndDate": "1606",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q944332",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500006358",
+  "objectDate": "1563",
+  "objectBeginDate": 1563,
+  "objectEndDate": 1563,
+  "medium": "Etching; first state of four",
+  "dimensions": "sheet: 6 9/16 x 8 1/4 in. (16.7 x 21 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 16.7,
+        "Width": 21
+      }
+    }
+  ],
+  "creditLine": "Purchase, Phyllis D. Massar Gift, 2011",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/402147",
+  "tags": [
+    {
+      "term": "Tombs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300005926",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q381885"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Bishops",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025756",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q29182"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,101 @@
+{
+  "objectID": 748337,
+  "isHighlight": false,
+  "accessionNumber": "46.46.452(13)",
+  "accessionYear": "1946",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 197529,
+      "role": "Printmaker",
+      "name": "Buenaventura Enciso",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 76800,
+      "role": "Printer",
+      "name": "Carlos Alvarado Lang",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500118527",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1042679",
+      "gender": ""
+    },
+    {
+      "constituentID": 76801,
+      "role": "Publisher",
+      "name": "Imprenta Universitaria, Mexico City",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "The Apostle Judas Thaddaeus facing right",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Printmaker",
+  "artistPrefix": "",
+  "artistDisplayName": "Buenaventura Enciso",
+  "artistDisplayBio": "Mexican, fl. ca. 1850s–1860s",
+  "artistSuffix": "",
+  "artistAlphaSort": "Enciso, Buenaventura",
+  "artistNationality": "Mexican",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "1857 [reprinted 1938]",
+  "objectBeginDate": 1857,
+  "objectEndDate": 1857,
+  "medium": "Engraving",
+  "dimensions": "Sheet: 17 5/16 × 12 13/16 in. (44 × 32.5 cm)\r\nImage: 9 7/16 × 2 3/4 in. (24 × 7 cm)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 24,
+        "Width": 7
+      }
+    },
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 44,
+        "Width": 32.5
+      }
+    }
+  ],
+  "creditLine": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1946",
+  "geographyType": "Published in",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "Mexico",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/748337",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

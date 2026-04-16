@@ -1,0 +1,79 @@
+{
+  "objectID": 428754,
+  "isHighlight": false,
+  "accessionNumber": "2013.544.1",
+  "accessionYear": "2013",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP834433.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP834433.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/dp/original/DP834434.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 162225,
+      "role": "Artist",
+      "name": "Charles Percier",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012660",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q969714",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing; Ornament & Architecture",
+  "title": "Ciborium for the Coronation of Napoléon I",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Charles Percier",
+  "artistDisplayBio": "French, Paris 1764–1838 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Percier, Charles",
+  "artistNationality": "French",
+  "artistBeginDate": "1764",
+  "artistEndDate": "1838",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q969714",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500012660",
+  "objectDate": "1804",
+  "objectBeginDate": 1804,
+  "objectEndDate": 1804,
+  "medium": "Graphite, pen and brown ink, brush and gray and reddish-brown wash",
+  "dimensions": "Sheet: 10 1/2 × 7 3/8 in. (26.7 × 18.7 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 26.7,
+        "Width": 18.7
+      }
+    }
+  ],
+  "creditLine": "Van Day Truex Fund, 2013",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-10-25T04:51:59.88Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/428754",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

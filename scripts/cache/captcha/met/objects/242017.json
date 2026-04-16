@@ -1,0 +1,89 @@
+{
+  "objectID": 242017,
+  "isHighlight": false,
+  "accessionNumber": "74.51.2464",
+  "accessionYear": "1874",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP-17234-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/gr/web-large/DP-17234-001.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/gr/original/DP-17234-002.jpg",
+    "https://images.metmuseum.org/CRDImages/gr/original/DP-17234-003.jpg",
+    "https://images.metmuseum.org/CRDImages/gr/original/DP-17234-004.jpg",
+    "https://images.metmuseum.org/CRDImages/gr/original/DP-17234-005.jpg",
+    "https://images.metmuseum.org/CRDImages/gr/original/DP-17234-006.jpg",
+    "https://images.metmuseum.org/CRDImages/gr/original/DP-17234-007.jpg",
+    "https://images.metmuseum.org/CRDImages/gr/original/DT11737.jpg"
+  ],
+  "constituents": null,
+  "department": "Greek and Roman Art",
+  "objectName": "Statue of Aphrodite with Eros",
+  "title": "Limestone statue of Aphrodite holding winged Eros",
+  "culture": "Cypriot",
+  "period": "Classical",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "",
+  "artistPrefix": "",
+  "artistDisplayName": "",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "late 4th century BCE",
+  "objectBeginDate": -330,
+  "objectEndDate": -300,
+  "medium": "Limestone",
+  "dimensions": "49 3/4 × 26 × 10 in., 348 lb. (126.4 × 66 × 25.4 cm, 157.9 kg)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 25.400051,
+        "Height": 126.36525,
+        "Weight": 157.85176,
+        "Width": 66.04013
+      }
+    }
+  ],
+  "creditLine": "The Cesnola Collection, Purchased by subscription, 1874–76",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Stone Sculpture",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-04-02T04:57:12.827Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/242017",
+  "tags": [
+    {
+      "term": "Aphrodite",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000612",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q35500"
+    },
+    {
+      "term": "Eros",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000613",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q121973"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116289882",
+  "isTimelineWork": true,
+  "GalleryNumber": "153"
+}

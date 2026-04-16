@@ -1,0 +1,121 @@
+{
+  "objectID": 757168,
+  "isHighlight": false,
+  "accessionNumber": "21.44(97)",
+  "accessionYear": "1921",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/MM83231.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/MM83231.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 76326,
+      "role": "Artist",
+      "name": "Abraham de Bruyn",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008141",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2821866",
+      "gender": ""
+    },
+    {
+      "constituentID": 107052,
+      "role": "Publisher",
+      "name": "Joos de Bosscher",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Book Print Ornament & Architecture",
+  "title": "Prostibula vel (ut mollius dicam) amica Veneta; Ducis Veneti Vxor; Nobilis matrona Veneta; Virgo Veneta",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Abraham de Bruyn",
+  "artistDisplayBio": "Flemish, Antwerp 1540–1587 Cologne (?)",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bruyn, Abraham de",
+  "artistNationality": "Flemish",
+  "artistBeginDate": "1540",
+  "artistEndDate": "1587",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2821866",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500008141",
+  "objectDate": "1580",
+  "objectBeginDate": 1580,
+  "objectEndDate": 1580,
+  "medium": "Engraving",
+  "dimensions": "Image: 8 11/16 × 12 15/16 in. (22 × 32.8 cm)\r\nFrame: 10 3/8 × 14 5/8 in. (26.4 × 37.1 cm)\r\nSheet: 21 5/16 × 16 5/16 in. (54.2 × 41.5 cm)\r\nBook: 21 7/8 × 16 3/4 × 1 15/16 in. (55.5 × 42.5 × 5 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 54.2,
+        "Width": 41.5
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 26.4,
+        "Width": 37.1
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 22,
+        "Width": 32.8
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "Book",
+      "elementMeasurements": {
+        "Depth": 5,
+        "Height": 55.5,
+        "Width": 42.5
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1921",
+  "geographyType": "Printed",
+  "city": "Mechelen (Malines)",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Books",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/757168",
+  "tags": [
+    {
+      "term": "Girls",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,106 @@
+{
+  "objectID": 42733,
+  "isHighlight": true,
+  "accessionNumber": "26.123",
+  "accessionYear": "1926",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP170102.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP170102.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/DP210262.jpg"
+  ],
+  "constituents": null,
+  "department": "Asian Art",
+  "objectName": "Figure",
+  "title": "Buddha Maitreya (Mile)",
+  "culture": "China",
+  "period": "Northern Wei dynasty (386–534)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "",
+  "artistPrefix": "",
+  "artistDisplayName": "",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "dated 486 (10th year of Taihe reign)",
+  "objectBeginDate": 486,
+  "objectEndDate": 486,
+  "medium": "Gilt bronze with traces of pigment; piece-mold cast",
+  "dimensions": "H. 55 1/4 in. (140.3 cm); W. 24 1/2 in. (62.2 cm); D. 19 1/4 in. (48.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 48.8951,
+        "Height": 140.33528,
+        "Width": 62.2301
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": "paper parcel with fragments found inside statue",
+      "elementMeasurements": {
+        "Height": 6.35,
+        "Length": 20.32,
+        "Width": 11.43
+      }
+    },
+    {
+      "elementName": "Storage",
+      "elementDescription": "relics",
+      "elementMeasurements": {
+        "Depth": 23.495047,
+        "Height": 11.430023,
+        "Weight": 0.137,
+        "Width": 30.48006
+      }
+    }
+  ],
+  "creditLine": "John Stewart Kennedy Fund, 1926",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Sculpture",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/42733",
+  "tags": [
+    {
+      "term": "Buddhism",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300073738",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q748"
+    },
+    {
+      "term": "Buddha",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300262950",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7055"
+    },
+    {
+      "term": "Maitreya",
+      "AAT_URL": "http://vocab.getty.edu/page/ia/901000405",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q193461"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q83562312",
+  "isTimelineWork": true,
+  "GalleryNumber": "208"
+}

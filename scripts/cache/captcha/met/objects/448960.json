@@ -1,0 +1,92 @@
+{
+  "objectID": 448960,
+  "isHighlight": false,
+  "accessionNumber": "33.118",
+  "accessionYear": "1933",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP243811.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP243811.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/is/original/sf33-118a.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 134890,
+      "role": "Maker",
+      "name": "Ahmad ibn Muhammad Astak",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Islamic Art",
+  "objectName": "Tombstone",
+  "title": "Tombstone of Abu Sa'd ibn Muhammad ibn Ahmad al-Hasan Karwaih",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Maker",
+  "artistPrefix": "",
+  "artistDisplayName": "Ahmad ibn Muhammad Astak",
+  "artistDisplayBio": "Iranian",
+  "artistSuffix": "",
+  "artistAlphaSort": "Ahmad ibn Muhammad Astak",
+  "artistNationality": "Iranian",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "dated 545 AH/1150 CE",
+  "objectBeginDate": 1149,
+  "objectEndDate": 1151,
+  "medium": "Marble; carved, painted",
+  "dimensions": "H. 22 1/4 in. (56.5 cm)\r\nW. 14 5/8 in. (37.1 cm)\r\nD. 2 7/8 in. (7.3 cm)\r\nWt. 64lb. (29kg)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 7.3025146,
+        "Height": 56.515114,
+        "Weight": 29.03021,
+        "Width": 37.147575
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1933",
+  "geographyType": "Attributed to",
+  "city": "Yazd",
+  "state": "",
+  "county": "",
+  "country": "Iran",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Stone",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-01-16T04:50:45.187Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/448960",
+  "tags": [
+    {
+      "term": "Mihrabs",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300076155",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q173907"
+    },
+    {
+      "term": "Arabic",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300387843",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q13955"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116274530",
+  "isTimelineWork": false,
+  "GalleryNumber": "453"
+}

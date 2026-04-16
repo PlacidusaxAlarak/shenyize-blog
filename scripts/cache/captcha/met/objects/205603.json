@@ -1,0 +1,95 @@
+{
+  "objectID": 205603,
+  "isHighlight": false,
+  "accessionNumber": "1974.28.94",
+  "accessionYear": "1974",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP340879.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP340879.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/es/original/DP352197.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 33598,
+      "role": "Maker",
+      "name": "Clockmaker: Daniel Delander",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500078181",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q24719162",
+      "gender": ""
+    }
+  ],
+  "department": "European Sculpture and Decorative Arts",
+  "objectName": "Table or bracket clock with calendar",
+  "title": "Table or bracket clock with calendar",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Maker",
+  "artistPrefix": "Clockmaker:",
+  "artistDisplayName": "Daniel Delander",
+  "artistDisplayBio": "British, 1678–1733",
+  "artistSuffix": "",
+  "artistAlphaSort": "Delander, Daniel",
+  "artistNationality": "British",
+  "artistBeginDate": "1678",
+  "artistEndDate": "1733",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q24719162",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500078181",
+  "objectDate": "probably ca. 1720",
+  "objectBeginDate": 1715,
+  "objectEndDate": 1725,
+  "medium": "Case: walnut, oak veneered with walnut and burl walnut; stained wooden moldings; and brass fittings; Dial: gilded and silvered brass; Movement: brass and steel",
+  "dimensions": "Overall: 22 1/4 × 14 1/2 × 8 1/4 in. (56.5 × 36.8 × 21 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": "historic dimensions superseded",
+      "elementMeasurements": {
+        "Depth": 20.955042,
+        "Height": 59.69012,
+        "Width": 36.830074
+      }
+    },
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 20.955042,
+        "Height": 56.515114,
+        "Width": 36.830074
+      }
+    }
+  ],
+  "creditLine": "Bequest of Irwin Untermyer, 1973",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Horology",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-11-21T10:05:27.96Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/205603",
+  "tags": [
+    {
+      "term": "Calendars",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300026741",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12132"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

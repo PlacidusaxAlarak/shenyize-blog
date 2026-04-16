@@ -1,0 +1,98 @@
+{
+  "objectID": 485339,
+  "isHighlight": false,
+  "accessionNumber": "1989.61",
+  "accessionYear": "1989",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 142606,
+      "role": "Artist",
+      "name": "Benny Andrews",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500111179",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q4889934",
+      "gender": ""
+    }
+  ],
+  "department": "Modern and Contemporary Art",
+  "objectName": "Painting",
+  "title": "American Gothic",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Benny Andrews",
+  "artistDisplayBio": "American, Plainview, Georgia 1930–2006 New York",
+  "artistSuffix": "",
+  "artistAlphaSort": "Andrews, Benny",
+  "artistNationality": "American",
+  "artistBeginDate": "1930",
+  "artistEndDate": "2006",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q4889934",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500111179",
+  "objectDate": "1971",
+  "objectBeginDate": 1971,
+  "objectEndDate": 1971,
+  "medium": "Oil, cut and pasted burlap, canvas, and fabric on canvas",
+  "dimensions": "60 × 50 in. (152.4 × 127 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 3.492507,
+        "Height": 152.4,
+        "Width": 127
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": "F.1989.61 Brown wood strip frame-no plexi",
+      "elementMeasurements": {
+        "Depth": 8.572517,
+        "Height": 157.16281,
+        "Width": 130.81026
+      }
+    }
+  ],
+  "creditLine": "Purchase, The Eugene and Estelle Ferkauf Foundation Gift, 1989",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "© Estate of Benny Andrews",
+  "linkResource": "",
+  "metadataDate": "2025-11-20T04:51:12.153Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/485339",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20196672",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

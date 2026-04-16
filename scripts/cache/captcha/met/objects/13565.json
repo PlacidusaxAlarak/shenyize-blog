@@ -1,0 +1,85 @@
+{
+  "objectID": 13565,
+  "isHighlight": false,
+  "accessionNumber": "33.122",
+  "accessionYear": "1933",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT11600.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/DT11600.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ad/original/94506.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 3077,
+      "role": "Maker",
+      "name": "N. L.",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "The American Wing",
+  "objectName": "Bed rug",
+  "title": "Bed rug",
+  "culture": "American",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Maker",
+  "artistPrefix": "",
+  "artistDisplayName": "N. L.",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "N. L.",
+  "artistNationality": "American",
+  "artistBeginDate": "",
+  "artistEndDate": "9999",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "1796",
+  "objectBeginDate": 1796,
+  "objectEndDate": 1796,
+  "medium": "Wool embroidered with wool",
+  "dimensions": "93 1/4 x 89 in. (236.9 x 226.1 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 236.9,
+        "Width": 226.0605
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1933",
+  "geographyType": "Made in",
+  "city": "Colchester",
+  "state": "Connecticut",
+  "county": "",
+  "country": "United States",
+  "region": "New England",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-01-30T04:54:21.21Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/13565",
+  "tags": [
+    {
+      "term": "Flowers",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

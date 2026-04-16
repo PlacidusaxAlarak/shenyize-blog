@@ -1,0 +1,91 @@
+{
+  "objectID": 729923,
+  "isHighlight": false,
+  "accessionNumber": "62.652.7(11)",
+  "accessionYear": "1962",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 82286,
+      "role": "Artist",
+      "name": "Georges Goursat [Sem]",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 82287,
+      "role": "Publisher",
+      "name": "Succés",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print Ornament & Architecture",
+  "title": "Le Vrai et le Faux Chic, Musée des Erreurs, Page 10",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Georges Goursat [Sem]",
+  "artistDisplayBio": "French, Perigueux 1863–1934 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Goursat, Georges [Sem]",
+  "artistNationality": "French",
+  "artistBeginDate": "1863",
+  "artistEndDate": "1934",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "1914",
+  "objectBeginDate": 1914,
+  "objectEndDate": 1914,
+  "medium": "Color lithograph",
+  "dimensions": "Sheet: 17 7/8 × 12 13/16 in. (45.4 × 32.6 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 45.4,
+        "Width": 32.6
+      }
+    }
+  ],
+  "creditLine": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1962",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/729923",
+  "tags": [
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

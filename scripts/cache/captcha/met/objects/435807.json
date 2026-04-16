@@ -1,0 +1,102 @@
+{
+  "objectID": 435807,
+  "isHighlight": false,
+  "accessionNumber": "32.100.21",
+  "accessionYear": "1932",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-15904-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-15904-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 161725,
+      "role": "Artist",
+      "name": "Adriaen Brouwer",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012394",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q364139",
+      "gender": ""
+    }
+  ],
+  "department": "European Paintings",
+  "objectName": "Painting",
+  "title": "The Smokers",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Adriaen Brouwer",
+  "artistDisplayBio": "Flemish, Oudenaarde 1605/6–1638 Antwerp",
+  "artistSuffix": "",
+  "artistAlphaSort": "Brouwer, Adriaen",
+  "artistNationality": "Flemish",
+  "artistBeginDate": "1605",
+  "artistEndDate": "1638",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q364139",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500012394",
+  "objectDate": "ca. 1636",
+  "objectBeginDate": 1631,
+  "objectEndDate": 1638,
+  "medium": "Oil on wood",
+  "dimensions": "18 1/4 × 14 1/2 in. (46.4 × 36.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 46.4,
+        "Width": 36.8
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 10.16,
+        "Height": 66.6751,
+        "Width": 58.4201
+      }
+    }
+  ],
+  "creditLine": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-08-23T04:50:45.557Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/435807",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Smoking",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300380156",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q662860"
+    },
+    {
+      "term": "Tankards",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300043256",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q3446398"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q17183419",
+  "isTimelineWork": true,
+  "GalleryNumber": "637"
+}

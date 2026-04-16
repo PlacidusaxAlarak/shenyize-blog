@@ -1,0 +1,98 @@
+{
+  "objectID": 285455,
+  "isHighlight": false,
+  "accessionNumber": "1977.683.22",
+  "accessionYear": "1977",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/ph/original/DP202944.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ph/web-large/DP202944.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/ph/original/DP202945.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 169986,
+      "role": "Artist",
+      "name": "Unknown",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500125274",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q24238356",
+      "gender": ""
+    },
+    {
+      "constituentID": 98494,
+      "role": "Person in Photograph",
+      "name": "Person in photograph Naser od-Din Shah",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Photographs",
+  "objectName": "Photograph",
+  "title": "Naser al-Din Shah",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Unknown",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "Unknown",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q24238356",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500125274",
+  "objectDate": "ca. 1852–55",
+  "objectBeginDate": 1852,
+  "objectEndDate": 1855,
+  "medium": "Salted paper print from glass negative",
+  "dimensions": "Image: 33.7 x 21.2 cm (13 1/4 x 8 3/8 in.)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 33.7,
+        "Width": 21.2
+      }
+    }
+  ],
+  "creditLine": "Gift of Charles K. and Irma B. Wilkinson, 1977",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Photographs",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-12-20T04:50:39.43Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/285455",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Portraits",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q104213318",
+  "isTimelineWork": true,
+  "GalleryNumber": ""
+}

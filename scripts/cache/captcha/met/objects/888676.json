@@ -1,0 +1,93 @@
+{
+  "objectID": 888676,
+  "isHighlight": false,
+  "accessionNumber": "2022.360",
+  "accessionYear": "2022",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP-29794-001.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP-29794-001.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 71204,
+      "role": "Artist",
+      "name": "Lambert Suavius",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3216638",
+      "gender": ""
+    },
+    {
+      "constituentID": 166912,
+      "role": "Sitter",
+      "name": "Cardinal Antoine Perrenot de Granvelle",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Antoine Perrenot de Granvelle",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Lambert Suavius",
+  "artistDisplayBio": "Netherlandish, ca. 1510–by 1576",
+  "artistSuffix": "",
+  "artistAlphaSort": "Suavius, Lambert",
+  "artistNationality": "Netherlandish",
+  "artistBeginDate": "1510",
+  "artistEndDate": "1576",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3216638",
+  "artistULAN_URL": "(not assigned)",
+  "objectDate": "1554",
+  "objectBeginDate": 1554,
+  "objectEndDate": 1554,
+  "medium": "Engraving, with touches of gray wash",
+  "dimensions": "Sheet: 16 9/16 × 11 3/16 in. (42 × 28.4 cm)\r\nPlate: 13 1/4 × 9 7/16 in. (33.6 × 23.9 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 42,
+        "Width": 28.4
+      }
+    },
+    {
+      "elementName": "Plate",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 33.6,
+        "Width": 23.9
+      }
+    }
+  ],
+  "creditLine": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 2022",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/888676",
+  "tags": null,
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

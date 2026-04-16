@@ -1,0 +1,138 @@
+{
+  "objectID": 376552,
+  "isHighlight": false,
+  "accessionNumber": "17.3.1199",
+  "accessionYear": "1917",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP858609.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP858609.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164276,
+      "role": "Engraver",
+      "name": "Francesco Bartolozzi",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032318",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q734889",
+      "gender": ""
+    },
+    {
+      "constituentID": 107528,
+      "role": "Artist",
+      "name": "After Richard Cosway",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115280",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2539929",
+      "gender": ""
+    },
+    {
+      "constituentID": 98336,
+      "role": "Publisher",
+      "name": "Simon Watts",
+      "constituentULAN_URL": "",
+      "constituentWikidata_URL": "",
+      "gender": ""
+    },
+    {
+      "constituentID": 98600,
+      "role": "Sitter",
+      "name": "Frances Abington",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2734971",
+      "gender": ""
+    },
+    {
+      "constituentID": 164876,
+      "role": "Subject",
+      "name": "William Shakespeare",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500272240",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q692",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print",
+  "title": "Mrs. Abington as Thalia",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Engraver",
+  "artistPrefix": "",
+  "artistDisplayName": "Francesco Bartolozzi",
+  "artistDisplayBio": "Italian, Florence 1728–1815 Lisbon",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bartolozzi, Francesco",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1728",
+  "artistEndDate": "1815",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q734889",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500032318",
+  "objectDate": "August 20, 1783",
+  "objectBeginDate": 1783,
+  "objectEndDate": 1783,
+  "medium": "Stipple engraving and etching, printed in brown ink; first state of seven",
+  "dimensions": "image: 9 1/4 x 7 1/4 in. (23.5 x 18.4 cm)\r\nsheet: 17 1/16 x 8 3/8 in. (43.3 x 21.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 43.3388,
+        "Width": 21.2725
+      }
+    },
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 23.495,
+        "Width": 18.415
+      }
+    }
+  ],
+  "creditLine": "Harris Brisbane Dick Fund, 1917",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/376552",
+  "tags": [
+    {
+      "term": "Masks",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300262834",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q161524"
+    },
+    {
+      "term": "Shakespeare",
+      "AAT_URL": "http://vocab.getty.edu/page/ulan/500272240",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q692"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Actresses",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025658",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q21169216"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

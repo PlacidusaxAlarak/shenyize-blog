@@ -1,0 +1,86 @@
+{
+  "objectID": 500422,
+  "isHighlight": false,
+  "accessionNumber": "2021.395.4",
+  "accessionYear": "2021",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 164611,
+      "role": "Artist",
+      "name": "Juan Gris",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015362",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q151152",
+      "gender": ""
+    }
+  ],
+  "department": "Modern and Contemporary Art",
+  "objectName": "Painting; Collage",
+  "title": "Cup, Glasses, and Bottle (Le Journal)",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Juan Gris",
+  "artistDisplayBio": "Spanish, Madrid 1887–1927 Boulogne-sur-Seine",
+  "artistSuffix": "",
+  "artistAlphaSort": "Gris, Juan",
+  "artistNationality": "Spanish",
+  "artistBeginDate": "1887",
+  "artistEndDate": "1927",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q151152",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500015362",
+  "objectDate": "Paris, spring–summer 1914",
+  "objectBeginDate": 1914,
+  "objectEndDate": 1914,
+  "medium": "Conté crayon, gouache, oil, cut-and-pasted newspaper, white laid paper, printed wallpaper (three types), selectively varnished; adhered overall onto a sheet of newspaper, mounted to primed canvas",
+  "dimensions": "21 5/8 × 18 1/8 in. (54.9 × 46 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 54.92761,
+        "Width": 46.037594
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": "gold frame w/ AR plexi",
+      "elementMeasurements": {
+        "Depth": 5.397511,
+        "Height": 90.80518,
+        "Width": 81.91516
+      }
+    }
+  ],
+  "creditLine": "Leonard A. Lauder Cubist Collection, Gift of Leonard A. Lauder, 2021",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Works on Paper",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-04-11T04:53:28.333Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/500422",
+  "tags": null,
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q126120908",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}
