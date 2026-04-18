@@ -58,9 +58,19 @@ test("article captcha gate component exposes sitewide defaults without hint copy
 	const gateComponent = await readRepoFile("src/components/article-captcha/ArticleCaptchaGate.astro");
 
 	assert.match(gateComponent, /storageKey = "site-captcha:passed"/);
-	assert.match(gateComponent, /backgroundImageUrl = "\/captcha\/preview\.jpg"/);
-	assert.match(gateComponent, /fallbackBackgroundImageUrl = "\/captcha\/placeholder-background\.svg"/);
+	assert.match(
+		gateComponent,
+		/backgroundImageUrl = "\/openimages-sample\/openimages-garage-door\.jpg"/,
+	);
 	assert.match(gateComponent, /data-background-image-urls=/);
+	assert.match(
+		gateComponent,
+		/interface Props \{[\s\S]*storageKey\?: string;[\s\S]*backgroundImageUrl\?: string;[\s\S]*\}/,
+	);
+	assert.match(
+		gateComponent,
+		/data-background-image-url=\{backgroundImageUrl\}[\s\S]*data-background-image-urls=\{JSON\.stringify\(backgroundImageUrls\)\}/,
+	);
 	assert.match(gateComponent, /安全验证/);
 	assert.match(gateComponent, /拖动滑块完成验证/);
 	assert.doesNotMatch(gateComponent, /localhost rotate captcha sandbox/);
@@ -375,6 +385,11 @@ test("article captcha runtime keeps simulator-style slider behavior, session pas
 	assert.match(runtime, /const storageKey = root\.dataset\.storageKey \?\? "site-captcha:passed";/);
 	assert.match(runtime, /pickRandomBackgroundImageUrl/);
 	assert.match(runtime, /backgroundImageUrls\?/);
+	assert.match(
+		runtime,
+		/const backgroundImageUrl\s*=\s*root\.dataset\.backgroundImageUrl\s*\?\?\s*"\/openimages-sample\/openimages-garage-door\.jpg";/,
+	);
+	assert.match(runtime, /const backgroundImageUrls = readBackgroundImageUrls\(root, backgroundImageUrl\);/);
 	assert.match(runtime, /hooks\.on\("page:view", \(\) => initializeArticleCaptchaGates\(\)\)/);
 	assert.match(runtime, /const SUCCESS_DISMISS_DELAY_MS = 500;/);
 	assert.match(runtime, /await pause\(SUCCESS_DISMISS_DELAY_MS\);/);
@@ -395,7 +410,9 @@ test("article captcha runtime keeps simulator-style slider behavior, session pas
 	assert.doesNotMatch(runtime, /challengeRecordEndpoint/);
 });
 
-test("article captcha background assets are published from the blog public directory", async () => {
-	await access(new URL("../public/captcha/preview.jpg", import.meta.url));
-	await access(new URL("../public/captcha/placeholder-background.svg", import.meta.url));
+test("article captcha background assets are published from the blog public openimages sample directory", async () => {
+	await access(
+		new URL("../public/openimages-sample/openimages-garage-door.jpg", import.meta.url),
+	);
+	await access(new URL("../public/openimages-sample/metadata.json", import.meta.url));
 });

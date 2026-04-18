@@ -46,7 +46,6 @@ type GateRoot = HTMLElement & {
 		storageKey?: string;
 		backgroundImageUrl?: string;
 		backgroundImageUrls?: string;
-		fallbackBackgroundImageUrl?: string;
 		gateState?: string;
 	};
 };
@@ -205,10 +204,9 @@ function collectElements(root: GateRoot): ArticleCaptchaElements {
 
 function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 	const storageKey = root.dataset.storageKey ?? "site-captcha:passed";
-	const backgroundImageUrl = root.dataset.backgroundImageUrl ?? "/captcha/preview.jpg";
+	const backgroundImageUrl =
+		root.dataset.backgroundImageUrl ?? "/openimages-sample/openimages-garage-door.jpg";
 	const backgroundImageUrls = readBackgroundImageUrls(root, backgroundImageUrl);
-	const fallbackBackgroundImageUrl =
-		root.dataset.fallbackBackgroundImageUrl ?? "/captcha/placeholder-background.svg";
 	const elements = collectElements(root);
 	const context = elements.canvas.getContext("2d");
 
@@ -579,12 +577,7 @@ function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 		scheduleFloatingControlsPosition();
 
 		try {
-			const imageState = await loadBackgroundImage(
-				selectBackgroundImageUrl(),
-				fallbackBackgroundImageUrl,
-			);
-
-			backgroundImage = imageState.image;
+			backgroundImage = await loadBackgroundImage(selectBackgroundImageUrl());
 			configureCanvasForImage(backgroundImage);
 			createChallenge();
 		} catch (error) {

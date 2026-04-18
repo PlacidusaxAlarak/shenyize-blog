@@ -4,13 +4,11 @@ import { getArticleCaptchaBackgroundImageUrls } from "./background-image-pool.mj
 interface Props {
 	storageKey?: string;
 	backgroundImageUrl?: string;
-	fallbackBackgroundImageUrl?: string;
 }
 
 const {
 	storageKey = "site-captcha:passed",
-	backgroundImageUrl = "/captcha/preview.jpg",
-	fallbackBackgroundImageUrl = "/captcha/placeholder-background.svg",
+	backgroundImageUrl = "/openimages-sample/openimages-garage-door.jpg",
 } = Astro.props;
 const backgroundImageUrls = await getArticleCaptchaBackgroundImageUrls({
 	fallbackUrls: [backgroundImageUrl],
@@ -23,7 +21,6 @@ const backgroundImageUrls = await getArticleCaptchaBackgroundImageUrls({
 	data-storage-key={storageKey}
 	data-background-image-url={backgroundImageUrl}
 	data-background-image-urls={JSON.stringify(backgroundImageUrls)}
-	data-fallback-background-image-url={fallbackBackgroundImageUrl}
 	data-gate-state="locked"
 >
 	<div class="article-captcha-content" data-article-captcha-content>

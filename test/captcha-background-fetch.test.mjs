@@ -3,6 +3,8 @@ import { access, readFile } from "node:fs/promises";
 import test from "node:test";
 
 const repoRoot = new URL("../", import.meta.url);
+const cmaSampleModule = () => import("../scripts/fetch-cma-sample-backgrounds.mjs");
+const openImagesSampleModule = () => import("../scripts/fetch-openimages-sample-backgrounds.mjs");
 
 async function readRepoFile(relativePath) {
 	return readFile(new URL(relativePath, repoRoot), "utf8");
@@ -335,4 +337,406 @@ test("captcha background fetcher accepts cathedral or cloister interiors that st
 		}),
 		true,
 	);
+});
+
+test("captcha background fetcher rejects sparse album or scroll compositions that leave most of the frame blank", async () => {
+	const { isLikelySparseCaptchaPresentation } = await import("../scripts/fetch-captcha-backgrounds.mjs");
+
+	assert.equal(
+		isLikelySparseCaptchaPresentation({
+			object: {
+				objectName: "Folding fan mounted as an album leaf",
+				classification: "Paintings",
+			},
+			metrics: {
+				contentRatio: 0.36,
+				bboxAreaRatio: 0.95,
+			},
+		}),
+		true,
+	);
+});
+
+test("captcha background fetcher keeps ordinary scenic prints when the image content fills the frame", async () => {
+	const { isLikelySparseCaptchaPresentation } = await import("../scripts/fetch-captcha-backgrounds.mjs");
+
+	assert.equal(
+		isLikelySparseCaptchaPresentation({
+			object: {
+				objectName: "Print",
+				classification: "Prints",
+			},
+			metrics: {
+				contentRatio: 0.36,
+				bboxAreaRatio: 0.6,
+			},
+		}),
+		false,
+	);
+});
+
+test("cma sample fetch defines the scenic keyword shortlist for the five-image trial", async () => {
+	const { cmaSampleKeywords } = await cmaSampleModule();
+
+	assert.deepEqual(cmaSampleKeywords, [
+		"landscape",
+		"architecture",
+		"bridge",
+		"street",
+		"garden",
+	]);
+});
+
+test("cma sample fetcher creates manifest entries using the shared background contract", async () => {
+	const { createCmaManifestEntry } = await cmaSampleModule();
+
+	const manifestEntry = createCmaManifestEntry({
+		artwork: {
+			id: 12345,
+			title: "Bridge over Water",
+			url: "https://www.clevelandart.org/art/12345",
+			type: "Print",
+			department: "Japanese Art",
+			images: {
+				print: {
+					url: "https://openaccess-cdn.clevelandart.org/12345/12345_print.jpg",
+				},
+			},
+		},
+		output: {
+			localPath: "/captcha/backgrounds/cma/cma-12345.jpg",
+			width: 2285,
+			height: 3400,
+		},
+		keyword: "bridge",
+		fetchedAt: "2026-04-16T00:00:00.000Z",
+	});
+
+	assert.deepEqual(manifestEntry, {
+		id: "cma-12345",
+		source: "cma",
+		objectId: 12345,
+		title: "Bridge over Water",
+		imageUrl: "https://openaccess-cdn.clevelandart.org/12345/12345_print.jpg",
+		localPath: "/captcha/backgrounds/cma/cma-12345.jpg",
+		objectUrl: "https://www.clevelandart.org/art/12345",
+		license: "CC0",
+		width: 2285,
+		height: 3400,
+		tags: ["bridge", "print", "japanese art"],
+		fetchedAt: "2026-04-16T00:00:00.000Z",
+	});
+});
+
+test("cma sample fetcher accepts scenic architectural records and rejects decorative object records", async () => {
+	const { isLikelyCmaSampleArtwork } = await cmaSampleModule();
+
+	assert.equal(
+		isLikelyCmaSampleArtwork({
+			artwork: {
+				share_license_status: "CC0",
+				title: "Bridge in a Garden",
+				type: "Print",
+				department: "Japanese Art",
+				collection: "Japanese Art",
+				technique: "color woodblock print",
+				images: {
+					print: {
+						url: "https://openaccess-cdn.clevelandart.org/12345/12345_print.jpg",
+						width: "2285",
+						height: "3400",
+					},
+				},
+			},
+			keyword: "bridge",
+		}),
+		true,
+	);
+
+	assert.equal(
+		isLikelyCmaSampleArtwork({
+			artwork: {
+				share_license_status: "CC0",
+				title: "Wine Ewer",
+				type: "Silver",
+				department: "Decorative Art and Design",
+				collection: "Decorative Arts",
+				technique: "silver gilt",
+				images: {
+					print: {
+						url: "https://openaccess-cdn.clevelandart.org/1943.181/1943.181_print.jpg",
+						width: "2627",
+						height: "3400",
+					},
+				},
+			},
+			keyword: "bridge",
+		}),
+		false,
+	);
+});
+
+test("cma fetch target counts total cma entries rather than adding the full limit each run", async () => {
+	const { resolveCmaRemainingSlots } = await cmaSampleModule();
+
+	assert.equal(
+		resolveCmaRemainingSlots({
+			manifestEntries: [
+				{ id: "met-1", source: "met" },
+				{ id: "cma-1", source: "cma" },
+				{ id: "cma-2", source: "cma" },
+				{ id: "cma-3", source: "cma" },
+				{ id: "cma-4", source: "cma" },
+				{ id: "cma-5", source: "cma" },
+			],
+			targetCount: 50,
+		}),
+		45,
+	);
+
+	assert.equal(
+		resolveCmaRemainingSlots({
+			manifestEntries: [
+				{ id: "cma-1", source: "cma" },
+				{ id: "cma-2", source: "cma" },
+				{ id: "cma-3", source: "cma" },
+			],
+			targetCount: 2,
+		}),
+		0,
+	);
+});
+
+test("cma fetch can switch to photograph-priority search keywords for supplementation", async () => {
+	const { resolveCmaSearchKeywords } = await cmaSampleModule();
+
+	assert.deepEqual(resolveCmaSearchKeywords({ preferPhotographs: true }), [
+		"photograph landscape",
+		"architectural photograph",
+		"bridge photograph",
+		"street photograph",
+		"garden photograph",
+		"architecture photograph",
+		"city photograph",
+	]);
+});
+
+test("cma candidate ranking prefers scenic photographs over paintings when photo mode is enabled", async () => {
+	const { scoreCmaCandidateForSort } = await cmaSampleModule();
+
+	const photographScore = scoreCmaCandidateForSort({
+		artwork: {
+			title: "Bridge of Shops, Srinagar, Kashmir",
+			type: "Photograph",
+			department: "Photography",
+			collection: "Photography",
+			technique: "albumen silver print",
+		},
+		keyword: "bridge photograph",
+		preferPhotographs: true,
+	});
+	const paintingScore = scoreCmaCandidateForSort({
+		artwork: {
+			title: "Landscape with Fishermen",
+			type: "Painting",
+			department: "Korean Art",
+			collection: "Asian - Hanging Scroll",
+			technique: "ink and color on silk",
+		},
+		keyword: "landscape",
+		preferPhotographs: true,
+	});
+
+	assert.ok(photographScore > paintingScore);
+});
+
+test("cma detail collection skips timed-out artwork records instead of aborting the whole run", async () => {
+	const { collectCmaArtworkDetails } = await cmaSampleModule();
+
+	const detailed = await collectCmaArtworkDetails({
+		candidates: [
+			{ id: 1, keyword: "bridge photograph" },
+			{ id: 2, keyword: "street photograph" },
+		],
+		loadArtwork(candidate) {
+			if (candidate.id === 1) {
+				throw new Error("timeout");
+			}
+
+			return Promise.resolve({
+				id: 2,
+				share_license_status: "CC0",
+				title: "Street Advertising",
+				type: "Photograph",
+				department: "Photography",
+				collection: "Photography",
+				technique: "gelatin silver print",
+				images: {
+					print: {
+						url: "https://openaccess-cdn.clevelandart.org/2/2_print.jpg",
+						width: "3400",
+						height: "2600",
+					},
+				},
+			});
+		},
+		preferPhotographs: true,
+	});
+
+	assert.deepEqual(
+		detailed.map((entry) => entry.artwork.id),
+		[2],
+	);
+});
+
+test("open images sample fetch keeps curated seeds and expands toward a 200 image target", async () => {
+	const {
+		openImagesPinnedSampleTargets,
+		openImagesSampleTargetCount,
+		openImagesSampleThemeRules,
+	} = await openImagesSampleModule();
+
+	assert.equal(openImagesPinnedSampleTargets.length, 20);
+	assert.equal(openImagesSampleTargetCount, 200);
+	assert.deepEqual(
+		openImagesPinnedSampleTargets.slice(0, 5).map((target) => target.imageId),
+		[
+			"00794645d77184eb",
+			"0a3f577a327ca7cc",
+			"115ef722923602a8",
+			"0a556c8163b58fae",
+			"0b8ba050b1d83bb7",
+		],
+	);
+	assert.ok(
+		openImagesPinnedSampleTargets.some((target) => target.subject === "forest-waterfall"),
+	);
+	assert.ok(
+		openImagesPinnedSampleTargets.some((target) => target.subject === "spiral-stairs"),
+	);
+	assert.ok(
+		openImagesSampleThemeRules.some((rule) => rule.theme === "architecture"),
+	);
+	assert.ok(
+		openImagesSampleThemeRules.some((rule) => rule.theme === "waterfall"),
+	);
+	assert.ok(
+		openImagesSampleThemeRules.some((rule) => rule.theme === "bathroom"),
+	);
+});
+
+test("open images target expansion preserves pinned samples and fills remaining slots round-robin", async () => {
+	const { selectOpenImagesSampleTargets } = await openImagesSampleModule();
+
+	const expanded = selectOpenImagesSampleTargets({
+		pinnedTargets: [
+			{
+				imageId: "seed-1",
+				slug: "seed-1.jpg",
+				subject: "seed-one",
+				labels: ["building"],
+			},
+		],
+		candidateTargetsByTheme: new Map([
+			[
+				"architecture",
+				[
+					{
+						imageId: "a-1",
+						slug: "a-1.jpg",
+						subject: "architecture",
+						labels: ["building"],
+					},
+					{
+						imageId: "shared",
+						slug: "shared.jpg",
+						subject: "architecture",
+						labels: ["building"],
+					},
+				],
+			],
+			[
+				"waterfall",
+				[
+					{
+						imageId: "w-1",
+						slug: "w-1.jpg",
+						subject: "waterfall",
+						labels: ["waterfall"],
+					},
+					{
+						imageId: "shared",
+						slug: "shared.jpg",
+						subject: "waterfall",
+						labels: ["waterfall"],
+					},
+					{
+						imageId: "w-2",
+						slug: "w-2.jpg",
+						subject: "waterfall",
+						labels: ["waterfall"],
+					},
+				],
+			],
+		]),
+		targetCount: 4,
+	});
+
+	assert.deepEqual(
+		expanded.map((target) => target.imageId),
+		["seed-1", "a-1", "w-1", "shared"],
+	);
+});
+
+test("open images sample metadata entries preserve attribution and license fields", async () => {
+	const { createOpenImagesSampleMetadataEntry } = await openImagesSampleModule();
+
+	const entry = createOpenImagesSampleMetadataEntry({
+		target: {
+			imageId: "00794645d77184eb",
+			slug: "openimages-garage-door.jpg",
+			subject: "garage-door",
+			labels: ["building", "door", "window"],
+		},
+		record: {
+			Subset: "validation",
+			ImageID: "00794645d77184eb",
+			OriginalURL: "https://c4.staticflickr.com/4/3932/15256561208_17c0f4c46c_o.jpg",
+			OriginalLandingURL: "https://www.flickr.com/photos/stevenpisano/15256561208",
+			License: "https://creativecommons.org/licenses/by/2.0/",
+			AuthorProfileURL: "https://www.flickr.com/people/stevenpisano/",
+			Author: "Steven Pisano",
+			Title: "Brooklyn Street Scenes",
+			Thumbnail300KURL: "https://c1.staticflickr.com/4/3932/15256561208_881fdb1641_z.jpg",
+			Rotation: "0.0",
+		},
+		output: {
+			localPath: "/openimages-sample/openimages-garage-door.jpg",
+			width: 2048,
+			height: 1536,
+		},
+		fetchedAt: "2026-04-17T00:00:00.000Z",
+	});
+
+	assert.deepEqual(entry, {
+		id: "openimages-00794645d77184eb",
+		source: "openimages",
+		imageId: "00794645d77184eb",
+		subset: "validation",
+		title: "Brooklyn Street Scenes",
+		subject: "garage-door",
+		labels: ["building", "door", "window"],
+		imageUrl: "https://c4.staticflickr.com/4/3932/15256561208_17c0f4c46c_o.jpg",
+		thumbnailUrl: "https://c1.staticflickr.com/4/3932/15256561208_881fdb1641_z.jpg",
+		localPath: "/openimages-sample/openimages-garage-door.jpg",
+		landingUrl: "https://www.flickr.com/photos/stevenpisano/15256561208",
+		license: "https://creativecommons.org/licenses/by/2.0/",
+		licenseFamily: "CC-BY",
+		author: "Steven Pisano",
+		authorProfileUrl: "https://www.flickr.com/people/stevenpisano/",
+		width: 2048,
+		height: 1536,
+		rotation: 0,
+		fetchedAt: "2026-04-17T00:00:00.000Z",
+	});
 });
