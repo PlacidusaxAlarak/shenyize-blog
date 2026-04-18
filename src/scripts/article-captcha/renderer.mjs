@@ -38,6 +38,17 @@ function loadImage(
 	});
 }
 
+function normalizeImageSources(primarySource, alternateSources = []) {
+	return [
+		...new Set(
+			[primarySource, ...alternateSources]
+				.filter((value) => typeof value === "string")
+				.map((value) => value.trim())
+				.filter(Boolean),
+		),
+	];
+}
+
 function toRadians(degrees) {
 	return (degrees * Math.PI) / 180;
 }
@@ -100,29 +111,34 @@ function drawSoftSeam(context, circlePath, seamColor) {
 	context.restore();
 }
 
-export async function loadBackgroundImage(primarySource, fallbackSource, options) {
-	try {
-		return {
-			image: await loadImage(primarySource, options),
-			usedFallback: false,
-		};
-	} catch (primaryError) {
-		if (!fallbackSource) {
-			throw primaryError;
-		}
+export function loadBackgroundImage(primarySource, options) {
+	return loadImage(primarySource, options);
+}
 
+export async function loadBackgroundImageFromSources(
+	sources,
+	{ timeoutMs = DEFAULT_IMAGE_TIMEOUT_MS, imageFactory = () => new Image() } = {},
+) {
+	const normalizedSources = Array.isArray(sources)
+		? normalizeImageSources("", sources)
+		: normalizeImageSources(sources);
+	let lastError;
+
+	for (const source of normalizedSources) {
 		try {
 			return {
-				image: await loadImage(fallbackSource, options),
-				usedFallback: true,
+				image: await loadImage(source, {
+					timeoutMs,
+					imageFactory,
+				}),
+				source,
 			};
-		} catch (fallbackError) {
-			throw new AggregateError(
-				[primaryError, fallbackError],
-				"Unable to load both the configured and fallback backgrounds.",
-			);
+		} catch (error) {
+			lastError = error;
 		}
 	}
+
+	throw lastError ?? new Error("No image sources were provided.");
 }
 
 export function renderCaptchaScene({

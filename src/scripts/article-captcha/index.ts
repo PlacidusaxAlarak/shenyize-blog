@@ -13,7 +13,7 @@ import {
 	sliderValueToRotation,
 } from "./logic.mjs";
 // @ts-ignore This client bundle imports runtime-authored .mjs helpers for direct node:test coverage.
-import { loadBackgroundImage, renderCaptchaScene } from "./renderer.mjs";
+import { loadBackgroundImageFromSources, renderCaptchaScene } from "./renderer.mjs";
 // @ts-ignore This client bundle imports runtime-authored .mjs helpers for direct node:test coverage.
 import { markGatePassed } from "./state.mjs";
 
@@ -426,6 +426,14 @@ function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 		return currentBackgroundImageUrl;
 	};
 
+	const createImageLoadOrder = () => {
+		const preferredImageUrl = selectBackgroundImageUrl();
+		return [
+			preferredImageUrl,
+			...backgroundImageUrls.filter((imageUrl) => imageUrl !== preferredImageUrl),
+		];
+	};
+
 	const syncRotation = (sliderValue: number) => {
 		if (!challenge) {
 			return;
@@ -577,7 +585,9 @@ function mountCaptchaGate(root: GateRoot): ArticleCaptchaController {
 		scheduleFloatingControlsPosition();
 
 		try {
-			backgroundImage = await loadBackgroundImage(selectBackgroundImageUrl());
+			const loadedBackground = await loadBackgroundImageFromSources(createImageLoadOrder());
+			backgroundImage = loadedBackground.image;
+			currentBackgroundImageUrl = loadedBackground.source;
 			configureCanvasForImage(backgroundImage);
 			createChallenge();
 		} catch (error) {

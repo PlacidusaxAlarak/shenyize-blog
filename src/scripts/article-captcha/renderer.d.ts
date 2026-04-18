@@ -7,11 +7,15 @@ export interface LoadBackgroundImageOptions {
 
 export function loadBackgroundImage(
 	primarySource: string,
-	fallbackSource?: string,
+	options?: LoadBackgroundImageOptions,
+): Promise<HTMLImageElement>;
+
+export function loadBackgroundImageFromSources(
+	sources: string[],
 	options?: LoadBackgroundImageOptions,
 ): Promise<{
 	image: HTMLImageElement;
-	usedFallback: boolean;
+	source: string;
 }>;
 
 export function renderCaptchaScene(options: {

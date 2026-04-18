@@ -17,25 +17,19 @@ function createFakeImage(onAssignSrc) {
 	};
 }
 
-test("article captcha falls back when the primary image load hangs past the timeout", async () => {
+test("article captcha surfaces the primary image load failure when it hangs past the timeout", async () => {
 	const { loadBackgroundImage } = await rendererModule();
 	const primaryImage = createFakeImage(() => {});
-	const fallbackImage = createFakeImage((_, image) => {
-		setTimeout(() => {
-			image.onload?.();
-		}, 0);
-	});
-	let imageIndex = 0;
-
-	const result = await loadBackgroundImage("/captcha/missing.svg", "/captcha/fallback.svg", {
-		timeoutMs: 10,
-		imageFactory() {
-			return imageIndex++ === 0 ? primaryImage : fallbackImage;
-		},
-	});
-
-	assert.equal(result.usedFallback, true);
-	assert.equal(result.image, fallbackImage);
+	await assert.rejects(
+		() =>
+			loadBackgroundImage("/captcha/missing.svg", {
+				timeoutMs: 10,
+				imageFactory() {
+					return primaryImage;
+				},
+			}),
+		/Timed out loading image: \/captcha\/missing\.svg/,
+	);
 });
 
 test("article captcha keeps the primary image when it is slow but still finishes within the default timeout", async () => {
@@ -45,15 +39,36 @@ test("article captcha keeps the primary image when it is slow but still finishes
 			image.onload?.();
 		}, 3500);
 	});
-	const fallbackImage = createFakeImage(() => {});
-	let imageIndex = 0;
-
-	const result = await loadBackgroundImage("/captcha/slow.jpg", "/captcha/fallback.svg", {
+	const result = await loadBackgroundImage("/captcha/slow.jpg", {
 		imageFactory() {
-			return imageIndex++ === 0 ? primaryImage : fallbackImage;
+			return primaryImage;
 		},
 	});
 
-	assert.equal(result.usedFallback, false);
-	assert.equal(result.image, primaryImage);
+	assert.equal(result, primaryImage);
+});
+
+test("article captcha falls back to the next background image when the first choice times out", async () => {
+	const { loadBackgroundImageFromSources } = await rendererModule();
+	const imageStates = new Map();
+
+	const result = await loadBackgroundImageFromSources(
+		["/openimages-sample/first.jpg", "/openimages-sample/second.jpg"],
+		{
+			timeoutMs: 20,
+			imageFactory() {
+				return createFakeImage((value, image) => {
+					imageStates.set(value, image);
+					if (value === "/openimages-sample/second.jpg") {
+						setTimeout(() => {
+							image.onload?.();
+						}, 0);
+					}
+				});
+			},
+		},
+	);
+
+	assert.equal(result.source, "/openimages-sample/second.jpg");
+	assert.equal(result.image, imageStates.get("/openimages-sample/second.jpg"));
 });
