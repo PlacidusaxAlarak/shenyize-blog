@@ -1,0 +1,153 @@
+{
+  "data": {
+    "id": 165639,
+    "accession_number": "2007.67.11",
+    "share_license_status": "Copyrighted",
+    "tombstone": "In the Hands of Light: Images and Poems: Hope Is beyond the Window, 1948. Marcel G. Lefrancq (Belgian, 1916–1974). Gelatin silver print, ferrotyped; image: 22.9 x 15.2 cm (9 x 6 in.); paper: 22.9 x 16.3 cm (9 x 6 7/16 in.). The Cleveland Museum of Art, John L. Severance Fund, 2007.67.11. © Marcel G. Lefrancq",
+    "current_location": null,
+    "title": "Hope Is beyond the Window",
+    "series": "In the Hands of Light: Images and Poems",
+    "creation_date": "1948",
+    "creation_date_earliest": 1948,
+    "creation_date_latest": 1948,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "Belgium, 20th century"
+    ],
+    "technique": "gelatin silver print, ferrotyped",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - Misc. 20th Century",
+    "type": "Photograph",
+    "measurements": "Image: 22.9 x 15.2 cm (9 x 6 in.); Paper: 22.9 x 16.3 cm (9 x 6 7/16 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.229,
+        "width": 0.152
+      },
+      "paper": {
+        "height": 0.229,
+        "width": 0.163
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": "© Marcel G. Lefrancq",
+    "inscriptions": [
+      {
+        "inscription": "each image is titled and authenticated by son on verso",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      },
+      {
+        "inscription": "Written in pencil on verso of print: \"L'espoir est au dela de la fenêtre/ M LEFRANCQ 11\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 203169,
+          "title": "Forbidden Games: Surrealist and Modernist Photography",
+          "description": "<i>Forbidden Games: Surrealist and Modernist Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 19, 2014-January 11, 2015).",
+          "opening_date": "2014-10-19T00:00:00"
+        },
+        {
+          "id": 383281,
+          "title": "Stories from Storage",
+          "description": "<i>Stories from Storage</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 7-May 16, 2021).",
+          "opening_date": "2021-02-06T05:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "The artist's estate, Mons, Belgium",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": 1
+      },
+      {
+        "description": "David Raymond [b.1979], New York, NY",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": 2
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "2007-",
+        "sortorder": 3
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "During World War II, Marcel G. Lefrancq took photographs for fake IDs for Jews attempting to escape Belgium.",
+    "description": "In works such as this one, Marcel G. Lefrancq presented views of daily life in his native city, Mons, from an unexpected perspective. A woman stands inside a room looking out the window in a reversal of the standard version of such imagery: rather than being seen from indoors, landscape enters the space in the form of a creeping vine. Lefrancq published it in a photographic portfolio, where it was featured alongside similarly evocative poetry.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79994935"
+      ],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "Cleveland Museum of Art, Tom E. Hinson, Ian Walker, and Lisa Kurzner. Forbidden Games: Surrealist and Modernist Photography : the David Raymond Collection in the Cleveland Museum of Art. 2014.",
+        "page_number": "Reproduced: p. 150, no. 103; mentioned: p. 218; reproduced: p. 219.",
+        "url": null
+      }
+    ],
+    "url": "https://clevelandart.org/art/2007.67.11",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "John L. Severance Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 165639,
+    "creators": [
+      {
+        "id": 55371,
+        "description": "Marcel G. Lefrancq (Belgian, 1916–1974)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1916",
+        "death_year": "1974",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2007-02-26T00:00:00",
+    "sortable_date": 1948,
+    "date_added_to_oa": null,
+    "date_text": "1948",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "component",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": "2007.67",
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-26 23:59:03.393000"
+  }
+}

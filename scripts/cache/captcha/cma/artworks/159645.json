@@ -1,0 +1,130 @@
+{
+  "data": {
+    "id": 159645,
+    "accession_number": "1996.359",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Street Scene in Columbus, Ohio, 1938. Ben Shahn (American, 1898–1969). Gelatin silver print; image: 16.2 x 24.2 cm (6 3/8 x 9 1/2 in.); paper: 20.6 x 25.3 cm (8 1/8 x 9 15/16 in.); matted: 35.6 x 45.7 cm (14 x 18 in.). The Cleveland Museum of Art, John L. Severance Fund, 1996.359. ©  Estate of Ben Shahn / Licensed by VAGA at Artists Rights Society (ARS), NY",
+    "current_location": null,
+    "title": "Street Scene in Columbus, Ohio",
+    "creation_date": "1938",
+    "creation_date_earliest": 1938,
+    "creation_date_latest": 1938,
+    "artists_tags": [
+      "male",
+      "Jewish artists"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "gelatin silver print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1900-1950",
+    "type": "Photograph",
+    "measurements": "Image: 16.2 x 24.2 cm (6 3/8 x 9 1/2 in.); Paper: 20.6 x 25.3 cm (8 1/8 x 9 15/16 in.); Matted: 35.6 x 45.7 cm (14 x 18 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.162,
+        "width": 0.242
+      },
+      "paper": {
+        "height": 0.206,
+        "width": 0.253
+      },
+      "matted": {
+        "height": 0.356,
+        "width": 0.457
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": "©  Estate of Ben Shahn / Licensed by VAGA at Artists Rights Society (ARS), NY",
+    "inscriptions": [
+      {
+        "inscription": "Written in pencil on verso: \"August 1939 / Street Scene in Columbus OH\"; \"6583 M[?]\"; in black felt pen: \"B19\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 194095,
+          "title": "Icons of American Photography: A Century of Photographs from the Cleveland Museum of Art",
+          "description": "<i>Icons of American Photography: A Century of Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 24-September 16, 2007).",
+          "opening_date": "2007-06-24T00:00:00"
+        }
+      ],
+      "legacy": [
+        {
+          "description": "The Cleveland Museum of Art (6/24/07 - 9/16/07); \"Icons of American Photography: A Century of Photographs from the Cleveland Museum of Art\", no exhibition catalogue.",
+          "opening_date": "2007-06-24T00:00:00"
+        }
+      ]
+    },
+    "provenance": [
+      {
+        "description": "The Fogg Art Museum, Cambridge, MA",
+        "citations": [],
+        "footnotes": [],
+        "date": null,
+        "sortorder": null
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "Active as a photographer in the mid-1930s, Ben Shahn learned photography from Walker Evans with whom he shared a studio in New York in 1929. Between 1935 and 1938, Shahn worked for the Farm Security Administration documenting the life of rural America during the Depression. In a direct and straightforward style, Shahn recorded the farmlands, mining towns, and main streets of America such as in <em>Street Scene in Columbus, Ohio</em>. Using a Leica camera with a right-angle viewfinder, Shahn was able to record his subjects unaware which added a powerful spontaneity to his photographs. The combination of the frontality of the subject matter, the flatness of space, and image text creates a strong graphic quality in the photographs reminiscent of his prints and paintings.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79979585"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/1996.359",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "John L. Severance Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 159645,
+    "creators": [
+      {
+        "id": 4127,
+        "description": "Ben Shahn (American, 1898–1969)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1898",
+        "death_year": "1969",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1996-12-02T00:00:00",
+    "sortable_date": 1938,
+    "date_added_to_oa": null,
+    "date_text": "1938",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-26 23:59:58.828000"
+  }
+}

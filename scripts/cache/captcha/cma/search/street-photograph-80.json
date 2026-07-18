@@ -1,0 +1,2517 @@
+{
+  "info": {
+    "total": 509,
+    "parameters": {
+      "skip": 80,
+      "limit": 20,
+      "q": "street photograph",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,collection,department,classification_type,gallery",
+      "search": "street photograph"
+    }
+  },
+  "data": [
+    {
+      "id": 395076,
+      "accession_number": "2020.306",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Ohio City, 2004. Thomas Roma (American, 1950-). Gelatin silver print; image: 24.4 x 32.2 cm (9 5/8 x 12 11/16 in.); paper: 27.8 x 35.3 cm (10 15/16 x 13 7/8 in.). The Cleveland Museum of Art, Gift of the George Gund Foundation Collection in Honor of David Bergholz, 2020.306",
+      "current_location": null,
+      "title": "Ohio City",
+      "creation_date": "2004",
+      "creation_date_earliest": 2004,
+      "creation_date_latest": 2004,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 24.4 x 32.2 cm (9 5/8 x 12 11/16 in.); Paper: 27.8 x 35.3 cm (10 15/16 x 13 7/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.244,
+          "width": 0.322
+        },
+        "paper": {
+          "height": 0.278,
+          "width": 0.353
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"3811-04-7 Thomas Roma (signed) 2004\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Thomas Roma (the artist) [1950-]",
+          "citations": [],
+          "footnotes": null,
+          "date": "2004",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2004-2020",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 7, 2020",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The George Gund Foundation annually commissions artists to photograph the Foundation’s areas of interest in Northeast Ohio for its annual reports.",
+      "description": "In 2004, the Foundation selected Brooklyn-based artist Thomas Roma, a masterful and sympathetic recorder of the urban environment, to photograph Ohio City on Cleveland’s near west side. He shows us a healthy neighborhood, one where the streets are busy and the businesses active. There are no great dramas or tensions, merely the daily dance of urban life.",
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "<em>The George Fund Foundation: Annual Report 2004</em>, Cleveland: George Gund Foundation, 2005.",
+          "page_number": null,
+          "url": "https://gundfoundation.org/portfolios/ohio-city/"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2020.306",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of the George Gund Foundation Collection in Honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 395076,
+      "creators": [
+        {
+          "id": 51368,
+          "description": "Thomas Roma (American, 1950-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1950",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2020-12-07T00:00:00-05:00",
+      "sortable_date": 2004,
+      "date_added_to_oa": null,
+      "date_text": "2004",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:03.801000"
+    },
+    {
+      "id": 282756,
+      "accession_number": "2016.564",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Street Scene, Washington Court House, Ohio, 1938. Ben Shahn (American, 1898–1969). Gelatin silver print; image: 16.5 x 24.2 cm (6 1/2 x 9 1/2 in.); paper: 20.6 x 25.4 cm (8 1/8 x 10 in.). The Cleveland Museum of Art, Gift of Samuel J. Lehr, 2016.564. ©  Estate of Ben Shahn / Licensed by VAGA at Artists Rights Society (ARS), NY",
+      "current_location": null,
+      "title": "Street Scene, Washington Court House, Ohio",
+      "creation_date": "1938",
+      "creation_date_earliest": 1938,
+      "creation_date_latest": 1938,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 16.5 x 24.2 cm (6 1/2 x 9 1/2 in.); Paper: 20.6 x 25.4 cm (8 1/8 x 10 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.165,
+          "width": 0.242
+        },
+        "paper": {
+          "height": 0.206,
+          "width": 0.254
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "©  Estate of Ben Shahn / Licensed by VAGA at Artists Rights Society (ARS), NY",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “$7500”\nWritten in pencil on verso: “Summer 1938/Street Scene/Washington Court/House OH”\nWritten in pencil on verso: “6514 M2”\nWritten in black marker on verso: “P”\nStamped in black ink on verso: “BEN SHAHN/PHOTOGRAPHER/FARM SECURITY ADMINISTRATION/formerly from the collection of The Fogg Museum”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "American painter and printmaker Ben Shahn also had a significant career as a photographer in the 1930s surveying the impact of the Great Depression on the American people. In July and August 1938, the Farm Security Administration, a federal agency, commissioned Shahn to cover the harvest in Central Ohio. His photographs constitute an invaluable in-depth portrait of rural and small town life in 1930s Ohio.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80085550"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2016.564",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Samuel J. Lehr",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 282756,
+      "creators": [
+        {
+          "id": 4127,
+          "description": "Ben Shahn (American, 1898–1969)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1898",
+          "death_year": "1969",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2017-02-27T00:00:00-05:00",
+      "sortable_date": 1938,
+      "date_added_to_oa": null,
+      "date_text": "1938",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Street Scene, Washington Court House, OH"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:57.272000"
+    },
+    {
+      "id": 395074,
+      "accession_number": "2020.304",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Ohio City, 2004. Thomas Roma (American, 1950-). Gelatin silver print; image: 24.4 x 32.2 cm (9 5/8 x 12 11/16 in.); paper: 27.8 x 35.3 cm (10 15/16 x 13 7/8 in.). The Cleveland Museum of Art, Gift of the George Gund Foundation Collection in Honor of David Bergholz, 2020.304",
+      "current_location": null,
+      "title": "Ohio City",
+      "creation_date": "2004",
+      "creation_date_earliest": 2004,
+      "creation_date_latest": 2004,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 24.4 x 32.2 cm (9 5/8 x 12 11/16 in.); Paper: 27.8 x 35.3 cm (10 15/16 x 13 7/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.244,
+          "width": 0.322
+        },
+        "paper": {
+          "height": 0.278,
+          "width": 0.353
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"3829-04-11 Thomas Roma (signed) 2004\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Thomas Roma (the artist) [1950-]",
+          "citations": [],
+          "footnotes": [],
+          "date": "2004",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "2004-2020",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 7, 2020",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The George Gund Foundation annually commissions artists to photograph the Foundation’s areas of interest in Northeast Ohio for its annual reports.",
+      "description": "In 2004, the Foundation selected Brooklyn-based artist Thomas Roma, a masterful and sympathetic recorder of the urban environment, to photograph Ohio City on Cleveland’s near west side. He shows us a healthy neighborhood, one where the streets are busy and the businesses active. There are no great dramas or tensions, merely the daily dance of urban life.",
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "<em>The George Fund Foundation: Annual Report 2004</em>, Cleveland: George Gund Foundation, 2005.",
+          "page_number": null,
+          "url": "https://gundfoundation.org/portfolios/ohio-city/"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2020.304",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of the George Gund Foundation Collection in Honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 395074,
+      "creators": [
+        {
+          "id": 51368,
+          "description": "Thomas Roma (American, 1950-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1950",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2020-12-07T00:00:00-05:00",
+      "sortable_date": 2004,
+      "date_added_to_oa": null,
+      "date_text": "2004",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:22.553000"
+    },
+    {
+      "id": 395078,
+      "accession_number": "2020.308",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Ohio City, 2004. Thomas Roma (American, 1950-). Gelatin silver print; image: 24.4 x 32.2 cm (9 5/8 x 12 11/16 in.); paper: 27.8 x 35.3 cm (10 15/16 x 13 7/8 in.). The Cleveland Museum of Art, Gift of the George Gund Foundation Collection in Honor of David Bergholz, 2020.308",
+      "current_location": null,
+      "title": "Ohio City",
+      "creation_date": "2004",
+      "creation_date_earliest": 2004,
+      "creation_date_latest": 2004,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 24.4 x 32.2 cm (9 5/8 x 12 11/16 in.); Paper: 27.8 x 35.3 cm (10 15/16 x 13 7/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.244,
+          "width": 0.322
+        },
+        "paper": {
+          "height": 0.278,
+          "width": 0.353
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"3767-04-7 Thomas Roma (signed) 2004\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Thomas Roma (the artist) [1950-]",
+          "citations": [],
+          "footnotes": [],
+          "date": "2004",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "2004-2020",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 7, 2020",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The George Gund Foundation annually commissions artists to photograph the Foundation’s areas of interest in Northeast Ohio for its annual reports.",
+      "description": "In 2004, the Foundation selected Brooklyn-based artist Thomas Roma, a masterful and sympathetic recorder of the urban environment, to photograph Ohio City on Cleveland’s near west side. He shows us a healthy neighborhood, one where the streets are busy and the businesses active. There are no great dramas or tensions, merely the daily dance of urban life.",
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "<em>The George Fund Foundation: Annual Report 2004</em>, Cleveland: George Gund Foundation, 2005.",
+          "page_number": null,
+          "url": "https://gundfoundation.org/portfolios/ohio-city/"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2020.308",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of the George Gund Foundation Collection in Honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 395078,
+      "creators": [
+        {
+          "id": 51368,
+          "description": "Thomas Roma (American, 1950-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1950",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2020-12-07T00:00:00-05:00",
+      "sortable_date": 2004,
+      "date_added_to_oa": null,
+      "date_text": "2004",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:17.006000"
+    },
+    {
+      "id": 395080,
+      "accession_number": "2020.310",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Ohio City, 2004. Thomas Roma (American, 1950-). Gelatin silver print; image: 24.4 x 32.2 cm (9 5/8 x 12 11/16 in.); paper: 27.8 x 35.3 cm (10 15/16 x 13 7/8 in.). The Cleveland Museum of Art, Gift of the George Gund Foundation Collection in Honor of David Bergholz, 2020.310",
+      "current_location": null,
+      "title": "Ohio City",
+      "creation_date": "2004",
+      "creation_date_earliest": 2004,
+      "creation_date_latest": 2004,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 24.4 x 32.2 cm (9 5/8 x 12 11/16 in.); Paper: 27.8 x 35.3 cm (10 15/16 x 13 7/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.244,
+          "width": 0.322
+        },
+        "paper": {
+          "height": 0.278,
+          "width": 0.353
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"3752-04-6 Thomas Roma (signed) 2004\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Thomas Roma (the artist) [1950-]",
+          "citations": [],
+          "footnotes": [],
+          "date": "2004",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "2004-2020",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 7, 2020",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The George Gund Foundation annually commissions artists to photograph the Foundation’s areas of interest in Northeast Ohio for its annual reports.",
+      "description": "In 2004, the Foundation selected Brooklyn-based artist Thomas Roma, a masterful and sympathetic recorder of the urban environment, to photograph Ohio City on Cleveland’s near west side. He shows us a healthy neighborhood, one where the streets are busy and the businesses active. There are no great dramas or tensions, merely the daily dance of urban life.",
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "<em>The George Fund Foundation: Annual Report 2004</em>, Cleveland: George Gund Foundation, 2005.",
+          "page_number": null,
+          "url": "https://gundfoundation.org/portfolios/ohio-city/"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2020.310",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of the George Gund Foundation Collection in Honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 395080,
+      "creators": [
+        {
+          "id": 51368,
+          "description": "Thomas Roma (American, 1950-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1950",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2020-12-07T00:00:00-05:00",
+      "sortable_date": 2004,
+      "date_added_to_oa": null,
+      "date_text": "2004",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:04:18.175000"
+    },
+    {
+      "id": 395082,
+      "accession_number": "2020.312",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Ohio City, 2004. Thomas Roma (American, 1950-). Gelatin silver print; image: 24.4 x 32.3 cm (9 5/8 x 12 11/16 in.); paper: 27.8 x 35.3 cm (10 15/16 x 13 7/8 in.). The Cleveland Museum of Art, Gift of the George Gund Foundation Collection in Honor of David Bergholz, 2020.312",
+      "current_location": null,
+      "title": "Ohio City",
+      "creation_date": "2004",
+      "creation_date_earliest": 2004,
+      "creation_date_latest": 2004,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 24.4 x 32.3 cm (9 5/8 x 12 11/16 in.); Paper: 27.8 x 35.3 cm (10 15/16 x 13 7/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.244,
+          "width": 0.323
+        },
+        "paper": {
+          "height": 0.278,
+          "width": 0.353
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"3810-04-12 Thomas Roma (signed) 2004\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Thomas Roma (the artist) [1950-]",
+          "citations": [],
+          "footnotes": [],
+          "date": "2004",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "2004-2020",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 7, 2020",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The George Gund Foundation annually commissions artists to photograph the Foundation’s areas of interest in Northeast Ohio for its annual reports.",
+      "description": "In 2004, the Foundation selected Brooklyn-based artist Thomas Roma, a masterful and sympathetic recorder of the urban environment, to photograph Ohio City on Cleveland’s near west side. He shows us a healthy neighborhood, one where the streets are busy and the businesses active. There are no great dramas or tensions, merely the daily dance of urban life.",
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "<em>The George Fund Foundation: Annual Report 2004</em>, Cleveland: George Gund Foundation, 2005.",
+          "page_number": null,
+          "url": "https://gundfoundation.org/portfolios/ohio-city/"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2020.312",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of the George Gund Foundation Collection in Honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 395082,
+      "creators": [
+        {
+          "id": 51368,
+          "description": "Thomas Roma (American, 1950-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1950",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2020-12-07T00:00:00-05:00",
+      "sortable_date": 2004,
+      "date_added_to_oa": null,
+      "date_text": "2004",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:51.560000"
+    },
+    {
+      "id": 317926,
+      "accession_number": "2018.874",
+      "share_license_status": "Copyrighted",
+      "tombstone": "East 100th Street: Untitled (52536), 1966–1968. Bruce Davidson (American, b. 1933). Gelatin silver print; paper: 27.9 x 35.6 cm (11 x 14 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.874",
+      "current_location": null,
+      "title": "Untitled (52536)",
+      "series": "East 100th Street",
+      "creation_date": "1966–1968",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1968,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 27.9 x 35.6 cm (11 x 14 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.279,
+          "width": 0.356
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Davidson’s photographs of Spanish Harlem were used as evidence of squalid housing conditions in claims against New York City.",
+      "description": "Davidson spent two years photographing in Spanish Harlem, attempting to integrate himself into the daily lives of its residents. In the past he had used a 35mm camera, but here he turned to a large-format, 4 x 5-inch camera, which requires a tripod and slows down the act of photographing, making the session more of a shared experience, a give and take.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876844"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.874",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317926,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–1968",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:51.539000"
+    },
+    {
+      "id": 317935,
+      "accession_number": "2018.883",
+      "share_license_status": "Copyrighted",
+      "tombstone": "East 100th Street: Untitled, 1966–1968. Bruce Davidson (American, b. 1933). Gelatin silver print; image: 21.3 x 15.8 cm (8 3/8 x 6 1/4 in.); paper: 35.6 x 27.6 cm (14 x 10 7/8 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.883. © Bruce Davidson/Magnum Photos",
+      "current_location": null,
+      "title": "Untitled",
+      "series": "East 100th Street",
+      "creation_date": "1966–1968",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1968,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 21.3 x 15.8 cm (8 3/8 x 6 1/4 in.); Paper: 35.6 x 27.6 cm (14 x 10 7/8 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.356,
+          "width": 0.276
+        },
+        "image": {
+          "height": 0.213,
+          "width": 0.158
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Bruce Davidson/Magnum Photos",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"Bruce Davidson\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"66-46-421/13\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Davidson’s photographs of Spanish Harlem were used as evidence of squalid housing conditions in claims against New York City.",
+      "description": "Davidson spent two years photographing in Spanish Harlem, attempting to integrate himself into the daily lives of its residents. In the past he had used a 35mm camera, but here he turned to a large-format, 4 x 5-inch camera, which requires a tripod and slows down the act of photographing, making the session more of a shared experience, a give and take.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876869"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.883",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317935,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–1968",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:06.965000"
+    },
+    {
+      "id": 317940,
+      "accession_number": "2018.888",
+      "share_license_status": "Copyrighted",
+      "tombstone": "East 100th Street: Untitled (53006), 1966–1968. Bruce Davidson (American, b. 1933). Gelatin silver print; paper: 50.8 x 61 cm (20 x 24 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.888. © Bruce Davidson/Magnum Photos",
+      "current_location": null,
+      "title": "Untitled (53006)",
+      "series": "East 100th Street",
+      "creation_date": "1966–1968",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1968,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 50.8 x 61 cm (20 x 24 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.508,
+          "width": 0.61
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Bruce Davidson/Magnum Photos",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Davidson’s photographs of Spanish Harlem were used as evidence of squalid housing conditions in claims against New York City.",
+      "description": "Davidson spent two years photographing in Spanish Harlem, attempting to integrate himself into the daily lives of its residents. In the past he had used a 35mm camera, but here he turned to a large-format, 4 x 5-inch camera, which requires a tripod and slows down the act of photographing, making the session more of a shared experience, a give and take.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876884"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.888",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317940,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–1968",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:16.380000"
+    },
+    {
+      "id": 317941,
+      "accession_number": "2018.889",
+      "share_license_status": "Copyrighted",
+      "tombstone": "East 100th Street: Untitled (53184), 1966–1968. Bruce Davidson (American, b. 1933). Gelatin silver print; paper: 35.6 x 27.9 cm (14 x 11 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.889. © Bruce Davidson/Magnum Photos",
+      "current_location": null,
+      "title": "Untitled (53184)",
+      "series": "East 100th Street",
+      "creation_date": "1966–1968",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1968,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 35.6 x 27.9 cm (14 x 11 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.356,
+          "width": 0.279
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Bruce Davidson/Magnum Photos",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Davidson’s photographs of Spanish Harlem were used as evidence of squalid housing conditions in claims against New York City.",
+      "description": "Davidson spent two years photographing in Spanish Harlem, attempting to integrate himself into the daily lives of its residents. In the past he had used a 35mm camera, but here he turned to a large-format, 4 x 5-inch camera, which requires a tripod and slows down the act of photographing, making the session more of a shared experience, a give and take.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876887"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.889",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317941,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–1968",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:41.549000"
+    },
+    {
+      "id": 395075,
+      "accession_number": "2020.305",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Ohio City, 2004. Thomas Roma (American, 1950-). Gelatin silver print; image: 24.4 x 32.2 cm (9 5/8 x 12 11/16 in.); paper: 27.8 x 35.3 cm (10 15/16 x 13 7/8 in.). The Cleveland Museum of Art, Gift of the George Gund Foundation Collection in Honor of David Bergholz, 2020.305",
+      "current_location": null,
+      "title": "Ohio City",
+      "creation_date": "2004",
+      "creation_date_earliest": 2004,
+      "creation_date_latest": 2004,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 24.4 x 32.2 cm (9 5/8 x 12 11/16 in.); Paper: 27.8 x 35.3 cm (10 15/16 x 13 7/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.244,
+          "width": 0.322
+        },
+        "paper": {
+          "height": 0.278,
+          "width": 0.353
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"3715-04-9 Thomas Roma (signed) 2004\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Thomas Roma (the artist) [1950-]",
+          "citations": [],
+          "footnotes": [],
+          "date": "2004",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "2004-2020",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 7, 2020",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The George Gund Foundation annually commissions artists to photograph the Foundation’s areas of interest in Northeast Ohio for its annual reports.",
+      "description": "In 2004, the Foundation selected Brooklyn-based artist Thomas Roma, a masterful and sympathetic recorder of the urban environment, to photograph Ohio City on Cleveland’s near west side. He shows us a healthy neighborhood, one where the streets are busy and the businesses active. There are no great dramas or tensions, merely the daily dance of urban life.",
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "<em>The George Fund Foundation: Annual Report 2004</em>, Cleveland: George Gund Foundation, 2005.",
+          "page_number": null,
+          "url": "https://gundfoundation.org/portfolios/ohio-city/"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2020.305",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of the George Gund Foundation Collection in Honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 395075,
+      "creators": [
+        {
+          "id": 51368,
+          "description": "Thomas Roma (American, 1950-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1950",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2020-12-07T00:00:00-05:00",
+      "sortable_date": 2004,
+      "date_added_to_oa": null,
+      "date_text": "2004",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:17.673000"
+    },
+    {
+      "id": 395077,
+      "accession_number": "2020.307",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Ohio City, 2004. Thomas Roma (American, 1950-). Gelatin silver print; image: 24.4 x 32.2 cm (9 5/8 x 12 11/16 in.); paper: 27.8 x 35.3 cm (10 15/16 x 13 7/8 in.). The Cleveland Museum of Art, Gift of the George Gund Foundation Collection in Honor of David Bergholz, 2020.307",
+      "current_location": null,
+      "title": "Ohio City",
+      "creation_date": "2004",
+      "creation_date_earliest": 2004,
+      "creation_date_latest": 2004,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 24.4 x 32.2 cm (9 5/8 x 12 11/16 in.); Paper: 27.8 x 35.3 cm (10 15/16 x 13 7/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.244,
+          "width": 0.322
+        },
+        "paper": {
+          "height": 0.278,
+          "width": 0.353
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"3813-04-12 Thomas Roma (signed) 2004\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Thomas Roma (the artist) [1950-]",
+          "citations": [],
+          "footnotes": [],
+          "date": "2004",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "2004-2020",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 7, 2020",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The George Gund Foundation annually commissions artists to photograph the Foundation’s areas of interest in Northeast Ohio for its annual reports.",
+      "description": "In 2004, the Foundation selected Brooklyn-based artist Thomas Roma, a masterful and sympathetic recorder of the urban environment, to photograph Ohio City on Cleveland’s near west side. He shows us a healthy neighborhood, one where the streets are busy and the businesses active. There are no great dramas or tensions, merely the daily dance of urban life.",
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "<em>The George Fund Foundation: Annual Report 2004</em>, Cleveland: George Gund Foundation, 2005.",
+          "page_number": null,
+          "url": "https://gundfoundation.org/portfolios/ohio-city/"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2020.307",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of the George Gund Foundation Collection in Honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 395077,
+      "creators": [
+        {
+          "id": 51368,
+          "description": "Thomas Roma (American, 1950-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1950",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2020-12-07T00:00:00-05:00",
+      "sortable_date": 2004,
+      "date_added_to_oa": null,
+      "date_text": "2004",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:04:03.869000"
+    },
+    {
+      "id": 296766,
+      "accession_number": "2017.83",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Group in Front of Fence, Pitt Street, Lower East Side, NY, 1938, printed later. Walter Rosenblum (American, 1919–2006). Gelatin silver print, toned; image: 17.9 x 23.1 cm (7 1/16 x 9 1/8 in.); paper: 19.5 x 25.1 cm (7 11/16 x 9 7/8 in.). The Cleveland Museum of Art, Gift of the Rosenblum Family, 2017.83. © Walter Rosenblum",
+      "current_location": null,
+      "title": "Group in Front of Fence, Pitt Street, Lower East Side, NY",
+      "creation_date": "1938, printed later",
+      "creation_date_earliest": 1938,
+      "creation_date_latest": 1938,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "United States"
+      ],
+      "technique": "gelatin silver print, toned",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 17.9 x 23.1 cm (7 1/16 x 9 1/8 in.); Paper: 19.5 x 25.1 cm (7 11/16 x 9 7/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.179,
+          "width": 0.231
+        },
+        "paper": {
+          "height": 0.195,
+          "width": 0.251
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Walter Rosenblum",
+      "inscriptions": [
+        {
+          "inscription": "Written in black ink on verso: “Group in Front of Fence/Pitt St. N.Y. 1938”\nWritten in black ink on verso: “Walter Rosenblum (signed)”\nWritten in pencil on verso: “ACMS WR0032.26”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 299125,
+            "title": "From Riches to Rags: American Photography in the Depression",
+            "description": "<i>From Riches to Rags: American Photography in the Depression</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 13-December 31, 2017).",
+            "opening_date": "2017-08-13T04:00:00"
+          },
+          {
+            "id": 393871,
+            "title": "A New York Minute: Street Photography, 1920–1950",
+            "description": "<i>A New York Minute: Street Photography, 1920–1950</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 11-November 7, 2021).",
+            "opening_date": "2021-07-10T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Taken at the height of the Depression when he was 19, this image shows a world Rosenblum knew intimately. One of five children of immigrant parents, he grew up in a three-room cold-water flat in one of the tenement buildings that filled New York’s Lower East Side. Because apartments were crowded, much of life was lived on the street, providing ample material for his camera.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79872501"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Tannenbaum, Barabara. “Acquisition Highlights: Photography.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 58, no. 2 (March/April 2018): 16-17.",
+          "page_number": "Reproduced and Mentioned: P. 16",
+          "url": "https://archive.org/details/CMAMM2018-02/page/n7/mode/2up"
+        },
+        {
+          "citation": "Tannenbaum, Barbara. “A New York Minute: Take a look at street photography between 1920 and 1950.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>61, no. 2 (Spring 2021): 24-26.",
+          "page_number": "Reproduced: P. 25",
+          "url": "https://archive.org/details/CMAMM2021-02/page/24/mode/2up"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2017.83",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of the Rosenblum Family",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 296766,
+      "creators": [
+        {
+          "id": 8820,
+          "description": "Walter Rosenblum (American, 1919–2006)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1919",
+          "death_year": "2006",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2017-06-05T00:00:00-04:00",
+      "sortable_date": 1938,
+      "date_added_to_oa": null,
+      "date_text": "1938, printed later",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:30.523000"
+    },
+    {
+      "id": 165685,
+      "accession_number": "2007.89",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Street Orchestra, Blind Musicians, 1934. Dora Maar (French, 1907–1997). Gelatin silver print; image: 32 x 28.4 cm (12 5/8 x 11 3/16 in.). The Cleveland Museum of Art, John L. Severance Fund, 2007.89. © 2013 Artists Rights Society (ARS), New York / ADAGP, Paris",
+      "current_location": null,
+      "title": "Street Orchestra, Blind Musicians",
+      "creation_date": "1934",
+      "creation_date_earliest": 1934,
+      "creation_date_latest": 1934,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "france, 20th century"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - French 20th Century",
+      "type": "Photograph",
+      "measurements": "Image: 32 x 28.4 cm (12 5/8 x 11 3/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.32,
+          "width": 0.284
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© 2013 Artists Rights Society (ARS), New York / ADAGP, Paris",
+      "inscriptions": [
+        {
+          "inscription": "Sticker on verso of print, gummed label in upper left: \"No 3017/H\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso of print: \"NY DM 270\" and \"N1361\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 335981,
+            "title": "Dora Maar: Bataille, Picasso, et les Surréalistes",
+            "description": "<i>Dora Maar: Bataille, Picasso, et les Surréalistes</i>. Haus der Kunst, Munich, Mùnich, Germany (October 13, 2001-January 6, 2002); Centre de la Vieille Charité, Marseille, France (February 7-April 30, 2002); Centre d’Art Tecla Sala, L’Hospitalet, Spain (May 21-July 15, 2002).",
+            "opening_date": "2001-10-13T04:00:00"
+          },
+          {
+            "id": 335822,
+            "title": "Dora Maar: Photographer",
+            "description": "<i>Dora Maar: Photographer</i>. Dorsky Gallery (April 25-June 28, 2004).",
+            "opening_date": "2004-04-25T04:00:00"
+          },
+          {
+            "id": 203169,
+            "title": "Forbidden Games: Surrealist and Modernist Photography",
+            "description": "<i>Forbidden Games: Surrealist and Modernist Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 19, 2014-January 11, 2015).",
+            "opening_date": "2014-10-19T00:00:00"
+          },
+          {
+            "id": 317519,
+            "title": "Dora Maar",
+            "description": "<i>Dora Maar</i>. Centre national d'art et de culture Georges Pompidou, Paris, France (organizer) (June 5-July 28, 2019); Tate Modern (November 19, 2019-March 15, 2020).",
+            "opening_date": "2019-06-05T04:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "<em>Dora Maar: Photographer. </em>Dorsky Gallery (April 25-June 28, 2004)",
+            "opening_date": "2004-04-25T00:00:00"
+          },
+          {
+            "description": "<em>Dora Maar: Bataille, Picasso, et les Surréalistes. </em>Haus der Kunst (October 13, 2001-January 6, 2002); Centre d'Art Tecla Sala (May 21-July 15, 2002)",
+            "opening_date": "2002-05-21T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "The artist's estate, Paris",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "(PIASA, Paris, Nov. 20, 1998, no. 69)",
+          "citations": [],
+          "footnotes": null,
+          "date": "November 20, 1998",
+          "sortorder": 2
+        },
+        {
+          "description": "(Edwynn Houk Gallery, New York, NY)",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 3
+        },
+        {
+          "description": "David Raymond [b.1979], New York, NY",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 4
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007-",
+          "sortorder": 5
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60780935"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E. Hinson, Ian Walker, and Lisa Kurzner. Forbidden Games: Surrealist and Modernist Photography : the David Raymond Collection in the Cleveland Museum of Art. 2014.",
+          "page_number": "Reproduced: p. 100; mentioned p. 101; mentioned: p. 224; reproduced: p. 225.",
+          "url": null
+        },
+        {
+          "citation": "Maar, Dora. Dora Maar: Bataille, Picasso et les surréalistes. [Marseille]: Musées de Marseille, 2000.",
+          "page_number": "Reproduced: p. 61, no. 35; mentioned: pp. 265.",
+          "url": null
+        },
+        {
+          "citation": "Maar, Dora, and Victoria Combalía Dexeus. Dora Maar: Haus der Kunst München, 13. Oktober 2001-6. Januar 2002 ; Musées de Marseille, Centre de la Vieille Charité, 20. Januar-4. Mai 2002 ; Centre Cultural Tecla Sala, L'Hospitalet Barcelona, 15. Mai- 15. Juli 2002. München: Haus der Kunst München, 2001.",
+          "page_number": "Reproduced: p. 75, no. 36; mentioned: pp. 321.",
+          "url": null
+        },
+        {
+          "citation": "Maar, Dora. Dora Maar: Photographer. Long Island City, NY: Dorsky Gallery, 2004.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Tani, Ellen Y., and Amanda Cachia. S<em>econd sight: the paradox of vision in contemporary art. </em>Brunswick, Maine : Bowdoin College Museum of Art ; New York, New York : Scala Arts &amp; Heritage Publishers Inc., 2018.<br> | ©2018.",
+          "page_number": "Reproduced and mentioned: p. 19, fig. 7",
+          "url": null
+        },
+        {
+          "citation": "Combalia, Victoria. \"Dora Maar, Street Photographer: Barcelona and London.\" In Dora Maar, 52-76. Eds., Damarice Amao, Amanda Maddox, and Karolina Ziebinska-Lewandowska. Exh. Cat. Los Angeles: The J. Paul Getty Museum, 2019.",
+          "page_number": "Mentioned: p. 54; Reproduced: p. 56, Plate 58.",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/2007.89",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 165685,
+      "creators": [
+        {
+          "id": 11223,
+          "description": "Dora Maar (French, 1907–1997)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1907",
+          "death_year": "1997",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2007-02-26T00:00:00",
+      "sortable_date": 1934,
+      "date_added_to_oa": null,
+      "date_text": "1934",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:08.060000"
+    },
+    {
+      "id": 151948,
+      "accession_number": "1984.24",
+      "share_license_status": "CC0",
+      "tombstone": "Rue de la Ferronnerie, c. 1865. Charles Marville (French, 1813–1879). Albumen print from wet collodion negative; image: 28 x 27 cm (11 x 10 5/8 in.); matted: 61 x 50.8 cm (24 x 20 in.). The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund, 1984.24",
+      "current_location": null,
+      "title": "Rue de la Ferronnerie",
+      "creation_date": "c. 1865",
+      "creation_date_earliest": 1860,
+      "creation_date_latest": 1870,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "albumen print from wet collodion negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "Photography",
+      "type": "Photograph",
+      "measurements": "Image: 28 x 27 cm (11 x 10 5/8 in.); Matted: 61 x 50.8 cm (24 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.28,
+          "width": 0.27
+        },
+        "matted": {
+          "height": 0.61,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil: \"Rue de la Ferronnerie de la rue de la Reyonie\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 309849,
+            "title": "Year in Review for 1984",
+            "description": "<i>Year in Review for 1984</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 3-May 5, 1985).",
+            "opening_date": "1985-04-03T05:00:00"
+          },
+          {
+            "id": 189766,
+            "title": "Industry and Photography: Selections from the Permanent Collection",
+            "description": "<i>Industry and Photography: Selections from the Permanent Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 16, 1997-March 1, 1998).",
+            "opening_date": "1997-11-16T00:00:00"
+          },
+          {
+            "id": 178867,
+            "title": "Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art",
+            "description": "<i>Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 26-June 16, 2005).",
+            "opening_date": "2005-02-26T00:00:00"
+          },
+          {
+            "id": 197576,
+            "title": "France at the Dawn of Photography",
+            "description": "<i>France at the Dawn of Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 4, 2009-January 24, 2010).",
+            "opening_date": "2009-10-04T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, April 3 - May 5, 1985: \"Year in Review 1984,\" CMA Bulletin, 72 (April 1985) p. 202, no. 58.",
+            "opening_date": "1985-04-03T00:00:00"
+          },
+          {
+            "description": "CMA, July 21 - October 18, 1987: \"Fraternite: Artistic Relations between France and America,\" Gallery A, no exhibtion catalogue.",
+            "opening_date": "1987-07-21T00:00:00"
+          },
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; 11/16/97 - 3/1/98.  \"Industry and Photography:  Selections from the Permanent Collection.\"",
+            "opening_date": "1997-11-16T00:00:00"
+          },
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; February 26 - June 16, 2005 . \"Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art\".",
+            "opening_date": "2005-02-26T00:00:00"
+          },
+          {
+            "description": "The Cleveland Museum of Art (10/04/2009 - 01/24/2010); \"France at the Dawn of Photography\"",
+            "opening_date": "2009-10-04T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "This Marville photograph is from his series on the old sections of Paris taken during the 1860s before Napoleon III and Baron Haussmann cut great boulevards through them. Marville achieved documentary perfection with precise rendering of materials, exact perspective, interesting forms, and luminous shadows. He preferred working on overcast, rainy days when diffused light and glistening cobblestones yielded maximum tonal range and detail. This beautiful photograph brings a quiet dignity to the old street.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60741237"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1984.24-rue-de-la-ferronneri"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 231",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1984.24",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1984.24/1984.24_web.jpg",
+          "width": "864",
+          "height": "893",
+          "filesize": "524893",
+          "filename": "1984.24_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1984.24/1984.24_print.jpg",
+          "width": "3290",
+          "height": "3400",
+          "filesize": "6455877",
+          "filename": "1984.24_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1984.24/1984.24_full.tif",
+          "width": "4725",
+          "height": "4883",
+          "filesize": "69250184",
+          "filename": "1984.24_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Leonard C. Hanna Jr. Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 151948,
+      "creators": [
+        {
+          "id": 635,
+          "description": "Charles Marville (French, 1813–1879)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "At the invitation of the city of Paris, photographer Charles Marville was among the first to document the ancient quarters of his birthplace. His views, taken in the late 1850s, were intended to record the many buildings and neighborhoods ultimately destroyed by Baron Georges-Eugène Haussmann's urban planning project that would create the boulevards and open spaces of modern Paris. While Marville's survey of the city, extensive and thorough in scope, prefigured other important efforts of its kind, it is distinguished by its emotional accessibility. His work beautifully reveals a Paris that has long disappeared. Originally trained as a painter and illustrator, Marville worked with both calotype and glass plate negatives. He photographed in France, Italy, Germany, and Algeria, becoming most well known for his architectural imagery but also producing acclaimed landscapes and studies of trees. Many of Marville's early views, often considered his best, were included in the albums of Louis-Désiré Blanquart-Évrard before the printer's establishment in Lille closed in 1855. Named official photographer of Paris in 1862, Marville also served as photographer to the Imperial Museum of the Louvre and to King Vittorio Emmanuelle of Italy. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1813",
+          "death_year": "1879",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1984-03-26T00:00:00",
+      "sortable_date": 1860,
+      "date_added_to_oa": null,
+      "date_text": "c. 1865",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 16:32:38.815000"
+    },
+    {
+      "id": 167172,
+      "accession_number": "2009.158.35",
+      "share_license_status": "Copyrighted",
+      "tombstone": "West 5th Street Alley, Tremont, 2002. Andrew Borowiec (American, b. 1956). Gelatin silver print; image: 32.3 x 47.8 cm (12 11/16 x 18 13/16 in.); paper: 40.4 x 50.4 cm (15 7/8 x 19 13/16 in.). The Cleveland Museum of Art, Gift of Mark Schwartz and Bettina Katz in honor of James and Hanna Bartlett, 2009.158.35. © Andrew Borowiec 2008",
+      "current_location": null,
+      "title": "West 5th Street Alley, Tremont",
+      "creation_date": "2002",
+      "creation_date_earliest": 2002,
+      "creation_date_latest": 2002,
+      "artists_tags": [
+        "May Show",
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 32.3 x 47.8 cm (12 11/16 x 18 13/16 in.); Paper: 40.4 x 50.4 cm (15 7/8 x 19 13/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.323,
+          "width": 0.478
+        },
+        "paper": {
+          "height": 0.404,
+          "width": 0.504
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Andrew Borowiec 2008",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"WEST 5TH ALLEY, CLEVELAND, 2003 Andrew Borowiec (signed) 1/25 03043-8\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 197811,
+            "title": "Andrew Borowiec: Cleveland Photographs",
+            "description": "<i>Andrew Borowiec: Cleveland Photographs</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 13-October 17, 2010).",
+            "opening_date": "2010-06-13T00:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Borowiec, who has been teaching photography at the University of Akron since the mid 1980s, has often turned his attention to the residential, commercial, and industrial landscapes of Ohio.This image belongs to a series of more than 40 commissioned works interpreting the Cleveland Flats, as well as the nearby neighborhoods of Tremont, Ohio City, and Slavic Village.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79998397"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2009.158.35",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Mark Schwartz and Bettina Katz in honor of James and Hanna Bartlett",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 167172,
+      "creators": [
+        {
+          "id": 34186,
+          "description": "Andrew Borowiec (American, b. 1956)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Andrew Borowiec American, 1956- Andrew Borowiec is a photographer, educator, and arts administrator. His black-and-white photographs of factory towns in the Ohio River Valley, a series that he has worked on extensively since the early 1990s, reveal an uneasy coexistence between residential and industrial sites, and between humans and their environment. Borowiec cites as influences the geographical writings of J. B. Jackson and the philosophies of photographer Frank Gohlke, with whom he studied in the early 1980s while a graduate student at Yale University School of Art. Born in New York City, Borowiec attended high school at the École Internationale in Geneva, Switzerland, and moved back across the Atlantic to earn a B.A. in Russian from Haverford College (1979). That same year, he took a workshop with Garry Winogrand at the International Center of Photography, where he also worked as a staff photographer (1979-80). Borowiec received his M.F.A. from Yale (1982); in addition to Gohlke, his teachers included Richard Benson, Jan Groover, Ben Lifson, and Tod Papageorge. In 1980 Borowiec served as assistant director of the Workshop Program for the Rencontres Internationales de la Photographie in Arles, France. Throughout his career he has completed various commissions for academic periodicals as well as civic and cultural institutions. Borowiec has held faculty positions at the New School for Social Research (1982-84), Parsons School of Design (1983-84), and Oberlin College (1990). His numerous awards include fellowships from the National Endowment for the Arts (1985, 1988) and the Folk Endowment Grant (1993). Since 1984 he has taught at the University of Akron School of Art. A.W.<br>Biographical information exists in the Cleveland Museum of Art Archives.",
+          "name_in_original_language": null,
+          "birth_year": "1956",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2009-06-08T00:00:00",
+      "sortable_date": 2002,
+      "date_added_to_oa": null,
+      "date_text": "2002",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2009.158",
+      "is_nazi_era_provenance": false,
+      "impression": "1",
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:42.882000"
+    },
+    {
+      "id": 524239,
+      "accession_number": "2023.67",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Arthur and Basil, 1947. Ruth Orkin (American, 1921–1985). Gelatin silver print; image: 17.8 x 24.1 cm (7 x 9 1/2 in.). The Cleveland Museum of Art, Gift of Mary Engel/Ruth Orkin Photo Archive, 2023.67",
+      "current_location": null,
+      "title": "Arthur and Basil",
+      "creation_date": "1947",
+      "creation_date_earliest": 1947,
+      "creation_date_latest": 1947,
+      "artists_tags": [
+        "female",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 17.8 x 24.1 cm (7 x 9 1/2 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.178,
+          "width": 0.241
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Orkin/Engle Film & Photo Archive, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "?-2022",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 5, 2022-",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Ruth Orkin photographed many of the most important classical musicians of the 20th century including Arthur Rubinstein, one of the finest classical pianists of the day<strong>.</strong>",
+      "description": "Orkin was assigned by Rubinstein’s manager to photograph his daily activities. “I <em>only</em> had to keep up with him while he did all his various errands,” she recalled. In this image, she captured his chance encounter on the street with a friend, movie star Basil Rathbone. At the end of the day, the musician seemed fine, but Orkin was exhausted, “even though he is at least thirty-five years older than I am!”",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q122583530"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2023.67",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Mary Engel/Ruth Orkin Photo Archive",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 524239,
+      "creators": [
+        {
+          "id": 316533,
+          "description": "Ruth Orkin (American, 1921–1985)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "American photographer, 1921-1985",
+          "name_in_original_language": null,
+          "birth_year": "1921",
+          "death_year": "1985",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2023-06-05T04:00:00Z",
+      "sortable_date": 1947,
+      "date_added_to_oa": null,
+      "date_text": "1947",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:58.832000"
+    },
+    {
+      "id": 169395,
+      "accession_number": "2011.245",
+      "share_license_status": "Copyrighted",
+      "tombstone": "The Destruction of Lower Manhattan: 18 Spruce Street , 1966–67. Danny Lyon (American, 1942-). Gelatin silver print; image: 23.5 x 29.9 cm (9 1/4 x 11 3/4 in.); paper: 27.7 x 35.4 cm (10 7/8 x 13 15/16 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, Gift of George Stephanopoulos, 2011.245",
+      "current_location": null,
+      "title": "18 Spruce Street ",
+      "series": "The Destruction of Lower Manhattan",
+      "creation_date": "1966–67",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1967,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 23.5 x 29.9 cm (9 1/4 x 11 3/4 in.); Paper: 27.7 x 35.4 cm (10 7/8 x 13 15/16 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.235,
+          "width": 0.299
+        },
+        "paper": {
+          "height": 0.277,
+          "width": 0.354
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Signed, titled and dated on verso\r\nartist's \"Bleak Beauty\" stamp also on verso",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 306442,
+            "title": "Danny Lyon: The Destruction of Lower Manhattan",
+            "description": "<i>Danny Lyon: The Destruction of Lower Manhattan</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 19-October 7, 2018).",
+            "opening_date": "2018-05-19T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "George Stephanopoulos",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "The Brooklyn Bridge Southwest urban renewal area comprised industrial and commercial structures that had been a center for the leather tanning, printing, and lithography trades. Planning for the project began in the mid-1950s, but the tenants were not relocated until 1964. Businesses that had operated there for the past 70 years were displaced; most managed to survive despite the move. The project was financed by federal, state, and city governments, as well as private developers.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80076645"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2011.245",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George Stephanopoulos",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 169395,
+      "creators": [
+        {
+          "id": 601,
+          "description": "Danny Lyon (American, 1942-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Danny Lyon American, 1942- Danny Lyon (born in Brooklyn) came to attention in the 1960s as a social documentary photographer whose sympathies with his subjects often grew from personal involvement in their causes. While studying history at the University of Chicago (B.A., 1963), he joined the Student Non-Violent Coordinating Committee and served as the group's photographer. Since 1967 he has been an associate for the magnum photo agency and made extensive photo essays in the late 1960s-70s on the civil rights movement (The Movement, 1964), the Chicago Outlaws Motorcycle Club, of which he was a member (The Bikeriders, 1968), the demolition of historic 19th-century buildings in New York City (The Destruction of Lower Manhattan, 1969), and Texas prisons (Conversations with the Dead, 1971). For that series, Lyon included with his black-and-white photographs excerpts from handwritten letters, drawings, police reports, and telegrams. In 1977 the U.S. Justice Department used his images in a landmark legal case (Ruiz vs. Estelle) to improve conditions in prisons throughout Texas. Since the 1980s, Lyon has traveled to Colombia to photograph street children and prostitutes (The Paper Negative, 1980) and to Haiti to cover the events leading up to the collapse of the Duvalier regime in 1986. His own family has also become a continued subject of his work. Parallel to his photography, Lyon has made numerous films that are shown regularly in universities across the United States: Social Sciences 127 (1969), Llanito (1971), El Mojado (1973), Los Niños Abandonados (1975), Dear Mark (1975-80), Little Boy (1977), Willie (1986-87), and Media Man (c. 1993). He has published his own works since 1988 under the imprint Bleak Beauty Books, in collaboration with his wife, Nancy Lyon, and Michael Hausman. Lyon has also taught nonfiction film at the State University of New York at Buffalo (1986) and at Columbia University (1987-90). Among his honors are fellowships from the John Simon Guggenheim Memorial Foundation (1969, 1979) and the Rockefeller Foundation (1990). He has had one-person exhibitions at the Art Institute of Chicago (1966, 1969), the Newport Harbor Art Museum in California (1973), and the Philadelphia Museum of Art (1982). In 1991 a retrospective, Danny Lyon Photo Film, with accompanying catalogue, traveled internationally. Lyon lives in Clintondale, New York. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1942",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2011-12-05T00:00:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–67",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:41.732000"
+    },
+    {
+      "id": 311830,
+      "accession_number": "2018.308",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Brooklyn, N.Y., 1988. Dawoud Bey (American, b. 1953). Gelatin silver print from Type 55 Polaroid film; image: 54.9 x 43.2 cm (21 5/8 x 17 in.); paper: 60.7 x 50.8 cm (23 7/8 x 20 in.). The Cleveland Museum of Art, Gift of Carl and Joan Schneider, 2018.308",
+      "current_location": null,
+      "title": "Brooklyn, N.Y.",
+      "creation_date": "1988",
+      "creation_date_earliest": 1988,
+      "creation_date_latest": 1988,
+      "artists_tags": [
+        "Black American Artists",
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print from Type 55 Polaroid film",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 54.9 x 43.2 cm (21 5/8 x 17 in.); Paper: 60.7 x 50.8 cm (23 7/8 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.549,
+          "width": 0.432
+        },
+        "paper": {
+          "height": 0.607,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “663.109.1.13”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “Dawoud Bey (signed) 1988”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Private Collection",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "Stephen Daiter Gallery, Chicago, IL",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "Carl and Joan Schneider, Whitmore Lake, MI",
+          "citations": [],
+          "footnotes": null,
+          "date": "2017-2018",
+          "sortorder": 3
+        },
+        {
+          "description": "the Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 3, 2018",
+          "sortorder": 4
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Spike Lee’s movie set in Brooklyn, <em>Do the Right Thing</em>, was shot the same year Bey shot this photograph.",
+      "description": "Bey’s forty-year career began with street photography, a spontaneous, voyeuristic way of shooting. After sixteen years, he started feeling frustrated by the distance from the subject imposed by that practice and in 1988, he initiated a series of studied portraits like this one that directly engaged the sitters in consensual exchange.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79874504"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.308",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Carl and Joan Schneider",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 311830,
+      "creators": [
+        {
+          "id": 42884,
+          "description": "Dawoud Bey (American, b. 1953)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1953",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1988,
+      "date_added_to_oa": null,
+      "date_text": "1988",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:47.752000"
+    },
+    {
+      "id": 169397,
+      "accession_number": "2011.247",
+      "share_license_status": "Copyrighted",
+      "tombstone": "The Destruction of Lower Manhattan: West Street and the West Side Highway, Just North of the Trade Center Site, 1966–67. Danny Lyon (American, 1942-). Gelatin silver print; image: 25.4 x 24.9 cm (10 x 9 13/16 in.); paper: 35.4 x 27.7 cm (13 15/16 x 10 7/8 in.). The Cleveland Museum of Art, Gift of George Stephanopoulos, 2011.247",
+      "current_location": null,
+      "title": "West Street and the West Side Highway, Just North of the Trade Center Site",
+      "series": "The Destruction of Lower Manhattan",
+      "creation_date": "1966–67",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1967,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 25.4 x 24.9 cm (10 x 9 13/16 in.); Paper: 35.4 x 27.7 cm (13 15/16 x 10 7/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.254,
+          "width": 0.249
+        },
+        "paper": {
+          "height": 0.354,
+          "width": 0.277
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Signed, titled and dated on verso\r\nartist's \"Bleak Beauty\" stamp also on verso",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 306442,
+            "title": "Danny Lyon: The Destruction of Lower Manhattan",
+            "description": "<i>Danny Lyon: The Destruction of Lower Manhattan</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 19-October 7, 2018).",
+            "opening_date": "2018-05-19T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "George Stephanopoulos",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "The Washington Street Market urban renewal project was estimated at $44 million for property acquisition, demolition, management, and site preparation for future construction. Lyon recalls that the demolition of the structures seen here and those on adjoining blocks “brought down 24 and a half blocks of mostly 19th-century buildings . . . [many] in continuous commercial use since before the Civil War. . . . The silence left in the streets was startling. As one wanderer put it, everyone left one night, even the dogs and the rats.”",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80076649"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2011.247",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George Stephanopoulos",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 169397,
+      "creators": [
+        {
+          "id": 601,
+          "description": "Danny Lyon (American, 1942-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Danny Lyon American, 1942- Danny Lyon (born in Brooklyn) came to attention in the 1960s as a social documentary photographer whose sympathies with his subjects often grew from personal involvement in their causes. While studying history at the University of Chicago (B.A., 1963), he joined the Student Non-Violent Coordinating Committee and served as the group's photographer. Since 1967 he has been an associate for the magnum photo agency and made extensive photo essays in the late 1960s-70s on the civil rights movement (The Movement, 1964), the Chicago Outlaws Motorcycle Club, of which he was a member (The Bikeriders, 1968), the demolition of historic 19th-century buildings in New York City (The Destruction of Lower Manhattan, 1969), and Texas prisons (Conversations with the Dead, 1971). For that series, Lyon included with his black-and-white photographs excerpts from handwritten letters, drawings, police reports, and telegrams. In 1977 the U.S. Justice Department used his images in a landmark legal case (Ruiz vs. Estelle) to improve conditions in prisons throughout Texas. Since the 1980s, Lyon has traveled to Colombia to photograph street children and prostitutes (The Paper Negative, 1980) and to Haiti to cover the events leading up to the collapse of the Duvalier regime in 1986. His own family has also become a continued subject of his work. Parallel to his photography, Lyon has made numerous films that are shown regularly in universities across the United States: Social Sciences 127 (1969), Llanito (1971), El Mojado (1973), Los Niños Abandonados (1975), Dear Mark (1975-80), Little Boy (1977), Willie (1986-87), and Media Man (c. 1993). He has published his own works since 1988 under the imprint Bleak Beauty Books, in collaboration with his wife, Nancy Lyon, and Michael Hausman. Lyon has also taught nonfiction film at the State University of New York at Buffalo (1986) and at Columbia University (1987-90). Among his honors are fellowships from the John Simon Guggenheim Memorial Foundation (1969, 1979) and the Rockefeller Foundation (1990). He has had one-person exhibitions at the Art Institute of Chicago (1966, 1969), the Newport Harbor Art Museum in California (1973), and the Philadelphia Museum of Art (1982). In 1991 a retrospective, Danny Lyon Photo Film, with accompanying catalogue, traveled internationally. Lyon lives in Clintondale, New York. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1942",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2011-12-05T00:00:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–67",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:49.297000"
+    }
+  ]
+}

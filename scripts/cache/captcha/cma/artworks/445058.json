@@ -1,0 +1,127 @@
+{
+  "data": {
+    "id": 445058,
+    "accession_number": "2021.151",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Rust, 2014. Sara VanDerBeek (American, b. 1976). Digital C-print; image: 198.1 x 121.9 cm (78 x 48 in.). The Cleveland Museum of Art, Gift of the Artist, 2021.151",
+    "current_location": null,
+    "title": "Rust",
+    "creation_date": "2014",
+    "creation_date_earliest": 2014,
+    "creation_date_latest": 2014,
+    "artists_tags": [
+      "female"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "Digital C-print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1951-Present",
+    "type": "Photograph",
+    "measurements": "Image: 198.1 x 121.9 cm (78 x 48 in.)",
+    "dimensions": {
+      "image": {
+        "height": 1.981,
+        "width": 1.219
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": "edition 1/3",
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Imprinted adhesive framer's label: \"EAST FRAMES/Fine Custom Framing//543 Union Street-Brooklyn-New York-11215/718-852-2652/www.eastframes.com/( ) Glass/( ) Plexiglass/ ( ) Ultraviolet filtering plexi glass/( ) ultraviolet filtering glass/( ) Optimum Plexiglass\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      },
+      {
+        "inscription": "Imprinted on white gallery label on verso: \"METRO PICTURES/519 West 24th Street New York NY  10011/Sara VanDerBeek (signed)/Sara VanDerBeek/Rust, 2014/Digital c-print/78 x 48 inches (image)/198.1 x 121.9 cm/edition 1/3/(MP#214)\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Sara VanDerBeek (the artist) [b. 1976]",
+        "citations": [],
+        "footnotes": null,
+        "date": "2014–21",
+        "sortorder": 1
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "September 13, 2021-",
+        "sortorder": 2
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "Since cities are constantly in transition, Sara VanDerBeek bases her city “portraits” on areas that are historically important or have undergone dramatic shifts.",
+    "description": "<em>Rust</em> was inspired by rusty metal roofing from the Alhambra apartments in the Cleveland neighborhood of Hough, which were demolished in 2011. VanDerBeek toned the image blue, a color that recalled for her “the quality of light and the presence of the sky and various materials throughout Cleveland,” blueprints in the studio of the late architect Robert Little, and cyanotypes, an early photographic process related to blueprints. The horizontal lines and gradually deepening color could be read as a seascape or the sky at dusk, transforming an image of urban decay into an image of natural beauty.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q117246906"
+      ],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "Steven Litt, “Sara VanDerBeek avoids ‘ruin porn’ cliches in MOCA Cleveland show on decay in Hough and East Cleveland – and growth in Uptown, <em>Cleveland Plain Dealer</em>, posted May 7, 2014, updated January 12, 2019,",
+        "page_number": "",
+        "url": "https://www.cleveland.com/arts/2014/05/the_art_of_sara_vanderbeek_at.html"
+      }
+    ],
+    "url": "https://clevelandart.org/art/2021.151",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of the Artist",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 445058,
+    "creators": [
+      {
+        "id": 445056,
+        "description": "Sara VanDerBeek (American, b. 1976)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1976",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2021-09-13T04:00:00Z",
+    "sortable_date": 2014,
+    "date_added_to_oa": null,
+    "date_text": "2014",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:02:16.703000"
+  }
+}

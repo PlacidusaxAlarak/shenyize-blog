@@ -1,0 +1,2359 @@
+{
+  "info": {
+    "total": 114,
+    "parameters": {
+      "skip": 60,
+      "limit": 20,
+      "q": "bridge photograph",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,department,gallery,classification_type,collection",
+      "search": "bridge photograph"
+    }
+  },
+  "data": [
+    {
+      "id": 162573,
+      "accession_number": "2003.197",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Under Veterans Memorial Bridge, 1991. Lois Conner (American, b. 1951). Platinum print; image: 16.5 x 42 cm (6 1/2 x 16 9/16 in.); matted: 35.6 x 58.4 cm (14 x 23 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, The Cleveland Museum of Art, 2003.197",
+      "current_location": null,
+      "title": "Under Veterans Memorial Bridge",
+      "creation_date": "1991",
+      "creation_date_earliest": 1991,
+      "creation_date_latest": 1991,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "platinum print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 16.5 x 42 cm (6 1/2 x 16 9/16 in.); Matted: 35.6 x 58.4 cm (14 x 23 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.165,
+          "width": 0.42
+        },
+        "matted": {
+          "height": 0.356,
+          "width": 0.584
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": [
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; November 17, 2002 - January 26, 2003.  \"A City Seen:  Photographs from The George Gund Foundation\", not in exh. cat.",
+            "opening_date": "2002-11-17T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "The George Gund Foundation Collection",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79987231"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2003.197",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The George Gund Foundation Collection in honor of David Bergholz, The Cleveland Museum of Art",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 162573,
+      "creators": [
+        {
+          "id": 42873,
+          "description": "Lois Conner (American, b. 1951)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1951",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2003-09-02T00:00:00",
+      "sortable_date": 1991,
+      "date_added_to_oa": null,
+      "date_text": "1991",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:04.961000"
+    },
+    {
+      "id": 169395,
+      "accession_number": "2011.245",
+      "share_license_status": "Copyrighted",
+      "tombstone": "The Destruction of Lower Manhattan: 18 Spruce Street , 1966–67. Danny Lyon (American, 1942-). Gelatin silver print; image: 23.5 x 29.9 cm (9 1/4 x 11 3/4 in.); paper: 27.7 x 35.4 cm (10 7/8 x 13 15/16 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, Gift of George Stephanopoulos, 2011.245",
+      "current_location": null,
+      "title": "18 Spruce Street ",
+      "series": "The Destruction of Lower Manhattan",
+      "creation_date": "1966–67",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1967,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 23.5 x 29.9 cm (9 1/4 x 11 3/4 in.); Paper: 27.7 x 35.4 cm (10 7/8 x 13 15/16 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.235,
+          "width": 0.299
+        },
+        "paper": {
+          "height": 0.277,
+          "width": 0.354
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Signed, titled and dated on verso\r\nartist's \"Bleak Beauty\" stamp also on verso",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 306442,
+            "title": "Danny Lyon: The Destruction of Lower Manhattan",
+            "description": "<i>Danny Lyon: The Destruction of Lower Manhattan</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 19-October 7, 2018).",
+            "opening_date": "2018-05-19T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "George Stephanopoulos",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "The Brooklyn Bridge Southwest urban renewal area comprised industrial and commercial structures that had been a center for the leather tanning, printing, and lithography trades. Planning for the project began in the mid-1950s, but the tenants were not relocated until 1964. Businesses that had operated there for the past 70 years were displaced; most managed to survive despite the move. The project was financed by federal, state, and city governments, as well as private developers.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80076645"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2011.245",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George Stephanopoulos",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 169395,
+      "creators": [
+        {
+          "id": 601,
+          "description": "Danny Lyon (American, 1942-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Danny Lyon American, 1942- Danny Lyon (born in Brooklyn) came to attention in the 1960s as a social documentary photographer whose sympathies with his subjects often grew from personal involvement in their causes. While studying history at the University of Chicago (B.A., 1963), he joined the Student Non-Violent Coordinating Committee and served as the group's photographer. Since 1967 he has been an associate for the magnum photo agency and made extensive photo essays in the late 1960s-70s on the civil rights movement (The Movement, 1964), the Chicago Outlaws Motorcycle Club, of which he was a member (The Bikeriders, 1968), the demolition of historic 19th-century buildings in New York City (The Destruction of Lower Manhattan, 1969), and Texas prisons (Conversations with the Dead, 1971). For that series, Lyon included with his black-and-white photographs excerpts from handwritten letters, drawings, police reports, and telegrams. In 1977 the U.S. Justice Department used his images in a landmark legal case (Ruiz vs. Estelle) to improve conditions in prisons throughout Texas. Since the 1980s, Lyon has traveled to Colombia to photograph street children and prostitutes (The Paper Negative, 1980) and to Haiti to cover the events leading up to the collapse of the Duvalier regime in 1986. His own family has also become a continued subject of his work. Parallel to his photography, Lyon has made numerous films that are shown regularly in universities across the United States: Social Sciences 127 (1969), Llanito (1971), El Mojado (1973), Los Niños Abandonados (1975), Dear Mark (1975-80), Little Boy (1977), Willie (1986-87), and Media Man (c. 1993). He has published his own works since 1988 under the imprint Bleak Beauty Books, in collaboration with his wife, Nancy Lyon, and Michael Hausman. Lyon has also taught nonfiction film at the State University of New York at Buffalo (1986) and at Columbia University (1987-90). Among his honors are fellowships from the John Simon Guggenheim Memorial Foundation (1969, 1979) and the Rockefeller Foundation (1990). He has had one-person exhibitions at the Art Institute of Chicago (1966, 1969), the Newport Harbor Art Museum in California (1973), and the Philadelphia Museum of Art (1982). In 1991 a retrospective, Danny Lyon Photo Film, with accompanying catalogue, traveled internationally. Lyon lives in Clintondale, New York. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1942",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2011-12-05T00:00:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–67",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:41.732000"
+    },
+    {
+      "id": 522605,
+      "accession_number": "2022.344",
+      "share_license_status": "CC0",
+      "tombstone": "Bridge of St. Martin, Toledo, 1914. J. Craig Annan (British, 1864–1946). Rotogravure; image: 13.3 x 18.4 cm (5 1/4 x 7 1/4 in.). The Cleveland Museum of Art, Gift of Nina Rosenblum and Lisa Rosenblum, 2022.344",
+      "current_location": null,
+      "title": "Bridge of St. Martin, Toledo",
+      "creation_date": "1914",
+      "creation_date_earliest": 1914,
+      "creation_date_latest": 1914,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Scotland, 20th century"
+      ],
+      "technique": "Rotogravure",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 20th Century",
+      "type": "Photograph",
+      "measurements": "Image: 13.3 x 18.4 cm (5 1/4 x 7 1/4 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.133,
+          "width": 0.184
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Naomi Rosenblum [1925-2021], New York, NY",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "Estate of Naomi Rosenblum, Long Island City, NY, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2021–22",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 5, 2022-",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117842817"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2022.344",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.344/2022.344_web.jpg",
+          "width": "900",
+          "height": "637",
+          "filesize": "174511",
+          "filename": "2022.344_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.344/2022.344_print.jpg",
+          "width": "3400",
+          "height": "2406",
+          "filesize": "2969400",
+          "filename": "2022.344_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.344/2022.344_full.tif",
+          "width": "10652",
+          "height": "7538",
+          "filesize": "240912878",
+          "filename": "2022.344_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-07-02T13:07:21",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2022.344/2022.344_alt0_web.jpg",
+            "width": "900",
+            "height": "658",
+            "filesize": "261921"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2022.344/2022.344_alt0_print.jpg",
+            "width": "3400",
+            "height": "2485",
+            "filesize": "3903216"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2022.344/2022.344_alt0_full.tif",
+            "width": "6539",
+            "height": "4780",
+            "filesize": "93800478"
+          }
+        }
+      ],
+      "creditline": "Gift of Nina Rosenblum and Lisa Rosenblum",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 522605,
+      "creators": [
+        {
+          "id": 19936,
+          "description": "J. Craig Annan (British, 1864–1946)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "J. Craig Annan British, b. Scotland, 1864-1946 J. Craig Annan was the son of Thomas Annan (1829-1887), one of Scotland's important early photographers who was known especially for his documentary work in Glasgow's slums. Thomas Annan was a master of the gravure process and a friend of pioneering photographer David Octavius Hill. Both father and son learned the techniques of photogravure in Vienna from its inventor, Karel Kli . Bringing the process back to Britain, they became photographers and photoengravers to Queen Victoria. Along with his brother John, also a photographer, J. Craig worked at the family's successful printing business, T. &amp; R. Annan and Sons, for some 35 years. Inspired by impressionism, James Abbott McNeill Whistler, and Japanese prints, Annan embraced pictorialism in his own work and was one of the first to experiment with a hand-held camera. He corresponded with Alfred Stieglitz, sending examples of the work of David Octavius Hill and Robert Adamson, which led to their publication in Camera Work. He also supplied his own photogravures, as well as those of other British photographers, for inclusion in Stieglitz's magazines. A leading professional portrait photographer, Annan was also known for his outdoor figures and pastoral settings influenced by the Barbizon School. He exhibited widely, including a one-person retrospective at London's Royal Photographic Society. He was a member of the Linked Ring and first president of the International Society of Pictorial Photographers, as well as an active member of many other photographic and cultural organizations. He was made an Honorary Fellow of the Royal Photographic Society in 1924. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1864",
+          "death_year": "1946",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2022-12-05T05:00:00Z",
+      "sortable_date": 1914,
+      "date_added_to_oa": null,
+      "date_text": "1914",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:54.334000"
+    },
+    {
+      "id": 170253,
+      "accession_number": "2012.426",
+      "share_license_status": "Copyrighted",
+      "tombstone": "The Destruction of Lower Manhattan: A Week Later.  Women Search for the Beekman Hospital, 1967, printed 2007. Danny Lyon (American, 1942-). Gelatin silver print; image: 23.3 x 29.8 cm (9 3/16 x 11 3/4 in.); paper: 27.7 x 35.4 cm (10 7/8 x 13 15/16 in.). The Cleveland Museum of Art, Gift of George Stephanopoulos, 2012.426",
+      "current_location": null,
+      "title": "A Week Later.  Women Search for the Beekman Hospital",
+      "series": "The Destruction of Lower Manhattan",
+      "creation_date": "1967, printed 2007",
+      "creation_date_earliest": 1967,
+      "creation_date_latest": 1967,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 23.3 x 29.8 cm (9 3/16 x 11 3/4 in.); Paper: 27.7 x 35.4 cm (10 7/8 x 13 15/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.233,
+          "width": 0.298
+        },
+        "paper": {
+          "height": 0.277,
+          "width": 0.354
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"DLM65\"\r\nWritten in pencil on verso: \"Danny Lyon (signed)\"\r\nStamped in red ink on verso: \"Printer u (in pencil)/BLEAK BEAUTY/Picture Date 67 (in pencil) (star) Print Date 7 (in pencil)\r\n",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 306442,
+            "title": "Danny Lyon: The Destruction of Lower Manhattan",
+            "description": "<i>Danny Lyon: The Destruction of Lower Manhattan</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 19-October 7, 2018).",
+            "opening_date": "2018-05-19T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "The St. George Building at the intersection of Beekman and Cliff Streets was built as a warehouse in 1870, one year after construction began on the nearby Brooklyn Bridge. The building was named after a succession of churches that had occupied the site from 1752 to 1868. Lyon made a series of images showing the progress of the warehouse’s demolition. Today, not even the intersection remains. In 1971 it was subsumed into a cooperative apartment complex consisting of four 27-story buildings that still occupy the site.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80078677"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2012.426",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George Stephanopoulos",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 170253,
+      "creators": [
+        {
+          "id": 601,
+          "description": "Danny Lyon (American, 1942-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Danny Lyon American, 1942- Danny Lyon (born in Brooklyn) came to attention in the 1960s as a social documentary photographer whose sympathies with his subjects often grew from personal involvement in their causes. While studying history at the University of Chicago (B.A., 1963), he joined the Student Non-Violent Coordinating Committee and served as the group's photographer. Since 1967 he has been an associate for the magnum photo agency and made extensive photo essays in the late 1960s-70s on the civil rights movement (The Movement, 1964), the Chicago Outlaws Motorcycle Club, of which he was a member (The Bikeriders, 1968), the demolition of historic 19th-century buildings in New York City (The Destruction of Lower Manhattan, 1969), and Texas prisons (Conversations with the Dead, 1971). For that series, Lyon included with his black-and-white photographs excerpts from handwritten letters, drawings, police reports, and telegrams. In 1977 the U.S. Justice Department used his images in a landmark legal case (Ruiz vs. Estelle) to improve conditions in prisons throughout Texas. Since the 1980s, Lyon has traveled to Colombia to photograph street children and prostitutes (The Paper Negative, 1980) and to Haiti to cover the events leading up to the collapse of the Duvalier regime in 1986. His own family has also become a continued subject of his work. Parallel to his photography, Lyon has made numerous films that are shown regularly in universities across the United States: Social Sciences 127 (1969), Llanito (1971), El Mojado (1973), Los Niños Abandonados (1975), Dear Mark (1975-80), Little Boy (1977), Willie (1986-87), and Media Man (c. 1993). He has published his own works since 1988 under the imprint Bleak Beauty Books, in collaboration with his wife, Nancy Lyon, and Michael Hausman. Lyon has also taught nonfiction film at the State University of New York at Buffalo (1986) and at Columbia University (1987-90). Among his honors are fellowships from the John Simon Guggenheim Memorial Foundation (1969, 1979) and the Rockefeller Foundation (1990). He has had one-person exhibitions at the Art Institute of Chicago (1966, 1969), the Newport Harbor Art Museum in California (1973), and the Philadelphia Museum of Art (1982). In 1991 a retrospective, Danny Lyon Photo Film, with accompanying catalogue, traveled internationally. Lyon lives in Clintondale, New York. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1942",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2012-12-03T00:00:00",
+      "sortable_date": 1967,
+      "date_added_to_oa": null,
+      "date_text": "1967, printed 2007",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:55.303000"
+    },
+    {
+      "id": 306682,
+      "accession_number": "2017.237",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Andrea Persanyi, 2003. Andrea Modica (American, b. 1960). Gelatin silver print; image: 25.2 x 20.3 cm (9 15/16 x 8 in.); paper: 25.2 x 20.3 cm (9 15/16 x 8 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, 2017.237",
+      "current_location": null,
+      "title": "Andrea Persanyi",
+      "creation_date": "2003",
+      "creation_date_earliest": 2003,
+      "creation_date_latest": 2003,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "United States"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 25.2 x 20.3 cm (9 15/16 x 8 in.); Paper: 25.2 x 20.3 cm (9 15/16 x 8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.252,
+          "width": 0.203
+        },
+        "paper": {
+          "height": 0.252,
+          "width": 0.203
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “Hard Hatted Women for the George Gund Fdn”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “Cleveland, OH 2003 Andrea Modica (signed)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "An architect who was laid off as a design specialist, Persanyi joined the Ohio Department of Transportation as a bridge inspector in 1993. Ten years later she was the only woman in her unit. She received assistance in changing her career from the Cleveland organization Hard Hatted Women, which helps women launch nontraditional careers.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79873229"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2017.237",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The George Gund Foundation Collection in honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 306682,
+      "creators": [
+        {
+          "id": 23620,
+          "description": "Andrea Modica (American, b. 1960)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1960",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2017-12-04T00:00:00-05:00",
+      "sortable_date": 2003,
+      "date_added_to_oa": null,
+      "date_text": "2003",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:59.801000"
+    },
+    {
+      "id": 447662,
+      "accession_number": "2021.195",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Cuyahoga Valley National Park: On the bank of the Cuyahoga River near Boston Store, 2005. Geoffrey James (British, 1942-). Gelatin silver print; image: 19.8 x 48.3 cm (7 13/16 x 19 in.); paper: 25.3 x 50.5 cm (9 15/16 x 19 7/8 in.). The Cleveland Museum of Art, Gift of the George Gund Foundation Collection in Honor of David Bergholz, 2021.195",
+      "current_location": null,
+      "title": "On the bank of the Cuyahoga River near Boston Store",
+      "series": "Cuyahoga Valley National Park",
+      "creation_date": "2005",
+      "creation_date_earliest": 2005,
+      "creation_date_latest": 2005,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 19.8 x 48.3 cm (7 13/16 x 19 in.); Paper: 25.3 x 50.5 cm (9 15/16 x 19 7/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.198,
+          "width": 0.483
+        },
+        "paper": {
+          "height": 0.253,
+          "width": 0.505
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “Along the River 2005 1/10 Geoffrey James (signed)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Geoffrey James (the artist) [1942-], Toronto, Ontario, Canada",
+          "citations": [],
+          "footnotes": null,
+          "date": "2005",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation Collection, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2005-2021",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 6, 2021",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The Cuyahoga Valley National Park, which runs between Akron and Cleveland, is land that has been occupied by humans for over 1,200 years.",
+      "description": "In his views of the Cuyahoga Valley National Park, landscape photographer Geoffrey James shows us natural beauty, but also reminders of the impact of humans on the land such as fragments of the abandoned locks of the Ohio &amp; Erie Canal and modern bridges. James described the park as “a great democratic open space. . . like no other national park I have seen.”",
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "<em>George Gund Foundation2005 Annual Report: The Cuyahoga Valley National Park</em>, Cleveland: George Gund Foundation, 2005.",
+          "page_number": "",
+          "url": "https://gundfoundation.org/portfolios/cuyahoga-valley-national-park/"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2021.195",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of the George Gund Foundation Collection in Honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 447662,
+      "creators": [
+        {
+          "id": 509,
+          "description": "Geoffrey James (British, 1942-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Geoffrey James British, b. Wales, 1942- The garden panoramas for which Geoffrey James is best known depict utopian spaces that, since the height of their grandeur in centuries past, have fallen into decay and neglect. He uses a large-format camera fitted with a curved film plane to allow the dramatic curves of his architectural and natural subjects to speak most effectively. The resulting monochromatic panoramas are three times longer than they are high, which allows for multiple vantage points and the play of perspective. James's most obvious historical precedent is Eugène Atget, whose extensive series of Parisian gardens speak with a similar technical vocabulary. James (born in St. Asaph) was educated at Wellington College in Crowthorne, Berkshire, and at Wadham College, Oxford, where he studied modern history (B.A., 1962; M.A., 1964). He taught himself photography in 1965, then moved to Canada, working for several years as contributing editor of Time magazine in Montreal (1967-75), as head of the Visual Arts Section of the Canada Council, Ottawa (1975-82), and on various independent freelance projects. James has also taught at the University of Ottawa (1982-84) and has received a fellowship from the Graham Foundation in Fine Arts (1984) and an artist-in-residency from the Centre International de Recherche de Création et d'Animation, Villeneuve-les-Avignon, France (1985). A retrospective of his work, Genius Loci, was organized by the Canadian Museum of Contemporary Photography (1986). His publications include Transparent Things: The Artist's Use of Photography (1977), The Legacy of Atget (coauthor, 1977), Visions: Essays on Contemporary Canadian Art (coeditor, 1977), Entrances and Exits (1984), I Giardini Italiani (1985), Genius Loci (1986), and Morbid Symptoms (1987). James lives in Toronto. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1942",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2021-12-06T05:00:00Z",
+      "sortable_date": 2005,
+      "date_added_to_oa": null,
+      "date_text": "2005",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:29.623000"
+    },
+    {
+      "id": 171737,
+      "accession_number": "2014.491",
+      "share_license_status": "Copyrighted",
+      "tombstone": "The Destruction of Lower Manhattan: Huey and Dominick, Foreman. Both Men Have Brought Down Many of the Buildings on the Brooklyn Bridge Site. Dominick Directed the Demolition of 100 Gold Street, 1966–67. Danny Lyon (American, 1942-). Gelatin silver print; image: 25.3 x 24.9 cm (9 15/16 x 9 13/16 in.); paper: 35.4 x 27.7 cm (13 15/16 x 10 7/8 in.). The Cleveland Museum of Art, Gift of George Stephanopoulos, 2014.491",
+      "current_location": null,
+      "title": "Huey and Dominick, Foreman. Both Men Have Brought Down Many of the Buildings on the Brooklyn Bridge Site. Dominick Directed the Demolition of 100 Gold Street",
+      "series": "The Destruction of Lower Manhattan",
+      "creation_date": "1966–67",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1967,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 25.3 x 24.9 cm (9 15/16 x 9 13/16 in.); Paper: 35.4 x 27.7 cm (13 15/16 x 10 7/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.253,
+          "width": 0.249
+        },
+        "paper": {
+          "height": 0.354,
+          "width": 0.277
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Signed, titled and dated on verso; artist's \"Bleak Beauty\" stamp also on verso",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 306442,
+            "title": "Danny Lyon: The Destruction of Lower Manhattan",
+            "description": "<i>Danny Lyon: The Destruction of Lower Manhattan</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 19-October 7, 2018).",
+            "opening_date": "2018-05-19T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Social turmoil and division caused by the civil rights movement and the Vietnam War plagued America in the mid-1960s. Lyon was initially not welcomed by the demolition crews, whose supervisors associated him with draft dodgers and antiwar protesters because of his beard and long hair. “That year in Lower Manhattan, workers with hard hats adorned with US flags attacked antiwar demonstrators and beat them up,” Lyon remembers. “The first time Dominick saw me walking past his building with my beard, and a black cloth [used for focusing the camera] hung over my shoulder, he yelled out, ‘Why don’t you have a gun over your shoulder, instead of that . . . camera?’”",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80082553"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2014.491",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George Stephanopoulos",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 171737,
+      "creators": [
+        {
+          "id": 601,
+          "description": "Danny Lyon (American, 1942-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Danny Lyon American, 1942- Danny Lyon (born in Brooklyn) came to attention in the 1960s as a social documentary photographer whose sympathies with his subjects often grew from personal involvement in their causes. While studying history at the University of Chicago (B.A., 1963), he joined the Student Non-Violent Coordinating Committee and served as the group's photographer. Since 1967 he has been an associate for the magnum photo agency and made extensive photo essays in the late 1960s-70s on the civil rights movement (The Movement, 1964), the Chicago Outlaws Motorcycle Club, of which he was a member (The Bikeriders, 1968), the demolition of historic 19th-century buildings in New York City (The Destruction of Lower Manhattan, 1969), and Texas prisons (Conversations with the Dead, 1971). For that series, Lyon included with his black-and-white photographs excerpts from handwritten letters, drawings, police reports, and telegrams. In 1977 the U.S. Justice Department used his images in a landmark legal case (Ruiz vs. Estelle) to improve conditions in prisons throughout Texas. Since the 1980s, Lyon has traveled to Colombia to photograph street children and prostitutes (The Paper Negative, 1980) and to Haiti to cover the events leading up to the collapse of the Duvalier regime in 1986. His own family has also become a continued subject of his work. Parallel to his photography, Lyon has made numerous films that are shown regularly in universities across the United States: Social Sciences 127 (1969), Llanito (1971), El Mojado (1973), Los Niños Abandonados (1975), Dear Mark (1975-80), Little Boy (1977), Willie (1986-87), and Media Man (c. 1993). He has published his own works since 1988 under the imprint Bleak Beauty Books, in collaboration with his wife, Nancy Lyon, and Michael Hausman. Lyon has also taught nonfiction film at the State University of New York at Buffalo (1986) and at Columbia University (1987-90). Among his honors are fellowships from the John Simon Guggenheim Memorial Foundation (1969, 1979) and the Rockefeller Foundation (1990). He has had one-person exhibitions at the Art Institute of Chicago (1966, 1969), the Newport Harbor Art Museum in California (1973), and the Philadelphia Museum of Art (1982). In 1991 a retrospective, Danny Lyon Photo Film, with accompanying catalogue, traveled internationally. Lyon lives in Clintondale, New York. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1942",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2014-12-01T00:00:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–67",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:51.559000"
+    },
+    {
+      "id": 155036,
+      "accession_number": "1989.587",
+      "share_license_status": "Copyrighted",
+      "tombstone": "View Upriver from Terminal Tower Looking Toward Hope Memorial Bridge, 1988. Cervin Robinson (American, 1928–2022). Gelatin silver print; image: 34.3 x 27 cm (13 1/2 x 10 5/8 in.); paper: 35.4 x 28 cm (13 15/16 x 11 in.); matted: 50.8 x 40.6 cm (20 x 16 in.). The Cleveland Museum of Art, Funded by a grant from The Cleveland Foundation and the East Ohio Gas Company, 1989.587. © 1989 Cervin Robinson",
+      "current_location": null,
+      "title": "View Upriver from Terminal Tower Looking Toward Hope Memorial Bridge",
+      "creation_date": "1988",
+      "creation_date_earliest": 1988,
+      "creation_date_latest": 1988,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 34.3 x 27 cm (13 1/2 x 10 5/8 in.); Paper: 35.4 x 28 cm (13 15/16 x 11 in.); Matted: 50.8 x 40.6 cm (20 x 16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.343,
+          "width": 0.27
+        },
+        "paper": {
+          "height": 0.354,
+          "width": 0.28
+        },
+        "matted": {
+          "height": 0.508,
+          "width": 0.406
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© 1989 Cervin Robinson",
+      "inscriptions": [
+        {
+          "inscription": "Written in black ink on verso: \"C.R. J 526-1\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": [
+          {
+            "description": "CMA, Nov. 22, 1989 - Jan. 20, 1990: \"Cervin Robinson/Cleveland, Ohio,\" cat. p. 25 (not exhibited).",
+            "opening_date": "1989-11-22T00:00:00"
+          },
+          {
+            "description": "CMA, Feb. 6 - April 15, 1990: \"Year in Review 1989,\" CMA Bulletin, p. 68, no. 51 (not exhibited).",
+            "opening_date": "1990-02-06T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79942965"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 305",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1989.587",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Funded by a grant from The Cleveland Foundation and the East Ohio Gas Company",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 155036,
+      "creators": [
+        {
+          "id": 14005,
+          "description": "Cervin Robinson (American, 1928–2022)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Born May 18, 1928. Photographer, historian, and critic Cervin Robinson is considered one of the most distinguished American architectural scholars. Born in Boston to an architect and his wife, Robinson's interest in topography, perspective, and the cultural significance of cities and buildings developed at the encouragement of his father and grew during his two-year duty in the U.S. Army. After earning a B.A. in English literature from Harvard University (1950), he worked as an assistant to Walker Evans in New York (1953-57), an experience that further sparked his fascination with American architecture. Over the years he received numerous commissions from historical societies, the Library of Congress, architects and architectural magazines, and the film industry. Robinson's still photographs served as backdrops for Superman the Movie and Superman II. Robinson lectured and wrote regularly for various architectural and academic periodicals, and taught architectural photography at Columbia University. He received a fellowship from the John Simon Guggenheim Memorial Foundation (1971) and directed a project funded by the National Endowment for the Arts/New York State Council on the Arts (1978). In 1978 he was named a J. Clauson Mills Scholar. In 1989 the Cleveland Museum of Art organized Cervin Robinson: Cleveland, Ohio, an exhibition and catalogue of black-and-white views of the city commissioned by the museum. Robinson lived in New York. A. W.",
+          "name_in_original_language": null,
+          "birth_year": "1928",
+          "death_year": "2022",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1990-01-29T00:00:00",
+      "sortable_date": 1988,
+      "date_added_to_oa": null,
+      "date_text": "1988",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:31.170000"
+    },
+    {
+      "id": 170260,
+      "accession_number": "2012.430",
+      "share_license_status": "Copyrighted",
+      "tombstone": "The Destruction of Lower Manhattan: Wall of the St. George Building, 1967, printed 2007. Danny Lyon (American, 1942-). Gelatin silver print; image: 23 x 29.4 cm (9 1/16 x 11 9/16 in.); paper: 27.7 x 35.4 cm (10 7/8 x 13 15/16 in.). The Cleveland Museum of Art, Gift of George Stephanopoulos, 2012.430",
+      "current_location": null,
+      "title": "Wall of the St. George Building",
+      "series": "The Destruction of Lower Manhattan",
+      "creation_date": "1967, printed 2007",
+      "creation_date_earliest": 1967,
+      "creation_date_latest": 1967,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 23 x 29.4 cm (9 1/16 x 11 9/16 in.); Paper: 27.7 x 35.4 cm (10 7/8 x 13 15/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.23,
+          "width": 0.294
+        },
+        "paper": {
+          "height": 0.277,
+          "width": 0.354
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"DLM69\"\r\nWritten in pencil on verso: \"Danny Lyon (signed)\"\r\nStamped in red ink on verso: \"Printer u (in pencil)/BLEAK BEAUTY/Picture Date 67 (in pencil) (star) Print Date 7 (in pencil)\"\r\n",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 306442,
+            "title": "Danny Lyon: The Destruction of Lower Manhattan",
+            "description": "<i>Danny Lyon: The Destruction of Lower Manhattan</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 19-October 7, 2018).",
+            "opening_date": "2018-05-19T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "The St. George Building at the intersection of Beekman and Cliff Streets was built as a warehouse in 1870, one year after construction began on the nearby Brooklyn Bridge. The building was named after a succession of churches that had occupied the site from 1752 to 1868. Lyon made a series of images showing the progress of the warehouse’s demolition. Today, not even the intersection remains. In 1971 it was subsumed into a cooperative apartment complex consisting of four 27-story buildings that still occupy the site.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80078698"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2012.430",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George Stephanopoulos",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 170260,
+      "creators": [
+        {
+          "id": 601,
+          "description": "Danny Lyon (American, 1942-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Danny Lyon American, 1942- Danny Lyon (born in Brooklyn) came to attention in the 1960s as a social documentary photographer whose sympathies with his subjects often grew from personal involvement in their causes. While studying history at the University of Chicago (B.A., 1963), he joined the Student Non-Violent Coordinating Committee and served as the group's photographer. Since 1967 he has been an associate for the magnum photo agency and made extensive photo essays in the late 1960s-70s on the civil rights movement (The Movement, 1964), the Chicago Outlaws Motorcycle Club, of which he was a member (The Bikeriders, 1968), the demolition of historic 19th-century buildings in New York City (The Destruction of Lower Manhattan, 1969), and Texas prisons (Conversations with the Dead, 1971). For that series, Lyon included with his black-and-white photographs excerpts from handwritten letters, drawings, police reports, and telegrams. In 1977 the U.S. Justice Department used his images in a landmark legal case (Ruiz vs. Estelle) to improve conditions in prisons throughout Texas. Since the 1980s, Lyon has traveled to Colombia to photograph street children and prostitutes (The Paper Negative, 1980) and to Haiti to cover the events leading up to the collapse of the Duvalier regime in 1986. His own family has also become a continued subject of his work. Parallel to his photography, Lyon has made numerous films that are shown regularly in universities across the United States: Social Sciences 127 (1969), Llanito (1971), El Mojado (1973), Los Niños Abandonados (1975), Dear Mark (1975-80), Little Boy (1977), Willie (1986-87), and Media Man (c. 1993). He has published his own works since 1988 under the imprint Bleak Beauty Books, in collaboration with his wife, Nancy Lyon, and Michael Hausman. Lyon has also taught nonfiction film at the State University of New York at Buffalo (1986) and at Columbia University (1987-90). Among his honors are fellowships from the John Simon Guggenheim Memorial Foundation (1969, 1979) and the Rockefeller Foundation (1990). He has had one-person exhibitions at the Art Institute of Chicago (1966, 1969), the Newport Harbor Art Museum in California (1973), and the Philadelphia Museum of Art (1982). In 1991 a retrospective, Danny Lyon Photo Film, with accompanying catalogue, traveled internationally. Lyon lives in Clintondale, New York. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1942",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2012-12-03T00:00:00",
+      "sortable_date": 1967,
+      "date_added_to_oa": null,
+      "date_text": "1967, printed 2007",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:54.787000"
+    },
+    {
+      "id": 164608,
+      "accession_number": "2006.126",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Bridge of Dreams #99, 1986, printed 1999. Burhan Dogançay (Turkish, 1929–2013). Platinum print; image: 24.5 x 16.2 cm (9 5/8 x 6 3/8 in.); with borders: 26.7 x 18.1 cm (10 1/2 x 7 1/8 in.); paper: 43.9 x 35.6 cm (17 5/16 x 14 in.); matted: 61 x 50.8 cm (24 x 20 in.). The Cleveland Museum of Art, Anonymous Gift, 2006.126",
+      "current_location": null,
+      "title": "Bridge of Dreams #99",
+      "creation_date": "1986, printed 1999",
+      "creation_date_earliest": 1986,
+      "creation_date_latest": 1986,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Turkey, 20th century"
+      ],
+      "technique": "platinum print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 20th Century",
+      "type": "Photograph",
+      "measurements": "Image: 24.5 x 16.2 cm (9 5/8 x 6 3/8 in.); with borders: 26.7 x 18.1 cm (10 1/2 x 7 1/8 in.); Paper: 43.9 x 35.6 cm (17 5/16 x 14 in.); Matted: 61 x 50.8 cm (24 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.245,
+          "width": 0.162
+        },
+        "with borders": {
+          "height": 0.267,
+          "width": 0.181
+        },
+        "paper": {
+          "height": 0.439,
+          "width": 0.356
+        },
+        "matted": {
+          "height": 0.61,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "written in black pencil below black margin: \"1/25 Burhan Dogançay (signed) \r\nwritten in pencil on verso of printed paper: \"11.5.7.10-230 +60 BLC\"\r\nlabeled in black type on verso of bottom mat: \"Burhan Dogançay/ Bridge of Dreams No. 99, 1999/ Platinum print-edition 1/25/44 x 36cm\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79992354"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2006.126",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Anonymous Gift",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 164608,
+      "creators": [
+        {
+          "id": 54279,
+          "description": "Burhan Dogançay (Turkish, 1929–2013)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1929",
+          "death_year": "2013",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2006-06-05T00:00:00",
+      "sortable_date": 1986,
+      "date_added_to_oa": null,
+      "date_text": "1986, printed 1999",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": "1",
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:26.640000"
+    },
+    {
+      "id": 164609,
+      "accession_number": "2006.127",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Bridge of Dreams #101, 1986, printed 1999. Burhan Dogançay (Turkish, 1929–2013). Platinum print; image: 24.5 x 16.2 cm (9 5/8 x 6 3/8 in.); with borders: 26 x 18.7 cm (10 1/4 x 7 3/8 in.); paper: 43.8 x 35.8 cm (17 1/4 x 14 1/8 in.); matted: 61 x 50.8 cm (24 x 20 in.). The Cleveland Museum of Art, Anonymous Gift, 2006.127",
+      "current_location": null,
+      "title": "Bridge of Dreams #101",
+      "creation_date": "1986, printed 1999",
+      "creation_date_earliest": 1986,
+      "creation_date_latest": 1986,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Turkey, 20th century"
+      ],
+      "technique": "platinum print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 20th Century",
+      "type": "Photograph",
+      "measurements": "Image: 24.5 x 16.2 cm (9 5/8 x 6 3/8 in.); with borders: 26 x 18.7 cm (10 1/4 x 7 3/8 in.); Paper: 43.8 x 35.8 cm (17 1/4 x 14 1/8 in.); Matted: 61 x 50.8 cm (24 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.245,
+          "width": 0.162
+        },
+        "with borders": {
+          "height": 0.26,
+          "width": 0.187
+        },
+        "paper": {
+          "height": 0.438,
+          "width": 0.358
+        },
+        "matted": {
+          "height": 0.61,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "written in pencil below black margin on recto: \"1/25 Burhan Dogançay (signed) \r\nwritten in pencil on verso of printed paper: \"0100 0100 14371190\"\r\nlabeled in black type on verso of bottom mat: \"Burhan Dogançay/ Bridge of Dreams No. 101, 1999/ Platinum print-edition 1/25/44 x 36cm\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79992357"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2006.127",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Anonymous Gift",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 164609,
+      "creators": [
+        {
+          "id": 54279,
+          "description": "Burhan Dogançay (Turkish, 1929–2013)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1929",
+          "death_year": "2013",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2006-06-05T00:00:00",
+      "sortable_date": 1986,
+      "date_added_to_oa": null,
+      "date_text": "1986, printed 1999",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": "1",
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:51.239000"
+    },
+    {
+      "id": 162558,
+      "accession_number": "2003.190",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Lower Level of Lorain-Carnegie Bridge, 1991. Lois Conner (American, b. 1951). Platinum print; image: 16.6 x 42 cm (6 9/16 x 16 9/16 in.); matted: 35.6 x 58.4 cm (14 x 23 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, The Cleveland Museum of Art, 2003.190",
+      "current_location": null,
+      "title": "Lower Level of Lorain-Carnegie Bridge",
+      "creation_date": "1991",
+      "creation_date_earliest": 1991,
+      "creation_date_latest": 1991,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "platinum print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 16.6 x 42 cm (6 9/16 x 16 9/16 in.); Matted: 35.6 x 58.4 cm (14 x 23 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.166,
+          "width": 0.42
+        },
+        "matted": {
+          "height": 0.356,
+          "width": 0.584
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": [
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; November 17, 2002 - January 26, 2003.  \"A City Seen:  Photographs from The George Gund Foundation\", exh. cat. p. 38.",
+            "opening_date": "2002-11-17T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "The George Gund Foundation Collection",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79987196"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2003.190",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The George Gund Foundation Collection in honor of David Bergholz, The Cleveland Museum of Art",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 162558,
+      "creators": [
+        {
+          "id": 42873,
+          "description": "Lois Conner (American, b. 1951)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1951",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2003-09-02T00:00:00",
+      "sortable_date": 1991,
+      "date_added_to_oa": null,
+      "date_text": "1991",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:28.631000"
+    },
+    {
+      "id": 154964,
+      "accession_number": "1989.521",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Hope Memorial Bridge Pylon on Canal Road and View of Terminal Tower, 1987. Cervin Robinson (American, 1928–2022). Gelatin silver print; image: 49.7 x 39.2 cm (19 9/16 x 15 7/16 in.); paper: 50.5 x 40 cm (19 7/8 x 15 3/4 in.); matted: 67.3 x 54.6 cm (26 1/2 x 21 1/2 in.). The Cleveland Museum of Art, Funded by a grant from The Cleveland Foundation and the East Ohio Gas Company, 1989.521. © 1989 Cervin Robinson",
+      "current_location": null,
+      "title": "Hope Memorial Bridge Pylon on Canal Road and View of Terminal Tower",
+      "creation_date": "1987",
+      "creation_date_earliest": 1987,
+      "creation_date_latest": 1987,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 49.7 x 39.2 cm (19 9/16 x 15 7/16 in.); Paper: 50.5 x 40 cm (19 7/8 x 15 3/4 in.); Matted: 67.3 x 54.6 cm (26 1/2 x 21 1/2 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.497,
+          "width": 0.392
+        },
+        "paper": {
+          "height": 0.505,
+          "width": 0.4
+        },
+        "matted": {
+          "height": 0.673,
+          "width": 0.546
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© 1989 Cervin Robinson",
+      "inscriptions": [
+        {
+          "inscription": "Written in black ink on verso: \"© Cervin Robinson  1989\"; in pencil: \"I 104-6\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": [
+          {
+            "description": "CMA, Nov. 22, 1989 - Jan. 20, 1990: \"Cervin Robinson/Cleveland, Ohio,\" cat. p. 78.",
+            "opening_date": "1989-11-22T00:00:00"
+          },
+          {
+            "description": "CMA, Feb. 6 - April 15, 1990: \"Year in Review 1989,\" CMA Bulletin, p. 68, no. 51 (not exhibited).",
+            "opening_date": "1990-02-06T00:00:00"
+          },
+          {
+            "description": "Lakewood, Ohio. The Beck Center for the Cultural Arts, July 15 - Aug. 12, 1990: \"American Cities: The Artist's View,\" no exhibition catalogue.",
+            "opening_date": "1990-07-15T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79942789"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1989.521",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Funded by a grant from The Cleveland Foundation and the East Ohio Gas Company",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 154964,
+      "creators": [
+        {
+          "id": 14005,
+          "description": "Cervin Robinson (American, 1928–2022)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Born May 18, 1928. Photographer, historian, and critic Cervin Robinson is considered one of the most distinguished American architectural scholars. Born in Boston to an architect and his wife, Robinson's interest in topography, perspective, and the cultural significance of cities and buildings developed at the encouragement of his father and grew during his two-year duty in the U.S. Army. After earning a B.A. in English literature from Harvard University (1950), he worked as an assistant to Walker Evans in New York (1953-57), an experience that further sparked his fascination with American architecture. Over the years he received numerous commissions from historical societies, the Library of Congress, architects and architectural magazines, and the film industry. Robinson's still photographs served as backdrops for Superman the Movie and Superman II. Robinson lectured and wrote regularly for various architectural and academic periodicals, and taught architectural photography at Columbia University. He received a fellowship from the John Simon Guggenheim Memorial Foundation (1971) and directed a project funded by the National Endowment for the Arts/New York State Council on the Arts (1978). In 1978 he was named a J. Clauson Mills Scholar. In 1989 the Cleveland Museum of Art organized Cervin Robinson: Cleveland, Ohio, an exhibition and catalogue of black-and-white views of the city commissioned by the museum. Robinson lived in New York. A. W.",
+          "name_in_original_language": null,
+          "birth_year": "1928",
+          "death_year": "2022",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1990-01-29T00:00:00",
+      "sortable_date": 1987,
+      "date_added_to_oa": null,
+      "date_text": "1987",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:08.439000"
+    },
+    {
+      "id": 367997,
+      "accession_number": "2019.170.10",
+      "share_license_status": "CC0",
+      "tombstone": "Lucknow After the Siege: The Iron Bridge, 1858. Felice A. Beato (British, 1830–1906). Albumen print; image: 25.4 x 30.5 cm (10 x 12 in.). The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund, 2019.170.10",
+      "current_location": null,
+      "title": "The Iron Bridge",
+      "series": "Lucknow After the Siege",
+      "creation_date": "1858",
+      "creation_date_earliest": 1858,
+      "creation_date_latest": 1858,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 25.4 x 30.5 cm (10 x 12 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.254,
+          "width": 0.305
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Sir William Russell, 2nd Baronet",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "Christie's, London, United Kingdom",
+          "citations": [],
+          "footnotes": null,
+          "date": "October 20, 1993",
+          "sortorder": 2
+        },
+        {
+          "description": "Christie's, London, United Kingdom",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 27, 2001",
+          "sortorder": 3
+        },
+        {
+          "description": "Private Collection, United Kingdom",
+          "citations": [],
+          "footnotes": null,
+          "date": "2001-2019",
+          "sortorder": 4
+        },
+        {
+          "description": "Prahlad Bubbar Indian and Islamic Art, London, United Kingdom",
+          "citations": [],
+          "footnotes": null,
+          "date": "2019",
+          "sortorder": 5
+        },
+        {
+          "description": "the Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 9, 2019",
+          "sortorder": 6
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79878114"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2019.170.10-the-iron-bridge"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2019.170.10",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.170.10/2019.170.10_web.jpg",
+          "width": "900",
+          "height": "610",
+          "filesize": "241603",
+          "filename": "2019.170.10_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.170.10/2019.170.10_print.jpg",
+          "width": "3400",
+          "height": "2306",
+          "filesize": "2898401",
+          "filename": "2019.170.10_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.170.10/2019.170.10_full.tif",
+          "width": "11426",
+          "height": "7750",
+          "filesize": "265681888",
+          "filename": "2019.170.10_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Severance and Greta Millikin Purchase Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 367997,
+      "creators": [
+        {
+          "id": 35,
+          "description": "Felice A. Beato (British, 1830–1906)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Felice Beato British?, b. Italy, 1832-1909 Often confused with his brother Antonio, Venice-born Felice Beato was a pioneer photojournalist with strong ties to Britain. His first important work was done in partnership with James Robertson, superintendent and chief engraver for the Imperial Mint in Constantinople and husband of Beato's sister, Maria Matilde. With Robertson he photographed first in Malta in the early 1850s, then in Constantinople, Athens, Palestine, and Egypt. By the middle of the decade, Beato and Robertson were among the first to apply photography to the reportage of war, covering the Crimean conflict and the fall of Balaklava. Images of war and the exotic became Beato's specialty. With Robertson, he covered the Indian Mutiny (1857-59), works especially well known for their grisly views of the siege of Lucknow. His photographs of the Opium War, taken in the early 1860s, are thought to be the first western views of China; his depictions of the conquered Fort Taku are among the most stark and uncompromising documents of their time. Following China, Beato worked for some 15 years in Japan, where he produced a large body of work. In 1877 he sold his studio and negatives to Austrian photographer Baron Raimond von Stillfried und Ratenitz, and in the mid-1880s documented British military activities at Khartoum in the Sudan. In an 1886 issue of the British Journal of Photography, Beato was credited with an important improvement in the albumen process, which cut necessary exposure time. Around 1889 he settled in Burma, where he illustrated mail-order catalogues and sold native furniture and crafts. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1832",
+          "death_year": "1909",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-09-09T00:00:00-04:00",
+      "sortable_date": 1858,
+      "date_added_to_oa": null,
+      "date_text": "1858",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2019.170",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:37.781000"
+    },
+    {
+      "id": 169553,
+      "accession_number": "2011.377",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Group of People on Bridge, 1909. Karl F. Struss (American, 1886–1981). Gelatin silver print; paper: 7 x 9.6 cm (2 3/4 x 3 3/4 in.); matted: 30.5 x 35.6 cm (12 x 14 in.). The Cleveland Museum of Art, Gift of Dr. Stephen Nicholas, 2011.377",
+      "current_location": null,
+      "title": "Group of People on Bridge",
+      "creation_date": "1909",
+      "creation_date_earliest": 1909,
+      "creation_date_latest": 1909,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "Photography",
+      "type": "Photograph",
+      "measurements": "Paper: 7 x 9.6 cm (2 3/4 x 3 3/4 in.); Matted: 30.5 x 35.6 cm (12 x 14 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.07,
+          "width": 0.096
+        },
+        "matted": {
+          "height": 0.305,
+          "width": 0.356
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Dr. Stephen Nicholas",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80077007"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2011.377",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Dr. Stephen Nicholas",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 169553,
+      "creators": [
+        {
+          "id": 970,
+          "description": "Karl F. Struss (American, 1886–1981)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Karl F. Struss American, 1886-1981\r\n\r\nBorn and raised in New York City, Karl Fischer Struss was an important early pictorialist and a cofounder of the Pictorial Photographers of America. He was also a member of the Photo-Secession, publishing his works in Camera Work (April 1912), and a photographer for publications such as Vogue, Vanity Fair, and Harper's Bazaar.\r\n\tA student of Clarence H. White, Struss was influenced by both White and Alvin Langdon Coburn. He developed his own style, however, an elegant synthesis of random qualities with formal composition. Struss experimented with various technical processes. He developed multiple platinum printing to enhance the depth of shadows and in 1909 designed the Struss Pictorial lens, which entered commercial production in 1915.\r\n\tShortly after the First World War, Struss moved to Hollywood, where he became a successful cinematographer. He worked first for Cecil B. De Mille and later freelanced for both independent and major studios until his retirement in 1970. Among his film credits are Ben Hur (1926), Dr. Jekyll and Mr. Hyde (1932), and the Chaplin classics The Great Dictator (1940) and Limelight (1952). In 1928 Struss received an Academy Award for his work on De Mille's film Sunrise. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1886",
+          "death_year": "1981",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2011-12-05T00:00:00",
+      "sortable_date": 1909,
+      "date_added_to_oa": null,
+      "date_text": "1909",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:50.041000"
+    },
+    {
+      "id": 162565,
+      "accession_number": "2003.195.a",
+      "share_license_status": "Copyrighted",
+      "tombstone": "From Control Tower near Carter Road Bridge, 1991. Lois Conner (American, b. 1951). Platinum print; overall: 16.6 x 126 cm (6 9/16 x 49 5/8 in.); each: 16.6 x 42 cm (6 9/16 x 16 9/16 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, The Cleveland Museum of Art, 2003.195.a",
+      "current_location": null,
+      "title": "From Control Tower near Carter Road Bridge",
+      "creation_date": "1991",
+      "creation_date_earliest": 1991,
+      "creation_date_latest": 1991,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "platinum print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Overall: 16.6 x 126 cm (6 9/16 x 49 5/8 in.); Each: 16.6 x 42 cm (6 9/16 x 16 9/16 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.166,
+          "width": 1.26
+        },
+        "each": {
+          "height": 0.166,
+          "width": 0.42
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": [
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; November 17, 2002 - January 26, 2003.  \"A City Seen:  Photographs from The George Gund Foundation\", exh. cat. p. 42-43.",
+            "opening_date": "2002-11-17T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "The George Gund Foundation Collection",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79987211"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2003.195.a",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The George Gund Foundation Collection in honor of David Bergholz, The Cleveland Museum of Art",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 162565,
+      "creators": [
+        {
+          "id": 42873,
+          "description": "Lois Conner (American, b. 1951)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1951",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2003-09-02T00:00:00",
+      "sortable_date": 1991,
+      "date_added_to_oa": null,
+      "date_text": "1991",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2003.195",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:55.153000"
+    },
+    {
+      "id": 291364,
+      "accession_number": "2016.462",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Amphitheater Bridge, Acadia National Park, 1989. Mark Citret (American, b. 1949). Gelatin silver print on vellum; image: 15.8 x 15.8 cm (6 1/4 x 6 1/4 in.); paper: 21.4 x 27.9 cm (8 7/16 x 11 in.). The Cleveland Museum of Art, Gift of George Stephanopoulos, 2016.462",
+      "current_location": null,
+      "title": "Amphitheater Bridge, Acadia National Park",
+      "creation_date": "1989",
+      "creation_date_earliest": 1989,
+      "creation_date_latest": 1989,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print on vellum",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 15.8 x 15.8 cm (6 1/4 x 6 1/4 in.); Paper: 21.4 x 27.9 cm (8 7/16 x 11 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.158,
+          "width": 0.158
+        },
+        "paper": {
+          "height": 0.214,
+          "width": 0.279
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on recto: “16/45 Mark Citret (signed)”\nWritten in pencil on recto: “Amphitheater Bridge, Acadia National Park, 1989”\nWritten in pencil on verso: “95-PFA”\nWritten in pencil on verso: “45.5.10”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79864689"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2016.462",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George Stephanopoulos",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 291364,
+      "creators": [
+        {
+          "id": 291359,
+          "description": "Mark Citret (American, b. 1949)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1949",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2016-12-05T00:00:00-05:00",
+      "sortable_date": 1989,
+      "date_added_to_oa": null,
+      "date_text": "1989",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:35.416000"
+    },
+    {
+      "id": 167151,
+      "accession_number": "2009.158.16",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Steam pipe expansion loop and remnants of Clark Ave. bridge, ISG, 2002. Andrew Borowiec (American, b. 1956). Gelatin silver print; image: 32.5 x 47.7 cm (12 13/16 x 18 3/4 in.); paper: 40.3 x 50.4 cm (15 7/8 x 19 13/16 in.). The Cleveland Museum of Art, Gift of Mark Schwartz and Bettina Katz in honor of James and Hanna Bartlett, 2009.158.16. © Andrew Borowiec 2008",
+      "current_location": null,
+      "title": "Steam pipe expansion loop and remnants of Clark Ave. bridge, ISG",
+      "creation_date": "2002",
+      "creation_date_earliest": 2002,
+      "creation_date_latest": 2002,
+      "artists_tags": [
+        "May Show",
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 32.5 x 47.7 cm (12 13/16 x 18 3/4 in.); Paper: 40.3 x 50.4 cm (15 7/8 x 19 13/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.325,
+          "width": 0.477
+        },
+        "paper": {
+          "height": 0.403,
+          "width": 0.504
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Andrew Borowiec 2008",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"STEAM PIPE EXPANSION LOOP AND CLARK AVE. BRIDGE, ISG, CLEVELAND Andrew Borowiec (signed) 1/25 2002 02313-7\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 197811,
+            "title": "Andrew Borowiec: Cleveland Photographs",
+            "description": "<i>Andrew Borowiec: Cleveland Photographs</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 13-October 17, 2010).",
+            "opening_date": "2010-06-13T00:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79998346"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2009.158.16",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Mark Schwartz and Bettina Katz in honor of James and Hanna Bartlett",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 167151,
+      "creators": [
+        {
+          "id": 34186,
+          "description": "Andrew Borowiec (American, b. 1956)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Andrew Borowiec American, 1956- Andrew Borowiec is a photographer, educator, and arts administrator. His black-and-white photographs of factory towns in the Ohio River Valley, a series that he has worked on extensively since the early 1990s, reveal an uneasy coexistence between residential and industrial sites, and between humans and their environment. Borowiec cites as influences the geographical writings of J. B. Jackson and the philosophies of photographer Frank Gohlke, with whom he studied in the early 1980s while a graduate student at Yale University School of Art. Born in New York City, Borowiec attended high school at the École Internationale in Geneva, Switzerland, and moved back across the Atlantic to earn a B.A. in Russian from Haverford College (1979). That same year, he took a workshop with Garry Winogrand at the International Center of Photography, where he also worked as a staff photographer (1979-80). Borowiec received his M.F.A. from Yale (1982); in addition to Gohlke, his teachers included Richard Benson, Jan Groover, Ben Lifson, and Tod Papageorge. In 1980 Borowiec served as assistant director of the Workshop Program for the Rencontres Internationales de la Photographie in Arles, France. Throughout his career he has completed various commissions for academic periodicals as well as civic and cultural institutions. Borowiec has held faculty positions at the New School for Social Research (1982-84), Parsons School of Design (1983-84), and Oberlin College (1990). His numerous awards include fellowships from the National Endowment for the Arts (1985, 1988) and the Folk Endowment Grant (1993). Since 1984 he has taught at the University of Akron School of Art. A.W.<br>Biographical information exists in the Cleveland Museum of Art Archives.",
+          "name_in_original_language": null,
+          "birth_year": "1956",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2009-06-08T00:00:00",
+      "sortable_date": 2002,
+      "date_added_to_oa": null,
+      "date_text": "2002",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2009.158",
+      "is_nazi_era_provenance": false,
+      "impression": "1",
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:27.783000"
+    },
+    {
+      "id": 154963,
+      "accession_number": "1989.520",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Hope Memorial Bridge Pylon on Canal Road and View of Terminal Tower, 1987. Cervin Robinson (American, 1928–2022). Gelatin silver print; image: 34.7 x 27 cm (13 11/16 x 10 5/8 in.); paper: 35.6 x 27.8 cm (14 x 10 15/16 in.); matted: 50.8 x 40.6 cm (20 x 16 in.). The Cleveland Museum of Art, Funded by a grant from The Cleveland Foundation and the East Ohio Gas Company, 1989.520. © 1989 Cervin Robinson",
+      "current_location": null,
+      "title": "Hope Memorial Bridge Pylon on Canal Road and View of Terminal Tower",
+      "creation_date": "1987",
+      "creation_date_earliest": 1987,
+      "creation_date_latest": 1987,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 34.7 x 27 cm (13 11/16 x 10 5/8 in.); Paper: 35.6 x 27.8 cm (14 x 10 15/16 in.); Matted: 50.8 x 40.6 cm (20 x 16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.347,
+          "width": 0.27
+        },
+        "paper": {
+          "height": 0.356,
+          "width": 0.278
+        },
+        "matted": {
+          "height": 0.508,
+          "width": 0.406
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© 1989 Cervin Robinson",
+      "inscriptions": [
+        {
+          "inscription": "Written in black ink on verso: \"© Cervin Robinson 1989\"; in pencil: \"I 104-6\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": [
+          {
+            "description": "CMA, Nov. 22, 1989 - Jan. 20, 1990: \"Cervin Robinson/Cleveland, Ohio,\" cat. p. 78 (not exhibited).",
+            "opening_date": "1989-11-22T00:00:00"
+          },
+          {
+            "description": "CMA, Feb. 6 - April 15, 1990: \"Year in Review 1989,\" CMA Bulletin, p. 68, no. 51 (not exhibited).",
+            "opening_date": "1990-02-06T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79942785"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 289",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1989.520",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Funded by a grant from The Cleveland Foundation and the East Ohio Gas Company",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 154963,
+      "creators": [
+        {
+          "id": 14005,
+          "description": "Cervin Robinson (American, 1928–2022)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Born May 18, 1928. Photographer, historian, and critic Cervin Robinson is considered one of the most distinguished American architectural scholars. Born in Boston to an architect and his wife, Robinson's interest in topography, perspective, and the cultural significance of cities and buildings developed at the encouragement of his father and grew during his two-year duty in the U.S. Army. After earning a B.A. in English literature from Harvard University (1950), he worked as an assistant to Walker Evans in New York (1953-57), an experience that further sparked his fascination with American architecture. Over the years he received numerous commissions from historical societies, the Library of Congress, architects and architectural magazines, and the film industry. Robinson's still photographs served as backdrops for Superman the Movie and Superman II. Robinson lectured and wrote regularly for various architectural and academic periodicals, and taught architectural photography at Columbia University. He received a fellowship from the John Simon Guggenheim Memorial Foundation (1971) and directed a project funded by the National Endowment for the Arts/New York State Council on the Arts (1978). In 1978 he was named a J. Clauson Mills Scholar. In 1989 the Cleveland Museum of Art organized Cervin Robinson: Cleveland, Ohio, an exhibition and catalogue of black-and-white views of the city commissioned by the museum. Robinson lived in New York. A. W.",
+          "name_in_original_language": null,
+          "birth_year": "1928",
+          "death_year": "2022",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1990-01-29T00:00:00",
+      "sortable_date": 1987,
+      "date_added_to_oa": null,
+      "date_text": "1987",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:45.717000"
+    },
+    {
+      "id": 696986,
+      "accession_number": "2025.457",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Brooklyn Bridge, NY, 1947, printed later. Arthur Leipzig (American, 1918–2014). Gelatin silver print; image: 38.7 x 36.2 cm (15 1/4 x 14 1/4 in.). The Cleveland Museum of Art, Gift of George Stephanopoulos, 2025.457. © Arthur Leipzig",
+      "current_location": null,
+      "title": "Brooklyn Bridge, NY",
+      "creation_date": "1947, printed later",
+      "creation_date_earliest": 1947,
+      "creation_date_latest": 1947,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 38.7 x 36.2 cm (15 1/4 x 14 1/4 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.387,
+          "width": 0.362
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": "edition of 5",
+      "copyright": "© Arthur Leipzig",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "George Stephanopoulos [1961–], New York, NY, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–2025",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 8, 2025–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2025.457",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George Stephanopoulos",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 696986,
+      "creators": [
+        {
+          "id": 696911,
+          "description": "Arthur Leipzig (American, 1918–2014)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "American photographer, born 1918",
+          "name_in_original_language": null,
+          "birth_year": "1918",
+          "death_year": "2014",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2025-12-08T05:00:00Z",
+      "sortable_date": 1947,
+      "date_added_to_oa": null,
+      "date_text": "1947, printed later",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:22.503000"
+    }
+  ]
+}

@@ -18,8 +18,9 @@ draft: false
 :::
 
 
-## Atcoder (9)
+## Atcoder (10)
 
+- [AtCoder ABC456_D: D - Not Adjacent 2 Editorial](/posts/atcoder/abc456_d/) <small style="color:gray">2026-05-06</small>
 - [AtCoder ABC450_D: D - Minimize Range Editorial](/posts/atcoder/abc450_d/) <small style="color:gray">2026-03-25</small>
 - [AtCoder ABC449_D: D - Make Target 2 Editorial](/posts/atcoder/abc449_d/) <small style="color:gray">2026-03-23</small>
 - [AtCoder ABC448_D: D - Integer-duplicated Path Editorial](/posts/atcoder/abc448_d/) <small style="color:gray">2026-03-12</small>

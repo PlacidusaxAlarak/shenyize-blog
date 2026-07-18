@@ -1,0 +1,108 @@
+{
+  "data": {
+    "id": 133625,
+    "accession_number": "1956.233.9",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Esteban, from \"The Bridge of San Luis Rey\" by Thornton Wilder, 1929. Clare Leighton (American, 1899–1989). Wood engraving; image: 11.5 x 8.2 cm (4 1/2 x 3 1/4 in.); sheet: 18.5 x 13.7 cm (7 5/16 x 5 3/8 in.). The Cleveland Museum of Art, Gift of Mrs. Malcolm L. McBride, 1956.233.9. Courtesy of the Estate of Clare Leighton",
+    "current_location": null,
+    "title": "Esteban, from \"The Bridge of San Luis Rey\" by Thornton Wilder",
+    "creation_date": "1929",
+    "creation_date_earliest": 1929,
+    "creation_date_latest": 1929,
+    "artists_tags": [
+      "female"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "wood engraving",
+    "support_materials": [],
+    "department": "Prints",
+    "collection": "PR - Wood engraving",
+    "type": "Print",
+    "measurements": "Image: 11.5 x 8.2 cm (4 1/2 x 3 1/4 in.); Sheet: 18.5 x 13.7 cm (7 5/16 x 5 3/8 in.)",
+    "dimensions": {
+      "sheet": {
+        "height": 0.185,
+        "width": 0.137
+      },
+      "image": {
+        "height": 0.115,
+        "width": 0.082
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": "Courtesy of the Estate of Clare Leighton",
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 543573,
+          "title": "Fairy Tales and Fables: Illustration and Storytelling in Art",
+          "description": "<i>Fairy Tales and Fables: Illustration and Storytelling in Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 4-September 8, 2024).",
+          "opening_date": "2024-05-04T04:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [
+      "1956.241"
+    ],
+    "did_you_know": null,
+    "description": "<em>The Bridge of San Luis Rey</em> (1927) by Thornton Wilder tells the story of Brother Juniper, who, after witnessing the collapse of a bridge, tries to find the meaning behind the tragedy by investigating the lives of the people who died there. Clare Leighton made 16 wood engravings for a 1929 edition of the book. Most of them are character studies that combine <br>expression, dress, and setting to communicate the character’s thoughts and feelings. They also demonstrate the development of Leighton’s distinctive style in the medium, including thick outlines, high contrasts, and modeling using white lines against the black background created by the uncut woodblock.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q80025956"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "catalogue_raisonne": "Hardie (P.C.Q.) XXII.159.141",
+    "url": "https://clevelandart.org/art/1956.233.9",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Mrs. Malcolm L. McBride",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 133625,
+    "creators": [
+      {
+        "id": 1426,
+        "description": "Clare Leighton (American, 1899–1989)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1899",
+        "death_year": "1989",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1956-08-23T00:00:00",
+    "sortable_date": 1929,
+    "date_added_to_oa": null,
+    "date_text": "1929",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "component",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": "1956.233",
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:10:14.866000"
+  }
+}

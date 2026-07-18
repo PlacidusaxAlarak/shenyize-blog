@@ -1,0 +1,2986 @@
+{
+  "info": {
+    "total": 74,
+    "parameters": {
+      "skip": 40,
+      "limit": 20,
+      "q": "architecture photograph",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,department,gallery,classification_type,collection",
+      "search": "architecture photograph"
+    }
+  },
+  "data": [
+    {
+      "id": 290410,
+      "accession_number": "2016.266.19",
+      "share_license_status": "CC0",
+      "tombstone": "Maharaja of Rewa and Classmates, 1886. Raja Deen Dayal (Indian, 1844–1905). Albumen print; image: 19.8 x 27.1 cm (7 13/16 x 10 11/16 in.); paper: 19.8 x 27.1 cm (7 13/16 x 10 11/16 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 2016.266.19",
+      "current_location": null,
+      "title": "Maharaja of Rewa and Classmates",
+      "creation_date": "1886",
+      "creation_date_earliest": 1886,
+      "creation_date_latest": 1886,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "India"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 19.8 x 27.1 cm (7 13/16 x 10 11/16 in.); Paper: 19.8 x 27.1 cm (7 13/16 x 10 11/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.198,
+          "width": 0.271
+        },
+        "paper": {
+          "height": 0.198,
+          "width": 0.271
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "No visible inscriptions",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 536104,
+            "title": "Raja Deen Dayal: The King of Indian Photographers",
+            "description": "<i>Raja Deen Dayal: The King of Indian Photographers</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 23, 2023-February 4, 2024).",
+            "opening_date": "2023-04-23T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Studio of Raja Deen Dayal, sold to commissioner (identity unknown)",
+          "citations": [],
+          "footnotes": null,
+          "date": "1887 or 1888",
+          "sortorder": 1
+        },
+        {
+          "description": "Walter Clode [1929–2022], Pershore, England, sold or consigned to Prahlad Bubbar Indian and Islamic Art, London, England",
+          "citations": [],
+          "footnotes": null,
+          "date": "1970s–2015",
+          "sortorder": 2
+        },
+        {
+          "description": "(Prahlad Bubbar Indian and Islamic Art, London, England), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2015–16",
+          "sortorder": 3
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 5, 2016–",
+          "sortorder": 4
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Deen Dayal uses the arrangement of people and the architecture to point to the most important person in the photograph. Here, the Maharaja of Rewa is placed front and center. “Sardars,” inscribed on the top picture’s mount, refers to the military officials surrounding him. After 1858, British influence dictated that Indian rulers be educated in European history and ideas as well as their local culture and history. In the bottom image, the young maharaja is shown with Indian teachers, but the instructional tools are Western: bound books and a raised relief globe (with Asia visible).",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117230373"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2016.266.19-maharaja-of-rewa-and"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2016.266.19",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2016.266.19/2016.266.19_web.jpg",
+          "width": "900",
+          "height": "660",
+          "filesize": "286317",
+          "filename": "2016.266.19_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2016.266.19/2016.266.19_print.jpg",
+          "width": "3400",
+          "height": "2494",
+          "filesize": "2390631",
+          "filename": "2016.266.19_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2016.266.19/2016.266.19_full.tif",
+          "width": "7516",
+          "height": "5514",
+          "filesize": "124359344",
+          "filename": "2016.266.19_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2016-11-18T14:35:11",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2016.266.19/2016.266.19_alt0_web.jpg",
+            "width": "900",
+            "height": "657",
+            "filesize": "218743"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2016.266.19/2016.266.19_alt0_print.jpg",
+            "width": "3400",
+            "height": "2482",
+            "filesize": "2432170"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2016.266.19/2016.266.19_alt0_full.tif",
+            "width": "7536",
+            "height": "5502",
+            "filesize": "124414324"
+          }
+        }
+      ],
+      "creditline": "Purchase from the J. H. Wade Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 290410,
+      "creators": [
+        {
+          "id": 290400,
+          "description": "Raja Deen Dayal (Indian, 1844–1905)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1844",
+          "death_year": "1905",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2016-12-05T00:00:00-05:00",
+      "sortable_date": 1886,
+      "date_added_to_oa": null,
+      "date_text": "1886",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2016.266",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:28.683000"
+    },
+    {
+      "id": 148308,
+      "accession_number": "1975.36",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Roadside Stand, Vicinity Birmingham, Alabama, 1936. Walker Evans (American, 1903–1975). Gelatin silver print, printed later; image: 19 x 23.7 cm (7 1/2 x 9 5/16 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, Wishing Well Fund, 1975.36. © Walker Evans Archive, The Metropolitan Museum of Art\r\n",
+      "current_location": null,
+      "title": "Roadside Stand, Vicinity Birmingham, Alabama",
+      "creation_date": "1936",
+      "creation_date_earliest": 1936,
+      "creation_date_latest": 1936,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print, printed later",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 19 x 23.7 cm (7 1/2 x 9 5/16 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.19,
+          "width": 0.237
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Walker Evans Archive, The Metropolitan Museum of Art\r\n",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on recto: \"Walker Evans [signed]\"; in pencil on verso: \"350-\"; \"Alabama 1936\"; typed on label on verso: \"Walker Evans / photograph, 7 1/2\" x 9 5/16\" / Alabama [underlined], 1936\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 299125,
+            "title": "From Riches to Rags: American Photography in the Depression",
+            "description": "<i>From Riches to Rags: American Photography in the Depression</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 13-December 31, 2017).",
+            "opening_date": "2017-08-13T04:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Oxford, Museum of Modern Art, Sept. 18 - Oct. 31, 1976: \"Walker Evans Photographs.\" Catalogue no. 37.",
+            "opening_date": "1976-09-18T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "This image reflects Evans’s fascination with vernacular architecture and handmade signs, which he collected. It is an urbane version of a penny postcard, a work with humor but also sophistication. Evans confounds the perspective we expect to see. Instead of objects receding into space, there are flat layers that resemble a stage set: the boys holding watermelons in the foreground, the men and curtsying girl in the middle ground, and the truncated figure in white occupying center stage in the extreme background. They all perform, providing a semicomic but true-to-life vision of roadside America.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79928584"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 150",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1975.36",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Wishing Well Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 148308,
+      "creators": [
+        {
+          "id": 122,
+          "description": "Walker Evans (American, 1903–1975)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Walker Evans American, 1903-1975\r\n\r\nGreatly admired for his photographs of America during the Great Depression, Walker Evans (born in St. Louis) originally wanted to be a writer. He studied literature and languages at Phillips Academy in Massachusetts, then spent one year at Williams College. In 1926 he traveled to Paris, where he audited courses at the Sorbonne before moving to New York City in 1927. Over the next two years Evans developed a strong interest in photography, taking numerous pictures of New York. The unusual viewpoints and sharp angles of this early work reveal his awareness of contemporary European photography. Also influential was the work of Eugène Atget and Paul Strand, whose strong, direct style Evans admired.\r\n\tIn 1931 Evans undertook his first major photographic project in collaboration with Lincoln Kirstein: a series of photographs of New England architecture for a proposed book by architectural historian John Brooks Wheelwright. A selection of these photographs was later exhibited at the Museum of Modern Art, New York (1933). From 1935 to early 1937, Evans worked for the Resettlement Administration (later known as the Farm Security Administration), documenting the effects of the depression. He spent most of his time traveling through the South, taking photographs in the clear, straightforward manner for which he became famous. His subjects ranged from rural farmers and miners to roadside architecture and main streets. In 1936 Evans took three weeks' leave from the fsa to work with writer James Agee on an illustrated article on tenant farm families for Fortune magazine. This collaborative project later appeared in book form as Let Us Now Praise Famous Men (1941).\r\n\tIn 1938 the Museum of Modern Art organized a major traveling exhibition of Evans's pictures, accompanied by the book American Photographs. Two years later Evans received the first of three fellowships from the John Simon Guggenheim Memorial Foundation (1940, 1941, 1959). From 1943-45 he worked as a writer for Time magazine and from 1945-65 was on the staff of Fortune, producing numerous portfolios and photographic essays. Evans then moved to New Haven, Connecticut, to join the faculty of Yale University as professor of photography/graphic design; in 1974 he was named professor emeritus. M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1903",
+          "death_year": "1975",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1975-06-10T00:00:00",
+      "sortable_date": 1936,
+      "date_added_to_oa": null,
+      "date_text": "1936",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:37.933000"
+    },
+    {
+      "id": 157319,
+      "accession_number": "1994.185",
+      "share_license_status": "CC0",
+      "tombstone": "Bridge of Shops, Srinagar, Kashmir, 1864. Samuel Bourne (British, 1834–1912). Albumen print from wet collodion negative; image: 23.6 x 29.1 cm (9 5/16 x 11 7/16 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, John L. Severance Fund, 1994.185",
+      "current_location": null,
+      "title": "Bridge of Shops, Srinagar, Kashmir",
+      "creation_date": "1864",
+      "creation_date_earliest": 1864,
+      "creation_date_latest": 1864,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "albumen print from wet collodion negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 23.6 x 29.1 cm (9 5/16 x 11 7/16 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.236,
+          "width": 0.291
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"788\"; \"$900\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 184303,
+            "title": "Travel Photography: Early Images of India",
+            "description": "<i>Travel Photography: Early Images of India</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 2-July 17, 2002).",
+            "opening_date": "2002-03-02T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, September 13 - November 27, 1994:  \"Recent Acquisitions:  Prints, Drawings, Photographs,\" no exhibition catalogue.",
+            "opening_date": "1994-09-13T00:00:00"
+          },
+          {
+            "description": "CMA, March 2 - July 17, 2002; \"Travel Photography: Images of India,\" no exhibition catalogue.",
+            "opening_date": "2002-03-02T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Taking up photography in his teens, Samuel Bourne soon achieved recognition for both his superb technical skills and keen aesthetic talents. When he sailed to India in late 1862, he left a banking career to pursue his passion for photography . He hoped to use his camera throughout the country and to write about his experiences for the British Journal of Photography. This charming photograph of a bridge filled with small huts demonstrates his creative ability to organize the random environment. His lively use of light and shade clearly defines the elements of architecture and landscape. The photographer allowed a favorite, early interest in water to dominate this picturesque image of Jaipur, which was founded in 1727 by Maharajah Jai Singh II. By the beginning of the 21st century, this small town had developed into a commercial city with a population of well over two million.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79973427"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1994.185-bridge-of-shops-srin"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 106",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1994.185",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1994.185/1994.185_web.jpg",
+          "width": "1101",
+          "height": "893",
+          "filesize": "554750",
+          "filename": "1994.185_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1994.185/1994.185_print.jpg",
+          "width": "3400",
+          "height": "2758",
+          "filesize": "5013263",
+          "filename": "1994.185_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1994.185/1994.185_full.tif",
+          "width": "5555",
+          "height": "4506",
+          "filesize": "75124444",
+          "filename": "1994.185_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 157319,
+      "creators": [
+        {
+          "id": 265,
+          "description": "Samuel Bourne (British, 1834–1912)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Samuel Bourne British, 1834 - 1912 Born in Nottingham, Samuel Bourne first began taking photographs as an amateur in 1851. Four years later, he gave up his career in banking to become a professional photographer. In 1862 he embarked for India, where for the next several years he made three photographic expeditions into the Himalayas. He also formed a partnership in Simla with Charles Shepherd -- a publishing enterprise to reproduce photographic views. Until his return to England in 1870, Bourne continued to work in India and the Far East and to expand the province of Bourne &amp; Shepherd, opening a second branch in Calcutta. By the time of his departure he had produced some 1,500 negatives of such places as Benares, Darjeeling, and Tibet, largely of landscape and architecture for the public market. Bourne was known for the care with which he conceived and executed his work. His images, though plentiful, were highly prized and remain so today. Many are still available from the firm Bourne &amp; Shepherd, which has survived for more than 125 years. After returning to England, he established a business in cotton doubling, manufacturing thread for lacemaking and weaving machines, raised a family, and took up again the life of an amateur photographer and watercolorist. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1834",
+          "death_year": "1912",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1994-09-07T00:00:00",
+      "sortable_date": 1864,
+      "date_added_to_oa": null,
+      "date_text": "1864",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "The Bridge at Jaipur, India"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:56.577000"
+    },
+    {
+      "id": 156606,
+      "accession_number": "1992.307",
+      "share_license_status": "CC0",
+      "tombstone": "Temple of Ramesses II, Abu Simbel, c. 1860s. Antonio Beato (British, c. 1825–1903). Albumen print from wet collodion negative; image: 26.1 x 38.4 cm (10 1/4 x 15 1/8 in.); matted: 45.7 x 55.9 cm (18 x 22 in.). The Cleveland Museum of Art, John L. Severance Fund, 1992.307",
+      "current_location": null,
+      "title": "Temple of Ramesses II, Abu Simbel",
+      "creation_date": "c. 1860s",
+      "creation_date_earliest": 1860,
+      "creation_date_latest": 1869,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "albumen print from wet collodion negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "Photography",
+      "type": "Photograph",
+      "measurements": "Image: 26.1 x 38.4 cm (10 1/4 x 15 1/8 in.); Matted: 45.7 x 55.9 cm (18 x 22 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.261,
+          "width": 0.384
+        },
+        "matted": {
+          "height": 0.457,
+          "width": 0.559
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in negative: \"A Beato [signed]\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 311474,
+            "title": "Nineteenth Century Views of Egypt",
+            "description": "<i>Nineteenth Century Views of Egypt</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 19-September 9, 1992).",
+            "opening_date": "1992-05-19T04:00:00"
+          },
+          {
+            "id": 202979,
+            "title": "Pyramids & Sphinxes: Views of Egypt",
+            "description": "<i>Pyramids & Sphinxes: Views of Egypt</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 6-May 24, 2016).",
+            "opening_date": "2016-02-06T00:00:00"
+          },
+          {
+            "id": 521173,
+            "title": "Egyptomania: Fashion’s Conflicted Obsession",
+            "description": "<i>Egyptomania: Fashion’s Conflicted Obsession</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 1, 2023-January 28, 2024).",
+            "opening_date": "2023-04-01T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Dr. and Mrs. C. T. Isaacs",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Throughout the 1800s and into the 1900s, prints, paintings, and photographs, like Louis Haghe’s <em>Egypt and Nubia</em> series, brought back by artists who voyaged to Egypt, inspired American and European artists, architects, and designers to emulate ancient Egyptian motifs and styles. Egyptomania blossomed through the 1800s and can be seen in architecture around cities like Washington, DC, and in the interiors of aristocratic homes, as well as in funerary monuments, such as in Lake View Cemetery in Cleveland, Ohio. Looking back at these creations provides an interesting historical groundwork for debating who has the right to interpret Egyptian motifs and styles.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79946178"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1992.307-temple-of-ramesses-i"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Turner, Evan H. \"The Year in Review for 1992.\" <em>The Bulletin of the Cleveland Museum of Art</em> 80, no. 2 (1993): 38-79.",
+          "page_number": "Mentioned: p. 46, 67",
+          "url": "https://www.jstor.org/stable/25161388"
+        },
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 95",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1992.307",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1992.307/1992.307_web.jpg",
+          "width": "1263",
+          "height": "849",
+          "filesize": "808873",
+          "filename": "1992.307_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1992.307/1992.307_print.jpg",
+          "width": "3400",
+          "height": "2285",
+          "filesize": "5306342",
+          "filename": "1992.307_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1992.307/1992.307_full.tif",
+          "width": "6294",
+          "height": "4230",
+          "filesize": "79902732",
+          "filename": "1992.307_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 156606,
+      "creators": [
+        {
+          "id": 223,
+          "description": "Antonio Beato (British, c. 1825–1903)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Antonio Beato British?, b. Greece, 1834-1903 Antonio Beato, along with his brother Felice (who also became a photographer) and sister Maria Matilde (who later married Scottish photographer James Robertson), was raised in Venice. During their lives, great confusion existed about the two brothers. One often was mistaken for the other, or the two sometimes were thought to be a single person. The confusion persists even today. Antonio worked largely in Egypt (where, French being the dominant language at the time, he was also known as Antoine), establishing studios first in Cairo (1862) and later in Luxor (after 1870). In the early 1850s, however, he may have begun his career with Felice and Robertson in Malta. Antonio Beato focused his attention on producing prolific views of Egypt in all formats -- large prints in several sizes, and smaller cartes-de-visite and stereographs. His work often was purchased by European and American travelers seeking mementos of their time in North Africa and the Middle East. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1834",
+          "death_year": "1903",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1993-02-17T00:00:00",
+      "sortable_date": 1860,
+      "date_added_to_oa": null,
+      "date_text": "c. 1860s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:46.945000"
+    },
+    {
+      "id": 155991,
+      "accession_number": "1991.275",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Euphorbia Neriifolia, c. 1928. Albert Renger-Patzsch (German, 1897–1968). Gelatin silver print; image: 23 x 16.9 cm (9 1/16 x 6 5/8 in.); paper: 23.2 x 17 cm (9 1/8 x 6 11/16 in.); matted: 45.7 x 35.6 cm (18 x 14 in.). The Cleveland Museum of Art, John L. Severance Fund, 1991.275. © 2013 Albert Renger-Ptzsch Archiv / Ann u. Jürgen Wilde, Zülpich / Artists Rights Society (ARS), New York ",
+      "current_location": null,
+      "title": "Euphorbia Neriifolia",
+      "creation_date": "c. 1928",
+      "creation_date_earliest": 1923,
+      "creation_date_latest": 1933,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Germany, 20th century"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - German 20th Century",
+      "type": "Photograph",
+      "measurements": "Image: 23 x 16.9 cm (9 1/16 x 6 5/8 in.); Paper: 23.2 x 17 cm (9 1/8 x 6 11/16 in.); Matted: 45.7 x 35.6 cm (18 x 14 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.23,
+          "width": 0.169
+        },
+        "paper": {
+          "height": 0.232,
+          "width": 0.17
+        },
+        "matted": {
+          "height": 0.457,
+          "width": 0.356
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© 2013 Albert Renger-Ptzsch Archiv / Ann u. Jürgen Wilde, Zülpich / Artists Rights Society (ARS), New York ",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"neriifolia\";  \"50\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 311875,
+            "title": "Legacy of Light: Master Photographs from the Cleveland Museum of Art",
+            "description": "<i>Legacy of Light: Master Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 24, 1996-February 2, 1997).",
+            "opening_date": "1996-11-24T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, November 20,1996 - February 2, 1997: \"Legacy of Light: Master Photographs from the Cleveland Museum of Art.\"",
+            "opening_date": "1997-02-02T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "A pioneer of realistic, straight photography, labeled \"New Objectivity\" (Neue Sachlichkeit) in Germany, Albert Renger-Patzsch produced powerful gelatin silver prints of nature, architecture, and machinery. He presented his subjects in dramatic close-ups, harshly lit to emphasize their surfaces and contours, and with their edges thrown into relief by dark, unfocused backgrounds. As in this finely detailed image of a succulent, his photographs concentrated attention on structures, patterns, and textures that might ordinarily be overlooked.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79944759"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 273",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1991.275",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 155991,
+      "creators": [
+        {
+          "id": 1121,
+          "description": "Albert Renger-Patzsch (German, 1897–1968)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Albert Renger-Patzsch German, 1897-1966\r\n\r\nAlbert Renger-Patzsch (born in Würzburg) was a pioneering and influential proponent of the Neue Sachlichkeit (New Objectivity or New Realism) in photography beginning in the 1920s. The son of an enthusiastic amateur photographer, Renger-Patzsch began taking photographs in his youth. Following studies in Dresden and service in the German army, he worked as director of the Folkwang Photographic Archives in Hagen for three years (1922-25), then established himself as a freelance photographer in Bad Harzburg and published his first book, Das Chorgestühl von Cappenberg (The Choir Stalls of Cappenberg, 1925).\r\n\tThree years later Renger-Patzsch moved to Essen, where he continued his freelance work and published Die Welt ist Schön (The World Is Beautiful), his well-known book containing 100 clear, precise photographs of plant and animal forms, landscape, architecture, and other manufactured objects, often in extreme closeup views. Through the pictures in Die Welt ist Schön, Renger-Patzsch expressed his belief in straight photography and the ability of the camera to clearly and realistically portray the physical world. In the late 1920s and early 1930s, he continued to produce illustrated books, publishing monographs on Lubeck, Dresden, Hamburg, and the Essen Cathedral. He also taught for two semesters at the Folkwangschule in Essen (1933-34). In 1944 Renger-Patzsch lost thousands of his negatives when his studio was destroyed in an air raid during World War II. Around this time he moved to Wamel bei Soest and began focusing on landscape photography.\r\n\tThroughout his career Renger-Patzsch took part in a number of exhibitions, including the 1929 Film und Foto show of avant-garde photography and film in Stuttgart. In 1957 he was awarded the David Octavius Hill Medal by the Society of German Photographers for his contributions to the medium and in 1960 received the German Society for Photography Culture Prize. M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1897",
+          "death_year": "1968",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1992-02-24T00:00:00",
+      "sortable_date": 1923,
+      "date_added_to_oa": null,
+      "date_text": "c. 1928",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:55.794000"
+    },
+    {
+      "id": 161733,
+      "accession_number": "2000.89.a",
+      "share_license_status": "Copyrighted",
+      "tombstone": "The Shape of Things from the \"Africa\" series, 1993. Carrie Mae Weems (American, b. 1953). Gelatin silver print, triptych; image: 50 x 49.6 cm (19 11/16 x 19 1/2 in.); paper: 50.2 x 50.2 cm (19 3/4 x 19 3/4 in.). The Cleveland Museum of Art, John L. Severance Fund, 2000.89.a. © Carrie Mae Weems",
+      "current_location": null,
+      "title": "The Shape of Things from the \"Africa\" series",
+      "creation_date": "1993",
+      "creation_date_earliest": 1993,
+      "creation_date_latest": 1993,
+      "artists_tags": [
+        "female",
+        "Black American Artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print, triptych",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 50 x 49.6 cm (19 11/16 x 19 1/2 in.); Paper: 50.2 x 50.2 cm (19 3/4 x 19 3/4 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.5,
+          "width": 0.496
+        },
+        "paper": {
+          "height": 0.502,
+          "width": 0.502
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": "10",
+      "copyright": "© Carrie Mae Weems",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 179137,
+            "title": "Signs of Life:  Recent Photography Acquisitions",
+            "description": "<i>Signs of Life:  Recent Photography Acquisitions</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 22, 2003-April 7, 2004).",
+            "opening_date": "2003-11-22T00:00:00"
+          },
+          {
+            "id": 181802,
+            "title": "The Persistence of Geometry: Form, Content and Culture in the Collection of the Cleveland Museum of Art",
+            "description": "<i>The Persistence of Geometry: Form, Content and Culture in the Collection of the Cleveland Museum of Art</i>. Museum of Contemporary Art Cleveland (MOCA), Cleveland, OH (June 9-August 20, 2006).",
+            "opening_date": "2006-06-09T00:00:00"
+          },
+          {
+            "id": 230626,
+            "title": "Carrie Mae Weems: Three Decades of Photography and Video",
+            "description": "<i>Carrie Mae Weems: Three Decades of Photography and Video</i>. Frist Art Museum, Nashville, TN (organizer) (September 21, 2012-January 13, 2013); Portland Art Museum, Portland, OR (February 2-May 19, 2013); The Cleveland Museum of Art, Cleveland, OH (June 30-September 29, 2013); Cantor Center for Visual Arts at Stanford University, Stanford, CA (October 16, 2013-January 5, 2014); Solomon R. Guggenheim Museum, New York, NY (January 24-May 14, 2014).",
+            "opening_date": "2012-09-21T00:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Since the late 1970s, Carrie Mae Weems has challenged society’s stereotypes about gender, race, and class through photographs and texts she often assembles with objects into compelling installations. During her first trip to Africa in 1993, she photographed the vestiges of slavery along the coast of Ghana and Senegal as well as the entry ways, towers, and corridors of Djenné, Mali, one of the oldest urban sites in Western Africa. She was particularly taken by the city’s distinctive, ancient architecture and the buildings’ ability to suggest gender specificity - \"male and female space.\" In this summary work from Weems’s Africa Series, she flanked a detail image of a mosque and its protruding towers with two close-up views of sensual entrances and openings on the façades of granaries. She skillfully created both a beautiful formal record of a physical place and its culture and a stimulating narrative that evokes identity and human interaction.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79984845"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Sims, Lowery Stokes. T<em>he persistence of geometry: form, content, and culture in the collection of the Cleveland Museum of Art. </em>Cleveland: Cleveland Museum of Art, 2006.",
+          "page_number": "no. 135, p. 124",
+          "url": null
+        },
+        {
+          "citation": "Delmez, Kathryn E. <em>Carrie Mae Weems: Three Decades of Photography and Video.</em> Nashville, TN: Frist Center for the Visual Arts, 2012.",
+          "page_number": "ex. cat. no. 92., p. 122",
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/2000.89.a",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 161733,
+      "creators": [
+        {
+          "id": 38920,
+          "description": "Carrie Mae Weems (American, b. 1953)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1953",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2000-09-18T00:00:00",
+      "sortable_date": 1993,
+      "date_added_to_oa": null,
+      "date_text": "1993",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2000.89",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:30.220000"
+    },
+    {
+      "id": 290429,
+      "accession_number": "2016.266.20",
+      "share_license_status": "CC0",
+      "tombstone": "Maharaja of Rewa and Sardars, 1886. Raja Deen Dayal (Indian, 1844–1905). Albumen print; image: 19.7 x 26.9 cm (7 3/4 x 10 9/16 in.); paper: 19.7 x 26.9 cm (7 3/4 x 10 9/16 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 2016.266.20",
+      "current_location": null,
+      "title": "Maharaja of Rewa and Sardars",
+      "creation_date": "1886",
+      "creation_date_earliest": 1886,
+      "creation_date_latest": 1886,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "India"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 19.7 x 26.9 cm (7 3/4 x 10 9/16 in.); Paper: 19.7 x 26.9 cm (7 3/4 x 10 9/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.197,
+          "width": 0.269
+        },
+        "paper": {
+          "height": 0.197,
+          "width": 0.269
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "No visible inscriptions",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 536104,
+            "title": "Raja Deen Dayal: The King of Indian Photographers",
+            "description": "<i>Raja Deen Dayal: The King of Indian Photographers</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 23, 2023-February 4, 2024).",
+            "opening_date": "2023-04-23T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Studio of Raja Deen Dayal, sold to commissioner (identity unknown)",
+          "citations": [],
+          "footnotes": null,
+          "date": "1887 or 1888",
+          "sortorder": 1
+        },
+        {
+          "description": "Walter Clode [1929–2022], Pershore, England, sold or consigned to Prahlad Bubbar Indian and Islamic Art, London, England",
+          "citations": [],
+          "footnotes": null,
+          "date": "1970s–2015",
+          "sortorder": 2
+        },
+        {
+          "description": "(Prahlad Bubbar Indian and Islamic Art, London, England), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2015–16",
+          "sortorder": 3
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 5, 2016–",
+          "sortorder": 4
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Deen Dayal uses the arrangement of people and the architecture to point to the most important person in the photograph. Here, the Maharaja of Rewa is placed front and center. “Sardars,” inscribed on the top picture’s mount, refers to the military officials surrounding him. After 1858, British influence dictated that Indian rulers be educated in European history and ideas as well as their local culture and history. In the bottom image, the young maharaja is shown with Indian teachers, but the instructional tools are Western: bound books and a raised relief globe (with Asia visible).",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117230457"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2016.266.20-maharaja-of-rewa-and"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2016.266.20",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2016.266.20/2016.266.20_web.jpg",
+          "width": "900",
+          "height": "661",
+          "filesize": "310220",
+          "filename": "2016.266.20_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2016.266.20/2016.266.20_print.jpg",
+          "width": "3400",
+          "height": "2497",
+          "filesize": "2604897",
+          "filename": "2016.266.20_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2016.266.20/2016.266.20_full.tif",
+          "width": "7494",
+          "height": "5503",
+          "filesize": "123749044",
+          "filename": "2016.266.20_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2016.266.20/2016.266.20_alt0_web.jpg",
+            "width": "900",
+            "height": "657",
+            "filesize": "221095"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2016.266.20/2016.266.20_alt0_print.jpg",
+            "width": "3400",
+            "height": "2481",
+            "filesize": "2406590"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2016.266.20/2016.266.20_alt0_full.tif",
+            "width": "7508",
+            "height": "5479",
+            "filesize": "123434088"
+          }
+        }
+      ],
+      "creditline": "Purchase from the J. H. Wade Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 290429,
+      "creators": [
+        {
+          "id": 290400,
+          "description": "Raja Deen Dayal (Indian, 1844–1905)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1844",
+          "death_year": "1905",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2016-12-05T00:00:00-05:00",
+      "sortable_date": 1886,
+      "date_added_to_oa": null,
+      "date_text": "1886",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2016.266",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:18.285000"
+    },
+    {
+      "id": 161734,
+      "accession_number": "2000.89.b",
+      "share_license_status": "Copyrighted",
+      "tombstone": "The Shape of Things from the \"Africa\" series, 1993. Carrie Mae Weems (American, b. 1953). Gelatin silver print, triptych; image: 49.8 x 49.6 cm (19 5/8 x 19 1/2 in.); paper: 50.2 x 50.2 cm (19 3/4 x 19 3/4 in.). The Cleveland Museum of Art, John L. Severance Fund, 2000.89.b. © Carrie Mae Weems",
+      "current_location": null,
+      "title": "The Shape of Things from the \"Africa\" series",
+      "creation_date": "1993",
+      "creation_date_earliest": 1993,
+      "creation_date_latest": 1993,
+      "artists_tags": [
+        "female",
+        "Black American Artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print, triptych",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 49.8 x 49.6 cm (19 5/8 x 19 1/2 in.); Paper: 50.2 x 50.2 cm (19 3/4 x 19 3/4 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.498,
+          "width": 0.496
+        },
+        "paper": {
+          "height": 0.502,
+          "width": 0.502
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Carrie Mae Weems",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 179137,
+            "title": "Signs of Life:  Recent Photography Acquisitions",
+            "description": "<i>Signs of Life:  Recent Photography Acquisitions</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 22, 2003-April 7, 2004).",
+            "opening_date": "2003-11-22T00:00:00"
+          },
+          {
+            "id": 181802,
+            "title": "The Persistence of Geometry: Form, Content and Culture in the Collection of the Cleveland Museum of Art",
+            "description": "<i>The Persistence of Geometry: Form, Content and Culture in the Collection of the Cleveland Museum of Art</i>. Museum of Contemporary Art Cleveland (MOCA), Cleveland, OH (June 9-August 20, 2006).",
+            "opening_date": "2006-06-09T00:00:00"
+          },
+          {
+            "id": 230626,
+            "title": "Carrie Mae Weems: Three Decades of Photography and Video",
+            "description": "<i>Carrie Mae Weems: Three Decades of Photography and Video</i>. Frist Art Museum, Nashville, TN (organizer) (September 21, 2012-January 13, 2013); Portland Art Museum, Portland, OR (February 2-May 19, 2013); The Cleveland Museum of Art, Cleveland, OH (June 30-September 29, 2013); Cantor Center for Visual Arts at Stanford University, Stanford, CA (October 16, 2013-January 5, 2014); Solomon R. Guggenheim Museum, New York, NY (January 24-May 14, 2014).",
+            "opening_date": "2012-09-21T00:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Since the late 1970s, Carrie Mae Weems has challenged society’s stereotypes about gender, race, and class through photographs and texts she often assembles with objects into compelling installations. During her first trip to Africa in 1993, she photographed the vestiges of slavery along the coast of Ghana and Senegal as well as the entry ways, towers, and corridors of Djenné, Mali, one of the oldest urban sites in Western Africa. She was particularly taken by the city’s distinctive, ancient architecture and the buildings’ ability to suggest gender specificity - \"male and female space.\" In this summary work from Weems’s Africa Series, she flanked a detail image of a mosque and its protruding towers with two close-up views of sensual entrances and openings on the façades of granaries. She skillfully created both a beautiful formal record of a physical place and its culture and a stimulating narrative that evokes identity and human interaction.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79984847"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Sims, Lowery Stokes. <em>The persistence of geometry: form, content, and culture in the collection of the Cleveland Museum of Art.</em> Cleveland: Cleveland Museum of Art, 2006.",
+          "page_number": "no. 135, p. 124",
+          "url": null
+        },
+        {
+          "citation": "Delmez, Kathryn E. <em>Carrie Mae Weems: Three Decades of Photography and Video. </em>Nashville, TN: Frist Center for the Visual Arts, 2012.",
+          "page_number": "ex. cat. no. 92., p. 122",
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/2000.89.b",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 161734,
+      "creators": [
+        {
+          "id": 38920,
+          "description": "Carrie Mae Weems (American, b. 1953)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1953",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2000-09-18T00:00:00",
+      "sortable_date": 1993,
+      "date_added_to_oa": null,
+      "date_text": "1993",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2000.89",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:58.575000"
+    },
+    {
+      "id": 155373,
+      "accession_number": "1990.121",
+      "share_license_status": "Copyrighted",
+      "tombstone": "\"Women's Dance,\" Bauhaus Stage, 1929. Umbo (German, 1902–1980). Gelatin silver print; image: 15.3 x 11 cm (6 x 4 5/16 in.); matted: 30.6 x 25.4 cm (12 1/16 x 10 in.). The Cleveland Museum of Art, John L. Severance Fund, 1990.121",
+      "current_location": null,
+      "title": "\"Women's Dance,\" Bauhaus Stage",
+      "creation_date": "1929",
+      "creation_date_earliest": 1929,
+      "creation_date_latest": 1929,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Germany, 20th century"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - German 20th Century",
+      "type": "Photograph",
+      "measurements": "Image: 15.3 x 11 cm (6 x 4 5/16 in.); Matted: 30.6 x 25.4 cm (12 1/16 x 10 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.153,
+          "width": 0.11
+        },
+        "matted": {
+          "height": 0.306,
+          "width": 0.254
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"lisbeth\"; \"Umbo II\"; in blue-green ink: \" N46 [46 boxed] / Oscar Schlammer / Barockdamen *) / Bauhausbühne 1926-30. /  *) oder kurz '3 Damen' / Eigentum: W. Siedhoff / Frankfurt a. Main / Cornelius-str. 17\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 311875,
+            "title": "Legacy of Light: Master Photographs from the Cleveland Museum of Art",
+            "description": "<i>Legacy of Light: Master Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 24, 1996-February 2, 1997).",
+            "opening_date": "1996-11-24T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, November 20,1996 - February 2, 1997: \"Legacy of Light: Master Photographs from the Cleveland Museum of Art.\"",
+            "opening_date": "1997-02-02T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "W. Siedhoff, Frankfurt am Main",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "An inventive and versatile photographer, in Umbo joined the newly formed Berlin photographic agency known as Dephot (Deutsche Photodienst) in 1929, working as a photojournalist and writing about avant-garde film, dance, and theater. From 1926–30, he photographed performances produced by a dance and theatrical company associated with the German Bauhaus, an avant-garde school of architecture and design. In this surreal image, three figures dressed in elaborate costumes and masks impersonate dolls. The distorted perspective and ominous shadows give the image a disconcerting mood.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79943343"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "\"1990 Photography Acquisitions.\" <em>The Bulletin of the Cleveland Museum of Art</em> 78, no. 2 (1991): 46-59.",
+          "page_number": "Reproduced and Mentioned: p. 49",
+          "url": "https://www.jstor.org/stable/25161315"
+        },
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 362",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1990.121",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 155373,
+      "creators": [
+        {
+          "id": 1040,
+          "description": "Umbo (German, 1902–1980)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Umbo (Otto Umbehr) German, 1902-1980\r\n\r\nBorn Otto Umbehr in Düsseldorf, Umbo was a pioneering photojournalist also known for his compelling portraiture. Following studies in painting and design at the Bauhaus (1921-23), Umbo moved to Berlin where he undertook various jobs, including camera assistant to Walter Ruttmann on the documentary film Berlin, Die Sinfonie einer Grosstadt (Berlin, Symphony of a Great City, completed 1927). In 1926 he began a career as a professional photographer, opening a portrait studio with the assistance of Paul Citroën, a former Bauhaus colleague. He soon became known for his striking portraits produced using extreme closeups and dramatic lighting.\r\n\tIn 1928 Umbo joined Simon Guttmann's recently established Dephot (Deutsche Photodienst), the first cooperative photojournalist agency, managing the studio and contributing photographs until the agency was dissolved in 1933. During this time his work appeared in magazines such as the Berliner Illustrierte Zeitung, the Münchner Illustrierte Presse, Die Dame, and Die Koralle. He also experimented with multiple exposure, unusual camera angles, photomontage, collage, and x-ray film, and in 1929 took part in Film und Foto, the important international exhibition of avant-garde photography and film held in Stuttgart.\r\n\tThroughout the 1930s and early 1940s, Umbo worked as a freelance photojournalist, traveling to North Africa and Italy on assignment. During World War II he served in the German army (1943-45), losing all his prints and negatives when his studio was destroyed. After the war Umbo moved to Hanover, where he continued freelance work. From 1957 until the early 1970s he also taught photography in Bad Pyrmont, Hildesheim, and Hanover. M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1902",
+          "death_year": "1980",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1991-03-27T00:00:00",
+      "sortable_date": 1929,
+      "date_added_to_oa": null,
+      "date_text": "1929",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:05:00.842000"
+    },
+    {
+      "id": 161732,
+      "accession_number": "2000.89",
+      "share_license_status": "Copyrighted",
+      "tombstone": "The Shape of Things from the \"Africa\" series, 1993. Carrie Mae Weems (American, b. 1953). Gelatin silver print, triptych; image: 50 x 49.6 cm (19 11/16 x 19 1/2 in.); paper: 50.2 x 50.2 cm (19 3/4 x 19 3/4 in.). The Cleveland Museum of Art, John L. Severance Fund, 2000.89. © Carrie Mae Weems",
+      "current_location": null,
+      "title": "The Shape of Things from the \"Africa\" series",
+      "creation_date": "1993",
+      "creation_date_earliest": 1993,
+      "creation_date_latest": 1993,
+      "artists_tags": [
+        "female",
+        "Black American Artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print, triptych",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 50 x 49.6 cm (19 11/16 x 19 1/2 in.); Paper: 50.2 x 50.2 cm (19 3/4 x 19 3/4 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.5,
+          "width": 0.496
+        },
+        "paper": {
+          "height": 0.502,
+          "width": 0.502
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Carrie Mae Weems",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 179137,
+            "title": "Signs of Life:  Recent Photography Acquisitions",
+            "description": "<i>Signs of Life:  Recent Photography Acquisitions</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 22, 2003-April 7, 2004).",
+            "opening_date": "2003-11-22T00:00:00"
+          },
+          {
+            "id": 181802,
+            "title": "The Persistence of Geometry: Form, Content and Culture in the Collection of the Cleveland Museum of Art",
+            "description": "<i>The Persistence of Geometry: Form, Content and Culture in the Collection of the Cleveland Museum of Art</i>. Museum of Contemporary Art Cleveland (MOCA), Cleveland, OH (June 9-August 20, 2006).",
+            "opening_date": "2006-06-09T00:00:00"
+          },
+          {
+            "id": 230626,
+            "title": "Carrie Mae Weems: Three Decades of Photography and Video",
+            "description": "<i>Carrie Mae Weems: Three Decades of Photography and Video</i>. Frist Art Museum, Nashville, TN (organizer) (September 21, 2012-January 13, 2013); Portland Art Museum, Portland, OR (February 2-May 19, 2013); The Cleveland Museum of Art, Cleveland, OH (June 30-September 29, 2013); Cantor Center for Visual Arts at Stanford University, Stanford, CA (October 16, 2013-January 5, 2014); Solomon R. Guggenheim Museum, New York, NY (January 24-May 14, 2014).",
+            "opening_date": "2012-09-21T00:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Since the late 1970s, Carrie Mae Weems has challenged society’s stereotypes about gender, race, and class through photographs and texts she often assembles with objects into compelling installations. During her first trip to Africa in 1993, she photographed the vestiges of slavery along the coast of Ghana and Senegal as well as the entry ways, towers, and corridors of Djenné, Mali, one of the oldest urban sites in Western Africa. She was particularly taken by the city’s distinctive, ancient architecture and the buildings’ ability to suggest gender specificity - \"male and female space.\" In this summary work from Weems’s Africa Series, she flanked a detail image of a mosque and its protruding towers with two close-up views of sensual entrances and openings on the façades of granaries. She skillfully created both a beautiful formal record of a physical place and its culture and a stimulating narrative that evokes identity and human interaction.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79984841"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Sims, Lowery Stokes. <em>The persistence of geometry: form, content, and culture in the collection of the Cleveland Museum of Art.</em> Cleveland: Cleveland Museum of Art, 2006.",
+          "page_number": "no. 135, p. 124",
+          "url": null
+        },
+        {
+          "citation": "Delmez, Kathryn E. <em>Carrie Mae Weems: Three Decades of Photography and Video. </em>Nashville, TN: Frist Center for the Visual Arts, 2012.",
+          "page_number": "ex. cat. no. 92., p. 122",
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/2000.89",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 161732,
+      "creators": [
+        {
+          "id": 38920,
+          "description": "Carrie Mae Weems (American, b. 1953)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1953",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2000-09-18T00:00:00",
+      "sortable_date": 1993,
+      "date_added_to_oa": null,
+      "date_text": "1993",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "cover",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:19.921000"
+    },
+    {
+      "id": 167886,
+      "accession_number": "2009.477",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Street Cleaners, 1947. Ilse Bing (American, 1899–1998). Gelatin silver print; image: 32.5 x 26.7 cm (12 13/16 x 10 1/2 in.); paper: 35.2 x 27.7 cm (13 7/8 x 10 7/8 in.); matted: 61 x 50.8 cm (24 x 20 in.). The Cleveland Museum of Art, Gift of David Raymond, 2009.477. © Estate of Ilse Bing",
+      "current_location": null,
+      "title": "Street Cleaners",
+      "creation_date": "1947",
+      "creation_date_earliest": 1947,
+      "creation_date_latest": 1947,
+      "artists_tags": [
+        "female",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 32.5 x 26.7 cm (12 13/16 x 10 1/2 in.); Paper: 35.2 x 27.7 cm (13 7/8 x 10 7/8 in.); Matted: 61 x 50.8 cm (24 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.325,
+          "width": 0.267
+        },
+        "paper": {
+          "height": 0.352,
+          "width": 0.277
+        },
+        "matted": {
+          "height": 0.61,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Estate of Ilse Bing",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso of print: \"Ilse/Bing/1947\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil in top left corner of verso of print: [?]\"OB\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in black ink in lower left margin of recto of print: \"ILSE BING\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 335775,
+            "title": "Accommodations of Desire: Surrealist Works on Paper Collected by Julien Levy",
+            "description": "<i>Accommodations of Desire: Surrealist Works on Paper Collected by Julien Levy</i>. Palmer Museum of Art (September 14-December 5, 2004); McMullen Museum of Art, Boston College, MA (January 16-March 27, 2005); Crocker Art Museum, Sacaramento, CA (July 9-September 11, 2005); Portland Museum of Art (January 1-March 19, 2006).",
+            "opening_date": "2004-09-14T04:00:00"
+          },
+          {
+            "id": 203169,
+            "title": "Forbidden Games: Surrealist and Modernist Photography",
+            "description": "<i>Forbidden Games: Surrealist and Modernist Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 19, 2014-January 11, 2015).",
+            "opening_date": "2014-10-19T00:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Edwynn Houk Gallery, New York, NY)",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "David Raymond [b.1979], New York, NY",
+          "citations": [],
+          "footnotes": null,
+          "date": "2009",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Compared to New York’s skyscrapers, Paris was still a low-rise city. But this \"bird’s-eye\" view from the top floor of an apartment building provided sufficient height to allow the imagination to turn shadows, patches, and crosswalks into lines in an abstract geometric composition. An art history doctoral student in Frankfurt, Bing learned photography to illustrate her dissertation on architecture. Moving to Paris in 1930, she developed a successful photographic practice combining commercial and fine art photography. By the end of the decade, her photographs had been shown at the Louvre and New York’s Museum of Modern Art.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80072979"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Schaffner, Ingrid, Julien Levy, and Colin Westerbeck. Accommodations of Desire: Surrealist Works on Paper Collected by Julien Levy. Pasadena, Calif: Curatorial Assistance, Inc, 2004.",
+          "page_number": "p. 69",
+          "url": null
+        },
+        {
+          "citation": "Cleveland Museum of Art, Tom E. Hinson, Ian Walker, and Lisa Kurzner. Forbidden Games: Surrealist and Modernist Photography : the David Raymond Collection in the Cleveland Museum of Art. 2014.",
+          "page_number": "cat. no. 156, p. 192",
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/2009.477",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of David Raymond",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 167886,
+      "creators": [
+        {
+          "id": 235,
+          "description": "Ilse Bing (American, 1899–1998)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Ilse Bing (American, b. Germany, 1899-1998). Ilse Bing became interested in photography while pursuing a doctoral degree in art history at Frankfurt University. Around 1927-28 she began taking photographs to illustrate her dissertation and in 1930 decided to move to Paris to look for freelance assignments. Using the new 35mm Leica camera, she worked as a fashion, portrait, and architectural photographer, as well as a photojournalist. During her years in Paris she took part in numerous exhibitions, including the Museum of Modern Art's Photography 1839-1937 show in New York. In 1941 Bing and her husband immigrated to the United States, settling in New York City. In New York she began to work on a different scale, using the larger-format Rolleiflex camera as well as electronic flash. By 1957 she was working exclusively in color. Two years later Bing gave up photography to concentrate on painting and poetry.",
+          "name_in_original_language": null,
+          "birth_year": "1899",
+          "death_year": "1998",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2010-03-01T00:00:00",
+      "sortable_date": 1947,
+      "date_added_to_oa": null,
+      "date_text": "1947",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:20.712000"
+    },
+    {
+      "id": 161735,
+      "accession_number": "2000.89.c",
+      "share_license_status": "Copyrighted",
+      "tombstone": "The Shape of Things from the \"Africa\" series, 1993. Carrie Mae Weems (American, b. 1953). Gelatin silver print, triptych; image: 49.6 x 49.6 cm (19 1/2 x 19 1/2 in.); paper: 50.2 x 50.2 cm (19 3/4 x 19 3/4 in.). The Cleveland Museum of Art, John L. Severance Fund, 2000.89.c. © Carrie Mae Weems",
+      "current_location": null,
+      "title": "The Shape of Things from the \"Africa\" series",
+      "creation_date": "1993",
+      "creation_date_earliest": 1993,
+      "creation_date_latest": 1993,
+      "artists_tags": [
+        "female",
+        "Black American Artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print, triptych",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 49.6 x 49.6 cm (19 1/2 x 19 1/2 in.); Paper: 50.2 x 50.2 cm (19 3/4 x 19 3/4 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.496,
+          "width": 0.496
+        },
+        "paper": {
+          "height": 0.502,
+          "width": 0.502
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Carrie Mae Weems",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 179137,
+            "title": "Signs of Life:  Recent Photography Acquisitions",
+            "description": "<i>Signs of Life:  Recent Photography Acquisitions</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 22, 2003-April 7, 2004).",
+            "opening_date": "2003-11-22T00:00:00"
+          },
+          {
+            "id": 181802,
+            "title": "The Persistence of Geometry: Form, Content and Culture in the Collection of the Cleveland Museum of Art",
+            "description": "<i>The Persistence of Geometry: Form, Content and Culture in the Collection of the Cleveland Museum of Art</i>. Museum of Contemporary Art Cleveland (MOCA), Cleveland, OH (June 9-August 20, 2006).",
+            "opening_date": "2006-06-09T00:00:00"
+          },
+          {
+            "id": 230626,
+            "title": "Carrie Mae Weems: Three Decades of Photography and Video",
+            "description": "<i>Carrie Mae Weems: Three Decades of Photography and Video</i>. Frist Art Museum, Nashville, TN (organizer) (September 21, 2012-January 13, 2013); Portland Art Museum, Portland, OR (February 2-May 19, 2013); The Cleveland Museum of Art, Cleveland, OH (June 30-September 29, 2013); Cantor Center for Visual Arts at Stanford University, Stanford, CA (October 16, 2013-January 5, 2014); Solomon R. Guggenheim Museum, New York, NY (January 24-May 14, 2014).",
+            "opening_date": "2012-09-21T00:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Since the late 1970s, Carrie Mae Weems has challenged society’s stereotypes about gender, race, and class through photographs and texts she often assembles with objects into compelling installations. During her first trip to Africa in 1993, she photographed the vestiges of slavery along the coast of Ghana and Senegal as well as the entry ways, towers, and corridors of Djenné, Mali, one of the oldest urban sites in Western Africa. She was particularly taken by the city’s distinctive, ancient architecture and the buildings’ ability to suggest gender specificity - \"male and female space.\" In this summary work from Weems’s Africa Series, she flanked a detail image of a mosque and its protruding towers with two close-up views of sensual entrances and openings on the façades of granaries. She skillfully created both a beautiful formal record of a physical place and its culture and a stimulating narrative that evokes identity and human interaction.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79984851"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Sims, Lowery Stokes. <em>The persistence of geometry: form, content, and culture in the collection of the Cleveland Museum of Art. </em>Cleveland: Cleveland Museum of Art, 2006.",
+          "page_number": "no. 135, p. 124",
+          "url": null
+        },
+        {
+          "citation": "Delmez, Kathryn E. <em>Carrie Mae Weems: Three Decades of Photography and Video. </em>Nashville, TN: Frist Center for the Visual Arts, 2012.",
+          "page_number": "ex. cat. no. 92., p. 122",
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/2000.89.c",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 161735,
+      "creators": [
+        {
+          "id": 38920,
+          "description": "Carrie Mae Weems (American, b. 1953)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1953",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2000-09-18T00:00:00",
+      "sortable_date": 1993,
+      "date_added_to_oa": null,
+      "date_text": "1993",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2000.89",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:01.255000"
+    },
+    {
+      "id": 163453,
+      "accession_number": "2004.32",
+      "share_license_status": "CC0",
+      "tombstone": "Behind the Troglodyte Farm, c. 1853. Henri Le Secq (French, 1818–1882). Salted paper print from waxed paper negative; image: 50.9 x 31.1 cm (20 1/16 x 12 1/4 in.); matted: 76.2 x 61 cm (30 x 24 in.). The Cleveland Museum of Art, Norman O. Stone and Ella A. Stone Memorial Fund, 2004.32",
+      "current_location": null,
+      "title": "Behind the Troglodyte Farm",
+      "creation_date": "c. 1853",
+      "creation_date_earliest": 1848,
+      "creation_date_latest": 1858,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "salted paper print from waxed paper negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - French 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 50.9 x 31.1 cm (20 1/16 x 12 1/4 in.); Matted: 76.2 x 61 cm (30 x 24 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.509,
+          "width": 0.311
+        },
+        "matted": {
+          "height": 0.762,
+          "width": 0.61
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Printed into the image, at the bottom right corner: \" h. Le secq.\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 178867,
+            "title": "Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art",
+            "description": "<i>Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 26-June 16, 2005).",
+            "opening_date": "2005-02-26T00:00:00"
+          },
+          {
+            "id": 197576,
+            "title": "France at the Dawn of Photography",
+            "description": "<i>France at the Dawn of Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 4, 2009-January 24, 2010).",
+            "opening_date": "2009-10-04T00:00:00"
+          },
+          {
+            "id": 223311,
+            "title": "Impressionist France: Visions of Nation from Le Gray to Monet",
+            "description": "<i>Impressionist France: Visions of Nation from Le Gray to Monet</i>. The Nelson-Atkins Museum of Art, Kansas City, MO (organizer) (October 19, 2013-February 9, 2014).",
+            "opening_date": "2013-10-19T00:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Anonymous American art historian from a flea market, Paris, France",
+          "citations": [],
+          "footnotes": null,
+          "date": "1973–74",
+          "sortorder": 1
+        },
+        {
+          "description": "(Hans P. Kraus Jr. Fine Photographs, New York, NY, sold to Robert Hershkowitz, Ltd., London, England)",
+          "citations": [],
+          "footnotes": null,
+          "date": "Late 1990s",
+          "sortorder": 2
+        },
+        {
+          "description": "(Robert Hershkowitz, Ltd., London, England, sold to The Cleveland Museum of Art, Cleveland, OH)",
+          "citations": [],
+          "footnotes": null,
+          "date": "2002–2004",
+          "sortorder": 3
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "June 7, 2004–",
+          "sortorder": 4
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Trained as a painter, Le Secq was drawn to the new invention of photography in the late 1840s. He became one of the most gifted early photographers to record architecture and sculpture before his brief, illustrious career ended in 1856. Only one of two known prints, this large-scale image, exceptional for the period and process, belongs to a small group of photographs of troglodyte dwellings in western France near the Loire River. In the mid-19th century, artists of all media were attracted to rustic domestic scenes for both their picturesque qualities and social implications. Since medieval times, people had inhabited caves in France. Around the 15th century, the term <em>troglodyte</em> came into common use to refer to groups of political activists who found their way around property taxes assessed in such a way that people living underground could avoid them. Relying on an elevated vantage point for this picture, Le Secq made the dark, rounded, and mysterious entranceway the central feature of the composition. This contact print displays his prowess at interpreting historic architecture.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79989531"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2004.32-behind-the-troglodyt"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2004.32",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.32/2004.32_web.jpg",
+          "width": "671",
+          "height": "893",
+          "filesize": "494292",
+          "filename": "2004.32_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.32/2004.32_print.jpg",
+          "width": "2556",
+          "height": "3400",
+          "filesize": "6149640",
+          "filename": "2004.32_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.32/2004.32_full.tif",
+          "width": "3689",
+          "height": "4907",
+          "filesize": "54337880",
+          "filename": "2004.32_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Norman O. Stone and Ella A. Stone Memorial Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 163453,
+      "creators": [
+        {
+          "id": 1617,
+          "description": "Henri Le Secq (French, 1818–1882)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1818",
+          "death_year": "1882",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2004-06-07T00:00:00",
+      "sortable_date": 1848,
+      "date_added_to_oa": null,
+      "date_text": "c. 1853",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 16:32:46.557000"
+    },
+    {
+      "id": 307198,
+      "accession_number": "2018.2",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Pyramid of the Sun, Teotihuacan, 1923. Edward Weston (American, 1886–1958). Gelatin silver print; image: 19.1 x 23.9 cm (7 1/2 x 9 7/16 in.); paper: 19.1 x 23.9 cm (7 1/2 x 9 7/16 in.). The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund, 2018.2. ©  Center for Creative Photography, Arizona Board of Regents / Artists Rights Society (ARS), New York",
+      "current_location": null,
+      "title": "Pyramid of the Sun, Teotihuacan",
+      "creation_date": "1923",
+      "creation_date_earliest": 1923,
+      "creation_date_latest": 1923,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "United States"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 19.1 x 23.9 cm (7 1/2 x 9 7/16 in.); Paper: 19.1 x 23.9 cm (7 1/2 x 9 7/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.191,
+          "width": 0.239
+        },
+        "paper": {
+          "height": 0.191,
+          "width": 0.239
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "©  Center for Creative Photography, Arizona Board of Regents / Artists Rights Society (ARS), New York",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on back of mount in Anita Brenner’s hand: “Toltec pyramid of the sun, Valley of/San Jua Teotihuacan, near Mexico, Dated/approximately as 500 A.D. Referred to as/Pre-Hispanic architecture, preceding development/of Aztec. Photo, by Edward Weston”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on back of mount in middle: [arrow pointing to center] “6 ¼” [arrow pointing to center]",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on back of mount, upside down from caption: “384/20”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on back of mount: “2 ½ Wht mat/Blk Passe”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Weston’s photograph emphasizes the majesty and monumental scale of the third largest pyramid in the world, founded around 200 A.D. by the Teotihuacanos not far from Mexico City. The print was made as Weston’s work was evolving from the soft focus and emotional emphasis of pictorialism to the clearly detailed, sharply focused, more formalist modernism, and contains traits characteristic of both movements.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60781277"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Amy Conger, <em>Edward Weston’s Early Photography 1903-1926</em>, Ph.D. Dissertation, Albuquerque: The University of New Mexico, May 1982, Vol. I. passim, vol. 2 figure 23M/16 and vol. 4 figure 26/74.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Conger, Amy, and Edward Weston. Edward Weston in Mexico, 1923-1926. Albuquerque: Published for the San Francisco Museum of Modern Art by the University of New Mexico Press, 1983.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Conger, Amy, and Edward Weston. Edward Weston--Photographs: From the Collection of the Center for Creative Photography. [Tucson]: Center for Creative Photography, University of Arizona, 1992.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "James Oles, <em>South of the Border: Mexico in the American Imagination, 1914-1947</em>, Washington: Smithsonian Institution Press, 1993",
+          "page_number": "159, 289",
+          "url": null
+        },
+        {
+          "citation": "Modotti, Tina, Edward Weston, Malin Barth, Jose Antonio Rodgriguez, and Antonio Saborit. Tina Modotti &amp; Edward Weston: Mexican Years. New York, NY: Throckmorton Fine Art, 1999.",
+          "page_number": "8, 51",
+          "url": null
+        },
+        {
+          "citation": "Stebbins, Theodore E., Edward Weston, Karen E. Quinn, and Leslie Furth. Edward Weston: Photography and Modernism. Boston: Museum of Fine Arts, Boston in association with Bulfinch Press, 1999.",
+          "page_number": "31-32, 211",
+          "url": null
+        },
+        {
+          "citation": "Debroise, Olivier. Mexican Suite: A History of Photography in Mexico. Austin: University of Texas Press, 2001.",
+          "page_number": "97-101",
+          "url": null
+        },
+        {
+          "citation": "Figarella, Mariana. Edward Weston y Tina Modotti en México: su inserción dentro de las estrategias estéticas del arte posrevolucionario. México, D.F.: UNAM, Instituto de Investigaciones Estéticas, 2002.",
+          "page_number": "91-92",
+          "url": null
+        },
+        {
+          "citation": "Weston, Edward, Sarah M. Lowe, and Dody W. Thompson. Edward Weston: Life Work : Photographs from the Collection of Judith G. Hochberg and Michael P. Mattis. Revere, Pa: Lodima Press, 2003.",
+          "page_number": "47, 49",
+          "url": null
+        },
+        {
+          "citation": "Lowe, Sarah M., Tina Modotti, and Edward Weston. Tina Modotti &amp; Edward Weston: The Mexico Years. London: Merrell, in association with Barbican Art Gallery, 2004.",
+          "page_number": "21",
+          "url": null
+        },
+        {
+          "citation": "Tannenbaum, Barbara. “Acquisitions 2018: Photography.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>vol. 59, no. 2 (March/April 2019): 24-25.",
+          "page_number": "Reproduced: P. 25; Mentioned: P. 24.",
+          "url": "https://archive.org/details/CMAMM2019-02/page/n11/mode/2up"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2018.2",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Severance and Greta Millikin Purchase Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 307198,
+      "creators": [
+        {
+          "id": 1082,
+          "description": "Edward Weston (American, 1886–1958)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Edward Weston American, 1886-1958 Edward Weston was one of the most influential proponents of straight photography in America. Born in Highland Park, Illinois, he made his first photographs in 1902 with a Kodak camera given to him by his father. Four years later he settled in California, supporting himself as a portrait photographer. After attending the Illinois College of Photography, he opened a studio in Tropico (now Glendale), California, in 1911. Initially, Weston made photographs in the soft-focus pictorial style. In the early 1920s, however, his work began to become more sharply focused, with a greater emphasis on form and composition. Among the earliest examples of this new approach are his 1922 photographs of the Armco steel mill in Middletown, Ohio. Over the next few years he continued to experiment with this new style, working in Mexico and then San Francisco. A master of lighting and composition, Weston began a series of closeup studies of shells and vegetables in 1927, creating the clearly focused, detailed images for which he became famous. In 1932 Weston joined Ansel Adams, Willard Van Dyke, Imogen Cunningham, and others in founding Group f/64, which advocated straight, unmanipulated photography. Five years later he received the first fellowship awarded to a photographer by the John Simon Guggenheim Memorial Foundation. The fellowship was renewed in 1938 and allowed Weston to travel and photograph throughout California and the western United States. Working slowly and methodically with large-format cameras, Weston continued to produce sharply focused contact prints until 1948, when Parkinson's disease forced him to give up photography. In subsequent years Weston's sons, Brett and Cole, worked under his supervision to make prints from his negatives. M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1886",
+          "death_year": "1958",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 0
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-02-26T00:00:00-05:00",
+      "sortable_date": 1923,
+      "date_added_to_oa": null,
+      "date_text": "1923",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:05.490000"
+    },
+    {
+      "id": 165142,
+      "accession_number": "2007.144",
+      "share_license_status": "Copyrighted",
+      "tombstone": "A Couple at the Ball Quat'z Arts, 1931 (printed 1950s). Brassaï (French, 1899–1984). Gelatin silver print, ferrotyped; image: 28.5 x 20.9 cm (11 1/4 x 8 1/4 in.). The Cleveland Museum of Art, John L. Severance Fund, 2007.144. © The Brassaï Estate - RMN ",
+      "current_location": null,
+      "title": "A Couple at the Ball Quat'z Arts",
+      "creation_date": "1931 (printed 1950s)",
+      "creation_date_earliest": 1931,
+      "creation_date_latest": 1931,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 20th century"
+      ],
+      "technique": "gelatin silver print, ferrotyped",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - French 20th Century",
+      "type": "Photograph",
+      "measurements": "Image: 28.5 x 20.9 cm (11 1/4 x 8 1/4 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.285,
+          "width": 0.209
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© The Brassaï Estate - RMN ",
+      "inscriptions": [
+        {
+          "inscription": "Written in black ink on verso: \"Un couple le bal des quarter arts/ (unidentified word) 193/Brassaï/pp746\"\r\n",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Black stamp on verso of print: \"BRASSAÏ/81, rue de St. Jacques/PARIS-XIV-PORt-Royal 23-41\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Purple stamp on verso of print: \"© COPYRIGHT by BRASSAÏ/81, Faubourg St. Jacques/PARIS 14ème Tél. 707.24.41\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 335432,
+            "title": "Begierde im Blick: Surrealistische Fotografie",
+            "description": "<i>Begierde im Blick: Surrealistische Fotografie</i>. Hamburger Kunsthalle (May 11-29, 2009).",
+            "opening_date": "2009-05-11T04:00:00"
+          },
+          {
+            "id": 203169,
+            "title": "Forbidden Games: Surrealist and Modernist Photography",
+            "description": "<i>Forbidden Games: Surrealist and Modernist Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 19, 2014-January 11, 2015).",
+            "opening_date": "2014-10-19T00:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "The Ball of the Four Arts, held each spring from 1892 through 1966, was attended by architecture, painting, sculpture, and printmaking students from the École Nationale des Beaux-Arts in Paris. A theme was announced each year and participants were required to be in costume, although how revealing those outfits were was left up to the attendees.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79993616"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E. Hinson, Ian Walker, and Lisa Kurzner. Forbidden Games: Surrealist and Modernist Photography : the David Raymond Collection in the Cleveland Museum of Art. 2014.",
+          "page_number": "cat. no. 136, p. 182",
+          "url": null
+        },
+        {
+          "citation": "Schneede, Uwe M. Begierde im Blick: surrealistische Photographie. Ostfildern-Ruit: Hatje Cantz, 2005.",
+          "page_number": "p. 58",
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/2007.144",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 165142,
+      "creators": [
+        {
+          "id": 46,
+          "description": "Brassaï (French, 1899–1984)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Brassaï (Gyula Halász) French, born Austria-Hungary, 1899-1984 A photographer, painter, sculptor, and writer, Brassaï became known during the 1930s for his photographs of Parisian nightlife. Initially interested in painting, he studied at the Academy of Fine Arts, Budapest (1918-19), and the Academische Hochschule, Berlin-Charlottenburg (1921-22). He adopted the name Brassaï (after his hometown, Brasso) following his move in 1924 to Paris, where he worked as a painter and journalist for Hungarian and German newspapers. Around 1929-30 Brassaï began to take photographs, receiving advice from Hungarian photographer André Kertész. His special interest was the city at night; during his walks after dark he photographed Paris dance halls, cafes, bars, and bordellos, as well as the vagrants and thugs who roamed the dimly lit streets. In 1933 Brassaï's nocturnal views of Paris were published as Paris de Nuit (Paris by Night). The book was a great success and helped to launch his photographic career. Brassaï began to receive assignments from such journals as Verve, Labyrinthe, and Minotaure, a new review of art and literature which commissioned him to photograph artists and their studios. He also became associated with Harper's Bazaar and over the next three decades completed many assignments for the magazine. Among the artists and writers he came to know during this period were Pablo Picasso, Salvador Dali, Alberto Giacometto, André Breton, Tristan Tzara, and Man Ray. During the German occupation of Paris in the 1940s, no longer able to wander freely through the streets, Brassaï turned to drawing; he also began to photograph Picasso's sculpture in his Paris studio. After the war, Brassaï continued his photographic series Graffiti and designed the photographic backdrops for several plays and ballets; he also published Histoire de Marie (1949), a surrealist poem with a preface by Henry Miller. In the mid-1950s he won a prize at the Cannes film festival for his movie Tant qui'il y aura des bêtes and in 1964 published a critically acclaimed book, Conversations avec Picasso. Throughout his career Brassaï exhibited his pictures widely, including a one-person exhibition of his photographs of graffiti at the Museum of Modern Art, New York, in the mid-1950s, followed by a retrospective of his work there in 1968. M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1899",
+          "death_year": "1984",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2007-02-26T00:00:00",
+      "sortable_date": 1931,
+      "date_added_to_oa": null,
+      "date_text": "1931 (printed 1950s)",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:33.380000"
+    },
+    {
+      "id": 146325,
+      "accession_number": "1972.1093",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Yellowstone Canyon, c. 1932. Edd A. Ruggles (American, 1880–1940). Gelatin silver print; image: 25.9 x 25.7 cm (10 3/16 x 10 1/8 in.); paper: 26.7 x 26.5 cm (10 1/2 x 10 7/16 in.); matted: 50.8 x 40.6 cm (20 x 16 in.). The Cleveland Museum of Art, Gift of Mrs. Edd A. Ruggles, 1972.1093",
+      "current_location": null,
+      "title": "Yellowstone Canyon",
+      "creation_date": "c. 1932",
+      "creation_date_earliest": 1927,
+      "creation_date_latest": 1937,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 25.9 x 25.7 cm (10 3/16 x 10 1/8 in.); Paper: 26.7 x 26.5 cm (10 1/2 x 10 7/16 in.); Matted: 50.8 x 40.6 cm (20 x 16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.259,
+          "width": 0.257
+        },
+        "paper": {
+          "height": 0.267,
+          "width": 0.265
+        },
+        "matted": {
+          "height": 0.508,
+          "width": 0.406
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 185373,
+            "title": "American Space:  Landscape Photography 1900-1950",
+            "description": "<i>American Space:  Landscape Photography 1900-1950</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 6-May 23, 2001).",
+            "opening_date": "2001-01-06T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; January 3-May 23, 2001.  \"American Space:  Landscape Photography, 1900-1950.\"",
+            "opening_date": "2001-01-03T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Hired shortly before its formal opening in 1916, Ruggles was the Cleveland Museum of Art's photographer for 25 years. During that time he pursued his own work, photographing the American landscape and English architecture. In this tightly cropped composition of a steep canyon split by rushing water, he concentrated on the rugged beauty of the American West. The striking geological formations became sculptural through strong contrasts of light and shade. By eliminating the horizon line, Ruggles challenged the viewer's perception of scale and distance, enlivening the image with visual ambiguity.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79924723"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1972.1093",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Mrs. Edd A. Ruggles",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 146325,
+      "creators": [
+        {
+          "id": 16872,
+          "description": "Edd A. Ruggles (American, 1880–1940)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Edd A. Ruggles (born in Newburgh, Ohio) first worked as an architect before becoming the staff photographer of the Cleveland Museum of Art. After attending the Armour Institute in Chicago, Ruggles practiced architecture in Cleveland from 1904-16. He was hired by the museum shortly before its formal opening in 1916. During his 25-year association with the museum, Ruggles also pursued his own work, photographing in Ohio, New England, and Great Britain. In 1931 his photographs of English architecture appeared in the book Small Stone Houses of the Cotswold District. During the early years of his photographic career, Ruggles also participated in a number of May Shows, regional juried exhibitions sponsored by the Cleveland Museum of Art, winning several first and second prizes between 1919-26. <br><br>Additionally, Ruggles was married to the Head of the Extensions department, Ruth K. Field Ruggles. When combined, they gave over 50 years of service to the Cleveland Museum of Art. Their joint memorial gift continues to benefit the Ingalls Library to this day.",
+          "name_in_original_language": null,
+          "birth_year": "1880",
+          "death_year": "1940",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1972-12-05T00:00:00",
+      "sortable_date": 1927,
+      "date_added_to_oa": null,
+      "date_text": "c. 1932",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:09.766000"
+    },
+    {
+      "id": 368003,
+      "accession_number": "2019.170.16",
+      "share_license_status": "CC0",
+      "tombstone": "Lucknow After the Siege: Small Mosque in the Kaiserbagh, 1858. Felice A. Beato (British, 1830–1906). Albumen print; image: 25.4 x 30.5 cm (10 x 12 in.). The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund, 2019.170.16",
+      "current_location": null,
+      "title": "Small Mosque in the Kaiserbagh",
+      "series": "Lucknow After the Siege",
+      "creation_date": "1858",
+      "creation_date_earliest": 1858,
+      "creation_date_latest": 1858,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 25.4 x 30.5 cm (10 x 12 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.254,
+          "width": 0.305
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Sir William Russell, 2nd Baronet",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "(Christie's, London, United Kingdom, October 20, 1993 sale)",
+          "citations": [],
+          "footnotes": null,
+          "date": "October 20, 1993",
+          "sortorder": 2
+        },
+        {
+          "description": "(Christie's, London, United Kingdom, September 27, 2001 sale)",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 27, 2001",
+          "sortorder": 3
+        },
+        {
+          "description": "Private Collection, United Kingdom",
+          "citations": [],
+          "footnotes": null,
+          "date": "2001-2019",
+          "sortorder": 4
+        },
+        {
+          "description": "(Prahlad Bubbar Indian and Islamic Art, London, United Kingdom, sold to the Cleveland Museum of Art)",
+          "citations": [],
+          "footnotes": null,
+          "date": "2019",
+          "sortorder": 5
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 9, 2019–",
+          "sortorder": 6
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Built for Wajid Ali Shah (1847–1856), between 1848 to 1850, Kaiserbagh Palace is a fine example of 1800s architecture in Lucknow, northern India. Parts of Kaiserbagh Palace were destroyed during the Indian Rebellion (an uprising against British rule), also known as the First War of Independence in 1857. This photograph captures the small mosque of the palace after the British siege of the city. Mosques are Muslim places of worship, used for five daily prayers, teaching the Qur’an, and community gatherings. The small mosque in the Kaiserbagh complex, however, served primarily the ruler’s family and members of the court.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79878130"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2019.170.16-small-mosque-in-the"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2019.170.16",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.170.16/2019.170.16_web.jpg",
+          "width": "900",
+          "height": "763",
+          "filesize": "326137",
+          "filename": "2019.170.16_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.170.16/2019.170.16_print.jpg",
+          "width": "3400",
+          "height": "2882",
+          "filesize": "4107246",
+          "filename": "2019.170.16_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.170.16/2019.170.16_full.tif",
+          "width": "11610",
+          "height": "9841",
+          "filesize": "342791464",
+          "filename": "2019.170.16_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Severance and Greta Millikin Purchase Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 368003,
+      "creators": [
+        {
+          "id": 35,
+          "description": "Felice A. Beato (British, 1830–1906)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Felice Beato British?, b. Italy, 1832-1909 Often confused with his brother Antonio, Venice-born Felice Beato was a pioneer photojournalist with strong ties to Britain. His first important work was done in partnership with James Robertson, superintendent and chief engraver for the Imperial Mint in Constantinople and husband of Beato's sister, Maria Matilde. With Robertson he photographed first in Malta in the early 1850s, then in Constantinople, Athens, Palestine, and Egypt. By the middle of the decade, Beato and Robertson were among the first to apply photography to the reportage of war, covering the Crimean conflict and the fall of Balaklava. Images of war and the exotic became Beato's specialty. With Robertson, he covered the Indian Mutiny (1857-59), works especially well known for their grisly views of the siege of Lucknow. His photographs of the Opium War, taken in the early 1860s, are thought to be the first western views of China; his depictions of the conquered Fort Taku are among the most stark and uncompromising documents of their time. Following China, Beato worked for some 15 years in Japan, where he produced a large body of work. In 1877 he sold his studio and negatives to Austrian photographer Baron Raimond von Stillfried und Ratenitz, and in the mid-1880s documented British military activities at Khartoum in the Sudan. In an 1886 issue of the British Journal of Photography, Beato was credited with an important improvement in the albumen process, which cut necessary exposure time. Around 1889 he settled in Burma, where he illustrated mail-order catalogues and sold native furniture and crafts. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1832",
+          "death_year": "1909",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-09-09T00:00:00-04:00",
+      "sortable_date": 1858,
+      "date_added_to_oa": null,
+      "date_text": "1858",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2019.170",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:18.671000"
+    },
+    {
+      "id": 159310,
+      "accession_number": "1996.10",
+      "share_license_status": "CC0",
+      "tombstone": "Jérusalem: Étude et reproduction photographique des monuments de la ville sainte depuis l'époque Judaïque jusqu'a nos jours: Tomb of the Virgin, Jerusalem, 1854. Auguste Salzmann (French, 1824–1872). Salted paper print, Blanquart-Évrard process, from waxed paper negative; image: 22.7 x 32.8 cm (8 15/16 x 12 15/16 in.); matted: 50.8 x 61 cm (20 x 24 in.). The Cleveland Museum of Art, John L. Severance Fund, 1996.10",
+      "current_location": null,
+      "title": "Tomb of the Virgin, Jerusalem",
+      "series": "Jérusalem: Étude et reproduction photographique des monuments de la ville sainte depuis l'époque Judaïque jusqu'a nos jours",
+      "creation_date": "1854",
+      "creation_date_earliest": 1854,
+      "creation_date_latest": 1854,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "salted paper print, Blanquart-Évrard process, from waxed paper negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - French 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 22.7 x 32.8 cm (8 15/16 x 12 15/16 in.); Matted: 50.8 x 61 cm (20 x 24 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.227,
+          "width": 0.328
+        },
+        "matted": {
+          "height": 0.508,
+          "width": 0.61
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in negative: \"89\"; in pencil on verso: \"4011\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": [
+          {
+            "description": "CMA, November 20,1996 - February 2, 1997: \"Legacy of Light: Master Photographs from the Cleveland Museum of Art.\"",
+            "opening_date": "1997-02-02T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "(Charles Isaacs Photographs, Inc., New York, NY)",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "March 4, 1996",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "In 1854, Auguste Salzmann was commissioned by the French Ministry of Public Instruction to document the holy city of Jerusalem. His charge was to substantiate the controversial theories about dating ancient ruins proposed by his friend, Louis Félicien de Saulcy, a noted antiquarian. Unlike almost all other photographers documenting architecture in the 19th century, Salzmann relied on extreme close-up views. In this example, he eliminated most of the building, concentrating on the door of the tomb and its surrounding architectural elements. As a result, all indications of scale, terrain, placement, and context normally found in documentary photographs are absent, while the abstract textural and surface qualities of the tomb are emphasized.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79978739"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1996.10-tomb-of-the-virgin-j"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 314",
+          "url": ""
+        },
+        {
+          "citation": "Cleveland Museum of Art, “The Cleveland Museum of Art Acquires Major Works,” March 18, 1996, Cleveland Museum of Art Archives.",
+          "page_number": null,
+          "url": "https://archive.org/details/cmapr4027"
+        }
+      ],
+      "url": "https://clevelandart.org/art/1996.10",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1996.10/1996.10_web.jpg",
+          "width": "1263",
+          "height": "880",
+          "filesize": "950197",
+          "filename": "1996.10_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1996.10/1996.10_print.jpg",
+          "width": "3400",
+          "height": "2370",
+          "filesize": "6177510",
+          "filename": "1996.10_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1996.10/1996.10_full.tif",
+          "width": "6280",
+          "height": "4378",
+          "filesize": "82514876",
+          "filename": "1996.10_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 159310,
+      "creators": [
+        {
+          "id": 859,
+          "description": "Auguste Salzmann (French, 1824–1872)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Auguste Salzmann French, 1824-1872\r\n\r\nBorn into a family of painters in Ribeauvillé, Haut-Rhin in Alsace, Auguste Salzmann exhibited his canvases of landscapes in the Paris Salons of 1847, 1848, and 1850. This artistic background, along with his distinctive subject matter, contributed to Salzmann's photographic style. His photographs were exhibited only once during his lifetime, at the 1855 Exposition Universelle in Paris. Primarily interested in archaeology, he belonged to no photographic societies and considered his photographic work merely a tool.\r\n\tSalzmann visited Palestine (1850-51) and Jerusalem (1853), combining a project to record the monuments left by the Crusaders with another that tried to prove the work of scholar Louis-Félicien-Joseph Caignart de Saulcy, whose controversial historical and architectural theories involved the dating of buildings within the ancient city. The resulting images were published by Louis-Désiré Blanquart-Évrard in Jérusalem, époques judaique, romaine, chrétienne, arabe, explorations photographique par A. Salzmann (1854). In these extremely intense studies, light and form were used to animate the ancient buildings and landscape of the Middle East.\r\n\tA journey to Rhodes (185-67) led to another publication, Nécropole de Camiros, which documented a site Salzmann is believed to have discovered. Although much of the biographical information about Salzmann is unclear and remains a subject of debate, his work continues to be influential and admired. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1824",
+          "death_year": "1872",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 68120,
+          "description": "Gide et J. Baudry",
+          "extent": "published by",
+          "qualifier": null,
+          "role": "publisher",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": false,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1996-03-04T00:00:00",
+      "sortable_date": 1854,
+      "date_added_to_oa": null,
+      "date_text": "1854",
+      "collapse_artists": true,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:21.023000"
+    },
+    {
+      "id": 161860,
+      "accession_number": "2001.148",
+      "share_license_status": "CC0",
+      "tombstone": "Fountaine de la Sophie, Constantinople, c. 1854. Ernest de Caranza (French, 1837–1863). Salted paper print from paper negative; image: 16.8 x 23.3 cm (6 5/8 x 9 3/16 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, John L. Severance Fund, 2001.148",
+      "current_location": null,
+      "title": "Fountaine de la Sophie, Constantinople",
+      "creation_date": "c. 1854",
+      "creation_date_earliest": 1849,
+      "creation_date_latest": 1859,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France"
+      ],
+      "technique": "salted paper print from paper negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 16.8 x 23.3 cm (6 5/8 x 9 3/16 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.168,
+          "width": 0.233
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "printed into the image on recto: \"E. Caranza/ gallipoli juin / 1854\"  \"24\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 179137,
+            "title": "Signs of Life:  Recent Photography Acquisitions",
+            "description": "<i>Signs of Life:  Recent Photography Acquisitions</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 22, 2003-April 7, 2004).",
+            "opening_date": "2003-11-22T00:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Arriving in Istanbul (then Constantinople) in 1852, Ernest de Caranza, a French factory engineer, took many photographs during his extensive travels on scientific missions throughout the Asiatic part of the Ottoman Empire. Self-taught as a photographer, he relied on the waxed paper negative process, created his own materials, and formulated an excellent fixative which tended to gray the blacks, giving the images a remarkable transparency in the shadows. In this charming view, he described the surrounding streetscape while concentrating on the distinctive, ancient architecture of the centrally positioned building. His beautifully descriptive photographs helped to shape Westerners' understanding of this historic city.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79985155"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2001.148-fountaine-de-la-soph"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2001.148",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2001.148/2001.148_web.jpg",
+          "width": "1197",
+          "height": "893",
+          "filesize": "706206",
+          "filename": "2001.148_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2001.148/2001.148_print.jpg",
+          "width": "3400",
+          "height": "2536",
+          "filesize": "5369530",
+          "filename": "2001.148_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2001.148/2001.148_full.tif",
+          "width": "5000",
+          "height": "3729",
+          "filesize": "55951372",
+          "filename": "2001.148_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 161860,
+      "creators": [
+        {
+          "id": 289797,
+          "description": "Ernest de Caranza (French, 1837–1863)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "French photographer, engineer, and manufacturer, 1837-1863",
+          "name_in_original_language": null,
+          "birth_year": "1837",
+          "death_year": "1863",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2001-12-03T00:00:00",
+      "sortable_date": 1849,
+      "date_added_to_oa": null,
+      "date_text": "c. 1854",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:20.019000"
+    },
+    {
+      "id": 165611,
+      "accession_number": "2007.44",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Bauhaus Sculptural Study, c. 1927. Erich Consemüller (German, 1902–1957). Gelatin silver print; image: 10.6 x 7.6 cm (4 3/16 x 3 in.); paper: 10.9 x 8 cm (4 5/16 x 3 1/8 in.); mounted, primary: 14.7 x 10.5 cm (5 13/16 x 4 1/8 in.); mounted, secondary: 35.6 x 27.9 cm (14 x 11 in.). The Cleveland Museum of Art, John L. Severance Fund, 2007.44",
+      "current_location": null,
+      "title": "Bauhaus Sculptural Study",
+      "creation_date": "c. 1927",
+      "creation_date_earliest": 1922,
+      "creation_date_latest": 1932,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Germany, 20th century"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - German 20th Century",
+      "type": "Photograph",
+      "measurements": "Image: 10.6 x 7.6 cm (4 3/16 x 3 in.); Paper: 10.9 x 8 cm (4 5/16 x 3 1/8 in.); Mounted, primary: 14.7 x 10.5 cm (5 13/16 x 4 1/8 in.); Mounted, secondary: 35.6 x 27.9 cm (14 x 11 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.106,
+          "width": 0.076
+        },
+        "paper": {
+          "height": 0.109,
+          "width": 0.08
+        },
+        "mounted, primary": {
+          "height": 0.147,
+          "width": 0.105
+        },
+        "mounted, secondary": {
+          "height": 0.356,
+          "width": 0.279
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Typed label on recto of mount: \"(24) #12/1. Mounted on black paper/2.Erich Consemüller (attributed on package and in box)/3.Sculptural study shot from below with Bauhaus building visible through design forming a complex abstraction/4.BF, p. 26, \"study c. 1927-Consemüller\"/5.Bauhaus student, self taught in photography/,produced fine/work, especially abstraction.\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 203169,
+            "title": "Forbidden Games: Surrealist and Modernist Photography",
+            "description": "<i>Forbidden Games: Surrealist and Modernist Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 19, 2014-January 11, 2015).",
+            "opening_date": "2014-10-19T00:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Edwynn Houk Gallery, New York, NY)",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "Egidio Marzona [b.1944], Berlin",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "David Raymond [b.1979], New York, NY",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007",
+          "sortorder": 3
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007-",
+          "sortorder": 4
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Consemüller, an architecture student at the Bauhaus, was hired to document the work, performances, and buildings at this revolutionary modernist German art school. Consemüller made an artistic rather than documentary image of this wooden sculptural model by another student. He had it held on its side so that its crossbars became diagonals, and set them against the rectilinear grid of the school’s windows. Two fragments of reality are merged here to create an abstraction about space, perspective, and light.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79994871"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E. Hinson, Ian Walker, and Lisa Kurzner. Forbidden Games: Surrealist and Modernist Photography : the David Raymond Collection in the Cleveland Museum of Art. 2014.",
+          "page_number": "cat. no. 117, p. 165",
+          "url": null
+        },
+        {
+          "citation": "Fricke, Roswitha. Bauhaus Fotografie. [Düsseldorf]: Edition Marzona, 1982.",
+          "page_number": "p. 54",
+          "url": null
+        },
+        {
+          "citation": "Bauhaus. Bauhaus photography. Cambridge, Mass: MIT Press, 1985.",
+          "page_number": "p. 23",
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/2007.44",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 165611,
+      "creators": [
+        {
+          "id": 55338,
+          "description": "Erich Consemüller (German, 1902–1957)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1902",
+          "death_year": "1957",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2007-02-26T00:00:00",
+      "sortable_date": 1922,
+      "date_added_to_oa": null,
+      "date_text": "c. 1927",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:13.351000"
+    }
+  ]
+}

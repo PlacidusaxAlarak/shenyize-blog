@@ -1,0 +1,3140 @@
+{
+  "info": {
+    "total": 338,
+    "parameters": {
+      "skip": 80,
+      "limit": 20,
+      "q": "photograph landscape",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,gallery,classification_type,department,collection",
+      "search": "photograph landscape"
+    }
+  },
+  "data": [
+    {
+      "id": 667889,
+      "accession_number": "2024.6.f",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: Afridi Picket near Jumrood, 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.f",
+      "current_location": null,
+      "title": "Afridi Picket near Jumrood",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448755"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.f",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.f/2024.6.f_web.jpg",
+          "width": "900",
+          "height": "669",
+          "filesize": "226066",
+          "filename": "2024.6.f_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.f/2024.6.f_print.jpg",
+          "width": "3400",
+          "height": "2529",
+          "filesize": "3058407",
+          "filename": "2024.6.f_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.f/2024.6.f_full.tif",
+          "width": "6887",
+          "height": "5122",
+          "filesize": "105856162",
+          "filename": "2024.6.f_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-25T12:49:58",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.f/2024.6.f_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "128334"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.f/2024.6.f_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "1889697"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.f/2024.6.f_alt0_full.tif",
+            "width": "14204",
+            "height": "9353",
+            "filesize": "398578878"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667889,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:30.994000"
+    },
+    {
+      "id": 667930,
+      "accession_number": "2024.6.gg",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: The River Gorge, 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.gg",
+      "current_location": null,
+      "title": "The River Gorge",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448801"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.gg",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.gg/2024.6.gg_web.jpg",
+          "width": "900",
+          "height": "599",
+          "filesize": "213275",
+          "filename": "2024.6.gg_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.gg/2024.6.gg_print.jpg",
+          "width": "3400",
+          "height": "2264",
+          "filesize": "3003335",
+          "filename": "2024.6.gg_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.gg/2024.6.gg_full.tif",
+          "width": "7118",
+          "height": "4740",
+          "filesize": "101248190",
+          "filename": "2024.6.gg_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-25T15:03:12",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.gg/2024.6.gg_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "137773"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.gg/2024.6.gg_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "2046166"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.gg/2024.6.gg_alt0_full.tif",
+            "width": "14204",
+            "height": "9353",
+            "filesize": "398579158"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667930,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:31.547000"
+    },
+    {
+      "id": 667931,
+      "accession_number": "2024.6.hh",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: Major Cavagnari C.S.I. and Sirdars, 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.hh",
+      "current_location": null,
+      "title": "Major Cavagnari C.S.I. and Sirdars",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448803"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.hh",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.hh/2024.6.hh_web.jpg",
+          "width": "900",
+          "height": "592",
+          "filesize": "231383",
+          "filename": "2024.6.hh_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.hh/2024.6.hh_print.jpg",
+          "width": "3400",
+          "height": "2238",
+          "filesize": "2923840",
+          "filename": "2024.6.hh_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.hh/2024.6.hh_full.tif",
+          "width": "7228",
+          "height": "4758",
+          "filesize": "103204534",
+          "filename": "2024.6.hh_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-25T15:05:13",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.hh/2024.6.hh_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "150053"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.hh/2024.6.hh_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "2041390"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.hh/2024.6.hh_alt0_full.tif",
+            "width": "14204",
+            "height": "9353",
+            "filesize": "398579594"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667931,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:06.585000"
+    },
+    {
+      "id": 667898,
+      "accession_number": "2024.6.k",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: General View from Ali Musjid, 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.k",
+      "current_location": null,
+      "title": "General View from Ali Musjid",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448763"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.k",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.k/2024.6.k_web.jpg",
+          "width": "900",
+          "height": "592",
+          "filesize": "216202",
+          "filename": "2024.6.k_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.k/2024.6.k_print.jpg",
+          "width": "3400",
+          "height": "2236",
+          "filesize": "3017126",
+          "filename": "2024.6.k_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.k/2024.6.k_full.tif",
+          "width": "7436",
+          "height": "4890",
+          "filesize": "109116290",
+          "filename": "2024.6.k_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-25T14:04:24",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.k/2024.6.k_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "140858"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.k/2024.6.k_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "2029468"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.k/2024.6.k_alt0_full.tif",
+            "width": "14204",
+            "height": "9353",
+            "filesize": "398579166"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667898,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:47.384000"
+    },
+    {
+      "id": 667900,
+      "accession_number": "2024.6.m",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: Ali Musjid and Camp, 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.m",
+      "current_location": null,
+      "title": "Ali Musjid and Camp",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448767"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.m",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.m/2024.6.m_web.jpg",
+          "width": "900",
+          "height": "559",
+          "filesize": "218126",
+          "filename": "2024.6.m_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.m/2024.6.m_print.jpg",
+          "width": "3400",
+          "height": "2112",
+          "filesize": "2765094",
+          "filename": "2024.6.m_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.m/2024.6.m_full.tif",
+          "width": "7537",
+          "height": "4682",
+          "filesize": "105894986",
+          "filename": "2024.6.m_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-25T14:10:28",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.m/2024.6.m_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "143788"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.m/2024.6.m_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "2033599"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.m/2024.6.m_alt0_full.tif",
+            "width": "14204",
+            "height": "9353",
+            "filesize": "398579214"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667900,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:04:32.098000"
+    },
+    {
+      "id": 667951,
+      "accession_number": "2024.6.pp",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: The Amir Yakub Khan. The First Meeting with Major Cavagnari and Mr. Jenkins, 7 Miles from Safed Sang, 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.pp",
+      "current_location": null,
+      "title": "The Amir Yakub Khan. The First Meeting with Major Cavagnari and Mr. Jenkins, 7 Miles from Safed Sang",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448819"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.pp",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.pp/2024.6.pp_web.jpg",
+          "width": "900",
+          "height": "703",
+          "filesize": "251193",
+          "filename": "2024.6.pp_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.pp/2024.6.pp_print.jpg",
+          "width": "3400",
+          "height": "2656",
+          "filesize": "3275663",
+          "filename": "2024.6.pp_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.pp/2024.6.pp_full.tif",
+          "width": "6964",
+          "height": "5440",
+          "filesize": "113683138",
+          "filename": "2024.6.pp_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-27T11:49:31",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.pp/2024.6.pp_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "147791"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.pp/2024.6.pp_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "2109791"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.pp/2024.6.pp_alt0_full.tif",
+            "width": "14204",
+            "height": "9352",
+            "filesize": "398536178"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667951,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:21.582000"
+    },
+    {
+      "id": 667908,
+      "accession_number": "2024.6.s",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: Kuta Kushta, 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.s",
+      "current_location": null,
+      "title": "Kuta Kushta",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448776"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.s",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.s/2024.6.s_web.jpg",
+          "width": "900",
+          "height": "699",
+          "filesize": "348106",
+          "filename": "2024.6.s_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.s/2024.6.s_print.jpg",
+          "width": "3400",
+          "height": "2639",
+          "filesize": "3807152",
+          "filename": "2024.6.s_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.s/2024.6.s_full.tif",
+          "width": "6626",
+          "height": "5143",
+          "filesize": "102266726",
+          "filename": "2024.6.s_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-25T14:22:27",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.s/2024.6.s_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "166225"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.s/2024.6.s_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "2220989"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.s/2024.6.s_alt0_full.tif",
+            "width": "14204",
+            "height": "9353",
+            "filesize": "398579774"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667908,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:23.866000"
+    },
+    {
+      "id": 667916,
+      "accession_number": "2024.6.x",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: General View of Dakka, 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.x",
+      "current_location": null,
+      "title": "General View of Dakka",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448784"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.x",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.x/2024.6.x_web.jpg",
+          "width": "900",
+          "height": "568",
+          "filesize": "151049",
+          "filename": "2024.6.x_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.x/2024.6.x_print.jpg",
+          "width": "3400",
+          "height": "2146",
+          "filesize": "2417779",
+          "filename": "2024.6.x_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.x/2024.6.x_full.tif",
+          "width": "7365",
+          "height": "4648",
+          "filesize": "102726174",
+          "filename": "2024.6.x_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-25T14:32:44",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.x/2024.6.x_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "122579"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.x/2024.6.x_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "1869912"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.x/2024.6.x_alt0_full.tif",
+            "width": "14204",
+            "height": "9353",
+            "filesize": "398578686"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667916,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:21.145000"
+    },
+    {
+      "id": 667885,
+      "accession_number": "2024.6.b",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: The Amir Yakub Khan, General Daod Shah, Habeebula Moustafi, Major Cavagnari, Mr. Jenkyns, 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.b",
+      "current_location": null,
+      "title": "The Amir Yakub Khan, General Daod Shah, Habeebula Moustafi, Major Cavagnari, Mr. Jenkyns",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448745"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.b",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.b/2024.6.b_web.jpg",
+          "width": "900",
+          "height": "566",
+          "filesize": "186521",
+          "filename": "2024.6.b_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.b/2024.6.b_print.jpg",
+          "width": "3400",
+          "height": "2140",
+          "filesize": "2644552",
+          "filename": "2024.6.b_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.b/2024.6.b_full.tif",
+          "width": "7515",
+          "height": "4731",
+          "filesize": "106691646",
+          "filename": "2024.6.b_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-25T12:34:56",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.b/2024.6.b_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "127860"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.b/2024.6.b_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "1798278"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.b/2024.6.b_alt0_full.tif",
+            "width": "14204",
+            "height": "9353",
+            "filesize": "398579354"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667885,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:36.369000"
+    },
+    {
+      "id": 667891,
+      "accession_number": "2024.6.h",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: Shadi Bagiar, Entrance to Khyber Pass, 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.h",
+      "current_location": null,
+      "title": "Shadi Bagiar, Entrance to Khyber Pass",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448757"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.h",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.h/2024.6.h_web.jpg",
+          "width": "900",
+          "height": "705",
+          "filesize": "246827",
+          "filename": "2024.6.h_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.h/2024.6.h_print.jpg",
+          "width": "3400",
+          "height": "2664",
+          "filesize": "3463985",
+          "filename": "2024.6.h_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.h/2024.6.h_full.tif",
+          "width": "7032",
+          "height": "5509",
+          "filesize": "116248258",
+          "filename": "2024.6.h_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-25T13:55:03",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.h/2024.6.h_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "138605"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.h/2024.6.h_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "2057840"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.h/2024.6.h_alt0_full.tif",
+            "width": "14204",
+            "height": "9353",
+            "filesize": "398579150"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667891,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:13.183000"
+    },
+    {
+      "id": 667906,
+      "accession_number": "2024.6.q",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: End of the Defile, Looking Back at Ali Musjid, 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.q",
+      "current_location": null,
+      "title": "End of the Defile, Looking Back at Ali Musjid",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448773"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.q",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.q/2024.6.q_web.jpg",
+          "width": "900",
+          "height": "718",
+          "filesize": "285408",
+          "filename": "2024.6.q_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.q/2024.6.q_print.jpg",
+          "width": "3400",
+          "height": "2712",
+          "filesize": "3616561",
+          "filename": "2024.6.q_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.q/2024.6.q_full.tif",
+          "width": "6846",
+          "height": "5461",
+          "filesize": "112190286",
+          "filename": "2024.6.q_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-25T14:18:54",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.q/2024.6.q_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "152595"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.q/2024.6.q_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "2097327"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.q/2024.6.q_alt0_full.tif",
+            "width": "14204",
+            "height": "9353",
+            "filesize": "398579774"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667906,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:54.172000"
+    },
+    {
+      "id": 540851,
+      "accession_number": "2023.115",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Untitled (Silueta Series, Iowa), 1980. Ana Mendieta (American, b. Cuba, 1948–1985). Gelatin silver print; image: 18.2 x 24.3 cm (7 3/16 x 9 9/16 in.); paper: 20.6 x 25.4 cm (8 1/8 x 10 in.). The Cleveland Museum of Art, Dudley P. Allen Fund, 2023.115. © The Estate of Ana Mendieta Collection, LLC",
+      "current_location": null,
+      "title": "Untitled (Silueta Series, Iowa)",
+      "creation_date": "1980",
+      "creation_date_earliest": 1980,
+      "creation_date_latest": 1980,
+      "artists_tags": [
+        "female",
+        "Latine and Hispanic Artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 18.2 x 24.3 cm (7 3/16 x 9 9/16 in.); Paper: 20.6 x 25.4 cm (8 1/8 x 10 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.182,
+          "width": 0.243
+        },
+        "paper": {
+          "height": 0.206,
+          "width": 0.254
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© The Estate of Ana Mendieta Collection, LLC",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"Top\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil and blue ink on verso: \"Silueta Series 1980/Oaxaca, Mexico\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"P725,4\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Blue ink inscription on verso covered in whiteout",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Stamped in black ink on verso: \"ANA MENDIETA/P.O. BOX 314 VILLAGE STATION/NEW YORK, N.Y. 10014\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "At age 12, Ana Mendieta was sent from Cuba to live in the United States in 1961 after the Communists took control of the island.",
+      "description": "“I have been carrying out a dialogue between the landscape and the female body (based on my own silhouette),” wrote Mendieta. “I believe this has been a direct result of my having been torn from my homeland (Cuba) during my adolescence.” Sculpting into the soil at the edge of a slope, Mendieta created a silhouette based on her own body. She then photographed that ephemeral earth work. The photograph is the part of the artwork that remains.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q121092830"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2023.115",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Dudley P. Allen Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 540851,
+      "creators": [
+        {
+          "id": 361194,
+          "description": "Ana Mendieta (American, b. Cuba, 1948–1985)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1948",
+          "death_year": "1985",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2023-09-11T04:00:00Z",
+      "sortable_date": 1980,
+      "date_added_to_oa": null,
+      "date_text": "1980",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:04:52.427000"
+    },
+    {
+      "id": 439485,
+      "accession_number": "2021.59",
+      "share_license_status": "CC0",
+      "tombstone": "View of the Acropolis, c. 1880s. Adolphe Braun & Co. (French, 1845–1894). Mammoth carbon print; image: 38.1 x 47.5 cm (15 x 18 11/16 in.); paper: 40.1 x 49.3 cm (15 13/16 x 19 7/16 in.). The Cleveland Museum of Art, Gift of Michael Mattis and Judith Hochberg, 2021.59",
+      "current_location": null,
+      "title": "View of the Acropolis",
+      "creation_date": "c. 1880s",
+      "creation_date_earliest": 1875,
+      "creation_date_latest": 1895,
+      "artists_tags": [
+        "gender unknown"
+      ],
+      "culture": [
+        "France"
+      ],
+      "technique": "mammoth carbon print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - French 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 38.1 x 47.5 cm (15 x 18 11/16 in.); Paper: 40.1 x 49.3 cm (15 13/16 x 19 7/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.381,
+          "width": 0.475
+        },
+        "paper": {
+          "height": 0.401,
+          "width": 0.493
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"Acropole\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"78\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"D\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Michael Mattis and Judith Hochberg, Scarsdale, NY",
+          "citations": [],
+          "footnotes": null,
+          "date": "?-2021",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "June 7, 2021",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Carbon prints are among the stable and long-lasting photographic processes.",
+      "description": "Adolphe marketed his photos of flowers, artworks, landscapes, and monuments from across Europe throughout that continent and in North America. The Acropolis of Athens, the most famous ancient Greek site, must have sold well; Braun offered multiple views of it. The image on a carbon print is formed from pigmented gelatin, which is far more resistant to fading than the silver or metal salts in silver-based prints.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117246776"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2021.59-view-of-the-acropoli"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2021.59",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2021.59/2021.59_web.jpg",
+          "width": "900",
+          "height": "722",
+          "filesize": "287838",
+          "filename": "2021.59_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2021.59/2021.59_print.jpg",
+          "width": "3400",
+          "height": "2729",
+          "filesize": "2761946",
+          "filename": "2021.59_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2021.59/2021.59_full.tif",
+          "width": "10575",
+          "height": "8489",
+          "filesize": "269341382",
+          "filename": "2021.59_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2021-06-24T13:45:24",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.59/2021.59_alt0_web.jpg",
+            "width": "900",
+            "height": "722",
+            "filesize": "156970"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.59/2021.59_alt0_print.jpg",
+            "width": "3400",
+            "height": "2729",
+            "filesize": "2060567"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.59/2021.59_alt0_full.tif",
+            "width": "10575",
+            "height": "8489",
+            "filesize": "269337398"
+          }
+        }
+      ],
+      "creditline": "Gift of Michael Mattis and Judith Hochberg",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 439485,
+      "creators": [
+        {
+          "id": 449018,
+          "description": "Adolphe Braun & Co. (French, 1845–1894)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "French photography studio and publisher, ca. 1850-ca. 1890",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1894",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2021-06-07T04:00:00Z",
+      "sortable_date": 1875,
+      "date_added_to_oa": null,
+      "date_text": "c. 1880s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:36.279000"
+    },
+    {
+      "id": 154698,
+      "accession_number": "1989.29",
+      "share_license_status": "CC0",
+      "tombstone": "Road in the Forest, 1860–1863. Eugène Cuvelier (French, 1837–1900). Salted paper print from waxed paper negative; image: 25.8 x 19.8 cm (10 3/16 x 7 13/16 in.); matted: 61 x 50.8 cm (24 x 20 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1989.29",
+      "current_location": null,
+      "title": "Road in the Forest",
+      "creation_date": "1860–1863",
+      "creation_date_earliest": 1860,
+      "creation_date_latest": 1863,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "salted paper print from waxed paper negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - French 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 25.8 x 19.8 cm (10 3/16 x 7 13/16 in.); Matted: 61 x 50.8 cm (24 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.258,
+          "width": 0.198
+        },
+        "matted": {
+          "height": 0.61,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on recto of mount: \"6\"; in pencil on verso: \"7\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 310333,
+            "title": "The Year in Review for 1989",
+            "description": "<i>The Year in Review for 1989</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 6-April 15, 1990).",
+            "opening_date": "1990-02-06T05:00:00"
+          },
+          {
+            "id": 311875,
+            "title": "Legacy of Light: Master Photographs from the Cleveland Museum of Art",
+            "description": "<i>Legacy of Light: Master Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 24, 1996-February 2, 1997).",
+            "opening_date": "1996-11-24T05:00:00"
+          },
+          {
+            "id": 186948,
+            "title": "Pioneers of Landscape Photography from the Museum's Collection",
+            "description": "<i>Pioneers of Landscape Photography from the Museum's Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 12, 2000-January 3, 2001).",
+            "opening_date": "2000-08-12T00:00:00"
+          },
+          {
+            "id": 178867,
+            "title": "Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art",
+            "description": "<i>Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 26-June 16, 2005).",
+            "opening_date": "2005-02-26T00:00:00"
+          },
+          {
+            "id": 197576,
+            "title": "France at the Dawn of Photography",
+            "description": "<i>France at the Dawn of Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 4, 2009-January 24, 2010).",
+            "opening_date": "2009-10-04T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, July 10 - August 19, 1990: \"The Camera,\" Classroom Level, no exhibition catalogue.",
+            "opening_date": "1990-07-10T00:00:00"
+          },
+          {
+            "description": "CMA, November 20,1996 - February 2, 1997: \"Legacy of Light: Master Photographs from the Cleveland Museum of Art.\"",
+            "opening_date": "1997-02-02T00:00:00"
+          },
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; August 12, 2000 - January 3, 2001.  \"Pioneers of Landscape Photography from the Museum's Collection.\"",
+            "opening_date": "2000-08-12T00:00:00"
+          },
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; February 26 - June 16, 2005 . \"Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art\".",
+            "opening_date": "2005-02-26T00:00:00"
+          },
+          {
+            "description": "The Cleveland Museum of Art (10/04/2009 - 01/24/2010); \"France at the Dawn of Photography\"",
+            "opening_date": "2009-10-04T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Eugène Cuvelier was a landscape painter as well as a photographer. During the 1850s and 1860s, he photographed in an number of forests near Paris. He was also associated with the Barbizon painters, a group working in the village of Barbizon that advocated the direct study of nature. This exquisite snow scene exemplifies Cuvelier's distinguished and influential landscape work. The artist took advantage of the inherent softness of his photographic process to create an atmospheric rendering of a winter scene with a curving pathway that draws the viewer into the dense, barely defined background of foliage. Many of the trees Cuvelier recorded disappeared soon after the photographs were taken.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60749191"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1989.29-road-in-the-forest"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 136",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1989.29",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1989.29/1989.29_web.jpg",
+          "width": "680",
+          "height": "893",
+          "filesize": "522781",
+          "filename": "1989.29_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1989.29/1989.29_print.jpg",
+          "width": "2588",
+          "height": "3400",
+          "filesize": "6015541",
+          "filename": "1989.29_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1989.29/1989.29_full.tif",
+          "width": "3848",
+          "height": "5056",
+          "filesize": "58402092",
+          "filename": "1989.29_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Purchase from the J. H. Wade Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 154698,
+      "creators": [
+        {
+          "id": 340,
+          "description": "Eugène Cuvelier (French, 1837–1900)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Eugène Cuvelier French, 1837 - 1900\r\n\r\nA painter and photographer in Arras, Eugène Cuvelier focused on the natural landscape of Fontainebleau and its environs. His father, Adalbert, who also painted and photographed, taught Jean-Baptiste-Camille Corot the process of cliché-verre, an early printmaking process based on sensitivity to light. The works of the father and son are often difficult to distinguish.\r\n\tEugène expanded the link between photography and painting, producing a substantial series of calotypes of natural subjects in the style of the Barbizon School. A member of the Société française de photographie, he continued to use paper negatives at a late date, preferring their soft aesthetic result that suggested painting. The Cuveliers were also members of the Barbizon artistic community: At the wedding of Eugène to Louise Ganne, daughter of the celebrated innkeeper, Jean-François Millet and Théodore Rousseau took on the task of decoration and Corot served as best man. Today, Cuvelier's works are treasured for their direct portrayal of nature and the delicacy with which photography was adapted to the task. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1837",
+          "death_year": "1900",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1989-03-27T00:00:00",
+      "sortable_date": 1860,
+      "date_added_to_oa": null,
+      "date_text": "1860–1863",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-04-02 12:45:16.701000"
+    },
+    {
+      "id": 160945,
+      "accession_number": "1999.215.2",
+      "share_license_status": "CC0",
+      "tombstone": "Taj Mahal, Back View of the Rest-House, with Figure, c. 1858–1862. Dr. John Murray (Scottish, 1809–1898). Waxed paper negative; image: 39.7 x 44.8 cm (15 5/8 x 17 5/8 in.); paper: 40.5 x 44.8 cm (15 15/16 x 17 5/8 in.). The Cleveland Museum of Art, John L. Severance Fund, 1999.215.2",
+      "current_location": null,
+      "title": "Taj Mahal, Back View of the Rest-House, with Figure",
+      "creation_date": "c. 1858–1862",
+      "creation_date_earliest": 1858,
+      "creation_date_latest": 1862,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "waxed paper negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 39.7 x 44.8 cm (15 5/8 x 17 5/8 in.); Paper: 40.5 x 44.8 cm (15 15/16 x 17 5/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.397,
+          "width": 0.448
+        },
+        "paper": {
+          "height": 0.405,
+          "width": 0.448
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 184303,
+            "title": "Travel Photography: Early Images of India",
+            "description": "<i>Travel Photography: Early Images of India</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 2-July 17, 2002).",
+            "opening_date": "2002-03-02T00:00:00"
+          },
+          {
+            "id": 299790,
+            "title": "Indian Gallery 242b Rotation – November 2017-April 2018",
+            "description": "<i>Indian Gallery 242b Rotation – November 2017-April 2018</i>. The Cleveland Museum of Art (organizer) (November 10, 2017-April 16, 2018).",
+            "opening_date": "2017-11-10T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, March 2 - July 17, 2002; \"Travel Photography: Images of India\". No catalog.",
+            "opening_date": "2002-03-02T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Although Dr. John Murray enjoyed a distinguished medical career as a surgeon, administrator, and leader in the fight against cholera, he is now best known for his superb paper negative photographs of India. Having lived near the Taj Mahal in the city of Agra for 20 years, Dr. Murray took great interest in the monument, photographing it from numerous perspectives and under varying light conditions. In this print, he chose an elevated viewpoint to compose an intriguing rendering of the Rest-House. The paper negative was waxed before sensitizing, improving its translucency and allowing the photographer to render his architectural subject matter in broad areas of light and dark, emphasizing the building's bold geometric forms. The surrounding, picturesque landscape adds both visual interest and complexity to the composition. Seated figures in the foreground provide an indication of scale and the sense of wonder that might be experienced in the presence of this vast monument.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79982992"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1999.215.2-taj-mahal-back-view"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1999.215.2",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1999.215.2/1999.215.2_web.jpg",
+          "width": "1130",
+          "height": "893",
+          "filesize": "672601",
+          "filename": "1999.215.2_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1999.215.2/1999.215.2_print.jpg",
+          "width": "3400",
+          "height": "2688",
+          "filesize": "5340328",
+          "filename": "1999.215.2_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1999.215.2/1999.215.2_full.tif",
+          "width": "5000",
+          "height": "3953",
+          "filesize": "59327096",
+          "filename": "1999.215.2_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 160945,
+      "creators": [
+        {
+          "id": 36645,
+          "description": "Dr. John Murray (Scottish, 1809–1898)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1809",
+          "death_year": "1898",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1999-12-06T00:00:00",
+      "sortable_date": 1858,
+      "date_added_to_oa": null,
+      "date_text": "c. 1858–1862",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "1999.215",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:51.248000"
+    },
+    {
+      "id": 165639,
+      "accession_number": "2007.67.11",
+      "share_license_status": "Copyrighted",
+      "tombstone": "In the Hands of Light: Images and Poems: Hope Is beyond the Window, 1948. Marcel G. Lefrancq (Belgian, 1916–1974). Gelatin silver print, ferrotyped; image: 22.9 x 15.2 cm (9 x 6 in.); paper: 22.9 x 16.3 cm (9 x 6 7/16 in.). The Cleveland Museum of Art, John L. Severance Fund, 2007.67.11. © Marcel G. Lefrancq",
+      "current_location": null,
+      "title": "Hope Is beyond the Window",
+      "series": "In the Hands of Light: Images and Poems",
+      "creation_date": "1948",
+      "creation_date_earliest": 1948,
+      "creation_date_latest": 1948,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Belgium, 20th century"
+      ],
+      "technique": "gelatin silver print, ferrotyped",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 20th Century",
+      "type": "Photograph",
+      "measurements": "Image: 22.9 x 15.2 cm (9 x 6 in.); Paper: 22.9 x 16.3 cm (9 x 6 7/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.229,
+          "width": 0.152
+        },
+        "paper": {
+          "height": 0.229,
+          "width": 0.163
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Marcel G. Lefrancq",
+      "inscriptions": [
+        {
+          "inscription": "each image is titled and authenticated by son on verso",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso of print: \"L'espoir est au dela de la fenêtre/ M LEFRANCQ 11\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 203169,
+            "title": "Forbidden Games: Surrealist and Modernist Photography",
+            "description": "<i>Forbidden Games: Surrealist and Modernist Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 19, 2014-January 11, 2015).",
+            "opening_date": "2014-10-19T00:00:00"
+          },
+          {
+            "id": 383281,
+            "title": "Stories from Storage",
+            "description": "<i>Stories from Storage</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 7-May 16, 2021).",
+            "opening_date": "2021-02-06T05:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "The artist's estate, Mons, Belgium",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "David Raymond [b.1979], New York, NY",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007-",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "During World War II, Marcel G. Lefrancq took photographs for fake IDs for Jews attempting to escape Belgium.",
+      "description": "In works such as this one, Marcel G. Lefrancq presented views of daily life in his native city, Mons, from an unexpected perspective. A woman stands inside a room looking out the window in a reversal of the standard version of such imagery: rather than being seen from indoors, landscape enters the space in the form of a creeping vine. Lefrancq published it in a photographic portfolio, where it was featured alongside similarly evocative poetry.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79994935"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E. Hinson, Ian Walker, and Lisa Kurzner. Forbidden Games: Surrealist and Modernist Photography : the David Raymond Collection in the Cleveland Museum of Art. 2014.",
+          "page_number": "Reproduced: p. 150, no. 103; mentioned: p. 218; reproduced: p. 219.",
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/2007.67.11",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 165639,
+      "creators": [
+        {
+          "id": 55371,
+          "description": "Marcel G. Lefrancq (Belgian, 1916–1974)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1916",
+          "death_year": "1974",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2007-02-26T00:00:00",
+      "sortable_date": 1948,
+      "date_added_to_oa": null,
+      "date_text": "1948",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2007.67",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:03.393000"
+    },
+    {
+      "id": 439495,
+      "accession_number": "2021.63",
+      "share_license_status": "CC0",
+      "tombstone": "Façade Alsacienne, Corps de Garde à Colmar, c. 1870s. Adolphe Braun (French, 1812–1877). Mammoth untrimmed carbon print; image: 43.8 x 37.5 cm (17 1/4 x 14 3/4 in.); paper: 46.7 x 40.1 cm (18 3/8 x 15 13/16 in.). The Cleveland Museum of Art, Gift of Michael Mattis and Judith Hochberg, 2021.63",
+      "current_location": null,
+      "title": "Façade Alsacienne, Corps de Garde à Colmar",
+      "creation_date": "c. 1870s",
+      "creation_date_earliest": 1865,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France"
+      ],
+      "technique": "mammoth untrimmed carbon print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - French 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 43.8 x 37.5 cm (17 1/4 x 14 3/4 in.); Paper: 46.7 x 40.1 cm (18 3/8 x 15 13/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.438,
+          "width": 0.375
+        },
+        "paper": {
+          "height": 0.467,
+          "width": 0.401
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"2000f\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"38\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"Andre 455\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Michael Mattis and Judith Hochberg, Scarsdale, NY",
+          "citations": [],
+          "footnotes": null,
+          "date": "?-2021",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "June 7, 2021",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The loggia above the door, now enclosed, was once used for magistrates to publicly pronounce guilty verdicts.",
+      "description": "This German Renaissance structure was built in 1575 to be the town hall of Colmar but ended up becoming a guard house. Adolph Braun lived in another town in the same province, Alsace, and produced an extensive series of views of monuments and landscapes of the region. He marketed the images not just locally but throughout Europe and North America.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q107378547"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2021.63-facade-alsacienne-co"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2021.63",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2021.63/2021.63_web.jpg",
+          "width": "772",
+          "height": "900",
+          "filesize": "322134",
+          "filename": "2021.63_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2021.63/2021.63_print.jpg",
+          "width": "2917",
+          "height": "3400",
+          "filesize": "3286303",
+          "filename": "2021.63_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2021.63/2021.63_full.tif",
+          "width": "8586",
+          "height": "10009",
+          "filesize": "257840102",
+          "filename": "2021.63_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2021-06-24T13:43:21",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.63/2021.63_alt0_web.jpg",
+            "width": "772",
+            "height": "900",
+            "filesize": "179561"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.63/2021.63_alt0_print.jpg",
+            "width": "2917",
+            "height": "3400",
+            "filesize": "2565992"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.63/2021.63_alt0_full.tif",
+            "width": "8587",
+            "height": "10009",
+            "filesize": "257866082"
+          }
+        }
+      ],
+      "creditline": "Gift of Michael Mattis and Judith Hochberg",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 439495,
+      "creators": [
+        {
+          "id": 274,
+          "description": "Adolphe Braun (French, 1812–1877)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Adolphe Braun French, 1812-1877\r\n\r\nAdolphe Braun, a French textile designer born in Besançon and trained in Paris, opened his own studio in Dornach, Alsace, before becoming involved in photography in the early 1850s. He produced several early floral textile designs that were published as lithographs. In 1853 Braun began work on a large album of some 300 photographic still-life studies of flowers, intended as aids for artists in the field of decorative arts. The work met with such success at the 1855 Exposition Universelle in Paris that he left the field of design for photography. Braun's carefully executed still lifes are considered to be among the finest ever done.\r\n\tFrom the mid-1850s on, Braun's firm, Adolphe Braun et Cie., later headed by his son Gaston (1845–1928), became one of the world's largest studios and publishers of topographical views and of reproductions of works of art. In the latter effort, their importance was in part due to Gaston's success with the orthochromatic process, in which photographic reproductions retained a tonal range very close to that of the original work of art. Braun et Cie. were the official photographers to Napoléon III and Pope Pius IX. Their reproductions of works in the Louvre, the Sistine Chapel, and many other subjects in architecture, sculpture, painting, and drawing, sometimes using the more permanent carbon or Woodburytype processes, were offered in all sizes and formats, and became the standard in their field. The number of negatives taken by the Brauns or their operators was variously estimated in 1870 to be between 4,000 and 8,000. The Brauns were members of the Société française de photographie. Both were awarded the French Legion of Honor-Adolphe in 1860, and Gaston in 1892. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1812",
+          "death_year": "1877",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2021-06-07T04:00:00Z",
+      "sortable_date": 1865,
+      "date_added_to_oa": null,
+      "date_text": "c. 1870s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:26.074000"
+    },
+    {
+      "id": 156532,
+      "accession_number": "1992.242",
+      "share_license_status": "CC0",
+      "tombstone": "Hell's Half Acre, Prismatic Springs, c. late 1880s. Frank Jay Haynes (American, 1853–1921). Albumen print from glass negative; image: 44.7 x 54.5 cm (17 5/8 x 21 7/16 in.); paper: 45 x 55.1 cm (17 11/16 x 21 11/16 in.); matted: 61 x 76.2 cm (24 x 30 in.). The Cleveland Museum of Art, Edwin R. and Harriet Pelton Perkins Memorial Fund, 1992.242",
+      "current_location": null,
+      "title": "Hell's Half Acre, Prismatic Springs",
+      "creation_date": "c. late 1880s",
+      "creation_date_earliest": 1885,
+      "creation_date_latest": 1889,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "albumen print from glass negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "Photography",
+      "type": "Photograph",
+      "measurements": "Image: 44.7 x 54.5 cm (17 5/8 x 21 7/16 in.); Paper: 45 x 55.1 cm (17 11/16 x 21 11/16 in.); Matted: 61 x 76.2 cm (24 x 30 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.447,
+          "width": 0.545
+        },
+        "paper": {
+          "height": 0.45,
+          "width": 0.551
+        },
+        "matted": {
+          "height": 0.61,
+          "width": 0.762
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in negative: \"No. 3110 HELL'S HALF ACRE, Prismatic Springs / F. J. HAYNES, FARGO, D.T.\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 311552,
+            "title": "Selected Acquisitions",
+            "description": "<i>Selected Acquisitions</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 9-April 11, 1993).",
+            "opening_date": "1993-02-09T05:00:00"
+          },
+          {
+            "id": 311875,
+            "title": "Legacy of Light: Master Photographs from the Cleveland Museum of Art",
+            "description": "<i>Legacy of Light: Master Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 24, 1996-February 2, 1997).",
+            "opening_date": "1996-11-24T05:00:00"
+          },
+          {
+            "id": 194095,
+            "title": "Icons of American Photography: A Century of Photographs from the Cleveland Museum of Art",
+            "description": "<i>Icons of American Photography: A Century of Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 24-September 16, 2007); Frick Art and Historical Center, Pittsburgh, PA (October 3, 2009-January 3, 2010).",
+            "opening_date": "2007-06-24T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, January 28 - March 15, 1992: \"Selected Acquisitions,\" CMA Bulletin, 80 (February 1993), p. 68, no. 100.",
+            "opening_date": "1992-01-28T00:00:00"
+          },
+          {
+            "description": "CMA, January 14 - March 27, 1994: \"Land of Sky and Water: 19th Century Photographs of the American West,\" no exhibition catalogue.",
+            "opening_date": "1994-01-14T00:00:00"
+          },
+          {
+            "description": "CMA, November 20,1996 - February 2, 1997: \"Legacy of Light: Master Photographs from the Cleveland Museum of Art.\"",
+            "opening_date": "1997-02-02T00:00:00"
+          },
+          {
+            "description": "The Cleveland Museum of Art (6/24/07 - 9/16/07) and Frick Art and Historical Center, Pittburgh, PA (10/3/2009 - 1/3/2010); \"Icons of American Photography: A Century of Photographs from the Cleveland Museum of Art\", no exhibition catalogue.",
+            "opening_date": "2007-06-24T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "The family of the Artist",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Frank Jay Haynes was a photographer of life in the American West and the early days of Yellowstone National Park. Arriving in Yellowstone in the 1880s, he accompanied expeditions into the park, serving as official photographer. From canyon bottoms to mountain peaks, Haynes took his cameras to locations where he could capture unique and artistic views. In this photograph, he documented the immense space of the landscape, made particularly apparent by the inclusion of a small figure standing on the cliff at the right.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60758025"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1992.242-hell-s-half-acre-pri"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Turner, Evan H. “The Year in Review for 1992.” <em>The Bulletin of the Cleveland Museum of Art</em> 80, no. 2 (February 1993): 38–79.",
+          "page_number": "Mentioned: p. 68",
+          "url": "http://www.jstor.org/stable/25161388"
+        },
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 194",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1992.242",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1992.242/1992.242_web.jpg",
+          "width": "1093",
+          "height": "893",
+          "filesize": "615499",
+          "filename": "1992.242_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1992.242/1992.242_print.jpg",
+          "width": "3400",
+          "height": "2778",
+          "filesize": "5159212",
+          "filename": "1992.242_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1992.242/1992.242_full.tif",
+          "width": "4655",
+          "height": "3804",
+          "filesize": "53154264",
+          "filename": "1992.242_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Edwin R. and Harriet Pelton Perkins Memorial Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 156532,
+      "creators": [
+        {
+          "id": 476,
+          "description": "Frank Jay Haynes (American, 1853–1921)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Frank Jay Haynes American, 1853-1921\r\n\r\nA member of the second generation of photographers of western American landscape and railroads, Frank Jay Haynes is often grouped with those who came to the West much earlier. Stylistically and technically, however, as well as in terms of his approach to his subject, he is closer in outlook to the 20th century than to the 19th.\r\n\tBorn in Saline, Michigan, Haynes worked in 1874 in Ann Arbor and Wisconsin, and in 1875 at the \"Temple of Photography\" of a \"Dr.\" William Lockwood. He opened his own studio the following year in Moorehead, Minnesota, and another in 1879 in Fargo, Dakota Territory. In 1876 he was appointed official photographer of the Northern Pacific Railroad, a position he held for 30 years. Beginning in the early 1880s, Haynes worked in Yellowstone National Park, where after 1884 he was its official, though self-employed, photographer. A 8,235-foot mountain peak in the park was named as a memorial for him after his death.\r\n\tIn 1891 the Puget Sound & Alaska Steamship Co. commissioned Haynes to photograph the sea journey from Tacoma, Washington, to Glacier Bay, Alaska. From 1885-1905 his mobile Haynes' Palace Studio Car operated along the various lines of the Northern Pacific Railroad. He later moved to St. Paul, Minnesota, where he established another studio. Haynes retired in 1916; his son, also a photographer, eventually continued the family business. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1853",
+          "death_year": "1921",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1992-12-07T00:00:00",
+      "sortable_date": 1885,
+      "date_added_to_oa": null,
+      "date_text": "c. late 1880s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:32.502000"
+    },
+    {
+      "id": 156283,
+      "accession_number": "1992.12",
+      "share_license_status": "CC0",
+      "tombstone": "Bridal Veil, Yosemite, 1865–66. Carleton E. Watkins (American, 1829–1916). Albumen print from wet collodion negative; image: 40.1 x 52.4 cm (15 13/16 x 20 5/8 in.); matted: 61 x 76.2 cm (24 x 30 in.). The Cleveland Museum of Art, Andrew R. and Martha Holden Jennings Fund, 1992.12",
+      "current_location": null,
+      "title": "Bridal Veil, Yosemite",
+      "creation_date": "1865–66",
+      "creation_date_earliest": 1865,
+      "creation_date_latest": 1866,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "albumen print from wet collodion negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "Photography",
+      "type": "Photograph",
+      "measurements": "Image: 40.1 x 52.4 cm (15 13/16 x 20 5/8 in.); Matted: 61 x 76.2 cm (24 x 30 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.401,
+          "width": 0.524
+        },
+        "matted": {
+          "height": 0.61,
+          "width": 0.762
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on recto of mount: \"THE BRIDAL VEIL--900 FEET--YOSEMITE\"; \"/2\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 311552,
+            "title": "Selected Acquisitions",
+            "description": "<i>Selected Acquisitions</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 9-April 11, 1993).",
+            "opening_date": "1993-02-09T05:00:00"
+          },
+          {
+            "id": 311875,
+            "title": "Legacy of Light: Master Photographs from the Cleveland Museum of Art",
+            "description": "<i>Legacy of Light: Master Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 24, 1996-February 2, 1997).",
+            "opening_date": "1996-11-24T05:00:00"
+          },
+          {
+            "id": 212265,
+            "title": "Carleton Watkins: The Art of Perception",
+            "description": "<i>Carleton Watkins: The Art of Perception</i>. San Francisco Museum of Modern Art, San Francisco, CA (organizer) (May 28-September 7, 1999); The Metropolitan Museum of Art, New York, NY (October 11, 1999-January 9, 2000); National Gallery of Art, Landover, MD (February 20-May 7, 2000).",
+            "opening_date": "1999-05-28T00:00:00"
+          },
+          {
+            "id": 194095,
+            "title": "Icons of American Photography: A Century of Photographs from the Cleveland Museum of Art",
+            "description": "<i>Icons of American Photography: A Century of Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 24-September 16, 2007); Frick Art and Historical Center, Pittsburgh, PA (October 3, 2009-January 3, 2010).",
+            "opening_date": "2007-06-24T00:00:00"
+          },
+          {
+            "id": 383281,
+            "title": "Stories from Storage",
+            "description": "<i>Stories from Storage</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 7-May 16, 2021).",
+            "opening_date": "2021-02-06T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, January 28 - March 15, 1992: \"Selected Acquisitions,\" CMA Bulletin, 80 (February 1993), p. 69, no. 134.",
+            "opening_date": "1992-01-28T00:00:00"
+          },
+          {
+            "description": "CMA, January 14 - March 27, 1994: \"Land of Sky and Water: 19th Century Photographs of the American West,\" Gallery 105, no exhibition catalogue.",
+            "opening_date": "1994-01-14T00:00:00"
+          },
+          {
+            "description": "CMA, November 20,1996 - February 2, 1997: \"Legacy of Light: Master Photographs from the Cleveland Museum of Art.\"",
+            "opening_date": "1997-02-02T00:00:00"
+          },
+          {
+            "description": "San Francisco Museum of Modern Art; Metropolitan Museum of Art; National Gallery of Art; \"Carleton Watkins: The Art of Perception\" 5/28/99 - 5/7/00. 71, Pl. 25.",
+            "opening_date": "1999-05-28T00:00:00"
+          },
+          {
+            "description": "The Cleveland Museum of Art (6/24/07 - 9/16/07) and Frick Art and Historical Center, Pittburgh, PA (10/3/2009 - 1/3/2010); \"Icons of American Photography: A Century of Photographs from the Cleveland Museum of Art\", no exhibition catalogue.",
+            "opening_date": "2007-06-24T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "In the spring, Bridal Veil Falls drops a torrent of rushing water 620 feet down into the Yosemite Valley.",
+      "description": "The grand scale of the American West was difficult to convey in early photographs, which were intimately scaled objects meant for the hand and the album. Starting in the late 1850s, a handful of photographers shooting landscapes and historical settings began producing “mammoth” prints, including the San Francisco-based Carleton E. Watkins. The seemingly gargantuan scale of these prints allowed a new, immersive relationship between the viewer and the image, enhancing that “you are there” feeling.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60760319"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1992.12-bridal-veil-yosemite"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Turner, Evan H. “The Year in Review for 1992.” <em>The Bulletin of the Cleveland Museum of Art</em> 80, no. 2 (February 1993): 38–79.",
+          "page_number": "Mentioned: p. 69",
+          "url": "http://www.jstor.org/stable/25161388"
+        },
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 369",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1992.12",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1992.12/1992.12_web.jpg",
+          "width": "1109",
+          "height": "893",
+          "filesize": "806175",
+          "filename": "1992.12_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1992.12/1992.12_print.jpg",
+          "width": "3400",
+          "height": "2738",
+          "filesize": "5784628",
+          "filename": "1992.12_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1992.12/1992.12_full.tif",
+          "width": "4192",
+          "height": "3376",
+          "filesize": "42490492",
+          "filename": "1992.12_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Andrew R. and Martha Holden Jennings Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 156283,
+      "creators": [
+        {
+          "id": 1061,
+          "description": "Carleton E. Watkins (American, 1829–1916)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Carleton E. Watkins American, 1829-1916\r\n\r\nBorn in Oneonta, New York, Carleton Watkins traveled west to California in the early 1850s, shortly after the gold rush. He learned photography in 1854 from Robert Vance, one of the earliest and best of San Francisco's daguerreotypists. Vance's landscape photography, unusually skilled for the time, may have influenced Watkins's work.\r\n\tWatkins was among the first photographers in the Yosemite valley, shooting there in 1861, and his mammoth-plate landscape photographs of the area are believed to have contributed to Yosemite's early designation as a national park. His Yosemite Art Gallery opened in San Francisco in 1867, but unlike most photographers of the time, Watkins is not known to have done much portrait work. His subjects included topographical, scenic, survey, agricultural, and urban views of California and surrounding states, including Oregon, Arizona, Nevada, and Utah. Through his friendship with railroad magnate Collis Huntington, Watkins photographed along railway lines and was able to reach distant sites. Huntington later bought him the farm where he retired. Watkins's landscapes were well received; he was awarded an international medal at the Paris Exposition (1867) and a medal of progress at the Vienna International Exposition (1873).\r\n\tThe numerous commissions and the work produced for the public market by Watkins combine clarity of vision with technical expertise. His work set the standard for subsequent photographers of western views, such as William Henry Jackson, Timothy O'Sullivan, and John K. Hillers. Although his life was difficult and his business sense lacking, his photographic efforts were protracted and indefatigable. Watkins's negatives were destroyed in the San Francisco earthquake and fire of 1906. He died several years later blind and insane. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1829",
+          "death_year": "1916",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1992-02-24T00:00:00",
+      "sortable_date": 1865,
+      "date_added_to_oa": null,
+      "date_text": "1865–66",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:18.295000"
+    },
+    {
+      "id": 141753,
+      "accession_number": "1965.333",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Thunderstorm Over the Great Plains, Near Cimarron, New Mexico, c. 1961 (printed after 1965). Ansel Adams (American, 1902–1984). Gelatin silver print; image: 36 x 48 cm (14 3/16 x 18 7/8 in.); matted: 55.9 x 71.1 cm (22 x 28 in.). The Cleveland Museum of Art, Gift of Photography in the Fine Arts, 1965.333.  © 2011 The Ansel Adams Publishing Rights Trust",
+      "current_location": null,
+      "title": "Thunderstorm Over the Great Plains, Near Cimarron, New Mexico",
+      "creation_date": "c. 1961 (printed after 1965)",
+      "creation_date_earliest": 1956,
+      "creation_date_latest": 1966,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 36 x 48 cm (14 3/16 x 18 7/8 in.); Matted: 55.9 x 71.1 cm (22 x 28 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.36,
+          "width": 0.48
+        },
+        "matted": {
+          "height": 0.559,
+          "width": 0.711
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": " © 2011 The Ansel Adams Publishing Rights Trust",
+      "inscriptions": [
+        {
+          "inscription": "Typed on label on verso: \" 'East to the Great Plains,/From Cimarron, New Mexico'/Original Photograph by Ansel Adams\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 300794,
+            "title": "Year in Review: 1965",
+            "description": "<i>Year in Review: 1965</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 27-November 14, 1965).",
+            "opening_date": "1965-10-27T04:00:00"
+          },
+          {
+            "id": 301411,
+            "title": "Photograph Exhibition",
+            "description": "<i>Photograph Exhibition</i>. The Cleveland Museum of Art, Cleveland, OH (July 13-September 19, 1971).",
+            "opening_date": "1971-07-13T04:00:00"
+          },
+          {
+            "id": 301622,
+            "title": "Source Material for Studio Projects",
+            "description": "<i>Source Material for Studio Projects</i>. The Cleveland Museum of Art, Cleveland, OH (June 20-August 27, 1972).",
+            "opening_date": "1972-06-20T04:00:00"
+          },
+          {
+            "id": 311500,
+            "title": "Ansel Adams: Photographs from the Permanent Collection",
+            "description": "<i>Ansel Adams: Photographs from the Permanent Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 15, 1993-January 9, 1994).",
+            "opening_date": "1993-10-15T04:00:00"
+          },
+          {
+            "id": 199873,
+            "title": "Contemporary Landscape Photography",
+            "description": "<i>Contemporary Landscape Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 26-August 14, 2011).",
+            "opening_date": "2011-03-26T00:00:00"
+          },
+          {
+            "id": 304866,
+            "title": "Ansel Adams: A Photographer’s Evolution",
+            "description": "<i>Ansel Adams: A Photographer’s Evolution</i>. Taft Museum of Art, Cincinnati, OH (organizer) (June 23-September 16, 2018).",
+            "opening_date": "2018-06-23T04:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "<em>Photography in Fine Arts.</em> New York World's Fair, New York, NY (1965).",
+            "opening_date": "1965-01-01T00:00:00"
+          },
+          {
+            "description": "<em>Selection of Photography from the Cleveland Museum of Art.</em> The Kenneth C. Beck Center for the Cultural Arts, Cleveland, OH (1979).",
+            "opening_date": "1979-01-01T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "One of the most important, well-known, and influential photographers of the 20th century, Adams is indelibly associated with visually stunning images of the unsoiled environment in the American West. This expansive scene is one of his iconic landscapes made around 1961 when he took a trip to Cimarron, New Mexico, visiting the Philmont Scout Ranch, which occupies some 137,500 acres of wilderness in the Sangre de Cristo Mountains. From an elevated viewpoint, Adams celebrated the romanticized beauty and form and the ethereal western light of this vast, flat landscape. The irregular, white fluffy clouds, set off by the dark stormy sky, hover over the land like guardian figures.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60820020"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Lee, Sherman E. \"Year in Review.\" <em>The Bulletin of the Cleveland Museum of Art</em> 52, no. 9 (1965): 124-57.",
+          "page_number": "p. 157, no. 173",
+          "url": "www.jstor.org/stable/25152069"
+        },
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 77",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1965.333",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Photography in the Fine Arts",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 141753,
+      "creators": [
+        {
+          "id": 186,
+          "description": "Ansel Adams (American, 1902–1984)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Ansel Adams American, 1902-1984\r\n\r\nSan Francisco-born Ansel Adams took his first photograph in 1916. More than a dozen years later (during which time he also trained as a concert pianist), he decided on photography as a career. A master of the natural landscape photograph, Adams became famous for his spectacular, reverential images of the American West. He also was known for his technical skill, conceiving the zone system method of exposure and development control.\r\n\tAn advocate of straight, unmanipulated photography, in 1932 Adams cofounded Group f/64 (among the other founding members were Imogen Cunningham, Edward Weston, and Willard Van Dyke), and that year exhibited his work with the group at San Francisco's M. H. de Young Memorial Museum. In 1936 his images were featured in a one-person exhibition at Alfred Stieglitz's New York gallery, An American Place, and three years later he took part in group exhibitions at the Golden Gate International Exposition in San Francisco and the Museum of Modern Art in New York. In 1940 Adams helped found the department of photography at the Museum of Modern Art, and later in the decade was awarded two fellowships from the John Simon Guggenheim Memorial Foundation to photograph America's national parks.\r\n\tBeginning in the 1930s and continuing throughout his long, productive career, Adams published numerous books and portfolios of his images. His technical books on photography, including Making a Photograph, Basic Photo Series, and Polaroid Land Photography Manual, were also popular. Adams was influential not only as a photographer but also as a teacher, lecturer, and conservationist. In 1980 he was awarded the Presidential Medal of Freedom, the country's highest civilian honor. M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1902",
+          "death_year": "1984",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1965-09-11T00:00:00",
+      "sortable_date": 1956,
+      "date_added_to_oa": null,
+      "date_text": "c. 1961 (printed after 1965)",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:05:55.577000"
+    }
+  ]
+}

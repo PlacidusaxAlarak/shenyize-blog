@@ -1,0 +1,136 @@
+{
+  "data": {
+    "id": 169223,
+    "accession_number": "2011.13",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Railroad Landscape #33, Newburgh, Dutchess & Connecticut Right-of-Way, Abandoned 1938, MP 16, View South, Winter, Pine Plains, New York\r\n, 2009, printed 2010. Jeff Brouws (American, b. 1955). Inkjet print; image: 83.7 x 101.6 cm (32 15/16 x 40 in.); paper: 93.9 x 111.7 cm (36 15/16 x 44 in.); mounted: 93.9 x 111.7 cm (36 15/16 x 44 in.). The Cleveland Museum of Art, Gift of Katherine Solender and William E. Katzin in honor of Tom Hinson, 2011.13",
+    "current_location": null,
+    "title": "Railroad Landscape #33, Newburgh, Dutchess & Connecticut Right-of-Way, Abandoned 1938, MP 16, View South, Winter, Pine Plains, New York\r\n",
+    "creation_date": "2009, printed 2010",
+    "creation_date_earliest": 2009,
+    "creation_date_latest": 2009,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "inkjet print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1951-Present",
+    "type": "Photograph",
+    "measurements": "Image: 83.7 x 101.6 cm (32 15/16 x 40 in.); Paper: 93.9 x 111.7 cm (36 15/16 x 44 in.); Mounted: 93.9 x 111.7 cm (36 15/16 x 44 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.837,
+        "width": 1.016
+      },
+      "paper": {
+        "height": 0.939,
+        "width": 1.117
+      },
+      "mounted": {
+        "height": 0.939,
+        "width": 1.117
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Printed in label adhered to verso near  bottom edge: “Railroad Landscape #33, Newburgh, Dutchess & Connecticut/right-of-way, abandoned 1938, MP 16.5, view south, winter/Pine Plains, New York 2009/2010 3/7/Jeff Brouws (signed in blue ink)”",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      },
+      {
+        "inscription": "Commercially imprinted throughout verso: “EPSON/EPSON/PROFESSIONAL PAPER”",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Jeff Brouws (the artist) [1955-]",
+        "citations": [],
+        "footnotes": [],
+        "date": "2009",
+        "sortorder": 1
+      },
+      {
+        "description": "(Robert Mann Gallery, New York, NY)",
+        "citations": [],
+        "footnotes": [],
+        "date": null,
+        "sortorder": 2
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": [],
+        "date": "March 7, 2011",
+        "sortorder": 3
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "This stunning large-scale color photograph is from a recent series examining long-abandoned railroad right-of-ways in Dutchess County, New York, near where Brouws lives. It is a continuation of his interest in documenting the sociological, cultural, and historical aspects of a place within the contemporary everyday landscape. Relying on topographic maps from 1909, official texts, and up-to-the-minute Google Earth satellite imagery, he has investigated remnants of railroads constructed more than 120 years ago. In 1938 the physical presence of the railroad was removed; however, melting snow in this picturesque winter scene suggests a trace of the former tracks. Two converging lines propel the viewer’s attention through an open field into a dense wooded landscape that ends at a glowing orange sunset.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q80076196"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2011.13",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Katherine Solender and William E. Katzin in honor of Tom Hinson",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 169223,
+    "creators": [
+      {
+        "id": 38701,
+        "description": "Jeff Brouws (American, b. 1955)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1955",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2011-03-07T00:00:00",
+    "sortable_date": 2009,
+    "date_added_to_oa": null,
+    "date_text": "2009, printed 2010",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:00:30.071000"
+  }
+}

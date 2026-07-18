@@ -1,0 +1,128 @@
+{
+  "data": {
+    "id": 162841,
+    "accession_number": "2003.329",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Window on 14th Street, 1949. Armin Landeck (American, 1905–1984). Drypoint and engraving; sheet: 40.7 x 24.2 cm (16 x 9 1/2 in.); platemark: 31.1 x 14.6 cm (12 1/4 x 5 3/4 in.). The Cleveland Museum of Art, Gift of Carole W. and Charles B. Rosenblatt, 2003.329",
+    "current_location": null,
+    "title": "Window on 14th Street",
+    "creation_date": "1949",
+    "creation_date_earliest": 1949,
+    "creation_date_latest": 1949,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "drypoint and engraving",
+    "support_materials": [],
+    "department": "Prints",
+    "collection": "PR - Drypoint",
+    "type": "Print",
+    "measurements": "Sheet: 40.7 x 24.2 cm (16 x 9 1/2 in.); Platemark: 31.1 x 14.6 cm (12 1/4 x 5 3/4 in.)",
+    "dimensions": {
+      "sheet": {
+        "height": 0.407,
+        "width": 0.242
+      },
+      "platemark": {
+        "height": 0.311,
+        "width": 0.146
+      }
+    },
+    "state_of_the_work": "I/I",
+    "edition_of_the_work": "90",
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "inscribed, at lower margin, in graphite: ed 100 Landeck 1949",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 383281,
+          "title": "Stories from Storage",
+          "description": "<i>Stories from Storage</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 7-May 16, 2021).",
+          "opening_date": "2021-02-06T05:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Carole W. and Charles B. Rosenblatt, Pepper Pike, OH, given to the Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": [],
+        "date": "?-2003",
+        "sortorder": 1
+      },
+      {
+        "description": "Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": [],
+        "date": "2003-",
+        "sortorder": 2
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "Armin Landeck held a degree in architecture and buildings remained one of his favorite subjects even after his focus shifted to printmaking.",
+    "description": "Armin Landeck first experienced New York as a student in the 1920s, and the city remained one of his favorite subjects throughout the decades that followed. This print is one of numerous depictions that Landeck created of his studio space. The interior is defined by the window’s frame, partially obscured by a striking dark shade that evokes the importance of natural light to the artistic process.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79987958"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "catalogue_raisonne": "Kraeft 103",
+    "url": "https://clevelandart.org/art/2003.329",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Carole W. and Charles B. Rosenblatt",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 162841,
+    "creators": [
+      {
+        "id": 26624,
+        "description": "Armin Landeck (American, 1905–1984)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1905",
+        "death_year": "1984",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2003-12-01T00:00:00",
+    "sortable_date": 1949,
+    "date_added_to_oa": null,
+    "date_text": "1949",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:10:41.416000"
+  }
+}

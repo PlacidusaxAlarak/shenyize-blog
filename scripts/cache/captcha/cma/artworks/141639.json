@@ -1,0 +1,879 @@
+{
+  "data": {
+    "id": 141639,
+    "accession_number": "1965.233",
+    "share_license_status": "CC0",
+    "tombstone": "Twilight in the Wilderness, 1860. Frederic Edwin Church (American, 1826–1900). Oil on canvas; unframed: 101.6 x 162.6 cm (40 x 64 in.); framed: 124 x 185 x 13 cm (48 13/16 x 72 13/16 x 5 1/8 in.). The Cleveland Museum of Art, Mr. and Mrs. William H. Marlatt Fund, 1965.233",
+    "current_location": "206 American Landscape",
+    "title": "Twilight in the Wilderness",
+    "creation_date": "1860",
+    "creation_date_earliest": 1860,
+    "creation_date_latest": 1860,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "oil on canvas",
+    "support_materials": [],
+    "department": "American Painting and Sculpture",
+    "collection": "American - Painting",
+    "type": "Painting",
+    "measurements": "Unframed: 101.6 x 162.6 cm (40 x 64 in.); Framed: 124 x 185 x 13 cm (48 13/16 x 72 13/16 x 5 1/8 in.)",
+    "dimensions": {
+      "framed": {
+        "height": 1.24,
+        "width": 1.85,
+        "depth": 0.13
+      },
+      "unframed": {
+        "height": 1.016,
+        "width": 1.626
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Signed and dated lower right: \"F. E. CHURCH / -60-\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 300794,
+          "title": "Year in Review: 1965",
+          "description": "<i>Year in Review: 1965</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 27-November 14, 1965).",
+          "opening_date": "1965-10-27T04:00:00"
+        },
+        {
+          "id": 316990,
+          "title": "Frederic Edwin Church",
+          "description": "<i>Frederic Edwin Church</i>. Smithsonian Institution, Washington, DC (organizer) (co-organizer) (February 2-March 13, 1966); Albany Institute of History and Art, Albany, NY (March 30-April 30, 1966); M. Knoedler & Co., Inc. (June 1-30, 1966).",
+          "opening_date": "1966-03-30T05:00:00"
+        },
+        {
+          "id": 314043,
+          "title": "Art of the United States: 1670-1966",
+          "description": "<i>Art of the United States: 1670-1966</i>. Whitney Museum of American Art, New York, NY (organizer) (September 28-November 27, 1966).",
+          "opening_date": "1966-09-28T04:00:00"
+        },
+        {
+          "id": 314948,
+          "title": "Wilderness",
+          "description": "<i>Wilderness</i>. Corcoran Gallery of Art, Washington, DC (organizer) (co-organizer) (October 9-November 14, 1971).",
+          "opening_date": "1971-10-09T04:00:00"
+        },
+        {
+          "id": 302330,
+          "title": "Heritage and Horizon: American Painting 1776 - 1976",
+          "description": "<i>Heritage and Horizon: American Painting 1776 - 1976</i>. Buffalo AKG Art Museum, Buffalo, NY (organizer) (March 7-April 11, 1976); The Detroit Institute of Arts, Detroit, MI (May 2-June 13, 1976); The Toledo Museum of Art, Toledo, OH (July 4-August 15, 1976); The Cleveland Museum of Art, Cleveland, OH (September 8-October 10, 1976).",
+          "opening_date": "1976-03-07T05:00:00"
+        },
+        {
+          "id": 315054,
+          "title": "American Light: The Luminist Movement, 1850-1875",
+          "description": "<i>American Light: The Luminist Movement, 1850-1875</i>. National Gallery of Art, Washington, DC (organizer) (co-organizer) (February 10-June 15, 1980).",
+          "opening_date": "1980-02-10T05:00:00"
+        },
+        {
+          "id": 304561,
+          "title": "Visions of Landscape: East and West",
+          "description": "<i>Visions of Landscape: East and West</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 17-March 21, 1982).",
+          "opening_date": "1982-02-17T05:00:00"
+        },
+        {
+          "id": 314070,
+          "title": "A New World: Masterpieces of American Painting, 1760 - 1910",
+          "description": "<i>A New World: Masterpieces of American Painting, 1760 - 1910</i>. Museum of Fine Arts, Boston, Boston, MA (organizer) (co-organizer) (September 7-November 13, 1983); Corcoran Gallery of Art, Washington, DC (December 7, 1983-February 12, 1984).",
+          "opening_date": "1983-09-07T04:00:00"
+        },
+        {
+          "id": 315079,
+          "title": "American Paradise: The World of the Hudson River School",
+          "description": "<i>American Paradise: The World of the Hudson River School</i>. The Metropolitan Museum of Art, New York, NY (organizer) (co-organizer) (October 4, 1987-January 3, 1988).",
+          "opening_date": "1987-10-04T04:00:00"
+        },
+        {
+          "id": 315091,
+          "title": "Bilder Aus des Neuen Welt: Amerikanische Malerei des 18. und 19. Jahrhunderts (Paintings from the New World: American Paintings from the 18th and the 19th Century)",
+          "description": "<i>Bilder Aus des Neuen Welt: Amerikanische Malerei des 18. und 19. Jahrhunderts (Paintings from the New World: American Paintings from the 18th and the 19th Century)</i>. Staatliche Museen zu Berlin, Nationalgalerie, Berlin, Germany (organizer) (November 17, 1988-February 12, 1989); Orangerie des Schlosses Charlottenburg, Berlin, Germany (November 17, 1988-February 12, 1989); Kunsthaus Zürich, CH-8024 Zürich, Switzerland (March 3-May 15, 1989).",
+          "opening_date": "1988-11-17T05:00:00"
+        },
+        {
+          "id": 315126,
+          "title": "Frederic Edwin Church",
+          "description": "<i>Frederic Edwin Church</i>. National Gallery of Art (co-organizer) (October 8, 1989-January 28, 1990).",
+          "opening_date": "1989-10-08T04:00:00"
+        },
+        {
+          "id": 311444,
+          "title": "Object Lessons: Cleveland Creates an Art Museum",
+          "description": "<i>Object Lessons: Cleveland Creates an Art Museum</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 7-September 8, 1991).",
+          "opening_date": "1991-06-07T04:00:00"
+        },
+        {
+          "id": 221835,
+          "title": "America. The New World in 19th-century Painting\r\nAmerica. Die Neue Welt in Bildern des 19. Jahrhunderts",
+          "description": "<i>America. The New World in 19th-century Painting\r\nAmerica. Die Neue Welt in Bildern des 19. Jahrhunderts</i>. Belvedere, Wien, Austria (organizer) (March 17-June 20, 1999).",
+          "opening_date": "1999-03-17T00:00:00"
+        },
+        {
+          "id": 221738,
+          "title": "The American Sublime",
+          "description": "<i>The American Sublime</i>. Tate Britain, London (organizer) (February 20-May 19, 2002); Pennsylvania Academy of Fine Arts, Museum of American Art, Philadelphia, PA (June 17-August 25, 2002); Minneapolis Institute of Art, Minneapolis, MN (September 22-November 17, 2002).",
+          "opening_date": "2002-02-20T00:00:00"
+        },
+        {
+          "id": 179631,
+          "title": "CMA Highlights",
+          "description": "<i>CMA Highlights</i>. The Cleveland Museum of Art (organizer) (June 21-September 11, 2005).",
+          "opening_date": "2005-06-21T00:00:00"
+        },
+        {
+          "id": 205195,
+          "title": "Maine Sublime: Frederic Church’s “Twilight in the Wilderness”",
+          "description": "<i>Maine Sublime: Frederic Church’s “Twilight in the Wilderness”</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 4, 2014-January 25, 2015).",
+          "opening_date": "2014-10-04T00:00:00"
+        }
+      ],
+      "legacy": [
+        {
+          "description": "Goupil's Gallery, New York, June 1860.",
+          "opening_date": "1860-01-01T04:56:02Z"
+        },
+        {
+          "description": "New York, Metropolitan Museum of Art and National Academy of Design, The New York Centennial Loan Exhibition of Paintings, Selected from the Private Art Galleries, (1876), no. 125, listed as being part of J. T. Johnston's collection.",
+          "opening_date": "1876-01-01T04:56:02Z"
+        },
+        {
+          "description": "New York, Metropolitan Museum of Art, Paintings by Frederic E. Church, N. A., (28 May to 15 October1900), illustrated in catalogue as plate 6.",
+          "opening_date": "1900-01-01T00:00:00"
+        },
+        {
+          "description": "Baltimore, The Municipal Art Society of Baltimore, Art Loan Exhibition, (1902), no. 89, listed as the property of Miss Garrett.",
+          "opening_date": "1902-01-01T00:00:00"
+        },
+        {
+          "description": "Washington, D. C., National Collection of Fine Arts, Smithsonian Institution, Frederic Edwin Church, (12 February to 13 March 1966), no. 44; E18/ C56 W319. Exhibition traveled to the Albany Institute of History and Art (30 March through 30 April 1966), and, without Twilight in the Wilderness, to M. Knoedler and Company, New York (1 June through 30 June 1966).",
+          "opening_date": "1966-02-12T00:00:00"
+        },
+        {
+          "description": "New York, Whitney Museum of American Art, Art of the United States: 1670-1966, (28 September to 27 November, 1966), no. 48, brief comments about the color in Twilight in the Wilderness by Lloyd Goodrich, p. 25, catalogue.",
+          "opening_date": "1966-09-28T00:00:00"
+        },
+        {
+          "description": "Washington, D. C., The National Endowment for the Arts with the Corcoran Gallery of Art, Wilderness, (9 October to 14 November 1971), no. 69.",
+          "opening_date": "1971-10-09T00:00:00"
+        },
+        {
+          "description": "Buffalo, New York, Albright-Knox Art Gallery, Heritage and Horizon: American Painting 1776-1976, (6 March to 11 April 1976), no. 10. Exhibition traveled to the Detroit Institute of Arts (5 May through 13 June 1976), The Toledo Museum of Art (4 July through 15 August 1976), and the Cleveland Museum of Art, (8 September through 10 October 1976).",
+          "opening_date": "1976-03-06T00:00:00"
+        },
+        {
+          "description": "Washington, D. C., National Gallery of Art, American Light: The Luminist Movement, 1850-1875, (10 February through 15 June 1980), no. 204; includes the following remarks: in \"Design and Measurement in Luminist Art\", Lisa Andrus discusses the composition of and quality of light in Twilight in the Wilderness, p.36; Earl A. Powell's \"Luminism and the American Sublime\" describes Church's use of cadmium colors to achieve brilliant light in many of his paintings, including Twilight in the Wilderness; and Twilight's role in the development of the 19th century ideal of the sublime, p. 92; \"Church and Luminism: Light for America's Elect\" by David C. Huntington describes how Church's technique in Twilight in the Wilderness erases all evidence of the artist's touch, p. 170, illus. 167.",
+          "opening_date": "1980-02-10T00:00:00"
+        },
+        {
+          "description": "Boston, Museum of Fine Arts, A New World: Masterpieces of American Painting, 1760- 1910, (7 September through 13 November 1983), no. 39.",
+          "opening_date": "1983-09-07T00:00:00"
+        },
+        {
+          "description": "Also traveled to The Corcoran Gallery of Art, Washington, D. C. (7 December 1983- 12 February 1984) and, without Twilight in the Wilderness, to Grand Palais, Paris (16 March- 11 June 1984).",
+          "opening_date": "1984-03-16T00:00:00"
+        },
+        {
+          "description": "New York, Metropolitan Museum of Art, American Paradise: The World of the Hudson River School, (4 October 1987 through 3 January 1988), pp.45, 251-4.",
+          "opening_date": "1987-10-04T00:00:00"
+        },
+        {
+          "description": "Berlin, Staatliche Museen Preußischer Kulturbesitz, Nationalgalerie, Orangerie des Schlosses Charlottenburg, Bilder Aus des Neuen Welt: Amerikanische Malerei des 18. und 19. Jahrhunderts, (22 November 1988 through 5 February 1989), no. 15. Exhibition traveled to Kunsthaus Zurich, (3 March - 15 May 1989).",
+          "opening_date": "1989-03-03T00:00:00"
+        },
+        {
+          "description": "Washington, D. C., National Gallery of Art, Frederic Edwin Church, (8 October 1989 to 28 January 1990), no. 34, catalogue text by Franklin Kelly, pp. 58-59, 61-62, illus. p. 110, cat. 34.",
+          "opening_date": "1989-10-08T00:00:00"
+        },
+        {
+          "description": "Vienna, Osterreichischen Galerie Belvedere, America: Die Neue Welt in Bildern des 19 Jahrunderts, (17 March through 20 June 1999), no. 45.",
+          "opening_date": "1999-03-17T00:00:00"
+        },
+        {
+          "description": "London, The Tate Britain, American Sublime: Landscape Painting in the United States, 1820-1880, (21 February - 19 May 2002), no. 25; pp. 129-131, p. 55-6, illus. p. 115, 131; Exhibition traveled to the Pennsylvania Academy of Fine Arts, Philadelphia (17 June -25 August 2002) and Minneapolis Institute of Art (22 September- 17 November 2002).",
+          "opening_date": "2002-02-21T00:00:00"
+        },
+        {
+          "description": "The Cleveland Museum of Art (06/21/2005 - 09/11/2005); \"CMA Highlights\"",
+          "opening_date": "2005-06-21T00:00:00"
+        },
+        {
+          "description": "New York, Avery's Gallery, (1866). Also shown at Dusseldorf Gallery, New York, 1866. Both exhibitions held in connection with auction, according to The Round Table, 10 March 1866. (See reference above.)",
+          "opening_date": null
+        },
+        {
+          "description": "New Haven, Connecticut, Yale College, Second Annual Exhibition of the Yale School of the Fine Arts, Founded as a Department of Yale College by the Late Augustus Russell Street of New Haven, Conn., (1870), no. 114, listed as the property of John T. Johnston.",
+          "opening_date": null
+        },
+        {
+          "description": "New York, Metropolitan Museum of Art and National Academy of Design, The New York Centennial Loan Exhibition of Paintings, Selected from the Private Art Galleries, (1876), no. 125, listed as being part of J. T. Johnston's collection.",
+          "opening_date": null
+        },
+        {
+          "description": "New York, Metropolitan Museum of Art, Paintings by Frederic E. Church, N. A., (28 May to 15 October1900), illustrated in catalogue as plate 6.",
+          "opening_date": "1900-01-01T00:00:00"
+        },
+        {
+          "description": "Baltimore, The Municipal Art Society of Baltimore, Art Loan Exhibition, (1902), no. 89, listed as the property of Miss Garrett.",
+          "opening_date": "1902-01-01T00:00:00"
+        },
+        {
+          "description": "Washington, D. C., National Collection of Fine Arts, Smithsonian Institution, Frederic Edwin Church, (12 February to 13 March 1966), no. 44; E18/ C56 W319. Exhibition traveled to the Albany Institute of History and Art (30 March through 30 April 1966), and, without Twilight in the Wilderness, to M. Knoedler and Company, New York (1 June through 30 June 1966).",
+          "opening_date": "1966-02-12T00:00:00"
+        },
+        {
+          "description": "New York, Whitney Museum of American Art, Art of the United States: 1670-1966, (28 September to 27 November, 1966), no. 48, brief comments about the color in Twilight in the Wilderness by Lloyd Goodrich, p. 25, catalogue.",
+          "opening_date": "1966-09-28T00:00:00"
+        },
+        {
+          "description": "Washington, D. C., The National Endowment for the Arts with the Corcoran Gallery of Art, Wilderness, (9 October to 14 November 1971), no. 69.",
+          "opening_date": "1971-10-09T00:00:00"
+        },
+        {
+          "description": "Buffalo, New York, Albright-Knox Art Gallery, Heritage and Horizon: American Painting 1776-1976, (6 March to 11 April 1976), no. 10. Exhibition traveled to the Detroit Institute of Arts (5 May through 13 June 1976), The Toledo Museum of Art (4 July through 15 August 1976), and the Cleveland Museum of Art, (8 September through 10 October 1976).",
+          "opening_date": "1976-03-06T00:00:00"
+        },
+        {
+          "description": "Washington, D. C., National Gallery of Art, American Light: The Luminist Movement, 1850-1875, (10 February through 15 June 1980), no. 204; includes the following remarks: in \"Design and Measurement in Luminist Art\", Lisa Andrus discusses the composition of and quality of light in Twilight in the Wilderness, p.36; Earl A. Powell's \"Luminism and the American Sublime\" describes Church's use of cadmium colors to achieve brilliant light in many of his paintings, including Twilight in the Wilderness; and Twilight's role in the development of the 19th century ideal of the sublime, p. 92; \"Church and Luminism: Light for America's Elect\" by David C. Huntington describes how Church's technique in Twilight in the Wilderness erases all evidence of the artist's touch, p. 170, illus. 167.",
+          "opening_date": "1980-02-10T00:00:00"
+        },
+        {
+          "description": "Boston, Museum of Fine Arts, A New World: Masterpieces of American Painting, 1760- 1910, (7 September through 13 November 1983), no. 39.",
+          "opening_date": "1983-09-07T00:00:00"
+        },
+        {
+          "description": "Also traveled to The Corcoran Gallery of Art, Washington, D. C. (7 December 1983- 12 February 1984) and, without Twilight in the Wilderness, to Grand Palais, Paris (16 March- 11 June 1984).",
+          "opening_date": "1984-03-16T00:00:00"
+        },
+        {
+          "description": "Berlin, Staatliche Museen Preußischer Kulturbesitz, Nationalgalerie, Orangerie des Schlosses Charlottenburg, Bilder Aus des Neuen Welt: Amerikanische Malerei des 18. und 19. Jahrhunderts, (22 November 1988 through 5 February 1989), no. 15. Exhibition traveled to Kunsthaus Zurich, (3 March - 15 May 1989).",
+          "opening_date": "1989-03-03T00:00:00"
+        },
+        {
+          "description": "Washington, D. C., National Gallery of Art, Frederic Edwin Church, (8 October 1989 to 28 January 1990), no. 34, catalogue text by Franklin Kelly, pp. 58-59, 61-62, illus. p. 110, cat. 34.",
+          "opening_date": "1989-10-08T00:00:00"
+        },
+        {
+          "description": "Vienna, Osterreichischen Galerie Belvedere, America: Die Neue Welt in Bildern des 19 Jahrunderts, (17 March through 20 June 1999), no. 45.",
+          "opening_date": "1999-03-17T00:00:00"
+        },
+        {
+          "description": "London, The Tate Britain, American Sublime: Landscape Painting in the United States, 1820-1880, (21 February - 19 May 2002), no. 25; pp. 129-131, p. 55-6, illus. p. 115, 131; Exhibition traveled to the Pennsylvania Academy of Fine Arts, Philadelphia (17 June -25 August 2002) and Minneapolis Institute of Art (22 September- 17 November 2002).",
+          "opening_date": "2002-02-21T00:00:00"
+        }
+      ]
+    },
+    "provenance": [
+      {
+        "description": "William T. Walters [1820-1894], Baltimore, MD, consigned to Samuel Putnam Avery for sale at Henry H. Leeds and Co.",
+        "citations": [],
+        "footnotes": [
+          "<div><!--block-->Walters, a prominent collector and namesake of the Walters Art Museum, commissioned the painting from Church in 1860.&nbsp;</div>"
+        ],
+        "date": "1860-1864",
+        "sortorder": 1
+      },
+      {
+        "description": "(Henry H. Leeds and Co., New York, NY, Feb. 12-13, 1864)",
+        "citations": [],
+        "footnotes": [
+          "<div><!--block-->Consigned to Samuel Putnam Avery by Walters, the painting seems to have been bought in by Avery at this sale and then put up for auction again in 1866.&nbsp;</div>"
+        ],
+        "date": "1864",
+        "sortorder": 2
+      },
+      {
+        "description": "(Samuel Putnam Avery [1822-1904], New York, NY)",
+        "citations": [],
+        "footnotes": [
+          "<div><!--block-->After likely buying in the painting at the 1864 auction, Avery, a close associate of Walters, offered it for sale again in 1866.&nbsp;</div>"
+        ],
+        "date": "1864-1866",
+        "sortorder": 3
+      },
+      {
+        "description": "(Leeds and Minor at Old Dusseldorf Gallery, New York, NY, March 9, 1866, no. 174, sold to John Taylor Johnston)",
+        "citations": [],
+        "footnotes": [
+          "<div><!--block-->This auction included “the entire collection of the foreign oil and water color paintings, consigned to Samuel P. Avery,\" ”to which will be added the celebrated picture by F.E. Church, Twilight in the Wilderness.\"&nbsp; As in the 1864 auction, here, too, Walters consigned the painting to Avery for sale.&nbsp;</div>"
+        ],
+        "date": "1866",
+        "sortorder": 4
+      },
+      {
+        "description": "John Taylor Johnston [1820-1893], New York, NY",
+        "citations": [],
+        "footnotes": [],
+        "date": "1866-1876",
+        "sortorder": 5
+      },
+      {
+        "description": "(Chickering Hall, John Taylor Johnston sale, Dec. 19-22, 1876, sold to John Work Garrett?)",
+        "citations": [],
+        "footnotes": [
+          "<div><!--block-->According to Emily de Forest, Johnston's daughter and Robert de Forest's wife, the painting was purchased at this sale by Mary Garrett.&nbsp; Lockwood de Forest, Robert's brother, however, maintains it was purchased by John Work Garrett and then descended to his daughter, Mary.&nbsp;</div>"
+        ],
+        "date": "1876",
+        "sortorder": 6
+      },
+      {
+        "description": "John Work Garrett [1820-1884], Baltimore, MD, by descent to his daughter, Mary E. Garrett?",
+        "citations": [],
+        "footnotes": [],
+        "date": "1876-probably 1884",
+        "sortorder": 7
+      },
+      {
+        "description": "Mary E. Garrett [1854-1909], Baltimore, MD, sold to Robert de Forest",
+        "citations": [],
+        "footnotes": [
+          "<div><!--block-->Mary Garrett was a close friend of the de Forests.&nbsp;</div>"
+        ],
+        "date": "Probably 1884-at least 1902",
+        "sortorder": 8
+      },
+      {
+        "description": "Robert de Forest [1848-1931], Parkers Point, CT, by descent to his brother, Lockwood de Forest",
+        "citations": [],
+        "footnotes": [
+          "<div><!--block-->&nbsp;According to Robert's wife, Emily, he purchased the painting from Mary Garrett.&nbsp;</div>"
+        ],
+        "date": "After 1902-1931",
+        "sortorder": 9
+      },
+      {
+        "description": "Lockwood de Forest [1850–1932], Santa Barbara, CA, by descent to his son, Alfred Victor de Forest",
+        "citations": [],
+        "footnotes": [],
+        "date": "1931-1932",
+        "sortorder": 10
+      },
+      {
+        "description": "Alfred Victor de Forest [1888-1945], Marlborough, NH, by descent to his son, Taber de Forest",
+        "citations": [],
+        "footnotes": [],
+        "date": "1932-1945",
+        "sortorder": 11
+      },
+      {
+        "description": "Taber de Forest [1913–1978], Maine, sold to David Wilson McCoy",
+        "citations": [],
+        "footnotes": [],
+        "date": "1945-early 1960s",
+        "sortorder": 12
+      },
+      {
+        "description": "David Wilson McCoy [1916–2011], Lyme, CT, sold to Robert Paul Weimann, Jr., Ansonia, CT",
+        "citations": [],
+        "footnotes": [],
+        "date": "1963",
+        "sortorder": 13
+      },
+      {
+        "description": "Robert Paul Weimann, Jr. [1925–1978], Ansonia, CT, sold to the Cleveland Museum of Art",
+        "citations": [],
+        "footnotes": [],
+        "date": "c. 1963–65",
+        "sortorder": 14
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": [],
+        "date": "1965-",
+        "sortorder": 15
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "An image of this painting has a cameo in the Harrison Ford film <em>Clear and Present Danger</em>.",
+    "description": "In his New York studio, Church painted this spectacular view of a blazing sunset over wilderness near Mount Katahdin in Maine, which he had sketched during a visit nearly two years earlier. Although Church often extolled the grandeur of American landscape in his work, this painting appears to have additional overtones. Created on the eve of the Civil War, the painting's subject can be interpreted as symbolically evoking the coming conflagration. Church's considerable technical skills and clever showmanship contributed to his fame as the premier artist of his generation. Rather than debut this painting in an annual exhibition with works by other artists as was the custom, Church instead exhibited it by itself at a prestigious art gallery. Coaxed by advance publicity and highly favorable press reviews, several hundred spectators flocked to admire it during its seven-week run.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q56879420"
+      ],
+      "internet_archive": [
+        "https://archive.org/details/clevelandart-1965.233-twilight-in-the-wild"
+      ]
+    },
+    "citations": [
+      {
+        "citation": "<em>New York Herald</em> (June 8, 1860): 10.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Lockwood de Forest, letter to Emily de Forest, Sept. 16, 1931, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Franklin W. Kelly, letter to William S. Talbot, Oct. 21, 1982, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "\"Art Exhibitions and Sales,\" <em>The Nation</em> 2 (March 15, 1866): 346.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Franklin W. Kelly, letter to William S. Talbot, Oct. 21, 1982, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "\"Art Notes,\" <em>The Round Table</em> 3 (March 10, 1866): 151.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "\"Art Exhibitions and Sales,” <em>The Nation</em> 2 (March 15, 1866): 346.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Eleanor Harvey, email to Victoria Sears Goldman, April 8, 2013, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Auction Sales,”<em> New York Times</em> (March 6, 1866): 6.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "“Art Notes,” <em>The Round Table</em> 3 (March 10, 1866): 151.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Franklin W. Kelly, letter to William S. Talbot, May 5, 1982, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Franklin W. Kelly, letter to William S. Talbot, Oct. 21, 1982, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Harold Kirker, letter to Sherman Lee, July 10, 1969, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Emily de Forest, letter to Lockwood de Forest, Sept. 10, 1931, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Emily de Forest, letter to Lockwood de Forest, Sept. 10, 1931, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Lockwood de Forest, letter to Emily de Forest, Sept. 16, 1931, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Lockwood de Forest, letter to Emily de Forest, Sept. 16, 1931, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Emily de Forest, letter to Lockwood de Forest, Sept. 10, 1931, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Sander, Kathleen Waters. <em>Mary Elizabeth Garrett: Society and Philanthropy in the Gilded Age</em>. Baltimore, Md: Johns Hopkins University Press, 2008.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Emily de Forest, letter to Lockwood de Forest, Sept. 10, 1931, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Lockwood de Forest, letter to Emily de Forest, Sept. 16, 1931, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Harold Kirker, letter to Sherman Lee, July 10, 1969, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Emily de Forest, letter to Lockwood de Forest, Sept. 10, 1931, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Lockwood de Forest, letter to Emily de Forest, Sept. 16, 1931, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Harold Kirker, letter to Sherman Lee, July 10, 1969, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Marion de Forest, letter to James H. Dempsey, Jr., June 6, 1982, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "William S. Talbot, letter to Kevin Avery, Oct. 27, 1986, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Marion de Forest, letter to James H. Dempsey, Jr., June 6, 1982, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Harold Kirker, letter to Sherman Lee, July 10, 1969, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Taber de Forest, letter to William S. Talbot, Jan. 12, 1970, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Harold Kirker, letter to William S. Talbot, Sept. 18, 1969, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Marion de Forest, letter to James H. Dempsey, Jr., June 6, 1982, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Taber de Forest, letter to William S. Talbot, Jan. 12, 1970, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Taber de Forest, letter to William S. Talbot, Jan. 12, 1970, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Coloquio Internacional de Historia del Arte Zacatecas, Zac. 1994, Gustavo Curiel, Renato González Mello, Juana Gutiérrez Haces, and Universidad Nacional Autónoma de México Instituto de Investigaciones Estéticas. <em>Arte, Historia E Identidad En América : Visiones Comparativas : XVII Coloquio Internacional de Historia Del Arte.</em> México: UNAM, Instituto de Investigaciones Estéticas, 1994.",
+        "page_number": "Mantioned p. 255.",
+        "url": ""
+      },
+      {
+        "citation": "Albany Institute of History and Art, Tammis Kane Groft, and Mary Alice Mackay. <em>Albany Institute of History &amp; Art : 200 Years of Collecting. </em>1st ed. New York, [Lanham, Md.]: Hudson Hills Press in association with Albany Institute of History and Art, 1998.",
+        "page_number": "Mentioned p. 102.",
+        "url": ""
+      },
+      {
+        "citation": "Stebbins, Theodore E., Jr. <em>Rethinking American Art: Collectors, Critics, and the Changing Canon</em>. (Boston: Godine, 2025).",
+        "page_number": "Mentioned pp. 16 and 73.",
+        "url": ""
+      },
+      {
+        "citation": "Barringer, Tim, \"Anglo-American Sublime,\" <em>Magazine Antiques</em> 192 (November/December 2025).",
+        "page_number": "Mentioned p. 114, 117; reproduced p. 117.",
+        "url": ""
+      },
+      {
+        "citation": "Kornhauser, Elizabeth Mankin, T. J. Barringer, Dorothy Mahon, Christopher Riopelle, Shannon Vittoria, Metropolitan Museum of Art (New York, N.Y.), and National Gallery (Great Britain). <em>Thomas Cole’s Journey : Atlantic Crossings</em>. New York: The Metropolitan Museum of Art, 2018.",
+        "page_number": "Mentioned and reproduced p. 239.",
+        "url": ""
+      },
+      {
+        "citation": "Avery, Kevin J., and Elizabeth Jacks. <em>Sanford R. Gifford in the Catskills. </em>Edited by Kate Menconeri. Catskill, N.Y.: Thomas Cole National Historic Site, 2017.",
+        "page_number": "Mentioned, p. 15; reproduced, p. 14.",
+        "url": ""
+      },
+      {
+        "citation": "O’Keeffe, Georgia, Tate Modern (Gallery), Kunstforum Wien, and Art Gallery of Ontario. <em>Georgia O’Keeffe.</em> Edited by Tanya Barson. New York: Abrams, 2016.",
+        "page_number": "Mentioned and reproduced, p. 11.",
+        "url": ""
+      },
+      {
+        "citation": "Mitchell, Mark D., <em>George Inness in Italy.</em> Philadelphia, Pa.: Philadelphia Museum of Art, 2011.",
+        "page_number": "Mentioned, p. 21; reproduced, p. 22.",
+        "url": ""
+      },
+      {
+        "citation": "Howat, John K., <em>Frederic Church. </em>New Haven: Yale University Press, 2005.",
+        "page_number": "Mentioned, pp. 99-10; reproduced, cover (detail), p. 99.",
+        "url": ""
+      },
+      {
+        "citation": "Kusserow, Karl, Alan C. Braddock, Miranda Belarde-Lewis, Teddy Cruz, Rachael Ziady DeLue, Mark Dion, Fonna Forman, et al. <em>Nature’s Nation: American Art and Environment.</em> Princeton, NJ: Princeton University Art Museum, 2018.",
+        "page_number": "Mentioned, p. 123.",
+        "url": ""
+      },
+      {
+        "citation": "<em>Mizue</em> 820 (August 1973).",
+        "page_number": "Reproduced, p. 39.",
+        "url": ""
+      },
+      {
+        "citation": "\"Must This Mansion Be Destroyed?,\" <em>Life </em>60 (May 13, 1996).",
+        "page_number": "Mentioned and reproduced p. 76.",
+        "url": ""
+      },
+      {
+        "citation": "<em>Judy Ledgerwood: Twilight in the Wilderness, </em>exh. cat. (New York: Gray New York, 2025).",
+        "page_number": "Mentioned p. 5.",
+        "url": ""
+      },
+      {
+        "citation": "Johnson, Victoria. <em>Glorious Country, How the Artist Frederic Church Brought the World to America and America to the World.</em> (New York: Scribner, 2026).",
+        "page_number": "Mentioned, pp. 154-57, 164-66, 271, 308; reproduced, color plate.",
+        "url": ""
+      },
+      {
+        "citation": "\"Mr. Church's Last Picture,\" <em>New York Times</em> (Jun. 7, 1860).",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+        "page_number": "Reproduced: p. 185",
+        "url": "https://archive.org/details/CMAHandbook1966/page/n209"
+      },
+      {
+        "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+        "page_number": "Reproduced: p. 185",
+        "url": "https://archive.org/details/CMAHandbook1969/page/n209"
+      },
+      {
+        "citation": "Talbot, William S. “American Visions of Wilderness.” <em>The Bulletin of the Cleveland Museum of Art</em> 56, no. 4 (April 1969): 151–166.",
+        "page_number": "Mentioned and reproduced: p. 159-163, figs. 9-11",
+        "url": "http://www.jstor.org/stable/25152270"
+      },
+      {
+        "citation": "National Endowment for the Arts, and Corcoran Gallery of Art. <em>Wilderness</em>. New York: Printed by Benson Litho; for sale by the Corcoran Gallery of Art, Washington, 1971.",
+        "page_number": "Cat. No. 69",
+        "url": null
+      },
+      {
+        "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+        "page_number": "Reproduced: p. 229",
+        "url": "https://archive.org/details/CMAHandbook1978/page/n249"
+      },
+      {
+        "citation": "New York, Metropolitan Museum of Art, <em>American Paradise: The World of the Hudson River School,</em> (4 October 1987 through 3 January 1988).",
+        "page_number": "pp. 45, 251-4.",
+        "url": ""
+      },
+      {
+        "citation": "Carr, Gerald. \"Frederic Edwin Church and Mexico.\" In <em>Arte, Historia e Identidad en America: Visiones Comparativas, </em>edited by Gustavo Curiel. Mexico: Universidad Nacional Autonoma de Mexico, 1994.",
+        "page_number": "Mentioned: p. 255",
+        "url": null
+      },
+      {
+        "citation": "May, Sally Ruth. <em>Knockouts: a pocket guide.</em> Cleveland: Cleveland Museum of Art, 2001.",
+        "page_number": "Reproduced: no. 48, p. 48 - 49",
+        "url": ""
+      },
+      {
+        "citation": "Keck, Michaela. <em>Walking in the Wilderness: The Peripatetic Tradition in Nineteenth-Century American Literature and Painting</em>. Heidelberg: Winter, 2006.",
+        "page_number": "p. 160, fig. 3.28",
+        "url": null
+      },
+      {
+        "citation": "Adams, Henry. <em>What's American about American art?: a gallery tour in the Cleveland Museum of Art. </em>Cleveland: Cleveland Museum of Art, 2008.",
+        "page_number": "Reproduced: fig. 8, p. 11; p. 74 - 75",
+        "url": ""
+      },
+      {
+        "citation": "Cole, Mark, \"Picture Perfect\", Cleveland Museum of Art. <em>Cleveland Art: The Cleveland Museum of Art Members Magazine</em>. Vol. 48 no. 8, October 2008",
+        "page_number": "Mentioned & reproduced: p. 9",
+        "url": "https://archive.org/details/CMAMM2008-08/page/8"
+      },
+      {
+        "citation": "Cole, Mark. \"New Spaces in the Cleveland Museum of Art.\" <em>American Art </em>24, no. 2 (Summer 2010)",
+        "page_number": "Mentioned: p. 16; Reproduced: p. 16",
+        "url": null
+      },
+      {
+        "citation": "Mitchell, Mark DeSaussure, and George Inness. <em>George Inness in Italy</em>. Philadelphia, PA: Philadelphia Museum of Art, 2011.",
+        "page_number": "21. Reproduced: 22, fig. 7",
+        "url": null
+      },
+      {
+        "citation": "Janson, H. W., Penelope J. E. Davies, and H. W. Janson. <em>Janson's History of Art: The Western Tradition.</em> Upper Saddle River, NJ: Prentice Hall, 2011.",
+        "page_number": "Mentioned and reproduced: P. 834-835, fig. 24.10",
+        "url": null
+      },
+      {
+        "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+        "page_number": "Mentioned and reproduced: P. 48; reproduced: P. 42-43",
+        "url": ""
+      },
+      {
+        "citation": "Raab, Jennifer. <em>Frederic Church: The Art and Science of Detail</em>. New Haven, CT : Yale University Press, 2015.",
+        "page_number": "Mentioned and reproduced: P. 93, fig. 40",
+        "url": null
+      },
+      {
+        "citation": "Sotheby's (Firm). <em>American Paintings, Works on Paper and Sculpture: The Collection of A. Alfred Taubman, Volume Three.</em> New York: Sotheby's, 2015.",
+        "page_number": "Reproduced: P. 68",
+        "url": null
+      },
+      {
+        "citation": "Avery, Kevin J. <em>Sanford R. Gifford in the Catskills.</em> Catskill, N.Y.: Thomas Cole National Historic Site, 2017.",
+        "page_number": "Reproduced: p. 14, fig. 12",
+        "url": null
+      },
+      {
+        "citation": "Fortenberry, Diane, ed.<em> The Art Museum.</em> London; New York: Phaidon Press, 2017.",
+        "page_number": "Reproduced: P. 285, no. 4",
+        "url": null
+      },
+      {
+        "citation": "Kornhauser, Elizabeth Mankin. \"Cole's Legacy.\" In <em>Thomas Cole's Journey: Atlantic Crossings. </em>Elizabeth Mankin Kornhauserand T. J. Barringer. New York: The Metropolitan Museum of Art, 2018.",
+        "page_number": "Reproduced: p. 239, fig. 141",
+        "url": null
+      },
+      {
+        "citation": "Christie' New York. <em>Post-War and Contemporary Art; Afternoon Session. May 15, 2018.<br></em>",
+        "page_number": "Reproduced: p. 134",
+        "url": null
+      },
+      {
+        "citation": "Crosman, Christopher B. <em>John Moore: After the Rain, October 24 - December 6, 2019.</em> New York: Hirschl and Adler Modern, 2019.",
+        "page_number": "Reproduced: P. 10",
+        "url": ""
+      },
+      {
+        "citation": "Green, Tyler. <em>Emerson's Nature and the Artists: Idea As Landscape, Landscape As Idea</em>. Munich: Prestel, 2021.",
+        "page_number": "Reproduced: Frontispiece, P. 102, fig. 43; Mentioned: P. 102",
+        "url": ""
+      },
+      {
+        "citation": "Neely, Evan Robert. <em>Political Economy, Race, and the Image of Nature in the United States, 1825-1878. </em>New York: Routledge, 2024.",
+        "page_number": "Mentioned and Reproduced: p. 98",
+        "url": ""
+      },
+      {
+        "citation": "Diaz, Eva. \"Decolonizing Site: Place-scape and Land-sense.\" In <em>Widening the Lens: Photography, Ecology, and the Contemporary Landscape, </em>edited by Dan Leers, 37-48. Pittsburgh: Carnegie Museum of Art, 2024.",
+        "page_number": "Reproduced: p. 37",
+        "url": ""
+      },
+      {
+        "citation": "Barringer, Tim. \"Anglo-American Sublime.\" <em>The Magazine Antiques</em> 192, n. 6 (November/December 2025): 112-117.",
+        "page_number": "Mentioned: p. 114 ; Mentioned and reproduced: p. 117",
+        "url": ""
+      }
+    ],
+    "url": "https://clevelandart.org/art/1965.233",
+    "images": {
+      "annotation": "",
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1965.233/1965.233_web.jpg",
+        "width": "900",
+        "height": "562",
+        "filesize": "254485",
+        "filename": "1965.233_web.jpg"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1965.233/1965.233_print.jpg",
+        "width": "3400",
+        "height": "2123",
+        "filesize": "1604230",
+        "filename": "1965.233_print.jpg"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1965.233/1965.233_full.tif",
+        "width": "7673",
+        "height": "4791",
+        "filesize": "110309980",
+        "filename": "1965.233_full.tif"
+      }
+    },
+    "alternate_images": [
+      {
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1965.233/1965.233_alt0_web.jpg",
+          "width": "900",
+          "height": "656",
+          "filesize": "336550"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1965.233/1965.233_alt0_print.jpg",
+          "width": "3400",
+          "height": "2478",
+          "filesize": "2517286"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1965.233/1965.233_alt0_full.tif",
+          "width": "4336",
+          "height": "3160",
+          "filesize": "41147088"
+        }
+      }
+    ],
+    "creditline": "Mr. and Mrs. William H. Marlatt Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": "Baker & Hostetler LLP Gallery",
+    "athena_id": 141639,
+    "creators": [
+      {
+        "id": 2697,
+        "description": "Frederic Edwin Church (American, 1826–1900)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1826",
+        "death_year": "1900",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1965-09-11T00:00:00",
+    "sortable_date": 1860,
+    "date_added_to_oa": null,
+    "date_text": "1860",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": true,
+    "updated_at": "2026-03-27 00:03:28.051000"
+  }
+}

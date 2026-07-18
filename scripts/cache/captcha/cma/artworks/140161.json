@@ -1,0 +1,515 @@
+{
+  "data": {
+    "id": 140161,
+    "accession_number": "1964.160",
+    "share_license_status": "CC0",
+    "tombstone": "A Woman's Work, 1912. John Sloan (American, 1871–1951). Oil on canvas; framed: 97.2 x 82.2 x 6.4 cm (38 1/4 x 32 3/8 x 2 1/2 in.); unframed: 80.3 x 65.4 cm (31 5/8 x 25 3/4 in.). The Cleveland Museum of Art, Gift of Amelia Elizabeth White, 1964.160",
+    "current_location": "208 American Gilded Age and Realism",
+    "title": "A Woman's Work",
+    "creation_date": "1912",
+    "creation_date_earliest": 1912,
+    "creation_date_latest": 1912,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "oil on canvas",
+    "support_materials": [],
+    "department": "American Painting and Sculpture",
+    "collection": "American - Painting",
+    "type": "Painting",
+    "measurements": "Framed: 97.2 x 82.2 x 6.4 cm (38 1/4 x 32 3/8 x 2 1/2 in.); Unframed: 80.3 x 65.4 cm (31 5/8 x 25 3/4 in.)",
+    "dimensions": {
+      "framed": {
+        "height": 0.972,
+        "width": 0.822,
+        "depth": 0.064
+      },
+      "unframed": {
+        "height": 0.803,
+        "width": 0.654
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Signed lower right: \"John Sloan -\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 304723,
+          "title": "Year in Review (1964)",
+          "description": "<i>Year in Review (1964)</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 8, 1964-January 31, 1965).",
+          "opening_date": "1964-12-08T05:00:00"
+        },
+        {
+          "id": 310260,
+          "title": "American Cities: The Artist's View",
+          "description": "<i>American Cities: The Artist's View</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 17, 1989-January 7, 1990).",
+          "opening_date": "1989-10-17T04:00:00"
+        }
+      ],
+      "legacy": [
+        {
+          "description": "<em>Group Exhibition</em>. MacDowell Club, New York, NY (17-29 April 1913); see Elzea, pp. 116 and 449.",
+          "opening_date": "1913-04-17T00:00:00"
+        },
+        {
+          "description": "<em>Exhibition of Paintings, Drawings and Etchings by John Sloan. </em>Kraushaar Galleries, New York, NY (19 March-7 April 1917); no. 11.",
+          "opening_date": "1917-03-19T00:00:00"
+        },
+        {
+          "description": "<em>Exhibition of Paintings by George Luks, Augustus Vincent Tack and John Sloan</em>. Wisconsin Art Institute, Milwaukee, WI (March 1918).",
+          "opening_date": "1918-03-01T00:00:00"
+        },
+        {
+          "description": "<em>Annual Exhibition of Paintings and Sculpture by Members of the Club</em>. Whitney Studio Club, New York, NY (20 March-20 April 1921).",
+          "opening_date": "1921-03-20T00:00:00"
+        },
+        {
+          "description": "<em>Sculpture, Painting, and Crafts by Greenwich Village Artists</em>. Greenwich House, New York, NY (24 April-2 May 1922); no. 50; see Elzea's publication.",
+          "opening_date": "1922-04-24T00:00:00"
+        },
+        {
+          "description": "<em>120th Annual Exhibition of the Pennsylvania Academy of the Fine Arts</em>. Pennsylvania Academy of the Fine Arts, Philadelphia, PA (8 February-29 March 1925); no. 236.",
+          "opening_date": "1925-02-08T00:00:00"
+        },
+        {
+          "description": "<em>Annual Exhibition of Recent American Paintings</em>. Rhode Island School of Design, Providence, RI (13 October-9 November 1925); no. 23.",
+          "opening_date": "1925-10-13T00:00:00"
+        },
+        {
+          "description": "<em>John Sloan: Paintings, Etchings, and Drawings.</em> Wanamaker Galleries, New York, NY (4 November-? December 1939); traveled to Wanamaker Galleries, Philadelphia, PA (8-29 January 1940); no. 41.",
+          "opening_date": "1940-01-08T00:00:00"
+        },
+        {
+          "description": "<em>Then and Now</em>. Park Avenue Gallery, New York, NY (7-19 October 1940); see Elzea's publication.",
+          "opening_date": "1940-10-07T00:00:00"
+        },
+        {
+          "description": "<em>John Sloan</em>. Martha White Memorial Gallery, Santa Fe, NM (15-29 August 1942); see Elzea's publication.",
+          "opening_date": "1942-08-15T00:00:00"
+        },
+        {
+          "description": "<em>30th Annual Exhibition: Painters and Sculptors of the Southwest</em>. Museum of New Mexico, Santa Fe, NM (1 August-15 September 1943), cat. no. 173.",
+          "opening_date": "1943-08-01T00:00:00"
+        },
+        {
+          "description": "<em>John Sloan: Paintings, Prints, Drawings</em>. Hood Museum of Art, Dartmouth College, Hanover, NH (2 October 1981-3 January 1982); traveled to Decordova and Dana Museum and Park, Lincoln, MA (23 January-7 March 1982); to Kalamazoo Institute of Arts, Kalamazoo, MI (18 March-2 May 1982); to Elvehjem Museum of Art, University of Wisconsin, Madison, WI (12 June-1 August 1982); to Dayton Art Institute, Dayton, OH (11 September-24 October 1982); to Memorial Art Gallery of the University of Rochester, Rochester, NY (6 November 1982-2 January 1983), cat. no. 15, pp. 17-20, 22, 52-53, illus. p. 53.",
+          "opening_date": "1982-01-23T00:00:00"
+        },
+        {
+          "description": "<em>American Cities: The Artist's View</em>. The Cleveland Museum of Art, Cleveland, OH (17 October 1989-7 January 1990).",
+          "opening_date": "1989-10-17T00:00:00"
+        },
+        {
+          "description": "<em>America in Art: Fifty Great Paintings Celebrating Fifty Years</em>. Santa Barbara Museum of Art, Santa Barbara, CA (6 June-11 August 1991) pp. 8-11, 98-99, illus. p. 99, no cat. no.",
+          "opening_date": "1991-06-06T00:00:00"
+        },
+        {
+          "description": "<em>American Impressionism and Realism: The Painting of Modern Life, 1885-1915</em>. The Metropolitan Museum of Art, New York, NY (2 May-24 July 1994); to Los Angeles County Museum of Art, Los Angeles, CA (6 March-14 May 1995); pp. 286-291, illus. fig. no. 294.",
+          "opening_date": "1994-05-02T00:00:00"
+        }
+      ]
+    },
+    "provenance": [
+      {
+        "description": "Sold c. 1939-1940 to Amelia White, Santa Fe.",
+        "citations": [],
+        "footnotes": [],
+        "date": null,
+        "sortorder": null
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "According to John Sloan's diary, this painting was made in March 1912 at his apartment on East 22nd Street, New York.",
+    "description": "Trained as a journalist, the young Sloan explored social issues more vigorously than most of the painters of his time, portraying working-class urbanites engaged in ordinary activities. He observed this particular scene through a rear window of his Manhattan apartment. Perched on a narrow fire escape, a woman hangs fresh laundry to dry on clotheslines strung between tenements. As evidenced by the painting, the labors of American women at the turn of the 1900s were most often confined to the domestic realm.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q60469154"
+      ],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "John Butler Yeats, \"John Sloan's Exhibition,\" <em>The Seven Arts </em>2 (June 1917).",
+        "page_number": "Mentioned p. 259.",
+        "url": ""
+      },
+      {
+        "citation": "Sloan, John. <em>Gist of Art . </em>New York: 1944.",
+        "page_number": "Reproduced: p.229",
+        "url": null
+      },
+      {
+        "citation": "Sloan, John. <em>John Sloan</em>. New York, NY: American Artists Group, 1945.",
+        "page_number": "Reproduced: p.45 (unpaginated)",
+        "url": null
+      },
+      {
+        "citation": "Brooks, Van Wyck. <em>John Sloan: A Painter's Life</em>. London, United Kingdom: J.M. Dent &amp; Sons, Ltd., 1955.",
+        "page_number": "Reproduced: Image reproductions between pp.182-183",
+        "url": null
+      },
+      {
+        "citation": "\"Year in Review for 1964.\" <em>The Bulletin of The Cleveland Museum of Art (</em>December, 1964)",
+        "page_number": "Mentioned: p.264; Reproduced: p.251, n.87",
+        "url": null
+      },
+      {
+        "citation": "Sloan, John. <em>John Sloan's New York Scene from the Diaries, Notes, and Correspondence 1906-1913.</em> ed. Bruce St. John. New York, NY: Harper &amp; Row, 1965.",
+        "page_number": "Mentioned: pp.609",
+        "url": null
+      },
+      {
+        "citation": "Cleveland Museum of Art, “On Our Cover…,” January 7, 1965, Cleveland Museum of Art Archives.",
+        "page_number": null,
+        "url": "https://archive.org/details/cmapr1316"
+      },
+      {
+        "citation": "\"Reports of the Departments: Paintings.\" <em>The Bulletin of The Cleveland Museum of Ar</em>t (June, 1965).",
+        "page_number": "Mentioned: pp.143-144",
+        "url": null
+      },
+      {
+        "citation": "Cleveland Museum of Art. <em>Handbook of The Cleveland Museum of Ar</em>t Cleveland: Press of Western Reserve University, 1966.",
+        "page_number": "Reproduced: p.191",
+        "url": "https://archive.org/details/CMAHandbook1966/page/n215"
+      },
+      {
+        "citation": "Wade, Richard C., Howard B. Wilder, and Louise C. Wade.<em> A History of the United State</em>s. Boston, MA: Houghton Mifflin Company, 1966.",
+        "page_number": "Mentioned and reproduced: p.484",
+        "url": null
+      },
+      {
+        "citation": "\"Recent Acquisitions in the American Field.\" <em>Art in America</em> 54 (May-June, 1966).",
+        "page_number": "Reproduced: p.46",
+        "url": null
+      },
+      {
+        "citation": "Cleveland Museum of Art. <em>Handbook of The Cleveland Museum of Art. </em>Cleveland, OH: Cleveland Museum of Art, 1969.",
+        "page_number": "Reproduced: p.191",
+        "url": "https://archive.org/details/CMAHandbook1969/page/n215"
+      },
+      {
+        "citation": "Time-Life Editors. <em>American Painting 1900-1970. </em>New York, NY: Time-Life Books, 1970.",
+        "page_number": "Mentioned: p.13; Reproduced: p.12",
+        "url": null
+      },
+      {
+        "citation": "St. John, Bruce. <em>John Sloan.</em> New York, NY: Praeger Publishers, 1971.",
+        "page_number": "Reproduced: n.39",
+        "url": null
+      },
+      {
+        "citation": "Holcomb III, Grant. <em>A Catalogue Raisonné of the Paintings of John Sloan. </em>Ph.D. Dissertation, University of Delaware, 1972.",
+        "page_number": "Mentioned: pp.499-500; Reproduced: p.501",
+        "url": null
+      },
+      {
+        "citation": "Price, Vincent. <em>The Vincent Price Treasury of American Art</em>. Waukesha, WI: Country Beautiful Corporation, 1972.",
+        "page_number": "Reproduced: p.195",
+        "url": null
+      },
+      {
+        "citation": "Adams, Celeste, Rita Myers, and Adele Z. Silver. <em>An Introduction to American Art in the Cleveland Museum of Art</em>. Cleveland, OH: Cleveland Museum of Art, 1972.",
+        "page_number": "Mentioned: p.16; Reproduced: p.17",
+        "url": null
+      },
+      {
+        "citation": "\"A Check List: American Paintings and Water Colors of the Eighteenth, Nineteenth, and Early Twentieth Centuries in The Cleveland Museum of Art.\" <em>The Bulletin of the Cleveland Museum of Art </em>(January, 1973).",
+        "page_number": "Mentioned: p.33",
+        "url": null
+      },
+      {
+        "citation": "Sharp Young, Mahonri. <em>American Realists: Homer to Hopper.</em> New York, NY: Watson-Guptill Publications, 1977.",
+        "page_number": "Mentioned: pp.161-162; Reproduced: p.168",
+        "url": null
+      },
+      {
+        "citation": "Lucie-Smith, Edward, and Celestine Dars. <em>Work and Struggle: The Painter As Witness 1870-1914</em>. New York, NY: Paddington Press; Distributed by Grosset &amp; Dunlap,1977.",
+        "page_number": "Reproduced: n.198",
+        "url": null
+      },
+      {
+        "citation": "Johnson, Mark M. \"American Landscapes... Scenes as Divergent as the Land Itself.\" <em>Arts and Activities</em> 82, no. 4 (December 1977).",
+        "page_number": "Mentioned: p.31; Reproduced: p.30",
+        "url": null
+      },
+      {
+        "citation": "The Cleveland Museum of Art. <em>Handbook of The Cleveland Museum of Art. </em>Cleveland, OH: Cleveland Museum of Art, 1978.",
+        "page_number": "Reproduced: p.238",
+        "url": "https://archive.org/details/CMAHandbook1978/page/n258"
+      },
+      {
+        "citation": "Hills, Patricia. \"John Sloan's Images of Working Class Women: A Case Study of the Roles and Interrelationships of Politics, Personality, and Patrons in the Development of Sloan's Art, 1905-16.\" <em>Prospect </em>5 (October 1980).",
+        "page_number": "Mentioned: p.175; Reproduced: p.214",
+        "url": "https://www.academia.edu/37112545/_John_Sloans_Images_of_Working_Class_Women_A_Case_Study_of_the_Roles_and_Inter_Relationships_of_Politics_Personality_and_Patrons_in_the_Development_of_Sloans_Art_1905_1916_"
+      },
+      {
+        "citation": "Unger, Irwin. <em>These United States, The Question of Our Past. </em>Vol.<em> 2. </em>Boston, MA: Little, Brown and Co., 1982.",
+        "page_number": "Mentioned and Reproduced: p.596",
+        "url": null
+      },
+      {
+        "citation": "Silver, Adele Z. <em>The Cleveland Museum of Art: Guide to the Galleries. </em>Cleveland, OH: Cleveland Museum of Art, 1981.",
+        "page_number": "Mentioned: p.84; Reproduced: p.85",
+        "url": null
+      },
+      {
+        "citation": "\"In the Background: The Ashcan School.\" <em>The Great Artists, Their Lives, Works, and Inspiration: Hopper. </em>London: Marshall Cavendish Ltd., 1986. Vol.4, Part 88.",
+        "page_number": "Reproduced: p.2812",
+        "url": null
+      },
+      {
+        "citation": "Elzea, Rowland. <em>John Sloan's Oil Paintings: A Catalogue Raisonné. </em>Newark, DE: University of Delaware Press, 1991.",
+        "page_number": "Mentioned and Reproduced: pp.115-116",
+        "url": null
+      },
+      {
+        "citation": "The Cleveland Museum of Art. <em>Handbook of The Cleveland Museum of Art. </em>Cleveland, OH: Cleveland Museum of Art, 1991.",
+        "page_number": "Reproduced: p.144",
+        "url": null
+      },
+      {
+        "citation": "Chong, Alan. <em>European &amp; American Painting in The Cleveland Museum of Art: A Summary Catalogue. </em>Cleveland, OH: Cleveland Museum of Art, 1993.",
+        "page_number": "Reproduced: p.224",
+        "url": null
+      },
+      {
+        "citation": "Garraty, John A. <em>Story of America. </em>1994.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Amon Carter Museum. \"American Impressionists, American Realists: In Search of the New\". Educational video (April 1994).",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Updike, John. \"Beyond the Picturesque.\"<em> The New York Review.</em> June 23,1994.",
+        "page_number": "Mentioned: pp.21, 23; Reproduced: p.21",
+        "url": null
+      },
+      {
+        "citation": "Loughery, John. <em>John Sloan: Painter and Rebel. </em>New York, NY: Henry Holt and Company, Inc., 1995.",
+        "page_number": "Mentioned: p.347",
+        "url": null
+      },
+      {
+        "citation": "<em>Elements of Literature, Grade 9. </em>New York, NY: Holt, Rinehart, and Winston, 2000.",
+        "page_number": "Mentioned and Reproduced: p.T203",
+        "url": null
+      },
+      {
+        "citation": "Perlman, Bennard B.<em> American Artists, Authors, and Collectors: The Walter Pach Letters 1906-1958</em>. Albany, NY: State University of New York Press, 2002.",
+        "page_number": "Reproduced: p.379",
+        "url": null
+      },
+      {
+        "citation": "Bender, Thomas. <em>The Unfinished City: New York and the Metropolitan Idea</em>. New York, NY: The New Press, 2002.",
+        "page_number": "Mentioned: pp.110-111; Reproduced: p.111",
+        "url": null
+      },
+      {
+        "citation": "Kramer, Karen and Alexandra Lerman.\"The Ballad of Greenwich Village.\"(New York, 2003?) independent documentary.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Foa, Emma. <em>Artists in Their Time: Edward Hopper</em>. New York, NY: Franklin Watts, 2003.",
+        "page_number": "Reproduced: p.7",
+        "url": null
+      },
+      {
+        "citation": "Curry, David Park. <em>James Mcneill Whistler: Uneasy Pieces</em>. Richmond, VA: Virginia Museum of Fine Arts in association with Quantuck Lane Press, 2004.",
+        "page_number": "Mentioned: pp.85-86; Reproduced: p.86, n.3.25",
+        "url": null
+      },
+      {
+        "citation": "Updike, John. <em>Still Looking: Essays on American Art.</em> New York, NY: Alfred A. Knopf, 2005.",
+        "page_number": "Mentioned: pp.110,118; Reproduced: p.111",
+        "url": null
+      },
+      {
+        "citation": "Coyle, Heather Campbell and Joyce K. Schiller. <em>John Sloan's New York</em>. Wilmington, DE: Delaware Art Museum, 2007.",
+        "page_number": "Mentioned: p.92; Reproduced: p.94",
+        "url": null
+      },
+      {
+        "citation": "Cole, Mark, \"A Paramount Picture\", Cleveland Museum of Art. <em>Cleveland Art: The Cleveland Museum of Art Members Magazine</em>. Vol. 47 no. 01, January 2007",
+        "page_number": "Mentioned & reproduced: p. 9",
+        "url": "https://archive.org/details/CMAMM2007-01/page/8"
+      },
+      {
+        "citation": "Adams, Henry. <em>What's American about American Art? A Gallery Tour in the Cleveland Museum of Art.</em> Cleveland, OH: Cleveland Museum of Art, 2008.",
+        "page_number": "Mentioned: p.111; Reproduced: p.110",
+        "url": null
+      },
+      {
+        "citation": "Pohl, Frances K.<em> Framing America: A Social History of American Art</em> . New York, NY: Thames and Hudson, 2008.",
+        "page_number": "Mentioned: p.336; Reproduced: p.336, n.6.19",
+        "url": null
+      },
+      {
+        "citation": "Dearinger, David B. <em>George Deem: The Art of Art History</em>. Boston, MA: The Boston Athenaeum, 2012.",
+        "page_number": "Reproduced: p.33",
+        "url": null
+      },
+      {
+        "citation": "Litt, Steven. \"Close Up.\" <em>The</em> <em>Plain Dealer,</em> September 23, 2012.",
+        "page_number": "Mentioned and Reproduced: p.E6",
+        "url": null
+      },
+      {
+        "citation": "Roehrl, Boris. <em>World History of Realism in Visual Arts, 1830-1990 </em>Hildesheim, Germany: Georg Olms Verlag, 2013.",
+        "page_number": "Mentioned: p.131-132; Reproduced: p.132",
+        "url": null
+      },
+      {
+        "citation": "Roehrl, Boris. <em>Realismus in der bildenden Kunst. Europa und Nordamerika 1830 bis 2000</em>. Berlin, Germany: Gebr. Mann Verlag, 2013.",
+        "page_number": "Mentioned: pp.79-80; Reproduced: p.80",
+        "url": null
+      },
+      {
+        "citation": "Griffin, Patrick.<em> America's Revolution</em>. New York and Oxford: Oxford University Press, 2013",
+        "page_number": "Reproduced: p.44",
+        "url": null
+      },
+      {
+        "citation": "Henretta, James A., Rebecca Edwards, and Robert O. Self. <em>America's History</em>. 7th ed. Boston, MA and New York, NY: Bedford/St. Martin's, 2014.",
+        "page_number": "Mentioned and reproduced: p.583",
+        "url": null
+      },
+      {
+        "citation": "Belasco, Susan and Link Johnson, eds. <em>The Bedford Anthology of American Literature: Beginnings to the Present</em>. Shorter Second Edition. Boston, MA and New York, NY: Bedford/St. Martin's, 2014.",
+        "page_number": "Mentioned: p.1131; Reproduced: p.1130",
+        "url": ""
+      },
+      {
+        "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+        "page_number": "Mentioned and reproduced: P. 55",
+        "url": ""
+      },
+      {
+        "citation": "Friese-Oertmann, Sabine. <em>Arbeiter in Malerei und Fotografie des 19. Jahrhunderts: Deutschland, Großbritannien, USA.</em> Berlin: Reimer, 2017.",
+        "page_number": "Reproduced: p 200, Abb.135",
+        "url": null
+      },
+      {
+        "citation": "Slayton, Robert A. <em>Beauty in the City: The Ashcan Schoo</em>l. Albany, NY: Excelsior Editions, State University of New York Press, 2017.",
+        "page_number": "Mentioned: pp.112-113; Reproduced: p.113, no.7.8",
+        "url": null
+      },
+      {
+        "citation": "Fagg, John.<em> Re-Envisioning the Everyday: American Genre Scenes, 1905-1945.</em> University Park, Pennsylvania: The Pennsylvania State University Press, 2023.",
+        "page_number": "Mentioned: p. 63-69, 76, 88; Reproduced: pl. 6",
+        "url": ""
+      },
+      {
+        "citation": "Custer, Lee Ann, \"The Clean, Open Air of John Sloan's Tenement Paintings,\" <em>American Art </em>37 (Summer 2023)",
+        "page_number": "Mentioned pp. 30-31, 40-46, 50; reproduced p. 40.",
+        "url": ""
+      }
+    ],
+    "url": "https://clevelandart.org/art/1964.160",
+    "images": {
+      "annotation": null,
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1964.160/1964.160_web.jpg",
+        "width": "730",
+        "height": "900",
+        "filesize": "",
+        "filename": "1964.160_web.jpg"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1964.160/1964.160_print.jpg",
+        "width": "2757",
+        "height": "3400",
+        "filesize": "",
+        "filename": "1964.160_print.jpg"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1964.160/1964.160_full.tif",
+        "width": "5462",
+        "height": "6736",
+        "filesize": "",
+        "filename": "1964.160_full.tif"
+      }
+    },
+    "alternate_images": [
+      {
+        "date_created": "2007-02-07T13:44:52",
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1964.160/1964.160_alt0_web.jpg",
+          "width": "724",
+          "height": "893",
+          "filesize": "105508"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1964.160/1964.160_alt0_print.jpg",
+          "width": "2758",
+          "height": "3400",
+          "filesize": "5774826"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1964.160/1964.160_alt0_full.tif",
+          "width": "4462",
+          "height": "5500",
+          "filesize": "73655260"
+        }
+      }
+    ],
+    "creditline": "Gift of Amelia Elizabeth White",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": "The Cleveland Foundation Gallery",
+    "athena_id": 140161,
+    "creators": [
+      {
+        "id": 3285,
+        "description": "John Sloan (American, 1871–1951)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1871",
+        "death_year": "1951",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1964-10-30T00:00:00",
+    "sortable_date": 1912,
+    "date_added_to_oa": null,
+    "date_text": "1912",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:01:26.578000"
+  }
+}

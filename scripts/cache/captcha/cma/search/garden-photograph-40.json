@@ -1,0 +1,2599 @@
+{
+  "info": {
+    "total": 98,
+    "parameters": {
+      "skip": 40,
+      "limit": 20,
+      "q": "garden photograph",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,department,gallery,classification_type,collection",
+      "search": "garden photograph"
+    }
+  },
+  "data": [
+    {
+      "id": 311761,
+      "accession_number": "2018.37",
+      "share_license_status": "CC0",
+      "tombstone": "A Creeper in the Peradeniya Gardens, Ceylon, c. 1880. Scowen & Co. (British, active Ceylon, 1876–1895). Albumen print from glass plate negative; image: 27.7 x 21.5 cm (10 7/8 x 8 7/16 in.); paper: 27.7 x 21.5 cm (10 7/8 x 8 7/16 in.); mounted: 29.3 x 23 cm (11 9/16 x 9 1/16 in.). The Cleveland Museum of Art, Gift of Catherine Glynn Benkaim and Barbara Timmer, 2018.37",
+      "current_location": null,
+      "title": "A Creeper in the Peradeniya Gardens, Ceylon",
+      "creation_date": "c. 1880",
+      "creation_date_earliest": 1875,
+      "creation_date_latest": 1885,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "India, 19th century"
+      ],
+      "technique": "Albumen print from glass plate negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 27.7 x 21.5 cm (10 7/8 x 8 7/16 in.); Paper: 27.7 x 21.5 cm (10 7/8 x 8 7/16 in.); Mounted: 29.3 x 23 cm (11 9/16 x 9 1/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.277,
+          "width": 0.215
+        },
+        "paper": {
+          "height": 0.277,
+          "width": 0.215
+        },
+        "mounted": {
+          "height": 0.293,
+          "width": 0.23
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Bruno Tartarain, photovintagefrance, Arnaville, France",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "Catherine Glynn Benkaim and Barbara Timmer, Beverly Hills, CA",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "June 4, 2018",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "The extravagant baroque curves of this vine were shot in what are now known as the Royal Botanical Gardens. With origins as far back as 1371, the gardens were formally established by the colonial government in 1843 using European plants from Kew Garden in London and native specimens from Slave Island, Colombo, and the Kalutara Garden in Kalutara. Ceylon is now the nation of Sri Lanka.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79873619"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2018.37-a-creeper-in-the-per"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.37",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2018.37/2018.37_web.jpg",
+          "width": "700",
+          "height": "900",
+          "filesize": "367343",
+          "filename": "2018.37_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2018.37/2018.37_print.jpg",
+          "width": "2645",
+          "height": "3400",
+          "filesize": "3004394",
+          "filename": "2018.37_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2018.37/2018.37_full.tif",
+          "width": "4422",
+          "height": "5684",
+          "filesize": "75440992",
+          "filename": "2018.37_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Gift of Catherine Glynn Benkaim and Barbara Timmer",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 311761,
+      "creators": [
+        {
+          "id": 311760,
+          "description": "Scowen & Co. (British, active Ceylon, 1876–1895)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 0
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-06-04T00:00:00-04:00",
+      "sortable_date": 1875,
+      "date_added_to_oa": null,
+      "date_text": "c. 1880",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:37.004000"
+    },
+    {
+      "id": 325453,
+      "accession_number": "2019.23",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Magnolia Blossom (Tower of Jewels), 1925 (printed 1930s). Imogen Cunningham (American, 1883–1976). Gelatin silver print; image: 24.2 x 18.7 cm (9 1/2 x 7 3/8 in.); paper: 25.2 x 20.2 cm (9 15/16 x 7 15/16 in.). The Cleveland Museum of Art, Gift of Diann G. Mann and Thomas A. Mann, 2019.23. © The Imogen Cunningham Trust",
+      "current_location": null,
+      "title": "Magnolia Blossom (Tower of Jewels)",
+      "creation_date": "1925 (printed 1930s)",
+      "creation_date_earliest": 1925,
+      "creation_date_latest": 1925,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 24.2 x 18.7 cm (9 1/2 x 7 3/8 in.); Paper: 25.2 x 20.2 cm (9 15/16 x 7 15/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.242,
+          "width": 0.187
+        },
+        "paper": {
+          "height": 0.252,
+          "width": 0.202
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© The Imogen Cunningham Trust",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “F5 204 25 + 15 D72”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Imprinted in black type on white paper label adhered to foam core backing board: “IMOGEN CUNNINGHAM (American 1883-1976)/TOWER OF JEWELS 1925/Vintage gelatin silver enlargement print on/warm toned paper, 9 3/8 x 6 7/8”. Printed/by the photographer in San Francisco from/the original negative, ca. 1930. Illustrated: Imogen Cunningham Photographs 1910-1973/(1974, Seattle; University of Washington/Press) pg 72; Women of the 20’s and 30’s (1988/Chicago; Edwynn Houk Gallery) pg 13./Provenance: Ron Partridge (The Artist’s son)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Imprinted in black type on white adhesive label on verso of foam core backing board: “SPECIAL ATTENTION: This art work is/covered with Plexiglas! Do not use glass/cleaners or abrasives. DO NOT TAPE”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Imprinted in black type on beige label adhered to foam core backing board: “04-OCT-18/Sale 16381/Lot 34/Christie’s”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Rondal Partridge",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "Sotheby's, New York, NY",
+          "citations": [],
+          "footnotes": null,
+          "date": "April 23, 1994",
+          "sortorder": 2
+        },
+        {
+          "description": "Thomas A. and Diann G. Mann",
+          "citations": [],
+          "footnotes": null,
+          "date": "April 23, 1994",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This work’s metaphorical title refers to an elaborately ornamented, tiered tower of that name at the 1915 San Francisco Panama-Pacific Exposition.",
+      "description": "“Because I couldn’t get out anywhere, and I had a garden,” said Cunningham, she photographed her plants every afternoon when her children were napping. These were not picture-postcard views but extreme close-ups that emphasize light and dark contrasts, detail, form, and pattern. Like this iconic image, they were unmanipulated depictions of flora that go beyond botanical detail to suggest abstraction and metaphor.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79875967"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cunningham, Imogen, Margery Mann, and Adrian Wilson. Imogen!: Imogen Cunningham Photographs, 1910-1973. 1974.",
+          "page_number": "p. 72",
+          "url": null
+        },
+        {
+          "citation": "Lorenz, Richard, and Imogen Cunningham. Imogen Cunningham: Ideas Without End : a Life in Photographs. San Francisco: Chronicle Books, 1993.",
+          "page_number": "p. 103, pl. 38",
+          "url": null
+        },
+        {
+          "citation": "Pradip Malde, <em>Imogen Cunningham: Die Poesie des Form/The Poetry of Form</em>, Edition Stemmle, Zurich, 1994",
+          "page_number": "p. 36",
+          "url": null
+        },
+        {
+          "citation": "Lorenz, Richard, and Imogen Cunningham. Imogen Cunningham: Flora. Boston: Little, Brown and Company, 1996.",
+          "page_number": "p. 11",
+          "url": null
+        },
+        {
+          "citation": "Christie, Manson &amp; Woods International Inc. An American Journey: The Diann G. and Thomas A. Mann Collection of Photographic Masterworks. 2018.",
+          "page_number": null,
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/2019.23",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Diann G. Mann and Thomas A. Mann",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 325453,
+      "creators": [
+        {
+          "id": 337,
+          "description": "Imogen Cunningham (American, 1883–1976)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Imogen Cunningham American, 1883-1976\r\n\r\nBorn in Portland, Oregon, Imogen Cunningham became one of America's most admired photographers during a career that spanned seven decades. She took her first photographs in Seattle in 1901 and later worked for photographer Edward S. Curtis (1907-9). While assisting in Curtis's studio, Cunningham learned the platinum printing process, a technique she used for the soft-focus pictorial style she then favored.\r\n\tIn 1910, upon her return to Seattle after a year studying photographic chemistry at the Technische Hochschule in Dresden, Cunningham opened a portrait studio. She moved to San Francisco with her husband, Roi Partridge, in 1917 and in the 1920s began a series of sharply focused, closeup studies of plant forms. Emphasizing light, form, and abstract pattern, these images were included in Film und Foto, the influential exhibition of avant-garde photography and film held in Stuttgart in 1929. Three years later, Cunningham joined Ansel Adams, Edward Weston, Willard Van Dyke, and others in forming Group f/64.\r\n\tThroughout her long career Cunningham exhibited her work widely and was featured in several documentaries. Among retrospectives of her photography were Imogen! Imogen Cunningham Photographs 1910-1973, at the Henry Art Gallery, University of Washington (1974), and A Centennial Selection at the California Academy of Arts and Sciences, San Francisco (1983). Her subject matter ranged from portraits and closeup studies of plants, flowers, and nudes to unconventional views of modern architecture. Portraiture, however, held special interest. When Cunningham died in 1976, she was working on a book featuring portraits of people over 90 years of age (published posthumously in 1977 as After Ninety). M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1883",
+          "death_year": "1976",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-03-04T00:00:00-05:00",
+      "sortable_date": 1925,
+      "date_added_to_oa": null,
+      "date_text": "1925 (printed 1930s)",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:24.873000"
+    },
+    {
+      "id": 540853,
+      "accession_number": "2023.51",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Face Lift No. 3, 1975. Anne Noggle (American, 1922–2005). Gelatin silver print. The Cleveland Museum of Art, James Parmelee Fund, 2023.51",
+      "current_location": null,
+      "title": "Face Lift No. 3",
+      "creation_date": "1975",
+      "creation_date_earliest": 1975,
+      "creation_date_latest": 1975,
+      "artists_tags": [
+        "female",
+        "LGBTQ+ (after 1900)"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Cal Kowal, sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "?-2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "June 5, 2023-",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Anne Noggle, many of whose photographs illuminate the dignity and beauty of aging women, chose to fight the aging process herself through plastic surgery.",
+      "description": "This self-portrait shows the artist recovering from her face lift. It was taken in daylight in a garden, probably her own given the airplane whirligig, which references Noggle’s years as a professional pilot. To her face she holds a flower, a traditional symbol of the fleeting nature of female beauty. This image refutes that idea, suggesting that aging can be fought, but at a price.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q121092831"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2023.51",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "James Parmelee Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 540853,
+      "creators": [
+        {
+          "id": 524208,
+          "description": "Anne Noggle (American, 1922–2005)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1922",
+          "death_year": "2005",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2023-06-05T04:00:00Z",
+      "sortable_date": 1975,
+      "date_added_to_oa": null,
+      "date_text": "1975",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:59.028000"
+    },
+    {
+      "id": 677645,
+      "accession_number": "2024.97",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Palace of Fontainebleau Triptych, 1988. Lynn Geesaman (American, 1938–2020), Irve Dell (American, b. 1962). Cast iron, wood, and 3 gelatin silver prints; overall: 36.8 x 40.6 cm (14 1/2 x 16 in.). The Cleveland Museum of Art, Gift in Memory of Toby Devan Lewis, 2024.97",
+      "current_location": null,
+      "title": "Palace of Fontainebleau Triptych",
+      "creation_date": "1988",
+      "creation_date_earliest": 1988,
+      "creation_date_latest": 1988,
+      "artists_tags": [
+        "female",
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "Cast iron, wood, and 3 gelatin silver prints",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Overall: 36.8 x 40.6 cm (14 1/2 x 16 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.368,
+          "width": 0.406
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Toby Devan Lewis [1934–2022], Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–2022",
+          "sortorder": 1
+        },
+        {
+          "description": "Estate of Toby Lewis, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2022–24",
+          "sortorder": 2
+        },
+        {
+          "description": "Adam Joseph Lewis, Ivy Beth Lewis, and Mark C. Lewis, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2024",
+          "sortorder": 3
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 9, 2024–",
+          "sortorder": 4
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This tabletop sculpture blends the form of Renaissance altarpiece with Arts and Crafts aesthetics, yet also echoes how photographs were sometimes displayed in Victorian parlors.",
+      "description": "Cleveland-bornLynn Geesaman used photography to explore the artificially formed landscapes of public parks and formal gardens in the United States and Europe. Here she shows three views of the gardens of the Château de Fontainebleau outside of Paris, combined in a single three-part frame designed and fabricated in cast iron by Minneapolis sculptor Irve Dell.",
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.97",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift in Memory of Toby Devan Lewis",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 677645,
+      "creators": [
+        {
+          "id": 37879,
+          "description": "Lynn Geesaman (American, 1938–2020)",
+          "extent": null,
+          "qualifier": null,
+          "role": null,
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1938",
+          "death_year": "2020",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 677643,
+          "description": "Irve Dell (American, b. 1962)",
+          "extent": null,
+          "qualifier": null,
+          "role": null,
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1962",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-09-09T04:00:00Z",
+      "sortable_date": 1988,
+      "date_added_to_oa": null,
+      "date_text": "1988",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "cover",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Fountainbleau Triptych"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:10.197000"
+    },
+    {
+      "id": 164575,
+      "accession_number": "2006.103",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Interior Garden Court, 2005. Philip Brutz (American, b. 1962). Stereoscopic chromogenic transparency; image: 5 x 5 cm (1 15/16 x 1 15/16 in.). The Cleveland Museum of Art, The Jane B. Tripp Charitable Lead Annuity Trust, 2006.103",
+      "current_location": null,
+      "title": "Interior Garden Court",
+      "creation_date": "2005",
+      "creation_date_earliest": 2005,
+      "creation_date_latest": 2005,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "stereoscopic chromogenic transparency",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 5 x 5 cm (1 15/16 x 1 15/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.05,
+          "width": 0.05
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 181725,
+            "title": "Transitions: Linda Butler and Philip Brutz Photographs",
+            "description": "<i>Transitions: Linda Butler and Philip Brutz Photographs</i>. Museum of Contemporary Art Cleveland (MOCA), Cleveland, OH (June 9-August 20, 2006).",
+            "opening_date": "2006-06-09T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "MOCA Cleveland (June 9 - August 20, 2006):  \"Transitions:  Linda Butler and Philip Brutz Photographs\"",
+            "opening_date": "2006-06-09T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79992279"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2006.103",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The Jane B. Tripp Charitable Lead Annuity Trust",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 164575,
+      "creators": [
+        {
+          "id": 54161,
+          "description": "Philip Brutz (American, b. 1962)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1962",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2006-02-27T00:00:00",
+      "sortable_date": 2005,
+      "date_added_to_oa": null,
+      "date_text": "2005",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:08.733000"
+    },
+    {
+      "id": 455565,
+      "accession_number": "2022.58.8",
+      "share_license_status": "CC0",
+      "tombstone": "India (L'Inde): Monumental Entrance of the Gardens, Secundra, 1865–68, published 1869–70. Louis-Théophile Marie Rousselet (French, 1845–1929). Albumen print from glass plate negative; mounted: 62 x 43 cm (24 7/16 x 16 15/16 in.). The Cleveland Museum of Art, Alma Kroeger Fund, 2022.58.8",
+      "current_location": null,
+      "title": "Monumental Entrance of the Gardens, Secundra",
+      "series": "India",
+      "series_in_original_language": "L'Inde",
+      "creation_date": "1865–68, published 1869–70",
+      "creation_date_earliest": 1865,
+      "creation_date_latest": 1870,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "Albumen print from glass plate negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - French 19th Century",
+      "type": "Photograph",
+      "measurements": "Mounted: 62 x 43 cm (24 7/16 x 16 15/16 in.)",
+      "dimensions": {
+        "mounted": {
+          "height": 0.62,
+          "width": 0.43
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "?-2022",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "June 6, 2022-",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Louis Rousselet described himself as a “scientific traveler” when he went to India alone at age 18 in 1863 and stayed into 1868.",
+      "description": "Concerned that his drawings did not do justice to the splendor of India’s monuments, Rousselet learned photography in India that year, a remarkable accomplishment. He proved to be a talented photographer with a sophisticated sense of composition. The scenes in this volume sweep across sites of Sultanate, Rajput, and Mughal power in northern India, from the sacred Hindu city of Varanasi on the Ganges River to Alwar in Rajasthan. Also included are several scenes of industry and portraits of Indian rulers.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117247227"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2022.58.8-monumental-entrance"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2022.58.8",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.58.8/2022.58.8_web.jpg",
+          "width": "900",
+          "height": "822",
+          "filesize": "274645",
+          "filename": "2022.58.8_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.58.8/2022.58.8_print.jpg",
+          "width": "3400",
+          "height": "3106",
+          "filesize": "3063734",
+          "filename": "2022.58.8_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.58.8/2022.58.8_full.tif",
+          "width": "11012",
+          "height": "10060",
+          "filesize": "332372673",
+          "filename": "2022.58.8_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2022-09-21T15:39:48",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2022.58.8/2022.58.8_alt0_web.jpg",
+            "width": "900",
+            "height": "657",
+            "filesize": "168706"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2022.58.8/2022.58.8_alt0_print.jpg",
+            "width": "3400",
+            "height": "2482",
+            "filesize": "1269620"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2022.58.8/2022.58.8_alt0_full.tif",
+            "width": "11492",
+            "height": "8389",
+            "filesize": "289247829"
+          }
+        }
+      ],
+      "creditline": "Alma Kroeger Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 455565,
+      "creators": [
+        {
+          "id": 455550,
+          "description": "Louis-Théophile Marie Rousselet (French, 1845–1929)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1929",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2022-06-06T04:00:00Z",
+      "sortable_date": 1865,
+      "date_added_to_oa": null,
+      "date_text": "1865–68, published 1869–70",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2022.58",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:19.542000"
+    },
+    {
+      "id": 455568,
+      "accession_number": "2022.58.11",
+      "share_license_status": "CC0",
+      "tombstone": "India (L'Inde): A View in the Gardens, Secundra, 1865–68, published 1869–70. Louis-Théophile Marie Rousselet (French, 1845–1929). Albumen print from glass plate negative; mounted: 62 x 43 cm (24 7/16 x 16 15/16 in.). The Cleveland Museum of Art, Alma Kroeger Fund, 2022.58.11",
+      "current_location": null,
+      "title": "A View in the Gardens, Secundra",
+      "series": "India",
+      "series_in_original_language": "L'Inde",
+      "creation_date": "1865–68, published 1869–70",
+      "creation_date_earliest": 1865,
+      "creation_date_latest": 1870,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "Albumen print from glass plate negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - French 19th Century",
+      "type": "Photograph",
+      "measurements": "Mounted: 62 x 43 cm (24 7/16 x 16 15/16 in.)",
+      "dimensions": {
+        "mounted": {
+          "height": 0.62,
+          "width": 0.43
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "?-2022",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "June 6, 2022-",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Louis Rousselet described himself as a “scientific traveler” when he went to India alone at age 18 in 1863 and stayed into 1868.",
+      "description": "Concerned that his drawings did not do justice to the splendor of India’s monuments, Rousselet learned photography in India that year, a remarkable accomplishment. He proved to be a talented photographer with a sophisticated sense of composition. The scenes in this volume sweep across sites of Sultanate, Rajput, and Mughal power in northern India, from the sacred Hindu city of Varanasi on the Ganges River to Alwar in Rajasthan. Also included are several scenes of industry and portraits of Indian rulers.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117247231"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2022.58.11-a-view-in-the-garden"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2022.58.11",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.58.11/2022.58.11_web.jpg",
+          "width": "900",
+          "height": "830",
+          "filesize": "265582",
+          "filename": "2022.58.11_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.58.11/2022.58.11_print.jpg",
+          "width": "3400",
+          "height": "3134",
+          "filesize": "2829472",
+          "filename": "2022.58.11_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.58.11/2022.58.11_full.tif",
+          "width": "11089",
+          "height": "10221",
+          "filesize": "340052221",
+          "filename": "2022.58.11_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2022-09-21T15:42:16",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2022.58.11/2022.58.11_alt0_web.jpg",
+            "width": "900",
+            "height": "657",
+            "filesize": "164641"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2022.58.11/2022.58.11_alt0_print.jpg",
+            "width": "3400",
+            "height": "2482",
+            "filesize": "1206235"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2022.58.11/2022.58.11_alt0_full.tif",
+            "width": "11492",
+            "height": "8389",
+            "filesize": "289247841"
+          }
+        }
+      ],
+      "creditline": "Alma Kroeger Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 455568,
+      "creators": [
+        {
+          "id": 455550,
+          "description": "Louis-Théophile Marie Rousselet (French, 1845–1929)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1929",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2022-06-06T04:00:00Z",
+      "sortable_date": 1865,
+      "date_added_to_oa": null,
+      "date_text": "1865–68, published 1869–70",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2022.58",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:31.766000"
+    },
+    {
+      "id": 161737,
+      "accession_number": "2000.90",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Monet's Garden, Giverny, France, 1992. Lynn Geesaman (American, 1938–2020). Gelatin silver print; image: 47.9 x 48.2 cm (18 7/8 x 19 in.); paper: 60.9 x 50.9 cm (24 x 20 1/16 in.); matted: 66 x 66 cm (26 x 26 in.). The Cleveland Museum of Art, Gift of The Cleveland Museum of Art Photography Seminar, 2000, 2000.90",
+      "current_location": null,
+      "title": "Monet's Garden, Giverny, France",
+      "creation_date": "1992",
+      "creation_date_earliest": 1992,
+      "creation_date_latest": 1992,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 47.9 x 48.2 cm (18 7/8 x 19 in.); Paper: 60.9 x 50.9 cm (24 x 20 1/16 in.); Matted: 66 x 66 cm (26 x 26 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.479,
+          "width": 0.482
+        },
+        "paper": {
+          "height": 0.609,
+          "width": 0.509
+        },
+        "matted": {
+          "height": 0.66,
+          "width": 0.66
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "written in pencil on verso: \"Monet's Garden/ Giverny, France/ Lynn Geesaman [signed] 1992; 4-92-24-10-#12\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 188270,
+            "title": "Lynn Geesaman Photographs:  Poetics of Place",
+            "description": "<i>Lynn Geesaman Photographs:  Poetics of Place</i>. The Cleveland Museum of Art (organizer) (March 18-May 24, 2000).",
+            "opening_date": "2000-03-18T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; March 18-May 24, 2000.  \"Lynn Geesaman Photographs:  Poetics of Place\".",
+            "opening_date": "2000-03-18T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79984855"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2000.90",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of The Cleveland Museum of Art Photography Seminar, 2000",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 161737,
+      "creators": [
+        {
+          "id": 37879,
+          "description": "Lynn Geesaman (American, 1938–2020)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1938",
+          "death_year": "2020",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2000-09-18T00:00:00",
+      "sortable_date": 1992,
+      "date_added_to_oa": null,
+      "date_text": "1992",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": "4",
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:35.773000"
+    },
+    {
+      "id": 372006,
+      "accession_number": "2020.295",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Cheval de Marly, Paris, 1934, printed 1988. Ilse Bing (American, 1899–1998). Gelatin silver print; image: 26.1 x 34 cm (10 1/4 x 13 3/8 in.); paper: 27.8 x 35.4 cm (10 15/16 x 13 15/16 in.). The Cleveland Museum of Art, Gift of Michael Mattis and Judith Hochberg, 2020.295. © Estate of Ilse Bing",
+      "current_location": null,
+      "title": "Cheval de Marly, Paris",
+      "creation_date": "1934, printed 1988",
+      "creation_date_earliest": 1934,
+      "creation_date_latest": 1934,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 26.1 x 34 cm (10 1/4 x 13 3/8 in.); Paper: 27.8 x 35.4 cm (10 15/16 x 13 15/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.261,
+          "width": 0.34
+        },
+        "paper": {
+          "height": 0.278,
+          "width": 0.354
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Estate of Ilse Bing",
+      "inscriptions": [
+        {
+          "inscription": "Written in black ink, lower left, recto: “ILSE BING/1934”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “ILSE/BING/1934/PARIS/Cheval de Marly/pr 1988”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “IBMB-322.5 3500”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 370361,
+            "title": "Ilse Bing: Queen of the Leica",
+            "description": "<i>Ilse Bing: Queen of the Leica</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 6-October 11, 2020).",
+            "opening_date": "2020-03-06T05:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Estate of the Artist",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "Michael Mattis and Judith Hochberg, Scarsdale, NY",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 7, 2020",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Ilse Bing used a technique called solarization to produce dreamlike, supernatural scenes.",
+      "description": "Bing employed it for night views of Paris to impart what she described as “a surrealistic atmosphere.” The technique involves briefly re-exposing a partially developed negative or print to light, which caused positive and negative values to reverse in some, but not all, areas of the image. This sculpture, <em>Mercury Mounted on Pegasus, </em>1702, stands in the Tuileries Garden in the center of Paris.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117243267"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2020.295",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Michael Mattis and Judith Hochberg",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 372006,
+      "creators": [
+        {
+          "id": 291349,
+          "description": "Ilse Bing (American, 1899–1998)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "American and German photographer, born 1899 or 1900, died 1998",
+          "name_in_original_language": null,
+          "birth_year": "1899",
+          "death_year": "1998",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2020-12-07T00:00:00-05:00",
+      "sortable_date": 1934,
+      "date_added_to_oa": null,
+      "date_text": "1934, printed 1988",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:27.405000"
+    },
+    {
+      "id": 141748,
+      "accession_number": "1965.329",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Shinto Priests in the Temple Garden, Meiji, Tokyo, 1952. Werner Bischof (Swiss, 1916–1954). Gelatin silver print; image: 31.4 x 37.2 cm (12 3/8 x 14 5/8 in.); matted: 50.8 x 61 cm (20 x 24 in.). The Cleveland Museum of Art, Gift of Photography in the Fine Arts, 1965.329",
+      "current_location": null,
+      "title": "Shinto Priests in the Temple Garden, Meiji, Tokyo",
+      "creation_date": "1952",
+      "creation_date_earliest": 1952,
+      "creation_date_latest": 1952,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Switzerland"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Swiss 20th Century",
+      "type": "Photograph",
+      "measurements": "Image: 31.4 x 37.2 cm (12 3/8 x 14 5/8 in.); Matted: 50.8 x 61 cm (20 x 24 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.314,
+          "width": 0.372
+        },
+        "matted": {
+          "height": 0.508,
+          "width": 0.61
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 300794,
+            "title": "Year in Review: 1965",
+            "description": "<i>Year in Review: 1965</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 27-November 14, 1965).",
+            "opening_date": "1965-10-27T04:00:00"
+          },
+          {
+            "id": 301411,
+            "title": "Photograph Exhibition",
+            "description": "<i>Photograph Exhibition</i>. The Cleveland Museum of Art, Cleveland, OH (July 13-September 19, 1971).",
+            "opening_date": "1971-07-13T04:00:00"
+          },
+          {
+            "id": 301622,
+            "title": "Source Material for Studio Projects",
+            "description": "<i>Source Material for Studio Projects</i>. The Cleveland Museum of Art, Cleveland, OH (June 20-August 27, 1972).",
+            "opening_date": "1972-06-20T04:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "New York World's Fair, 1965: \"Photographs in the Fine Arts.\"",
+            "opening_date": "1965-01-01T00:00:00"
+          },
+          {
+            "description": "CMA, October 27 - November 14, 1965: \"Year in Review 1965,\" CMA Bulletin, 52 (November 1965), p. 157, no. 174.",
+            "opening_date": "1965-10-27T00:00:00"
+          },
+          {
+            "description": "Cleveland, The Kenneth C. Beck Center for the Cultural Arts, 1979: \"Selection of Photography from the Cleveland Museum of Art.\"",
+            "opening_date": "1979-01-01T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80041442"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 98",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1965.329",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Photography in the Fine Arts",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 141748,
+      "creators": [
+        {
+          "id": 238,
+          "description": "Werner Bischof (Swiss, 1916–1954)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Werner Bischof Swiss, 1916-1954\r\n\r\nPhotojournalist Werner Bischof studied in his native Zurich with Hans Finsler at the Zurich School of Arts and Crafts in the early 1930s. He worked as a freelance graphic artist and photographer and then as a staff photographer and designer for Graphis Publishing House. In the 1940s he continued to freelance, contributing pictures to Du and Life magazines and photographing for the Swiss postwar relief organization in Italy and Greece (1946-47). In 1949 he joined magnum Photos, taking assignments for such publications as Epoca, Paris-Match, Life, and Fortune.\r\n\tDeeply sympathetic to the suffering he witnessed after World War II, Bischof committed himself to recording the plight of humans around the world. He photographed in India (documenting the famine in 1951), Korea, Indochina (covering the war), Europe, Mexico, South America, and Japan, where he made a series of photographs during a year-long stay. In 1954 he was killed in a road accident while on assignment in Peru. M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1916",
+          "death_year": "1954",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1965-09-11T00:00:00",
+      "sortable_date": 1952,
+      "date_added_to_oa": null,
+      "date_text": "1952",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:55.127000"
+    },
+    {
+      "id": 668287,
+      "accession_number": "2024.5.39",
+      "share_license_status": "CC0",
+      "tombstone": "Photographs of Northern India: Agra. The Gateway of the Gardens Surrounding the Taj, 1863–70. Samuel Bourne (British, 1834–1912). Albumen print. The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund, 2024.5.39",
+      "current_location": null,
+      "title": "Agra. The Gateway of the Gardens Surrounding the Taj",
+      "series": "Photographs of Northern India",
+      "creation_date": "1863–70",
+      "creation_date_earliest": 1863,
+      "creation_date_latest": 1870,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Samuel Bourne, the author of most the images in this album, was a banker in England before he moved to India to become a professional photographer.",
+      "description": "The 50 images in this album, all taken in the 1860s, move from the hill towns of the Himalayas down to cities including Lahore (now in Pakistan), Delhi, Lucknow, Agra, Benares (now Varansi), and Calcutta (now Kolkata). Architectural studies of major monuments offer valuable historical records of what sites such as the Taj Mahal and the imperial mosque of the Mughal emperors in Delhi looked like before twentieth-century restorations.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448913"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2024.5.39-agra-the-gateway-of"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.5.39",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.5.39/2024.5.39_web.jpg",
+          "width": "900",
+          "height": "722",
+          "filesize": "325755",
+          "filename": "2024.5.39_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.5.39/2024.5.39_print.jpg",
+          "width": "3400",
+          "height": "2726",
+          "filesize": "3011621",
+          "filename": "2024.5.39_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.5.39/2024.5.39_full.tif",
+          "width": "6647",
+          "height": "5330",
+          "filesize": "106320178",
+          "filename": "2024.5.39_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-03-14T15:11:15",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5.39/2024.5.39_alt0_web.jpg",
+            "width": "900",
+            "height": "703",
+            "filesize": "226929"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5.39/2024.5.39_alt0_print.jpg",
+            "width": "3400",
+            "height": "2654",
+            "filesize": "2184019"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5.39/2024.5.39_alt0_full.tif",
+            "width": "11648",
+            "height": "9093",
+            "filesize": "317778564"
+          }
+        }
+      ],
+      "creditline": "Severance and Greta Millikin Purchase Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 668287,
+      "creators": [
+        {
+          "id": 265,
+          "description": "Samuel Bourne (British, 1834–1912)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Samuel Bourne British, 1834 - 1912 Born in Nottingham, Samuel Bourne first began taking photographs as an amateur in 1851. Four years later, he gave up his career in banking to become a professional photographer. In 1862 he embarked for India, where for the next several years he made three photographic expeditions into the Himalayas. He also formed a partnership in Simla with Charles Shepherd -- a publishing enterprise to reproduce photographic views. Until his return to England in 1870, Bourne continued to work in India and the Far East and to expand the province of Bourne &amp; Shepherd, opening a second branch in Calcutta. By the time of his departure he had produced some 1,500 negatives of such places as Benares, Darjeeling, and Tibet, largely of landscape and architecture for the public market. Bourne was known for the care with which he conceived and executed his work. His images, though plentiful, were highly prized and remain so today. Many are still available from the firm Bourne &amp; Shepherd, which has survived for more than 125 years. After returning to England, he established a business in cotton doubling, manufacturing thread for lacemaking and weaving machines, raised a family, and took up again the life of an amateur photographer and watercolorist. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1834",
+          "death_year": "1912",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1863,
+      "date_added_to_oa": null,
+      "date_text": "1863–70",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.5",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:17.663000"
+    },
+    {
+      "id": 153704,
+      "accession_number": "1987.216",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Untitled (Garden of Mrs. Homer H. Johnson), c. 1928. Margaret Bourke-White (American, 1904–1971). Gelatin silver print; image: 22.8 x 32 cm (9 x 12 5/8 in.); paper: 23.1 x 32.4 cm (9 1/8 x 12 3/4 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, Gift of Mrs. John B. Dempsey, 1987.216. ©  Estate of Margaret Bourke-White / Licensed by VAGA at Artists Rights Society (ARS), NY",
+      "current_location": null,
+      "title": "Untitled (Garden of Mrs. Homer H. Johnson)",
+      "creation_date": "c. 1928",
+      "creation_date_earliest": 1923,
+      "creation_date_latest": 1933,
+      "artists_tags": [
+        "May Show",
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 22.8 x 32 cm (9 x 12 5/8 in.); Paper: 23.1 x 32.4 cm (9 1/8 x 12 3/4 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.228,
+          "width": 0.32
+        },
+        "paper": {
+          "height": 0.231,
+          "width": 0.324
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "©  Estate of Margaret Bourke-White / Licensed by VAGA at Artists Rights Society (ARS), NY",
+      "inscriptions": [
+        {
+          "inscription": "Written in red pencil on verso: \"44\"; \"12180\"; in pencil: \"#1\"; \"Mrs. Homer H. Johnson/2171 Overlook Rd./Cleveland Ohio [circled]\"; \"Cleveland Garden\"; in blue pencil: \"#44 Johnson\"; \"P.60 [circled]\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 310231,
+            "title": "The Year in Review for 1987",
+            "description": "<i>The Year in Review for 1987</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 24-April 17, 1988).",
+            "opening_date": "1988-02-24T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, February 24 - April 17, 1988: \"Year in Review 1987,\" CMA Bulletin, 75 (February 1988), p. 66, no. 41.",
+            "opening_date": "1988-02-24T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79939829"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 104",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1987.216",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Mrs. John B. Dempsey",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 153704,
+      "creators": [
+        {
+          "id": 262,
+          "description": "Margaret Bourke-White (American, 1904–1971)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Margaret Bourke-White American, 1904-1971 Margaret Bourke-White was a preeminent photojournalist who gained fame for her striking images published in Fortune and Life magazines in the 1930s-50s. In 1922, while at Columbia University Teachers College in her native New York City, Bourke-White studied photography with Clarence White. She attended several other colleges before graduating from Cornell University (1927), then moved to Cleveland. The city's industrial landscape was influential in the development of Bourke-White's photographic style. One of her images from this period, Romance of Steel, was a first-place winner in the Cleveland Museum of Art's 1928 May Show, a regional juried exhibition. The following year Bourke-White moved back to New York to work for Henry Luce's new business magazine, Fortune. In 1934 she was sent by the magazine to cover the drought in the Midwest, an assignment she credited with awakening her social conscience. Three years later she collaborated with writer Erskine Caldwell on You Have Seen Their Faces, an acclaimed study of the plight of rural Southerners during the Great Depression. Bourke-White's long association with Life began in 1936 when she joined the magazine as one of its first staff photographers. When it premiered on November 23, 1936, her photographs of Fort Peck Dam in Montana were featured on the cover and in the lead story. During her career, Bourke-White covered many major world events: the Great Depression, World War II, the partitioning of India, and the Korean War. She continued to photograph throughout the 1950s, publishing her images in magazines and in a number of books, including Eyes on Russia (1931), North of the Danube, with Erskine Caldwell (1939), Say, Is This the U.S.A.?, with Erskine Caldwell (1941), Shooting the Russian War (1942), Dear Fatherland, Rest Quietly (1946), Halfway to Freedom: A Report on the New India (1949), and Portrait of Myself (her autobiography, 1963). M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1904",
+          "death_year": "1971",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1988-02-18T00:00:00",
+      "sortable_date": 1923,
+      "date_added_to_oa": null,
+      "date_text": "c. 1928",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:42.429000"
+    },
+    {
+      "id": 152665,
+      "accession_number": "1985.47",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Agave Design I, 1920s. Imogen Cunningham (American, 1883–1976). Gelatin silver print; image: 34.8 x 27 cm (13 11/16 x 10 5/8 in.); matted: 55.9 x 45.7 cm (22 x 18 in.). The Cleveland Museum of Art, The A. W. Ellenberger, Sr., Endowment Fund, 1985.47. © The Imogen Cunningham Trust",
+      "current_location": null,
+      "title": "Agave Design I",
+      "creation_date": "1920s",
+      "creation_date_earliest": 1920,
+      "creation_date_latest": 1929,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 34.8 x 27 cm (13 11/16 x 10 5/8 in.); Matted: 55.9 x 45.7 cm (22 x 18 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.348,
+          "width": 0.27
+        },
+        "matted": {
+          "height": 0.559,
+          "width": 0.457
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© The Imogen Cunningham Trust",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on recto: \"Imogen Cunninghan 1920\"; in pencil on verso: \"79:034\"; typed on label: \"Agave Design I, 1920s\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 299125,
+            "title": "From Riches to Rags: American Photography in the Depression",
+            "description": "<i>From Riches to Rags: American Photography in the Depression</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 13-December 31, 2017).",
+            "opening_date": "2017-08-13T04:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Stanford Art Gallery, Stanford University, March 31 - April 23, 1967: Imogen Cunningham, photographs, 1921-1967, p. 4 of exhibition catalogue.",
+            "opening_date": "1967-03-31T00:00:00"
+          },
+          {
+            "description": "CMA, February 12 - April 20, 1986: \"Year in Review 1985,\" CMA Bulletin, 73 (Feb. 1986), p. 66, no. 94.",
+            "opening_date": "1986-02-12T00:00:00"
+          },
+          {
+            "description": "Fotografie Forum Frankfurt, August 28 - October 3, 1993: \"Die Poesie der Form (The Poetry of Form),\" Schaffhausen : Edition Stemmle.",
+            "opening_date": "1993-08-28T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "After Cunningham closed a successful portrait studio to devote herself to parenting her three sons, she continued photographing. “Because I couldn’t get out anywhere, and I had a garden,” said Cunningham, she photographed her plants every afternoon when her children were napping. These were not picture-postcard views but extreme close-ups of plants that emphasize light and dark contrasts, detail, form, and pattern. Like this iconic image, they were unmanipulated depictions of flora, yet, at the same time, boldly abstract images. Cunningham helped blaze a trail for the recognition of photography as an art form that could go beyond documentation to explore pure expression and visual experimentation.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79937815"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 134",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1985.47",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The A. W. Ellenberger, Sr., Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 152665,
+      "creators": [
+        {
+          "id": 337,
+          "description": "Imogen Cunningham (American, 1883–1976)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Imogen Cunningham American, 1883-1976\r\n\r\nBorn in Portland, Oregon, Imogen Cunningham became one of America's most admired photographers during a career that spanned seven decades. She took her first photographs in Seattle in 1901 and later worked for photographer Edward S. Curtis (1907-9). While assisting in Curtis's studio, Cunningham learned the platinum printing process, a technique she used for the soft-focus pictorial style she then favored.\r\n\tIn 1910, upon her return to Seattle after a year studying photographic chemistry at the Technische Hochschule in Dresden, Cunningham opened a portrait studio. She moved to San Francisco with her husband, Roi Partridge, in 1917 and in the 1920s began a series of sharply focused, closeup studies of plant forms. Emphasizing light, form, and abstract pattern, these images were included in Film und Foto, the influential exhibition of avant-garde photography and film held in Stuttgart in 1929. Three years later, Cunningham joined Ansel Adams, Edward Weston, Willard Van Dyke, and others in forming Group f/64.\r\n\tThroughout her long career Cunningham exhibited her work widely and was featured in several documentaries. Among retrospectives of her photography were Imogen! Imogen Cunningham Photographs 1910-1973, at the Henry Art Gallery, University of Washington (1974), and A Centennial Selection at the California Academy of Arts and Sciences, San Francisco (1983). Her subject matter ranged from portraits and closeup studies of plants, flowers, and nudes to unconventional views of modern architecture. Portraiture, however, held special interest. When Cunningham died in 1976, she was working on a book featuring portraits of people over 90 years of age (published posthumously in 1977 as After Ninety). M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1883",
+          "death_year": "1976",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1985-03-25T00:00:00",
+      "sortable_date": 1920,
+      "date_added_to_oa": null,
+      "date_text": "1920s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:05:15.396000"
+    },
+    {
+      "id": 153703,
+      "accession_number": "1987.215",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Untitled (Garden of Mrs. Homer H. Johnson), c. 1928. Margaret Bourke-White (American, 1904–1971). Gelatin silver print; image: 32.6 x 22.8 cm (12 13/16 x 9 in.); paper: 32.9 x 23.1 cm (12 15/16 x 9 1/8 in.); matted: 50.8 x 40.6 cm (20 x 16 in.). The Cleveland Museum of Art, Gift of Mrs. John B. Dempsey, 1987.215. ©  Estate of Margaret Bourke-White / Licensed by VAGA at Artists Rights Society (ARS), NY",
+      "current_location": null,
+      "title": "Untitled (Garden of Mrs. Homer H. Johnson)",
+      "creation_date": "c. 1928",
+      "creation_date_earliest": 1923,
+      "creation_date_latest": 1933,
+      "artists_tags": [
+        "May Show",
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 32.6 x 22.8 cm (12 13/16 x 9 in.); Paper: 32.9 x 23.1 cm (12 15/16 x 9 1/8 in.); Matted: 50.8 x 40.6 cm (20 x 16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.326,
+          "width": 0.228
+        },
+        "paper": {
+          "height": 0.329,
+          "width": 0.231
+        },
+        "matted": {
+          "height": 0.508,
+          "width": 0.406
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "©  Estate of Margaret Bourke-White / Licensed by VAGA at Artists Rights Society (ARS), NY",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"#2\"; \"Mrs Homer H Johnson/2171 Overlook Rd/Cleveland Ohio\"; in red pencil: \"44\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 310231,
+            "title": "The Year in Review for 1987",
+            "description": "<i>The Year in Review for 1987</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 24-April 17, 1988).",
+            "opening_date": "1988-02-24T05:00:00"
+          },
+          {
+            "id": 311873,
+            "title": "Transformations in Cleveland Art, 1796-1946",
+            "description": "<i>Transformations in Cleveland Art, 1796-1946</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 19-July 21, 1996).",
+            "opening_date": "1996-05-19T04:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, February 24 - April 17, 1988: \"Year in Review 1987,\" CMA Bulletin, 75 (February 1988), p. 66, no. 40.",
+            "opening_date": "1988-02-24T00:00:00"
+          },
+          {
+            "description": "CMA, May 19 - July 21, 1996: \"Transformations in Cleveland Art 1796-1946 ,\" p. 211, fig. 219, p.245.",
+            "opening_date": "1996-05-19T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79939826"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 104",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1987.215",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Mrs. John B. Dempsey",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 153703,
+      "creators": [
+        {
+          "id": 262,
+          "description": "Margaret Bourke-White (American, 1904–1971)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Margaret Bourke-White American, 1904-1971 Margaret Bourke-White was a preeminent photojournalist who gained fame for her striking images published in Fortune and Life magazines in the 1930s-50s. In 1922, while at Columbia University Teachers College in her native New York City, Bourke-White studied photography with Clarence White. She attended several other colleges before graduating from Cornell University (1927), then moved to Cleveland. The city's industrial landscape was influential in the development of Bourke-White's photographic style. One of her images from this period, Romance of Steel, was a first-place winner in the Cleveland Museum of Art's 1928 May Show, a regional juried exhibition. The following year Bourke-White moved back to New York to work for Henry Luce's new business magazine, Fortune. In 1934 she was sent by the magazine to cover the drought in the Midwest, an assignment she credited with awakening her social conscience. Three years later she collaborated with writer Erskine Caldwell on You Have Seen Their Faces, an acclaimed study of the plight of rural Southerners during the Great Depression. Bourke-White's long association with Life began in 1936 when she joined the magazine as one of its first staff photographers. When it premiered on November 23, 1936, her photographs of Fort Peck Dam in Montana were featured on the cover and in the lead story. During her career, Bourke-White covered many major world events: the Great Depression, World War II, the partitioning of India, and the Korean War. She continued to photograph throughout the 1950s, publishing her images in magazines and in a number of books, including Eyes on Russia (1931), North of the Danube, with Erskine Caldwell (1939), Say, Is This the U.S.A.?, with Erskine Caldwell (1941), Shooting the Russian War (1942), Dear Fatherland, Rest Quietly (1946), Halfway to Freedom: A Report on the New India (1949), and Portrait of Myself (her autobiography, 1963). M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1904",
+          "death_year": "1971",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1988-02-18T00:00:00",
+      "sortable_date": 1923,
+      "date_added_to_oa": null,
+      "date_text": "c. 1928",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:41.681000"
+    },
+    {
+      "id": 164994,
+      "accession_number": "2006.77",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Greek Bronze in the Interior Garden Court, 2005, printed 2006. Linda Butler (American, b. 1947). Chromogenic process color print; image: 33.8 x 25.6 cm (13 5/16 x 10 1/16 in.); paper: 35.5 x 27.9 cm (14 x 11 in.); matted: 50.8 x 40.6 cm (20 x 16 in.). The Cleveland Museum of Art, The Jane B. Tripp Charitable Lead Annuity Trust and gift of the artist, 2006.77. © Linda Butler",
+      "current_location": null,
+      "title": "Greek Bronze in the Interior Garden Court",
+      "creation_date": "2005, printed 2006",
+      "creation_date_earliest": 2005,
+      "creation_date_latest": 2005,
+      "artists_tags": [
+        "May Show",
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "chromogenic process color print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 33.8 x 25.6 cm (13 5/16 x 10 1/16 in.); Paper: 35.5 x 27.9 cm (14 x 11 in.); Matted: 50.8 x 40.6 cm (20 x 16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.338,
+          "width": 0.256
+        },
+        "paper": {
+          "height": 0.355,
+          "width": 0.279
+        },
+        "matted": {
+          "height": 0.508,
+          "width": 0.406
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Linda Butler",
+      "inscriptions": [
+        {
+          "inscription": "written in pencil on verso: \"Greek Bronze in the Interior Garden Court, Cleveland Museum of Art, 2005:2006 © Linda Butler 1/15\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 181725,
+            "title": "Transitions: Linda Butler and Philip Brutz Photographs",
+            "description": "<i>Transitions: Linda Butler and Philip Brutz Photographs</i>. Museum of Contemporary Art Cleveland (MOCA), Cleveland, OH (June 9-August 20, 2006).",
+            "opening_date": "2006-06-09T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "MOCA Cleveland (June 9 - August 20, 2006):  \"Transitions:  Linda Butler and Philip Brutz Photographs\"",
+            "opening_date": "2006-06-09T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79993356"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2006.77",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The Jane B. Tripp Charitable Lead Annuity Trust and gift of the artist",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 164994,
+      "creators": [
+        {
+          "id": 32391,
+          "description": "Linda Butler (American, b. 1947)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Biographical information exists in the Cleveland Museum of Art Archives.",
+          "name_in_original_language": null,
+          "birth_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2006-02-27T00:00:00",
+      "sortable_date": 2005,
+      "date_added_to_oa": null,
+      "date_text": "2005, printed 2006",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:46.441000"
+    },
+    {
+      "id": 524216,
+      "accession_number": "2022.330",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Hot Flash: Santa Fe Summer No. 1, 1976. Anne Noggle (American, 1922–2005). Gelatin silver print. The Cleveland Museum of Art, Gift of Cal Kowal and Anita Douthat, 2022.330",
+      "current_location": null,
+      "title": "Santa Fe Summer No. 1",
+      "series": "Hot Flash",
+      "creation_date": "1976",
+      "creation_date_earliest": 1976,
+      "creation_date_latest": 1976,
+      "artists_tags": [
+        "female",
+        "LGBTQ+ (after 1900)"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Cal Kowal [1944-], Alexandria, KY, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "?-2022",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 5, 2022-",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The photographer had been friends with the sitter for over 25 years when she made this portrait.",
+      "description": "This environmental portrait shows Noggle’s friend, mentor, and muse, Albuquerque artist Yolanda Shaw Belloli, working almost frantically in her garden in Santa Fe. The two women met when Noggle moved to the city in 1949; they became inseparable friends. When Belloli died in 1983, she left Noggle an inheritance that granted the photographer a new degree of financial security.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117469516"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2022.330",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Cal Kowal and Anita Douthat",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 524216,
+      "creators": [
+        {
+          "id": 524208,
+          "description": "Anne Noggle (American, 1922–2005)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1922",
+          "death_year": "2005",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2022-12-05T05:00:00Z",
+      "sortable_date": 1976,
+      "date_added_to_oa": null,
+      "date_text": "1976",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:39.864000"
+    },
+    {
+      "id": 165001,
+      "accession_number": "2006.83",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Garden Court Capitals with 1916 Newspaper, 2005, printed 2006. Linda Butler (American, b. 1947). Chromogenic process color print; image: 26.2 x 32.6 cm (10 5/16 x 12 13/16 in.); paper: 28 x 35.6 cm (11 x 14 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, The Jane B. Tripp Charitable Lead Annuity Trust and gift of the artist, 2006.83. © Linda Butler",
+      "current_location": null,
+      "title": "Garden Court Capitals with 1916 Newspaper",
+      "creation_date": "2005, printed 2006",
+      "creation_date_earliest": 2005,
+      "creation_date_latest": 2005,
+      "artists_tags": [
+        "May Show",
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "chromogenic process color print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 26.2 x 32.6 cm (10 5/16 x 12 13/16 in.); Paper: 28 x 35.6 cm (11 x 14 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.262,
+          "width": 0.326
+        },
+        "paper": {
+          "height": 0.28,
+          "width": 0.356
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Linda Butler",
+      "inscriptions": [
+        {
+          "inscription": "written in pencil on verso: \"Garden Court Capitals with 1916 Newspaper, Cleveland Museum of Art, 2005:2006 © Linda Butler 1/15\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 181725,
+            "title": "Transitions: Linda Butler and Philip Brutz Photographs",
+            "description": "<i>Transitions: Linda Butler and Philip Brutz Photographs</i>. Museum of Contemporary Art Cleveland (MOCA), Cleveland, OH (June 9-August 20, 2006).",
+            "opening_date": "2006-06-09T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "MOCA Cleveland (June 9 - August 20, 2006):  \"Transitions:  Linda Butler and Philip Brutz Photographs\"",
+            "opening_date": "2006-06-09T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79993375"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2006.83",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The Jane B. Tripp Charitable Lead Annuity Trust and gift of the artist",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 165001,
+      "creators": [
+        {
+          "id": 32391,
+          "description": "Linda Butler (American, b. 1947)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Biographical information exists in the Cleveland Museum of Art Archives.",
+          "name_in_original_language": null,
+          "birth_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2006-02-27T00:00:00",
+      "sortable_date": 2005,
+      "date_added_to_oa": null,
+      "date_text": "2005, printed 2006",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:43.560000"
+    },
+    {
+      "id": 161416,
+      "accession_number": "2000.114.1",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Zen Gardens, 1973. Birgit Skiöld (British, 1923–1982), Circle Press. Photoetching and linocut relief; sheet: 29.8 x 60 cm (11 3/4 x 23 5/8 in.); platemark: 9.7 x 12.2 cm (3 13/16 x 4 13/16 in.). The Cleveland Museum of Art, Gift of Jane Weiss Garrett, 2000.114.1",
+      "current_location": null,
+      "title": "Zen Gardens",
+      "creation_date": "1973",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "England, 20th century"
+      ],
+      "technique": "photoetching and linocut relief",
+      "support_materials": [],
+      "department": "Prints",
+      "collection": "PR - Etching",
+      "type": "Portfolio",
+      "measurements": "Sheet: 29.8 x 60 cm (11 3/4 x 23 5/8 in.); Platemark: 9.7 x 12.2 cm (3 13/16 x 4 13/16 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.298,
+          "width": 0.6
+        },
+        "platemark": {
+          "height": 0.097,
+          "width": 0.122
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": "100; numbers 1-75 printed in English with 10 artist's proofs; 76-100 printed in Japanese with 5 artist's proofs",
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "the colophon is signed by the artist and the poet",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 188479,
+            "title": "From Rembrandt to Rauschenberg:  Recently Acquired Prints",
+            "description": "<i>From Rembrandt to Rauschenberg:  Recently Acquired Prints</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 17-November 26, 2000).",
+            "opening_date": "2000-09-17T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; September 17 - November 26, 2000.  \"From Rembrandt to Rauschenberg:  Recently Acquired Prints.\"",
+            "opening_date": "2000-09-17T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Skiöld was raised on the coast of Sweden and the influence of the sea was expressed in rhythmic\r\npatterns printed in relief and a delicate, ethereal sense of color. During a 1970 trip to Japan the inspiration of nature and the simplicity of Asian art also affected her work. Photographs she took there were transferred to etching plates to illustrate Zen Gardens where they, and the embossed designs, echo verbal references to stones, sand, sea birds, and sky. The poems (by James Kirkup) and images enhance each other producing a satisfying whole.\r\n",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79984080"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2000.114.1",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Jane Weiss Garrett",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 161416,
+      "creators": [
+        {
+          "id": 38704,
+          "description": "Birgit Skiöld (British, 1923–1982)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1923",
+          "death_year": "1982",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 67706,
+          "description": "Circle Press",
+          "extent": null,
+          "qualifier": null,
+          "role": "published by",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2000-09-18T00:00:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973",
+      "collapse_artists": true,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2000.114",
+      "is_nazi_era_provenance": false,
+      "impression": "25/100",
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:06.727000"
+    },
+    {
+      "id": 167895,
+      "accession_number": "2009.485",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Barnum & Bailey Dressing Rooms, New York City, 1950. Louis Faurer (American, 1916–2001). Gelatin silver print; paper: 28 x 35.6 cm (11 x 14 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, Gift of Howard Greenberg, 2009.485. © Estate of Louis Faurer",
+      "current_location": null,
+      "title": "Barnum & Bailey Dressing Rooms, New York City",
+      "creation_date": "1950",
+      "creation_date_earliest": 1950,
+      "creation_date_latest": 1950,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 28 x 35.6 cm (11 x 14 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.28,
+          "width": 0.356
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Estate of Louis Faurer",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 393871,
+            "title": "A New York Minute: Street Photography, 1920–1950",
+            "description": "<i>A New York Minute: Street Photography, 1920–1950</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 11-November 7, 2021).",
+            "opening_date": "2021-07-10T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Louis Faurer was on assignment for <em>Vogue</em> in 1950 when he photographed the Ringling Bros. and Barnum &amp; Bailey Circus at Madison Square Garden in New York City. He discovered that backstage provided much more interesting images for his personal work than the acts in the ring did. Whether photographing on the city’s streets or behind the scenes at the circus, Faurer was drawn to the humor and quirkiness of human behavior.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80073004"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2009.485",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Howard Greenberg",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 167895,
+      "creators": [
+        {
+          "id": 58919,
+          "description": "Louis Faurer (American, 1916–2001)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1916",
+          "death_year": "2001",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2010-03-01T00:00:00",
+      "sortable_date": 1950,
+      "date_added_to_oa": null,
+      "date_text": "1950",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:55.302000"
+    },
+    {
+      "id": 154958,
+      "accession_number": "1989.516",
+      "share_license_status": "Copyrighted",
+      "tombstone": "\"Goethe and Schiller,\" German Cultural Garden, 1987. Cervin Robinson (American, 1928–2022). Gelatin silver print; image: 34.7 x 27 cm (13 11/16 x 10 5/8 in.); paper: 35.5 x 27.7 cm (14 x 10 7/8 in.); matted: 50.8 x 40.6 cm (20 x 16 in.). The Cleveland Museum of Art, Funded by a grant from The Cleveland Foundation and the East Ohio Gas Company, 1989.516. © 1989 Cervin Robinson",
+      "current_location": null,
+      "title": "\"Goethe and Schiller,\" German Cultural Garden",
+      "creation_date": "1987",
+      "creation_date_earliest": 1987,
+      "creation_date_latest": 1987,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 34.7 x 27 cm (13 11/16 x 10 5/8 in.); Paper: 35.5 x 27.7 cm (14 x 10 7/8 in.); Matted: 50.8 x 40.6 cm (20 x 16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.347,
+          "width": 0.27
+        },
+        "paper": {
+          "height": 0.355,
+          "width": 0.277
+        },
+        "matted": {
+          "height": 0.508,
+          "width": 0.406
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© 1989 Cervin Robinson",
+      "inscriptions": [
+        {
+          "inscription": "Written in black ink on verso: \"© Cervin Robinson 1989\"; in pencil: \"I 929-1\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": [
+          {
+            "description": "CMA, Nov. 22, 1989 - Jan. 20, 1990: \"Cervin Robinson/Cleveland, Ohio,\" cat. p. 43.",
+            "opening_date": "1989-11-22T00:00:00"
+          },
+          {
+            "description": "CMA, Feb. 6 - April 15, 1990: \"Year in Review 1989,\" CMA Bulletin, p. 68, no. 51 (not exhibited).",
+            "opening_date": "1990-02-06T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79942774"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 288",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1989.516",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Funded by a grant from The Cleveland Foundation and the East Ohio Gas Company",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 154958,
+      "creators": [
+        {
+          "id": 14005,
+          "description": "Cervin Robinson (American, 1928–2022)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Born May 18, 1928. Photographer, historian, and critic Cervin Robinson is considered one of the most distinguished American architectural scholars. Born in Boston to an architect and his wife, Robinson's interest in topography, perspective, and the cultural significance of cities and buildings developed at the encouragement of his father and grew during his two-year duty in the U.S. Army. After earning a B.A. in English literature from Harvard University (1950), he worked as an assistant to Walker Evans in New York (1953-57), an experience that further sparked his fascination with American architecture. Over the years he received numerous commissions from historical societies, the Library of Congress, architects and architectural magazines, and the film industry. Robinson's still photographs served as backdrops for Superman the Movie and Superman II. Robinson lectured and wrote regularly for various architectural and academic periodicals, and taught architectural photography at Columbia University. He received a fellowship from the John Simon Guggenheim Memorial Foundation (1971) and directed a project funded by the National Endowment for the Arts/New York State Council on the Arts (1978). In 1978 he was named a J. Clauson Mills Scholar. In 1989 the Cleveland Museum of Art organized Cervin Robinson: Cleveland, Ohio, an exhibition and catalogue of black-and-white views of the city commissioned by the museum. Robinson lived in New York. A. W.",
+          "name_in_original_language": null,
+          "birth_year": "1928",
+          "death_year": "2022",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1990-01-29T00:00:00",
+      "sortable_date": 1987,
+      "date_added_to_oa": null,
+      "date_text": "1987",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:04.738000"
+    }
+  ]
+}

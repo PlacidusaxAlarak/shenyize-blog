@@ -1,0 +1,2870 @@
+{
+  "info": {
+    "total": 74,
+    "parameters": {
+      "skip": 0,
+      "limit": 20,
+      "q": "architecture photograph",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,collection,department,classification_type,gallery",
+      "search": "architecture photograph"
+    }
+  },
+  "data": [
+    {
+      "id": 439500,
+      "accession_number": "2021.65",
+      "share_license_status": "CC0",
+      "tombstone": "Fontaine du Jardin du Luxembourg (grotte de Marie de Médécis), c. 1850. Charles Marville (French, 1813–1879). Salted paper print, Blanquart-Évrard process; image: 20 x 15.9 cm (7 7/8 x 6 1/4 in.); paper: 53.6 x 34.7 cm (21 1/8 x 13 11/16 in.). The Cleveland Museum of Art, Gift of Michael Mattis and Judith Hochberg, 2021.65",
+      "current_location": null,
+      "title": "Fontaine du Jardin du Luxembourg (grotte de Marie de Médécis)",
+      "creation_date": "c. 1850",
+      "creation_date_earliest": 1845,
+      "creation_date_latest": 1855,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France"
+      ],
+      "technique": "Salted paper print, Blanquart-Évrard process",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - French 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 20 x 15.9 cm (7 7/8 x 6 1/4 in.); Paper: 53.6 x 34.7 cm (21 1/8 x 13 11/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.2,
+          "width": 0.159
+        },
+        "paper": {
+          "height": 0.536,
+          "width": 0.347
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Imprinted on recto: \"Melanges Photographiques\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Imprinted on recto: \"Imprimerie Photographique de Blanquart-Evrard a Lille\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Imprinted on recto: \"36/Fontaine du Jardin du Luxembourg/(Grotte de Marie de Médicis)/Jacques de Brosse, 17em siecle\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"30/14\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"20.1 x 16/53.5x  34.5\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Michael Mattis and Judith Hochberg, Scarsdale, NY",
+          "citations": [],
+          "footnotes": null,
+          "date": "?-2021",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "June 7, 2021",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "In the 1620s, French queen Marie de’ Medici built an Italianate palace and gardens on Paris’s Left Bank.",
+      "description": "This fountain was part of those gardens. Charles Marville, who specialized in photographing landscapes, architecture, and urban views, made this photograph four decades after the fountain’s 1811 restoration, which added the white marble statue of Venus bathing. If you go to Paris now, you will see the 1864 restoration, which radically restructured it and moved it 100 feet to make way for a street.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q107378553"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2021.65-fontaine-du-jardin-d"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2021.65",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2021.65/2021.65_web.jpg",
+          "width": "744",
+          "height": "900",
+          "filesize": "278046",
+          "filename": "2021.65_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2021.65/2021.65_print.jpg",
+          "width": "2812",
+          "height": "3400",
+          "filesize": "3033506",
+          "filename": "2021.65_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2021.65/2021.65_full.tif",
+          "width": "6347",
+          "height": "7674",
+          "filesize": "146147174",
+          "filename": "2021.65_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2021-06-23T13:41:32",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.65/2021.65_alt0_web.jpg",
+            "width": "590",
+            "height": "900",
+            "filesize": "194450"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.65/2021.65_alt0_print.jpg",
+            "width": "2230",
+            "height": "3400",
+            "filesize": "1932595"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.65/2021.65_alt0_full.tif",
+            "width": "8269",
+            "height": "12609",
+            "filesize": "312816286"
+          }
+        },
+        {
+          "date_created": "2021-06-23T13:41:50",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.65/2021.65_alt1_web.jpg",
+            "width": "590",
+            "height": "900",
+            "filesize": "143806"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.65/2021.65_alt1_print.jpg",
+            "width": "2230",
+            "height": "3400",
+            "filesize": "1505619"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.65/2021.65_alt1_full.tif",
+            "width": "8269",
+            "height": "12610",
+            "filesize": "312839658"
+          }
+        }
+      ],
+      "creditline": "Gift of Michael Mattis and Judith Hochberg",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 439500,
+      "creators": [
+        {
+          "id": 635,
+          "description": "Charles Marville (French, 1813–1879)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "At the invitation of the city of Paris, photographer Charles Marville was among the first to document the ancient quarters of his birthplace. His views, taken in the late 1850s, were intended to record the many buildings and neighborhoods ultimately destroyed by Baron Georges-Eugène Haussmann's urban planning project that would create the boulevards and open spaces of modern Paris. While Marville's survey of the city, extensive and thorough in scope, prefigured other important efforts of its kind, it is distinguished by its emotional accessibility. His work beautifully reveals a Paris that has long disappeared. Originally trained as a painter and illustrator, Marville worked with both calotype and glass plate negatives. He photographed in France, Italy, Germany, and Algeria, becoming most well known for his architectural imagery but also producing acclaimed landscapes and studies of trees. Many of Marville's early views, often considered his best, were included in the albums of Louis-Désiré Blanquart-Évrard before the printer's establishment in Lille closed in 1855. Named official photographer of Paris in 1862, Marville also served as photographer to the Imperial Museum of the Louvre and to King Vittorio Emmanuelle of Italy. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1813",
+          "death_year": "1879",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2021-06-07T04:00:00Z",
+      "sortable_date": 1845,
+      "date_added_to_oa": null,
+      "date_text": "c. 1850",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 16:32:50.723000"
+    },
+    {
+      "id": 384220,
+      "accession_number": "2020.209",
+      "share_license_status": "CC0",
+      "tombstone": "Perumal Temple Vimana from Corner of Court, Madurai, 1858. Captain Linnaeus Tripe (British, 1822–1902). Albumen print from a waxed paper negative; image: 34.2 x 26.8 cm (13 7/16 x 10 9/16 in.); paper: 34.2 x 26.8 cm (13 7/16 x 10 9/16 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 2020.209",
+      "current_location": null,
+      "title": "Perumal Temple Vimana from Corner of Court, Madurai",
+      "creation_date": "1858",
+      "creation_date_earliest": 1858,
+      "creation_date_latest": 1858,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "albumen print from a waxed paper negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 34.2 x 26.8 cm (13 7/16 x 10 9/16 in.); Paper: 34.2 x 26.8 cm (13 7/16 x 10 9/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.342,
+          "width": 0.268
+        },
+        "paper": {
+          "height": 0.342,
+          "width": 0.268
+        },
+        "mounted": {
+          "height": 0.572,
+          "width": 0.436
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Imprinted in black type on white paper adhered to recto of mount: \"8\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Embossed on recto of mount:\"LT/Photographer to Government\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Newberry Library Collection, Chicago, IL",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "(Sotheby's, New York, NY)",
+          "citations": [],
+          "footnotes": [],
+          "date": "October 31, 1989",
+          "sortorder": 2
+        },
+        {
+          "description": "(Prahlad Bubbar Indian and Islamic Art, London, United Kingdom)",
+          "citations": [],
+          "footnotes": null,
+          "date": "2020",
+          "sortorder": 3
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 14, 2020",
+          "sortorder": 4
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The architecture was probably painted with bright colors, but Linnaeus Tripe’s photographic technology captured only a monochromatic range of tones.",
+      "description": "Although the temple would have been crowded with worshippers, Tripe shows us empty spaces. His paper negatives and primitive lens required long exposures, even in the bright sunlight of India—too long to record an individual in motion. Tripe, photographing for the colonial government, may also have used his official status to have the temple cleared of visitors so he could obtain unobstructed views of the architecture.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117244773"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2020.209-perumal-temple-viman"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Dewan, Janet, and Linnaeus Tripe. The Photographs of Linnaeus Tripe: A Catalogue Raisonné. Toronto: Art Gallery of Ontario, 2003.",
+          "page_number": "CR6-143",
+          "url": null
+        }
+      ],
+      "catalogue_raisonne": "Dewan: CR6-143",
+      "url": "https://clevelandart.org/art/2020.209",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.209/2020.209_web.jpg",
+          "width": "716",
+          "height": "900",
+          "filesize": "293921",
+          "filename": "2020.209_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.209/2020.209_print.jpg",
+          "width": "2705",
+          "height": "3400",
+          "filesize": "3032047",
+          "filename": "2020.209_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.209/2020.209_full.tif",
+          "width": "6024",
+          "height": "7571",
+          "filesize": "136852316",
+          "filename": "2020.209_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2020-08-13T17:40:31",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2020.209/2020.209_alt0_web.jpg",
+            "width": "697",
+            "height": "900",
+            "filesize": "151098"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2020.209/2020.209_alt0_print.jpg",
+            "width": "2634",
+            "height": "3400",
+            "filesize": "1473473"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2020.209/2020.209_alt0_full.tif",
+            "width": "9572",
+            "height": "12358",
+            "filesize": "354897572"
+          }
+        }
+      ],
+      "creditline": "Purchase from the J. H. Wade Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 384220,
+      "creators": [
+        {
+          "id": 1026,
+          "description": "Captain Linnaeus Tripe (British, 1822–1902)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Captain Linnaeus Tripe British, 1822-1902\r\n\r\nBorn in Davenport, Linnaeus Tripe was an officer in the 12th Regiment Native Infantry at Bangalore who learned photography while on furlough in England between 1851-54. In 1855 he was appointed photographer to a British mission in Burma, where he produced more than 120 views subsequently published by the Madras Photographic Society in Bangalore (1857). For four years, beginning in 1856, he was government photographer to the Madras presidency. Six volumes with more than 100 images of various cities in Madras (now Tamil Nadu) were later published.\r\n\tLike other expeditionary photographers, Tripe documented the landscape, culture, and architecture he encountered. His particular views are valued not only for their factual content, but also for Tripe's soft, almost romantic interpretation of his subjects. Rising through the military ranks during his career, Tripe retired to England as an honorary major general in 1875. He continued to photograph for his own pleasure. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1822",
+          "death_year": "1902",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2020-09-14T00:00:00-04:00",
+      "sortable_date": 1858,
+      "date_added_to_oa": null,
+      "date_text": "1858",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Permaul Pagoda, bimanum from corner of court"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:40.820000"
+    },
+    {
+      "id": 160195,
+      "accession_number": "1998.114",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Bronson Tropics, 1965. Edward Ruscha (American, 1937-). Graphite powder and graphite wash, with point of brush and graphite wash; sheet: 35.5 x 53.7 cm (14 x 21 1/8 in.); image: 33 x 54.6 cm (13 x 21 1/2 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1998.114",
+      "current_location": null,
+      "title": "Bronson Tropics",
+      "creation_date": "1965",
+      "creation_date_earliest": 1965,
+      "creation_date_latest": 1965,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "graphite powder and graphite wash, with point of brush and graphite wash",
+      "support_materials": [
+        {
+          "description": "cream(1) wove paper",
+          "watermarks": []
+        }
+      ],
+      "department": "Drawings",
+      "collection": "DR - American 20th Century",
+      "type": "Drawing",
+      "measurements": "Sheet: 35.5 x 53.7 cm (14 x 21 1/8 in.); Image: 33 x 54.6 cm (13 x 21 1/2 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.355,
+          "width": 0.537
+        },
+        "image": {
+          "height": 0.33,
+          "width": 0.546
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "signed, lower left, in graphite: Edward Ruscha 1965",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 192019,
+            "title": "Master Drawings from the Cleveland Museum of Art",
+            "description": "<i>Master Drawings from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 27-October 17, 2000); The Morgan Library & Museum, New York, NY (May 23-August 19, 2001); Museum of Fine Arts, Houston, Houston, TX (October 14, 2001-January 6, 2002).",
+            "opening_date": "2000-08-27T00:00:00"
+          },
+          {
+            "id": 218393,
+            "title": "Cotton Puffs, Q-Tips, Smoke and Mirrors: The Drawings of Ed Ruscha",
+            "description": "<i>Cotton Puffs, Q-Tips, Smoke and Mirrors: The Drawings of Ed Ruscha</i>. Whitney Museum of American Art, New York, NY (organizer) (June 24-September 26, 2004).",
+            "opening_date": "2004-06-24T00:00:00"
+          },
+          {
+            "id": 231785,
+            "title": "Ed Ruscha: Road Tested",
+            "description": "<i>Ed Ruscha: Road Tested</i>. Modern Art Museum of Fort Worth, Fort Worth, TX (organizer) (January 23-April 17, 2011).",
+            "opening_date": "2011-01-23T00:00:00"
+          },
+          {
+            "id": 230026,
+            "title": "Ed Ruscha - Los Angeles Apartments",
+            "description": "<i>Ed Ruscha - Los Angeles Apartments</i>. Kunstmuseum Basel, Basel, Switzerland (organizer) (June 8-September 29, 2013).",
+            "opening_date": "2013-06-08T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Cleveland Museum of Art, Main Gallery Rotation (Gallery 229) (April 14 - July 28, 2014).",
+            "opening_date": "2014-04-14T00:00:00"
+          },
+          {
+            "description": "<em>Ed Ruscha: New Paintings and a Retrospective of Works on Paper</em>. Anthony d'Offay Gallery, London (1998).",
+            "opening_date": "1998-01-01T00:00:00"
+          },
+          {
+            "description": "<em>Edward Ruscha Los Angeles Apartments 1965</em>. Whitney Museum of American Art, New York (July 27 - October 14, 1990).",
+            "opening_date": "1990-07-27T00:00:00"
+          },
+          {
+            "description": "<em>The Works of Ed Ruscha</em>. San Francisco Museum of Modern Art (March 25 - May 23, 1982); Whitney Museum of American Art, New York (July 8 - September 5, 1982); Vancouver Art Gallery (October 4 - November 28, 1982); San Antonio Museum of Art (December 27, 1982 - February 20, 1983); Los Angeles County Museum of Art (March 17 - May 15, 1983).",
+            "opening_date": "1982-03-25T00:00:00"
+          },
+          {
+            "description": "<em>Graphic Works by Edward Ruscha</em>. Auckland City Art Gallery, New Zealand (August - October 1978).",
+            "opening_date": "1978-08-01T00:00:00"
+          },
+          {
+            "description": "<em>Ed Ruscha</em>. Stedelijk Museum, Prentenkabinet, Amsterdam (March 26 - May 9, 1976).",
+            "opening_date": "1976-03-26T00:00:00"
+          },
+          {
+            "description": "<em>Edward Ruscha (Ed-Werd Rew-Shay), Young Artist</em>. Minneapolis Institute of Arts (April 18 - May 28, 1972).",
+            "opening_date": "1972-04-18T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Edward Ruscha [1937-], Los Angeles, CA",
+          "citations": [],
+          "footnotes": null,
+          "date": "1965 - 1998",
+          "sortorder": 1
+        },
+        {
+          "description": "(Anthony d'Offay Gallery, London, sold to the Cleveland Museum of Art)",
+          "citations": [],
+          "footnotes": [],
+          "date": "1998",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "1998-",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Ruscha edited out window treatments and trees from his original photograph to make the building seem more streamlined.",
+      "description": "Edward Ruscha has lived and worked in Los Angeles since the 1950s. He developed an interest in commercial imagery early on, using words and advertising logos to structure his artworks. In particular, Ruscha often depicted the commercial architecture and car culture characteristic of California. This drawing relates to <em>Some Los Angeles Apartments</em> (1965), one of numerous photobooks that the artist self-published throughout the 1960s. For this project, Ruscha photographed unremarkable apartment buildings, highlighting their sameness through seriality. He revisited ten of the photographs as drawings, such as this one, in which he further simplified the building's structure, flattening and streamlining it through smoothly applied graphite powder.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79981010"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "DeGrazia, Diane and Carter E. Foster. <em>Master Drawings from the Cleveland Museum of Art.</em> Cleveland, OH: Cleveland Museum of Art in association with Rizzoli International Publications, New York, 2000.",
+          "page_number": "Mentioned: pp. 280-281, 298; Reproduced: p. 281",
+          "url": null
+        },
+        {
+          "citation": "<em>Edward Ruscha (Ed-Werd Rew-Shay), Young Artist</em>. Exh. Cat. Minneapolis: Minneapolis Institute of Arts, 1972.",
+          "page_number": "Mentioned and reproduced: no. 14",
+          "url": null
+        },
+        {
+          "citation": "<em>Graphic Works by Edward Ruscha</em>. Exh. Cat. Auckland: Auckland City Art Gallery, 1978.",
+          "page_number": "Mentioned: p. 87, 122, no. 61; Reproduced: p. 87",
+          "url": null
+        },
+        {
+          "citation": "<em>Guacamole Airlines and Other Drawings by Edward Ruscha</em>. New York: Harry N. Abrams, 1980.",
+          "page_number": "Mentioned and reproduced: p. 20, no. 12",
+          "url": null
+        },
+        {
+          "citation": "Livet, Anne. <em>The Works of Edward Ruscha</em>. Exh. Cat. San Francisco: San Francisco Museum of Modern Art, 1982",
+          "page_number": "Mentioned: p. 176, no. 66; reproduced: p. 66, plate 28",
+          "url": null
+        },
+        {
+          "citation": "<em>Edward Ruscha: Words Without Thoughts Never to Heaven Go</em>. Exh. Cat. Lake Worth, FL: Lannan Museum, 1988.",
+          "page_number": "Mentioned: p. 61, no. 24; Reproduced: p. 38",
+          "url": null
+        },
+        {
+          "citation": "Marshall, Richard. <em>Edward Ruscha: Los Angeles Apartments, 1965</em>. Exh. Cat. New York: Whitney Museum, 1990.",
+          "page_number": "Mentioned and reproduced: p. 19.",
+          "url": null
+        },
+        {
+          "citation": "Whitington, G. Luther. \"Where the West Sinks Slowly into the Sun.\" <em>Journal of Art</em> (April 1991): 26-27.",
+          "page_number": "Reproduced: p. 27",
+          "url": null
+        },
+        {
+          "citation": "Wakefield, Neville and Dave Hickey. <em>Ed Ruscha: New Paintings and a Retrospective of Works on Paper</em>. Exh. Cat. London: Anthony d'Offay, 1998.",
+          "page_number": "Reproduced: p. 27",
+          "url": null
+        },
+        {
+          "citation": "Cleveland Museum of Art, “Cleveland Acquires Major New Sculpture, Rare Chinese Prints, Contemporary Prints, Drawings &amp; Photographs,” October 30, 1998, Cleveland Museum of Art Archives.",
+          "page_number": null,
+          "url": "https://archive.org/details/cmapr4215"
+        },
+        {
+          "citation": "Perrone, Jeff. \"Ed Ruscha's Illuminated Manuscripts.\" <em>Parkett</em> 55 (1999): 26-39.",
+          "page_number": "Reproduced: p. 29",
+          "url": null
+        },
+        {
+          "citation": "Schwartz, Alexandra, ed. <em>Leave Any Information at the Signal: Writings, Interviews, Bits, Pages</em>. Cambridge, MA: MIT Press, 2002.",
+          "page_number": "Reproduced: p. 222",
+          "url": null
+        },
+        {
+          "citation": "Rowell, Margit, and Cornelia H. Butler. <em>Cotton Puffs, Q-Tips, Smoke and Mirrors: The Drawings of Ed Ruscha</em>. New York: Whitney Museum of American Art, 2004.",
+          "page_number": "Mentioned and reproduced: no. 32",
+          "url": null
+        },
+        {
+          "citation": "Wolf, Sylvia. <em>Ed Ruscha and Photography</em>. Exh. Cat. New York: Whitney Museum of American Art, 2004.",
+          "page_number": "Mentioned: p. 285, no. 269; Reproduced: p. 233",
+          "url": null
+        },
+        {
+          "citation": "Auping, Michael. <em>Ed Ruscha: Road Tested</em>. Exh. Cat. Fort Worth: Modern Art Museum of Fort Worth, 2011.",
+          "page_number": "Mentioned and reproduced: p. 67",
+          "url": null
+        },
+        {
+          "citation": "Müller, Christian. <em>Ed Ruscha: Los Angeles Apartments</em>. Exh. Cat. Basel: Kunstmuseum Basel, Kupferstichkabinett, 2013.",
+          "page_number": "Mentioned: pp. 67-68, 138-142, 160, no. 71; Reproduced: p. 142",
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/1998.114",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Purchase from the J. H. Wade Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 160195,
+      "creators": [
+        {
+          "id": 27028,
+          "description": "Edward Ruscha (American, 1937-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1937",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1998-09-08T00:00:00",
+      "sortable_date": 1965,
+      "date_added_to_oa": null,
+      "date_text": "1965",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:14.374000"
+    },
+    {
+      "id": 439494,
+      "accession_number": "2021.62",
+      "share_license_status": "CC0",
+      "tombstone": "Kenilworth Castle, Warwickshire, England, c. 1870s. Adolphe Braun (French, 1812–1877). Mammoth untrimmed carbon print; image: 38.1 x 47.9 cm (15 x 18 7/8 in.); paper: 39.9 x 50.1 cm (15 11/16 x 19 3/4 in.). The Cleveland Museum of Art, Gift of Michael Mattis and Judith Hochberg, 2021.62",
+      "current_location": null,
+      "title": "Kenilworth Castle, Warwickshire, England",
+      "creation_date": "c. 1870s",
+      "creation_date_earliest": 1865,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France"
+      ],
+      "technique": "mammoth untrimmed carbon print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - French 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 38.1 x 47.9 cm (15 x 18 7/8 in.); Paper: 39.9 x 50.1 cm (15 11/16 x 19 3/4 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.381,
+          "width": 0.479
+        },
+        "paper": {
+          "height": 0.399,
+          "width": 0.501
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Set of numbers imprinted in margin on recto, left side",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Michael Mattis and Judith Hochberg, Scarsdale, NY",
+          "citations": [],
+          "footnotes": null,
+          "date": "?-2021",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "June 7, 2021",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Kenilworth Castle comprises five centuries of English military and civil architecture from a medieval fortress to an Elizabethan palace.",
+      "description": "Kenilworth Castle has been a tourist attraction since the late 1700s. It gained an even larger audience when it became the subject of Sir Walter Scott's popular historical romance novel <em>Kenilworth </em>in1821.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q107378545"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2021.62-kenilworth-castle-wa"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2021.62",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2021.62/2021.62_web.jpg",
+          "width": "900",
+          "height": "722",
+          "filesize": "304612",
+          "filename": "2021.62_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2021.62/2021.62_print.jpg",
+          "width": "3400",
+          "height": "2729",
+          "filesize": "2914973",
+          "filename": "2021.62_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2021.62/2021.62_full.tif",
+          "width": "10576",
+          "height": "8489",
+          "filesize": "269366534",
+          "filename": "2021.62_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2021-06-24T14:43:22",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.62/2021.62_alt0_web.jpg",
+            "width": "900",
+            "height": "722",
+            "filesize": "162518"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.62/2021.62_alt0_print.jpg",
+            "width": "3400",
+            "height": "2729",
+            "filesize": "1953687"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.62/2021.62_alt0_full.tif",
+            "width": "10575",
+            "height": "8488",
+            "filesize": "269305786"
+          }
+        }
+      ],
+      "creditline": "Gift of Michael Mattis and Judith Hochberg",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 439494,
+      "creators": [
+        {
+          "id": 274,
+          "description": "Adolphe Braun (French, 1812–1877)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Adolphe Braun French, 1812-1877\r\n\r\nAdolphe Braun, a French textile designer born in Besançon and trained in Paris, opened his own studio in Dornach, Alsace, before becoming involved in photography in the early 1850s. He produced several early floral textile designs that were published as lithographs. In 1853 Braun began work on a large album of some 300 photographic still-life studies of flowers, intended as aids for artists in the field of decorative arts. The work met with such success at the 1855 Exposition Universelle in Paris that he left the field of design for photography. Braun's carefully executed still lifes are considered to be among the finest ever done.\r\n\tFrom the mid-1850s on, Braun's firm, Adolphe Braun et Cie., later headed by his son Gaston (1845–1928), became one of the world's largest studios and publishers of topographical views and of reproductions of works of art. In the latter effort, their importance was in part due to Gaston's success with the orthochromatic process, in which photographic reproductions retained a tonal range very close to that of the original work of art. Braun et Cie. were the official photographers to Napoléon III and Pope Pius IX. Their reproductions of works in the Louvre, the Sistine Chapel, and many other subjects in architecture, sculpture, painting, and drawing, sometimes using the more permanent carbon or Woodburytype processes, were offered in all sizes and formats, and became the standard in their field. The number of negatives taken by the Brauns or their operators was variously estimated in 1870 to be between 4,000 and 8,000. The Brauns were members of the Société française de photographie. Both were awarded the French Legion of Honor-Adolphe in 1860, and Gaston in 1892. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1812",
+          "death_year": "1877",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2021-06-07T04:00:00Z",
+      "sortable_date": 1865,
+      "date_added_to_oa": null,
+      "date_text": "c. 1870s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:31.341000"
+    },
+    {
+      "id": 687547,
+      "accession_number": "2024.142",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Lakshmana Temple, Khajuraho, Madhya Pradesh, India, 2000. Masumi Hayashi (American, 1945–2006). Panoramic photocollage of Fuji Crystal Archive prints; image: 95.9 x 59.7 cm (37 3/4 x 23 1/2 in.); mount: 114.9 x 78.7 cm (45 1/4 x 31 in.). The Cleveland Museum of Art, Gift of Dean A. Keesey (Estate of Dr. Masumi Hayashi), 2024.142. © Masumi Hayashi Foundation 2023",
+      "current_location": null,
+      "title": "Lakshmana Temple, Khajuraho, Madhya Pradesh, India",
+      "creation_date": "2000",
+      "creation_date_earliest": 2000,
+      "creation_date_latest": 2000,
+      "artists_tags": [
+        "Asian American",
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "Panoramic photocollage of Fuji Crystal Archive prints",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 95.9 x 59.7 cm (37 3/4 x 23 1/2 in.); Mount: 114.9 x 78.7 cm (45 1/4 x 31 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.959,
+          "width": 0.597
+        },
+        "mount": {
+          "height": 1.149,
+          "width": 0.787
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Masumi Hayashi Foundation 2023",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The Lakshmana temple at Khajuraho is one of the most ideal examples of medieval north Indian temple architecture still standing.",
+      "description": "Masumi Hayashi’s image provides an experiential view of the context from which many sculptures in the museum’s historical South Asian collections have come. The meaning of the Hindu temple as an abstraction of the creation of the cosmos through time, as manifest in moldings and “vibrations” of the architecture, resonates with the way Hayashi creates a single image by combining a number of individual shots, each a different slice of time.",
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.142",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Dean A. Keesey (Estate of Dr. Masumi Hayashi)",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 687547,
+      "creators": [
+        {
+          "id": 473,
+          "description": "Masumi Hayashi (American, 1945–2006)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Masumi Hayashi American, 1945-2006 Masumi Hayashi (born in Rivers, Arizona) is recognized for her panoramic photocollages -- pictures of space \"remapped\" to address cultural, political, and environmental concerns. She chooses as subjects toxic waste sites, abandoned industrial structures, and prisons, photographing with a rotating camera to produce dozens of small images. Commercially developed, the photographs are then reconfigured into large-scale grids. In 1995 Hayashi began work on a project to photograph her birthplace at the Gila River Relocation Center. Because the center was an internment camp for Japanese Americans during World War II, the subject is charged with both personal and political associations for the artist, who has expanded her single-medium approach to incorporate tape-recorded oral histories with the intent of translating the project onto cd-rom. Hayashi has worked as a freelance artist and graphic designer since 1977, operating her own company, Custom Picture Post Card Co. Educated at Florida State University (B.A., 1975; M.F.A., photography, 1977), she has taught at Loyola Marymount College (1983), the Cleveland Institute of Art (1986), and, since 1982, Cleveland State University. A regular participant and award-winner in the Cleveland Museum of Art's May Show, a regional juried exhibition, Hayashi has also received the Florida Craftsman Award (1976), an artist-in-residency at the J. M. Kohler Art Center, Sheboygan, Wisconsin (1985), and a Cleveland Visual Artist's Award (1994). She has also been awarded a number of grants from the arts councils of Florida (1980) and Ohio (1988, 1989, 1995, 1996). Hayashi is active as a curator and lecturer, frequently participating in panel discussions across the United States. She lives in Cleveland. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1945",
+          "death_year": "2006",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-12-17T05:00:00Z",
+      "sortable_date": 2000,
+      "date_added_to_oa": null,
+      "date_text": "2000",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:15.672000"
+    },
+    {
+      "id": 615492,
+      "accession_number": "2023.133",
+      "share_license_status": "Copyrighted",
+      "tombstone": "University Circle: Fine Arts Garden, Snow, Cleveland Museum of Art, 2007, printed 2008. Garie Waltzer (American, 1947-). Inkjet print; image: 33 x 33 cm (13 x 13 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, 2023.133",
+      "current_location": null,
+      "title": "Fine Arts Garden, Snow, Cleveland Museum of Art",
+      "series": "University Circle",
+      "creation_date": "2007, printed 2008",
+      "creation_date_earliest": 2007,
+      "creation_date_latest": 2007,
+      "artists_tags": [
+        "female",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "inkjet print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 33 x 33 cm (13 x 13 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.33,
+          "width": 0.33
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Garie Waltzer (the artist) [1947–], Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation Collection, Cleveland, OH, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007–23",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 11, 2023–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Cleveland’s University Circle neighborhood, which encompasses around 550 acres, contains numerous institutions and businesses that employ 30,000 people.",
+      "description": "Cleveland artist Garie Waltzer was commissioned to photograph University Circle for the Gund Foundation Annual Report in 2007. Her densely toned black-and-white photographs, many shot from elevated vantage points and employing deep vistas, reveal the Circle’s underlying structure: a graceful interweaving of nature and architecture united by elegantly drawn circulation patterns to produce a harmonious convergence of place and populace.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q123115884"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "George Gund Foundation, and Garie Waltzer. The George Gund Foundation: 2007 Annual Report. Cleveland: George Gund Foundation, 2007.",
+          "page_number": "",
+          "url": "https://gundfoundation.org/wp-content/uploads/2019/11/Gund-Annual-Report-2007.pdf"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2023.133",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The George Gund Foundation Collection in honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 615492,
+      "creators": [
+        {
+          "id": 54764,
+          "description": "Garie Waltzer (American, 1947-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2023-09-11T04:00:00Z",
+      "sortable_date": 2007,
+      "date_added_to_oa": null,
+      "date_text": "2007, printed 2008",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:57.578000"
+    },
+    {
+      "id": 615494,
+      "accession_number": "2023.135",
+      "share_license_status": "Copyrighted",
+      "tombstone": "University Circle: Overlooking Epworth-Euclid United Methodist Church, East View, 2007, printed 2008. Garie Waltzer (American, 1947-). Inkjet print; image: 33 x 33 cm (13 x 13 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, 2023.135",
+      "current_location": null,
+      "title": "Overlooking Epworth-Euclid United Methodist Church, East View",
+      "series": "University Circle",
+      "creation_date": "2007, printed 2008",
+      "creation_date_earliest": 2007,
+      "creation_date_latest": 2007,
+      "artists_tags": [
+        "female",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "inkjet print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 33 x 33 cm (13 x 13 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.33,
+          "width": 0.33
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Garie Waltzer (the artist) [1947–], Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation Collection, Cleveland, OH, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007–23",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 11, 2023–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Cleveland’s University Circle neighborhood, which encompasses around 550 acres, contains numerous institutions and businesses that employ 30,000 peop",
+      "description": "Cleveland artist Garie Waltzer was commissioned to photograph University Circle for the Gund Foundation Annual Report in 2007. Her densely toned black-and-white photographs, many shot from elevated vantage points and employing deep vistas, reveal the Circle’s underlying structure: a graceful interweaving of nature and architecture united by elegantly drawn circulation patterns to produce a harmonious convergence of place and populace.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q123115887"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "George Gund Foundation, and Garie Waltzer. The George Gund Foundation: 2007 Annual Report. Cleveland: George Gund Foundation, 2007.",
+          "page_number": null,
+          "url": "https://gundfoundation.org/wp-content/uploads/2019/11/Gund-Annual-Report-2007.pdf"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2023.135",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The George Gund Foundation Collection in honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 615494,
+      "creators": [
+        {
+          "id": 54764,
+          "description": "Garie Waltzer (American, 1947-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2023-09-11T04:00:00Z",
+      "sortable_date": 2007,
+      "date_added_to_oa": null,
+      "date_text": "2007, printed 2008",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:05:44.879000"
+    },
+    {
+      "id": 440597,
+      "accession_number": "2022.72",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Hungarian Memory: Heavy Burden, Esztergom, 1916, printed 1980. André Kertész (American, 1894–1985). Gelatin silver print; image: 18.7 x 24.8 cm (7 3/8 x 9 3/4 in.); paper: 20.2 x 25.3 cm (7 15/16 x 9 15/16 in.). The Cleveland Museum of Art, Gift of Alan and Monah L. Gettner, 2022.72",
+      "current_location": null,
+      "title": "Heavy Burden, Esztergom",
+      "series": "Hungarian Memory",
+      "creation_date": "1916, printed 1980",
+      "creation_date_earliest": 1916,
+      "creation_date_latest": 1916,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 18.7 x 24.8 cm (7 3/8 x 9 3/4 in.); Paper: 20.2 x 25.3 cm (7 15/16 x 9 15/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.187,
+          "width": 0.248
+        },
+        "paper": {
+          "height": 0.202,
+          "width": 0.253
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"A Kertesz (signed)\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Alan and Monah L. Gettner (publishers), New York, NY, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1980-2021",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "June 6, 2022-",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "André Kertész’s photographs of Hungary, shot between 1912 and 1925, serve as a visual memoir of the artist’s early adult years.",
+      "description": "When Kertész was wounded in World War I, he was sent to Esztergom to recover. The town, which was the capital and royal residence of Hungarian kings until the mid-13th century, had fine examples of medieval and baroque architecture. Kertész chose to photograph this ramshackle, rustic corner instead. The difficulty of life there is mirrored in the struggles of the young girl carrying two buckets of water up a steep, unpaved path.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117246790"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Kertész, André, and Hilton Kramer. Hungarian Memories. 1982.",
+          "page_number": "",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/2022.72",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Alan and Monah L. Gettner",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 440597,
+      "creators": [
+        {
+          "id": 180,
+          "description": "André Kertész (American, 1894–1985)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "André Kertész American, b. Austria-Hungary, 1894-1985 André Kertész was one of the first photographers to work with the small, 35mm camera, becoming famous for his skill at capturing the fleeting moments of everyday life. In 1911 he bought his first camera and began taking photographs in his native Budapest and the surrounding countryside. The following year, after graduating from Budapest's Academy of Commerce, Kertész took a job as a clerk at the Budapest stock exchange. His interest in photography continued, and he began making spontaneous photographic studies of the city's people and street life. Kertész also took photographs recording the daily life of his fellow soldiers during his service in the Austro-Hungarian army during World War I. After his discharge in 1918, he returned to Budapest and worked there until 1925. He moved to Paris, establishing himself as a freelance photographer, and soon became a member of the avant-garde. His work was published in a variety of magazines and newspapers, including the Münchner Illustrierte Presse, Berliner Illustrierte Zeitung, Uhu, Vu, the London Sunday Times, and L'Esprit nouveau. In 1927 he had his first exhibition at the progressive Galerie au Sacre du Printemps and two years later took part in the Film und Foto show in Stuttgart. Kertész became known for his candid photography and was recognized as a leader in modern, subjective photojournalism. In the early 1930s he also made his well-known series called Distortions, featuring almost 200 studies of the nude female figure reflected in a parabolic mirror. In 1936 Kertész came to New York to work for Keystone Studios under a one-year contract. He remained in the city, producing pictures on a freelance basis until joining the staff of Condé Nast Publications in 1949. Following his retirement in 1962, Kertész focused on his own work, remaining active as a photographer until his death. Over the years he published a number of books and was featured in many exhibitions and publications, including André Kertész: Of Paris and New York, a major show organized by the Art Institute of Chicago and the Metropolitan Museum of Art, New York (1985). M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1894",
+          "death_year": "1985",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 68258,
+          "description": "Hyperion Press",
+          "extent": "printed by",
+          "qualifier": null,
+          "role": "printer",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": false,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2022-06-06T04:00:00Z",
+      "sortable_date": 1916,
+      "date_added_to_oa": null,
+      "date_text": "1916, printed 1980",
+      "collapse_artists": true,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:02.034000"
+    },
+    {
+      "id": 615493,
+      "accession_number": "2023.134",
+      "share_license_status": "Copyrighted",
+      "tombstone": "University Circle: Cleveland Museum of Natural History, Ralph Perkins Wildlife Center and Woods Garden (Eagles Nest), 2007, printed 2008. Garie Waltzer (American, 1947-). Inkjet print; image: 33 x 33 cm (13 x 13 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, 2023.134",
+      "current_location": null,
+      "title": "Cleveland Museum of Natural History, Ralph Perkins Wildlife Center and Woods Garden (Eagles Nest)",
+      "series": "University Circle",
+      "creation_date": "2007, printed 2008",
+      "creation_date_earliest": 2007,
+      "creation_date_latest": 2007,
+      "artists_tags": [
+        "female",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "inkjet print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 33 x 33 cm (13 x 13 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.33,
+          "width": 0.33
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Garie Waltzer (the artist) [1947–], Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation Collection, Cleveland, OH, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007–23",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 11, 2023–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Cleveland’s University Circle neighborhood, which encompasses around 550 acres, contains numerous institutions and businesses that employ 30,000 people.",
+      "description": "Cleveland artist Garie Waltzer was commissioned to photograph University Circle for the Gund Foundation Annual Report in 2007. Her densely toned black-and-white photographs, many shot from elevated vantage points and employing deep vistas, reveal the Circle’s underlying structure: a graceful interweaving of nature and architecture united by elegantly drawn circulation patterns to produce a harmonious convergence of place and populace.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q123115885"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "George Gund Foundation, and Garie Waltzer. The George Gund Foundation: 2007 Annual Report. Cleveland: George Gund Foundation, 2007.",
+          "page_number": null,
+          "url": "https://gundfoundation.org/wp-content/uploads/2019/11/Gund-Annual-Report-2007.pdf"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2023.134",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The George Gund Foundation Collection in honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 615493,
+      "creators": [
+        {
+          "id": 54764,
+          "description": "Garie Waltzer (American, 1947-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2023-09-11T04:00:00Z",
+      "sortable_date": 2007,
+      "date_added_to_oa": null,
+      "date_text": "2007, printed 2008",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:04:58.631000"
+    },
+    {
+      "id": 615503,
+      "accession_number": "2023.144",
+      "share_license_status": "Copyrighted",
+      "tombstone": "University Circle: Fine Arts Garden #3, Cleveland Museum of Art, Overlooking Wade Lagoon, 2007, printed 2008. Garie Waltzer (American, 1947-). Inkjet print; image: 33 x 33 cm (13 x 13 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, 2023.144",
+      "current_location": null,
+      "title": "Fine Arts Garden #3, Cleveland Museum of Art, Overlooking Wade Lagoon",
+      "series": "University Circle",
+      "creation_date": "2007, printed 2008",
+      "creation_date_earliest": 2007,
+      "creation_date_latest": 2007,
+      "artists_tags": [
+        "female",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "inkjet print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 33 x 33 cm (13 x 13 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.33,
+          "width": 0.33
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Garie Waltzer (the artist) [1947–], Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation Collection, Cleveland, OH, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007–23",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 11, 2023–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Cleveland’s University Circle neighborhood, which encompasses around 550 acres, contains numerous institutions and businesses that employ 30,000 people.",
+      "description": "Cleveland artist Garie Waltzer was commissioned to photograph University Circle for the Gund Foundation Annual Report in 2007. Her densely toned black-and-white photographs, many shot from elevated vantage points and employing deep vistas, reveal the Circle’s underlying structure: a graceful interweaving of nature and architecture united by elegantly drawn circulation patterns to produce a harmonious convergence of place and populace.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q123115903"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "George Gund Foundation, and Garie Waltzer. The George Gund Foundation: 2007 Annual Report. Cleveland: George Gund Foundation, 2007.",
+          "page_number": null,
+          "url": "https://gundfoundation.org/wp-content/uploads/2019/11/Gund-Annual-Report-2007.pdf"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2023.144",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The George Gund Foundation Collection in honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 615503,
+      "creators": [
+        {
+          "id": 54764,
+          "description": "Garie Waltzer (American, 1947-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2023-09-11T04:00:00Z",
+      "sortable_date": 2007,
+      "date_added_to_oa": null,
+      "date_text": "2007, printed 2008",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:10.693000"
+    },
+    {
+      "id": 615498,
+      "accession_number": "2023.139",
+      "share_license_status": "Copyrighted",
+      "tombstone": "University Circle: Cleveland Botanical Garden, Western Reserve Herb Society Garden, 2007, printed 2008. Garie Waltzer (American, 1947-). Inkjet print; image: 33 x 33 cm (13 x 13 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, 2023.139",
+      "current_location": null,
+      "title": "Cleveland Botanical Garden, Western Reserve Herb Society Garden",
+      "series": "University Circle",
+      "creation_date": "2007, printed 2008",
+      "creation_date_earliest": 2007,
+      "creation_date_latest": 2007,
+      "artists_tags": [
+        "female",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "inkjet print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 33 x 33 cm (13 x 13 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.33,
+          "width": 0.33
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Garie Waltzer (the artist) [1947–], Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation Collection, Cleveland, OH, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007–23",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 11, 2023–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Cleveland’s University Circle neighborhood, which encompasses around 550 acres, contains numerous institutions and businesses that employ 30,000 people.",
+      "description": "Cleveland artist Garie Waltzer was commissioned to photograph University Circle for the Gund Foundation Annual Report in 2007. Her densely toned black-and-white photographs, many shot from elevated vantage points and employing deep vistas, reveal the Circle’s underlying structure: a graceful interweaving of nature and architecture united by elegantly drawn circulation patterns to produce a harmonious convergence of place and populace.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q123115893"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "George Gund Foundation, and Garie Waltzer. The George Gund Foundation: 2007 Annual Report. Cleveland: George Gund Foundation, 2007.",
+          "page_number": null,
+          "url": "https://gundfoundation.org/wp-content/uploads/2019/11/Gund-Annual-Report-2007.pdf"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2023.139",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The George Gund Foundation Collection in honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 615498,
+      "creators": [
+        {
+          "id": 54764,
+          "description": "Garie Waltzer (American, 1947-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2023-09-11T04:00:00Z",
+      "sortable_date": 2007,
+      "date_added_to_oa": null,
+      "date_text": "2007, printed 2008",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:22.899000"
+    },
+    {
+      "id": 615499,
+      "accession_number": "2023.140",
+      "share_license_status": "Copyrighted",
+      "tombstone": "University Circle: Cleveland Institute of Music, Mixon Hall, 2007, printed 2008. Garie Waltzer (American, 1947-). Inkjet print; image: 33 x 33 cm (13 x 13 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, 2023.140",
+      "current_location": null,
+      "title": "Cleveland Institute of Music, Mixon Hall",
+      "series": "University Circle",
+      "creation_date": "2007, printed 2008",
+      "creation_date_earliest": 2007,
+      "creation_date_latest": 2007,
+      "artists_tags": [
+        "female",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "inkjet print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 33 x 33 cm (13 x 13 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.33,
+          "width": 0.33
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Garie Waltzer (the artist) [1947–], Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation Collection, Cleveland, OH, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007–23",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 11, 2023–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Cleveland’s University Circle neighborhood, which encompasses around 550 acres, contains numerous institutions and businesses that employ 30,000 people.",
+      "description": "Cleveland artist Garie Waltzer was commissioned to photograph University Circle for the Gund Foundation Annual Report in 2007. Her densely toned black-and-white photographs, many shot from elevated vantage points and employing deep vistas, reveal the Circle’s underlying structure: a graceful interweaving of nature and architecture united by elegantly drawn circulation patterns to produce a harmonious convergence of place and populace.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q123115895"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "George Gund Foundation, and Garie Waltzer. The George Gund Foundation: 2007 Annual Report. Cleveland: George Gund Foundation, 2007.",
+          "page_number": null,
+          "url": "https://gundfoundation.org/wp-content/uploads/2019/11/Gund-Annual-Report-2007.pdf"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2023.140",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The George Gund Foundation Collection in honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 615499,
+      "creators": [
+        {
+          "id": 54764,
+          "description": "Garie Waltzer (American, 1947-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2023-09-11T04:00:00Z",
+      "sortable_date": 2007,
+      "date_added_to_oa": null,
+      "date_text": "2007, printed 2008",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:14.807000"
+    },
+    {
+      "id": 615501,
+      "accession_number": "2023.142",
+      "share_license_status": "Copyrighted",
+      "tombstone": "University Circle: Overlooking Case Western Reserve University, Weatherhead School of Management, Northwest View, 2007, printed 2008. Garie Waltzer (American, 1947-). Inkjet print; image: 33 x 33 cm (13 x 13 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, 2023.142",
+      "current_location": null,
+      "title": "Overlooking Case Western Reserve University, Weatherhead School of Management, Northwest View",
+      "series": "University Circle",
+      "creation_date": "2007, printed 2008",
+      "creation_date_earliest": 2007,
+      "creation_date_latest": 2007,
+      "artists_tags": [
+        "female",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "inkjet print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 33 x 33 cm (13 x 13 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.33,
+          "width": 0.33
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Garie Waltzer (the artist) [1947–], Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation Collection, Cleveland, OH, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007–23",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 11, 2023–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Cleveland’s University Circle neighborhood, which encompasses around 550 acres, contains numerous institutions and businesses that employ 30,000 people.",
+      "description": "Cleveland artist Garie Waltzer was commissioned to photograph University Circle for the Gund Foundation Annual Report in 2007. Her densely toned black-and-white photographs, many shot from elevated vantage points and employing deep vistas, reveal the Circle’s underlying structure: a graceful interweaving of nature and architecture united by elegantly drawn circulation patterns to produce a harmonious convergence of place and populace.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q123115897"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "George Gund Foundation, and Garie Waltzer. The George Gund Foundation: 2007 Annual Report. Cleveland: George Gund Foundation, 2007.",
+          "page_number": null,
+          "url": "https://gundfoundation.org/wp-content/uploads/2019/11/Gund-Annual-Report-2007.pdf"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2023.142",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The George Gund Foundation Collection in honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 615501,
+      "creators": [
+        {
+          "id": 54764,
+          "description": "Garie Waltzer (American, 1947-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2023-09-11T04:00:00Z",
+      "sortable_date": 2007,
+      "date_added_to_oa": null,
+      "date_text": "2007, printed 2008",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:40.638000"
+    },
+    {
+      "id": 615497,
+      "accession_number": "2023.138",
+      "share_license_status": "Copyrighted",
+      "tombstone": "University Circle: Euclid Avenue at Adelbert Road, AIDS Walk, 2007, printed 2008. Garie Waltzer (American, 1947-). Inkjet print; image: 33 x 33 cm (13 x 13 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, 2023.138",
+      "current_location": null,
+      "title": "Euclid Avenue at Adelbert Road, AIDS Walk",
+      "series": "University Circle",
+      "creation_date": "2007, printed 2008",
+      "creation_date_earliest": 2007,
+      "creation_date_latest": 2007,
+      "artists_tags": [
+        "female",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "inkjet print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 33 x 33 cm (13 x 13 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.33,
+          "width": 0.33
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Garie Waltzer (the artist) [1947–], Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation Collection, Cleveland, OH, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007–23",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 11, 2023–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Cleveland’s University Circle neighborhood, which encompasses around 550 acres, contains numerous institutions and businesses that employ 30,000 people.",
+      "description": "Cleveland artist Garie Waltzer was commissioned to photograph University Circle for the Gund Foundation Annual Report in 2007. Her densely toned black-and-white photographs, many shot from elevated vantage points and employing deep vistas, reveal the Circle’s underlying structure: a graceful interweaving of nature and architecture united by elegantly drawn circulation patterns to produce a harmonious convergence of place and populace.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q123115891"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "George Gund Foundation, and Garie Waltzer. The George Gund Foundation: 2007 Annual Report. Cleveland: George Gund Foundation, 2007.",
+          "page_number": null,
+          "url": "https://gundfoundation.org/wp-content/uploads/2019/11/Gund-Annual-Report-2007.pdf"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2023.138",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The George Gund Foundation Collection in honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 615497,
+      "creators": [
+        {
+          "id": 54764,
+          "description": "Garie Waltzer (American, 1947-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2023-09-11T04:00:00Z",
+      "sortable_date": 2007,
+      "date_added_to_oa": null,
+      "date_text": "2007, printed 2008",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:38.582000"
+    },
+    {
+      "id": 615502,
+      "accession_number": "2023.143",
+      "share_license_status": "Copyrighted",
+      "tombstone": "University Circle: Case Western Reserve University, Mather Quad, 2007, printed 2008. Garie Waltzer (American, 1947-). Inkjet print; image: 33 x 33 cm (13 x 13 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, 2023.143",
+      "current_location": null,
+      "title": "Case Western Reserve University, Mather Quad",
+      "series": "University Circle",
+      "creation_date": "2007, printed 2008",
+      "creation_date_earliest": 2007,
+      "creation_date_latest": 2007,
+      "artists_tags": [
+        "female",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "inkjet print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 33 x 33 cm (13 x 13 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.33,
+          "width": 0.33
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Garie Waltzer (the artist) [1947–], Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation Collection, Cleveland, OH, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007–23",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 11, 2023–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Cleveland’s University Circle neighborhood, which encompasses around 550 acres, contains numerous institutions and businesses that employ 30,000 people.",
+      "description": "Cleveland artist Garie Waltzer was commissioned to photograph University Circle for the Gund Foundation Annual Report in 2007. Her densely toned black-and-white photographs, many shot from elevated vantage points and employing deep vistas, reveal the Circle’s underlying structure: a graceful interweaving of nature and architecture united by elegantly drawn circulation patterns to produce a harmonious convergence of place and populace.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q123115899"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "George Gund Foundation, and Garie Waltzer. The George Gund Foundation: 2007 Annual Report. Cleveland: George Gund Foundation, 2007.",
+          "page_number": null,
+          "url": "https://gundfoundation.org/wp-content/uploads/2019/11/Gund-Annual-Report-2007.pdf"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2023.143",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The George Gund Foundation Collection in honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 615502,
+      "creators": [
+        {
+          "id": 54764,
+          "description": "Garie Waltzer (American, 1947-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2023-09-11T04:00:00Z",
+      "sortable_date": 2007,
+      "date_added_to_oa": null,
+      "date_text": "2007, printed 2008",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:36.247000"
+    },
+    {
+      "id": 615495,
+      "accession_number": "2023.136",
+      "share_license_status": "Copyrighted",
+      "tombstone": "University Circle: Fine Arts Garden #4, Cleveland Museum of Art, 2007, printed 2008. Garie Waltzer (American, 1947-). Inkjet print; image: 33 x 33 cm (13 x 13 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, 2023.136",
+      "current_location": null,
+      "title": "Fine Arts Garden #4, Cleveland Museum of Art",
+      "series": "University Circle",
+      "creation_date": "2007, printed 2008",
+      "creation_date_earliest": 2007,
+      "creation_date_latest": 2007,
+      "artists_tags": [
+        "female",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "inkjet print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 33 x 33 cm (13 x 13 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.33,
+          "width": 0.33
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Garie Waltzer (the artist) [1947–], Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation Collection, Cleveland, OH, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007–23",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 11, 2023–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Cleveland’s University Circle neighborhood, which encompasses around 550 acres, contains numerous institutions and businesses that employ 30,000 people.",
+      "description": "Cleveland artist Garie Waltzer was commissioned to photograph University Circle for the Gund Foundation Annual Report in 2007. Her densely toned black-and-white photographs, many shot from elevated vantage points and employing deep vistas, reveal the Circle’s underlying structure: a graceful interweaving of nature and architecture united by elegantly drawn circulation patterns to produce a harmonious convergence of place and populace.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q123115888"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "George Gund Foundation, and Garie Waltzer. The George Gund Foundation: 2007 Annual Report. Cleveland: George Gund Foundation, 2007.",
+          "page_number": null,
+          "url": "https://gundfoundation.org/wp-content/uploads/2019/11/Gund-Annual-Report-2007.pdf"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2023.136",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The George Gund Foundation Collection in honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 615495,
+      "creators": [
+        {
+          "id": 54764,
+          "description": "Garie Waltzer (American, 1947-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2023-09-11T04:00:00Z",
+      "sortable_date": 2007,
+      "date_added_to_oa": null,
+      "date_text": "2007, printed 2008",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:30.886000"
+    },
+    {
+      "id": 615500,
+      "accession_number": "2023.141",
+      "share_license_status": "Copyrighted",
+      "tombstone": "University Circle: Fine Arts Garden #3, Cleveland Museum of Art, 2007, printed 2008. Garie Waltzer (American, 1947-). Inkjet print; image: 33 x 33 cm (13 x 13 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, 2023.141",
+      "current_location": null,
+      "title": "Fine Arts Garden #3, Cleveland Museum of Art",
+      "series": "University Circle",
+      "creation_date": "2007, printed 2008",
+      "creation_date_earliest": 2007,
+      "creation_date_latest": 2007,
+      "artists_tags": [
+        "female",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "inkjet print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 33 x 33 cm (13 x 13 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.33,
+          "width": 0.33
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Garie Waltzer (the artist) [1947–], Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation Collection, Cleveland, OH, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007–23",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 11, 2023–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Cleveland’s University Circle neighborhood, which encompasses around 550 acres, contains numerous institutions and businesses that employ 30,000 people.",
+      "description": "Cleveland artist Garie Waltzer was commissioned to photograph University Circle for the Gund Foundation Annual Report in 2007. Her densely toned black-and-white photographs, many shot from elevated vantage points and employing deep vistas, reveal the Circle’s underlying structure: a graceful interweaving of nature and architecture united by elegantly drawn circulation patterns to produce a harmonious convergence of place and populace.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q123115896"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "George Gund Foundation, and Garie Waltzer. The George Gund Foundation: 2007 Annual Report. Cleveland: George Gund Foundation, 2007.",
+          "page_number": null,
+          "url": "https://gundfoundation.org/wp-content/uploads/2019/11/Gund-Annual-Report-2007.pdf"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2023.141",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The George Gund Foundation Collection in honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 615500,
+      "creators": [
+        {
+          "id": 54764,
+          "description": "Garie Waltzer (American, 1947-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2023-09-11T04:00:00Z",
+      "sortable_date": 2007,
+      "date_added_to_oa": null,
+      "date_text": "2007, printed 2008",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:21.999000"
+    },
+    {
+      "id": 615496,
+      "accession_number": "2023.137",
+      "share_license_status": "Copyrighted",
+      "tombstone": "University Circle: Overlooking Case Western Reserve University Interfaith Plaza, 2007, printed 2008. Garie Waltzer (American, 1947-). Inkjet print; image: 33 x 33 cm (13 x 13 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, 2023.137",
+      "current_location": null,
+      "title": "Overlooking Case Western Reserve University Interfaith Plaza",
+      "series": "University Circle",
+      "creation_date": "2007, printed 2008",
+      "creation_date_earliest": 2007,
+      "creation_date_latest": 2007,
+      "artists_tags": [
+        "female",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "inkjet print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 33 x 33 cm (13 x 13 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.33,
+          "width": 0.33
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Garie Waltzer (the artist) [1947–], Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation Collection, Cleveland, OH, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007–23",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 11, 2023–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Cleveland’s University Circle neighborhood, which encompasses around 550 acres, contains numerous institutions and businesses that employ 30,000 peop",
+      "description": "Cleveland artist Garie Waltzer was commissioned to photograph University Circle for the Gund Foundation Annual Report in 2007. Her densely toned black-and-white photographs, many shot from elevated vantage points and employing deep vistas, reveal the Circle’s underlying structure: a graceful interweaving of nature and architecture united by elegantly drawn circulation patterns to produce a harmonious convergence of place and populace.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q123115890"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "George Gund Foundation, and Garie Waltzer. The George Gund Foundation: 2007 Annual Report. Cleveland: George Gund Foundation, 2007.",
+          "page_number": null,
+          "url": "https://gundfoundation.org/wp-content/uploads/2019/11/Gund-Annual-Report-2007.pdf"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2023.137",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The George Gund Foundation Collection in honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 615496,
+      "creators": [
+        {
+          "id": 54764,
+          "description": "Garie Waltzer (American, 1947-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2023-09-11T04:00:00Z",
+      "sortable_date": 2007,
+      "date_added_to_oa": null,
+      "date_text": "2007, printed 2008",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:47.345000"
+    },
+    {
+      "id": 153145,
+      "accession_number": "1986.15",
+      "share_license_status": "CC0",
+      "tombstone": "Amiens, 1855. Édouard Baldus (French, 1813–1889). Albumen print from wet collodion negative; matted: 50.8 x 61 cm (20 x 24 in.). The Cleveland Museum of Art, Andrew R. and Martha Holden Jennings Fund, 1986.15",
+      "current_location": null,
+      "title": "Amiens",
+      "creation_date": "1855",
+      "creation_date_earliest": 1855,
+      "creation_date_latest": 1855,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "albumen print from wet collodion negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "Photography",
+      "type": "Photograph",
+      "measurements": "Matted: 50.8 x 61 cm (20 x 24 in.)",
+      "dimensions": {
+        "matted": {
+          "height": 0.508,
+          "width": 0.61
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in negative: \"E. Baldus. N:32. Amiens\"; in black ink: \"E. Baldus [signed]; in pencil: \"CI\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 310034,
+            "title": "Year in Review for 1986",
+            "description": "<i>Year in Review for 1986</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 4-March 15, 1987).",
+            "opening_date": "1987-02-04T05:00:00"
+          },
+          {
+            "id": 178867,
+            "title": "Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art",
+            "description": "<i>Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 26-June 16, 2005).",
+            "opening_date": "2005-02-26T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, February 4 - March 15, 1987:\"Year in Review 1986,\" CMA Bulletin, 74 (February 1987), p. 63, no. 53, repr. p. 52.",
+            "opening_date": "1987-02-04T00:00:00"
+          },
+          {
+            "description": "CMA, July 10 - August 19, 1990: \"The Camera,\" Classroom Level, no exhibition catalogue.",
+            "opening_date": "1990-07-10T00:00:00"
+          },
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; February 26 - June 16, 2005 . \"Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art\".",
+            "opening_date": "2005-02-26T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "This rare, majestic, and sweeping view of the cathedral of Amiens, France, is an outstanding example of Baldus’s genius for photographing architecture. Placing his large view camera at an elevated vantage point, he recorded the dominating and central position of the church, which was undergoing restoration, as it towered above the surrounding village; open landscape is captured in the distance. In this ambitious composition, he carefully rendered the scene’s textural detail, spatial complexity, and subtlety of light. Compare this distant view with the close-up detail of a stone sculpture in LeSecq’s photograph of the same building (CMA 1996.253).",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79938600"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1986.15-amiens"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Turner, Evan H. “The Year in Review for 1986.” <em>The Bulletin of the Cleveland Museum of Art</em> 74, no. 2 (February 1987): 38–79.",
+          "page_number": "Reproduced: p. 53; Mentioned: p. 63, no. 53",
+          "url": "http://www.jstor.org/stable/25159974"
+        },
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 90",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1986.15",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1986.15/1986.15_web.jpg",
+          "width": "1263",
+          "height": "822",
+          "filesize": "786730",
+          "filename": "1986.15_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1986.15/1986.15_print.jpg",
+          "width": "3400",
+          "height": "2212",
+          "filesize": "4908933",
+          "filename": "1986.15_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1986.15/1986.15_full.tif",
+          "width": "6328",
+          "height": "4116",
+          "filesize": "78170324",
+          "filename": "1986.15_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Andrew R. and Martha Holden Jennings Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 153145,
+      "creators": [
+        {
+          "id": 214,
+          "description": "Édouard Baldus (French, 1813–1889)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Édouard Baldus French, b. Prussia, 1813 - 1889\r\n\r\nThe large and regal prints made by Édouard-Denis Baldus are widely agreed to be among the finest photographic images ever produced. After serving as an artillery officer in the Prussian army, Baldus left his native country for France during the 1830s to become a painter. He exhibited his paintings of religious subjects, portraits, and genre scenes in the Paris Salons from 1841 - 51 and was naturalized as a French citizen in 1849, the same year his interests turned to photography.\r\n\tCombining his training in painting with an inquisitive, inventive technical expertise, Baldus produced a body of work of exceptional quality and interest. His subjects included architecture, landscape, and engineering feats. In 1851 the Commission des monuments historiques selected him for the Missions héliographique—a government project that sponsored the photographing of endangered classical and medieval architecture in France. For this important series Baldus produced views of Burgundy, Provence, and the Dauphiné, and the following year he completed a commission for the Ministry of the Interior. In 1855 he began his photography of railroads, some of his most distinctive work. A copy of his album recording the line between Paris and Boulogne was presented to Queen Victoria. He also documented the flooding of the Rhone, as well as construction of the new Louvre and other Paris views.\r\n\tA founding member of the Société héliographique and a member of the Société française de photographie (1857), Baldus exhibited his photographs widely in London, Amsterdam, Edinburgh, Brussels, and Paris and won numerous medals of award. A master printer, he produced combination prints in the early 1850s, frequently retouching his images with pencil and ink. His best work appears most often in specially assembled albums -- such as Les principaux Monuments de la France reproduits en héliogravure par E. Baldus, published in 1875 from plates drawn from earlier negatives. Today, his work continues to be much sought after and to set a standard by which other photographers are judged. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1813",
+          "death_year": "1889",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1986-08-06T00:00:00",
+      "sortable_date": 1855,
+      "date_added_to_oa": null,
+      "date_text": "1855",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:27.820000"
+    },
+    {
+      "id": 161865,
+      "accession_number": "2001.152",
+      "share_license_status": "CC0",
+      "tombstone": "Hoyshaleshvara Temple Sculpture, Halebidu (Halebeedu), 1856–57. Richard Banner Oakeley (British, 1834–1914). Albumenized salt print from waxed paper negative; image: 27.2 x 29.2 cm (10 11/16 x 11 1/2 in.); mounted: 35.3 x 44.4 cm (13 7/8 x 17 1/2 in.); matted: 50.8 x 61 cm (20 x 24 in.). The Cleveland Museum of Art, John L. Severance Fund, 2001.152",
+      "current_location": null,
+      "title": "Hoyshaleshvara Temple Sculpture, Halebidu (Halebeedu)",
+      "creation_date": "1856–57",
+      "creation_date_earliest": 1856,
+      "creation_date_latest": 1857,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "albumenized salt print from waxed paper negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 27.2 x 29.2 cm (10 11/16 x 11 1/2 in.); Mounted: 35.3 x 44.4 cm (13 7/8 x 17 1/2 in.); Matted: 50.8 x 61 cm (20 x 24 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.272,
+          "width": 0.292
+        },
+        "mounted": {
+          "height": 0.353,
+          "width": 0.444
+        },
+        "matted": {
+          "height": 0.508,
+          "width": 0.61
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "written in pencil on recto of mount: \"Q1437\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 184303,
+            "title": "Travel Photography: Early Images of India",
+            "description": "<i>Travel Photography: Early Images of India</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 2-July 17, 2002).",
+            "opening_date": "2002-03-02T00:00:00"
+          },
+          {
+            "id": 299790,
+            "title": "Indian Gallery 242b Rotation – November 2017-April 2018",
+            "description": "<i>Indian Gallery 242b Rotation – November 2017-April 2018</i>. The Cleveland Museum of Art (organizer) (November 10, 2017-April 16, 2018).",
+            "opening_date": "2017-11-10T05:00:00"
+          },
+          {
+            "id": 674335,
+            "title": "Temples and Worship in South Asia",
+            "description": "<i>Temples and Worship in South Asia</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 14, 2024-March 9, 2025).",
+            "opening_date": "2024-09-14T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Charles Isaacs Photographs, Inc., New York, NY, sold to the Cleveland Museum of Art)",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–2001",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2001–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Holysaleswara Temple is a magnificent example of Hindu architecture and sculpture begun during the first half of the 12th century.",
+      "description": "On the recommendation of a friend, Oakeley marched 20 days along treacherous country roads to locate the Hoyshaleshvara Temple in southwestern India. Finding it more beautiful than any other building he had seen in southern India, he framed his subject to capture a sense of the lavish number of vivid sculptures that enliven the temple's walls. <br><br>At the right is the Hindu god Shiva with his wife, the goddess Parvati, seated on his mount, the bull Nandi. At the left, Shiva and Parvati are seated on Mount Kailasha, which a multiarmed demon is attempting to dislodge.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79985166"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2001.152-hoysalesvara-temple",
+          "https://archive.org/details/clevelandart-2001.152-hoyshaleshvara-templ"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2001.152",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2001.152/2001.152_web.jpg",
+          "width": "1171",
+          "height": "893",
+          "filesize": "912636",
+          "filename": "2001.152_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2001.152/2001.152_print.jpg",
+          "width": "3400",
+          "height": "2592",
+          "filesize": "6424979",
+          "filename": "2001.152_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2001.152/2001.152_full.tif",
+          "width": "5000",
+          "height": "3812",
+          "filesize": "57200572",
+          "filename": "2001.152_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 161865,
+      "creators": [
+        {
+          "id": 41229,
+          "description": "Richard Banner Oakeley (British, 1834–1914)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1834",
+          "death_year": "1914",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2001-12-03T00:00:00",
+      "sortable_date": 1856,
+      "date_added_to_oa": null,
+      "date_text": "1856–57",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Hoysalesvara Temple Sculpture, Halebid"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:00.299000"
+    }
+  ]
+}

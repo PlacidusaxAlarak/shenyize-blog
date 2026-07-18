@@ -1,0 +1,127 @@
+{
+  "data": {
+    "id": 156064,
+    "accession_number": "1991.312",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Untitled (Landscape), 1911. Karl F. Struss (American, 1886–1981). Platinum print; image: 9.2 x 11.3 cm (3 5/8 x 4 7/16 in.). The Cleveland Museum of Art, John L. Severance Fund, 1991.312",
+    "current_location": null,
+    "title": "Untitled (Landscape)",
+    "creation_date": "1911",
+    "creation_date_earliest": 1911,
+    "creation_date_latest": 1911,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "platinum print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1900-1950",
+    "type": "Photograph",
+    "measurements": "Image: 9.2 x 11.3 cm (3 5/8 x 4 7/16 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.092,
+        "width": 0.113
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Written in pencil on recto: \"1911\"; in pencil on verso: \"5 [circled]\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 185373,
+          "title": "American Space:  Landscape Photography 1900-1950",
+          "description": "<i>American Space:  Landscape Photography 1900-1950</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 6-May 23, 2001).",
+          "opening_date": "2001-01-06T00:00:00"
+        }
+      ],
+      "legacy": [
+        {
+          "description": "Cleveland, Ohio:  The Cleveland Museum of Art; January 3-May 23, 2001.  \"American Space:  Landscape Photography, 1900-1950.\"",
+          "opening_date": "2001-01-03T00:00:00"
+        }
+      ]
+    },
+    "provenance": [
+      {
+        "description": "Struss Estate",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": null
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "In this picturesque scene, Struss used a soft-focus lens of his own design and the warm gray tones of the platinum medium to express his primary concern, rendering the variations and nuances of light. The photograph's wide tonal range and composition of broad planes emphasize the landscape's expansiveness.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79944950"
+      ],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+        "page_number": "Reproduced: P. 348",
+        "url": ""
+      }
+    ],
+    "url": "https://clevelandart.org/art/1991.312",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "John L. Severance Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 156064,
+    "creators": [
+      {
+        "id": 970,
+        "description": "Karl F. Struss (American, 1886–1981)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "Karl F. Struss American, 1886-1981\r\n\r\nBorn and raised in New York City, Karl Fischer Struss was an important early pictorialist and a cofounder of the Pictorial Photographers of America. He was also a member of the Photo-Secession, publishing his works in Camera Work (April 1912), and a photographer for publications such as Vogue, Vanity Fair, and Harper's Bazaar.\r\n\tA student of Clarence H. White, Struss was influenced by both White and Alvin Langdon Coburn. He developed his own style, however, an elegant synthesis of random qualities with formal composition. Struss experimented with various technical processes. He developed multiple platinum printing to enhance the depth of shadows and in 1909 designed the Struss Pictorial lens, which entered commercial production in 1915.\r\n\tShortly after the First World War, Struss moved to Hollywood, where he became a successful cinematographer. He worked first for Cecil B. De Mille and later freelanced for both independent and major studios until his retirement in 1970. Among his film credits are Ben Hur (1926), Dr. Jekyll and Mr. Hyde (1932), and the Chaplin classics The Great Dictator (1940) and Limelight (1952). In 1928 Struss received an Academy Award for his work on De Mille's film Sunrise. T.W.F.",
+        "name_in_original_language": null,
+        "birth_year": "1886",
+        "death_year": "1981",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1992-02-24T00:00:00",
+    "sortable_date": 1911,
+    "date_added_to_oa": null,
+    "date_text": "1911",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:00:06.070000"
+  }
+}

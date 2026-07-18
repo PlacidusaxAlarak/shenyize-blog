@@ -1,0 +1,394 @@
+{
+  "data": {
+    "id": 144968,
+    "accession_number": "1970.162",
+    "share_license_status": "CC0",
+    "tombstone": "A Home in the Wilderness, 1866. Sanford Robinson Gifford (American, 1823–1880). Oil on canvas; framed: 114.9 x 173.7 x 16.5 cm (45 1/4 x 68 3/8 x 6 1/2 in.); unframed: 76.8 x 135.7 cm (30 1/4 x 53 7/16 in.); former: 96 x 154.5 x 9 cm (37 13/16 x 60 13/16 x 3 9/16 in.). The Cleveland Museum of Art, Mr. and Mrs. William H. Marlatt Fund; The Butkin Foundation; Dorothy Burnham Memorial Collection and various donors by exchange, 1970.162",
+    "current_location": "206 American Landscape",
+    "title": "A Home in the Wilderness",
+    "creation_date": "1866",
+    "creation_date_earliest": 1866,
+    "creation_date_latest": 1866,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "oil on canvas",
+    "support_materials": [],
+    "department": "American Painting and Sculpture",
+    "collection": "American - Painting",
+    "type": "Painting",
+    "measurements": "Framed: 114.9 x 173.7 x 16.5 cm (45 1/4 x 68 3/8 x 6 1/2 in.); Unframed: 76.8 x 135.7 cm (30 1/4 x 53 7/16 in.); Former: 96 x 154.5 x 9 cm (37 13/16 x 60 13/16 x 3 9/16 in.)",
+    "dimensions": {
+      "framed": {
+        "height": 1.149,
+        "width": 1.737,
+        "depth": 0.165
+      },
+      "unframed": {
+        "height": 0.768,
+        "width": 1.357
+      },
+      "former": {
+        "height": 0.96,
+        "width": 1.545,
+        "depth": 0.09
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Signed lower right: SR Gifford. 1866.",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 301391,
+          "title": "Year in Review: 1970",
+          "description": "<i>Year in Review: 1970</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 10-March 7, 1971).",
+          "opening_date": "1971-02-10T05:00:00"
+        },
+        {
+          "id": 207218,
+          "title": "Hudson River School Visions: The Landscapes of Sanford R. Gifford",
+          "description": "<i>Hudson River School Visions: The Landscapes of Sanford R. Gifford</i>. The Metropolitan Museum of Art, New York, NY (organizer) (October 7, 2003-February 8, 2004); Amon Carter Museum, Fort Worth, TX (March 6-May 16, 2004); National Gallery of Art, Landover, MD (June 27-September 26, 2004).",
+          "opening_date": "2003-10-07T00:00:00"
+        }
+      ],
+      "legacy": [
+        {
+          "description": "Paris, Exposition Universelle (1867) as Un Interieur dans le desert, no. 19; as belonging to M. Knoedler",
+          "opening_date": null
+        },
+        {
+          "description": "New York, NY, Metropolitan Museum of Art, Gifford Memorial (1880-81), accompanying publication of Memorial Catalogue.",
+          "opening_date": null
+        },
+        {
+          "description": "Cleveland, OH, Cleveland Museum of Art, Year in Review, 1970 (7 February - 10 March 1971), no cat (see 1971 Bulletin).",
+          "opening_date": "1971-02-07T00:00:00"
+        },
+        {
+          "description": "Santa Barbara, CA, Santa Barbara Museum of Art, America in Art: Fifty Great Paintings Celebrating Fifty Years (6 June - 11 August 1991), p. 40, ill. p. 41",
+          "opening_date": "1991-06-06T00:00:00"
+        },
+        {
+          "description": "Metropolitan Musuem of Art (10/7/2003 - 2/8/2004); Amon Carter Museum (3/6/2004 - 5/16/2004); and National Gallery of Art (6/27/2004 - 9/26/2004): \"Hudson River School: The Landscapes of Sanford R. Gifford\" exh. cat. no. 70, p.172-174.",
+          "opening_date": "2003-10-07T00:00:00"
+        }
+      ]
+    },
+    "provenance": [
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, Ohio",
+        "citations": [],
+        "footnotes": [],
+        "date": "1970-",
+        "sortorder": 1
+      },
+      {
+        "description": "(Sloan & Roman, Inc., New York, NY, sold to the Cleveland Museum of Art)",
+        "citations": [],
+        "footnotes": [],
+        "date": "Late 1960s-1970",
+        "sortorder": 2
+      },
+      {
+        "description": "(The Terry DeLapp Gallery, Los Angeles, CA, sold to Sloan & Roman)1",
+        "citations": [],
+        "footnotes": [
+          "<div><!--block-->1 A hand-typed fact sheet (in CMA curatorial file) presumably produced at the time of the painting’s acquisition in 1970 lists a “John Johnson” in the provenance following the Terry DeLapp Gallery.&nbsp; While it is possible that Johnson, who appears to have owned or bought/sold at least one other Gifford painting, acted as an intermediary or agent in the sale of the painting, DeLapp emphatically states that he sold the painting directly to Sloan &amp; Roman.</div>"
+        ],
+        "date": "c.1960-late1960s",
+        "sortorder": 3
+      },
+      {
+        "description": "(T. Gilbert Brouillette [1906-1970], Staten Island, NY, sold to the Terry DeLapp Gallery) 1",
+        "citations": [],
+        "footnotes": [
+          "<div><!--block-->1 Although Brouillette was a collector as well as a dealer, Terry DeLapp, to whom Brouillette sold the painting, indicates Brouillette acted as a dealer in the sale of this painting.&nbsp; Brouillette’s papers at the Archives of American Art contain no reference to the painting.</div>"
+        ],
+        "date": "Until c. 1960",
+        "sortorder": 4
+      },
+      {
+        "description": "James M. Hartshorne [d. 1887?], New York, NY?",
+        "citations": [],
+        "footnotes": [],
+        "date": "By 1880",
+        "sortorder": 5
+      },
+      {
+        "description": "(M. Knoedler & Co., New York, NY) 1",
+        "citations": [],
+        "footnotes": [
+          "<div><!--block-->1 The painting was exhibited at the Paris Universal Exposition of 1867, and the catalogue lists it as belonging to M. Knoedler, Esq.</div>"
+        ],
+        "date": "By 1867",
+        "sortorder": 6
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "Gifford considered this painting to be one of his finest creations.",
+    "description": "Gifford’s view of Mount Hayes in New Hampshire records human intrusion into a remote landscape. On the left riverbank a log cabin stands amid a recently cleared patch of land with several tree stumps, while figures in its doorway greet a man who has arrived with a canoe of supplies.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q20737705"
+      ],
+      "internet_archive": [
+        "https://archive.org/details/clevelandart-1970.162-a-home-in-the-wilder"
+      ]
+    },
+    "citations": [
+      {
+        "citation": "Terry DeLapp, email to Victoria Sears Goldman, Jan. 7, 2014, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "B. Gertrude Denton, letter to William S. Talbot, April 20, 1971, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Terry DeLapp, email to Victoria Sears Goldman, Jan. 7, 2014, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Weiss, Ila Joyce Solomon. <em>Sanford Robinson Gifford: (1823-1880)</em>. New York, N.Y., Columbia Univ., Diss., 1968.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "B. Gertrude Denton, letter to William S. Talbot, April 20, 1971, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Terry DeLapp, email to Victoria Sears Goldman, Jan. 7, 2014, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Metropolitan Museum of Art (New York, N.Y.), and John F. Weir. <em>A Memorial Catalogue of the Paintings of Sanford Robinson Gifford, N.A</em>. [New York]: [Press of F. Hart &amp; Co.], 1881.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Weiss, Ila Joyce Solomon. <em>Sanford Robinson Gifford: (1823-1880)</em>. New York, N.Y., Columbia Univ., Diss., 1968.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Blake, William P. <em>Reports of the United States Commissioners to the Paris Universal Exposition, 1867: Published Under Direction of the Secretary of State by Authority of the Senate of the United States</em>. Washington, D.C.: G.P.O., 1869.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Weiss, Ila Joyce Solomon. <em>Sanford Robinson Gifford: (1823-1880)</em>. New York, N.Y., Columbia Univ., Diss., 1968",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "“A Check List. American Paintings and Water Colors of the Eighteenth, Nineteenth, and Early Twentieth Centuries in the Cleveland Museum of Art.” <em>The Bulletin of the Cleveland Museum of Art</em> 60, no. 1 (January 1973): 21–35.",
+        "page_number": "Mentioned: p. 26, no. 66",
+        "url": "http://www.jstor.org/stable/25152465"
+      },
+      {
+        "citation": "Talbot, William S. “Landscape and Light.” <em>The Bulletin of the Cleveland Museum of Art</em> 60, no. 1 (January 1973): 9–20.",
+        "page_number": "Mentioned and reproduced: p. 9-13, figs. 3-4; Reproduced: p. 18-19",
+        "url": "http://www.jstor.org/stable/25152464"
+      },
+      {
+        "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+        "page_number": "Reproduced: p. 229",
+        "url": "https://archive.org/details/CMAHandbook1978/page/n249"
+      },
+      {
+        "citation": "Adams, Henry. <em>What's American about American art?: a gallery tour in the Cleveland Museum of Art. </em>Cleveland: Cleveland Museum of Art, 2008.",
+        "page_number": "Reproduced: p. 66 - 67",
+        "url": ""
+      },
+      {
+        "citation": "Cole, Mark, \"Picture Perfect\", Cleveland Museum of Art. <em>Cleveland Art: The Cleveland Museum of Art Members Magazine</em>. Vol. 48 no. 8, October 2008.",
+        "page_number": "Mentioned and reproduced (detail), p. 7",
+        "url": "https://archive.org/details/CMAMM2008-08/page/6"
+      },
+      {
+        "citation": "Greenwald, Diana Seave. \"The Big Picture: Thomas Moran’s The Grand Cañon of the Yellowstone and the Development of the American West.\" <em>Winterthur Portfolio</em> 49, no. 4 (2015): 175-210.",
+        "page_number": "Mentioned and reproduced: P. 196-197",
+        "url": "https://www.jstor.org/stable/26478147"
+      },
+      {
+        "citation": "Henry Francis du Pont Winterthur Museum. Winterthur Portfolio. Chicago: University of Chicago Press, 1964.",
+        "page_number": "Reproduced and mentioned; pp. 196-197, fig. 15",
+        "url": ""
+      }
+    ],
+    "url": "https://clevelandart.org/art/1970.162",
+    "images": {
+      "annotation": null,
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.162/1970.162_web.jpg",
+        "width": "900",
+        "height": "506",
+        "filesize": "195547",
+        "filename": "1970.162_web.jpg"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.162/1970.162_print.jpg",
+        "width": "3400",
+        "height": "1910",
+        "filesize": "2082175",
+        "filename": "1970.162_print.jpg"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.162/1970.162_full.tif",
+        "width": "13720",
+        "height": "7707",
+        "filesize": "317245928",
+        "filename": "1970.162_full.tif"
+      }
+    },
+    "alternate_images": [
+      {
+        "date_created": "2004-10-12T14:53:44",
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1970.162/1970.162_alt0_web.jpg",
+          "width": "1263",
+          "height": "710",
+          "filesize": "493703"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1970.162/1970.162_alt0_print.jpg",
+          "width": "3400",
+          "height": "1910",
+          "filesize": "3388197"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1970.162/1970.162_alt0_full.tif",
+          "width": "5000",
+          "height": "2809",
+          "filesize": "42156060"
+        }
+      },
+      {
+        "date_created": "2019-08-01T20:33:43",
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1970.162/1970.162_alt1_web.jpg",
+          "width": "900",
+          "height": "597",
+          "filesize": "272796"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1970.162/1970.162_alt1_print.jpg",
+          "width": "3400",
+          "height": "2255",
+          "filesize": "2905639"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1970.162/1970.162_alt1_full.tif",
+          "width": "12201",
+          "height": "8093",
+          "filesize": "296256464"
+        }
+      },
+      {
+        "date_created": "2008-06-23T15:34:34",
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1970.162/1970.162_alt2_web.jpg",
+          "width": "1263",
+          "height": "839",
+          "filesize": "768500"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1970.162/1970.162_alt2_print.jpg",
+          "width": "3400",
+          "height": "2259",
+          "filesize": "5349105"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1970.162/1970.162_alt2_full.tif",
+          "width": "4465",
+          "height": "2966",
+          "filesize": "39771420"
+        }
+      },
+      {
+        "date_created": "2019-08-01T19:45:09",
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1970.162/1970.162_alt3_web.jpg",
+          "width": "900",
+          "height": "609",
+          "filesize": ""
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1970.162/1970.162_alt3_print.jpg",
+          "width": "3400",
+          "height": "2300",
+          "filesize": ""
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1970.162/1970.162_alt3_full.tif",
+          "width": "11165",
+          "height": "7553",
+          "filesize": ""
+        }
+      }
+    ],
+    "creditline": "Mr. and Mrs. William H. Marlatt Fund; The Butkin Foundation; Dorothy Burnham Memorial Collection and various donors by exchange",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": "Baker & Hostetler LLP Gallery",
+    "athena_id": 144968,
+    "creators": [
+      {
+        "id": 2816,
+        "description": "Sanford Robinson Gifford (American, 1823–1880)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1823",
+        "death_year": "1880",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1970-12-18T00:00:00",
+    "sortable_date": 1866,
+    "date_added_to_oa": null,
+    "date_text": "1866",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:07:16.348000"
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "data": {
+    "id": 156000,
+    "accession_number": "1991.283",
+    "share_license_status": "CC0",
+    "tombstone": "Alexander Gardner's Photographic Sketchbook of the War: Military Bridge, Across the Chickahominy, Virginia, 1862. David B. Woodbury (American, 1866). Albumen print, gold toned, from wet collodion negative; image: 17.7 x 23 cm (6 15/16 x 9 1/16 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, John L. Severance Fund, 1991.283",
+    "current_location": null,
+    "title": "Military Bridge, Across the Chickahominy, Virginia",
+    "series": "Alexander Gardner's Photographic Sketchbook of the War",
+    "creation_date": "1862",
+    "creation_date_earliest": 1862,
+    "creation_date_latest": 1862,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "albumen print, gold toned, from wet collodion negative",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 19th Century",
+    "type": "Photograph",
+    "measurements": "Image: 17.7 x 23 cm (6 15/16 x 9 1/16 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.177,
+        "width": 0.23
+      },
+      "matted": {
+        "height": 0.406,
+        "width": 0.508
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Written in pencil on recto: \"23\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 311875,
+          "title": "Legacy of Light: Master Photographs from the Cleveland Museum of Art",
+          "description": "<i>Legacy of Light: Master Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 24, 1996-February 2, 1997).",
+          "opening_date": "1996-11-24T05:00:00"
+        }
+      ],
+      "legacy": [
+        {
+          "description": "CMA, November 20,1996 - February 2, 1997: \"Legacy of Light: Master Photographs from the Cleveland Museum of Art.\"",
+          "opening_date": "1997-02-02T00:00:00"
+        }
+      ]
+    },
+    "provenance": [
+      {
+        "description": "(Charles Isaacs Photographs, Inc., New York, NY)",
+        "citations": [],
+        "footnotes": [],
+        "date": null,
+        "sortorder": 1
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": [],
+        "date": "February 24, 1992",
+        "sortorder": 2
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "In this complex composition, David B. Woodbury merged the documentation of an event with his desire to record an impressive landscape. The image depicts a precarious, yet essential military log bridge that traverses a swamp created by the accumulated waters of the Chickahominy River, located southeast of Richmond, Virginia. Constructed under difficult physical conditions, the structure was later destroyed by floodwaters caused by heavy rains. The workers involved with the structure's construction are positioned in a single line so that each person is identifiable; however, reduced to diminutive size by the camera's distant viewpoint, the workers appear to be dominated by their natural environment. This image appeared in the first volume of a two-volume set of 100 Civil War photographs published between 1865–66 by Alexander Gardner (1821–1882), who printed the negatives and compiled the album, which included work by a number of other photographers.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79944779"
+      ],
+      "internet_archive": [
+        "https://archive.org/details/clevelandart-1991.283-military-bridge-acro"
+      ]
+    },
+    "citations": [
+      {
+        "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+        "page_number": "Reproduced: P. 399",
+        "url": ""
+      }
+    ],
+    "url": "https://clevelandart.org/art/1991.283",
+    "images": {
+      "annotation": null,
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1991.283/1991.283_web.jpg",
+        "width": "1155",
+        "height": "893",
+        "filesize": "829629",
+        "filename": "1991.283_web.jpg"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1991.283/1991.283_print.jpg",
+        "width": "3400",
+        "height": "2629",
+        "filesize": "5911799",
+        "filename": "1991.283_print.jpg"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1991.283/1991.283_full.tif",
+        "width": "5843",
+        "height": "4518",
+        "filesize": "79230912",
+        "filename": "1991.283_full.tif"
+      }
+    },
+    "alternate_images": [],
+    "creditline": "John L. Severance Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 156000,
+    "creators": [
+      {
+        "id": 1106,
+        "description": "David B. Woodbury (American, 1866)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "David B. Woodbury American, d. 1866\r\n\r\nDavid Woodbury was one of the many lesser known photographers of the American Civil War. Employed by Mathew Brady, he is known to have photographed in Virginia. Woodbury later worked for Alexander Gardner, and one of his views appears in Gardner's famous volume Photographic Sketchbook of the Civil War (1866). T.W.F.",
+        "name_in_original_language": null,
+        "death_year": "1866",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1992-02-24T00:00:00",
+    "sortable_date": 1862,
+    "date_added_to_oa": null,
+    "date_text": "1862",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:09:56.422000"
+  }
+}

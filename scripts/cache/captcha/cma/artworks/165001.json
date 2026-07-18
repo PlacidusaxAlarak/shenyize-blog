@@ -1,0 +1,121 @@
+{
+  "data": {
+    "id": 165001,
+    "accession_number": "2006.83",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Garden Court Capitals with 1916 Newspaper, 2005, printed 2006. Linda Butler (American, b. 1947). Chromogenic process color print; image: 26.2 x 32.6 cm (10 5/16 x 12 13/16 in.); paper: 28 x 35.6 cm (11 x 14 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, The Jane B. Tripp Charitable Lead Annuity Trust and gift of the artist, 2006.83. © Linda Butler",
+    "current_location": null,
+    "title": "Garden Court Capitals with 1916 Newspaper",
+    "creation_date": "2005, printed 2006",
+    "creation_date_earliest": 2005,
+    "creation_date_latest": 2005,
+    "artists_tags": [
+      "May Show",
+      "female"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "chromogenic process color print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1951-Present",
+    "type": "Photograph",
+    "measurements": "Image: 26.2 x 32.6 cm (10 5/16 x 12 13/16 in.); Paper: 28 x 35.6 cm (11 x 14 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.262,
+        "width": 0.326
+      },
+      "paper": {
+        "height": 0.28,
+        "width": 0.356
+      },
+      "matted": {
+        "height": 0.406,
+        "width": 0.508
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": "© Linda Butler",
+    "inscriptions": [
+      {
+        "inscription": "written in pencil on verso: \"Garden Court Capitals with 1916 Newspaper, Cleveland Museum of Art, 2005:2006 © Linda Butler 1/15\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 181725,
+          "title": "Transitions: Linda Butler and Philip Brutz Photographs",
+          "description": "<i>Transitions: Linda Butler and Philip Brutz Photographs</i>. Museum of Contemporary Art Cleveland (MOCA), Cleveland, OH (June 9-August 20, 2006).",
+          "opening_date": "2006-06-09T00:00:00"
+        }
+      ],
+      "legacy": [
+        {
+          "description": "MOCA Cleveland (June 9 - August 20, 2006):  \"Transitions:  Linda Butler and Philip Brutz Photographs\"",
+          "opening_date": "2006-06-09T00:00:00"
+        }
+      ]
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": null,
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79993375"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2006.83",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "The Jane B. Tripp Charitable Lead Annuity Trust and gift of the artist",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 165001,
+    "creators": [
+      {
+        "id": 32391,
+        "description": "Linda Butler (American, b. 1947)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "Biographical information exists in the Cleveland Museum of Art Archives.",
+        "name_in_original_language": null,
+        "birth_year": "1947",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2006-02-27T00:00:00",
+    "sortable_date": 2005,
+    "date_added_to_oa": null,
+    "date_text": "2005, printed 2006",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:01:43.560000"
+  }
+}

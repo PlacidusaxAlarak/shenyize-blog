@@ -1,0 +1,143 @@
+{
+  "data": {
+    "id": 141754,
+    "accession_number": "1965.334",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Vines, 1965. Harold M. Null (American, 1916-). Gelatin silver print; image: 42.9 x 51.4 cm (16 7/8 x 20 1/4 in.); matted: 61 x 71.1 cm (24 x 28 in.). The Cleveland Museum of Art, Gift of Photography in the Fine Arts, 1965.334",
+    "current_location": null,
+    "title": "Vines",
+    "creation_date": "1965",
+    "creation_date_earliest": 1965,
+    "creation_date_latest": 1965,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "gelatin silver print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1951-Present",
+    "type": "Photograph",
+    "measurements": "Image: 42.9 x 51.4 cm (16 7/8 x 20 1/4 in.); Matted: 61 x 71.1 cm (24 x 28 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.429,
+        "width": 0.514
+      },
+      "matted": {
+        "height": 0.61,
+        "width": 0.711
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Written on label on verso: \" 'Vines' / Original Photograph / by Harold M. Null\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 300794,
+          "title": "Year in Review: 1965",
+          "description": "<i>Year in Review: 1965</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 27-November 14, 1965).",
+          "opening_date": "1965-10-27T04:00:00"
+        },
+        {
+          "id": 301411,
+          "title": "Photograph Exhibition",
+          "description": "<i>Photograph Exhibition</i>. The Cleveland Museum of Art, Cleveland, OH (July 13-September 19, 1971).",
+          "opening_date": "1971-07-13T04:00:00"
+        },
+        {
+          "id": 301622,
+          "title": "Source Material for Studio Projects",
+          "description": "<i>Source Material for Studio Projects</i>. The Cleveland Museum of Art, Cleveland, OH (June 20-August 27, 1972).",
+          "opening_date": "1972-06-20T04:00:00"
+        }
+      ],
+      "legacy": [
+        {
+          "description": "New York World's Fair, 1965: \"Photography in the Fine Arts.\"",
+          "opening_date": "1965-01-01T00:00:00"
+        },
+        {
+          "description": "CMA, October 27 - November 14, 1965: \"Year in Review,\" CMA Bulletin 52 (November 1965), p. 157, no. 179.",
+          "opening_date": "1965-10-27T00:00:00"
+        },
+        {
+          "description": "Cleveland, The Kenneth C. Beck Center for the Cultural Arts, 1979: \"Selections of Photography from the Cleveland Museum of Art.\"",
+          "opening_date": "1979-01-01T00:00:00"
+        }
+      ]
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "Harold M. Null was born in Pennsylvania, but he spent most of his adult life in Italy.",
+    "description": "Photographs express a photographer’s vision, materialized through choices of subject matter, camera angle, cropping, editing, and other factors. Here the artist chose to represent a site from a specific viewpoint in black and white, resulting in an image that creates the illusion of two-dimensional pattern. <em>Vines</em> depicts bare grapevines creeping over rows of trellises in a winter landscape. From a distance, the image appears to have dark geometric and organic lines over a white background. The closer we look, the clearer the subject becomes.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q80041449"
+      ],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+        "page_number": "Reproduced: P. 257",
+        "url": ""
+      }
+    ],
+    "url": "https://clevelandart.org/art/1965.334",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Photography in the Fine Arts",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 141754,
+    "creators": [
+      {
+        "id": 745,
+        "description": "Harold M. Null (American, 1916-)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "Harold Miller Null (American, 1916-1996). Harold M. Null was active in the 1960s, taking part in three Photography in the Fine Arts exhibitions at the Metropolitan Museum of Art, New York (1963, 1967), and the 1965 New York World's Fair. M.M.",
+        "name_in_original_language": null,
+        "birth_year": "1916",
+        "death_year": "1996",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1965-09-11T00:00:00",
+    "sortable_date": 1965,
+    "date_added_to_oa": null,
+    "date_text": "1965",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:06:50.825000"
+  }
+}

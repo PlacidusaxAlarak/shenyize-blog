@@ -1,0 +1,178 @@
+{
+  "data": {
+    "id": 125920,
+    "accession_number": "1948.156.11",
+    "share_license_status": "CC0",
+    "tombstone": "Some Scenes of Parisian Life: Street at Evening in the Rain, 1899. Pierre Bonnard (French, 1867–1947), Published by Ambroise Vollard; Printed by Auguste Clot. Lithograph; sheet: 40.8 x 53.5 cm (16 1/16 x 21 1/16 in.); image: 25.7 x 35.5 cm (10 1/8 x 14 in.). The Cleveland Museum of Art, Gift of the Hanna Fund, 1948.156.11",
+    "current_location": null,
+    "title": "Street at Evening in the Rain",
+    "series": "Some Scenes of Parisian Life",
+    "creation_date": "1899",
+    "creation_date_earliest": 1899,
+    "creation_date_latest": 1899,
+    "artists_tags": [
+      "Nabis",
+      "male"
+    ],
+    "culture": [
+      "France, 19th century"
+    ],
+    "technique": "lithograph",
+    "support_materials": [
+      {
+        "description": "cream (1) china paper",
+        "watermarks": []
+      }
+    ],
+    "department": "Prints",
+    "collection": "PR - Lithograph",
+    "type": "Print",
+    "measurements": "Sheet: 40.8 x 53.5 cm (16 1/16 x 21 1/16 in.); Image: 25.7 x 35.5 cm (10 1/8 x 14 in.)",
+    "dimensions": {
+      "sheet": {
+        "height": 0.408,
+        "width": 0.535
+      },
+      "image": {
+        "height": 0.257,
+        "width": 0.355
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": "100",
+    "copyright": null,
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 309877,
+          "title": "Nocturnal Impressions",
+          "description": "<i>Nocturnal Impressions</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 20-May 12, 1985).",
+          "opening_date": "1985-02-20T05:00:00"
+        },
+        {
+          "id": 309882,
+          "title": "Prints by Toulouse-Lautrec and Bonnard",
+          "description": "<i>Prints by Toulouse-Lautrec and Bonnard</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 3, 1985-March 2, 1986).",
+          "opening_date": "1985-12-03T05:00:00"
+        },
+        {
+          "id": 329533,
+          "title": "Private Lives: Home and Family in the Art of the Nabis, Paris, 1889–1900",
+          "description": "<i>Private Lives: Home and Family in the Art of the Nabis, Paris, 1889–1900</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (co-organizer) (July 1-September 19, 2021); Portland Art Museum, Portland, OR (co-organizer) (October 23, 2021-January 23, 2022).",
+          "opening_date": "2021-07-01T04:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "The Art Institute of Chicago",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": null
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [
+      "1948.166"
+    ],
+    "did_you_know": null,
+    "description": "This suite of color lithographs collected Pierre Bonnard’s observations of city life, ranging from animated street scenes to distant observations glimpsed from the artist’s Montmartre studio window. Rather than memorializing the famous monuments of Paris, Bonnard preferred to depict small neighborhood scenes populated by urbanites shopping and strolling and by vendors selling their wares. The setting for one of the prints is the second-largest public park in Paris, the Bois de Boulogne, which was a popular place for families to relax, stroll, and enjoy carriage rides around the lakes. Two prints are nocturnal scenes in which gaslight emanating from shop windows is reflected on the wet streets, creating passages of bright yellow in the otherwise dark compositions. Bonnard’s favorite subjects, such as the Parisienne—a young, fashionable, modern woman—as well as children and dogs, appear repeatedly throughout the prints in the suite.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79905051"
+      ],
+      "internet_archive": [
+        "https://archive.org/details/clevelandart-1948.156.11-street-at-evening-in"
+      ]
+    },
+    "citations": [
+      {
+        "citation": "Brown, Heather Lemonedes. “The Nabi City.” In <em>Private Lives: Home and Family in the Art of the Nabis, Paris, 1889-1900</em>. Mary Weaver Chapin and Heather Lemonedes Brown, 222-261. Cleveland: Cleveland Museum of Art, 2021.",
+        "page_number": "Mentioned: P. 231; Reproduced: P. 254, no. 171",
+        "url": ""
+      }
+    ],
+    "catalogue_raisonne": "Bouvet 68",
+    "url": "https://clevelandart.org/art/1948.156.11",
+    "images": {
+      "annotation": null,
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1948.156.11/1948.156.11_web.jpg",
+        "width": "1180",
+        "height": "893",
+        "filesize": "867299",
+        "filename": "1948.156.11_web.jpg"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1948.156.11/1948.156.11_print.jpg",
+        "width": "3400",
+        "height": "2574",
+        "filesize": "7409394",
+        "filename": "1948.156.11_print.jpg"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1948.156.11/1948.156.11_full.tif",
+        "width": "4899",
+        "height": "3709",
+        "filesize": "54545824",
+        "filename": "1948.156.11_full.tif"
+      }
+    },
+    "alternate_images": [],
+    "creditline": "Gift of the Hanna Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 125920,
+    "creators": [
+      {
+        "id": 1733,
+        "description": "Pierre Bonnard (French, 1867–1947)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "Pierre Bonnard was a law student when he began his artistic training in 1887 at the Académie Julian in Paris, where he met Paul Sérusier (1864-1927) and the theorist and painter Maurice Denis (1870-1943). Both would be influential in his artistic career and become Bonnard's lifelong friends. In 1889, the year he obtained his law degree, he saw the exhibition at Café Volpini (see Gauguin, Woman in the Waves, no. 100) and was particularly impressed with Gauguin's work. Sérusier, after having returned from studying with Gauguin in Pont-Aven, decided to form his own artistic group called the Nabis (Hebrew: prophets). The founding members of the Nabis included Denis, who wrote the manifesto for the group, \"Définition du néo-traditionnisme\" (published in May 1890 in Art et critique), Bonnard, Paul Ranson (1864-1909), and Henri-Gabriel Ibels (1867-1936). Their first exhibition occurred in 1891, and they were later joined by Ker-Xavier Roussel (1867-1944) and Vuillard (q.v.). Based loosely on the synthetist goals established by Gauguin and Émile Bernard, the movement was created from Sérusier's vision of an artistic brotherhood dedicated to symbolism whereby a universal language could be expressed through symbols. The Nabis were opposed to the naturalism taught at academies by artists such as Bouguereau (q.v.) and wanted to move away from didactic and moral paintings toward a more decorative style characterized by simplified drawing, flat patches of color, and heavy set contours. Bonnard's works of the 1890s were influenced by the innovations of Gauguin as well as Japanese prints, which were easily accessible in nineteenth-century Paris. His paintings took on a decorative quality, mirroring his artistic expressions in other media such as stained glass, furniture, pottery, and painted screens. Bonnard's and Vuillard's domestic interior paintings of the 1890s were often described using the term intimisme. In 1891 Bonnard also experimented with other media, including poster designs and lithographs, which inspired his friend Henri de Toulouse-Lautrec (1864-1901), whom he had met through La revue blanche, a magazine that published the Nabis' work. Around 1900 the members of the Nabis began to drift apart. Between 1905 and 1910 Bonnard and Vuillard traveled to England, Belgium, Holland, Spain, and Italy, visiting many museums. Bonnard's art began to gravitate toward impressionism, but his colors were more expressive and his compositions more overtly structured; elements of the painted interiors such as doors, windows or pieces of furniture often provided a strong compositional framework. He also worked extensively with photographs. His late works were acclaimed by fellow Parisians like Henri Matisse (1869-1954) and Paul Signac (1863-1935). After 1920 Bonnard exhibited extensively and became an internationally renowned artist, receiving much recognition in the United States, where he traveled in 1926.",
+        "name_in_original_language": null,
+        "birth_year": "1867",
+        "death_year": "1947",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      },
+      {
+        "id": 69023,
+        "description": "Published by Ambroise Vollard; Printed by Auguste Clot",
+        "extent": null,
+        "qualifier": null,
+        "role": "published by",
+        "biography": null,
+        "name_in_original_language": null,
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 2
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1948-06-15T00:00:00",
+    "sortable_date": 1899,
+    "date_added_to_oa": null,
+    "date_text": "1899",
+    "collapse_artists": true,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "component",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": "1948.156",
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:09:50.645000"
+  }
+}

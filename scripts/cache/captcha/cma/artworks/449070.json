@@ -1,0 +1,110 @@
+{
+  "data": {
+    "id": 449070,
+    "accession_number": "2021.232",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Institute of Design, Student Independent 3: Untitled (Woman), c. 1960. Joseph D. Jachna (American, 1935–1953). Gelatin silver print; image: 36.2 x 28.3 cm (14 1/4 x 11 1/8 in.). The Cleveland Museum of Art, Gift of Carl and Joan Schneider, 2021.232",
+    "current_location": null,
+    "title": "Untitled (Woman)",
+    "series": "Institute of Design, Student Independent 3",
+    "creation_date": "c. 1960",
+    "creation_date_earliest": 1955,
+    "creation_date_latest": 1965,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "gelatin silver print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1951-Present",
+    "type": "Photograph",
+    "measurements": "Image: 36.2 x 28.3 cm (14 1/4 x 11 1/8 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.362,
+        "width": 0.283
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Carl and Joan Schneider, Whitmore Lake, MI",
+        "citations": [],
+        "footnotes": [],
+        "date": "?-2021",
+        "sortorder": 1
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": [],
+        "date": "December 6, 2021",
+        "sortorder": 2
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "From 1946 through the 1970s, the photography department at Chicago’s Institute of Design was one of the most important and avant-garde photography programs in America.",
+    "description": "TheInstitute of Design, which was founded in 1937 in Chicago by Laszlo Moholy-Nagy to continue the principles of the German Bauhaus, offered an experimental atmosphere that encouraged exploration of the interconnectedness of art, design, and architecture and of the various art media. Starting in the 1950s, in order to draw attention to their work, the photography students banded together to publish portfolios.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q119997033"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2021.232",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Carl and Joan Schneider",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 449070,
+    "creators": [
+      {
+        "id": 503,
+        "description": "Joseph D. Jachna (American, 1935–1953)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "Joseph D. Jachna American, 1935-\r\n\r\nSimple, formal abstraction and technical precision characterize the black-and-white photography of Joseph David Jachna, who studied in Chicago with both Aaron Siskind and Harry Callahan during their tenure at the Institute of Design, Illinois Institute of Technology. Like Kenneth Josephson, his colleague at the institute, Jachna's early work raises conceptual questions regarding the self-reflexive nature of photographic representation. His studies of hands holding mirrors that both reflect and obscure their geographic backdrops typify his concerns regarding the imprint of humans on nature. It is an imposition he sees as ultimately transitory, like the staged photographic moments themselves.\r\n\tJachna got his start in photography working part-time for various commercial establishments in his native Chicago during the 1950s. He attended iit (B.S. in art education, 1958; M.S. in photography, 1961), teaching there after graduation and in 1969 joining the faculty at the University of Illinois, Chicago. Jachna has received a Ferguson Foundation Grant from the Friends of Photography (1973), the Silver Circle Award for Teaching from the University of Illinois, Chicago (1974), and fellowships from the National Endowment for the Arts (1976) and the John Simon Guggenheim Memorial Foundation (1980). His work has been shown in one-person exhibitions at the Art Institute of Chicago (1961), the University of Illinois, Chicago (1965, 1977), Nikon Photo Salon, Tokyo (1974), Chicago Center for Contemporary Photography (1980), Chicago State University (1985), and the University of Minnesota, Duluth (1986). He lives in Oak Lawn, Illinois. A.W.",
+        "name_in_original_language": null,
+        "birth_year": "1935",
+        "death_year": "1953",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2021-12-06T00:00:00-05:00",
+    "sortable_date": 1955,
+    "date_added_to_oa": null,
+    "date_text": "c. 1960",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:04:34.662000"
+  }
+}

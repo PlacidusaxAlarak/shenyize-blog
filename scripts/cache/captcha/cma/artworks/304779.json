@@ -1,0 +1,124 @@
+{
+  "data": {
+    "id": 304779,
+    "accession_number": "2017.139",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Landscape, Glen Canyon, c. 1960. Brett Weston (American, 1911–1993). Gelatin silver print; image: 19.3 x 24.4 cm (7 5/8 x 9 5/8 in.); paper: 20.2 x 25.1 cm (7 15/16 x 9 7/8 in.). The Cleveland Museum of Art, Gift of the Christian Keesee Collection, 2017.139. © The Brett Weston Archive",
+    "current_location": null,
+    "title": "Landscape, Glen Canyon",
+    "creation_date": "c. 1960",
+    "creation_date_earliest": 1955,
+    "creation_date_latest": 1965,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "gelatin silver print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1951-Present",
+    "type": "Photograph",
+    "measurements": "Image: 19.3 x 24.4 cm (7 5/8 x 9 5/8 in.); Paper: 20.2 x 25.1 cm (7 15/16 x 9 7/8 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.193,
+        "width": 0.244
+      },
+      "paper": {
+        "height": 0.202,
+        "width": 0.251
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": "© The Brett Weston Archive",
+    "inscriptions": [
+      {
+        "inscription": "Written in pencil on verso: “gc88”",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      },
+      {
+        "inscription": "Written in pencil on verso: “05138.60”",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 304783,
+          "title": "Brett Weston: Photographs",
+          "description": "<i>Brett Weston: Photographs</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 21-May 6, 2018).",
+          "opening_date": "2018-01-21T05:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "Weston’s photographs are about the act of seeing, of translating his experience of the world into visual terms. His images hover between abstraction and representation. “It seems to me,” Weston wrote, “that this powerful duality, this combination of the abstract, in the emphasis upon form, and the sense of presence, in the rendering of light and substance, is something only photography can do.”",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79873153"
+      ],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "Tannenbaum, Barbara. \"Natural Eye: Four decades of the work of Brett Weston.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 58, no. 1 (January/February 2018): 8-9.",
+        "page_number": "Reproduced: P. 8; Mentioned: P. 8, 9",
+        "url": "https://archive.org/details/CMAMM2018-01/page/n3/mode/2up"
+      }
+    ],
+    "url": "https://clevelandart.org/art/2017.139",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of the Christian Keesee Collection",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 304779,
+    "creators": [
+      {
+        "id": 1079,
+        "description": "Brett Weston (American, 1911–1993)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "Brett Weston (born in Los Angeles) was the second son of well-known American photographer Edward Weston. After learning photography from his father and working in his father's studio, in 1930 Weston set up his own studio in Santa Barbara. Two years later he was invited to exhibit in the first Group f/64 show at the M. H. de Young Museum in San Francisco. During World War II Weston was stationed in New York, where he served as an army photographer. In 1947 he received a fellowship from the John Simon Guggenheim Memorial Foundation to photograph along the East Coast. The following year he returned to California to assist with the care of his father and with making prints from his father's negatives. In the 1960s Weston began a series of trips to photograph in Europe, Baja California, Japan, and Hawaii, and in 1973 a fellowship from the National Endowment for the Arts allowed him to photograph in Alaska. Throughout his long career, Weston often worked with a large-format camera, creating sharp, detailed images that focused on his subjects' abstract, formal elements, such as texture, form, pattern, and tone. M.M.",
+        "name_in_original_language": null,
+        "birth_year": "1911",
+        "death_year": "1993",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 0
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2017-09-11T00:00:00-04:00",
+    "sortable_date": 1955,
+    "date_added_to_oa": null,
+    "date_text": "c. 1960",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:08:39.690000"
+  }
+}

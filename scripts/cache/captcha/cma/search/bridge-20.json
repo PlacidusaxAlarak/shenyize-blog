@@ -1,0 +1,3656 @@
+{
+  "info": {
+    "total": 560,
+    "parameters": {
+      "skip": 20,
+      "limit": 20,
+      "q": "bridge",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,gallery,classification_type,department,collection",
+      "search": "bridge"
+    }
+  },
+  "data": [
+    {
+      "id": 155585,
+      "accession_number": "1990.33",
+      "share_license_status": "CC0",
+      "tombstone": "The Miners' Bridge, on the Llugwy, North Wales, 1857. Roger Fenton (British, 1819–1869). Albumen print from wet collodion negative; image: 36.7 x 42.9 cm (14 7/16 x 16 7/8 in.); matted: 55.9 x 71.1 cm (22 x 28 in.). The Cleveland Museum of Art, Andrew R. and Martha Holden Jennings Fund, 1990.33",
+      "current_location": null,
+      "title": "The Miners' Bridge, on the Llugwy, North Wales",
+      "creation_date": "1857",
+      "creation_date_earliest": 1857,
+      "creation_date_latest": 1857,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "albumen print from wet collodion negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "Photography",
+      "type": "Photograph",
+      "measurements": "Image: 36.7 x 42.9 cm (14 7/16 x 16 7/8 in.); Matted: 55.9 x 71.1 cm (22 x 28 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.367,
+          "width": 0.429
+        },
+        "matted": {
+          "height": 0.559,
+          "width": 0.711
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"BOB MINERS\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 311440,
+            "title": "Notable Acquisitions",
+            "description": "<i>Notable Acquisitions</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 7-September 15, 1991).",
+            "opening_date": "1991-06-07T04:00:00"
+          },
+          {
+            "id": 311875,
+            "title": "Legacy of Light: Master Photographs from the Cleveland Museum of Art",
+            "description": "<i>Legacy of Light: Master Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 24, 1996-February 2, 1997).",
+            "opening_date": "1996-11-24T05:00:00"
+          },
+          {
+            "id": 186948,
+            "title": "Pioneers of Landscape Photography from the Museum's Collection",
+            "description": "<i>Pioneers of Landscape Photography from the Museum's Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 12, 2000-January 3, 2001).",
+            "opening_date": "2000-08-12T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Arts Council of Britain, Hayward Gallery, London, Feb. 10- April 17, 1983: \"Landscape in Britain: 1850-1950,\" Exhibition catalogue p. 61. (Also exhibited at Bristol City Museum and Art Gallery, April 30 - June 4, 1983; Stoke-on-Trent City Museum &amp; Art Gallery, June 11 - July 16, 1983; Mappin Art Gallery, Sheffield, July 23 - Aug. 28, 1983.)",
+            "opening_date": "1983-02-10T00:00:00"
+          },
+          {
+            "description": "CMA, June 7 - Sept. 15, 1991: \"Notable Acquisitions,\" CMA Bulletin, 78 (June 1991), p. 93, repr. p. 93.",
+            "opening_date": "1991-06-07T00:00:00"
+          },
+          {
+            "description": "CMA, November 20,1996 - February 2, 1997: \"Legacy of Light: Master Photographs from the Cleveland Museum of Art,\" see Catalogue of Photography, pp. 22-23.",
+            "opening_date": "1997-02-02T00:00:00"
+          },
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; August 12, 2000 - January 3, 2001.  \"Pioneers of Landscape Photography from the Museum's Collection.\"",
+            "opening_date": "2000-08-12T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Roger Fenton was a versatile and prolific artist who abruptly ended his brief, 12-year career as a professional photographer to return to the practice of law. Nevertheless, his architectural and landscape photographs have brought him recognition as the greatest British photographer of the 1850s. In this picturesque scene, Fenton focused on a single figure ascending a precarious wooden bridge that hangs suspended between two craggy surfaces. He often included people in his photographs to indicate scale and to enliven the composition. Fenton's wet collodion negative rendered the texture of the riverbed in minute detail, transforming the dark tones of the rocks and the random pattern of the light-colored lichens into a lively, abstract design. The slow speed of the negative, relative to the swift movement of the stream, turned the rushing water into a dense, white cloud.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60781247"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1990.33-the-miners-bridge-on"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Hinson, Tom E. \"Notable Acquisitions.\" <em>The Bulletin of the Cleveland Museum of Art</em> 78, no. 3 (1991): 63-147.",
+          "page_number": "Reproduced and Mentioned: p. 93",
+          "url": "https://www.jstor.org/stable/25161319"
+        },
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Mentioned and reproduced: P. 22-23, 155",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1990.33",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1990.33/1990.33_web.jpg",
+          "width": "1048",
+          "height": "893",
+          "filesize": "770193",
+          "filename": "1990.33_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1990.33/1990.33_print.jpg",
+          "width": "3400",
+          "height": "2896",
+          "filesize": "6358833",
+          "filename": "1990.33_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1990.33/1990.33_full.tif",
+          "width": "5000",
+          "height": "4259",
+          "filesize": "63920668",
+          "filename": "1990.33_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Andrew R. and Martha Holden Jennings Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 155585,
+      "creators": [
+        {
+          "id": 125,
+          "description": "Roger Fenton (British, 1819–1869)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Roger Fenton British, 1819-1869\r\n\r\nDespite the relative brevity of his career, Roger Fenton stands among the most important and accomplished British photographers. Born in Heywood, Lancashire, to a wealthy family, Fenton graduated from University College in London and in 1844 may have studied painting in the Paris studio of Paul Delaroche, along with several other important future photographers. After returning to England, he spent four years earning a degree as a solicitor, continued to paint, and developed an interest in photography before joining a London law firm in 1851.\r\n\tFenton's paintings were shown annually in London at the Royal Academy from 1849–51. After helping to found the Calotype Club (1847), in 1852 he published an article that advocated establishment of a British photographic organization modeled after the Société héliographique in France. His argument, combined with the lifting of the use restrictions on William Henry Fox Talbot's patent for the calotype, led to formation of the London Photographic Society; Fenton served as its first honorary secretary. In December 1852, an early exhibition of the new society included 39 of his views. Soon afterward, he accompanied his friend Charles Vignoles to Russia to photograph the construction of a bridge at Kiev. Traveling to the Crimea in 1855, Fenton was the first photographer to make a sustained sequence of war views. He also accepted commissions to document the collections of the British Museum and to photograph the royal family at Buckingham and Windsor castles.\r\n\tAmong Fenton's best work are his photographs of landscapes and architecture. His still lifes are exceptional. His views -- whether of great expanses of garden and lawn, of Balaklava, or of fishermen at a local stream -- have an artistic consistency, grandeur of vision, and command of technique comparable only to the work of Édouard Baldus in France and Carleton E. Watkins in America. In 1862, judging the quality of photography to have declined, Fenton sold all his equipment at auction and returned to the law. His negatives were bought by Francis Frith, whose publishing concern continued to print them in various formats for the next hundred years. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1819",
+          "death_year": "1869",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1990-09-06T00:00:00",
+      "sortable_date": 1857,
+      "date_added_to_oa": null,
+      "date_text": "1857",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:01.039000"
+    },
+    {
+      "id": 130166,
+      "accession_number": "1952.544.1",
+      "share_license_status": "CC0",
+      "tombstone": "Four Seasons: Spring: Fishing Scene, designed c. 1535, woven mid- to late 1600s. Possibly by Gobelins Manufactory (France, Paris, est. 1662). Wool, silk, and gold filé: tapestry weave; overall: 255 x 266 cm (100 3/8 x 104 3/4 in.). The Cleveland Museum of Art, Gift of Francis Ginn, Marian Ginn Jones, Barbara Ginn Griesinger, and Alexander Ginn in memory of Frank Hadley Ginn and Cornelia Root Ginn, 1952.544.1",
+      "current_location": null,
+      "title": "Spring: Fishing Scene",
+      "series": "Four Seasons",
+      "creation_date": "designed c. 1535, woven mid- to late 1600s",
+      "creation_date_earliest": 1530,
+      "creation_date_latest": 1699,
+      "artists_tags": [
+        "gender unknown"
+      ],
+      "culture": [
+        "France"
+      ],
+      "technique": "Wool, silk, and gold filé: tapestry weave",
+      "support_materials": [],
+      "department": "Textiles",
+      "collection": "Textiles",
+      "type": "Tapestry",
+      "measurements": "Overall: 255 x 266 cm (100 3/8 x 104 3/4 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 2.55,
+          "width": 2.66
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 438939,
+            "title": "Cycles of Life: The Four Seasons Tapestries",
+            "description": "<i>Cycles of Life: The Four Seasons Tapestries</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 13, 2022-February 19, 2023).",
+            "opening_date": "2022-02-12T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "<em>Tapestries by French, Italy, English, and American Designers, from Various Lenders, </em>The Cleveland Museum of Art, Cleveland, OH (October 5, 1918-December 1, 1918).",
+            "opening_date": "1918-10-05T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Balloch Castle, Scotland",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        },
+        {
+          "description": "Henry Symons Sale: Anderson Galleries, New York, January 27-Febuary 3, 1923",
+          "citations": [],
+          "footnotes": [],
+          "date": "January 27-Febuary 3, 1923",
+          "sortorder": 2
+        },
+        {
+          "description": "Frank Hadley Ginn (1868-1938) and Cornelia Winifred Root Ginn (1877-1937), Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "1923-1952",
+          "sortorder": 3
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "1952-",
+          "sortorder": 4
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [
+        "394.1923"
+      ],
+      "did_you_know": "Spring was considered to be a season of courtship and romance; perhaps the gentleman on the bridge in the red cap is trying to catch the attention of the lady next to him.",
+      "description": "In this springtime scene, two fishermen wade in a river, dragging a net suspended between two poles. A noble couple on a bridge gestures toward other fishermen, who occupy the other side of this scene in other extant examples of this tapestry with a larger picture plane. In the background, townspeople walk on bridges that lead to the gateway of a town with brick walls and portals. In the far distance, farmers till the soil to sow new seeds, another typical activity associated with spring. The trees on the hills are just beginning to sprout new buds.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60761337"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1952.544.1-spring-fishing-scene"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Scaturro, Jane and Hanson, Robin. “Cycles of Life: Celebrating the four seasons.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>62, no. 1: 18-21.",
+          "page_number": "Reproduced: P. 20; Mentioned: P. 18.",
+          "url": ""
+        },
+        {
+          "citation": "Warwick House, Ltd, and Lucas. The Balloch Castle Seasons of Lucas; Being Four Gobelin Tapestries Rich with Gold, 8 Feet 2 Inches High, with Combined Width of 41 Feet 7 Inches, from Balloch Castle, Near Glasgow, Where They Hung for Nearly Two Centuries; a Companion Set to the Famous Months of Lucas, and by the Same Designer. Baltimore: N.T.A. Munder &amp; Co., printers, 1918.",
+          "page_number": null,
+          "url": "https://archive.org/stream/gri_33125016354546/gri_33125016354546#page/n10/mode/2up"
+        },
+        {
+          "citation": "Hunter, George Leland. \"The Loan Exhibition of Tapestries.\" <em>The Bulletin of the Cleveland Museum of Art</em> 5, no. 8/9 (October-November 1918): 63-87.",
+          "page_number": "66",
+          "url": "http://www.jstor.org/stable/25136215"
+        },
+        {
+          "citation": "Hunter, George Leland. <em>Loan Exhibition of Tapestries</em>. <em>Assembled, Arranged and Catalogued by George Leland Hunter. </em>Cleveland Museum of Art<em>. </em>October 5th December 1st 1918.",
+          "page_number": null,
+          "url": "https://archive.org/details/Tapestries_198617/page/n4"
+        },
+        {
+          "citation": "Hunter, George Leland. “The Cleveland Tapestry Exhibition” in <em>The Art World &amp; Arts &amp; Decoration </em>(November 1918) 25-28.",
+          "page_number": null,
+          "url": "https://books.google.com/books?id=KH0XAQAAMAAJ&pg=PA27&lpg=PA27&dq=the+four+seasons+tapestries+lucas&source=bl&ots=QWu0DyxXAj&sig=ACfU3U3Iq8ujNfIEMy8gtfrGGmlfNFP6mw&hl=en&sa=X&ved=2ahUKEwjwls3e6fPfAhVo2oMKHUd9CgIQ6AEwDHoECAMQAQ#v=onepage&q=the%20four%20seasons%20tapestries%20lucas&f=false"
+        },
+        {
+          "citation": "Hunter, George Leland. \"The Cleveland Tapestry Exhibition.\" <em>The American Magazine of Art</em> 10, no. 4 (1919): 129-37.",
+          "page_number": null,
+          "url": "http://www.jstor.org/stable/23925160"
+        },
+        {
+          "citation": "Anderson Galleries, Inc. <em>The Henry Symons Collections.</em> New York: Anderson Galleries, 1923.",
+          "page_number": "no. 1166",
+          "url": null
+        },
+        {
+          "citation": "Freund, Karl. \"Four Gobelin Tapestries,\" International Studio. (December 1924), 234-238.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Crick-Kuntziger, Marthe, “L’énigme des ‘Mois de Lucas,’” <em>Actes du XIIe Congr</em>ès international d’Histoire de l’Art. Volume 2. Brussels, 1930. 497-505.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Ward, Evelyn Svec. \"Four Seasons Tapestries from Gobelins.\" <em>The Bulletin of the Cleveland Museum of Art</em> 40, no. 6 (1953): 113-19.",
+          "page_number": "113-119",
+          "url": "http://www.jstor.org/stable/25141888"
+        },
+        {
+          "citation": "Standen, Edith A. \"Drawings for the \"Months of Lucas\" Tapestry Series.\" <em>Master Drawings</em> 9, no. 1 (1971): 3-80.",
+          "page_number": null,
+          "url": "http://www.jstor.org/stable/1553120"
+        },
+        {
+          "citation": "Standen, Edith Appleton. \"Tapestries in the Collection of the Museum of Art, Carnegie Institute,\" Carnegie Magazine. (December 1981), 3-19.",
+          "page_number": "2-7",
+          "url": null
+        },
+        {
+          "citation": "Standen, Edith Appleton. European Post-Medieval Tapestries and Related Hangings in the Metropolitan Museum of Art. New York: The Museum, 1985.",
+          "page_number": "322, 330",
+          "url": null
+        },
+        {
+          "citation": "Detroit Institute of Arts, Alan Phipps Darr, Tracey Albainy, and Melanie Holcomb. Woven Splendor: Five Centuries of European Tapestry in the Detroit Institute of Arts. [Detroit]: The Institute, 1996.",
+          "page_number": "52-54",
+          "url": null
+        },
+        {
+          "citation": "Standen, Edith Appleton and Janet Arnold. \"The Comte de Toulouse's 'Months of Lucas' Gobelins Tapestries: Sixteenth-Century Designs with Eighteenth-Century Additions,\" Metropolitan Museum Journal. (1996), 59-79.",
+          "page_number": null,
+          "url": "http://www.jstor.org/stable/1512972"
+        },
+        {
+          "citation": "Langeois, David, Daniel Alcouffe, Sandrine Riahi, and Musée Du Louvre. <em>Quelques Chefs-D'oeuvre De La Collection Djahanguir Riahi : Ameublement Français Du Xviiie Siècle</em>. Milano: Franco Maria Ricci, 1999.",
+          "page_number": "66-8",
+          "url": null
+        },
+        {
+          "citation": "Langeois, David, Daniel Alcouffe, and Sandrine Riahi. <em>Quelques chefs-d'oeuvre de la collection Djahanguir Riahi: ameublement français du XVIIIe siècle</em>. [Milano]: Franco Maria Ricci, 1999.",
+          "page_number": "p. 66-71",
+          "url": ""
+        },
+        {
+          "citation": "Artnet Price Database. Thursday 2 November 2000. Christies (New York, Lot 00057).",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Christies Database. <em>“</em>Brussels Tapestry Depicting Winter from ‘The Seasons of Lucas’ Series” Thursday, November 2, 2000. Christies (New York Lot 55).",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Mironneau, Paul. Musée national du Château de Pau. Paris: Réunion des musées nationaux, 2003.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Cleveland Foundation. “Curating the Fine Art of Giving with the Frank Hadley Ginn &amp; Cornelia Root Ginn Charitable Trust,”in <em>Gift of Giving news for donors and friends of the Cleveland Foundation. </em>Spring 2018. 4-5.",
+          "page_number": null,
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/1952.544.1",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1952.544.1/1952.544.1_web.jpg",
+          "width": "900",
+          "height": "860",
+          "filesize": "446915",
+          "filename": "1952.544.1_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1952.544.1/1952.544.1_print.jpg",
+          "width": "3400",
+          "height": "3250",
+          "filesize": "5106429",
+          "filename": "1952.544.1_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1952.544.1/1952.544.1_full.tif",
+          "width": "11086",
+          "height": "10596",
+          "filesize": "352436928",
+          "filename": "1952.544.1_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1952.544.1/1952.544.1_alt0_web.jpg",
+            "width": "1049",
+            "height": "893",
+            "filesize": "810182"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1952.544.1/1952.544.1_alt0_print.jpg",
+            "width": "3177",
+            "height": "2704",
+            "filesize": "6388934"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1952.544.1/1952.544.1_alt0_full.tif",
+            "width": "3177",
+            "height": "2704",
+            "filesize": "25820732"
+          }
+        },
+        {
+          "date_created": "2017-07-17T09:23:25.074000",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1952.544.1/1952.544.1_alt1_web.jpg",
+            "width": "900",
+            "height": "878",
+            "filesize": "467490"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1952.544.1/1952.544.1_alt1_print.jpg",
+            "width": "3400",
+            "height": "3316",
+            "filesize": "4462689"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1952.544.1/1952.544.1_alt1_full.tif",
+            "width": "3800",
+            "height": "3706",
+            "filesize": "42299760"
+          }
+        },
+        {
+          "date_created": "2021-05-24T10:21:17",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1952.544.1/1952.544.1_alt2_web.jpg",
+            "width": "900",
+            "height": "762",
+            "filesize": "434720"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1952.544.1/1952.544.1_alt2_print.jpg",
+            "width": "3400",
+            "height": "2878",
+            "filesize": "5806895"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1952.544.1/1952.544.1_alt2_full.tif",
+            "width": "12586",
+            "height": "10652",
+            "filesize": "402228476"
+          }
+        },
+        {
+          "date_created": "2021-05-24T10:23:39",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1952.544.1/1952.544.1_alt3_web.jpg",
+            "width": "900",
+            "height": "701",
+            "filesize": "421325"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1952.544.1/1952.544.1_alt3_print.jpg",
+            "width": "3400",
+            "height": "2650",
+            "filesize": "5629117"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1952.544.1/1952.544.1_alt3_full.tif",
+            "width": "13669",
+            "height": "10652",
+            "filesize": "436836332"
+          }
+        },
+        {
+          "date_created": "2021-05-24T10:26:57",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1952.544.1/1952.544.1_alt4_web.jpg",
+            "width": "646",
+            "height": "900",
+            "filesize": "366205"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1952.544.1/1952.544.1_alt4_print.jpg",
+            "width": "2440",
+            "height": "3400",
+            "filesize": "4934846"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1952.544.1/1952.544.1_alt4_full.tif",
+            "width": "10193",
+            "height": "14204",
+            "filesize": "434372968"
+          }
+        },
+        {
+          "date_created": "2021-05-24T10:29:13",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1952.544.1/1952.544.1_alt5_web.jpg",
+            "width": "900",
+            "height": "675",
+            "filesize": "392644"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1952.544.1/1952.544.1_alt5_print.jpg",
+            "width": "3400",
+            "height": "2550",
+            "filesize": "5097318"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1952.544.1/1952.544.1_alt5_full.tif",
+            "width": "14204",
+            "height": "10652",
+            "filesize": "453931976"
+          }
+        }
+      ],
+      "creditline": "Gift of Francis Ginn, Marian Ginn Jones, Barbara Ginn Griesinger, and Alexander Ginn in memory of Frank Hadley Ginn and Cornelia Root Ginn",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 130166,
+      "creators": [
+        {
+          "id": 8592,
+          "description": "Gobelins Manufactory (France, Paris, est. 1662)",
+          "extent": null,
+          "qualifier": "possibly by",
+          "role": "manufacturer",
+          "biography": "For more information: http://www.oxfordartonline.com/groveart/view/10.1093/gao/9781884446054.001.0001/oao-9781884446054-e-7000032919",
+          "name_in_original_language": null,
+          "death_year": "1799",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1952-12-26T00:00:00",
+      "sortable_date": 1530,
+      "date_added_to_oa": null,
+      "date_text": "designed c. 1535, woven mid- to late 1600s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "component",
+      "conservation_statement": "This tapestry was woven with a wool warp and silk- and metal-thread weft. As can be seen in the photomicrograph at 40 times magnification, the core of the metal thread is yellow silk. Wound around the core like a barber pole is a narrow strip of metal that when analyzed was found to be a blend of silver and gold in a ratio of about 4.5 to 1. There is also a trace amount of copper used.",
+      "has_conservation_images": true,
+      "cover_accession_number": "1952.544",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:04:24.849000"
+    },
+    {
+      "id": 144603,
+      "accession_number": "1969.243",
+      "share_license_status": "CC0",
+      "tombstone": "Old Man Before the Log Bridge, 1819. Johann Christoph Erhard (German, 1795–1822). Etching. The Cleveland Museum of Art, Mr. and Mrs. Charles G. Prasse Collection, 1969.243",
+      "current_location": null,
+      "title": "Old Man Before the Log Bridge",
+      "creation_date": "1819",
+      "creation_date_earliest": 1819,
+      "creation_date_latest": 1819,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Germany, 19th century"
+      ],
+      "technique": "etching",
+      "support_materials": [],
+      "department": "Prints",
+      "collection": "PR - Etching",
+      "type": "Print",
+      "dimensions": {},
+      "state_of_the_work": "II/III",
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 301313,
+            "title": "Year in Review: 1969",
+            "description": "<i>Year in Review: 1969</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 27-February 22, 1970).",
+            "opening_date": "1970-01-27T05:00:00"
+          },
+          {
+            "id": 309881,
+            "title": "Leona E. Prasse, Connoisseur and Curator",
+            "description": "<i>Leona E. Prasse, Connoisseur and Curator</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 28-August 25, 1985).",
+            "opening_date": "1985-05-28T04:00:00"
+          },
+          {
+            "id": 178036,
+            "title": "Nature Sublime: Landscapes from the 19th Century",
+            "description": "<i>Nature Sublime: Landscapes from the 19th Century</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 15-November 14, 2004).",
+            "opening_date": "2004-08-15T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Cleveland, Ohio: The Cleveland Museum of Art; 8/15/04-11/14/04. \"Nature Sublime: Landscapes from the 19th Century\".  No exhibition catalogue.",
+            "opening_date": "2004-08-15T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "This print comes from a series of four etchings known as the \"Salzburg landscapes with large figures.\" Johann Erhard used the setting of the figures in the landscape to hint at wider concerns. This composition of an elderly man approaching a bridge may be read as a metaphor for crossing the boundary between life and death. In Erhard’s oeuvre, the beauty of the landscape gives no assurance of a carefree way of life. His pessimistic outlook can be linked to his mental collapse and suicide in 1822.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79922010"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1969.243-the-old-man-before-t",
+          "https://archive.org/details/clevelandart-1969.243-old-man-before-the-l"
+        ]
+      },
+      "citations": [],
+      "catalogue_raisonne": "Apell 92",
+      "url": "https://clevelandart.org/art/1969.243",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1969.243/1969.243_web.jpg",
+          "width": "1263",
+          "height": "857",
+          "filesize": "1042258",
+          "filename": "1969.243_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1969.243/1969.243_print.jpg",
+          "width": "3400",
+          "height": "2307",
+          "filesize": "6995525",
+          "filename": "1969.243_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1969.243/1969.243_full.tif",
+          "width": "5730",
+          "height": "3888",
+          "filesize": "66868780",
+          "filename": "1969.243_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Mr. and Mrs. Charles G. Prasse Collection",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 144603,
+      "creators": [
+        {
+          "id": 25719,
+          "description": "Johann Christoph Erhard (German, 1795–1822)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1795",
+          "death_year": "1822",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1969-12-13T00:00:00",
+      "sortable_date": 1819,
+      "date_added_to_oa": null,
+      "date_text": "1819",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:19.932000"
+    },
+    {
+      "id": 171271,
+      "accession_number": "2014.10.b",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Untitled (bridge of harmony), 2012–14. Jim Hodges (American, b. 1957). Granite, stainless steel, and paint; 1 of 3 boulders; part 2: 198.1 x 327.5 x 203.2 cm (78 x 128 15/16 x 80 in.). The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund, 2014.10.b. © Jim Hodges",
+      "current_location": "NG North Sculpture Garden",
+      "title": "Untitled (bridge of harmony)",
+      "creation_date": "2012–14",
+      "creation_date_earliest": 2012,
+      "creation_date_latest": 2014,
+      "artists_tags": [
+        "male",
+        "LGBTQ+ (after 1900)"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "granite, stainless steel, and paint; 1 of 3 boulders",
+      "support_materials": [],
+      "department": "Contemporary Art",
+      "collection": "CONTEMP - Sculpture",
+      "type": "Sculpture",
+      "measurements": "Part 2: 198.1 x 327.5 x 203.2 cm (78 x 128 15/16 x 80 in.)",
+      "dimensions": {
+        "part 2": {
+          "height": 1.981,
+          "width": 3.275,
+          "depth": 2.032
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Jim Hodges",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The largest rock sculpture weighs about 20 tons.",
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60747026"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2014.10.b",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Leonard C. Hanna Jr. Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": "Donna and Stewart Kohl Sculpture Garden",
+      "athena_id": 171271,
+      "creators": [
+        {
+          "id": 39600,
+          "description": "Jim Hodges (American, b. 1957)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1957",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2012-12-03T00:00:00",
+      "sortable_date": 2012,
+      "date_added_to_oa": null,
+      "date_text": "2012–14",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2014.10",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:05.057000"
+    },
+    {
+      "id": 171272,
+      "accession_number": "2014.10.c",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Untitled (bridge of harmony), 2012–14. Jim Hodges (American, b. 1957). Granite, stainless steel, and paint; 1 of 3 boulders; part 3: 172.7 x 383.3 x 203.2 cm (68 x 150 7/8 x 80 in.). The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund, 2014.10.c. © Jim Hodges",
+      "current_location": "NG North Sculpture Garden",
+      "title": "Untitled (bridge of harmony)",
+      "creation_date": "2012–14",
+      "creation_date_earliest": 2012,
+      "creation_date_latest": 2014,
+      "artists_tags": [
+        "male",
+        "LGBTQ+ (after 1900)"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "granite, stainless steel, and paint; 1 of 3 boulders",
+      "support_materials": [],
+      "department": "Contemporary Art",
+      "collection": "CONTEMP - Sculpture",
+      "type": "Sculpture",
+      "measurements": "Part 3: 172.7 x 383.3 x 203.2 cm (68 x 150 7/8 x 80 in.)",
+      "dimensions": {
+        "part 3": {
+          "height": 1.727,
+          "width": 3.833,
+          "depth": 2.032
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Jim Hodges",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The largest rock sculpture weighs about 20 tons.",
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60778208"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2014.10.c",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Leonard C. Hanna Jr. Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": "Donna and Stewart Kohl Sculpture Garden",
+      "athena_id": 171272,
+      "creators": [
+        {
+          "id": 39600,
+          "description": "Jim Hodges (American, b. 1957)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1957",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2012-12-03T00:00:00",
+      "sortable_date": 2012,
+      "date_added_to_oa": null,
+      "date_text": "2012–14",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2014.10",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:15.225000"
+    },
+    {
+      "id": 171269,
+      "accession_number": "2014.10",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Untitled (bridge of harmony), 2012–14. Jim Hodges (American, b. 1957). Granite, stainless steel, and paint; part 1: 78.7 x 292 x 157.5 cm (31 x 114 15/16 x 62 in.); part 2: 172.7 x 383.3 x 203.2 cm (68 x 150 7/8 x 80 in.); part 3: 198.1 x 327.5 x 203.2 cm (78 x 128 15/16 x 80 in.). The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund, 2014.10. © Jim Hodges",
+      "current_location": "NG North Sculpture Garden",
+      "title": "Untitled (bridge of harmony)",
+      "creation_date": "2012–14",
+      "creation_date_earliest": 2012,
+      "creation_date_latest": 2014,
+      "artists_tags": [
+        "male",
+        "LGBTQ+ (after 1900)"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "granite, stainless steel, and paint",
+      "support_materials": [],
+      "department": "Contemporary Art",
+      "collection": "CONTEMP - Sculpture",
+      "type": "Sculpture",
+      "measurements": "Part 1: 78.7 x 292 x 157.5 cm (31 x 114 15/16 x 62 in.); Part 2: 172.7 x 383.3 x 203.2 cm (68 x 150 7/8 x 80 in.); Part 3: 198.1 x 327.5 x 203.2 cm (78 x 128 15/16 x 80 in.)",
+      "dimensions": {
+        "part 1": {
+          "height": 0.787,
+          "width": 2.92,
+          "depth": 1.575
+        },
+        "part 2": {
+          "height": 1.727,
+          "width": 3.833,
+          "depth": 2.032
+        },
+        "part 3": {
+          "height": 1.981,
+          "width": 3.275,
+          "depth": 2.032
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Jim Hodges",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The largest rock sculpture weighs about 20 tons.",
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60779144"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2014.10",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Leonard C. Hanna Jr. Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": "Donna and Stewart Kohl Sculpture Garden",
+      "athena_id": 171269,
+      "creators": [
+        {
+          "id": 39600,
+          "description": "Jim Hodges (American, b. 1957)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1957",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2012-12-03T00:00:00",
+      "sortable_date": 2012,
+      "date_added_to_oa": null,
+      "date_text": "2012–14",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "cover",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:20.388000"
+    },
+    {
+      "id": 171270,
+      "accession_number": "2014.10.a",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Untitled (bridge of harmony), 2012–14. Jim Hodges (American, b. 1957). Granite, stainless steel, and paint; 1 of 3 boulders; part 1: 78.7 x 292 x 157.5 cm (31 x 114 15/16 x 62 in.). The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund, 2014.10.a. © Jim Hodges",
+      "current_location": "NG North Sculpture Garden",
+      "title": "Untitled (bridge of harmony)",
+      "creation_date": "2012–14",
+      "creation_date_earliest": 2012,
+      "creation_date_latest": 2014,
+      "artists_tags": [
+        "male",
+        "LGBTQ+ (after 1900)"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "granite, stainless steel, and paint; 1 of 3 boulders",
+      "support_materials": [],
+      "department": "Contemporary Art",
+      "collection": "CONTEMP - Sculpture",
+      "type": "Sculpture",
+      "measurements": "Part 1: 78.7 x 292 x 157.5 cm (31 x 114 15/16 x 62 in.)",
+      "dimensions": {
+        "part 1": {
+          "height": 0.787,
+          "width": 2.92,
+          "depth": 1.575
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Jim Hodges",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The largest rock sculpture weighs about 20 tons.",
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60779087"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2014.10.a",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Leonard C. Hanna Jr. Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": "Donna and Stewart Kohl Sculpture Garden",
+      "athena_id": 171270,
+      "creators": [
+        {
+          "id": 39600,
+          "description": "Jim Hodges (American, b. 1957)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1957",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2012-12-03T00:00:00",
+      "sortable_date": 2012,
+      "date_added_to_oa": null,
+      "date_text": "2012–14",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2014.10",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:42.021000"
+    },
+    {
+      "id": 134287,
+      "accession_number": "1956.753.b",
+      "share_license_status": "CC0",
+      "tombstone": "Women Enjoying the Evening Cool Near Ryogoku Bridge, c. mid 1790s. Kitagawa Utamaro (Japanese, c. 1754–1806). Color woodblock print; sheet: 37.4 x 25.3 cm (14 3/4 x 9 15/16 in.). The Cleveland Museum of Art, The Fanny Tewksbury King Collection, 1956.753.b",
+      "current_location": null,
+      "title": "Women Enjoying the Evening Cool Near Ryogoku Bridge",
+      "creation_date": "c. mid 1790s",
+      "creation_date_earliest": 1794,
+      "creation_date_latest": 1797,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Japan, Edo period (1615–1868)"
+      ],
+      "technique": "color woodblock print",
+      "support_materials": [],
+      "department": "Japanese Art",
+      "collection": "Japanese Art",
+      "type": "Print",
+      "measurements": "Sheet: 37.4 x 25.3 cm (14 3/4 x 9 15/16 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.374,
+          "width": 0.253
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Artist's signature: Utamaro hitsu",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": 1
+        },
+        {
+          "inscription": "Publisher: Yamguachiya Chūsuke (emblem)",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": 2
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 291838,
+            "title": "Japanese Gallery 235 Rotation - January-July 2017",
+            "description": "<i>Japanese Gallery 235 Rotation - January-July 2017</i>. The Cleveland Museum of Art (January 9-July 10, 2017).",
+            "opening_date": "2017-01-09T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "<em>Japanese Woodblock Prints: Themes and Techniques</em>. The Cleveland Museum of Art Education Department, Cleveland, OH (1980).",
+            "opening_date": "1980-01-01T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Jacquin Collection (sale: Walpole Galleries, January 20, 1921, lot 115)",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "Fanny Tewksbury King [d. 1949], Cleveland, OH, 1921-1956, sold by her estate to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": [],
+          "date": "1921-1956",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH, 1956-present",
+          "citations": [],
+          "footnotes": [],
+          "date": "1956-",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [
+        "1956.753a"
+      ],
+      "did_you_know": null,
+      "description": "People crowding the Ryōgoku Bridge over the Sumida River and those aboard party boats below enjoy summer fireworks. Among a group gathered on the riverbank a little boy stands holding his caged pet cricket in one hand, and a young woman’s hand in the other.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80026889"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1956.753.b-women-enjoying-the-e"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1956.753.b",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1956.753.b/1956.753.b_web.jpg",
+          "width": "576",
+          "height": "900",
+          "filesize": "311272",
+          "filename": "1956.753.b_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1956.753.b/1956.753.b_print.jpg",
+          "width": "2176",
+          "height": "3400",
+          "filesize": "2783647",
+          "filename": "1956.753.b_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1956.753.b/1956.753.b_full.tif",
+          "width": "2490",
+          "height": "3890",
+          "filesize": "29088616",
+          "filename": "1956.753.b_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "The Fanny Tewksbury King Collection",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 134287,
+      "creators": [
+        {
+          "id": 23355,
+          "description": "Kitagawa Utamaro (Japanese, c. 1754–1806)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "喜多川 歌麿",
+          "birth_year": "1754",
+          "death_year": "1806",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1956-12-11T00:00:00",
+      "sortable_date": 1794,
+      "date_added_to_oa": null,
+      "date_text": "c. mid 1790s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "1956.753",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:18.659000"
+    },
+    {
+      "id": 152496,
+      "accession_number": "1985.318",
+      "share_license_status": "CC0",
+      "tombstone": "Sudden Shower over Shin-Ōhashi Bridge and Atake, from the series One Hundred Famous Views of Edo, 1857. Utagawa Hiroshige (Japanese, 1797–1858). Color woodblock print, ink and color on paper; overall: 34.2 x 11.1 cm (13 7/16 x 4 3/8 in.). The Cleveland Museum of Art, The Kelvin Smith Collection, given by Mrs. Kelvin Smith, 1985.318",
+      "current_location": null,
+      "title": "Sudden Shower over Shin-Ōhashi Bridge and Atake, from the series One Hundred Famous Views of Edo",
+      "creation_date": "1857",
+      "creation_date_earliest": 1857,
+      "creation_date_latest": 1857,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Japan, Edo period (1615–1868)"
+      ],
+      "technique": "Color woodblock print, ink and color on paper",
+      "support_materials": [],
+      "department": "Japanese Art",
+      "collection": "Japanese Art",
+      "type": "Print",
+      "measurements": "Overall: 34.2 x 11.1 cm (13 7/16 x 4 3/8 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.342,
+          "width": 0.111
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Signature: Hiroshige Hitsu\r\nArtist Seal: Hiro\r\nPublisher: Tsujiyasu (Tsujian)\r\nCensorship Seal: Mera, Watanabe",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 310240,
+            "title": "A Private World: Japanese and Chinese Art from the Kelvin Smith Collection",
+            "description": "<i>A Private World: Japanese and Chinese Art from the Kelvin Smith Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 14-November 13, 1988).",
+            "opening_date": "1988-09-14T04:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Cleveland Museum of Art, 1988: A Private World: Japanese and Chinese Art from the Kelvin Smith Collection.",
+            "opening_date": "1988-01-01T00:00:00"
+          },
+          {
+            "description": "Later Japanese Art Gallery Rotation (Gallery 113); July 13 - November 17, 2004.",
+            "opening_date": "2004-07-13T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Wakai",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        },
+        {
+          "description": "Louis W. Black (sale: Sotheby Parke Bernet, March 4, 1976, lot 243)",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        },
+        {
+          "description": "R. E. Lewis",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [
+        "297.1979"
+      ],
+      "did_you_know": null,
+      "description": "Running through Edo, the Ohashi Bridge was one of 300 bridges that crossed the Sumida River. Published about a year before Hiroshige’s death, this print design illustrates the artist’s mastery of capturing atmospheric conditions. Figures scurry across the bridge amid slanting sheets of rain.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79937274"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1985.318-sudden-shower-over-s"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1985.318",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1985.318/1985.318_web.jpg",
+          "width": "598",
+          "height": "900",
+          "filesize": "213267",
+          "filename": "1985.318_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1985.318/1985.318_print.jpg",
+          "width": "2259",
+          "height": "3400",
+          "filesize": "2298111",
+          "filename": "1985.318_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1985.318/1985.318_full.tif",
+          "width": "4827",
+          "height": "7264",
+          "filesize": "105219504",
+          "filename": "1985.318_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1985.318/1985.318_alt0_web.jpg",
+            "width": "297",
+            "height": "893",
+            "filesize": "233163"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1985.318/1985.318_alt0_print.jpg",
+            "width": "681",
+            "height": "2048",
+            "filesize": "1194714"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1985.318/1985.318_alt0_full.tif",
+            "width": "681",
+            "height": "2048",
+            "filesize": "4185612"
+          }
+        }
+      ],
+      "creditline": "The Kelvin Smith Collection, given by Mrs. Kelvin Smith",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 152496,
+      "creators": [
+        {
+          "id": 50381,
+          "description": "Utagawa Hiroshige (Japanese, 1797–1858)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "歌川 広重",
+          "birth_year": "1797",
+          "death_year": "1858",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1985-12-18T00:00:00",
+      "sortable_date": 1857,
+      "date_added_to_oa": null,
+      "date_text": "1857",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Swallow on a Flowering Cherry Branch",
+        "Sudden Shower over Shin-Ohashi Bridge and Atake (Ohashi Atake no yudachi), from the series One Hundred Famous Views of Edo (Meisho Edo hyakkei)"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:59.408000"
+    },
+    {
+      "id": 126701,
+      "accession_number": "1949.134",
+      "share_license_status": "CC0",
+      "tombstone": "Sunset at Ryōgoku Bridge, 1806–20. Katsukawa Shunkō II (Shunsen) (Japanese, c. 1762-c. 1821). Woodblock print; ink and color on paper; sheet: 22.3 x 17.2 cm (8 3/4 x 6 3/4 in.). The Cleveland Museum of Art, Bequest of Mrs. Madeleine Hamill in memory of Lawrence Hamill, 1949.134",
+      "current_location": null,
+      "title": "Sunset at Ryōgoku Bridge",
+      "creation_date": "1806–20",
+      "creation_date_earliest": 1806,
+      "creation_date_latest": 1820,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Japan, Edo period (1615–1868)"
+      ],
+      "technique": "Woodblock print; ink and color on paper",
+      "support_materials": [],
+      "department": "Japanese Art",
+      "collection": "Japanese Art",
+      "type": "Print",
+      "measurements": "Sheet: 22.3 x 17.2 cm (8 3/4 x 6 3/4 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.223,
+          "width": 0.172
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "A view of boats and riverside stalls near the Ryōgoku Bridge is captured in a roundel. The scene is accompanied by a poem. Much faded today, traces of the colors used to indicate the last rays of the sun remain. The artist signed the print “design by Shunsen” (Shunsen ga), a name he used from New Year’s of 1806, after he became a student of Katsukawa Shun’ei (1762-1819). Around the year 1820, he took the name Shunkō II. He designed prints of beauties, actors, and landscapes. In his final years, he painted designs on ceramics.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79906249"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1949.134-sunset-at-ryogoku-br"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1949.134",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1949.134/1949.134_web.jpg",
+          "width": "719",
+          "height": "900",
+          "filesize": "212781",
+          "filename": "1949.134_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1949.134/1949.134_print.jpg",
+          "width": "2715",
+          "height": "3400",
+          "filesize": "2346665",
+          "filename": "1949.134_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1949.134/1949.134_full.tif",
+          "width": "4792",
+          "height": "6000",
+          "filesize": "86289296",
+          "filename": "1949.134_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2014-10-14T15:33:42",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1949.134/1949.134_alt0_web.jpg",
+            "width": "724",
+            "height": "900",
+            "filesize": "182145"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1949.134/1949.134_alt0_print.jpg",
+            "width": "2734",
+            "height": "3400",
+            "filesize": "2391005"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1949.134/1949.134_alt0_full.tif",
+            "width": "4825",
+            "height": "6000",
+            "filesize": "86879512"
+          }
+        }
+      ],
+      "creditline": "Bequest of Mrs. Madeleine Hamill in memory of Lawrence Hamill",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 126701,
+      "creators": [
+        {
+          "id": 317215,
+          "description": "Katsukawa Shunkō II (Shunsen) (Japanese, c. 1762-c. 1821)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "二代目　勝川 春好（春扇）",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1949-06-14T00:00:00",
+      "sortable_date": 1806,
+      "date_added_to_oa": null,
+      "date_text": "1806–20",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:03.520000"
+    },
+    {
+      "id": 163795,
+      "accession_number": "2005.200",
+      "share_license_status": "CC0",
+      "tombstone": "Leigh Tor Rocks at Poundsgate, near New Bridge on the Dart, Devon, 1800. John White Abbott (British, 1763–1851). Watercolor with pen and black ink and traces of graphite underdrawing; image: 16 x 24.7 cm (6 5/16 x 9 3/4 in.); sheet: 17.9 x 26.9 cm (7 1/16 x 10 9/16 in.). The Cleveland Museum of Art, Gift of the Painting and Drawing Society of The Cleveland Museum of Art, 2005.200",
+      "current_location": null,
+      "title": "Leigh Tor Rocks at Poundsgate, near New Bridge on the Dart, Devon",
+      "creation_date": "1800",
+      "creation_date_earliest": 1800,
+      "creation_date_latest": 1800,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "watercolor with pen and black ink and traces of graphite underdrawing",
+      "support_materials": [],
+      "department": "Drawings",
+      "collection": "DR - British",
+      "type": "Drawing",
+      "measurements": "Image: 16 x 24.7 cm (6 5/16 x 9 3/4 in.); Sheet: 17.9 x 26.9 cm (7 1/16 x 10 9/16 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.179,
+          "width": 0.269
+        },
+        "image": {
+          "height": 0.16,
+          "width": 0.247
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 200485,
+            "title": "British Drawings from the Cleveland Museum of Art ",
+            "description": "<i>British Drawings from the Cleveland Museum of Art </i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 10-May 26, 2013).",
+            "opening_date": "2013-02-10T00:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "John White Abbott (1763-1851)",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "(sale, Sotheby's, London, November 19, 1981, no. 188)",
+          "citations": [],
+          "footnotes": null,
+          "date": "1981",
+          "sortorder": 2
+        },
+        {
+          "description": "(Colnaghi & Co., New York, NY)",
+          "citations": [],
+          "footnotes": null,
+          "date": "after 1981-?",
+          "sortorder": 3
+        },
+        {
+          "description": "Harry and Nina Pollock, Cleveland Heights, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "?-before 2007",
+          "sortorder": 4
+        },
+        {
+          "description": "Painting and Drawing Society, Cleveland Museum of Art, Cleveland, OH, given to the Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007",
+          "sortorder": 5
+        },
+        {
+          "description": "Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007-",
+          "sortorder": 6
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "In addition to working as a watercolorist, John White Abbott served professionally as an apothecary and surgeon.",
+      "description": "This closely observed watercolor was made in Dartmoor—an expanse of moorland in southwest England capped with a series of more than 100 exposed granite hilltops known as \"tors,\" ranging from the monolithic to the nondescript. John White Abbott chose a low vantage point that accentuated the looming immensity of the outcrop in whose shelter a herd of cows has converged. Almost austere in its lack of superfluous detail, this small sheet suggests the untamed quality of the Devon moors.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79990428"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2005.200-leigh-tor-rocks-at-p"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Lemonedes, Heather. \"Quintessentially British.\" <em>Cleveland Art</em> (July/August 2007).",
+          "page_number": "Mentioned: pp. 8-11; Reproduced: p. 9",
+          "url": null
+        },
+        {
+          "citation": "Lemonedes, Heather. <em>British Drawings: The Cleveland Museum of Art. </em>Exh. Cat. Cleveland, OH: Cleveland Museum of Art, 2013.",
+          "page_number": "Mentioned: pp. 52-53, 143, no. 15; Reproduced: p. 53",
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/2005.200",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2005.200/2005.200_web.jpg",
+          "width": "1263",
+          "height": "847",
+          "filesize": "206635",
+          "filename": "2005.200_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2005.200/2005.200_print.jpg",
+          "width": "3400",
+          "height": "2279",
+          "filesize": "1426650",
+          "filename": "2005.200_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2005.200/2005.200_full.tif",
+          "width": "6596",
+          "height": "4422",
+          "filesize": "87527144",
+          "filename": "2005.200_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2005-09-01T13:54:55",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2005.200/2005.200_alt0_web.jpg",
+            "width": "1263",
+            "height": "857",
+            "filesize": "828074"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2005.200/2005.200_alt0_print.jpg",
+            "width": "3400",
+            "height": "2308",
+            "filesize": "5629016"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2005.200/2005.200_alt0_full.tif",
+            "width": "5609",
+            "height": "3807",
+            "filesize": "64091264"
+          }
+        },
+        {
+          "date_created": "2009-10-07T18:49:24",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2005.200/2005.200_alt1_web.jpg",
+            "width": "1263",
+            "height": "844",
+            "filesize": "792798"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2005.200/2005.200_alt1_print.jpg",
+            "width": "3400",
+            "height": "2273",
+            "filesize": "5796314"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2005.200/2005.200_alt1_full.tif",
+            "width": "6573",
+            "height": "4395",
+            "filesize": "86698592"
+          }
+        }
+      ],
+      "creditline": "Gift of the Painting and Drawing Society of The Cleveland Museum of Art",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 163795,
+      "creators": [
+        {
+          "id": 51907,
+          "description": "John White Abbott (British, 1763–1851)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1763",
+          "death_year": "1851",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2005-12-05T00:00:00",
+      "sortable_date": 1800,
+      "date_added_to_oa": null,
+      "date_text": "1800",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Near New Bridge on the Dart Devon"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:38.799000"
+    },
+    {
+      "id": 156000,
+      "accession_number": "1991.283",
+      "share_license_status": "CC0",
+      "tombstone": "Alexander Gardner's Photographic Sketchbook of the War: Military Bridge, Across the Chickahominy, Virginia, 1862. David B. Woodbury (American, 1866). Albumen print, gold toned, from wet collodion negative; image: 17.7 x 23 cm (6 15/16 x 9 1/16 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, John L. Severance Fund, 1991.283",
+      "current_location": null,
+      "title": "Military Bridge, Across the Chickahominy, Virginia",
+      "series": "Alexander Gardner's Photographic Sketchbook of the War",
+      "creation_date": "1862",
+      "creation_date_earliest": 1862,
+      "creation_date_latest": 1862,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "albumen print, gold toned, from wet collodion negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 17.7 x 23 cm (6 15/16 x 9 1/16 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.177,
+          "width": 0.23
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on recto: \"23\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 311875,
+            "title": "Legacy of Light: Master Photographs from the Cleveland Museum of Art",
+            "description": "<i>Legacy of Light: Master Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 24, 1996-February 2, 1997).",
+            "opening_date": "1996-11-24T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, November 20,1996 - February 2, 1997: \"Legacy of Light: Master Photographs from the Cleveland Museum of Art.\"",
+            "opening_date": "1997-02-02T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "(Charles Isaacs Photographs, Inc., New York, NY)",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "February 24, 1992",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "In this complex composition, David B. Woodbury merged the documentation of an event with his desire to record an impressive landscape. The image depicts a precarious, yet essential military log bridge that traverses a swamp created by the accumulated waters of the Chickahominy River, located southeast of Richmond, Virginia. Constructed under difficult physical conditions, the structure was later destroyed by floodwaters caused by heavy rains. The workers involved with the structure's construction are positioned in a single line so that each person is identifiable; however, reduced to diminutive size by the camera's distant viewpoint, the workers appear to be dominated by their natural environment. This image appeared in the first volume of a two-volume set of 100 Civil War photographs published between 1865–66 by Alexander Gardner (1821–1882), who printed the negatives and compiled the album, which included work by a number of other photographers.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79944779"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1991.283-military-bridge-acro"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 399",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1991.283",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1991.283/1991.283_web.jpg",
+          "width": "1155",
+          "height": "893",
+          "filesize": "829629",
+          "filename": "1991.283_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1991.283/1991.283_print.jpg",
+          "width": "3400",
+          "height": "2629",
+          "filesize": "5911799",
+          "filename": "1991.283_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1991.283/1991.283_full.tif",
+          "width": "5843",
+          "height": "4518",
+          "filesize": "79230912",
+          "filename": "1991.283_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 156000,
+      "creators": [
+        {
+          "id": 1106,
+          "description": "David B. Woodbury (American, 1866)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "David B. Woodbury American, d. 1866\r\n\r\nDavid Woodbury was one of the many lesser known photographers of the American Civil War. Employed by Mathew Brady, he is known to have photographed in Virginia. Woodbury later worked for Alexander Gardner, and one of his views appears in Gardner's famous volume Photographic Sketchbook of the Civil War (1866). T.W.F.",
+          "name_in_original_language": null,
+          "death_year": "1866",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1992-02-24T00:00:00",
+      "sortable_date": 1862,
+      "date_added_to_oa": null,
+      "date_text": "1862",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:56.422000"
+    },
+    {
+      "id": 134286,
+      "accession_number": "1956.753.a",
+      "share_license_status": "CC0",
+      "tombstone": "Women Enjoying the Evening Cool Near Ryogoku Bridge, c. mid 1790s. Kitagawa Utamaro (Japanese, c. 1754–1806). Color woodblock print; sheet: 37.4 x 25.3 cm (14 3/4 x 9 15/16 in.). The Cleveland Museum of Art, The Fanny Tewksbury King Collection, 1956.753.a",
+      "current_location": null,
+      "title": "Women Enjoying the Evening Cool Near Ryogoku Bridge",
+      "creation_date": "c. mid 1790s",
+      "creation_date_earliest": 1794,
+      "creation_date_latest": 1797,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Japan, Edo period (1615–1868)"
+      ],
+      "technique": "color woodblock print",
+      "support_materials": [],
+      "department": "Japanese Art",
+      "collection": "Japanese Art",
+      "type": "Print",
+      "measurements": "Sheet: 37.4 x 25.3 cm (14 3/4 x 9 15/16 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.374,
+          "width": 0.253
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Artist's signature: Utamaro hitsu",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": 1
+        },
+        {
+          "inscription": "Publisher: Yamguachiya Chūsuke (emblem)",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": 2
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 291838,
+            "title": "Japanese Gallery 235 Rotation - January-July 2017",
+            "description": "<i>Japanese Gallery 235 Rotation - January-July 2017</i>. The Cleveland Museum of Art (January 9-July 10, 2017).",
+            "opening_date": "2017-01-09T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "<em>Japanese Woodblock Prints: Themes and Techniques</em>. The Cleveland Museum of Art Education Department, Cleveland, OH (1980).",
+            "opening_date": "1980-01-01T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Jacquin Collection (sale: Walpole Galleries, January 20, 1921, lot 115)",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "Fanny Tewksbury King [d. 1949], Cleveland, OH, 1921-1956, sold by her estate to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": [],
+          "date": "1921-1956",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH, 1956-present",
+          "citations": [],
+          "footnotes": [],
+          "date": "1956-",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [
+        "1956.753"
+      ],
+      "did_you_know": null,
+      "description": "People crowding the Ryōgoku Bridge over the Sumida River and those aboard party boats below enjoy summer fireworks. Among a group gathered on the riverbank a little boy stands holding his caged pet cricket in one hand, and a young woman’s hand in the other. At left, a boy with a lantern advertising the name of the restaurant for which he works, “Ōnoshi,” guides two women away.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80026885"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1956.753.a-women-enjoying-the-e"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1956.753.a",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1956.753.a/1956.753.a_web.jpg",
+          "width": "605",
+          "height": "900",
+          "filesize": "327200",
+          "filename": "1956.753.a_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1956.753.a/1956.753.a_print.jpg",
+          "width": "2285",
+          "height": "3400",
+          "filesize": "2917659",
+          "filename": "1956.753.a_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1956.753.a/1956.753.a_full.tif",
+          "width": "2614",
+          "height": "3890",
+          "filesize": "30536784",
+          "filename": "1956.753.a_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "The Fanny Tewksbury King Collection",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 134286,
+      "creators": [
+        {
+          "id": 23355,
+          "description": "Kitagawa Utamaro (Japanese, c. 1754–1806)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "喜多川 歌麿",
+          "birth_year": "1754",
+          "death_year": "1806",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1956-12-11T00:00:00",
+      "sortable_date": 1794,
+      "date_added_to_oa": null,
+      "date_text": "c. mid 1790s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "1956.753",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:00.206000"
+    },
+    {
+      "id": 119937,
+      "accession_number": "1940.737",
+      "share_license_status": "CC0",
+      "tombstone": "Peasant's Cottage (recto); Bridge and Gate (verso) , c. 1600. Abraham Bloemaert (Dutch, 1564–1651). Pen and brown ink with brush and brown, blue, red and yellow wash, over black and red chalk; sheet: 17.2 x 27.2 cm (6 3/4 x 10 11/16 in.). The Cleveland Museum of Art, Bequest of James Parmelee, 1940.737",
+      "current_location": null,
+      "title": "Peasant's Cottage (recto); Bridge and Gate (verso) ",
+      "creation_date": "c. 1600",
+      "creation_date_earliest": 1605,
+      "creation_date_latest": 1615,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Netherlands, early 17th Century"
+      ],
+      "technique": "pen and brown ink with brush and brown, blue, red and yellow wash, over black and red chalk",
+      "support_materials": [],
+      "department": "Drawings",
+      "collection": "DR - Dutch",
+      "type": "Drawing",
+      "measurements": "Sheet: 17.2 x 27.2 cm (6 3/4 x 10 11/16 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.172,
+          "width": 0.272
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 312341,
+            "title": "The Silver Jubilee Exhibition",
+            "description": "<i>The Silver Jubilee Exhibition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 23-September 28, 1941).",
+            "opening_date": "1941-06-23T04:00:00"
+          },
+          {
+            "id": 347490,
+            "title": "Drawings from the Museum Collection",
+            "description": "<i>Drawings from the Museum Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 17-August 24, 1942).",
+            "opening_date": "1942-06-17T04:00:00"
+          },
+          {
+            "id": 300448,
+            "title": "Dutch Painting, The Golden Age",
+            "description": "<i>Dutch Painting, The Golden Age</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 5-February 27, 1955).",
+            "opening_date": "1955-01-05T05:00:00"
+          },
+          {
+            "id": 335889,
+            "title": "Seventeenth Century Dutch Paintings and Drawings",
+            "description": "<i>Seventeenth Century Dutch Paintings and Drawings</i>. Akron Art Museum (organizer) (October 10-November 11, 1956).",
+            "opening_date": "1956-10-10T04:00:00"
+          },
+          {
+            "id": 304645,
+            "title": "Drawings",
+            "description": "<i>Drawings</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 11-September 10, 1963).",
+            "opening_date": "1963-01-11T05:00:00"
+          },
+          {
+            "id": 350931,
+            "title": "Drawings: France, Italy, Netherlands",
+            "description": "<i>Drawings: France, Italy, Netherlands</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 1-March 24, 1965).",
+            "opening_date": "1965-01-01T05:00:00"
+          },
+          {
+            "id": 301805,
+            "title": "Dutch Art and Life in the Seventeenth Century",
+            "description": "<i>Dutch Art and Life in the Seventeenth Century</i>. The Cleveland Museum of Art, Cleveland, OH (July 10-September 2, 1973).",
+            "opening_date": "1973-07-10T04:00:00"
+          },
+          {
+            "id": 309575,
+            "title": "Seventeenth Century Netherlandish Graphics",
+            "description": "<i>Seventeenth Century Netherlandish Graphics</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 27-August 1, 1982).",
+            "opening_date": "1982-04-27T04:00:00"
+          },
+          {
+            "id": 310281,
+            "title": "Northern Landscape Traditions: 16th and 17th Century Prints and Drawings",
+            "description": "<i>Northern Landscape Traditions: 16th and 17th Century Prints and Drawings</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 10-December 31, 1989).",
+            "opening_date": "1989-10-10T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "J. P. Haseltine",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        },
+        {
+          "description": "J. Parmelee, Cleveland",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        },
+        {
+          "description": "John Postle Heseltine, London (Lugt 1507-1508, not stamped; according to old label, now removed, in departmental file). [Arthur H. Hahlo & Co., New York (according to old label, now removed, in departmental file)]; James Parmelee, Cleveland (not in Lugt; according to departmental cataloguing sheet and card)",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Abraham Bloemaert, active in Utrecht, was a painter, prolific draftsman, print designer, and important teacher. Bloemaert was an important precursor of the new wave of realism in Dutch art in the 1620s. Artist and author Karel van Mander (1548-1606) wrote the following description of Bloemaert=s drawings in 1604 which seems to correspond very closely to this work: With art lovers there are also by him very attractive landscapes with some attractive and funny farmhouses, farm tools, trees, and backgrounds, things to be seen around Utrecht in great numbers and variety, for he does very much from life, having a very attractive way of drawing and handling with the pen, to which he then adds some succulent touches of colors for a special seemliness.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80015250"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1940.737-peasant-s-cottage-re"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Francis, Henry. \"Dutch Drawings.\" <em>The Bulletin of the Cleveland Museum of Art </em>46, no. 3 (March 1959): 39-43.",
+          "page_number": "Mentioned: p. 39",
+          "url": "https://www.jstor.org/stable/25142327"
+        },
+        {
+          "citation": "Kretzschmar, Sabine, \"Carefully Observed Terrain\", Cleveland Museum of Art. <em>Cleveland Art: The Cleveland Museum of Art Members Magazine</em>. Vol. 36 no. 08, October 1996",
+          "page_number": "Mentioned & reproduced: p. 7",
+          "url": "https://archive.org/details/CMAMM1996-08/page/6"
+        }
+      ],
+      "url": "https://clevelandart.org/art/1940.737",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1940.737/1940.737_web.jpg",
+          "width": "900",
+          "height": "293",
+          "filesize": "181296",
+          "filename": "1940.737_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1940.737/1940.737_print.jpg",
+          "width": "3400",
+          "height": "1106",
+          "filesize": "1479246",
+          "filename": "1940.737_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1940.737/1940.737_full.tif",
+          "width": "12427",
+          "height": "4041",
+          "filesize": "150676528",
+          "filename": "1940.737_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2010-04-16T15:45:18",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1940.737/1940.737_alt0_web.jpg",
+            "width": "900",
+            "height": "584",
+            "filesize": "192761"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1940.737/1940.737_alt0_print.jpg",
+            "width": "3400",
+            "height": "2206",
+            "filesize": "2503103"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1940.737/1940.737_alt0_full.tif",
+            "width": "6146",
+            "height": "3987",
+            "filesize": "73537772"
+          }
+        }
+      ],
+      "creditline": "Bequest of James Parmelee",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 119937,
+      "creators": [
+        {
+          "id": 2885,
+          "description": "Abraham Bloemaert (Dutch, 1564–1651)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1564",
+          "death_year": "1651",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1940-10-30T00:00:00",
+      "sortable_date": 1605,
+      "date_added_to_oa": null,
+      "date_text": "c. 1600",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "cover",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:53.077000"
+    },
+    {
+      "id": 679108,
+      "accession_number": "2025.80",
+      "share_license_status": "CC0",
+      "tombstone": "Wannian Bridge in Suzhou (姑蘇萬年橋), 1741. China, Qing dynasty (1644–1911), Qianlong reign (1736–95). Hanging scroll; polychrome woodblock print; ink and color on paper; print only: 102.3 x 54 cm (40 1/4 x 21 1/4 in.); overall: 176.5 x 57.4 cm (69 1/2 x 22 5/8 in.); with knobs: 176.5 x 62.5 cm (69 1/2 x 24 5/8 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 2025.80",
+      "current_location": null,
+      "title": "Wannian Bridge in Suzhou",
+      "title_in_original_language": "姑蘇萬年橋",
+      "creation_date": "1741",
+      "creation_date_earliest": 1741,
+      "creation_date_latest": 1741,
+      "artists_tags": [],
+      "culture": [
+        "China, Qing dynasty (1644–1911), Qianlong reign (1736–95)"
+      ],
+      "technique": "Hanging scroll; polychrome woodblock print; ink and color on paper",
+      "support_materials": [],
+      "department": "Chinese Art",
+      "collection": "ASIAN - Hanging scroll",
+      "type": "Print",
+      "measurements": "Print only: 102.3 x 54 cm (40 1/4 x 21 1/4 in.); Overall: 176.5 x 57.4 cm (69 1/2 x 22 5/8 in.); with knobs: 176.5 x 62.5 cm (69 1/2 x 24 5/8 in.)",
+      "dimensions": {
+        "print only": {
+          "height": 1.023,
+          "width": 0.54
+        },
+        "overall with mount": {
+          "height": 1.77,
+          "width": 0.575
+        },
+        "overall": {
+          "height": 1.765,
+          "width": 0.574
+        },
+        "with knobs": {
+          "height": 1.765,
+          "width": 0.625
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Christer von der Burg, sold to the Cleveland Museum of Art)",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2025",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2025–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Woodblock printing in color reached a height in China in the 1600s to 1700s. The prints were executed by means of sets of separate blocks, each carved to print a different color.",
+      "description": "In the 1600s, printing flourished in such Jiangnan cities as Nanjing, Suzhou, Hangzhou, and Huizhou, evolving from privately enjoyed illustrated books printed in color to more commercialized single-sheet color prints that were hung on walls and became part of the rich urban visual culture.",
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2025.80",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Purchase from the J. H. Wade Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 679108,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "2025-03-03T05:00:00Z",
+      "sortable_date": 1741,
+      "date_added_to_oa": null,
+      "date_text": "1741",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-04-15 11:19:38.318000"
+    },
+    {
+      "id": 168563,
+      "accession_number": "2010.29",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Old Covered Bridge, 1941. Mabel A. Hewit (American, 1903–1984). Lithograph; sheet: 27.2 x 29.1 cm (10 11/16 x 11 7/16 in.); image: 19.7 x 24.1 cm (7 3/4 x 9 1/2 in.). The Cleveland Museum of Art, Gift of Mr. and Mrs. William Jurey in memory of Mabel A. Hewit, 2010.29. © Mabel A. Hewit",
+      "current_location": null,
+      "title": "Old Covered Bridge",
+      "creation_date": "1941",
+      "creation_date_earliest": 1941,
+      "creation_date_latest": 1941,
+      "artists_tags": [
+        "May Show",
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "lithograph",
+      "support_materials": [
+        {
+          "description": "wove paper\r\n",
+          "watermarks": []
+        }
+      ],
+      "department": "Prints",
+      "collection": "PR - Lithograph",
+      "type": "Print",
+      "measurements": "Sheet: 27.2 x 29.1 cm (10 11/16 x 11 7/16 in.); Image: 19.7 x 24.1 cm (7 3/4 x 9 1/2 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.272,
+          "width": 0.291
+        },
+        "image": {
+          "height": 0.197,
+          "width": 0.241
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Mabel A. Hewit",
+      "inscriptions": [
+        {
+          "inscription": "lower margin, in graphite:  \"Old Covered Bridge  Aug 1941  2/12  Mabel A. Hewit 2/12\"\r\n\r\n",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 178739,
+            "title": "Midwest Modern: The Color Woodcuts of Mabel Hewit",
+            "description": "<i>Midwest Modern: The Color Woodcuts of Mabel Hewit</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 26-October 24, 2010).",
+            "opening_date": "2010-06-26T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Each summer between 1937 and 1954 at Ox-Bow, Hewit made numerous black-and-white lithographs in editions ranging from 10 to 16, exhibiting them widely. In 1938 she became director of the print gallery in a local department store, Halle Brothers Company, and although she switched to the department of interior decoration in 1940, she showed her lithographs in the store every fall from 1938 to at least 1942, always receiving a positive review in the local press.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80074620"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2010.29",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Mr. and Mrs. William Jurey in memory of Mabel A. Hewit",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 168563,
+      "creators": [
+        {
+          "id": 42681,
+          "description": "Mabel A. Hewit (American, 1903–1984)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Biographical information exists in the Cleveland Museum of Art Archives.",
+          "name_in_original_language": null,
+          "birth_year": "1903",
+          "death_year": "1984",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2010-03-01T00:00:00",
+      "sortable_date": 1941,
+      "date_added_to_oa": null,
+      "date_text": "1941",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:06.355000"
+    },
+    {
+      "id": 134288,
+      "accession_number": "1956.753.c",
+      "share_license_status": "CC0",
+      "tombstone": "Women Enjoying the Evening Cool Near Ryogoku Bridge, c. mid 1790s. Kitagawa Utamaro (Japanese, c. 1754–1806). Color woodblock print; sheet: 37.5 x 24.6 cm (14 3/4 x 9 11/16 in.). The Cleveland Museum of Art, The Fanny Tewksbury King Collection, 1956.753.c",
+      "current_location": null,
+      "title": "Women Enjoying the Evening Cool Near Ryogoku Bridge",
+      "creation_date": "c. mid 1790s",
+      "creation_date_earliest": 1794,
+      "creation_date_latest": 1797,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Japan, Edo period (1615–1868)"
+      ],
+      "technique": "color woodblock print",
+      "support_materials": [],
+      "department": "Japanese Art",
+      "collection": "Japanese Art",
+      "type": "Print",
+      "measurements": "Sheet: 37.5 x 24.6 cm (14 3/4 x 9 11/16 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.375,
+          "width": 0.246
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Artist's signature: Utamaro hitsu",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": 1
+        },
+        {
+          "inscription": "Publisher: Yamguachiya Chūsuke (emblem)",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": 2
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 291838,
+            "title": "Japanese Gallery 235 Rotation - January-July 2017",
+            "description": "<i>Japanese Gallery 235 Rotation - January-July 2017</i>. The Cleveland Museum of Art (January 9-July 10, 2017).",
+            "opening_date": "2017-01-09T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "<em>Japanese Woodblock Prints: Themes and Techniques</em>. The Cleveland Museum of Art Education Department, Cleveland, OH (1980).",
+            "opening_date": "1980-01-01T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Jacquin Collection (sale: Walpole Galleries, January 20, 1921, lot 115)",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "Fanny Tewksbury King [d. 1949], Cleveland, OH, 1921-1956, sold by her estate to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": [],
+          "date": "1921-1956",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH, 1956-present",
+          "citations": [],
+          "footnotes": [],
+          "date": "1956-",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [
+        "1956.753b"
+      ],
+      "did_you_know": null,
+      "description": "People crowding the Ryōgoku Bridge over the Sumida River and those aboard party boats below enjoy summer fireworks. Among a group gathered on the riverbank a little boy stands holding his caged pet cricket in one hand, and a young woman’s hand in the other. At left, a boy with a lantern advertising the name of the restaurant for which he works, “Ōnoshi,” guides two women away.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80026892"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1956.753.c-women-enjoying-the-e"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1956.753.c",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1956.753.c/1956.753.c_web.jpg",
+          "width": "599",
+          "height": "900",
+          "filesize": "311567",
+          "filename": "1956.753.c_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1956.753.c/1956.753.c_print.jpg",
+          "width": "2264",
+          "height": "3400",
+          "filesize": "3053731",
+          "filename": "1956.753.c_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1956.753.c/1956.753.c_full.tif",
+          "width": "2590",
+          "height": "3890",
+          "filesize": "30255828",
+          "filename": "1956.753.c_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "The Fanny Tewksbury King Collection",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 134288,
+      "creators": [
+        {
+          "id": 23355,
+          "description": "Kitagawa Utamaro (Japanese, c. 1754–1806)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "喜多川 歌麿",
+          "birth_year": "1754",
+          "death_year": "1806",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1956-12-11T00:00:00",
+      "sortable_date": 1794,
+      "date_added_to_oa": null,
+      "date_text": "c. mid 1790s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "1956.753",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:36.823000"
+    },
+    {
+      "id": 90249,
+      "accession_number": "2015.517",
+      "share_license_status": "CC0",
+      "tombstone": "Mountain Market, Clear with Rising Mist (산시청람도 [山市晴嵐圖]), early 1500s. Korea, Joseon dynasty (1392–1910). Hanging scroll; ink on silk; painting: 115.3 x 60 cm (45 3/8 x 23 5/8 in.); overall: 179 x 70.7 cm (70 1/2 x 27 13/16 in.); overall with knobs and cord: 181.8 x 77 cm (71 9/16 x 30 5/16 in.). The Cleveland Museum of Art, Gift from the Collection of George Gund III, 2015.517",
+      "current_location": null,
+      "title": "Mountain Market, Clear with Rising Mist",
+      "title_in_original_language": "산시청람도 [山市晴嵐圖]",
+      "creation_date": "early 1500s",
+      "creation_date_earliest": 1500,
+      "creation_date_latest": 1550,
+      "artists_tags": [],
+      "culture": [
+        "Korea, Joseon dynasty (1392–1910)"
+      ],
+      "technique": "Hanging scroll; ink on silk",
+      "support_materials": [],
+      "department": "Korean Art",
+      "collection": "ASIAN - Hanging scroll",
+      "type": "Painting",
+      "measurements": "Painting: 115.3 x 60 cm (45 3/8 x 23 5/8 in.); Overall: 179 x 70.7 cm (70 1/2 x 27 13/16 in.); Overall with knobs and cord: 181.8 x 77 cm (71 9/16 x 30 5/16 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 1.79,
+          "width": 0.707
+        },
+        "painting only": {
+          "height": 1.146,
+          "width": 0.599
+        },
+        "painting": {
+          "height": 1.153,
+          "width": 0.6
+        },
+        "overall with knobs and cord": {
+          "height": 1.818,
+          "width": 0.77
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 193115,
+            "title": "Ink Paintings and Ash-Glazed Ceramics:  Medieval Calligraphy, Painting, and Ceramic Art from Japan and Korea",
+            "description": "<i>Ink Paintings and Ash-Glazed Ceramics:  Medieval Calligraphy, Painting, and Ceramic Art from Japan and Korea</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 19-May 28, 2000).",
+            "opening_date": "2000-03-19T00:00:00"
+          },
+          {
+            "id": 295535,
+            "title": "Korean Gallery 236 Rotation",
+            "description": "<i>Korean Gallery 236 Rotation</i>. The Cleveland Museum of Art (organizer) (July 10, 2017-January 8, 2018).",
+            "opening_date": "2017-07-10T04:00:00"
+          },
+          {
+            "id": 617635,
+            "title": "From Dreaming to Hiking: Korean Landscape Paintings",
+            "description": "<i>From Dreaming to Hiking: Korean Landscape Paintings</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 1-September 29, 2024).",
+            "opening_date": "2024-03-01T05:00:00"
+          },
+          {
+            "id": 672927,
+            "title": "Art of the Early Joseon",
+            "description": "<i>Art of the Early Joseon</i>. National Museum of Korea, Seoul, Korea (Republic of) (organizer) (June 9-August 31, 2025).",
+            "opening_date": "2025-06-09T04:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "<em>Main Asian Rotation (Gallery 121)</em>. The Cleveland Museum of Art, Cleveland, OH (March 10-July 16, 2003).",
+            "opening_date": "2003-03-10T05:00:00Z"
+          },
+          {
+            "description": "National Palace Museum, Seoul, South Korea (September 11-October 13, 2019).",
+            "opening_date": "2019-09-11T04:00:00Z"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "(Andreas Leisinger, Tokyo, Japan, sold to George Gund III)",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "George Gund III [1937–2013], bequest to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–2015",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2015–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Due to its stylistic features, this painting has long been believed to be a Chinese painting of the Northern Song period, dated to the 12th century.",
+      "description": "This painting depicts several vignettes of the scholar-hermit’s various activities. In the lower left corner, the scholar-hermit is portrayed welcoming his guest in the courtyard. In the middle section on the lower bottom, the scholar and his guest are shown encountering another traveler on the bridge and exchanging their greetings. After crossing the bridge, the scholar visits a friend who lives in a compound of multiple buildings. The two friends decide to take a short walk. Both appear in a terraced cliff, enjoying a mountain vista and the fragrance of an old pine tree carried by the gentle wind. The scholar continues his journey with his two servants. They are portrayed crossing a winding wooden bridge. Right beyond the colossal rocky mountain, a panoramic view to a bustling market place unfolds, suggesting that it may be the place where the scholar-hermit’s entourage would visit. Perhaps the scholar need to buy items such as books, rolls of papers, and brushes, all essential to scholarly life. Toward the upper left corner, another group of travelers is landing on the river bank that leads to the city gate; they may be headed to the multistoried Buddhist stupa nestled on the top of the mountains.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60502082"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2015.517-mountain-market-clea"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Ishikawa, Jun 石川淳, Yoshitaka Iriya 入矢義高, Yūjirō Nakata 中田勇次郎, and Hironobu Kohara 古原宏伸. <em>Kō Kōbō, Gei San, Ō Mō, Go Chin</em> [黄公望, 倪瓚, 王蒙, 呉鎮]. Tōkyō: Chūō Kōronsha, 1979.",
+          "page_number": "no. 77",
+          "url": null
+        },
+        {
+          "citation": "Suzuki, Kei. <em>Chūgoku kaiga sōgō zuroku</em> (Comprehensive Illustrated Catalogue of Chinese Paintings), vol. 4 of Nihon hen: Ji'in, kojin (Japanese Collections: Temples and Private Collectors). Tōkyō: Tōkyō Daigaku Shuppankai, 1982.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Ahn, Hwi-joon. “The Origin and Development of Landscape Painting in Korea.” In <em>Arts of Korea</em> (New York: Metropolitan Museum of Art, 1998), 294–349.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Cunningham, Michael R., Shinʼichi Miyajima, and Yūji Yamashita. <em>Ink Paintings and Ash-Glazed Ceramics: Medieval Calligraphy, Painting, and Ceramic Art from Japan and Korea</em>. [Cleveland, Ohio]: Cleveland Museum of Art, 2000.",
+          "page_number": "Mentioned and Reproduced: pp. 80–82",
+          "url": null
+        },
+        {
+          "citation": "Hong, Sun-pyo. \"Understanding and Adopting Chinese Painting in 15th-and-16th-century Korean Art Scene [15ㆍ16세기 조선화단의 중국화 인식과 수용태도]. <em>Misulsa nondan </em>(2008): 49–73.",
+          "page_number": null,
+          "url": "http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01351988"
+        },
+        {
+          "citation": "Hong, Sun-pyo and Chin-sung Chang, “Peace under Heaven: Confucianism and Painting in Earl Joseon Korea.” In <em>Art of the Korean Renaissance, 1400-1600</em> (New York: Metropolitan Museum of Art, 2009), 65–90.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Jungmann, Burglind. “Sin Sukju’s Record on the Painting Collection of Prince Anpyeong and Early Joseon Antiquarianism.” <em>Archives of Asian Art</em> Vol. 61 (2011): 107–126.",
+          "page_number": null,
+          "url": "https://www.jstor.org/stable/41411636?seq=1#metadata_info_tab_contents"
+        },
+        {
+          "citation": "<em>Treasures from Korea: Arts and Culture of the Joseon Dynasty, 1392-1910</em>. Philadelphia: Philadelphia Museum of Art, 2014.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "MCormick, Sooa Im. “Dwelling by a Mountain Stream: A rare Korean treasure from the George Gund II bequest.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 57, no. 1 (January/February 2017): 12–13.",
+          "page_number": "Reproduced and Mentioned: pp. 12–13",
+          "url": "https://archive.org/details/CMAMM2017-01/page/n5/mode/2up"
+        },
+        {
+          "citation": "McCormick, Sooa Im. “Acquisition Highlights 2016: Korean Art.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 57, no. 2 (March/April 2017): 20.",
+          "page_number": "Reproduced and Mentioned: p. 20",
+          "url": "https://archive.org/details/CMAMM2017-02/page/n9/mode/2up"
+        },
+        {
+          "citation": "McCormick, Sooa Im. \"Cross-cultural Dialogues and Misattributions in Early Joseon Period Landscape Paintings.\" <em>Arts of Asia</em> 48, no. 3 (May-June 2018): 78–84.",
+          "page_number": "Reproduced: p. 78, fig.1; p. 80, fig.5; p. 83, fig. 9-11; p. 84, fig. 12",
+          "url": null
+        },
+        {
+          "citation": "McCormick, Sooa Im. \"The Past and Present of the Korean Collection in the Cleveland Museum of Art.\" In <em>The Korean Collection of the Cleveland Museum of Art</em>. Ch'a, Mi-rae, Kwi-suk An, Cleveland Museum of Art, 국외소재문화재재단, and An Min-hŭi, ed., 22-37. First edition, English ed. Overseas Korean Cultural Heritage Series, 16. Seoul, Republic of Korea: Overseas Korean Cultural Heritage Foundation, 2021.",
+          "page_number": "Mentioned and Reproduced: pp. 31–32, fig. 27",
+          "url": ""
+        },
+        {
+          "citation": "Ch'a, Mi-rae, Kwi-suk An, Cleveland Museum of Art, and 국외소재문화재재단. <em>The Korean Collection of the Cleveland Museum of Art</em>. Edited by An Min-hŭi. First edition, English ed. Overseas Korean Cultural Heritage Series, 16. Seoul, Republic of Korea: Overseas Korean Cultural Heritage Foundation, 2021.",
+          "page_number": "Mentioned and Reproduced: pp. 176–179, no. 110",
+          "url": ""
+        },
+        {
+          "citation": "Chang, Chin-Sung. \"The Significance of 16th-Century Korean Landscape Paintings in the Cleveland Museum of Art.\" In <em>The Korean Collection of the Cleveland Museum of Art</em>. Ch'a, Mi-rae, Kwi-suk An, Cleveland Museum of Art, 국외소재문화재재단, and An Min-hŭi, ed., 296–303. First edition, English ed. Overseas Korean Cultural Heritage Series, 16. Seoul, Republic of Korea: Overseas Korean Cultural Heritage Foundation, 2021.",
+          "page_number": "Mentioned and Reproduced: pp. 296–303, pl. 110",
+          "url": ""
+        },
+        {
+          "citation": "The Overseas Korean Cultural Heritage Foundation. \"Support for Conservation and Use of the Korean Paintings in the Cleveland Museum of Art.\" In <em>The Korean Collection of the Cleveland Museum of Art</em>. Ch'a, Mi-rae, Kwi-suk An, Cleveland Museum of Art, 국외소재문화재재단, and An Min-hŭi, ed., 320–323. First edition, English ed. Overseas Korean Cultural Heritage Series, 16. Seoul, Republic of Korea: Overseas Korean Cultural Heritage Foundation, 2021.",
+          "page_number": "Mentioned and Reproduced: pp. 320–323, fig. 5",
+          "url": ""
+        },
+        {
+          "citation": "Jung-Jae Conservation Center. \"The Conservation Report on Two Korean Paintings in the Cleveland Museum of Art: <em>Mountain Market, Clear With Rising Mist</em>.\" In <em>The Korean Collection of the Cleveland Museum of Art</em>. Ch'a, Mi-rae, Kwi-suk An, Cleveland Museum of Art, 국외소재문화재재단, and An Min-hŭi, ed., 324–333. First edition, English ed. Overseas Korean Cultural Heritage Series, 16. Seoul, Republic of Korea: Overseas Korean Cultural Heritage Foundation, 2021.",
+          "page_number": "Mentioned and Reproduced: pp. 324–333",
+          "url": ""
+        },
+        {
+          "citation": "\"Permanent Collection Installations.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> vol. 64, no. 1 (2024): 18–19.",
+          "page_number": "Reproduced and Mentioned: p. 18",
+          "url": "https://archive.org/details/CMAMM-2024-01/page/18/mode/2up"
+        },
+        {
+          "citation": "편집 양 수미 [and three others], 국립 중앙 박물관 (Korea), p’yŏnjip Yang Su-mi [and three others], and Kungnip Chungang Pangmulgwan (Korea). 화조미감 = 花鳥美感 = the Sense of Beauty within Bird-and-Flower Paintings. Edited by 양 수미 and Su-mi Yang. Sŏul T’ŭkpyŏlsi: 국립 중앙 박물관, 2025.",
+          "page_number": "Reproduced: pp. 184–185, no. 142; Mentioned: pp. 501–502",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/2015.517",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2015.517/2015.517_web.jpg",
+          "width": "475",
+          "height": "900",
+          "filesize": "163790",
+          "filename": "2015.517_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2015.517/2015.517_print.jpg",
+          "width": "1795",
+          "height": "3400",
+          "filesize": "1988169",
+          "filename": "2015.517_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2015.517/2015.517_full.tif",
+          "width": "8354",
+          "height": "15823",
+          "filesize": "396585588",
+          "filename": "2015.517_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2016-02-02T09:30:12",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt0_web.jpg",
+            "width": "335",
+            "height": "900",
+            "filesize": "115600"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt0_print.jpg",
+            "width": "1264",
+            "height": "3400",
+            "filesize": "1255325"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt0_full.tif",
+            "width": "2808",
+            "height": "7554",
+            "filesize": "63663812"
+          }
+        },
+        {
+          "date_created": "2016-02-02T15:16:00",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt1_web.jpg",
+            "width": "675",
+            "height": "900",
+            "filesize": "232281"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt1_print.jpg",
+            "width": "2550",
+            "height": "3400",
+            "filesize": "4443750"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt1_full.tif",
+            "width": "6000",
+            "height": "8000",
+            "filesize": "144029720"
+          }
+        },
+        {
+          "date_created": "2016-02-02T15:22:05",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt2_web.jpg",
+            "width": "675",
+            "height": "900",
+            "filesize": "301455"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt2_print.jpg",
+            "width": "2550",
+            "height": "3400",
+            "filesize": "4764839"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt2_full.tif",
+            "width": "6000",
+            "height": "8000",
+            "filesize": "144031440"
+          }
+        },
+        {
+          "date_created": "2016-02-02T15:30:56",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt3_web.jpg",
+            "width": "675",
+            "height": "900",
+            "filesize": "279161"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt3_print.jpg",
+            "width": "2550",
+            "height": "3400",
+            "filesize": "4619383"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt3_full.tif",
+            "width": "6000",
+            "height": "8000",
+            "filesize": "144030916"
+          }
+        },
+        {
+          "date_created": "2016-02-02T15:55:12",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt4_web.jpg",
+            "width": "900",
+            "height": "867",
+            "filesize": "392915"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt4_print.jpg",
+            "width": "3400",
+            "height": "3276",
+            "filesize": "5703324"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt4_full.tif",
+            "width": "6149",
+            "height": "5925",
+            "filesize": "109331144"
+          }
+        },
+        {
+          "date_created": "2016-02-03T09:20:24",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt5_web.jpg",
+            "width": "888",
+            "height": "900",
+            "filesize": "413394"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt5_print.jpg",
+            "width": "3355",
+            "height": "3400",
+            "filesize": "6105884"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt5_full.tif",
+            "width": "5924",
+            "height": "6004",
+            "filesize": "106735312"
+          }
+        },
+        {
+          "date_created": "2016-02-03T09:27:42",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt6_web.jpg",
+            "width": "675",
+            "height": "900",
+            "filesize": "319231"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt6_print.jpg",
+            "width": "2550",
+            "height": "3400",
+            "filesize": "4493139"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt6_full.tif",
+            "width": "6000",
+            "height": "8000",
+            "filesize": "144030964"
+          }
+        },
+        {
+          "date_created": "2016-02-03T09:40:46",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt7_web.jpg",
+            "width": "833",
+            "height": "900",
+            "filesize": "431249"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt7_print.jpg",
+            "width": "3148",
+            "height": "3400",
+            "filesize": "5984716"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt7_full.tif",
+            "width": "6000",
+            "height": "6481",
+            "filesize": "116690532"
+          }
+        },
+        {
+          "date_created": "2016-02-03T10:25:58",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt8_web.jpg",
+            "width": "859",
+            "height": "900",
+            "filesize": "444737"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt8_print.jpg",
+            "width": "3245",
+            "height": "3400",
+            "filesize": "5836034"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt8_full.tif",
+            "width": "4848",
+            "height": "5079",
+            "filesize": "73900856"
+          }
+        },
+        {
+          "date_created": "2016-02-04T21:04:55.073000",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt9_web.jpg",
+            "width": "828",
+            "height": "900",
+            "filesize": "171560"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt9_print.jpg",
+            "width": "3127",
+            "height": "3400",
+            "filesize": "1572299"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt9_full.tif",
+            "width": "5243",
+            "height": "5700",
+            "filesize": "89694856"
+          }
+        },
+        {
+          "date_created": "2016-02-04T21:19:47.057000",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt10_web.jpg",
+            "width": "374",
+            "height": "900",
+            "filesize": "131876"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt10_print.jpg",
+            "width": "1411",
+            "height": "3400",
+            "filesize": "1190724"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt10_full.tif",
+            "width": "3386",
+            "height": "8157",
+            "filesize": "82897740"
+          }
+        },
+        {
+          "date_created": "2016-02-04T21:22:19.007000",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt11_web.jpg",
+            "width": "232",
+            "height": "900",
+            "filesize": "104871"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt11_print.jpg",
+            "width": "878",
+            "height": "3400",
+            "filesize": "812564"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt11_full.tif",
+            "width": "2241",
+            "height": "8676",
+            "filesize": "58367160"
+          }
+        },
+        {
+          "date_created": "2016-02-04T21:22:45.042000",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt12_web.jpg",
+            "width": "753",
+            "height": "900",
+            "filesize": "313327"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt12_print.jpg",
+            "width": "2844",
+            "height": "3400",
+            "filesize": "2599622"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt12_full.tif",
+            "width": "3599",
+            "height": "4303",
+            "filesize": "46501272"
+          }
+        },
+        {
+          "date_created": "2016-02-04T21:22:52.068000",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt13_web.jpg",
+            "width": "900",
+            "height": "898",
+            "filesize": "314572"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt13_print.jpg",
+            "width": "2249",
+            "height": "2243",
+            "filesize": "1322462"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt13_full.tif",
+            "width": "2249",
+            "height": "2243",
+            "filesize": "15175144"
+          }
+        },
+        {
+          "date_created": "2016-02-04T21:24:44.096000",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt14_web.jpg",
+            "width": "900",
+            "height": "789",
+            "filesize": "172284"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt14_print.jpg",
+            "width": "3400",
+            "height": "2982",
+            "filesize": "1244250"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2015.517/2015.517_alt14_full.tif",
+            "width": "4191",
+            "height": "3676",
+            "filesize": "46258148"
+          }
+        }
+      ],
+      "creditline": "Gift from the Collection of George Gund III",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 90249,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "2015-08-24T00:00:00-04:00",
+      "sortable_date": 1500,
+      "date_added_to_oa": null,
+      "date_text": "early 1500s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": "This painting came into the collection mounted in a simple, one-color Japanese hanging scroll format. As part of a grant received from the Overseas Korean Cultural Heritage Foundation the scroll was sent to Korea in 2018 to be treated and remounted in a traditional Korean hanging scroll format. The painting now has outer borders of indigo dyed plain silk, inner borders of creamy white plain silk, and traditional Korean hanging scroll hardware.",
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Mountain Market Clear with Rising Mist",
+        "Landscape",
+        "New Year Painting",
+        "Dwelling by a Mountain Stream"
+      ],
+      "is_highlight": true,
+      "updated_at": "2026-04-08 11:09:01.651000"
+    },
+    {
+      "id": 145184,
+      "accession_number": "1970.352",
+      "share_license_status": "CC0",
+      "tombstone": "Eight Bohemian Landscapes:  Landscape with Log Bridge over Cataract, c. 1610–15. Aegidius Sadeler (Flemish, c. 1570–1629), after Pieter II Stevens (Flemish, c. 1567–after 1624). Engraving. The Cleveland Museum of Art, Gift of Mr. and Mrs. William D. Wixom for the fiftieth anniversary of The Print Club of Cleveland, 1970.352",
+      "current_location": null,
+      "title": "Eight Bohemian Landscapes:  Landscape with Log Bridge over Cataract",
+      "creation_date": "c. 1610–15",
+      "creation_date_earliest": 1610,
+      "creation_date_latest": 1615,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Flanders"
+      ],
+      "technique": "engraving",
+      "support_materials": [],
+      "department": "Prints",
+      "collection": "PR - Engraving",
+      "type": "Print",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 301427,
+            "title": "Year in Review: 1971",
+            "description": "<i>Year in Review: 1971</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 28, 1971-February 6, 1972).",
+            "opening_date": "1971-12-28T05:00:00"
+          },
+          {
+            "id": 304561,
+            "title": "Visions of Landscape: East and West",
+            "description": "<i>Visions of Landscape: East and West</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 17-March 21, 1982).",
+            "opening_date": "1982-02-17T05:00:00"
+          },
+          {
+            "id": 310281,
+            "title": "Northern Landscape Traditions: 16th and 17th Century Prints and Drawings",
+            "description": "<i>Northern Landscape Traditions: 16th and 17th Century Prints and Drawings</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 10-December 31, 1989).",
+            "opening_date": "1989-10-10T04:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, 1996:  \"Landscape in Detail,\" September 10-Novevmber 3, 1996, no catalogue",
+            "opening_date": "2010-09-01T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "The dramatic forest interior, ornamental foliage, and diminutive figures in this engraving are all hallmarks of the imaginary landscape tradition brought by Flemish immigrants to the northern Netherlands at the turn of the 17th-century. Pieter Stevens (about 1567-after 1624), the designer of the print, worked in Antwerp until 1594, when he was named court painter to Emperor Rudolf II in Prague. While in Rudolf's employ, Aegidius Sadeler engraved a number of his drawings, such as this work. Enormous trees rise above a scene of peasants and mules who cross a manmade bridge to reach a distant mill. In the foreground corner, a group of figures stand along the rocky river bank while a man fires a flintlock across the river.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79923170"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1970.352-eight-bohemian-lands"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1970.352",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1970.352/1970.352_web.jpg",
+          "width": "1263",
+          "height": "856",
+          "filesize": "1077928",
+          "filename": "1970.352_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1970.352/1970.352_print.jpg",
+          "width": "3400",
+          "height": "2305",
+          "filesize": "7995769",
+          "filename": "1970.352_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1970.352/1970.352_full.tif",
+          "width": "5133",
+          "height": "3480",
+          "filesize": "53623720",
+          "filename": "1970.352_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Gift of Mr. and Mrs. William D. Wixom for the fiftieth anniversary of The Print Club of Cleveland",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 145184,
+      "creators": [
+        {
+          "id": 4707,
+          "description": "Aegidius Sadeler (Flemish, c. 1570–1629)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1570",
+          "death_year": "1629",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 40633,
+          "description": "Pieter II Stevens (Flemish, c. 1567–after 1624)",
+          "extent": null,
+          "qualifier": "after",
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1567",
+          "death_year": "1624",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1970-12-18T00:00:00",
+      "sortable_date": 1610,
+      "date_added_to_oa": null,
+      "date_text": "c. 1610–15",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:31.679000"
+    },
+    {
+      "id": 368181,
+      "accession_number": "2019.223",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Sketch for Cleveland West Side, Hillside Houses, c. 1914–17. August Biehle, Jr. (American, 1885–1979). Pencil on toned paper with gouache; sheet: 29.8 x 44.5 cm (11 3/4 x 17 1/2 in.). The Cleveland Museum of Art, Gift of Frederick Biehle, 2019.223",
+      "current_location": null,
+      "title": "Sketch for Cleveland West Side, Hillside Houses",
+      "creation_date": "c. 1914–17",
+      "creation_date_earliest": 1909,
+      "creation_date_latest": 1922,
+      "artists_tags": [
+        "May Show",
+        "Cleveland Institute of Art"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "pencil on toned paper with gouache",
+      "support_materials": [],
+      "department": "Drawings",
+      "collection": "DR - American 20th Century",
+      "type": "Drawing",
+      "measurements": "Sheet: 29.8 x 44.5 cm (11 3/4 x 17 1/2 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.298,
+          "width": 0.445
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "“to the left when crossing clark ave bridge from 14th street towards 55th st, Aug F. Biehle 6906 renwood dr. parma ohio” written on verso",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "August F. Biehle (artist) [1885-1979]",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "Frederick A. Biehle (artist's son) [1926-2000]",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "Frederick Biehle and Erika Hinricks, Brooklyn, NY",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 3
+        },
+        {
+          "description": "the Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "September 9, 2019",
+          "sortorder": 4
+        }
+      ],
+      "find_spot": null,
+      "related_works": [
+        {
+          "id": 316897,
+          "description": "Cleveland West Side, Hillside Houses, c. 1914–17. August Biehle, Jr. (American, 1885–1979). Oil on board; 71.1 x 100.3 cm (28 x 39 1/2 in.); 81.3 x 110.5 cm (32 x 43 1/2 in.). The Cleveland Museum of Art, Gift of the John and Susan Horseman Collection, 2018.306",
+          "relationship": null
+        },
+        {
+          "id": 368180,
+          "description": "Hillside Houses, Cleveland West Side, c. 1914–17. August Biehle, Jr. (American, 1885–1979). Graphite, gouache; sheet: 19.1 x 28.6 cm (7 1/2 x 11 1/4 in.). The Cleveland Museum of Art, Gift of Frederick Biehle 2019.221",
+          "relationship": null
+        },
+        {
+          "id": 368182,
+          "description": "Hillside Houses, Cleveland West Side, 1936. August Biehle, Jr. (American, 1885–1979). Lithograph; sheet: 19.1 x 29.2 cm (7 1/2 x 11 1/2 in.). The Cleveland Museum of Art, Gift of Frederick Biehle 2019.222",
+          "relationship": null
+        }
+      ],
+      "former_accession_numbers": [],
+      "did_you_know": "Around 1914, the artist August Biehle sketched this scene of Cleveland’s west side from the viewpoint of \"14th street looking toward 55th street when crossing clark ave bridge,\" according to the artist.",
+      "description": "The drawing was made as preparatory to August Biehle’s most significant oil painting in his modernist period (2018.306) depicting Cleveland’s west side. Biehle sketched the steep embankment with houses and noted its location: <em>to the left when crossing clark ave bridge from 14th street towards 55th st. </em>Biehle was born and trained in Cleveland and studied further in Munich. While supporting himself as a commercial lithographer, he participated in a number of local exhibitions devoted to cutting-edge art at a time when there was little support.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79878253"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2019.223",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Frederick Biehle",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 368181,
+      "creators": [
+        {
+          "id": 545786,
+          "description": "August Biehle, Jr. (American, 1885–1979)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Biographical information exists in the Cleveland Museum of Art Archives.",
+          "name_in_original_language": null,
+          "birth_year": "1885",
+          "death_year": "1979",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-09-09T00:00:00-04:00",
+      "sortable_date": 1909,
+      "date_added_to_oa": null,
+      "date_text": "c. 1914–17",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:54.045000"
+    }
+  ]
+}

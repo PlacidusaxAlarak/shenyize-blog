@@ -1,0 +1,135 @@
+{
+  "data": {
+    "id": 164400,
+    "accession_number": "2005.466",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Hollyhock Garden, c. 1914–20. Gustave Baumann (American, born Germany, 1881–1971). Tempera over graphite on brown paper; image: 23.5 x 28.7 cm (9 1/4 x 11 5/16 in.); with borders: 27.2 x 31.8 cm (10 11/16 x 12 1/2 in.); sheet: 29.7 x 36.2 cm (11 11/16 x 14 1/4 in.). The Cleveland Museum of Art, Gift of Ann Baumann, 2005.466. © Ann Baumann Trust",
+    "current_location": null,
+    "title": "Hollyhock Garden",
+    "creation_date": "c. 1914–20",
+    "creation_date_earliest": 1909,
+    "creation_date_latest": 1925,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "tempera over graphite on brown paper",
+    "support_materials": [
+      {
+        "description": "brown paper",
+        "watermarks": []
+      }
+    ],
+    "department": "Drawings",
+    "collection": "DR - American 20th Century",
+    "type": "Drawing",
+    "measurements": "Image: 23.5 x 28.7 cm (9 1/4 x 11 5/16 in.); with borders: 27.2 x 31.8 cm (10 11/16 x 12 1/2 in.); Sheet: 29.7 x 36.2 cm (11 11/16 x 14 1/4 in.)",
+    "dimensions": {
+      "sheet": {
+        "height": 0.297,
+        "width": 0.362
+      },
+      "image": {
+        "height": 0.235,
+        "width": 0.287
+      },
+      "with borders": {
+        "height": 0.272,
+        "width": 0.318
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": "© Ann Baumann Trust",
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 202597,
+          "title": "Imagining the Garden",
+          "description": "<i>Imagining the Garden</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 24, 2015-March 6, 2016).",
+          "opening_date": "2015-10-24T00:00:00"
+        },
+        {
+          "id": 324227,
+          "title": "Gustave Baumann: Colorful Cuts",
+          "description": "<i>Gustave Baumann: Colorful Cuts</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 20, 2020-June 27, 2021).",
+          "opening_date": "2020-12-20T05:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Ann Baumann, Santa Rosa, CA",
+        "citations": [],
+        "footnotes": [],
+        "date": null,
+        "sortorder": 1
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": [],
+        "date": "February 27, 2006",
+        "sortorder": 2
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "Baumann began <em>Hollyhock Garden</em> around 1914 when living in Brown County, Indiana. After settling in Santa Fe, he reworked the scene in about 1919, adding Southwestern touches, such as transforming the wooden Indiana farmhouse with a shingle roof into adobe buildings with tile roofs. He must have referenced <em>Hollyhock Garden</em> in 1927 when making the color woodcut <em>Hoosier Garden,</em> since there are many correspondences between them, including the picket fence with its profusion of yellow and orange flowers and the porch chair, which lurks ghostlike beneath a thin layer of paint in the drawing.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79991944"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2005.466",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Ann Baumann",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 164400,
+    "creators": [
+      {
+        "id": 42672,
+        "description": "Gustave Baumann (American, born Germany, 1881–1971)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1881",
+        "death_year": "1971",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2006-02-27T00:00:00",
+    "sortable_date": 1909,
+    "date_added_to_oa": null,
+    "date_text": "c. 1914–20",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:00:44.660000"
+  }
+}

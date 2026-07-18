@@ -1,0 +1,106 @@
+{
+  "data": {
+    "id": 167891,
+    "accession_number": "2009.481",
+    "share_license_status": "Copyrighted",
+    "tombstone": "City of Sin, 1950. Louis Faurer (American, 1916–2001). Gelatin silver print; paper: 28 x 35.6 cm (11 x 14 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, Gift of Howard Greenberg, 2009.481. © Estate of Louis Faurer",
+    "current_location": null,
+    "title": "City of Sin",
+    "creation_date": "1950",
+    "creation_date_earliest": 1950,
+    "creation_date_latest": 1950,
+    "artists_tags": [
+      "male",
+      "Jewish artists"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "gelatin silver print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1951-Present",
+    "type": "Photograph",
+    "measurements": "Paper: 28 x 35.6 cm (11 x 14 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+    "dimensions": {
+      "paper": {
+        "height": 0.28,
+        "width": 0.356
+      },
+      "matted": {
+        "height": 0.406,
+        "width": 0.508
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": "© Estate of Louis Faurer",
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 393871,
+          "title": "A New York Minute: Street Photography, 1920–1950",
+          "description": "<i>A New York Minute: Street Photography, 1920–1950</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 11-November 7, 2021).",
+          "opening_date": "2021-07-10T04:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "The signs and marquees around Times Square provided Louis Faurer with richly ironic images. Here, words from a film title and a promotional phrase become commentary on the risks of living in New York City, which in Faurer’s world is the “City of Sin” and the “Home of the Brave.” In 1925 the Rivoli Theater, a few blocks north of where <em>City of Sin</em> was taken, was the first movie theater to offer air-conditioning. Soon, most were “cooled by refrigeration,” and going to the movies became a way to beat summer heat in the city.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q80072993"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2009.481",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Howard Greenberg",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 167891,
+    "creators": [
+      {
+        "id": 58919,
+        "description": "Louis Faurer (American, 1916–2001)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1916",
+        "death_year": "2001",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2010-03-01T00:00:00",
+    "sortable_date": 1950,
+    "date_added_to_oa": null,
+    "date_text": "1950",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:08:52.992000"
+  }
+}

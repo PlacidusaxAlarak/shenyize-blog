@@ -1,0 +1,102 @@
+{
+  "data": {
+    "id": 169658,
+    "accession_number": "2011.466",
+    "share_license_status": "Copyrighted",
+    "tombstone": "West Forty-Second Street, c. 1920. John Taylor Arms (American, 1887–1953). Pen and black ink. The Cleveland Museum of Art, Gift of Carole W. and Charles B. Rosenblatt, 2011.466. Courtesy of John Taylor Arms/© Suzanne Arms Hawkins",
+    "current_location": null,
+    "title": "West Forty-Second Street",
+    "creation_date": "c. 1920",
+    "creation_date_earliest": 1915,
+    "creation_date_latest": 1925,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "pen and black ink",
+    "support_materials": [],
+    "department": "Drawings",
+    "collection": "DR - American 20th Century",
+    "type": "Drawing",
+    "dimensions": {
+      "sheet": {
+        "height": 0.411,
+        "width": 0.329
+      },
+      "mounted": {}
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": "Courtesy of John Taylor Arms/© Suzanne Arms Hawkins",
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 200686,
+          "title": "Modern Gothic: The Etchings of John Taylor Arms",
+          "description": "<i>Modern Gothic: The Etchings of John Taylor Arms</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 9-September 30, 2012).",
+          "opening_date": "2012-06-09T00:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "This view of 42nd Street from the corner of Fifth Avenue looks west toward Sixth Avenue. The New York Public Library is in the left foreground. Arms always made contour drawings on site, delineating the important aspects of the subject. Later in his Connecticut studio he traced the outlines of the forms onto tracing paper, which was used to transfer the subject onto the plate.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q80077246"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "catalogue_raisonne": "Fletcher 41",
+    "url": "https://clevelandart.org/art/2011.466",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Carole W. and Charles B. Rosenblatt",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 169658,
+    "creators": [
+      {
+        "id": 29993,
+        "description": "John Taylor Arms (American, 1887–1953)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1887",
+        "death_year": "1953",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2012-03-05T00:00:00",
+    "sortable_date": 1915,
+    "date_added_to_oa": null,
+    "date_text": "c. 1920",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-26 23:59:54.929000"
+  }
+}

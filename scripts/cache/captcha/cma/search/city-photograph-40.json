@@ -1,0 +1,2343 @@
+{
+  "info": {
+    "total": 536,
+    "parameters": {
+      "skip": 40,
+      "limit": 20,
+      "q": "city photograph",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,gallery,classification_type,department,collection",
+      "search": "city photograph"
+    }
+  },
+  "data": [
+    {
+      "id": 165140,
+      "accession_number": "2007.142",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Ladder of Ladders, 1931. Manuel Álvarez Bravo (Mexican, 1902–2002). Gelatin silver print; image: 24.4 x 18.3 cm (9 5/8 x 7 3/16 in.); mounted: 30 x 23 cm (11 13/16 x 9 1/16 in.). The Cleveland Museum of Art, John L. Severance Fund, 2007.142. © Colette Urbajtel/ Archivo Manuel Álvarez Bravo, S.C",
+      "current_location": null,
+      "title": "Ladder of Ladders",
+      "creation_date": "1931",
+      "creation_date_earliest": 1931,
+      "creation_date_latest": 1931,
+      "artists_tags": [
+        "male",
+        "Latine and Hispanic Artists"
+      ],
+      "culture": [
+        "Mexico, 20th century"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Mexican",
+      "type": "Photograph",
+      "measurements": "Image: 24.4 x 18.3 cm (9 5/8 x 7 3/16 in.); Mounted: 30 x 23 cm (11 13/16 x 9 1/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.244,
+          "width": 0.183
+        },
+        "mounted": {
+          "height": 0.3,
+          "width": 0.23
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Colette Urbajtel/ Archivo Manuel Álvarez Bravo, S.C",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on recto of mount: \"Manuel Alvarez Bravo (signed)\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in brown ink on verso of print: cajas para muertes grandes y chicas and MAlvarez Bravo/Mexico",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 335815,
+            "title": "Focus on Minotaure: the Animal-Headed Review",
+            "description": "<i>Focus on Minotaure: the Animal-Headed Review</i>. Musée Rath (October 17, 1987-January 31, 1988); Musée d'Art Moderne de Paris (March 17-May 29, 1988).",
+            "opening_date": "1987-10-17T04:00:00"
+          },
+          {
+            "id": 335716,
+            "title": "Andre Breton: La Beaute Convulsive",
+            "description": "<i>Andre Breton: La Beaute Convulsive</i>. Centre national d'art et de culture Georges Pompidou (April 25-August 26, 1991).",
+            "opening_date": "1991-04-25T04:00:00"
+          },
+          {
+            "id": 227242,
+            "title": "La Révolution surréaliste",
+            "description": "<i>La Révolution surréaliste</i>. Centre national d'art et de culture Georges Pompidou, Paris cedex O4, France (organizer) (March 6-June 24, 2002).",
+            "opening_date": "2002-03-06T00:00:00"
+          },
+          {
+            "id": 335720,
+            "title": "Surrealismus 1919- 1944",
+            "description": "<i>Surrealismus 1919- 1944</i>. Kunstsammlung Nordrhein-Westfalen (July 20-November 24, 2002).",
+            "opening_date": "2002-07-20T04:00:00"
+          },
+          {
+            "id": 203169,
+            "title": "Forbidden Games: Surrealist and Modernist Photography",
+            "description": "<i>Forbidden Games: Surrealist and Modernist Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 19, 2014-January 11, 2015).",
+            "opening_date": "2014-10-19T00:00:00"
+          },
+          {
+            "id": 383281,
+            "title": "Stories from Storage",
+            "description": "<i>Stories from Storage</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 7-May 16, 2021).",
+            "opening_date": "2021-02-06T05:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "The artist, Mexico City",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "Collection of André Breton [1896-1966], Paris",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "(Calmels Cohen Auction, Paris, 2003)",
+          "citations": [],
+          "footnotes": [],
+          "date": "2003",
+          "sortorder": 3
+        },
+        {
+          "description": "David Raymond [b.1979], New York, NY",
+          "citations": [],
+          "footnotes": [],
+          "date": "2007",
+          "sortorder": 4
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 5
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Manuel Alvarez Bravo encouraged viewers to discover their own meanings in his pictures.",
+      "description": "Manuel Álvarez Bravo captured unusual scenes of everyday life in his home country of Mexico. In the three photographs included here, each focuses on isolated fragments of urban iconography through storefronts and billboards. <em>Ladder of Ladders </em>strikes a particularly dark note. The workshop pictured here manufactured caskets for children at a time when the infant mortality rate in Mexico City was 75%. The stacked coffins just inside the shop’s doorway formally play on light and darkness in the same way the photograph’s subject matter metaphorically references the tension between life and death in the city.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60780960"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Spies, Werner. La révolution surréaliste: exposition présentée au Centre Pompidou, Galerie 1, 6 mars-24 juin 2002. Paris: Centre Pompidou, 2002.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Spies, Werner. Surrealismus 1919-1944: die surrealistische Revolution : Dali, Max Ernst, Magritte, Miro, Picasso--. Düsseldorf: K20 Kunstsammlung Nordrhein-Westfalen, 2002.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Breton, André, Agnès Angliviel de La Beaumelle, Isabelle Monod-Fontaine, and Claude Schweisguth. André Breton, la beauté convulsive: Musée national d'art moderne, Centre Georges Pompidou. Paris: Editions du Centre Pompidou, 1991.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Cleveland Museum of Art, Tom E. Hinson, Ian Walker, and Lisa Kurzner. Forbidden Games: Surrealist and Modernist Photography : the David Raymond Collection in the Cleveland Museum of Art. 2014.",
+          "page_number": "cat no. 24, p. 51",
+          "url": null
+        },
+        {
+          "citation": "<em>Andre Breton: 42, rue Fontaine,</em> no. 5047. Paris: Calmels Cohen, 2003.",
+          "page_number": null,
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/2007.142",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 165140,
+      "creators": [
+        {
+          "id": 192,
+          "description": "Manuel Álvarez Bravo (Mexican, 1902–2002)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Manuel Alvarez Bravo Mexican, 1902-2002\r\n\r\nBorn in Mexico City, Manuel Alvarez Bravo has achieved international fame as one of Mexico's most talented photographers. In 1918 he studied painting and music at the Academia Nacional de Bellas Artes. After taking up the camera in 1924, Alvarez Bravo was encouraged by photographers Hugo Brehme and Edward Weston to pursue a career in the medium. Over the next several years he worked as a government employee, a photography instructor, and a photographer for the magazine Mexican Folkways. In 1931 he became a freelancer specializing in the reproduction of paintings and other works of art. A variety of jobs followed, including that of photographer and cameraman at the Sindicato de Trabajadores de la Producción Cinematográfica de México (1943-59). He also served as cofounder, director, and chief photographer for El Fondo Editorial de la Plástica Mexicana, a publisher of fine art books (1959-80).\r\n\tAlvarez Bravo has been awarded the National Arts Prize of Mexico (1975), named an honorary member of the Mexican Academy of Arts (1980), made an Officier des Arts et Lettres in France (1981), and received the Hasselblad Prize (1984). He has had numerous individual exhibitions at venues throughout the world, including the Palacio Nacional de Bellas Artes, Mexico City (1934, 1968, 1972), the Art Institute of Chicago (1943, 1974), the Museum of Photographic Arts, San Diego (1990), and the J. Paul Getty Museum, Malibu (1992).\r\n\tAlvarez Bravo's personal work is deeply rooted in Mexican culture, as were the paintings of his friend Diego Rivera and the other Mexican muralists. Like them, he has focused on his country and its people to create straightforward, evocative images. Alvarez Bravo lives in Mexico City. M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1902",
+          "death_year": "2002",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2007-02-26T00:00:00",
+      "sortable_date": 1931,
+      "date_added_to_oa": null,
+      "date_text": "1931",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:04:28.045000"
+    },
+    {
+      "id": 317930,
+      "accession_number": "2018.878",
+      "share_license_status": "Copyrighted",
+      "tombstone": "East 100th Street: Untitled, 1966–1968. Bruce Davidson (American, b. 1933). Gelatin silver print; image: 21.3 x 25.7 cm (8 3/8 x 10 1/8 in.); paper: 35.6 x 27.7 cm (14 x 10 7/8 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.878. © Bruce Davidson/Magnum Photos",
+      "current_location": null,
+      "title": "Untitled",
+      "series": "East 100th Street",
+      "creation_date": "1966–1968",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1968,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 21.3 x 25.7 cm (8 3/8 x 10 1/8 in.); Paper: 35.6 x 27.7 cm (14 x 10 7/8 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.356,
+          "width": 0.277
+        },
+        "image": {
+          "height": 0.213,
+          "width": 0.257
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Bruce Davidson/Magnum Photos",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"Bruce Davidson\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"66-46-635/4\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Davidson’s photographs of Spanish Harlem were used as evidence of squalid housing conditions in claims against New York City.",
+      "description": "Davidson spent two years photographing in Spanish Harlem, attempting to integrate himself into the daily lives of its residents. In the past he had used a 35mm camera, but here he turned to a large-format, 4 x 5-inch camera, which requires a tripod and slows down the act of photographing, making the session more of a shared experience, a give and take.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876855"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.878",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317930,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–1968",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:55.714000"
+    },
+    {
+      "id": 317937,
+      "accession_number": "2018.885",
+      "share_license_status": "Copyrighted",
+      "tombstone": "East 100th Street: Untitled, 1966–1968. Bruce Davidson (American, b. 1933). Gelatin silver print; image: 15.7 x 21.2 cm (6 3/16 x 8 3/8 in.); paper: 27.6 x 35.5 cm (10 7/8 x 14 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.885. © Bruce Davidson/Magnum Photos",
+      "current_location": null,
+      "title": "Untitled",
+      "series": "East 100th Street",
+      "creation_date": "1966–1968",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1968,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 15.7 x 21.2 cm (6 3/16 x 8 3/8 in.); Paper: 27.6 x 35.5 cm (10 7/8 x 14 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.276,
+          "width": 0.355
+        },
+        "image": {
+          "height": 0.157,
+          "width": 0.212
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Bruce Davidson/Magnum Photos",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"Bruce Davidson\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"66-46-967/13\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Davidson’s photographs of Spanish Harlem were used as evidence of squalid housing conditions in claims against New York City.",
+      "description": "Davidson spent two years photographing in Spanish Harlem, attempting to integrate himself into the daily lives of its residents. In the past he had used a 35mm camera, but here he turned to a large-format, 4 x 5-inch camera, which requires a tripod and slows down the act of photographing, making the session more of a shared experience, a give and take.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876875"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.885",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317937,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–1968",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:17.821000"
+    },
+    {
+      "id": 668073,
+      "accession_number": "2024.5.26",
+      "share_license_status": "CC0",
+      "tombstone": "Photographs of Northern India: View of the City of Lahore Taken from the Roof of the Palace in the Fort, 1863–70. Samuel Bourne (British, 1834–1912). Albumen print. The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund, 2024.5.26",
+      "current_location": null,
+      "title": "View of the City of Lahore Taken from the Roof of the Palace in the Fort",
+      "series": "Photographs of Northern India",
+      "creation_date": "1863–70",
+      "creation_date_earliest": 1863,
+      "creation_date_latest": 1870,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Samuel Bourne, the author of most the images in this album, was a banker in England before he moved to India to become a professional photographer.",
+      "description": "The 50 images in this album, all taken in the 1860s, move from the hill towns of the Himalayas down to cities including Lahore (now in Pakistan), Delhi, Lucknow, Agra, Benares (now Varansi), and Calcutta (now Kolkata). Architectural studies of major monuments offer valuable historical records of what sites such as the Taj Mahal and the imperial mosque of the Mughal emperors in Delhi looked like before twentieth-century restorations.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448889"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2024.5.26-view-of-the-city-of"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.5.26",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.5.26/2024.5.26_web.jpg",
+          "width": "900",
+          "height": "708",
+          "filesize": "245350",
+          "filename": "2024.5.26_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.5.26/2024.5.26_print.jpg",
+          "width": "3400",
+          "height": "2674",
+          "filesize": "2432252",
+          "filename": "2024.5.26_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.5.26/2024.5.26_full.tif",
+          "width": "6759",
+          "height": "5316",
+          "filesize": "107825914",
+          "filename": "2024.5.26_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-03-14T14:59:19",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5.26/2024.5.26_alt0_web.jpg",
+            "width": "900",
+            "height": "703",
+            "filesize": "199533"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5.26/2024.5.26_alt0_print.jpg",
+            "width": "3400",
+            "height": "2654",
+            "filesize": "1793628"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5.26/2024.5.26_alt0_full.tif",
+            "width": "11648",
+            "height": "9093",
+            "filesize": "317778200"
+          }
+        }
+      ],
+      "creditline": "Severance and Greta Millikin Purchase Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 668073,
+      "creators": [
+        {
+          "id": 265,
+          "description": "Samuel Bourne (British, 1834–1912)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Samuel Bourne British, 1834 - 1912 Born in Nottingham, Samuel Bourne first began taking photographs as an amateur in 1851. Four years later, he gave up his career in banking to become a professional photographer. In 1862 he embarked for India, where for the next several years he made three photographic expeditions into the Himalayas. He also formed a partnership in Simla with Charles Shepherd -- a publishing enterprise to reproduce photographic views. Until his return to England in 1870, Bourne continued to work in India and the Far East and to expand the province of Bourne &amp; Shepherd, opening a second branch in Calcutta. By the time of his departure he had produced some 1,500 negatives of such places as Benares, Darjeeling, and Tibet, largely of landscape and architecture for the public market. Bourne was known for the care with which he conceived and executed his work. His images, though plentiful, were highly prized and remain so today. Many are still available from the firm Bourne &amp; Shepherd, which has survived for more than 125 years. After returning to England, he established a business in cotton doubling, manufacturing thread for lacemaking and weaving machines, raised a family, and took up again the life of an amateur photographer and watercolorist. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1834",
+          "death_year": "1912",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1863,
+      "date_added_to_oa": null,
+      "date_text": "1863–70",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.5",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:04:08.647000"
+    },
+    {
+      "id": 668074,
+      "accession_number": "2024.5.27",
+      "share_license_status": "CC0",
+      "tombstone": "Photographs of Northern India: The City of Lahore. Another View Taken from Huzeer Khan's House, 1863–70. Samuel Bourne (British, 1834–1912). Albumen print. The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund, 2024.5.27",
+      "current_location": null,
+      "title": "The City of Lahore. Another View Taken from Huzeer Khan's House",
+      "series": "Photographs of Northern India",
+      "creation_date": "1863–70",
+      "creation_date_earliest": 1863,
+      "creation_date_latest": 1870,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Samuel Bourne, the author of most the images in this album, was a banker in England before he moved to India to become a professional photographer.",
+      "description": "The 50 images in this album, all taken in the 1860s, move from the hill towns of the Himalayas down to cities including Lahore (now in Pakistan), Delhi, Lucknow, Agra, Benares (now Varansi), and Calcutta (now Kolkata). Architectural studies of major monuments offer valuable historical records of what sites such as the Taj Mahal and the imperial mosque of the Mughal emperors in Delhi looked like before twentieth-century restorations.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448890"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2024.5.27-the-city-of-lahore-a"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.5.27",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.5.27/2024.5.27_web.jpg",
+          "width": "900",
+          "height": "698",
+          "filesize": "274230",
+          "filename": "2024.5.27_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.5.27/2024.5.27_print.jpg",
+          "width": "3400",
+          "height": "2635",
+          "filesize": "2681797",
+          "filename": "2024.5.27_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.5.27/2024.5.27_full.tif",
+          "width": "6841",
+          "height": "5302",
+          "filesize": "108846858",
+          "filename": "2024.5.27_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-03-14T15:03:11",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5.27/2024.5.27_alt0_web.jpg",
+            "width": "900",
+            "height": "703",
+            "filesize": "209198"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5.27/2024.5.27_alt0_print.jpg",
+            "width": "3400",
+            "height": "2654",
+            "filesize": "1949283"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5.27/2024.5.27_alt0_full.tif",
+            "width": "11648",
+            "height": "9092",
+            "filesize": "317743484"
+          }
+        }
+      ],
+      "creditline": "Severance and Greta Millikin Purchase Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 668074,
+      "creators": [
+        {
+          "id": 265,
+          "description": "Samuel Bourne (British, 1834–1912)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Samuel Bourne British, 1834 - 1912 Born in Nottingham, Samuel Bourne first began taking photographs as an amateur in 1851. Four years later, he gave up his career in banking to become a professional photographer. In 1862 he embarked for India, where for the next several years he made three photographic expeditions into the Himalayas. He also formed a partnership in Simla with Charles Shepherd -- a publishing enterprise to reproduce photographic views. Until his return to England in 1870, Bourne continued to work in India and the Far East and to expand the province of Bourne &amp; Shepherd, opening a second branch in Calcutta. By the time of his departure he had produced some 1,500 negatives of such places as Benares, Darjeeling, and Tibet, largely of landscape and architecture for the public market. Bourne was known for the care with which he conceived and executed his work. His images, though plentiful, were highly prized and remain so today. Many are still available from the firm Bourne &amp; Shepherd, which has survived for more than 125 years. After returning to England, he established a business in cotton doubling, manufacturing thread for lacemaking and weaving machines, raised a family, and took up again the life of an amateur photographer and watercolorist. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1834",
+          "death_year": "1912",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1863,
+      "date_added_to_oa": null,
+      "date_text": "1863–70",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.5",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:23.499000"
+    },
+    {
+      "id": 668078,
+      "accession_number": "2024.5.31",
+      "share_license_status": "CC0",
+      "tombstone": "Photographs of Northern India: Delhi. The Kootub Minar or Tower in the Ruined City of Old Delhi, 1863–70. Samuel Bourne (British, 1834–1912). Albumen print. The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund, 2024.5.31",
+      "current_location": null,
+      "title": "Delhi. The Kootub Minar or Tower in the Ruined City of Old Delhi",
+      "series": "Photographs of Northern India",
+      "creation_date": "1863–70",
+      "creation_date_earliest": 1863,
+      "creation_date_latest": 1870,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Samuel Bourne, the author of most the images in this album, was a banker in England before he moved to India to become a professional photographer.",
+      "description": "The 50 images in this album, all taken in the 1860s, move from the hill towns of the Himalayas down to cities including Lahore (now in Pakistan), Delhi, Lucknow, Agra, Benares (now Varansi), and Calcutta (now Kolkata). Architectural studies of major monuments offer valuable historical records of what sites such as the Taj Mahal and the imperial mosque of the Mughal emperors in Delhi looked like before twentieth-century restorations.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448897"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2024.5.31-delhi-the-kootub-min"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.5.31",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.5.31/2024.5.31_web.jpg",
+          "width": "713",
+          "height": "900",
+          "filesize": "300655",
+          "filename": "2024.5.31_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.5.31/2024.5.31_print.jpg",
+          "width": "2692",
+          "height": "3400",
+          "filesize": "3225259",
+          "filename": "2024.5.31_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.5.31/2024.5.31_full.tif",
+          "width": "5169",
+          "height": "6529",
+          "filesize": "101279090",
+          "filename": "2024.5.31_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-03-14T15:06:22",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5.31/2024.5.31_alt0_web.jpg",
+            "width": "703",
+            "height": "900",
+            "filesize": "214787"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5.31/2024.5.31_alt0_print.jpg",
+            "width": "2654",
+            "height": "3400",
+            "filesize": "2146638"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5.31/2024.5.31_alt0_full.tif",
+            "width": "9092",
+            "height": "11648",
+            "filesize": "317743480"
+          }
+        }
+      ],
+      "creditline": "Severance and Greta Millikin Purchase Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 668078,
+      "creators": [
+        {
+          "id": 265,
+          "description": "Samuel Bourne (British, 1834–1912)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Samuel Bourne British, 1834 - 1912 Born in Nottingham, Samuel Bourne first began taking photographs as an amateur in 1851. Four years later, he gave up his career in banking to become a professional photographer. In 1862 he embarked for India, where for the next several years he made three photographic expeditions into the Himalayas. He also formed a partnership in Simla with Charles Shepherd -- a publishing enterprise to reproduce photographic views. Until his return to England in 1870, Bourne continued to work in India and the Far East and to expand the province of Bourne &amp; Shepherd, opening a second branch in Calcutta. By the time of his departure he had produced some 1,500 negatives of such places as Benares, Darjeeling, and Tibet, largely of landscape and architecture for the public market. Bourne was known for the care with which he conceived and executed his work. His images, though plentiful, were highly prized and remain so today. Many are still available from the firm Bourne &amp; Shepherd, which has survived for more than 125 years. After returning to England, he established a business in cotton doubling, manufacturing thread for lacemaking and weaving machines, raised a family, and took up again the life of an amateur photographer and watercolorist. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1834",
+          "death_year": "1912",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1863,
+      "date_added_to_oa": null,
+      "date_text": "1863–70",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.5",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:57.284000"
+    },
+    {
+      "id": 317915,
+      "accession_number": "2018.863",
+      "share_license_status": "Copyrighted",
+      "tombstone": "East 100th Street: Untitled (45596), 1966–1968. Bruce Davidson (American, b. 1933). Gelatin silver print; paper: 27.9 x 35.6 cm (11 x 14 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.863",
+      "current_location": null,
+      "title": "Untitled (45596)",
+      "series": "East 100th Street",
+      "creation_date": "1966–1968",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1968,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 27.9 x 35.6 cm (11 x 14 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.279,
+          "width": 0.356
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Davidson’s photographs of Spanish Harlem were used as evidence of squalid housing conditions in claims against New York City.",
+      "description": "Davidson spent two years photographing in Spanish Harlem, attempting to integrate himself into the daily lives of its residents. In the past he had used a 35mm camera, but here he turned to a large-format, 4 x 5-inch camera, which requires a tripod and slows down the act of photographing, making the session more of a shared experience, a give and take.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876804"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.863",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317915,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–1968",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:42.614000"
+    },
+    {
+      "id": 317920,
+      "accession_number": "2018.868",
+      "share_license_status": "Copyrighted",
+      "tombstone": "East 100th Street: Untitled (48673), 1966–1968. Bruce Davidson (American, b. 1933). Gelatin silver print; paper: 27.9 x 35.6 cm (11 x 14 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.868",
+      "current_location": null,
+      "title": "Untitled (48673)",
+      "series": "East 100th Street",
+      "creation_date": "1966–1968",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1968,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 27.9 x 35.6 cm (11 x 14 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.279,
+          "width": 0.356
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Davidson’s photographs of Spanish Harlem were used as evidence of squalid housing conditions in claims against New York City.",
+      "description": "Davidson spent two years photographing in Spanish Harlem, attempting to integrate himself into the daily lives of its residents. In the past he had used a 35mm camera, but here he turned to a large-format, 4 x 5-inch camera, which requires a tripod and slows down the act of photographing, making the session more of a shared experience, a give and take.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876824"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.868",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317920,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–1968",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:48.655000"
+    },
+    {
+      "id": 317922,
+      "accession_number": "2018.870",
+      "share_license_status": "Copyrighted",
+      "tombstone": "East 100th Street: Untitled (51027), 1966–1968. Bruce Davidson (American, b. 1933). Gelatin silver print; paper: 35.6 x 27.9 cm (14 x 11 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.870",
+      "current_location": null,
+      "title": "Untitled (51027)",
+      "series": "East 100th Street",
+      "creation_date": "1966–1968",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1968,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 35.6 x 27.9 cm (14 x 11 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.356,
+          "width": 0.279
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Davidson’s photographs of Spanish Harlem were used as evidence of squalid housing conditions in claims against New York City.",
+      "description": "Davidson spent two years photographing in Spanish Harlem, attempting to integrate himself into the daily lives of its residents. In the past he had used a 35mm camera, but here he turned to a large-format, 4 x 5-inch camera, which requires a tripod and slows down the act of photographing, making the session more of a shared experience, a give and take.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876830"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.870",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317922,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–1968",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:21.225000"
+    },
+    {
+      "id": 317927,
+      "accession_number": "2018.875",
+      "share_license_status": "Copyrighted",
+      "tombstone": "East 100th Street: Rooftops, 1966. Bruce Davidson (American, b. 1933). Gelatin silver print; image: 17.7 x 22.6 cm (6 15/16 x 8 7/8 in.); paper: 27.7 x 35.2 cm (10 7/8 x 13 7/8 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.875",
+      "current_location": null,
+      "title": "Rooftops",
+      "series": "East 100th Street",
+      "creation_date": "1966",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1966,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 17.7 x 22.6 cm (6 15/16 x 8 7/8 in.); Paper: 27.7 x 35.2 cm (10 7/8 x 13 7/8 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.277,
+          "width": 0.352
+        },
+        "image": {
+          "height": 0.177,
+          "width": 0.226
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in blue ink on verso: \"Arch. Housing, Urban\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Stamped in black ink on verso: \"MAGNUM/PHOTO LIBRARY PRINT/NEW YORK/LOG RER/TO BE RETURNED\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso and crossed out: \"33910/36892/28291/26534/23427/24253/23931/30476/37352/47530\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"47530\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Imprinted in black type on white paper adhesive label on verso: \"Magnum Photos, Inc. (c) 1966 Bruce Davidson/[bar code]/DAB66046W243/16 NYC 81 DAB034+001/NYC. 1966. East 100th STREET/Rooftops.\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"Bruce 4am 582\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso and crossed out in blue ink: \"Housing 6\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"243/16\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Stamped in black ink on verso: \"2 1527\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Davidson’s photographs of Spanish Harlem were used as evidence of squalid housing conditions in claims against New York City.",
+      "description": "Davidson spent two years photographing in Spanish Harlem, attempting to integrate himself into the daily lives of its residents. In the past he had used a 35mm camera, but here he turned to a large-format, 4 x 5-inch camera, which requires a tripod and slows down the act of photographing, making the session more of a shared experience, a give and take.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876847"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.875",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317927,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:26.474000"
+    },
+    {
+      "id": 668294,
+      "accession_number": "2024.5.46",
+      "share_license_status": "CC0",
+      "tombstone": "Photographs of Northern India: The City of Benares, on the Ganges, View of the Great Mosque of A (?) and Adjoining Landing Places, 1863–70. Samuel Bourne (British, 1834–1912). Albumen print. The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund, 2024.5.46",
+      "current_location": null,
+      "title": "The City of Benares, on the Ganges, View of the Great Mosque of A (?) and Adjoining Landing Places",
+      "series": "Photographs of Northern India",
+      "creation_date": "1863–70",
+      "creation_date_earliest": 1863,
+      "creation_date_latest": 1870,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Samuel Bourne, the author of most the images in this album, was a banker in England before he moved to India to become a professional photographer.",
+      "description": "The 50 images in this album, all taken in the 1860s, move from the hill towns of the Himalayas down to cities including Lahore (now in Pakistan), Delhi, Lucknow, Agra, Benares (now Varansi), and Calcutta (now Kolkata). Architectural studies of major monuments offer valuable historical records of what sites such as the Taj Mahal and the imperial mosque of the Mughal emperors in Delhi looked like before 20th-century restorations.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448925"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2024.5.46-the-city-of-benares"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.5.46",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.5.46/2024.5.46_web.jpg",
+          "width": "900",
+          "height": "723",
+          "filesize": "328041",
+          "filename": "2024.5.46_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.5.46/2024.5.46_print.jpg",
+          "width": "3400",
+          "height": "2730",
+          "filesize": "3133708",
+          "filename": "2024.5.46_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.5.46/2024.5.46_full.tif",
+          "width": "6346",
+          "height": "5096",
+          "filesize": "97052938",
+          "filename": "2024.5.46_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-03-14T15:25:55",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5.46/2024.5.46_alt0_web.jpg",
+            "width": "900",
+            "height": "703",
+            "filesize": "232513"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5.46/2024.5.46_alt0_print.jpg",
+            "width": "3400",
+            "height": "2654",
+            "filesize": "2205539"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5.46/2024.5.46_alt0_full.tif",
+            "width": "11287",
+            "height": "8810",
+            "filesize": "298348512"
+          }
+        }
+      ],
+      "creditline": "Severance and Greta Millikin Purchase Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 668294,
+      "creators": [
+        {
+          "id": 265,
+          "description": "Samuel Bourne (British, 1834–1912)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Samuel Bourne British, 1834 - 1912 Born in Nottingham, Samuel Bourne first began taking photographs as an amateur in 1851. Four years later, he gave up his career in banking to become a professional photographer. In 1862 he embarked for India, where for the next several years he made three photographic expeditions into the Himalayas. He also formed a partnership in Simla with Charles Shepherd -- a publishing enterprise to reproduce photographic views. Until his return to England in 1870, Bourne continued to work in India and the Far East and to expand the province of Bourne &amp; Shepherd, opening a second branch in Calcutta. By the time of his departure he had produced some 1,500 negatives of such places as Benares, Darjeeling, and Tibet, largely of landscape and architecture for the public market. Bourne was known for the care with which he conceived and executed his work. His images, though plentiful, were highly prized and remain so today. Many are still available from the firm Bourne &amp; Shepherd, which has survived for more than 125 years. After returning to England, he established a business in cotton doubling, manufacturing thread for lacemaking and weaving machines, raised a family, and took up again the life of an amateur photographer and watercolorist. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1834",
+          "death_year": "1912",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1863,
+      "date_added_to_oa": null,
+      "date_text": "1863–70",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.5",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:35.995000"
+    },
+    {
+      "id": 317925,
+      "accession_number": "2018.873",
+      "share_license_status": "Copyrighted",
+      "tombstone": "East 100th Street: Untitled (51541), 1966–1968. Bruce Davidson (American, b. 1933). Gelatin silver print; paper: 25.4 x 20.3 cm (10 x 8 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.873. © Bruce Davidson/Magnum Photos",
+      "current_location": null,
+      "title": "Untitled (51541)",
+      "series": "East 100th Street",
+      "creation_date": "1966–1968",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1968,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 25.4 x 20.3 cm (10 x 8 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.254,
+          "width": 0.203
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Bruce Davidson/Magnum Photos",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Davidson’s photographs of Spanish Harlem were used as evidence of squalid housing conditions in claims against New York City.",
+      "description": "Davidson spent two years photographing in Spanish Harlem, attempting to integrate himself into the daily lives of its residents. In the past he had used a 35mm camera, but here he turned to a large-format, 4 x 5-inch camera, which requires a tripod and slows down the act of photographing, making the session more of a shared experience, a give and take.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876841"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.873",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317925,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–1968",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:14.682000"
+    },
+    {
+      "id": 317931,
+      "accession_number": "2018.879",
+      "share_license_status": "Copyrighted",
+      "tombstone": "East 100th Street: Untitled (52563), 1966–1968. Bruce Davidson (American, b. 1933). Gelatin silver print; paper: 35.6 x 27.9 cm (14 x 11 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.879. © Bruce Davidson/Magnum Photos",
+      "current_location": null,
+      "title": "Untitled (52563)",
+      "series": "East 100th Street",
+      "creation_date": "1966–1968",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1968,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 35.6 x 27.9 cm (14 x 11 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.356,
+          "width": 0.279
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Bruce Davidson/Magnum Photos",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Davidson’s photographs of Spanish Harlem were used as evidence of squalid housing conditions in claims against New York City.",
+      "description": "Davidson spent two years photographing in Spanish Harlem, attempting to integrate himself into the daily lives of its residents. In the past he had used a 35mm camera, but here he turned to a large-format, 4 x 5-inch camera, which requires a tripod and slows down the act of photographing, making the session more of a shared experience, a give and take.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876858"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.879",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317931,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–1968",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:38.711000"
+    },
+    {
+      "id": 317918,
+      "accession_number": "2018.866",
+      "share_license_status": "Copyrighted",
+      "tombstone": "East 100th Street: Untitled, 1966–1968. Bruce Davidson (American, b. 1933). Gelatin silver print; image: 24 x 17.8 cm (9 7/16 x 7 in.); paper: 35.4 x 27.7 cm (13 15/16 x 10 7/8 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.866",
+      "current_location": null,
+      "title": "Untitled",
+      "series": "East 100th Street",
+      "creation_date": "1966–1968",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1968,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 24 x 17.8 cm (9 7/16 x 7 in.); Paper: 35.4 x 27.7 cm (13 15/16 x 10 7/8 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.354,
+          "width": 0.277
+        },
+        "image": {
+          "height": 0.24,
+          "width": 0.178
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"Bruce Davidson (signed)\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"66-46-436/13\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Commercially imprinted throughout verso: \"Agfa\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Davidson’s photographs of Spanish Harlem were used as evidence of squalid housing conditions in claims against New York City.",
+      "description": "Davidson spent two years photographing in Spanish Harlem, attempting to integrate himself into the daily lives of its residents. In the past he had used a 35mm camera, but here he turned to a large-format, 4 x 5-inch camera, which requires a tripod and slows down the act of photographing, making the session more of a shared experience, a give and take.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876817"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.866",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317918,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–1968",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:04.181000"
+    },
+    {
+      "id": 317919,
+      "accession_number": "2018.867",
+      "share_license_status": "Copyrighted",
+      "tombstone": "East 100th Street: Untitled, 1966–1968. Bruce Davidson (American, b. 1933). Gelatin silver print; image: 17.8 x 24.2 cm (7 x 9 1/2 in.); paper: 27.7 x 35.6 cm (10 7/8 x 14 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.867",
+      "current_location": null,
+      "title": "Untitled",
+      "series": "East 100th Street",
+      "creation_date": "1966–1968",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1968,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 17.8 x 24.2 cm (7 x 9 1/2 in.); Paper: 27.7 x 35.6 cm (10 7/8 x 14 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.277,
+          "width": 0.356
+        },
+        "image": {
+          "height": 0.178,
+          "width": 0.242
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"Bruce Davidson (signed)\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Stamped in purple ink on verso: \"Photography By/Bruce Davidson/© 1970 MAGNUM PHOTOS/72 West 45th Street, N.Y.C. 10036\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"66-46-332/1\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Commercially imprinted throughout verso: \"Agfa\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Davidson’s photographs of Spanish Harlem were used as evidence of squalid housing conditions in claims against New York City.",
+      "description": "Davidson spent two years photographing in Spanish Harlem, attempting to integrate himself into the daily lives of its residents. In the past he had used a 35mm camera, but here he turned to a large-format, 4 x 5-inch camera, which requires a tripod and slows down the act of photographing, making the session more of a shared experience, a give and take.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876820"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.867",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317919,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–1968",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:35.893000"
+    },
+    {
+      "id": 317921,
+      "accession_number": "2018.869",
+      "share_license_status": "Copyrighted",
+      "tombstone": "East 100th Street: Untitled (51018), 1966–1968. Bruce Davidson (American, b. 1933). Gelatin silver print; paper: 27.9 x 35.6 cm (11 x 14 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.869",
+      "current_location": null,
+      "title": "Untitled (51018)",
+      "series": "East 100th Street",
+      "creation_date": "1966–1968",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1968,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 27.9 x 35.6 cm (11 x 14 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.279,
+          "width": 0.356
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Davidson’s photographs of Spanish Harlem were used as evidence of squalid housing conditions in claims against New York City.",
+      "description": "Davidson spent two years photographing in Spanish Harlem, attempting to integrate himself into the daily lives of its residents. In the past he had used a 35mm camera, but here he turned to a large-format, 4 x 5-inch camera, which requires a tripod and slows down the act of photographing, making the session more of a shared experience, a give and take.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876828"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.869",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317921,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–1968",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:00.047000"
+    },
+    {
+      "id": 317923,
+      "accession_number": "2018.871",
+      "share_license_status": "Copyrighted",
+      "tombstone": "East 100th Street: Untitled (51055), 1966–1968. Bruce Davidson (American, b. 1933). Gelatin silver print; paper: 27.9 x 35.6 cm (11 x 14 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.871",
+      "current_location": null,
+      "title": "Untitled (51055)",
+      "series": "East 100th Street",
+      "creation_date": "1966–1968",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1968,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 27.9 x 35.6 cm (11 x 14 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.279,
+          "width": 0.356
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Davidson’s photographs of Spanish Harlem were used as evidence of squalid housing conditions in claims against New York City.",
+      "description": "Davidson spent two years photographing in Spanish Harlem, attempting to integrate himself into the daily lives of its residents. In the past he had used a 35mm camera, but here he turned to a large-format, 4 x 5-inch camera, which requires a tripod and slows down the act of photographing, making the session more of a shared experience, a give and take.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876834"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.871",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317923,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–1968",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:05:26.987000"
+    },
+    {
+      "id": 147864,
+      "accession_number": "1974.221",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Third Avenue, New York City (Under the Elevated), 1948. Godfrey B. Frankel (American, 1912–1995). Gelatin silver print; image: 38.9 x 49 cm (15 5/16 x 19 5/16 in.); matted: 55.9 x 71.1 cm (22 x 28 in.). The Cleveland Museum of Art, Gift of Godfrey Frankel, 1974.221",
+      "current_location": null,
+      "title": "Third Avenue, New York City (Under the Elevated)",
+      "creation_date": "1948",
+      "creation_date_earliest": 1948,
+      "creation_date_latest": 1948,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 38.9 x 49 cm (15 5/16 x 19 5/16 in.); Matted: 55.9 x 71.1 cm (22 x 28 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.389,
+          "width": 0.49
+        },
+        "matted": {
+          "height": 0.559,
+          "width": 0.711
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 302084,
+            "title": "Year in Review: 1974",
+            "description": "<i>Year in Review: 1974</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 11-April 6, 1975).",
+            "opening_date": "1975-03-11T04:00:00"
+          },
+          {
+            "id": 393871,
+            "title": "A New York Minute: Street Photography, 1920–1950",
+            "description": "<i>A New York Minute: Street Photography, 1920–1950</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 11-November 7, 2021).",
+            "opening_date": "2021-07-10T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Cleveland native Godfrey Frankel first learned about art on childhood trips to the Cleveland Museum of Art with his mother. In 1946 he moved to New York to study social work and joined the Photo League, photographers who hoped their images would bring awareness to inequities and effect societal change. Frankel decided to document the Lower East Side, an impoverished and ethnically diverse neighborhood. He discovered that the elevated tracks were useful in directing the noonday sun onto what would otherwise be very dark sidewalks, illuminating stores on both sides of the street.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79927482"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 172",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1974.221",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Godfrey Frankel",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 147864,
+      "creators": [
+        {
+          "id": 134,
+          "description": "Godfrey B. Frankel (American, 1912–1995)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Godfrey B. Frankel American, 1912-1995 After graduating from Ohio State University in 1935 and working as a newspaperman, Godfrey Frankel (born in Cleveland) moved to Washington, D.C., in 1942 to serve as the nightclub columnist for the Washington Daily News. During the day, he explored the city by bicycle. On one of his excursions in 1943, Frankel discovered the crowded alley neighborhoods of southwest D.C. Fascinated by these hidden enclaves of the city's poor, he returned again and again with his camera to document the everyday life of the people who lived there—particularly the children who played outdoors in the streets. Before long, the neighborhoods were gone, torn down by urban renewal. In 1945 Frankel documented the resettlement of Japanese-Americans uprooted during World War II for the federal War Relocation Authority program. In 1944 Frankel traveled to New York City and met Alfred Stieglitz, who encouraged his photographic work. He moved there in 1946, and that year and two years later several of his alley pictures were included in group shows at the Museum of Modern Art. He joined the Photo League and began another project: photographing Manhattan's Lower East Side. In 1950 Frankel received a master's degree in social work from Columbia University and moved to Cleveland to work in a community center. Four years later he published Short Cut to Photography, a book geared toward young people. In 1962 Frankel settled in Washington, D.C., to work as a senior consultant for the National Institute on Drug Abuse until his retirement in 1982. In 1988 he received a B.F.A. from the University of Maryland, where he had been a visiting professor of community development and organizational behavior (1980-86). Shortly after Frankel's death in 1995, the Smithsonian Institution Press published a book of his photographs, In the Alleys: Kids in the Shadow of the Capitol. M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1912",
+          "death_year": "1995",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1997-02-07T00:00:00",
+      "sortable_date": 1948,
+      "date_added_to_oa": null,
+      "date_text": "1948",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:35.002000"
+    },
+    {
+      "id": 317924,
+      "accession_number": "2018.872",
+      "share_license_status": "Copyrighted",
+      "tombstone": "East 100th Street: Untitled (51091), 1966–1968. Bruce Davidson (American, b. 1933). Gelatin silver print; paper: 35.6 x 27.9 cm (14 x 11 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.872",
+      "current_location": null,
+      "title": "Untitled (51091)",
+      "series": "East 100th Street",
+      "creation_date": "1966–1968",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1968,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 35.6 x 27.9 cm (14 x 11 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.356,
+          "width": 0.279
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Davidson’s photographs of Spanish Harlem were used as evidence of squalid housing conditions in claims against New York City.",
+      "description": "Davidson spent two years photographing in Spanish Harlem, attempting to integrate himself into the daily lives of its residents. In the past he had used a 35mm camera, but here he turned to a large-format, 4 x 5-inch camera, which requires a tripod and slows down the act of photographing, making the session more of a shared experience, a give and take.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876837"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.872",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317924,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–1968",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:32.171000"
+    },
+    {
+      "id": 317939,
+      "accession_number": "2018.887",
+      "share_license_status": "Copyrighted",
+      "tombstone": "East 100th Street: Untitled, 1966–1968. Bruce Davidson (American, b. 1933). Gelatin silver print; image: 21.2 x 15.7 cm (8 3/8 x 6 3/16 in.); paper: 35.5 x 27.7 cm (14 x 10 7/8 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.887",
+      "current_location": null,
+      "title": "Untitled",
+      "series": "East 100th Street",
+      "creation_date": "1966–1968",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1968,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 21.2 x 15.7 cm (8 3/8 x 6 3/16 in.); Paper: 35.5 x 27.7 cm (14 x 10 7/8 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.355,
+          "width": 0.277
+        },
+        "image": {
+          "height": 0.212,
+          "width": 0.157
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"Bruce Davidson\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"66-46-82/7\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Davidson’s photographs of Spanish Harlem were used as evidence of squalid housing conditions in claims against New York City.",
+      "description": "Davidson spent two years photographing in Spanish Harlem, attempting to integrate himself into the daily lives of its residents. In the past he had used a 35mm camera, but here he turned to a large-format, 4 x 5-inch camera, which requires a tripod and slows down the act of photographing, making the session more of a shared experience, a give and take.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876881"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.887",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317939,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–1968",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:38.056000"
+    }
+  ]
+}

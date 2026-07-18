@@ -1,0 +1,2929 @@
+{
+  "info": {
+    "total": 1121,
+    "parameters": {
+      "skip": 20,
+      "limit": 20,
+      "q": "street",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,collection,department,classification_type,gallery",
+      "search": "street"
+    }
+  },
+  "data": [
+    {
+      "id": 167678,
+      "accession_number": "2009.355",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Hell: The Street , 1919. Max Beckmann (German, 1884–1950). Lithograph; sheet: 83.2 x 65.2 cm (32 3/4 x 25 11/16 in.). The Cleveland Museum of Art, Norman O. Stone and Ella A. Stone Memorial Fund, 2009.355",
+      "current_location": null,
+      "title": "Hell: The Street ",
+      "creation_date": "1919",
+      "creation_date_earliest": 1919,
+      "creation_date_latest": 1919,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Germany, 20th century"
+      ],
+      "technique": "lithograph",
+      "support_materials": [
+        {
+          "description": "imitation Japan paper",
+          "watermarks": []
+        }
+      ],
+      "department": "Prints",
+      "collection": "PR - Lithograph",
+      "type": "Print",
+      "measurements": "Sheet: 83.2 x 65.2 cm (32 3/4 x 25 11/16 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.832,
+          "width": 0.652
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "In pencil, lower left: \"45/75 Die Strasse\" \r\nlower right: \"Beckmann\"\r\n",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 299699,
+            "title": "Graphic Discontent: German Expressionism on Paper",
+            "description": "<i>Graphic Discontent: German Expressionism on Paper</i>. The Cleveland Museum of Art (organizer) (January 14-May 27, 2018).",
+            "opening_date": "2018-01-14T05:00:00"
+          },
+          {
+            "id": 681561,
+            "title": "Degenerate! Hitler’s War on Modern Art",
+            "description": "<i>Degenerate! Hitler’s War on Modern Art</i>. Maltz Museum of Jewish Heritage, Beachwood, OH (organizer) (October 29, 2024-April 20, 2025).",
+            "opening_date": "2024-10-29T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "After World War I, Max Beckmann produced a portfolio of lithographs under the title <em>Die Holle</em> (<em>Hell</em>). Its publication coincided with civil unrest including heavy street fighting during the so-called November Riots of 1918 that followed Germany’s defeat. Here, the caricatured faces and cropped, overpacked, and stage-like composition portray the ideologues, the war-maimed, the famished, and the deranged. One of Beckmann’s contemporaries, the art historian Paul Schmidt, wrote that it signaled the artist’s new role as a prophet. This aligned with Beckmann’s self-stated aim to expose the “ghastly cry of the poor disillusioned people.”",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80072479"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2009.355-hell-the-street"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Peters, Emily J. \"Graphic Discontent: The German Expressionists strove for spontaneity and unexpected results.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 58. no. 1 (January/February 2018): Cover, 5-7, 22.",
+          "page_number": "Reproduced: P. 7; Mentioned: P. 6, 7",
+          "url": "https://archive.org/details/CMAMM2018-01/page/n3/mode/2up"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2009.355",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Norman O. Stone and Ella A. Stone Memorial Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 167678,
+      "creators": [
+        {
+          "id": 25607,
+          "description": "Max Beckmann (German, 1884–1950)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1884",
+          "death_year": "1950",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2009-11-30T00:00:00",
+      "sortable_date": 1919,
+      "date_added_to_oa": null,
+      "date_text": "1919",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:22.244000"
+    },
+    {
+      "id": 125926,
+      "accession_number": "1948.156.5",
+      "share_license_status": "CC0",
+      "tombstone": "Some Scenes of Parisian Life: Street Scene from Above, 1899. Pierre Bonnard (French, 1867–1947), Published by Ambroise Vollard; Printed by Auguste Clot. Lithograph; sheet: 53.1 x 41 cm (20 7/8 x 16 1/8 in.); image: 37 x 22.5 cm (14 9/16 x 8 7/8 in.). The Cleveland Museum of Art, Gift of the Hanna Fund, 1948.156.5",
+      "current_location": null,
+      "title": "Street Scene from Above",
+      "series": "Some Scenes of Parisian Life",
+      "creation_date": "1899",
+      "creation_date_earliest": 1899,
+      "creation_date_latest": 1899,
+      "artists_tags": [
+        "Nabis",
+        "male"
+      ],
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "lithograph",
+      "support_materials": [
+        {
+          "description": "cream (1) china paper",
+          "watermarks": []
+        }
+      ],
+      "department": "Prints",
+      "collection": "PR - Lithograph",
+      "type": "Print",
+      "measurements": "Sheet: 53.1 x 41 cm (20 7/8 x 16 1/8 in.); Image: 37 x 22.5 cm (14 9/16 x 8 7/8 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.531,
+          "width": 0.41
+        },
+        "image": {
+          "height": 0.37,
+          "width": 0.225
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 309884,
+            "title": "Urban Vicissitudes",
+            "description": "<i>Urban Vicissitudes</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 2-September 29, 1985).",
+            "opening_date": "1985-07-02T04:00:00"
+          },
+          {
+            "id": 309882,
+            "title": "Prints by Toulouse-Lautrec and Bonnard",
+            "description": "<i>Prints by Toulouse-Lautrec and Bonnard</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 3, 1985-March 2, 1986).",
+            "opening_date": "1985-12-03T05:00:00"
+          },
+          {
+            "id": 329533,
+            "title": "Private Lives: Home and Family in the Art of the Nabis, Paris, 1889–1900",
+            "description": "<i>Private Lives: Home and Family in the Art of the Nabis, Paris, 1889–1900</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (co-organizer) (July 1-September 19, 2021).",
+            "opening_date": "2021-07-01T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "The Art Institute of Chicago",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [
+        "1948.160"
+      ],
+      "did_you_know": null,
+      "description": "This suite of color lithographs collected Pierre Bonnard’s observations of city life, ranging from animated street scenes to distant observations glimpsed from the artist’s Montmartre studio window. Rather than memorializing the famous monuments of Paris, Bonnard preferred to depict small neighborhood scenes populated by urbanites shopping and strolling and by vendors selling their wares. The setting for one of the prints is the second-largest public park in Paris, the Bois de Boulogne, which was a popular place for families to relax, stroll, and enjoy carriage rides around the lakes. Two prints are nocturnal scenes in which gaslight emanating from shop windows is reflected on the wet streets, creating passages of bright yellow in the otherwise dark compositions. Bonnard’s favorite subjects, such as the Parisienne—a young, fashionable, modern woman—as well as children and dogs, appear repeatedly throughout the prints in the suite.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79905068"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1948.156.5-street-scene-from-ab"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Brown, Heather Lemonedes. “The Nabi City.” In <em>Private Lives: Home and Family in the Art of the Nabis, Paris, 1889-1900</em>. Mary Weaver Chapin and Heather Lemonedes Brown, 222-261. Cleveland: Cleveland Museum of Art, 2021.",
+          "page_number": "Mentioned: P. 230; Reproduced: P. 250, no. 163",
+          "url": ""
+        }
+      ],
+      "catalogue_raisonne": "Bouvet 62",
+      "url": "https://clevelandart.org/art/1948.156.5",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1948.156.5/1948.156.5_web.jpg",
+          "width": "569",
+          "height": "893",
+          "filesize": "441044",
+          "filename": "1948.156.5_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1948.156.5/1948.156.5_print.jpg",
+          "width": "2168",
+          "height": "3400",
+          "filesize": "6348652",
+          "filename": "1948.156.5_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1948.156.5/1948.156.5_full.tif",
+          "width": "2888",
+          "height": "4529",
+          "filesize": "39273272",
+          "filename": "1948.156.5_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Gift of the Hanna Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 125926,
+      "creators": [
+        {
+          "id": 1733,
+          "description": "Pierre Bonnard (French, 1867–1947)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Pierre Bonnard was a law student when he began his artistic training in 1887 at the Académie Julian in Paris, where he met Paul Sérusier (1864-1927) and the theorist and painter Maurice Denis (1870-1943). Both would be influential in his artistic career and become Bonnard's lifelong friends. In 1889, the year he obtained his law degree, he saw the exhibition at Café Volpini (see Gauguin, Woman in the Waves, no. 100) and was particularly impressed with Gauguin's work. Sérusier, after having returned from studying with Gauguin in Pont-Aven, decided to form his own artistic group called the Nabis (Hebrew: prophets). The founding members of the Nabis included Denis, who wrote the manifesto for the group, \"Définition du néo-traditionnisme\" (published in May 1890 in Art et critique), Bonnard, Paul Ranson (1864-1909), and Henri-Gabriel Ibels (1867-1936). Their first exhibition occurred in 1891, and they were later joined by Ker-Xavier Roussel (1867-1944) and Vuillard (q.v.). Based loosely on the synthetist goals established by Gauguin and Émile Bernard, the movement was created from Sérusier's vision of an artistic brotherhood dedicated to symbolism whereby a universal language could be expressed through symbols. The Nabis were opposed to the naturalism taught at academies by artists such as Bouguereau (q.v.) and wanted to move away from didactic and moral paintings toward a more decorative style characterized by simplified drawing, flat patches of color, and heavy set contours. Bonnard's works of the 1890s were influenced by the innovations of Gauguin as well as Japanese prints, which were easily accessible in nineteenth-century Paris. His paintings took on a decorative quality, mirroring his artistic expressions in other media such as stained glass, furniture, pottery, and painted screens. Bonnard's and Vuillard's domestic interior paintings of the 1890s were often described using the term intimisme. In 1891 Bonnard also experimented with other media, including poster designs and lithographs, which inspired his friend Henri de Toulouse-Lautrec (1864-1901), whom he had met through La revue blanche, a magazine that published the Nabis' work. Around 1900 the members of the Nabis began to drift apart. Between 1905 and 1910 Bonnard and Vuillard traveled to England, Belgium, Holland, Spain, and Italy, visiting many museums. Bonnard's art began to gravitate toward impressionism, but his colors were more expressive and his compositions more overtly structured; elements of the painted interiors such as doors, windows or pieces of furniture often provided a strong compositional framework. He also worked extensively with photographs. His late works were acclaimed by fellow Parisians like Henri Matisse (1869-1954) and Paul Signac (1863-1935). After 1920 Bonnard exhibited extensively and became an internationally renowned artist, receiving much recognition in the United States, where he traveled in 1926.",
+          "name_in_original_language": null,
+          "birth_year": "1867",
+          "death_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 69023,
+          "description": "Published by Ambroise Vollard; Printed by Auguste Clot",
+          "extent": null,
+          "qualifier": null,
+          "role": "published by",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1948-06-15T00:00:00",
+      "sortable_date": 1899,
+      "date_added_to_oa": null,
+      "date_text": "1899",
+      "collapse_artists": true,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "1948.156",
+      "is_nazi_era_provenance": false,
+      "impression": "100",
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:11.747000"
+    },
+    {
+      "id": 162841,
+      "accession_number": "2003.329",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Window on 14th Street, 1949. Armin Landeck (American, 1905–1984). Drypoint and engraving; sheet: 40.7 x 24.2 cm (16 x 9 1/2 in.); platemark: 31.1 x 14.6 cm (12 1/4 x 5 3/4 in.). The Cleveland Museum of Art, Gift of Carole W. and Charles B. Rosenblatt, 2003.329",
+      "current_location": null,
+      "title": "Window on 14th Street",
+      "creation_date": "1949",
+      "creation_date_earliest": 1949,
+      "creation_date_latest": 1949,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "drypoint and engraving",
+      "support_materials": [],
+      "department": "Prints",
+      "collection": "PR - Drypoint",
+      "type": "Print",
+      "measurements": "Sheet: 40.7 x 24.2 cm (16 x 9 1/2 in.); Platemark: 31.1 x 14.6 cm (12 1/4 x 5 3/4 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.407,
+          "width": 0.242
+        },
+        "platemark": {
+          "height": 0.311,
+          "width": 0.146
+        }
+      },
+      "state_of_the_work": "I/I",
+      "edition_of_the_work": "90",
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "inscribed, at lower margin, in graphite: ed 100 Landeck 1949",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 383281,
+            "title": "Stories from Storage",
+            "description": "<i>Stories from Storage</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 7-May 16, 2021).",
+            "opening_date": "2021-02-06T05:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Carole W. and Charles B. Rosenblatt, Pepper Pike, OH, given to the Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?-2003",
+          "sortorder": 1
+        },
+        {
+          "description": "Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "2003-",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Armin Landeck held a degree in architecture and buildings remained one of his favorite subjects even after his focus shifted to printmaking.",
+      "description": "Armin Landeck first experienced New York as a student in the 1920s, and the city remained one of his favorite subjects throughout the decades that followed. This print is one of numerous depictions that Landeck created of his studio space. The interior is defined by the window’s frame, partially obscured by a striking dark shade that evokes the importance of natural light to the artistic process.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79987958"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "catalogue_raisonne": "Kraeft 103",
+      "url": "https://clevelandart.org/art/2003.329",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Carole W. and Charles B. Rosenblatt",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 162841,
+      "creators": [
+        {
+          "id": 26624,
+          "description": "Armin Landeck (American, 1905–1984)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1905",
+          "death_year": "1984",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2003-12-01T00:00:00",
+      "sortable_date": 1949,
+      "date_added_to_oa": null,
+      "date_text": "1949",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:41.416000"
+    },
+    {
+      "id": 166334,
+      "accession_number": "2008.173",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Blind Street Peddler, Barcelona, 1933. Dora Maar (French, 1907–1997). Gelatin silver print; image: 39.3 x 29.3 cm (15 1/2 x 11 9/16 in.); mounted: 41.2 x 31.2 cm (16 1/4 x 12 5/16 in.). The Cleveland Museum of Art, Gift of David Raymond, 2008.173. © 2013 Artists Rights Society (ARS), New York / ADAGP, Paris",
+      "current_location": null,
+      "title": "Blind Street Peddler, Barcelona",
+      "creation_date": "1933",
+      "creation_date_earliest": 1933,
+      "creation_date_latest": 1933,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "France, 20th century"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "Photography",
+      "type": "Photograph",
+      "measurements": "Image: 39.3 x 29.3 cm (15 1/2 x 11 9/16 in.); Mounted: 41.2 x 31.2 cm (16 1/4 x 12 5/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.393,
+          "width": 0.293
+        },
+        "mounted": {
+          "height": 0.412,
+          "width": 0.312
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© 2013 Artists Rights Society (ARS), New York / ADAGP, Paris",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"Dora Maar (signed)\r\n\r\n",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Dora Maar estate stamp on verso of mount: \"DM/1998\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 336234,
+            "title": "Dora Maar, Fotógrafa",
+            "description": "<i>Dora Maar, Fotógrafa</i>. Centro Cultura Bancaixi (January 1-March 31, 1995).",
+            "opening_date": "1995-01-01T05:00:00"
+          },
+          {
+            "id": 335981,
+            "title": "Dora Maar: Bataille, Picasso, et les Surréalistes",
+            "description": "<i>Dora Maar: Bataille, Picasso, et les Surréalistes</i>. Haus der Kunst, Munich, Mùnich, Germany (October 13, 2001-January 6, 2002); Centre de la Vieille Charité, Marseille, France (February 7-April 30, 2002); Centre d’Art Tecla Sala, L’Hospitalet, Spain (May 21-July 15, 2002).",
+            "opening_date": "2001-10-13T04:00:00"
+          },
+          {
+            "id": 335822,
+            "title": "Dora Maar: Photographer",
+            "description": "<i>Dora Maar: Photographer</i>. Dorsky Gallery (April 25-June 28, 2004).",
+            "opening_date": "2004-04-25T04:00:00"
+          },
+          {
+            "id": 335775,
+            "title": "Accommodations of Desire: Surrealist Works on Paper Collected by Julien Levy",
+            "description": "<i>Accommodations of Desire: Surrealist Works on Paper Collected by Julien Levy</i>. Palmer Museum of Art (September 14-December 5, 2004); McMullen Museum of Art, Boston College, MA (January 16-March 27, 2005); Crocker Art Museum, Sacaramento, CA (July 9-September 11, 2005); Portland Museum of Art (January 1-March 19, 2006).",
+            "opening_date": "2004-09-14T04:00:00"
+          },
+          {
+            "id": 203169,
+            "title": "Forbidden Games: Surrealist and Modernist Photography",
+            "description": "<i>Forbidden Games: Surrealist and Modernist Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 19, 2014-January 11, 2015).",
+            "opening_date": "2014-10-19T00:00:00"
+          },
+          {
+            "id": 317519,
+            "title": "Dora Maar",
+            "description": "<i>Dora Maar</i>. Centre national d'art et de culture Georges Pompidou, Paris, France (organizer) (June 5-July 28, 2019); Tate Modern (November 19, 2019-March 15, 2020).",
+            "opening_date": "2019-06-05T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "The artist's estate, Paris",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "(PIASA, Paris, Nov. 20, 1998, no. 83, sold to Galerie Michele Chomette)",
+          "citations": [],
+          "footnotes": [],
+          "date": "November 20, 1998",
+          "sortorder": 2
+        },
+        {
+          "description": "(Galerie Michele Chomette, Paris)",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 3
+        },
+        {
+          "description": "David Raymond [b.1979], New York, NY",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 4
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "2008-",
+          "sortorder": 5
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Vision and its opposite, blindness, were important themes for 20th-century avant-garde artists,especially the Surrealists. Maar’s image demonstrates social concern for those reduced to begging to survive, but she also appreciated the irony and oddity of photographing someone who could not see.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60781025"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E. Hinson, Ian Walker, and Lisa Kurzner. Forbidden Games: Surrealist and Modernist Photography : the David Raymond Collection in the Cleveland Museum of Art. 2014.",
+          "page_number": "Mentioned: p. 101; reproduced: p. 103; Mentioned: pp. 223.",
+          "url": null
+        },
+        {
+          "citation": "Maar, Dora. Dora Maar: Bataille, Picasso et les surréalistes. [Marseille]: Musées de Marseille, 2000.",
+          "page_number": "Reproduced: p. 58, no. 34; mentioned: pp. 264.",
+          "url": null
+        },
+        {
+          "citation": "Maar, Dora, and Victoria Combalía Dexeus. Dora Maar: Haus der Kunst München, 13. Oktober 2001-6. Januar 2002 ; Musées de Marseille, Centre de la Vieille Charité, 20. Januar-4. Mai 2002 ; Centre Cultural Tecla Sala, L'Hospitalet Barcelona, 15. Mai- 15. Juli 2002. München: Haus der Kunst München, 2001.",
+          "page_number": "Reproduced: p. 72, no. 35; mentioned: pp. 320.",
+          "url": null
+        },
+        {
+          "citation": "Maar, Dora. Dora Maar: Photographer. Long Island City, NY: Dorsky Gallery, 2004.",
+          "page_number": "Reproduced: pg. 2.",
+          "url": null
+        },
+        {
+          "citation": "Schaffner, Ingrid, Julien Levy, and Colin Westerbeck. Accommodations of Desire: Surrealist Works on Paper Collected by Julien Levy. Pasadena, Calif: Curatorial Assistance, Inc, 2004.",
+          "page_number": "Mentioned: p. 123.",
+          "url": null
+        },
+        {
+          "citation": "Combalia, Victoria. \"Dora Maar, Street Photographer: Barcelona and London.\" In Dora Maar, 52-76. Eds., Damarice Amao, Amanda Maddox, and Karolina Ziebinska-Lewandowska. Exh. Cat. Los Angeles: The J. Paul Getty Museum, 2019.",
+          "page_number": "Mentioned: p. 54; Reproduced: p. 57, Plate 59.",
+          "url": ""
+        },
+        {
+          "citation": "Maar, Dora, and Antoine Ullmann. Dora Maar. 2019, 11.",
+          "page_number": "Reproduced: p. 11",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/2008.173",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of David Raymond",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 166334,
+      "creators": [
+        {
+          "id": 11223,
+          "description": "Dora Maar (French, 1907–1997)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1907",
+          "death_year": "1997",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2008-12-08T00:00:00",
+      "sortable_date": 1933,
+      "date_added_to_oa": null,
+      "date_text": "1933",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:05:57.088000"
+    },
+    {
+      "id": 154895,
+      "accession_number": "1989.461",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Emma Street, Lakeland, Florida, 1982. Nicholas Nixon (American, 1947-). Gelatin silver print; image: 19.5 x 24.5 cm (7 11/16 x 9 5/8 in.); paper: 20.3 x 25.3 cm (8 x 9 15/16 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, Gift of Museum members in 1989, 1989.461",
+      "current_location": null,
+      "title": "Emma Street, Lakeland, Florida",
+      "creation_date": "1982",
+      "creation_date_earliest": 1982,
+      "creation_date_latest": 1982,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 19.5 x 24.5 cm (7 11/16 x 9 5/8 in.); Paper: 20.3 x 25.3 cm (8 x 9 15/16 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.195,
+          "width": 0.245
+        },
+        "paper": {
+          "height": 0.203,
+          "width": 0.253
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"NN16199\"; \"Emma Street Lakeland, Florida 1982 14/50 Nicholas Nixon [signed]\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 184340,
+            "title": "Looking at Children:  Photographs from the Permanent Collection",
+            "description": "<i>Looking at Children:  Photographs from the Permanent Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 20-December 4, 2002).",
+            "opening_date": "2002-07-20T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, Feb. 6 - April 15, 1990: \"Year in Review 1989,\" CMA Bulletin, 77 (Feb. 1990), p. 72, no. 122 (not exhibited).",
+            "opening_date": "1990-02-06T00:00:00"
+          },
+          {
+            "description": "CMA, Nov. 18, 1992 - Jan. 3, 1993: \"Contemporary American Photographers,\" CMA Bulletin, 79 (Nov. 1992), p. 341, no. 56, repr. p. 339.",
+            "opening_date": "1992-11-18T00:00:00"
+          },
+          {
+            "description": "CMA, July 20 - December 4, 2002; \"Looking at Children\".  No catalog",
+            "opening_date": "2002-07-20T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Nicholas Nixon began his career in the late 1960s, photographing architectural views and cityscapes before turning to portraiture. During the late 1970s and early 1980s, he recorded working-class and impoverished Americans in urban and rural locations. In this visually complex image of several generations, Nixon positions the subjects and photographs them up close to decrease the sense of deep space, allowing the subjects to dominate the composition. Although physically close, the eyes of the figures are diverted from one another and the camera, and they appear emotionally distant and in their own separate worlds. The photograph avoids sentimentality while providing a social documentation and a study of human interaction.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79942633"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Hinson, Tom E. \"Contemporary American Photographs: An Exhibition.\" <em>The Bulletin of the Cleveland Museum of Art</em> 79, no. 9 (1992): 306-51.",
+          "page_number": "Reproduced & Mentioned: p. 338-39",
+          "url": "https://www.jstor.org/stable/25161375"
+        },
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 256",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1989.461",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Museum members in 1989",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 154895,
+      "creators": [
+        {
+          "id": 739,
+          "description": "Nicholas Nixon (American, 1947-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Nicholas Nixon American, 1947-\r\n\r\nThe photographs of Nicholas Nixon reflect the amalgamation of a number of stylistic and humanitarian influences. Like many documentary photographers who came on the scene in the late 1960s, Nixon (born in Detroit) began making 35mm snapshots in the manner of Cartier-Bresson's \"decisive moment.\" He was a vista volunteer in St. Louis (1969-70) and taught high school in Minneapolis (1970-71), experiences that would influence his later portraiture.\r\n\tIn 1975 curator Bill Jenkins of George Eastman House, Rochester, included Nixon's architectural views in his influential New Topographics exhibition along with the work of nine other emerging photographers whose subjects addressed the \"man-altered landscape.\" Nixon pursued this theme throughout the mid-1970s, photographing the modern city skyline with the sort of utopian idealism previously reserved for the type of heroic landscapes perfected by Ansel Adams. In 1976 he had his first solo exhibition at the Museum of Modern Art, New York. During this time he also began using a large-format camera to make powerful, honest portraits of his wife, Bebe, and her three sisters. This ongoing series, included in its nascence by John Szarkowski in his 1978 Mirrors and Windows exhibition at the Museum of Modern Art, New York, is among Nixon's most recognized achievements.\r\n\tNixon collaborated with his wife on a book project, People with aids (1991), and continues to explore themes of family, childhood, and education, recently completing a series on his son Sam's sixth-grade class, titled Room 306. He holds a B.A. in American literature from the University of Michigan (1969) and an M.F.A. from the University of New Mexico (1974). His awards include fellowships from the National Endowment for the Arts (1976, 1979) and the John Simon Guggenheim Memorial Foundation (1977). Nixon lives in Cambridge, where he teaches at the Massachusetts College of Art. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1990-01-29T00:00:00",
+      "sortable_date": 1982,
+      "date_added_to_oa": null,
+      "date_text": "1982",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": "14",
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:04:25.770000"
+    },
+    {
+      "id": 169415,
+      "accession_number": "2011.263",
+      "share_license_status": "Copyrighted",
+      "tombstone": "The Destruction of Lower Manhattan: 87-95 North Moore Street, 1966–67. Danny Lyon (American, 1942-). Gelatin silver print; image: 22.9 x 29.3 cm (9 x 11 9/16 in.); paper: 27.8 x 35.4 cm (10 15/16 x 13 15/16 in.); matted: 45.7 x 55.9 cm (18 x 22 in.). The Cleveland Museum of Art, Gift of George Stephanopoulos, 2011.263",
+      "current_location": null,
+      "title": "87-95 North Moore Street",
+      "series": "The Destruction of Lower Manhattan",
+      "creation_date": "1966–67",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1967,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 22.9 x 29.3 cm (9 x 11 9/16 in.); Paper: 27.8 x 35.4 cm (10 15/16 x 13 15/16 in.); Matted: 45.7 x 55.9 cm (18 x 22 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.278,
+          "width": 0.354
+        },
+        "matted": {
+          "height": 0.457,
+          "width": 0.559
+        },
+        "image": {
+          "height": 0.229,
+          "width": 0.293
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Signed, titled and dated on verso\r\nartist's \"Bleak Beauty\" stamp also on verso",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 306442,
+            "title": "Danny Lyon: The Destruction of Lower Manhattan",
+            "description": "<i>Danny Lyon: The Destruction of Lower Manhattan</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 19-October 7, 2018).",
+            "opening_date": "2018-05-19T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "George Stephanopoulos",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Originally below sea level, the area that became West, Greenwich, and Washington Streets was built up through the continuous dumping of dirt and refuse. West Street occupies two and a half miles of Hudson River front; by 1900 the street had become one of the busiest in America. 327, 329, and 331 Washington Street, pictured in the middle of the top row, were constructed in the early 1800s as Federal-style townhouses, then commercialized when the area became the city’s produce market in 1812. Although slated for demolition in the mid-1960s, the structures were restored to their original character and are now homes.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80076692"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2011.263",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George Stephanopoulos",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 169415,
+      "creators": [
+        {
+          "id": 601,
+          "description": "Danny Lyon (American, 1942-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Danny Lyon American, 1942- Danny Lyon (born in Brooklyn) came to attention in the 1960s as a social documentary photographer whose sympathies with his subjects often grew from personal involvement in their causes. While studying history at the University of Chicago (B.A., 1963), he joined the Student Non-Violent Coordinating Committee and served as the group's photographer. Since 1967 he has been an associate for the magnum photo agency and made extensive photo essays in the late 1960s-70s on the civil rights movement (The Movement, 1964), the Chicago Outlaws Motorcycle Club, of which he was a member (The Bikeriders, 1968), the demolition of historic 19th-century buildings in New York City (The Destruction of Lower Manhattan, 1969), and Texas prisons (Conversations with the Dead, 1971). For that series, Lyon included with his black-and-white photographs excerpts from handwritten letters, drawings, police reports, and telegrams. In 1977 the U.S. Justice Department used his images in a landmark legal case (Ruiz vs. Estelle) to improve conditions in prisons throughout Texas. Since the 1980s, Lyon has traveled to Colombia to photograph street children and prostitutes (The Paper Negative, 1980) and to Haiti to cover the events leading up to the collapse of the Duvalier regime in 1986. His own family has also become a continued subject of his work. Parallel to his photography, Lyon has made numerous films that are shown regularly in universities across the United States: Social Sciences 127 (1969), Llanito (1971), El Mojado (1973), Los Niños Abandonados (1975), Dear Mark (1975-80), Little Boy (1977), Willie (1986-87), and Media Man (c. 1993). He has published his own works since 1988 under the imprint Bleak Beauty Books, in collaboration with his wife, Nancy Lyon, and Michael Hausman. Lyon has also taught nonfiction film at the State University of New York at Buffalo (1986) and at Columbia University (1987-90). Among his honors are fellowships from the John Simon Guggenheim Memorial Foundation (1969, 1979) and the Rockefeller Foundation (1990). He has had one-person exhibitions at the Art Institute of Chicago (1966, 1969), the Newport Harbor Art Museum in California (1973), and the Philadelphia Museum of Art (1982). In 1991 a retrospective, Danny Lyon Photo Film, with accompanying catalogue, traveled internationally. Lyon lives in Clintondale, New York. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1942",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2011-12-05T00:00:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–67",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:05:47.405000"
+    },
+    {
+      "id": 169402,
+      "accession_number": "2011.251",
+      "share_license_status": "Copyrighted",
+      "tombstone": "The Destruction of Lower Manhattan: 258 Washington Street at the Northwest Corner of Murray Street, 1966–67. Danny Lyon (American, 1942-). Gelatin silver print; image: 25 x 24.8 cm (9 13/16 x 9 3/4 in.); paper: 35.5 x 27.7 cm (14 x 10 7/8 in.). The Cleveland Museum of Art, Gift of George Stephanopoulos, 2011.251",
+      "current_location": null,
+      "title": "258 Washington Street at the Northwest Corner of Murray Street",
+      "series": "The Destruction of Lower Manhattan",
+      "creation_date": "1966–67",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1967,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 25 x 24.8 cm (9 13/16 x 9 3/4 in.); Paper: 35.5 x 27.7 cm (14 x 10 7/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.25,
+          "width": 0.248
+        },
+        "paper": {
+          "height": 0.355,
+          "width": 0.277
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Signed, titled and dated on verso\r\nartist's \"Bleak Beauty\" stamp also on verso",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 306442,
+            "title": "Danny Lyon: The Destruction of Lower Manhattan",
+            "description": "<i>Danny Lyon: The Destruction of Lower Manhattan</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 19-October 7, 2018).",
+            "opening_date": "2018-05-19T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "George Stephanopoulos",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "In 1970 the New York Landmarks Preservation Commission awarded landmark status to the building at 258 Washington Street, built in 1848 by architect-engineer James Bogardus (1800–1874). “It forms a part of the first complete cast-iron building front ever erected in the United States, . . . [which] employed a novel system of assembly and erection and . . . was a forerunner of the multi-story steel-framed office building of today.” Landmark status did not prevent its demolition. However, its front consisted of prefabricated units that could be taken apart, moved, and reassembled elsewhere. The historic facade was disassembled at a cost of $80,000 and put in storage in 1971. Four years later, it was stolen by thieves who sold it for scrap.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80076661"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Tannenbaum, Barbara. “A Song of Destruction: Danny Lyon's photographic eulogy to Lower Manhattan.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>58, no. 3 (May/June 2018): 12-13.",
+          "page_number": "Reproduced: P. 13; Mentioned: P. 12",
+          "url": "https://archive.org/details/CMAMM2018-03/page/n5/mode/2up"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2011.251",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George Stephanopoulos",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 169402,
+      "creators": [
+        {
+          "id": 601,
+          "description": "Danny Lyon (American, 1942-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Danny Lyon American, 1942- Danny Lyon (born in Brooklyn) came to attention in the 1960s as a social documentary photographer whose sympathies with his subjects often grew from personal involvement in their causes. While studying history at the University of Chicago (B.A., 1963), he joined the Student Non-Violent Coordinating Committee and served as the group's photographer. Since 1967 he has been an associate for the magnum photo agency and made extensive photo essays in the late 1960s-70s on the civil rights movement (The Movement, 1964), the Chicago Outlaws Motorcycle Club, of which he was a member (The Bikeriders, 1968), the demolition of historic 19th-century buildings in New York City (The Destruction of Lower Manhattan, 1969), and Texas prisons (Conversations with the Dead, 1971). For that series, Lyon included with his black-and-white photographs excerpts from handwritten letters, drawings, police reports, and telegrams. In 1977 the U.S. Justice Department used his images in a landmark legal case (Ruiz vs. Estelle) to improve conditions in prisons throughout Texas. Since the 1980s, Lyon has traveled to Colombia to photograph street children and prostitutes (The Paper Negative, 1980) and to Haiti to cover the events leading up to the collapse of the Duvalier regime in 1986. His own family has also become a continued subject of his work. Parallel to his photography, Lyon has made numerous films that are shown regularly in universities across the United States: Social Sciences 127 (1969), Llanito (1971), El Mojado (1973), Los Niños Abandonados (1975), Dear Mark (1975-80), Little Boy (1977), Willie (1986-87), and Media Man (c. 1993). He has published his own works since 1988 under the imprint Bleak Beauty Books, in collaboration with his wife, Nancy Lyon, and Michael Hausman. Lyon has also taught nonfiction film at the State University of New York at Buffalo (1986) and at Columbia University (1987-90). Among his honors are fellowships from the John Simon Guggenheim Memorial Foundation (1969, 1979) and the Rockefeller Foundation (1990). He has had one-person exhibitions at the Art Institute of Chicago (1966, 1969), the Newport Harbor Art Museum in California (1973), and the Philadelphia Museum of Art (1982). In 1991 a retrospective, Danny Lyon Photo Film, with accompanying catalogue, traveled internationally. Lyon lives in Clintondale, New York. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1942",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2011-12-05T00:00:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–67",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:45.789000"
+    },
+    {
+      "id": 385929,
+      "accession_number": "2020.236",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Untitled (Spring Street), 1971. Robin Bruch (American, 1948-). Acrylic on paper; sheet: 35 x 36 cm (13 3/4 x 14 3/16 in.); image: 35 x 36 cm (13 3/4 x 14 3/16 in.). The Cleveland Museum of Art, Gift of Fredericka Hunter and Ian Glennie, 2020.236",
+      "current_location": null,
+      "title": "Untitled (Spring Street)",
+      "creation_date": "1971",
+      "creation_date_earliest": 1971,
+      "creation_date_latest": 1971,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "Acrylic on paper",
+      "support_materials": [],
+      "department": "Drawings",
+      "collection": "DR - American 20th Century",
+      "type": "Drawing",
+      "measurements": "Sheet: 35 x 36 cm (13 3/4 x 14 3/16 in.); Image: 35 x 36 cm (13 3/4 x 14 3/16 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.35,
+          "width": 0.36
+        },
+        "image": {
+          "height": 0.35,
+          "width": 0.36
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "inscribed, on verso, in graphite: Robin Bruch Spring St. NY ’71",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": [
+          {
+            "description": "<em>Robin Bruch: Full Circle</em>. Texas Gallery, Houston, TX (October 19 – November 30, 2019).",
+            "opening_date": "2019-11-30T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Studio of the artist [1971-2019]",
+          "citations": [],
+          "footnotes": null,
+          "date": "1971-2019",
+          "sortorder": 1
+        },
+        {
+          "description": "(Texas Gallery, Houston, TX, given to the Cleveland Museum of Art)",
+          "citations": [],
+          "footnotes": null,
+          "date": "2019-2020",
+          "sortorder": 2
+        },
+        {
+          "description": "Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2020-",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Robin Bruch works primarily in the medium used for this drawing: paint on paper.",
+      "description": "Born in Cleveland, contemporary artist Robin Bruch was part of the vibrant and diverse artistic community that emerged in downtown New York City during the 1970s. This drawing dates from that period and features bold colors and simple geometric forms that evoke influences as diverse as Bruch’s teachers, the abstract painters Kenneth Noland and Larry Poons, to the early 20th-century Swedish artist and mystic Hilma af Klint, whose work was an early inspiration. Like many of Bruch’s drawings, the work’s title relates to a specific place, suggesting it was meant to evoke landscape.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117244783"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2020.236",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Fredericka Hunter and Ian Glennie",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 385929,
+      "creators": [
+        {
+          "id": 385926,
+          "description": "Robin Bruch (American, 1948-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "American painter, born 1948",
+          "name_in_original_language": null,
+          "birth_year": "1948",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2020-09-14T00:00:00-04:00",
+      "sortable_date": 1971,
+      "date_added_to_oa": null,
+      "date_text": "1971",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:46.197000"
+    },
+    {
+      "id": 142654,
+      "accession_number": "1966.378",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Street Scene, c. 1926/30. Maurice de Vlaminck (French, 1876–1958). Brush and black ink and pastel; sheet: 45 x 53.9 cm (17 11/16 x 21 1/4 in.); secondary support: 45.7 x 55.5 cm (18 x 21 7/8 in.). The Cleveland Museum of Art, Gift of Lewis C. Williams in memory of Lewis B. Williams, 1966.378. © Artists Rights Society (ARS), New York",
+      "current_location": null,
+      "title": "Street Scene",
+      "creation_date": "c. 1926/30",
+      "creation_date_earliest": 1926,
+      "creation_date_latest": 1930,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 20th century"
+      ],
+      "technique": "brush and black ink and pastel",
+      "support_materials": [
+        {
+          "description": "cream(3) wove paper laid down on yellow-cream board",
+          "watermarks": []
+        }
+      ],
+      "department": "Drawings",
+      "collection": "DR - French",
+      "type": "Drawing",
+      "measurements": "Sheet: 45 x 53.9 cm (17 11/16 x 21 1/4 in.); Secondary Support: 45.7 x 55.5 cm (18 x 21 7/8 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.45,
+          "width": 0.539
+        },
+        "secondary support": {
+          "height": 0.457,
+          "width": 0.555
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Artists Rights Society (ARS), New York",
+      "inscriptions": [
+        {
+          "inscription": "signed, lower right, in graphite: Vlaminck ; VERSO OF SECONDARY SUPPORT, center, in red crayon: 22508",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 301129,
+            "title": "Year in Review: 1967",
+            "description": "<i>Year in Review: 1967</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 29-December 31, 1967).",
+            "opening_date": "1967-11-29T05:00:00"
+          },
+          {
+            "id": 283693,
+            "title": "Pure Color: Pastels from the Cleveland Museum of Art",
+            "description": "<i>Pure Color: Pastels from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 19, 2016-March 19, 2017).",
+            "opening_date": "2016-11-19T05:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "[Scott & Fowles] (according to departmental card)",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Soon after the end of World War I, Vlaminck acquired a motorcycle and traveled hundreds of miles exploring remote villages of France; their empty streets became frequent subjects of his paintings, prints, and pastels throughout the 1920s. <br><br><strong>Comparative image:</strong><em>Vallangoujard,</em> c. 1923. Maurice de Vlaminck. Lithograph. From <em>Vlaminck: Master of Graphic Art: A Retrospective Exhibition of Graphic Works, 1905–1926</em>, exh. cat. (Chicago: R. S. Johnson-International Gallery, 1975).",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80042560"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "“Year in Review.” <em>The Bulletin of the Cleveland Museum of Art</em> 54, no. 10 (December 1967): 302–346.",
+          "page_number": "Reproduced: p. 328; Mentioned: p. 343, no. 69",
+          "url": "http://www.jstor.org/stable/25152183"
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+          "page_number": "Reproduced: p. 182",
+          "url": "https://archive.org/details/CMAHandbook1969/page/n206"
+        }
+      ],
+      "url": "https://clevelandart.org/art/1966.378",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Lewis C. Williams in memory of Lewis B. Williams",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 142654,
+      "creators": [
+        {
+          "id": 2142,
+          "description": "Maurice de Vlaminck (French, 1876–1958)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1876",
+          "death_year": "1958",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1966-11-05T00:00:00",
+      "sortable_date": 1926,
+      "date_added_to_oa": null,
+      "date_text": "c. 1926/30",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:11.778000"
+    },
+    {
+      "id": 325467,
+      "accession_number": "2019.29",
+      "share_license_status": "Copyrighted",
+      "tombstone": "New York Street Scene, 1911. Karl F. Struss (American, 1886–1981). Platinum print; image: 8.7 x 11 cm (3 7/16 x 4 5/16 in.); paper: 8.7 x 11 cm (3 7/16 x 4 5/16 in.); primary mount: 9.2 x 11.6 cm (3 5/8 x 4 9/16 in.); secondary mount: 10.5 x 12.7 cm (4 1/8 x 5 in.). The Cleveland Museum of Art, Gift of Diann G. Mann and Thomas A. Mann, 2019.29",
+      "current_location": null,
+      "title": "New York Street Scene",
+      "creation_date": "1911",
+      "creation_date_earliest": 1911,
+      "creation_date_latest": 1911,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "platinum print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 8.7 x 11 cm (3 7/16 x 4 5/16 in.); Paper: 8.7 x 11 cm (3 7/16 x 4 5/16 in.); Primary mount: 9.2 x 11.6 cm (3 5/8 x 4 9/16 in.); Secondary mount: 10.5 x 12.7 cm (4 1/8 x 5 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.087,
+          "width": 0.11
+        },
+        "paper": {
+          "height": 0.087,
+          "width": 0.11
+        },
+        "primary mount": {
+          "height": 0.092,
+          "width": 0.116
+        },
+        "secondary mount": {
+          "height": 0.105,
+          "width": 0.127
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on recto of secondary mount in lower left: “1911”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Stamped in black ink on verso of secondary mount: “KARL STRUSS/ARTIST PHOTOGRAPHER/HOLLYWOOD, CALIFORNIA”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso of secondary mount: “SW/83”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso of secondary mount: “8”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Thomas A. and Diann G. Mann, Palm Beach Gardens, FL",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "the Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "March 4, 2019",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This elevated train station on the Sixth Avenue Line was demolished in 1939, replaced by an underground line.",
+      "description": "A successful photographer, Struss was also an inventor and entrepeneur. He developed and manufactured the Struss pictorial lens, which allowed focus to be varied from a soft atmospheric quality to sharp focus. It may not be coincidental that this foggy cityscape evokes a film noir mood. Moving to Hollywood after World War I, Struss became an innovative cinematographer and won the first Academy Award given for that profession.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79875985"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Christie, Manson &amp; Woods International Inc. An American Journey: The Diann G. and Thomas A. Mann Collection of Photographic Masterworks. 2018.",
+          "page_number": null,
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/2019.29",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Diann G. Mann and Thomas A. Mann",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 325467,
+      "creators": [
+        {
+          "id": 970,
+          "description": "Karl F. Struss (American, 1886–1981)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Karl F. Struss American, 1886-1981\r\n\r\nBorn and raised in New York City, Karl Fischer Struss was an important early pictorialist and a cofounder of the Pictorial Photographers of America. He was also a member of the Photo-Secession, publishing his works in Camera Work (April 1912), and a photographer for publications such as Vogue, Vanity Fair, and Harper's Bazaar.\r\n\tA student of Clarence H. White, Struss was influenced by both White and Alvin Langdon Coburn. He developed his own style, however, an elegant synthesis of random qualities with formal composition. Struss experimented with various technical processes. He developed multiple platinum printing to enhance the depth of shadows and in 1909 designed the Struss Pictorial lens, which entered commercial production in 1915.\r\n\tShortly after the First World War, Struss moved to Hollywood, where he became a successful cinematographer. He worked first for Cecil B. De Mille and later freelanced for both independent and major studios until his retirement in 1970. Among his film credits are Ben Hur (1926), Dr. Jekyll and Mr. Hyde (1932), and the Chaplin classics The Great Dictator (1940) and Limelight (1952). In 1928 Struss received an Academy Award for his work on De Mille's film Sunrise. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1886",
+          "death_year": "1981",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-03-04T00:00:00-05:00",
+      "sortable_date": 1911,
+      "date_added_to_oa": null,
+      "date_text": "1911",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:18.293000"
+    },
+    {
+      "id": 125920,
+      "accession_number": "1948.156.11",
+      "share_license_status": "CC0",
+      "tombstone": "Some Scenes of Parisian Life: Street at Evening in the Rain, 1899. Pierre Bonnard (French, 1867–1947), Published by Ambroise Vollard; Printed by Auguste Clot. Lithograph; sheet: 40.8 x 53.5 cm (16 1/16 x 21 1/16 in.); image: 25.7 x 35.5 cm (10 1/8 x 14 in.). The Cleveland Museum of Art, Gift of the Hanna Fund, 1948.156.11",
+      "current_location": null,
+      "title": "Street at Evening in the Rain",
+      "series": "Some Scenes of Parisian Life",
+      "creation_date": "1899",
+      "creation_date_earliest": 1899,
+      "creation_date_latest": 1899,
+      "artists_tags": [
+        "Nabis",
+        "male"
+      ],
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "lithograph",
+      "support_materials": [
+        {
+          "description": "cream (1) china paper",
+          "watermarks": []
+        }
+      ],
+      "department": "Prints",
+      "collection": "PR - Lithograph",
+      "type": "Print",
+      "measurements": "Sheet: 40.8 x 53.5 cm (16 1/16 x 21 1/16 in.); Image: 25.7 x 35.5 cm (10 1/8 x 14 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.408,
+          "width": 0.535
+        },
+        "image": {
+          "height": 0.257,
+          "width": 0.355
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": "100",
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 309877,
+            "title": "Nocturnal Impressions",
+            "description": "<i>Nocturnal Impressions</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 20-May 12, 1985).",
+            "opening_date": "1985-02-20T05:00:00"
+          },
+          {
+            "id": 309882,
+            "title": "Prints by Toulouse-Lautrec and Bonnard",
+            "description": "<i>Prints by Toulouse-Lautrec and Bonnard</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 3, 1985-March 2, 1986).",
+            "opening_date": "1985-12-03T05:00:00"
+          },
+          {
+            "id": 329533,
+            "title": "Private Lives: Home and Family in the Art of the Nabis, Paris, 1889–1900",
+            "description": "<i>Private Lives: Home and Family in the Art of the Nabis, Paris, 1889–1900</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (co-organizer) (July 1-September 19, 2021); Portland Art Museum, Portland, OR (co-organizer) (October 23, 2021-January 23, 2022).",
+            "opening_date": "2021-07-01T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "The Art Institute of Chicago",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [
+        "1948.166"
+      ],
+      "did_you_know": null,
+      "description": "This suite of color lithographs collected Pierre Bonnard’s observations of city life, ranging from animated street scenes to distant observations glimpsed from the artist’s Montmartre studio window. Rather than memorializing the famous monuments of Paris, Bonnard preferred to depict small neighborhood scenes populated by urbanites shopping and strolling and by vendors selling their wares. The setting for one of the prints is the second-largest public park in Paris, the Bois de Boulogne, which was a popular place for families to relax, stroll, and enjoy carriage rides around the lakes. Two prints are nocturnal scenes in which gaslight emanating from shop windows is reflected on the wet streets, creating passages of bright yellow in the otherwise dark compositions. Bonnard’s favorite subjects, such as the Parisienne—a young, fashionable, modern woman—as well as children and dogs, appear repeatedly throughout the prints in the suite.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79905051"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1948.156.11-street-at-evening-in"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Brown, Heather Lemonedes. “The Nabi City.” In <em>Private Lives: Home and Family in the Art of the Nabis, Paris, 1889-1900</em>. Mary Weaver Chapin and Heather Lemonedes Brown, 222-261. Cleveland: Cleveland Museum of Art, 2021.",
+          "page_number": "Mentioned: P. 231; Reproduced: P. 254, no. 171",
+          "url": ""
+        }
+      ],
+      "catalogue_raisonne": "Bouvet 68",
+      "url": "https://clevelandart.org/art/1948.156.11",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1948.156.11/1948.156.11_web.jpg",
+          "width": "1180",
+          "height": "893",
+          "filesize": "867299",
+          "filename": "1948.156.11_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1948.156.11/1948.156.11_print.jpg",
+          "width": "3400",
+          "height": "2574",
+          "filesize": "7409394",
+          "filename": "1948.156.11_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1948.156.11/1948.156.11_full.tif",
+          "width": "4899",
+          "height": "3709",
+          "filesize": "54545824",
+          "filename": "1948.156.11_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Gift of the Hanna Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 125920,
+      "creators": [
+        {
+          "id": 1733,
+          "description": "Pierre Bonnard (French, 1867–1947)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Pierre Bonnard was a law student when he began his artistic training in 1887 at the Académie Julian in Paris, where he met Paul Sérusier (1864-1927) and the theorist and painter Maurice Denis (1870-1943). Both would be influential in his artistic career and become Bonnard's lifelong friends. In 1889, the year he obtained his law degree, he saw the exhibition at Café Volpini (see Gauguin, Woman in the Waves, no. 100) and was particularly impressed with Gauguin's work. Sérusier, after having returned from studying with Gauguin in Pont-Aven, decided to form his own artistic group called the Nabis (Hebrew: prophets). The founding members of the Nabis included Denis, who wrote the manifesto for the group, \"Définition du néo-traditionnisme\" (published in May 1890 in Art et critique), Bonnard, Paul Ranson (1864-1909), and Henri-Gabriel Ibels (1867-1936). Their first exhibition occurred in 1891, and they were later joined by Ker-Xavier Roussel (1867-1944) and Vuillard (q.v.). Based loosely on the synthetist goals established by Gauguin and Émile Bernard, the movement was created from Sérusier's vision of an artistic brotherhood dedicated to symbolism whereby a universal language could be expressed through symbols. The Nabis were opposed to the naturalism taught at academies by artists such as Bouguereau (q.v.) and wanted to move away from didactic and moral paintings toward a more decorative style characterized by simplified drawing, flat patches of color, and heavy set contours. Bonnard's works of the 1890s were influenced by the innovations of Gauguin as well as Japanese prints, which were easily accessible in nineteenth-century Paris. His paintings took on a decorative quality, mirroring his artistic expressions in other media such as stained glass, furniture, pottery, and painted screens. Bonnard's and Vuillard's domestic interior paintings of the 1890s were often described using the term intimisme. In 1891 Bonnard also experimented with other media, including poster designs and lithographs, which inspired his friend Henri de Toulouse-Lautrec (1864-1901), whom he had met through La revue blanche, a magazine that published the Nabis' work. Around 1900 the members of the Nabis began to drift apart. Between 1905 and 1910 Bonnard and Vuillard traveled to England, Belgium, Holland, Spain, and Italy, visiting many museums. Bonnard's art began to gravitate toward impressionism, but his colors were more expressive and his compositions more overtly structured; elements of the painted interiors such as doors, windows or pieces of furniture often provided a strong compositional framework. He also worked extensively with photographs. His late works were acclaimed by fellow Parisians like Henri Matisse (1869-1954) and Paul Signac (1863-1935). After 1920 Bonnard exhibited extensively and became an internationally renowned artist, receiving much recognition in the United States, where he traveled in 1926.",
+          "name_in_original_language": null,
+          "birth_year": "1867",
+          "death_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 69023,
+          "description": "Published by Ambroise Vollard; Printed by Auguste Clot",
+          "extent": null,
+          "qualifier": null,
+          "role": "published by",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1948-06-15T00:00:00",
+      "sortable_date": 1899,
+      "date_added_to_oa": null,
+      "date_text": "1899",
+      "collapse_artists": true,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "1948.156",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:50.645000"
+    },
+    {
+      "id": 97165,
+      "accession_number": "1916.801",
+      "share_license_status": "CC0",
+      "tombstone": "Panel from a Cassone: The Race of the Palio in the Streets of Florence, 1418. Giovanni Francesco Toscani (Italian, c. 1380–1430). Tempera and gold on wood; framed: 46.5 x 143.5 x 7 cm (18 5/16 x 56 1/2 x 2 3/4 in.); unframed: 42.1 x 139.5 cm (16 9/16 x 54 15/16 in.). The Cleveland Museum of Art, Holden Collection, 1916.801",
+      "current_location": "117A Italian Renaissance",
+      "title": "Panel from a Cassone: The Race of the Palio in the Streets of Florence",
+      "creation_date": "1418",
+      "creation_date_earliest": 1418,
+      "creation_date_latest": 1418,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Italy, Florence, 15th century"
+      ],
+      "technique": "tempera and gold on wood",
+      "support_materials": [],
+      "department": "Medieval Art",
+      "collection": "MED - Medieval Art",
+      "type": "Painting",
+      "measurements": "Framed: 46.5 x 143.5 x 7 cm (18 5/16 x 56 1/2 x 2 3/4 in.); Unframed: 42.1 x 139.5 cm (16 9/16 x 54 15/16 in.)",
+      "dimensions": {
+        "framed": {
+          "height": 0.465,
+          "width": 1.435,
+          "depth": 0.07
+        },
+        "unframed": {
+          "height": 0.421,
+          "width": 1.395
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 317001,
+            "title": "Inaugural Exhibition",
+            "description": "<i>Inaugural Exhibition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (co-organizer) (June 6-September 20, 1916).",
+            "opening_date": "1916-06-06T05:00:00"
+          },
+          {
+            "id": 312517,
+            "title": "The Twentieth Anniversary Exhibition: The Official Art Exhibit of the Great Lakes Exposition",
+            "description": "<i>The Twentieth Anniversary Exhibition: The Official Art Exhibit of the Great Lakes Exposition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 26-October 4, 1936).",
+            "opening_date": "1936-06-26T04:00:00"
+          },
+          {
+            "id": 708844,
+            "title": "Exhibition of Lorenzo Il Magnifico E Le Arti",
+            "description": "<i>Exhibition of Lorenzo Il Magnifico E Le Arti</i>. Fondazione Palazzo Strozzi, Firenze, Italy (organizer) (May 4-October 31, 1949).",
+            "opening_date": "1949-05-04T04:00:00"
+          },
+          {
+            "id": 300857,
+            "title": "Art: The International Language",
+            "description": "<i>Art: The International Language</i>. The Cleveland Museum of Art (October 2-November 4, 1956).",
+            "opening_date": "1956-10-02T04:00:00"
+          },
+          {
+            "id": 304213,
+            "title": "Gothic Art 1360-1440",
+            "description": "<i>Gothic Art 1360-1440</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 6-September 15, 1963).",
+            "opening_date": "1963-08-06T04:00:00"
+          },
+          {
+            "id": 301412,
+            "title": "Florence and the Arts: Five Centuries of Patronage",
+            "description": "<i>Florence and the Arts: Five Centuries of Patronage</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 13-September 19, 1971).",
+            "opening_date": "1971-07-13T04:00:00"
+          },
+          {
+            "id": 309851,
+            "title": "Textiles in Daily Life in the Middle Ages",
+            "description": "<i>Textiles in Daily Life in the Middle Ages</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 22-March 17, 1985).",
+            "opening_date": "1985-01-22T05:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Marchese Bartolini-Salimbeni (1741); Pitti coll., Florence (1798); James Jackson Jarves (1884); Mrs. Liberty E. Holden",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "A cassone was a wooden chest used for the storage of clothing, an essential piece of furniture in Italian homes during the Renaissance and often produced in matched sets. The cassone was often made on the occasion of a marriage and elaborately decorated with painted scenes and gilded moldings. This panel comes from such a painted cassone. It was not uncommon for the painted decoration to represent a memorable event at the time of the marriage. This scene depicts the end of the Palio, a horse race held in the streets of Florence on the Feast of John the Baptist (June 24). The panel from the other side of the cassone is now preserved in the Bargello Museum in Florence and shows the procession of the Palii banners before the race. The cassone commemorates a wedding between members of the Fini and Aldobrandini families in 1418.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60502690"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1916.801-panel-from-a-cassone"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Rubinstein-Bloch, Stella. <em>Catalogue of a Collection of Paintings, Etc. Presented by Mrs. Liberty E. Holden to the Cleveland Museum of Art. </em>Cleveland: The Cleveland Museum of Art, 1917.",
+          "page_number": "Mentioned: p. 22-23, cat. no. 17; Reproduced: p. 56, No. 17",
+          "url": "https://archive.org/details/Holden_80856/page/n32"
+        },
+        {
+          "citation": "Cleveland Museum of Art, Louise d' Argencourt, and Roger Diederen. Catalogue of Paintings. Cleveland: Cleveland Museum of Art, 1974.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>Catalogue of Paintings. Pt. 1. European Paintings before 1500. </em>Cleveland: Cleveland Museum of Art, 1974.",
+          "page_number": "Reproduced: fig. 45, p. 127 - 129",
+          "url": ""
+        },
+        {
+          "citation": "Martin Nagy, Rebecca. Textiles in Daily Life in the Middle Ages. Cleveland, Ohio: Cleveland Museum of Art in cooperation with Indiana University Press, 1985.",
+          "page_number": "p. 47, 59",
+          "url": null
+        },
+        {
+          "citation": "Boskovits, Miklós, ed. <em>Italian Paintings from the 13th to 15th Century.</em> Firenze, Italy: Polistampa, 2009.",
+          "page_number": "Mentioned: p. 135-136, no. 3",
+          "url": null
+        },
+        {
+          "citation": "Starnina, Gherardo, Roland Krischke, and Benjamin Rux. Gherardo Starnina: Cassone-Tafel mit dem Kampf orientalischer Reiter : Restaurierung und Forschung. Altenburg : Lindenau-Museum, 2017.",
+          "page_number": "Mentioned and reproduced: pp. 30-31, fig. 3",
+          "url": ""
+        },
+        {
+          "citation": "Jaser, Christian. \"Beyond Siena: The Palio Culture of Renaisance Italy.\" Ludica: annali di storia e civiltà del gioco. 23, (2017): 24-34.",
+          "page_number": "Reproduced: p. 27, fig. 2",
+          "url": null
+        },
+        {
+          "citation": "Dobson, Chris. <em>Beaten Black and Blue: The Myth of the Medieval Knight in Shining Armour</em>. Sant'Albano Stura, Italy: Chris Dobson, 2023.",
+          "page_number": "Reproduced: p. 71, fig. 72",
+          "url": ""
+        },
+        {
+          "citation": "Stinson, John. <em>Angels in Florentine Iconography and Trecento Musical Performance. </em>Baden-Baden: Georg Olms Verlag, 2024.",
+          "page_number": "Mentioned and reproduced: p. 132-134, fig. IV.3",
+          "url": ""
+        },
+        {
+          "citation": "Leonardo, and Clos-Lucé (Amboise, France). <em>Leonardo Da Vinci and Perfumes in the Renaissance</em>. Edited by Nathalie Prat-Couadau. Paris: Éditions Skira Paris : Château du Clos Lucé, 2024.",
+          "page_number": "Mentioned and reproduced: pp. 113-115, fig. 2",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1916.801",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1916.801/1916.801_web.jpg",
+          "width": "1263",
+          "height": "378",
+          "filesize": "422980",
+          "filename": "1916.801_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1916.801/1916.801_print.jpg",
+          "width": "3400",
+          "height": "1018",
+          "filesize": "2957068",
+          "filename": "1916.801_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1916.801/1916.801_full.tif",
+          "width": "9922",
+          "height": "2971",
+          "filesize": "88466080",
+          "filename": "1916.801_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2007-06-11T17:45:11",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1916.801/1916.801_alt0_web.jpg",
+            "width": "1116",
+            "height": "893",
+            "filesize": "799952"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1916.801/1916.801_alt0_print.jpg",
+            "width": "3400",
+            "height": "2720",
+            "filesize": "5666280"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1916.801/1916.801_alt0_full.tif",
+            "width": "",
+            "height": "",
+            "filesize": ""
+          }
+        }
+      ],
+      "creditline": "Holden Collection",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 97165,
+      "creators": [
+        {
+          "id": 2344,
+          "description": "Giovanni Francesco Toscani (Italian, c. 1380–1430)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1380",
+          "death_year": "1430",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1918-12-31T00:00:00",
+      "sortable_date": 1418,
+      "date_added_to_oa": null,
+      "date_text": "1418",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:41.320000"
+    },
+    {
+      "id": 167886,
+      "accession_number": "2009.477",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Street Cleaners, 1947. Ilse Bing (American, 1899–1998). Gelatin silver print; image: 32.5 x 26.7 cm (12 13/16 x 10 1/2 in.); paper: 35.2 x 27.7 cm (13 7/8 x 10 7/8 in.); matted: 61 x 50.8 cm (24 x 20 in.). The Cleveland Museum of Art, Gift of David Raymond, 2009.477. © Estate of Ilse Bing",
+      "current_location": null,
+      "title": "Street Cleaners",
+      "creation_date": "1947",
+      "creation_date_earliest": 1947,
+      "creation_date_latest": 1947,
+      "artists_tags": [
+        "female",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 32.5 x 26.7 cm (12 13/16 x 10 1/2 in.); Paper: 35.2 x 27.7 cm (13 7/8 x 10 7/8 in.); Matted: 61 x 50.8 cm (24 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.325,
+          "width": 0.267
+        },
+        "paper": {
+          "height": 0.352,
+          "width": 0.277
+        },
+        "matted": {
+          "height": 0.61,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Estate of Ilse Bing",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso of print: \"Ilse/Bing/1947\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil in top left corner of verso of print: [?]\"OB\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in black ink in lower left margin of recto of print: \"ILSE BING\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 335775,
+            "title": "Accommodations of Desire: Surrealist Works on Paper Collected by Julien Levy",
+            "description": "<i>Accommodations of Desire: Surrealist Works on Paper Collected by Julien Levy</i>. Palmer Museum of Art (September 14-December 5, 2004); McMullen Museum of Art, Boston College, MA (January 16-March 27, 2005); Crocker Art Museum, Sacaramento, CA (July 9-September 11, 2005); Portland Museum of Art (January 1-March 19, 2006).",
+            "opening_date": "2004-09-14T04:00:00"
+          },
+          {
+            "id": 203169,
+            "title": "Forbidden Games: Surrealist and Modernist Photography",
+            "description": "<i>Forbidden Games: Surrealist and Modernist Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 19, 2014-January 11, 2015).",
+            "opening_date": "2014-10-19T00:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Edwynn Houk Gallery, New York, NY)",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "David Raymond [b.1979], New York, NY",
+          "citations": [],
+          "footnotes": null,
+          "date": "2009",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Compared to New York’s skyscrapers, Paris was still a low-rise city. But this \"bird’s-eye\" view from the top floor of an apartment building provided sufficient height to allow the imagination to turn shadows, patches, and crosswalks into lines in an abstract geometric composition. An art history doctoral student in Frankfurt, Bing learned photography to illustrate her dissertation on architecture. Moving to Paris in 1930, she developed a successful photographic practice combining commercial and fine art photography. By the end of the decade, her photographs had been shown at the Louvre and New York’s Museum of Modern Art.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80072979"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Schaffner, Ingrid, Julien Levy, and Colin Westerbeck. Accommodations of Desire: Surrealist Works on Paper Collected by Julien Levy. Pasadena, Calif: Curatorial Assistance, Inc, 2004.",
+          "page_number": "p. 69",
+          "url": null
+        },
+        {
+          "citation": "Cleveland Museum of Art, Tom E. Hinson, Ian Walker, and Lisa Kurzner. Forbidden Games: Surrealist and Modernist Photography : the David Raymond Collection in the Cleveland Museum of Art. 2014.",
+          "page_number": "cat. no. 156, p. 192",
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/2009.477",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of David Raymond",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 167886,
+      "creators": [
+        {
+          "id": 235,
+          "description": "Ilse Bing (American, 1899–1998)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Ilse Bing (American, b. Germany, 1899-1998). Ilse Bing became interested in photography while pursuing a doctoral degree in art history at Frankfurt University. Around 1927-28 she began taking photographs to illustrate her dissertation and in 1930 decided to move to Paris to look for freelance assignments. Using the new 35mm Leica camera, she worked as a fashion, portrait, and architectural photographer, as well as a photojournalist. During her years in Paris she took part in numerous exhibitions, including the Museum of Modern Art's Photography 1839-1937 show in New York. In 1941 Bing and her husband immigrated to the United States, settling in New York City. In New York she began to work on a different scale, using the larger-format Rolleiflex camera as well as electronic flash. By 1957 she was working exclusively in color. Two years later Bing gave up photography to concentrate on painting and poetry.",
+          "name_in_original_language": null,
+          "birth_year": "1899",
+          "death_year": "1998",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2010-03-01T00:00:00",
+      "sortable_date": 1947,
+      "date_added_to_oa": null,
+      "date_text": "1947",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:20.712000"
+    },
+    {
+      "id": 154894,
+      "accession_number": "1989.460",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Chestnut Street, Louisville, 1982. Nicholas Nixon (American, 1947-). Gelatin silver print; image: 19.5 x 24.6 cm (7 11/16 x 9 11/16 in.); paper: 20.3 x 25.2 cm (8 x 9 15/16 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, Gift of Museum members in 1989, 1989.460",
+      "current_location": null,
+      "title": "Chestnut Street, Louisville",
+      "creation_date": "1982",
+      "creation_date_earliest": 1982,
+      "creation_date_latest": 1982,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 19.5 x 24.6 cm (7 11/16 x 9 11/16 in.); Paper: 20.3 x 25.2 cm (8 x 9 15/16 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.195,
+          "width": 0.246
+        },
+        "paper": {
+          "height": 0.203,
+          "width": 0.252
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"Chestnut St., Louisville 1982 22/50 Nicholas Nixon [signed]\"; \"NN18474\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 184340,
+            "title": "Looking at Children:  Photographs from the Permanent Collection",
+            "description": "<i>Looking at Children:  Photographs from the Permanent Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 20-December 4, 2002).",
+            "opening_date": "2002-07-20T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, Feb. 6 - April 15, 1990: \"Year in Review 1989,\" CMA Bulletin, 77 (Feb. 1990), p. 72, no. 121 (not exhibited).",
+            "opening_date": "1990-02-06T00:00:00"
+          },
+          {
+            "description": "CMA, Nov. 18, 1992 - Jan. 3, 1993: \"Contemporary American Photographers,\" CMA Bulletin, 79 (Nov. 1992), p. 351, no. 55.",
+            "opening_date": "1992-11-18T00:00:00"
+          },
+          {
+            "description": "CMA, July 20 - December 4, 2002; \"Looking at Children\".  No catalog",
+            "opening_date": "2002-07-20T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "In this photograph from his series of working class and impoverished Americans, Nicholas Nixon employs numerous vertical lines that separate space and provide stability to the composition. Standing in front of a scaly tree trunk, two brothers are linked together in what could be an embrace or restraining body lock. The younger boy's pleading eyes and lack of affectionate response seem to indicate that he is not a willing participant in the action. Details such as grime and worn clothing suggest that these are energetic boys who have been hard at play.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79942630"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Hinson, Tom E. “Contemporary American Photographs: An Exhibition.” <em>The Bulletin of the Cleveland Museum of Art</em> 79, no. 9 (November 1992): 306–351.",
+          "page_number": "Mentioned: p. 339, 351, no. 55",
+          "url": "http://www.jstor.org/stable/25161375"
+        },
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 256",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1989.460",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Museum members in 1989",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 154894,
+      "creators": [
+        {
+          "id": 739,
+          "description": "Nicholas Nixon (American, 1947-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Nicholas Nixon American, 1947-\r\n\r\nThe photographs of Nicholas Nixon reflect the amalgamation of a number of stylistic and humanitarian influences. Like many documentary photographers who came on the scene in the late 1960s, Nixon (born in Detroit) began making 35mm snapshots in the manner of Cartier-Bresson's \"decisive moment.\" He was a vista volunteer in St. Louis (1969-70) and taught high school in Minneapolis (1970-71), experiences that would influence his later portraiture.\r\n\tIn 1975 curator Bill Jenkins of George Eastman House, Rochester, included Nixon's architectural views in his influential New Topographics exhibition along with the work of nine other emerging photographers whose subjects addressed the \"man-altered landscape.\" Nixon pursued this theme throughout the mid-1970s, photographing the modern city skyline with the sort of utopian idealism previously reserved for the type of heroic landscapes perfected by Ansel Adams. In 1976 he had his first solo exhibition at the Museum of Modern Art, New York. During this time he also began using a large-format camera to make powerful, honest portraits of his wife, Bebe, and her three sisters. This ongoing series, included in its nascence by John Szarkowski in his 1978 Mirrors and Windows exhibition at the Museum of Modern Art, New York, is among Nixon's most recognized achievements.\r\n\tNixon collaborated with his wife on a book project, People with aids (1991), and continues to explore themes of family, childhood, and education, recently completing a series on his son Sam's sixth-grade class, titled Room 306. He holds a B.A. in American literature from the University of Michigan (1969) and an M.F.A. from the University of New Mexico (1974). His awards include fellowships from the National Endowment for the Arts (1976, 1979) and the John Simon Guggenheim Memorial Foundation (1977). Nixon lives in Cambridge, where he teaches at the Massachusetts College of Art. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1990-01-29T00:00:00",
+      "sortable_date": 1982,
+      "date_added_to_oa": null,
+      "date_text": "1982",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": "22",
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:48.655000"
+    },
+    {
+      "id": 368180,
+      "accession_number": "2019.221",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Hillside Houses, Cleveland West Side, c. 1914–17. August Biehle, Jr. (American, 1885–1979). Graphite, gouache; sheet: 19.1 x 28.6 cm (7 1/2 x 11 1/4 in.). The Cleveland Museum of Art, Gift of Frederick Biehle, 2019.221",
+      "current_location": null,
+      "title": "Hillside Houses, Cleveland West Side",
+      "creation_date": "c. 1914–17",
+      "creation_date_earliest": 1909,
+      "creation_date_latest": 1922,
+      "artists_tags": [
+        "May Show",
+        "Cleveland Institute of Art"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "graphite, gouache",
+      "support_materials": [],
+      "department": "Drawings",
+      "collection": "DR - American 20th Century",
+      "type": "Drawing",
+      "measurements": "Sheet: 19.1 x 28.6 cm (7 1/2 x 11 1/4 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.191,
+          "width": 0.286
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "“to the left when crossing clark ave bridge from 14th street towards 55th st, Aug F. Biehle 6906 renwood dr. parma ohio” written on verso",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "August F. Biehle (artist)",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "Frederick A. Biehle (artist's son) [926-2000]",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "Frederick Biehle and Erika Hinricks, Brooklyn, NY",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 3
+        },
+        {
+          "description": "the Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "September 9, 2019",
+          "sortorder": 4
+        }
+      ],
+      "find_spot": null,
+      "related_works": [
+        {
+          "id": 316897,
+          "description": "Cleveland West Side, Hillside Houses, c. 1914–17. August Biehle, Jr. (American, 1885–1979). Oil on board; 71.1 x 100.3 cm (28 x 39 1/2 in.); 81.3 x 110.5 cm (32 x 43 1/2 in.). The Cleveland Museum of Art, Gift of the John and Susan Horseman Collection, 2018.306",
+          "relationship": null
+        },
+        {
+          "id": 368182,
+          "description": "Hillside Houses, Cleveland West Side, 1936. August Biehle, Jr. (American, 1885–1979). Lithograph; sheet: 19.1 x 29.2 cm (7 1/2 x 11 1/2 in.). The Cleveland Museum of Art, Gift of Frederick Biehle 2019.222",
+          "relationship": null
+        },
+        {
+          "id": 368181,
+          "description": "Sketch for Cleveland West Side, Hillside Houses, c. 1914–17. August Biehle, Jr. (American, 1885–1979). Pencil on toned paper with gouache; sheet: 29.8 x 44.5 cm (11 3/4 x 17 1/2 in.). The Cleveland Museum of Art, Gift of Frederick Biehle 2019.223",
+          "relationship": null
+        }
+      ],
+      "former_accession_numbers": [],
+      "did_you_know": "Around 1914, the artist August Biehle sketched this scene of Cleveland’s west side from the viewpoint of 14th Street looking toward 55th Street.",
+      "description": "The drawing was made as preparatory to August Biehle’s most significant oil painting in his modernist period (2018.306) depicting Cleveland’s west side. Biehle captured the steep embankment with houses on the top and bottom of the hill, noting its location as “from 14th street toward 55th st.” Biehle was born and trained in Cleveland and studied further in Munich. While supporting himself as a commercial lithographer, he participated in a number of local exhibitions devoted to cutting-edge art at a time when there was little support.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79878250"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2019.221",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Frederick Biehle",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 368180,
+      "creators": [
+        {
+          "id": 545786,
+          "description": "August Biehle, Jr. (American, 1885–1979)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Biographical information exists in the Cleveland Museum of Art Archives.",
+          "name_in_original_language": null,
+          "birth_year": "1885",
+          "death_year": "1979",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-09-09T00:00:00-04:00",
+      "sortable_date": 1909,
+      "date_added_to_oa": null,
+      "date_text": "c. 1914–17",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:36.517000"
+    },
+    {
+      "id": 156984,
+      "accession_number": "1993.14",
+      "share_license_status": "Copyrighted",
+      "tombstone": "72 North Union Street, Rochester (Kitchen), 1956. Minor White (American, 1908–1976). Gelatin silver print; image: 23.8 x 17.7 cm (9 3/8 x 6 15/16 in.); matted: 50.8 x 40.6 cm (20 x 16 in.). The Cleveland Museum of Art, Andrew R. and Martha Holden Jennings Fund, 1993.14. Reproduction courtesy The Minor White Archive, Princeton University. Copyright © 1982 by The Trustees of Princeton University.  All rights reserved.",
+      "current_location": null,
+      "title": "72 North Union Street, Rochester (Kitchen)",
+      "creation_date": "1956",
+      "creation_date_earliest": 1956,
+      "creation_date_latest": 1956,
+      "artists_tags": [
+        "male",
+        "LGBTQ+ (after 1900)"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 23.8 x 17.7 cm (9 3/8 x 6 15/16 in.); Matted: 50.8 x 40.6 cm (20 x 16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.238,
+          "width": 0.177
+        },
+        "matted": {
+          "height": 0.508,
+          "width": 0.406
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "Reproduction courtesy The Minor White Archive, Princeton University. Copyright © 1982 by The Trustees of Princeton University.  All rights reserved.",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on recto of mount: \"1956 Minor White [signed]\"; in pencil on verso of mount: \"To Bill / remember the Light / Minor\"; \"MW28\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 311875,
+            "title": "Legacy of Light: Master Photographs from the Cleveland Museum of Art",
+            "description": "<i>Legacy of Light: Master Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 24, 1996-February 2, 1997).",
+            "opening_date": "1996-11-24T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, September 13 - November 27, 1994: \"Recent Acquisitions: Prints, Drawings, Photographs,\" no exhibition catalogue.",
+            "opening_date": "1994-09-13T00:00:00"
+          },
+          {
+            "description": "CMA, November 20,1996 - February 2, 1997: \"Legacy of Light: Master Photographs from the Cleveland Museum of Art,\" see Catalogue of Photography, pp. 52-53.",
+            "opening_date": "1997-02-02T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "As a photographer, educator, writer, curator, and editor of <em>Aperture</em> magazine, Minor White was one of the most influential forces in 20th-century photography. Early in his career, he championed a photographic style that emphasized personal feeling, ambiguity, and abstraction. While working in Rochester, New York, from 1953 to 1964, White lived in an apartment located above a store at 72 North Union Street (his darkroom was in the building's basement). The apartment had a spare, austere atmosphere that is reflected in this view of the kitchen, with the Japanese paper lantern and simple table setting. Each element in this carefully arranged composition has formal as well as metaphysical significance, such as order, routine, necessity, and the natural flow of life.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79947103"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "“1993 Annual Report.” <em>The Bulletin of the Cleveland Museum of Art</em> 81, no. 6 (July 1994): 143–218.",
+          "page_number": "Mentioned: p. 160",
+          "url": "http://www.jstor.org/stable/25161457"
+        },
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Mentioned and Reproduced: P. 52-53, 387",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1993.14",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Andrew R. and Martha Holden Jennings Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 156984,
+      "creators": [
+        {
+          "id": 1091,
+          "description": "Minor White (American, 1908–1976)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Minor White American, 1908-1976 Minor Martin White (born in Minneapolis) was a photographer, poet, and teacher who worked in photographic sequences to achieve greater expressive power. Several years after graduating from the University of Minnesota with a major in botany and a minor in English, White moved to Portland where he joined the Oregon Camera Club. Interested in photography since his youth, he worked as an assistant in a photography studio at night and in 1938 served as a creative photographer for the Works Progress Administration. Following service in the U.S. Army Intelligence Corps (1942-45), White moved to New York where he studied art history with Meyer Shapiro at Columbia University (19450-46). In 1946 he met Alfred Stieglitz, whose ideas about photographic equivalents had a deep impact on his work. Like Stieglitz, White sought to express inner feelings and beliefs through his work. Around this time he began producing sequences of images that were arranged for their allusive or metaphorical meaning rather than for narrative content, a practice he continued throughout his career. In 1952 White helped found Aperture magazine, serving as its editor until l975. He took a position as curator of exhibitions at George Eastman House in Rochester in the early 1950s, working there until 1957. While at Eastman House he also served as editor for the museum's publication, Image. In 1955 White began teaching at the Rochester Institute of Technology, leaving in 1965 to join the faculty of the Massachusetts Institute of Technology. Over the years he became a well-respected and influential teacher, and continued to teach at mit until 1974. During the 1950s White became interested in mysticism, Eastern philosophy, and Gestalt psychology, all of which had an impact on his work and teaching. In 1962 he was a founding member of the Society for Photographic Education and in 1970 was awarded a fellowship by the John Simon Guggenheim Memorial Foundation. M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1908",
+          "death_year": "1976",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1993-02-17T00:00:00",
+      "sortable_date": 1956,
+      "date_added_to_oa": null,
+      "date_text": "1956",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:01.518000"
+    },
+    {
+      "id": 169658,
+      "accession_number": "2011.466",
+      "share_license_status": "Copyrighted",
+      "tombstone": "West Forty-Second Street, c. 1920. John Taylor Arms (American, 1887–1953). Pen and black ink. The Cleveland Museum of Art, Gift of Carole W. and Charles B. Rosenblatt, 2011.466. Courtesy of John Taylor Arms/© Suzanne Arms Hawkins",
+      "current_location": null,
+      "title": "West Forty-Second Street",
+      "creation_date": "c. 1920",
+      "creation_date_earliest": 1915,
+      "creation_date_latest": 1925,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "pen and black ink",
+      "support_materials": [],
+      "department": "Drawings",
+      "collection": "DR - American 20th Century",
+      "type": "Drawing",
+      "dimensions": {
+        "sheet": {
+          "height": 0.411,
+          "width": 0.329
+        },
+        "mounted": {}
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "Courtesy of John Taylor Arms/© Suzanne Arms Hawkins",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 200686,
+            "title": "Modern Gothic: The Etchings of John Taylor Arms",
+            "description": "<i>Modern Gothic: The Etchings of John Taylor Arms</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 9-September 30, 2012).",
+            "opening_date": "2012-06-09T00:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "This view of 42nd Street from the corner of Fifth Avenue looks west toward Sixth Avenue. The New York Public Library is in the left foreground. Arms always made contour drawings on site, delineating the important aspects of the subject. Later in his Connecticut studio he traced the outlines of the forms onto tracing paper, which was used to transfer the subject onto the plate.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80077246"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "catalogue_raisonne": "Fletcher 41",
+      "url": "https://clevelandart.org/art/2011.466",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Carole W. and Charles B. Rosenblatt",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 169658,
+      "creators": [
+        {
+          "id": 29993,
+          "description": "John Taylor Arms (American, 1887–1953)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1887",
+          "death_year": "1953",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2012-03-05T00:00:00",
+      "sortable_date": 1915,
+      "date_added_to_oa": null,
+      "date_text": "c. 1920",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:54.929000"
+    },
+    {
+      "id": 160058,
+      "accession_number": "1997.35",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Harlem Street Dancers, 1939. Elizabeth Olds (American, 1896–1991). Woodcut; sheet: 30.9 x 46.4 cm (12 3/16 x 18 1/4 in.); image: 25.3 x 35.4 cm (9 15/16 x 13 15/16 in.). The Cleveland Museum of Art, John L. Severance Fund, 1997.35",
+      "current_location": null,
+      "title": "Harlem Street Dancers",
+      "creation_date": "1939",
+      "creation_date_earliest": 1939,
+      "creation_date_latest": 1939,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "woodcut",
+      "support_materials": [],
+      "department": "Prints",
+      "collection": "PR - Woodcut",
+      "type": "Print",
+      "measurements": "Sheet: 30.9 x 46.4 cm (12 3/16 x 18 1/4 in.); Image: 25.3 x 35.4 cm (9 15/16 x 13 15/16 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.309,
+          "width": 0.464
+        },
+        "image": {
+          "height": 0.253,
+          "width": 0.354
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Inscribed in graphite below image : \"Harlem Street Dancers. Project Proof NY WPA Proof Elizabeth Olds 1939\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 441481,
+            "title": "Gallery One 2012",
+            "description": "<i>Gallery One 2012</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 12, 2012-March 5, 2017).",
+            "opening_date": "2012-12-12T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Gallery One rotation: April 21, 2015 - November 2, 2015.",
+            "opening_date": "2015-04-21T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Do you hear the music? The swoop of these dancing feet sets the beat in this snapshot of city life. Elizabeth Olds wrote, \"Harlem was a bevy of activity in the afternoons and evenings,\" filled with singing and dancing New Yorkers. Some of the era's leading authors, choreographers, and intellectuals lived in this neighborhood during the 1920s and '30s. ",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79980649"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1997.35",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 160058,
+      "creators": [
+        {
+          "id": 6671,
+          "description": "Elizabeth Olds (American, 1896–1991)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1896",
+          "death_year": "1991",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1997-03-04T00:00:00",
+      "sortable_date": 1939,
+      "date_added_to_oa": null,
+      "date_text": "1939",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:04:30.745000"
+    },
+    {
+      "id": 155985,
+      "accession_number": "1991.27",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Looking Along Broadway Towards Grace Church, 1981. Red Grooms (American, b. 1937). Mixed media (alkyd paint, gatorboard, celastic, wood, wax, foam-core); overall: 180.3 x 161.9 x 73 cm (71 x 63 3/4 x 28 3/4 in.). The Cleveland Museum of Art, Gift of Agnes Gund in honor of Edward Henning, 1991.27. © Red Grooms, Member of Artists Rights Society (ARS)",
+      "current_location": "000 Education Gallery",
+      "title": "Looking Along Broadway Towards Grace Church",
+      "creation_date": "1981",
+      "creation_date_earliest": 1981,
+      "creation_date_latest": 1981,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "mixed media (alkyd paint, gatorboard, celastic, wood, wax, foam-core)",
+      "support_materials": [],
+      "department": "Contemporary Art",
+      "collection": "CONTEMP - Sculpture",
+      "type": "Sculpture",
+      "measurements": "Overall: 180.3 x 161.9 x 73 cm (71 x 63 3/4 x 28 3/4 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 1.803,
+          "width": 1.619,
+          "depth": 0.73
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Red Grooms, Member of Artists Rights Society (ARS)",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 311440,
+            "title": "Notable Acquisitions",
+            "description": "<i>Notable Acquisitions</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 7-September 15, 1991).",
+            "opening_date": "1991-06-07T04:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "New York, NY, Marlborough Gallery, 1981: \"Red Grooms: Recent Works,\" repr. cover and p. 31",
+            "opening_date": "1981-01-01T00:00:00"
+          },
+          {
+            "description": "Philadelphia, PA, Pennsylvania Academy of the Fine Arts, 1985-86: \"Red Grooms Retrospective,\" cat. no. 70, (also to: Denver Art Museum, Museum of Contemporary Art, Los Angeles, Nashville, Tennessee State Museum).",
+            "opening_date": "1985-01-01T00:00:00"
+          },
+          {
+            "description": "CMA 1991: \"Notable Acquisitions,\" CMA Bulletin 78 (June, 1991), p. 110, repr.",
+            "opening_date": "1991-06-01T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [
+        "461.1981"
+      ],
+      "did_you_know": "This work depicts roughly 15 blocks of Lower Manhattan between Canal and 10th Streets.",
+      "description": "Looking Along Broadway Towards Grace Church exemplifies the zany, cartoonlike sculptural environments of Red Grooms. Throughout his career, New York City has provided wonderfully rich subject matter for his work. In this animated scene, the artist focuses on the visual clutter of a lower Manhattan street near his studio. A three-dimensional caricature, this work features jutting buildings, garish street people, and aggressive cars, trucks, and buses, all vividly painted. With engaging wit and enormous energy Grooms captures urban life with rare good humor.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60781105"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Hinson, Tom E. \"Notable Acquisitions.\" <em>The Bulletin of the Cleveland Museum of Art</em> 78, no. 3 (1991): 63-147.",
+          "page_number": "Reproduced and Mentioned: p. 110",
+          "url": "https://www.jstor.org/stable/25161319"
+        },
+        {
+          "citation": "Greenberg, Jan, and Sandra Jordan. The Sculptor’s Eye : Looking at Contemporary American Art. New York: Delacorte Press, 1993.",
+          "page_number": "Mentioned and reproduced: pp. 36-37, fig. 12",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1991.27",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Agnes Gund in honor of Edward Henning",
+      "image_credit": null,
+      "sketchfab_id": "a96aba217b6440108ca818e423be51cc",
+      "sketchfab_url": "https://sketchfab.com/models/a96aba217b6440108ca818e423be51cc",
+      "gallery_donor_text": "Susan M. Kaesgen Education Gallery and Lobby",
+      "athena_id": 155985,
+      "creators": [
+        {
+          "id": 55844,
+          "description": "Red Grooms (American, b. 1937)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1937",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1991-03-27T00:00:00",
+      "sortable_date": 1981,
+      "date_added_to_oa": null,
+      "date_text": "1981",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-04-14 21:33:17.466000"
+    },
+    {
+      "id": 157438,
+      "accession_number": "1994.290",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Pigs' Heads at a Street Market, Chungking, China, 1986. Leo Rubinfien (American, b. 1953). Chromogenic process color print; image: 49.2 x 60 cm (19 3/8 x 23 5/8 in.); paper: 49.5 x 60.5 cm (19 1/2 x 23 13/16 in.); matted: 71.1 x 81.3 cm (28 x 32 in.). The Cleveland Museum of Art, Gift of Cynthia N. Mayer in memory of Estelle Johnson, 1994.290",
+      "current_location": null,
+      "title": "Pigs' Heads at a Street Market, Chungking, China",
+      "creation_date": "1986",
+      "creation_date_earliest": 1986,
+      "creation_date_latest": 1986,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "chromogenic process color print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 49.2 x 60 cm (19 3/8 x 23 5/8 in.); Paper: 49.5 x 60.5 cm (19 1/2 x 23 13/16 in.); Matted: 71.1 x 81.3 cm (28 x 32 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.492,
+          "width": 0.6
+        },
+        "paper": {
+          "height": 0.495,
+          "width": 0.605
+        },
+        "matted": {
+          "height": 0.711,
+          "width": 0.813
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in black ink on verso: \"Leo Rubinfien [signed]. Pig's Heads at a Street, Chunking [sic]. 1986\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 178383,
+            "title": "Trophies of the Hunt: Capturing Nature as Art",
+            "description": "<i>Trophies of the Hunt: Capturing Nature as Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 24-November 3, 2004).",
+            "opening_date": "2004-07-24T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Cleveland, Ohio: The Cleveland Museum of Art; 7/24/04 - 11/3/04. \"Trophies of the Hunt: Capturing Nature as Art\".  No exhibition catalogue.",
+            "opening_date": "2004-07-24T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Between 1979 and 1988, Leo Rubinfien, an American who lived in Japan during his youth, created a body of color photographs that resulted from his extensive travels in Japan, China, Thailand, Indonesia, Burma, India, Vietnam, and the Philippines. With a sensitive and inquisitive eye, he recorded the ways that these deeply traditional Asian cultures are adapting to a global economy. Though indebted to a long tradition of travel photography, his work resists the stereotypes of that genre. The disquieting image of pigs’ heads and carcasses for sale at a street market seems doubly gory because of the richness of Rubinfien’s color print. The artist captured the ambivalence of an Asian nation that is increasingly participating in international markets, but whose traditions retain an undeniable otherness.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79973709"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 310",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1994.290",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Cynthia N. Mayer in memory of Estelle Johnson",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 157438,
+      "creators": [
+        {
+          "id": 844,
+          "description": "Leo Rubinfien (American, b. 1953)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Leo Rubinfien American, 1953- Leo Rubinfien is an art critic, photographer, filmmaker, and educator. A student of philosophy and literature at Reed College in Oregon, Rubinfien went on to study photography at the California Institute of the Arts (B.F.A, 1974) and Yale University (1976). He then worked for two years as a critic, contributing more than 125 articles, essays, and reviews to major periodicals, including Artforum, Art in America, and the Village Voice. From 1980-88 Rubinfien made an extensive series of color photographs that concentrated on Asian subjects from Burma, Japan, India, Thailand, and Indonesia. The series was shown at the Metropolitan Museum of Art, New York (1992), the Seibu Art Forum, Tokyo (1993), the Cleveland Museum of Art (1994), and the Seattle Art Museum (1995) and was published in 1992 as A Map of the East. Rubinfien (born in Chicago) has won several awards, including fellowships from the John Simon Guggenheim Memorial Foundation (1983, 1992) and the Asian Cultural Council (1984). He also has had some success as a filmmaker. The Money Juggler (1988) was screened at the Museum of Modern Art, New York, as part of its New Directors, New Films festival (1989) and was included in the American Film Institute/Los Angeles International Film Festival (1989). Rubinfien lives in Croton-on-Hudson, New York. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1953",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1995-03-06T00:00:00",
+      "sortable_date": 1986,
+      "date_added_to_oa": null,
+      "date_text": "1986",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": "2",
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:45.402000"
+    }
+  ]
+}

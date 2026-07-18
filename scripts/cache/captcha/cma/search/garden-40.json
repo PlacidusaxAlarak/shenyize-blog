@@ -1,0 +1,2997 @@
+{
+  "info": {
+    "total": 607,
+    "parameters": {
+      "skip": 40,
+      "limit": 20,
+      "q": "garden",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,gallery,classification_type,department,collection",
+      "search": "garden"
+    }
+  },
+  "data": [
+    {
+      "id": 124118,
+      "accession_number": "1945.115.b",
+      "share_license_status": "CC0",
+      "tombstone": "Diptych with the Passion of Christ (right wing): Crowning with Thorns and Agony on the Garden , c. 1400. Austria, Styria, 15th century. Tempera and gold on wood (oak); unframed: 45.7 x 27 cm (18 x 10 5/8 in.); including original molding: 52.4 x 34.3 cm (20 5/8 x 13 1/2 in.). The Cleveland Museum of Art, Mr. and Mrs. William H. Marlatt Fund, 1945.115.b",
+      "current_location": "111 German and Austrian Gothic",
+      "title": "Diptych with the Passion of Christ (right wing): Crowning with Thorns and Agony on the Garden ",
+      "creation_date": "c. 1400",
+      "creation_date_earliest": 1395,
+      "creation_date_latest": 1405,
+      "artists_tags": [],
+      "culture": [
+        "Austria, Styria, 15th century"
+      ],
+      "technique": "tempera and gold on wood (oak)",
+      "support_materials": [],
+      "department": "Medieval Art",
+      "collection": "MED - Medieval Art",
+      "type": "Painting",
+      "measurements": "Unframed: 45.7 x 27 cm (18 x 10 5/8 in.); Including original molding: 52.4 x 34.3 cm (20 5/8 x 13 1/2 in.)",
+      "dimensions": {
+        "unframed": {
+          "height": 0.457,
+          "width": 0.27
+        },
+        "including original molding": {
+          "height": 0.524,
+          "width": 0.343
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Georg Joseph Strossmayer (1815-1905), Zagreb, Yugoslavia",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        },
+        {
+          "description": "Sale?: Byzantinische Schule",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "Frederick B. Pratt, New York, NY",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 3
+        },
+        {
+          "description": "Arnold Seligmann, Rey & Co., New York, NY, sold to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "-1945",
+          "sortorder": 4
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1945-",
+          "sortorder": 5
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "This diptych, or two-panel painting, is hinged at the center so that it could be opened and closed and easily transported. It was clearly designed as an object for private devotion. The owner would have been able to contemplate the Passion of Christ and pray before these scenes. The top two images depict Christ’s scourging at the pillar and the crowning of thorns, while the lower two show Jesus before Pontius Pilate and in the Garden of Gethsemane. The scenes would have been read clockwise beginning with the lower right. On the back of these panels are remnants of paintings that have since been scraped off.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60515100"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1945.115.b-diptych-with-the-pas"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+          "page_number": "Reproduced: p. 66",
+          "url": "https://archive.org/details/CMAHandbook1966/page/n90"
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+          "page_number": "Reproduced: p. 66",
+          "url": "https://archive.org/details/CMAHandbook1969/page/n90"
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>Catalogue of Paintings. Pt. 1. European Paintings before 1500. </em>Cleveland: Cleveland Museum of Art, 1974.",
+          "page_number": "Reproduced: fig. 4, p. 10 - 11",
+          "url": ""
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+          "page_number": "Reproduced: p. 74",
+          "url": "https://archive.org/details/CMAHandbook1978/page/n94"
+        }
+      ],
+      "url": "https://clevelandart.org/art/1945.115.b",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1945.115.b/1945.115.b_web.jpg",
+          "width": "573",
+          "height": "900",
+          "filesize": "343538",
+          "filename": "1945.115.b_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1945.115.b/1945.115.b_print.jpg",
+          "width": "2166",
+          "height": "3400",
+          "filesize": "2592986",
+          "filename": "1945.115.b_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1945.115.b/1945.115.b_full.tif",
+          "width": "2508",
+          "height": "3937",
+          "filesize": "29650764",
+          "filename": "1945.115.b_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Mr. and Mrs. William H. Marlatt Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 124118,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1945-06-28T00:00:00",
+      "sortable_date": 1395,
+      "date_added_to_oa": null,
+      "date_text": "c. 1400",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "1945.115",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Four Scenes from the Passion"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:23.179000"
+    },
+    {
+      "id": 164401,
+      "accession_number": "2005.467",
+      "share_license_status": "Copyrighted",
+      "tombstone": "House and Garden, 1917. Gustave Baumann (American, born Germany, 1881–1971). Watercolor over graphite; image: 23.9 x 28.2 cm (9 7/16 x 11 1/8 in.); sheet: 29.8 x 32.6 cm (11 3/4 x 12 13/16 in.). The Cleveland Museum of Art, Gift of Ann Baumann, 2005.467. © Ann Baumann Trust",
+      "current_location": null,
+      "title": "House and Garden",
+      "creation_date": "1917",
+      "creation_date_earliest": 1917,
+      "creation_date_latest": 1917,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "watercolor over graphite",
+      "support_materials": [
+        {
+          "description": "antique laid paper (Bergisch Gladbach?)",
+          "watermarks": []
+        }
+      ],
+      "department": "Drawings",
+      "collection": "DR - American 20th Century",
+      "type": "Drawing",
+      "measurements": "Image: 23.9 x 28.2 cm (9 7/16 x 11 1/8 in.); Sheet: 29.8 x 32.6 cm (11 3/4 x 12 13/16 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.298,
+          "width": 0.326
+        },
+        "image": {
+          "height": 0.239,
+          "width": 0.282
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Ann Baumann Trust",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 202597,
+            "title": "Imagining the Garden",
+            "description": "<i>Imagining the Garden</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 24, 2015-March 6, 2016).",
+            "opening_date": "2015-10-24T00:00:00"
+          },
+          {
+            "id": 324227,
+            "title": "Gustave Baumann: Colorful Cuts",
+            "description": "<i>Gustave Baumann: Colorful Cuts</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 20, 2020-June 27, 2021).",
+            "opening_date": "2020-12-20T05:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Ann Bauman, Santa Rosa, CA",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "February 27, 2006",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Baumann, filled with wanderlust, left Brown County, Indiana, in early 1917 and headed east. He spent the year traveling and working in Wyoming, New York; New York City; Boston; and Provincetown, Massachusetts, where this watercolor was made. Notice how the artist tested colors and made a preliminary sketch of the man pulling the wagon in the upper right margin.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79991947"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2005.467",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Ann Baumann",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 164401,
+      "creators": [
+        {
+          "id": 42672,
+          "description": "Gustave Baumann (American, born Germany, 1881–1971)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1881",
+          "death_year": "1971",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2006-02-27T00:00:00",
+      "sortable_date": 1917,
+      "date_added_to_oa": null,
+      "date_text": "1917",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:05:28.375000"
+    },
+    {
+      "id": 317671,
+      "accession_number": "2018.761",
+      "share_license_status": "Copyrighted",
+      "tombstone": "USA. NYC. Garden Cafeteria: Untitled, 1973. Bruce Davidson (American, b. 1933). Gelatin silver print; image: 75.9 x 76.4 cm (29 7/8 x 30 1/16 in.); paper: 93.3 x 94 cm (36 3/4 x 37 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.761. © Bruce Davidson/Magnum Photos",
+      "current_location": null,
+      "title": "Untitled",
+      "series": "USA. NYC. Garden Cafeteria",
+      "creation_date": "1973",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 75.9 x 76.4 cm (29 7/8 x 30 1/16 in.); Paper: 93.3 x 94 cm (36 3/4 x 37 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.933,
+          "width": 0.94
+        },
+        "image": {
+          "height": 0.759,
+          "width": 0.764
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Bruce Davidson/Magnum Photos",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Many of the clients who frequented this restaurant on New York’s Lower East Side were Holocaust survivors.",
+      "description": "Davidson encountered the Garden Cafeteria in the early 1970s while making a film on Polish-born American author Isaac Bashevis Singer, who was a regular customer. Its clientele, mostly Jews who immigrated after World War II, appealed to Davidson because his own family were Jews who had emigrated from Poland. He spent hours with his sitters, learning their histories before empathetically clicking the shutter.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876508"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.761",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317671,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:41.165000"
+    },
+    {
+      "id": 317677,
+      "accession_number": "2018.766",
+      "share_license_status": "Copyrighted",
+      "tombstone": "USA. NYC. Garden Cafeteria: Untitled (50226), 1973. Bruce Davidson (American, b. 1933). Gelatin silver print; paper: 50.8 x 40.6 cm (20 x 16 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.766. © Bruce Davidson/Magnum Photos",
+      "current_location": null,
+      "title": "Untitled (50226)",
+      "series": "USA. NYC. Garden Cafeteria",
+      "creation_date": "1973",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 50.8 x 40.6 cm (20 x 16 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.508,
+          "width": 0.406
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Bruce Davidson/Magnum Photos",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Many of the clients who frequented this restaurant on New York’s Lower East Side were Holocaust survivors.",
+      "description": "Davidson encountered the Garden Cafeteria in the early 1970s while making a film on Polish-born American author Isaac Bashevis Singer, who was a regular customer. Its clientele, mostly Jews who immigrated after World War II, appealed to Davidson because his own family were Jews who had emigrated from Poland. He spent hours with his sitters, learning their histories before empathetically clicking the shutter.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876520"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.766",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317677,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:31.636000"
+    },
+    {
+      "id": 126769,
+      "accession_number": "1949.186",
+      "share_license_status": "CC0",
+      "tombstone": "Fight Between a Tiger and a Buffalo, 1908. Henri Rousseau (French, 1844–1910). Oil on fabric; framed: 183 x 203 x 4.5 cm (72 1/16 x 79 15/16 x 1 3/4 in.); unframed: 170 x 189.5 cm (66 15/16 x 74 5/8 in.). The Cleveland Museum of Art, Gift of the Hanna Fund, 1949.186",
+      "current_location": null,
+      "title": "Fight Between a Tiger and a Buffalo",
+      "creation_date": "1908",
+      "creation_date_earliest": 1908,
+      "creation_date_latest": 1908,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, late 19th-early 20th Century"
+      ],
+      "technique": "oil on fabric",
+      "support_materials": [],
+      "department": "Modern European Painting and Sculpture",
+      "collection": "Mod Euro - Painting 1800-1960",
+      "type": "Painting",
+      "measurements": "Framed: 183 x 203 x 4.5 cm (72 1/16 x 79 15/16 x 1 3/4 in.); Unframed: 170 x 189.5 cm (66 15/16 x 74 5/8 in.)",
+      "dimensions": {
+        "framed": {
+          "height": 1.83,
+          "width": 2.03,
+          "depth": 0.045
+        },
+        "unframed": {
+          "height": 1.7,
+          "width": 1.895
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Signed and dated lower right: Henri Rousseau / 1908\r\n\r\n\r\n",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 301477,
+            "title": "In Memoriam: Leonard C. Hanna, Jr.",
+            "description": "<i>In Memoriam: Leonard C. Hanna, Jr.</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 4-April 7, 1958).",
+            "opening_date": "1958-03-04T05:00:00"
+          },
+          {
+            "id": 518973,
+            "title": "Masterpieces of Art",
+            "description": "<i>Masterpieces of Art</i>. Century 21 Exposition, Seattle, WA (organizer) (April 21-September 4, 1962).",
+            "opening_date": "1962-04-21T05:00:00"
+          },
+          {
+            "id": 520135,
+            "title": "Henri Rousseau",
+            "description": "<i>Henri Rousseau</i>. Wildenstein & Co., New York, NY (organizer) (April 16-May 25, 1963).",
+            "opening_date": "1963-04-16T05:00:00"
+          },
+          {
+            "id": 520506,
+            "title": "Le Monde Des Neifs (De Lusthof Der Naieven)",
+            "description": "<i>Le Monde Des Neifs (De Lusthof Der Naieven)</i>. Museum Boijmans Van Beuningen, Rotterdam, Netherlands (organizer) (July 10-September 6, 1964); Musée National d'Art Moderne, Paris, Cedex 04, France (October 14-December 6, 1964).",
+            "opening_date": "1964-07-10T04:00:00"
+          },
+          {
+            "id": 300763,
+            "title": "Years of Ferment: The Birth of Twentieth-century Art",
+            "description": "<i>Years of Ferment: The Birth of Twentieth-century Art</i>. Frederick S. Wight Art Gallery, UCLA, Los Angeles, CA (January 24-March 7, 1965); San Francisco Museum of Modern Art, San Francisco, CA (March 28-May 16, 1965); The Cleveland Museum of Art, Cleveland, OH (July 14-August 22, 1965).",
+            "opening_date": "1965-01-24T05:00:00"
+          },
+          {
+            "id": 310025,
+            "title": "Creativity in Art and Science, 1860-1960",
+            "description": "<i>Creativity in Art and Science, 1860-1960</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 16-November 8, 1987).",
+            "opening_date": "1987-09-16T04:00:00"
+          },
+          {
+            "id": 224431,
+            "title": "Henri Rousseau and the Modern Age",
+            "description": "<i>Henri Rousseau and the Modern Age</i>. Künsthalle Tubingen, D-72076 Tübingen, Germany (organizer) (February 3-June 17, 2001).",
+            "opening_date": "2001-02-03T00:00:00"
+          },
+          {
+            "id": 229570,
+            "title": "Jungles in Paris: The Paintings of Henri Rousseau",
+            "description": "<i>Jungles in Paris: The Paintings of Henri Rousseau</i>. Tate Modern, London, United Kingdom of Great Britain and Northern Ireland (organizer) (November 3, 2005-February 5, 2006); Galeries Nationales du Grand Palais, 75008 Paris, France (March 13-June 19, 2006); National Gallery of Art, Landover, MD (July 16-October 15, 2006).",
+            "opening_date": "2005-11-03T00:00:00"
+          },
+          {
+            "id": 182153,
+            "title": "Monet to Dalí: Modern Masters from the Cleveland Museum of Art",
+            "description": "<i>Monet to Dalí: Modern Masters from the Cleveland Museum of Art</i>. Seoul Art Center, South Korea (December 22, 2006-March 28, 2007); Seoul Olympic Museum of Art, South Korea (April 7-May 20, 2007); Vancouver Art Gallery, Vancouver, Canada (June 9-September 16, 2007); The Cleveland Museum of Art, Cleveland, OH (organizer) (October 21, 2007-January 13, 2008).",
+            "opening_date": "2006-05-27T00:00:00"
+          },
+          {
+            "id": 202129,
+            "title": "Admired from Afar: Masterworks of Japanese Painting from the Cleveland Museum of Art",
+            "description": "<i>Admired from Afar: Masterworks of Japanese Painting from the Cleveland Museum of Art</i>. Tokyo National Museum, Tokyo, Japan (January 15-February 23, 2014); Kyushu National Museum, Fukuoka, Japan (July 8-August 31, 2014).",
+            "opening_date": "2014-01-15T00:00:00"
+          },
+          {
+            "id": 223433,
+            "title": "The Shadow of the Avant-Garde",
+            "description": "<i>The Shadow of the Avant-Garde</i>. Museum Folkwang, 45128 Essen, Germany (organizer) (October 3, 2015-January 10, 2016).",
+            "opening_date": "2015-10-03T00:00:00"
+          },
+          {
+            "id": 220685,
+            "title": "Le Douanier Rousseau. L'innocence archaïque",
+            "description": "<i>Le Douanier Rousseau. L'innocence archaïque</i>. Musée d'Orsay, Paris, France (organizer) (March 21-July 17, 2016); National Gallery, Prague (September 16, 2016-January 15, 2017).",
+            "opening_date": "2016-03-21T00:00:00"
+          },
+          {
+            "id": 670844,
+            "title": "Henri Rousseau: A Painter’s Secrets",
+            "description": "<i>Henri Rousseau: A Painter’s Secrets</i>. The Barnes Foundation, Philadelphia, PA (organizer) (October 19, 2025-February 22, 2026) https://www.barnesfoundation.org/whats-on/exhibitions/henri-rousseau-a-painters-secrets?gad_source=1&gad_campaignid=20125069632&gbraid=0AAAAACP5DbL4rs-9EfKRpQcP3HjjlYEfb&gclid=Cj0KCQjw0NPGBhCDARIsAGAzpp0GmWNK1KSSGhKIsZvvTWdQSwfepIT4aDadyzyDDvYho3pdqzpJPgMaAr91EALw_wcB; Musée de l'Orangerie, Paris, France (March 24-July 20, 2026).",
+            "opening_date": "2025-10-19T04:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Paris, Société des Artistes Indépendants. 24me exposition (1908), no. 5260, Combat de Tigre et de Buffle (for sale).",
+            "opening_date": "1908-01-01T00:00:00"
+          },
+          {
+            "description": "Chicago, Arts Club Exhibitions at the Art Institute. Loan Exhibition of Some Modern Paintings (1926-27), no. 14, The Jungle, lent by Mrs. John A. Carpenter.",
+            "opening_date": "1926-01-01T00:00:00"
+          },
+          {
+            "description": "New York, Reinhardt Gallery. Loan Exhibition of Paintings from Memling, Holbein, and Titian to Renoir and Picasso (1928), no. 27, The Jungle, lent by Mrs. John Alden Carpenter (repr.)",
+            "opening_date": "1928-01-01T00:00:00"
+          },
+          {
+            "description": "New York, Valentine Gallery. Six Major Paintings by the Modern Masters of France, Braque, Matisse, Derain, Picasso, and One Important Work by Henri Rousseau (1930), no. 7, Le tigre et le rhinocéros-1908.",
+            "opening_date": "1930-01-01T00:00:00"
+          },
+          {
+            "description": "Arts Club of Chicago. Paintings by Henri Rousseau (1931), no. 7, The Jungle, collection of Mrs. John Alden Carpenter, Chicago.",
+            "opening_date": "1931-01-01T00:00:00"
+          },
+          {
+            "description": "New York, Museum of Modern Art. Fruit and Flower Paintings (1933), no cat.",
+            "opening_date": "1933-01-01T00:00:00"
+          },
+          {
+            "description": "Art Institute of Chicago. A Century of Progress Exhibition of Paintings and Sculpture (1933 and 1934), no. 368 (1933); no. 321 (1934), lent by Mrs. Patrick J. Hill to the Joseph Winterbotham Collection, Art Institute of Chicago.",
+            "opening_date": "1933-01-01T00:00:00"
+          },
+          {
+            "description": "Art Institute of Chicago; New York, Museum of Modern Art. Henri Rousseau (1942-43), 49 (repr.) (lent by Hill, according to 1942 moma label on the back of the frame; according to moma archives, the painting did not travel to other venues after New York), 64.",
+            "opening_date": "1942-01-01T00:00:00"
+          },
+          {
+            "description": "New York, Pierre Matisse Gallery. Twentieth Century Masters (1948), no. 12, The Jungle (repr.).",
+            "opening_date": "1948-01-01T00:00:00"
+          },
+          {
+            "description": "Venice. XXV Biennale di Venezia (1950), 235, no. 14, fig. 59.",
+            "opening_date": "1950-01-01T00:00:00"
+          },
+          {
+            "description": "Montreal Museum of Art. Six Centuries of Landscape (1952), no. 58, 29 (repr.).",
+            "opening_date": "1952-01-01T00:00:00"
+          },
+          {
+            "description": "Paris, Musée National d'Art Moderne. L'oeuvre du XXe siècle (1952), no. 98.",
+            "opening_date": "1952-01-01T00:00:00"
+          },
+          {
+            "description": "London, Tate Gallery (Organized by the Arts Council). XXth Century Masterpieces (1952), no. 83.",
+            "opening_date": "1952-01-01T00:00:00"
+          },
+          {
+            "description": "Kansas City, Nelson-Atkins Museum. Twentieth Anniversary Celebration: French Paintings-19th and 20th Centuries-A Loan Exhibition (1953), checklist no. 10.",
+            "opening_date": "1953-01-01T00:00:00"
+          },
+          {
+            "description": "Buffalo, Albright Art Gallery. Fifty Paintings 1905-1913 (1955), no. 42, 64 (repr.).",
+            "opening_date": "1955-01-01T00:00:00"
+          },
+          {
+            "description": "Kansas City, Nelson Gallery and Atkins Museum. Twenty-fifth Anniversary Exhibition, in The Nelson Gallery and Atkins Museum Bulletin 1 (December 1958), no. 9.",
+            "opening_date": "1958-12-01T00:00:00"
+          },
+          {
+            "description": "Seattle World's Fair, Fine Art Pavillion. Masterpieces of Art (1962), no. 53 (repr.).",
+            "opening_date": "1962-01-01T00:00:00"
+          },
+          {
+            "description": "New York, Wildenstein. Loan Exhibition Henri Rousseau (1963), no. 46 (repr.).",
+            "opening_date": "1963-01-01T00:00:00"
+          },
+          {
+            "description": "Rotterdam, Museum Boymans-van Beuningen. De Lusthof der Naïeven (1964), no. 20 (repr.).",
+            "opening_date": "1964-01-01T00:00:00"
+          },
+          {
+            "description": "Paris, Musée National d'Art Moderne. Le Monde des Naifs (1964), no. 20 (repr.).",
+            "opening_date": "1964-01-01T00:00:00"
+          },
+          {
+            "description": "Los Angeles, ucla Art Galleries; San Francisco Museum of Art; cma. Years of Ferment: The Birth of Twentieth Century Art 1886-1914 (1965), 38 (repr.), no. 47 (repr. on cover).",
+            "opening_date": "1965-01-01T00:00:00"
+          },
+          {
+            "description": "Paris, Grand Palais; New York, Museum of Modern Art. Henri Rousseau (1984-85), no. 50 (repr.) (not shown in Paris).",
+            "opening_date": "1984-01-01T00:00:00"
+          },
+          {
+            "description": "CMA. Creativity in Art and Science (1987), no. 18 (repr.).",
+            "opening_date": "1987-01-01T00:00:00"
+          },
+          {
+            "description": "Tübingen, Germany: Kunsthalle Tübingen, Germany. Henri Rousseau and the Modern Age (2/3/01 - 6/17/01), exh. cat. no. 43, pp 209-211, repr. p. 211, detail front and back.",
+            "opening_date": "2001-02-03T00:00:00"
+          },
+          {
+            "description": "Tate Modern, London (11/3/2005 - 2/5/2006), Galeries du Grand Palais, Paris (3/13/2006 - 6/19/2006) and the National Gallery of Art, Washington, DC (7/16/2006 - 10/15/2006): \"Jungles in Paris: The Paintings of Henri Rousseau\" ex. cat. no. 45, p. 148-149.",
+            "opening_date": "2005-11-03T00:00:00"
+          },
+          {
+            "description": "CMA (organizer). Seoul Arts Center, Seoul, Korea: Dec. 18, 2006 - March 31, 2007; Seoul Olympic Museum of Art, Seoul, Korea: Apr. 7 - May 20, 2007; Vancouver Art Gallery, Vancouver, British Columbia, Canada: June 9 - Sept. 16, 2007; Cleveland Museum of Art, Oct. 21, 2007- January 13, 2008: \"Modern Masters from the Cleveland Museum of Art\"",
+            "opening_date": "2007-04-07T00:00:00"
+          },
+          {
+            "description": "Musée d'Orsay, Paris, France (3/21/2016 - 7/17/2016): \"Le Douanier Rousseau. L'innocence archaïque\" cat. no. 89, p. 232-233.",
+            "opening_date": "2016-03-21T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Bought from the artist by Ambroise Vollard on 14 December 1909.",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        },
+        {
+          "description": "Bought by John Quinn, New York, October 1923.",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "Quinn estate from 1924.",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 3
+        },
+        {
+          "description": "Mrs. John Alden Carpenter, Chicago, by 1926.",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 4
+        },
+        {
+          "description": "Mrs. Patrick J. Hill, Washington D.C.",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 5
+        },
+        {
+          "description": "[Pierre Matisse Gallery, New York, 1948]",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 7
+        },
+        {
+          "description": "Purchased by the Cleveland Museum of Art on 14 June 1949.",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 8
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Many of Henri Rousseau's paintings depict wild animals and tropical jungles that might lead one to believe he traveled widely. However, Rousseau never left France, but drew inspiration from visiting botanical gardens and reading travel books.",
+      "description": "Having never ventured outside France, Henri Rousseau derived his jungle scenes from reading travel books and visiting the Paris botanical garden. He placed this imaginary scene of a tiger attacking a buffalo within a fantastic jungle environment in which botanical accuracy was of little importance (note the bananas growing upside down). Here, sharply outlined hothouse plants are enlarged to fearsome proportions. Rousseau was working on this painting while imprisoned for fraud in December 1907. Officials granted him an early release to finish it for exhibition at the Salon des Indépendants, where this major composition, one of the artist's largest and most important, appeared in March 1908. A self-taught artist and retired customs inspector, Rousseau was admired by Pablo Picasso and other avant-garde artists for his originality and the naïve purity of his vision.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60515648"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1949.186-fight-between-a-tige"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Le douanier Rousseau: l'innocence archaïque [exposition au Musée d'Orsay, du 22 mars au 17 juillet 2016]. Dossier De L'art (Dijon). Dijon: Édition Faton, 2016. catalogue number 89",
+          "page_number": "232-233",
+          "url": null
+        },
+        {
+          "citation": "Fajt, Jiří. Celnik Douanier Rousseau: Painter's Paradise Lost : [Exposition National Gallery, Prague, 15.09.2016-15.01.2017]. Prague: National Gallery, 2016.",
+          "page_number": "128-129",
+          "url": null
+        },
+        {
+          "citation": "Francis, Henry. \"'The Jungle' by Henri-Julien Rousseau.\" <em>The Bulletin of the Cleveland Museum of Art </em>36, no. 9 (November 1949): 170-178.",
+          "page_number": "Reproduced: front cover, p. 173; Mentioned: p. 177",
+          "url": "https://www.jstor.org/stable/25141582"
+        },
+        {
+          "citation": "“Part II: Annual Report Issue for the Year 1949.” <em>The Bulletin of the Cleveland Museum of Art</em> 37, no. 6 (June 1950): 127–161.",
+          "page_number": "Mentioned: p. 129",
+          "url": "http://www.jstor.org/stable/25141645"
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+          "page_number": "Mentioned and Reproduced: cat. no. 515",
+          "url": "https://archive.org/details/CMAHandbook1958/page/n95"
+        },
+        {
+          "citation": "UCLA Art Council. <em>Years of Ferment; The Birth of Twentieth Century Art 1886-1914.</em> [Los Angeles]: [UCLA Art Council],1965.",
+          "page_number": "Reproduced: P. 38, no. 47, cover",
+          "url": ""
+        },
+        {
+          "citation": "Henning, Edward B. <em>The Spirit of Surrealism</em>. Cleveland: The Cleveland Museum of Art, 1979.",
+          "page_number": "Mentioned: p. 49-50, 185; Reproduced: p. 50, fig. 8; colorplate III",
+          "url": null
+        },
+        {
+          "citation": "Le Pichon, Yann. <em>The World of Henri Rousseau.</em> New York: Viking Press, 1982.",
+          "page_number": "Reproduced: p. 147",
+          "url": null
+        },
+        {
+          "citation": "Henning, Edward B. “The Aviator: A Major Painting by Fernand Léger.” <em>The Bulletin of the Cleveland Museum of Art</em> 69, no. 3 (March 1982): 87–93.",
+          "page_number": "Mentioned and reproduced: p. 86-87, fig. 3",
+          "url": "http://www.jstor.org/stable/25159762"
+        },
+        {
+          "citation": "Henning, Edward B. <em>Creativity in Art and Science, 1860-1960</em>. [Cleveland, Ohio]: Published by the Cleveland Museum of Art in cooperation with Indiana University Press, 1987.",
+          "page_number": "Mentioned and reproduced: P. 110, no. 18",
+          "url": ""
+        },
+        {
+          "citation": "Turpin, Ian. <em>Ernst. </em>London: Phaidon Books, 1993.",
+          "page_number": "Mentioned and reproduced: p. 94, fig. 29",
+          "url": ""
+        },
+        {
+          "citation": "Argencourt, Louise d', and Roger Diederen. <em>Catalogue of Paintings</em>. <em>Pt. 4. European Paintings of the 19th Century</em>. Cleveland: Cleveland Museum of Art, 1974.",
+          "page_number": "Mentioned and reproduced: P. 555-559, Vol. II, no. 196",
+          "url": ""
+        },
+        {
+          "citation": "<em>Admired from afar: masterworks of Japanese painting from the Cleveland Museum of Art</em> [クリーブランド美術館展 : 名画でたどる日本の美 Kurīburando Bijutsukan ten: meiga de tadoru Nihon no bi ]. Tokyo: Tōkyō Kokuritsu Hakubutsukan, 2014.",
+          "page_number": "Reproduced: p. 135",
+          "url": null
+        },
+        {
+          "citation": "König, Kasper, and Falk Wolf, eds. <em>The Shadow of the Avant-Garde: Rousseau and the Forgotten Masters.</em> Ostfildern, Germany: Hatje Cantz Verlag, 2015.",
+          "page_number": "Reproduced: p. 92, fig. 57",
+          "url": null
+        },
+        {
+          "citation": "Belli, Gabriella. <em>Le Douanier Rousseau: l'innocence archaïque.</em> Vanves: Hazan, 2016.",
+          "page_number": "Reproduced: p. 232-233, no. 89",
+          "url": null
+        },
+        {
+          "citation": "Brožová, Kristýna. <em>Celník Rousseau: malířův ztracený ráj = Douanier Rousseau: Painter's Paradise Lost.</em> 2016.",
+          "page_number": "Mentioned: p. 21; Reproduced: p. 128-129",
+          "url": null
+        },
+        {
+          "citation": "Stabenow, Cornelia, and Charity Scott-Stokes. <em>Henri Rousseau: 1844-1910.</em> Köln: Taschen, 2018.",
+          "page_number": "Reproduced: P. 87",
+          "url": ""
+        },
+        {
+          "citation": "Homburg, Cornelia. \"Redon's Femmes aux Fleurs.\" In <em>Odilon Redon: Literature and Music.</em> Cornelia Homburg, etal., 174-197. Rotterdam: Nai010 uitgevers, 2018.",
+          "page_number": "Reproduced: p. 184, no. 183",
+          "url": null
+        },
+        {
+          "citation": "<em>Paintings in the Cleveland Museum of Art: Picture Book No. 4 .</em> [Cleveland]: The Cleveland Museum of Art, 1952.",
+          "page_number": "Reproduced: p. 41",
+          "url": "https://archive.org/details/CMAPaintings1952"
+        },
+        {
+          "citation": "Ireson, Nancy. \"Henri Rousseau's Secrets.\" In <em>Henri Rousseau: A Painter’s Secrets,</em> edited by Christopher Green and Nancy Ireson, 1-17. Philadelphia: The Barnes Foundation, 2025.",
+          "page_number": "Mentioned: p. 13",
+          "url": ""
+        },
+        {
+          "citation": "Green, Christopher, and Nancy Ireson, eds. <em>Henri Rousseau: A Painter’s Secrets.</em> Philadelphia: The Barnes Foundation, 2025.",
+          "page_number": "Mentioned: p. 148, 253, 278, 299 n8; Reproduced: p. 154-155, pl. 49",
+          "url": ""
+        },
+        {
+          "citation": "Koerner Von Gustorf, Oliver. \"Die wildnis in uns.\"<em> Die Weltkunst. </em>Jg. 96, n. 252 (March 2026): 18-31.",
+          "page_number": "Reproduced: cover and p.3",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1949.186",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1949.186/1949.186_web.jpg",
+          "width": "900",
+          "height": "806",
+          "filesize": "265744",
+          "filename": "1949.186_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1949.186/1949.186_print.jpg",
+          "width": "3400",
+          "height": "3046",
+          "filesize": "3071351",
+          "filename": "1949.186_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1949.186/1949.186_full.tif",
+          "width": "12503",
+          "height": "11202",
+          "filesize": "420208660",
+          "filename": "1949.186_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2007-10-15T14:41:23",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1949.186/1949.186_alt0_web.jpg",
+            "width": "1001",
+            "height": "893",
+            "filesize": "710062"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1949.186/1949.186_alt0_print.jpg",
+            "width": "3400",
+            "height": "3032",
+            "filesize": "7585688"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1949.186/1949.186_alt0_full.tif",
+            "width": "5361",
+            "height": "4780",
+            "filesize": "76920616"
+          }
+        }
+      ],
+      "creditline": "Gift of the Hanna Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 126769,
+      "creators": [
+        {
+          "id": 1804,
+          "description": "Henri Rousseau (French, 1844–1910)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Self-taught artist Henri Rousseau was born in Laval in 1844. He entered the military at the age of eighteen and served as a saxophone player in an infantry band. Most biographers discount his claim of traveling abroad during the Mexican campaign. In 1871 Rousseau left the military to join the customs service, where he spent fourteen years working on the outskirts of Paris as a minor inspector. After retiring with a small pension in 1885, he pursued the career of a painter and sought portrait commissions. From 1886 to 1910, he exhibited on a regular basis at the Salon des Indépendants, and after 1905, at the Salon d'Automne. Through these activities he became friendly with other artists, including Gauguin (q.v.), Pissarro (q.v.), Seurat (q.v), Paul Signac (1863-1935), and Redon (q.v.) who affectionately called him \"le douanier\" (customs officer). Rousseau's paintings were poorly received, and frequently ridiculed in the press, until he attracted a small group of admirers in the early years of this century. This group included Pablo Picasso, Maurice de Vlaminck, Robert Delaunay, Max Weber, and Ardengo Soffici, along with the writers Alfred Jarry, Max Jacob, André Salmon, and Guillaume Apollinaire. In 1908, a famous banquet honoring Rousseau was organized at Picasso's studio. Avant-garde artists admired Rousseau's direct, simple vision and his innate talent at clear, pictorial design. However, he aspired to paint in the academic manner of Gérôme (q.v.) and Bouguereau (q.v.). Rousseau reportedly told Picasso: \"We are the two greatest artists of this era-you in the Egyptian style, I in the modern style.\"1 Despite growing acclaim in his late years, Rousseau struggled for sales and was forced to supplement his meager income by giving private painting and violin lessons. He occasionally sold works through the dealers Ambroise Vollard and Wilhelm Uhde. In 1909 Rousseau was convicted of complicity in a bank fraud, but authorities suspended the sentence because of his age and apparent failure to comprehend his role in the crime. Rousseau died in Paris of pneumonia in 1910. In 1911 Uhde organized a retrospective at the Indépendants and published the first biography of Rousseau.",
+          "name_in_original_language": null,
+          "birth_year": "1844",
+          "death_year": "1910",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1949-06-14T00:00:00",
+      "sortable_date": 1908,
+      "date_added_to_oa": null,
+      "date_text": "1908",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-04-09 18:18:19.245000"
+    },
+    {
+      "id": 317678,
+      "accession_number": "2018.767",
+      "share_license_status": "Copyrighted",
+      "tombstone": "USA. NYC. Garden Cafeteria: Untitled (50238), 1973. Bruce Davidson (American, b. 1933). Gelatin silver print; paper: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.767. © Bruce Davidson/Magnum Photos",
+      "current_location": null,
+      "title": "Untitled (50238)",
+      "series": "USA. NYC. Garden Cafeteria",
+      "creation_date": "1973",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Bruce Davidson/Magnum Photos",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Many of the customers who frequented this restaurant on New York’s Lower East Side were Holocaust survivors.",
+      "description": "Davidson encountered the Garden Cafeteria in the early 1970s while making a film on Polish-born American author Isaac Bashevis Singer, who was a regular customer. Its clientele, mostly Jews who immigrated after World War II, appealed to Davidson because his own family were Jews who had emigrated from Poland. He spent hours with his sitters, learning their histories before empathetically clicking the shutter.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876525"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.767",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317678,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:57.179000"
+    },
+    {
+      "id": 150490,
+      "accession_number": "1981.50",
+      "share_license_status": "Copyrighted",
+      "tombstone": "The Garden, 1981. R. B. Kitaj (American, 1932–2007). Oil on canvas; framed: 139.7 x 139.7 x 6.5 cm (55 x 55 x 2 9/16 in.); unframed: 121.9 x 121.9 cm (48 x 48 in.). The Cleveland Museum of Art, Gift of The Eppler Family Foundation, an Anonymous Donor, The Kangesser Foundation, Mr. and Mrs. Frank H. Porter, in memory of William M. Milliken, The Thomas and Mildred Doughtery Foundation, and Wishing Well Fund, 1981.50. © Marlborough Gallery, New York",
+      "current_location": null,
+      "title": "The Garden",
+      "creation_date": "1981",
+      "creation_date_earliest": 1981,
+      "creation_date_latest": 1981,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "oil on canvas",
+      "support_materials": [],
+      "department": "Contemporary Art",
+      "collection": "CONTEMP - Painting",
+      "type": "Painting",
+      "measurements": "Framed: 139.7 x 139.7 x 6.5 cm (55 x 55 x 2 9/16 in.); Unframed: 121.9 x 121.9 cm (48 x 48 in.)",
+      "dimensions": {
+        "framed": {
+          "height": 1.397,
+          "width": 1.397,
+          "depth": 0.065
+        },
+        "unframed": {
+          "height": 1.219,
+          "width": 1.219
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Marlborough Gallery, New York",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 304599,
+            "title": "The Year in Review for 1981",
+            "description": "<i>The Year in Review for 1981</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 17-March 21, 1982).",
+            "opening_date": "1982-02-17T05:00:00"
+          },
+          {
+            "id": 399436,
+            "title": "R. B. Kitaj: A Retrospective",
+            "description": "<i>R. B. Kitaj: A Retrospective</i>. Tate Britain (organizer) (June 15-September 4, 1994); Los Angeles County Museum of Art (October 23, 1994-January 8, 1995); The Metropolitan Museum of Art (February 15-May 14, 1995).",
+            "opening_date": "1994-06-15T04:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "\"R. B. Kitaj,\" Duesseldorf, Stadtische Kunsthalle Duesseldorf (Feb.5 - March 21, 1982), not in catalogue.",
+            "opening_date": "1982-03-21T00:00:00"
+          },
+          {
+            "description": "\"Contemporary Art,\" Cleveland Museum of Art (Nov. 3 - Dec. 12, 1982).",
+            "opening_date": "1982-11-03T00:00:00"
+          },
+          {
+            "description": "\"Contemporary Collection,\" CMA (Aug. 17 - Nov. 6, 1983).",
+            "opening_date": "1983-08-17T00:00:00"
+          },
+          {
+            "description": "\"Kitaj,\" Marlborough Gallery, London (March 1 - March 31, 1986), cat. no. 10, reproduced.",
+            "opening_date": "1986-03-01T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60474773"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Lee, Sherman E. “The Year in Review for 1981.” <em>The Bulletin of the Cleveland Museum of Art</em> 69, no. 2 (February 1982): 39–82.",
+          "page_number": "Reproduced: p. 65; Mentioned: p. 79, no. 40",
+          "url": "http://www.jstor.org/stable/25159758"
+        },
+        {
+          "citation": "Henning, Edward B. “New Paintings by Four Artists from Britain.” <em>The Bulletin of the Cleveland Museum of Art</em> 69, no. 10 (December 1982): 311–323.",
+          "page_number": "Mentioned: p. 319-323; Reproduced: p. 320, fig. 14 and Cover",
+          "url": "http://www.jstor.org/stable/25159795"
+        },
+        {
+          "citation": "Ashbery, John. <em>Kitaj Paintings, Drawings, Pastels</em>. New York, N.Y.: Thames and Hudson, 1983.",
+          "page_number": "Reproduced: p. 63, cat. 16",
+          "url": null
+        },
+        {
+          "citation": "Kitaj, R. B., David Hockney, Eckhart Gillen, and Lee Friedlander. <em>Confessions of an Old Jewish Painter: Autobiography</em>. Munich : Schirmer Mosel, 2017.",
+          "page_number": "Reproduced: p. 181, no. 102.",
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/1981.50",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of The Eppler Family Foundation, an Anonymous Donor, The Kangesser Foundation, Mr. and Mrs. Frank H. Porter, in memory of William M. Milliken, The Thomas and Mildred Doughtery Foundation, and Wishing Well Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 150490,
+      "creators": [
+        {
+          "id": 32919,
+          "description": "R. B. Kitaj (American, 1932–2007)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1932",
+          "death_year": "2007",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1981-12-08T00:00:00",
+      "sortable_date": 1981,
+      "date_added_to_oa": null,
+      "date_text": "1981",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:09.124000"
+    },
+    {
+      "id": 317673,
+      "accession_number": "2018.763",
+      "share_license_status": "Copyrighted",
+      "tombstone": "USA. NYC. Garden Cafeteria: Untitled (48384), 1973. Bruce Davidson (American, b. 1933). Gelatin silver print; paper: 27.9 x 35.6 cm (11 x 14 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.763. © Bruce Davidson/Magnum Photos",
+      "current_location": null,
+      "title": "Untitled (48384)",
+      "series": "USA. NYC. Garden Cafeteria",
+      "creation_date": "1973",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 27.9 x 35.6 cm (11 x 14 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.279,
+          "width": 0.356
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Bruce Davidson/Magnum Photos",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Many of the clients who frequented this restaurant on New York’s Lower East Side were Holocaust survivors.",
+      "description": "Davidson encountered the Garden Cafeteria in the early 1970s while making a film on Polish-born American author Isaac Bashevis Singer, who was a regular customer. Its clientele, mostly Jews who immigrated after World War II, appealed to Davidson because his own family were Jews who had emigrated from Poland. He spent hours with his sitters, learning their histories before empathetically clicking the shutter.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876513"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.763",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317673,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:23.552000"
+    },
+    {
+      "id": 164331,
+      "accession_number": "2005.414",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Desert Rock Garden, 1951, printed 1967. Gustave Baumann (American, born Germany, 1881–1971). Color woodcut with aluminum leaf; image: 25.2 x 38.3 cm (9 15/16 x 15 1/16 in.); sheet: 36.6 x 45.9 cm (14 7/16 x 18 1/16 in.). The Cleveland Museum of Art, Gift of Ann Baumann, 2005.414. © Ann Baumann Trust",
+      "current_location": null,
+      "title": "Desert Rock Garden",
+      "creation_date": "1951, printed 1967",
+      "creation_date_earliest": 1951,
+      "creation_date_latest": 1951,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "color woodcut with aluminum leaf",
+      "support_materials": [
+        {
+          "description": "Zerkaff butten paper",
+          "watermarks": []
+        }
+      ],
+      "department": "Prints",
+      "collection": "PR - Woodcut",
+      "type": "Print",
+      "measurements": "Image: 25.2 x 38.3 cm (9 15/16 x 15 1/16 in.); Sheet: 36.6 x 45.9 cm (14 7/16 x 18 1/16 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.366,
+          "width": 0.459
+        },
+        "image": {
+          "height": 0.252,
+          "width": 0.383
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Ann Baumann Trust",
+      "inscriptions": [
+        {
+          "inscription": "lower margin, in graphite: Desert Creatures Gustave Baumann 56-100",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 324227,
+            "title": "Gustave Baumann: Colorful Cuts",
+            "description": "<i>Gustave Baumann: Colorful Cuts</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 20, 2020-June 27, 2021).",
+            "opening_date": "2020-12-20T05:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Shifting, glistening gypsum dunes, some as much as 40 feet high, are located in the Tularosa Basin, part of the White Sands National Monument near Alamogordo, New Mexico. Baumann mischievously placed Camel Rock, a legendary formation located between Taos and Santa Fe, among the unusual shapes he found in the Tularosa Basin.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79991772"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "catalogue_raisonne": "Chamberlain 185",
+      "url": "https://clevelandart.org/art/2005.414",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Ann Baumann",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 164331,
+      "creators": [
+        {
+          "id": 42672,
+          "description": "Gustave Baumann (American, born Germany, 1881–1971)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1881",
+          "death_year": "1971",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2006-02-27T00:00:00",
+      "sortable_date": 1951,
+      "date_added_to_oa": null,
+      "date_text": "1951, printed 1967",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Desert Rock Garden",
+        "Lava and White Sands",
+        "Malpai and White Sands",
+        "White Sand and Lava"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:10.437000"
+    },
+    {
+      "id": 170874,
+      "accession_number": "2013.344",
+      "share_license_status": "CC0",
+      "tombstone": "Women bathing before an architectural panorama, c. 1765. Fayzullah (Indian, active c. 1730–1765). Gum tempera and gold on paper. The Cleveland Museum of Art, Gift in honor of Madeline Neves Clapp; Gift of Mrs. Henry White Cannon by exchange; Bequest of Louise T. Cooper; Leonard C. Hanna Jr. Fund; From the Catherine and Ralph Benkaim Collection, 2013.344",
+      "current_location": null,
+      "title": "Women bathing before an architectural panorama",
+      "creation_date": "c. 1765",
+      "creation_date_earliest": 1760,
+      "creation_date_latest": 1770,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "India, Lucknow, Mughal"
+      ],
+      "technique": "Gum tempera and gold on paper",
+      "support_materials": [],
+      "department": "Indian and Southeast Asian Art",
+      "collection": "Indian Art - Mughal",
+      "type": "Painting",
+      "dimensions": {
+        "painting only": {
+          "height": 0.322,
+          "width": 0.227
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Persian inscription in center, on marble balustrade, in nasta‘liq script:\nThe work of Fayzullah",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": 1
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 202597,
+            "title": "Imagining the Garden",
+            "description": "<i>Imagining the Garden</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 24, 2015-March 6, 2016).",
+            "opening_date": "2015-10-24T00:00:00"
+          },
+          {
+            "id": 203111,
+            "title": "Art and Stories from Mughal India",
+            "description": "<i>Art and Stories from Mughal India</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 31-October 23, 2016).",
+            "opening_date": "2016-07-31T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Sotheby Parke Bernet, New York, Oriental Miniatures, Fine Books, Autographs, 28 February 1974, lot 131)",
+          "citations": [],
+          "footnotes": null,
+          "date": "February 28, 1974",
+          "sortorder": 1
+        },
+        {
+          "description": "(Christie’s, London, Important Islamic, Indian and Southeast Asian Manuscripts, Miniatures and Works of Art, 11 April 1989, lot 94)",
+          "citations": [],
+          "footnotes": null,
+          "date": "April 11, 1989",
+          "sortorder": 2
+        },
+        {
+          "description": "Ralph Benkaim [1914–2001] and Catherine Glynn Benkaim [b. 1946], Beverly Hills, CA",
+          "citations": [],
+          "footnotes": null,
+          "date": "1989–2001",
+          "sortorder": 3
+        },
+        {
+          "description": "Catherine Glynn Benkaim and Barbara Timmer, Beverly Hills, CA, partial sale and gift to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": [],
+          "date": "2001–2013",
+          "sortorder": 4
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "2013–",
+          "sortorder": 5
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The artist signed his name below the king’s seat that overlooks the garden vista.",
+      "description": "Despite the wars waged and forts besieged in the background, life in the palace is carefree and luxurious. Some women enjoy hookahs and music on balconies, while others swim and drink liquor with abandon from Chinese porcelain cups and bottles. The artist has placed his name under the central pavilion, observing the scene across a formal garden of marigolds. The artist seems to have enjoyed experimenting with the idea of perspective, learned from European sources. He created a rapidly receding space that telescopes the view from the intimate harem quarters to the distant battlefields.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60482201"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2013.344-women-bathing-before"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Ellcock, Stephen. <em>The Book of Change: Images to Inspire Revelations and Revolutions.</em> London: September Publishing, 2021.",
+          "page_number": "Reproduced: p. 105",
+          "url": ""
+        },
+        {
+          "citation": "Mace, Sonya Rhie, Mohsen Ashtiany, Catherine Glynn, Pedro Moura Carvalho, Marcus Fraser, and Ruby Lal. <em>Mughal Paintings: Art and Stories: the Cleveland Museum of Art</em>. London: D Giles Limited, 2016.",
+          "page_number": "Mentioned and Reproduced: cat. 91, pp. 284, 286, and 288",
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/2013.344",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2013.344/2013.344_web.jpg",
+          "width": "654",
+          "height": "900",
+          "filesize": "303789",
+          "filename": "2013.344_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2013.344/2013.344_print.jpg",
+          "width": "2469",
+          "height": "3400",
+          "filesize": "3358091",
+          "filename": "2013.344_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2013.344/2013.344_full.tif",
+          "width": "5316",
+          "height": "7322",
+          "filesize": "116806804",
+          "filename": "2013.344_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2014-03-17T15:25:32",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2013.344/2013.344_alt0_web.jpg",
+            "width": "900",
+            "height": "671",
+            "filesize": "302143"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2013.344/2013.344_alt0_print.jpg",
+            "width": "3400",
+            "height": "2534",
+            "filesize": "3239259"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2013.344/2013.344_alt0_full.tif",
+            "width": "7355",
+            "height": "5482",
+            "filesize": "120994880"
+          }
+        },
+        {
+          "date_created": "2014-03-17T15:29:10",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2013.344/2013.344_alt1_web.jpg",
+            "width": "900",
+            "height": "619",
+            "filesize": "235610"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2013.344/2013.344_alt1_print.jpg",
+            "width": "3400",
+            "height": "2338",
+            "filesize": "2482808"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2013.344/2013.344_alt1_full.tif",
+            "width": "6378",
+            "height": "4385",
+            "filesize": "83935304"
+          }
+        },
+        {
+          "date_created": "2014-03-17T15:20:58",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2013.344/2013.344_alt2_web.jpg",
+            "width": "741",
+            "height": "900",
+            "filesize": "344346"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2013.344/2013.344_alt2_print.jpg",
+            "width": "2798",
+            "height": "3400",
+            "filesize": "3463449"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2013.344/2013.344_alt2_full.tif",
+            "width": "4937",
+            "height": "6000",
+            "filesize": "88902968"
+          }
+        },
+        {
+          "date_created": "2014-03-17T15:27:36",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2013.344/2013.344_alt3_web.jpg",
+            "width": "900",
+            "height": "896",
+            "filesize": "410568"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2013.344/2013.344_alt3_print.jpg",
+            "width": "3400",
+            "height": "3386",
+            "filesize": "4150580"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2013.344/2013.344_alt3_full.tif",
+            "width": "5254",
+            "height": "5233",
+            "filesize": "82521308"
+          }
+        },
+        {
+          "date_created": "2014-03-17T15:38:16",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2013.344/2013.344_alt4_web.jpg",
+            "width": "900",
+            "height": "583",
+            "filesize": "213662"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2013.344/2013.344_alt4_print.jpg",
+            "width": "3400",
+            "height": "2204",
+            "filesize": "2243969"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2013.344/2013.344_alt4_full.tif",
+            "width": "7775",
+            "height": "5040",
+            "filesize": "117590488"
+          }
+        },
+        {
+          "date_created": "2014-03-17T15:55:35",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2013.344/2013.344_alt5_web.jpg",
+            "width": "900",
+            "height": "900",
+            "filesize": "313318"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2013.344/2013.344_alt5_print.jpg",
+            "width": "3400",
+            "height": "3399",
+            "filesize": "3415318"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2013.344/2013.344_alt5_full.tif",
+            "width": "5275",
+            "height": "5273",
+            "filesize": "83480188"
+          }
+        },
+        {
+          "date_created": "2014-03-18T14:22:38",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2013.344/2013.344_alt6_web.jpg",
+            "width": "526",
+            "height": "900",
+            "filesize": "221765"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2013.344/2013.344_alt6_print.jpg",
+            "width": "1987",
+            "height": "3400",
+            "filesize": "2212019"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2013.344/2013.344_alt6_full.tif",
+            "width": "4447",
+            "height": "7610",
+            "filesize": "101558012"
+          }
+        },
+        {
+          "date_created": "2015-09-01T16:07:52",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2013.344/2013.344_alt7_web.jpg",
+            "width": "655",
+            "height": "900",
+            "filesize": "178035"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2013.344/2013.344_alt7_print.jpg",
+            "width": "2474",
+            "height": "3400",
+            "filesize": "1980044"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2013.344/2013.344_alt7_full.tif",
+            "width": "4657",
+            "height": "6399",
+            "filesize": "89430860"
+          }
+        }
+      ],
+      "creditline": "Gift in honor of Madeline Neves Clapp; Gift of Mrs. Henry White Cannon by exchange; Bequest of Louise T. Cooper; Leonard C. Hanna Jr. Fund; From the Catherine and Ralph Benkaim Collection",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 170874,
+      "creators": [
+        {
+          "id": 63551,
+          "description": "Fayzullah (Indian, active c. 1730–1765)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2013-12-02T00:00:00",
+      "sortable_date": 1760,
+      "date_added_to_oa": null,
+      "date_text": "c. 1765",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:35.185000"
+    },
+    {
+      "id": 317683,
+      "accession_number": "2018.772",
+      "share_license_status": "Copyrighted",
+      "tombstone": "USA. NYC. Garden Cafeteria: Untitled (51235), 1973. Bruce Davidson (American, b. 1933). Gelatin silver print; paper: 61 x 50.8 cm (24 x 20 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.772. © Bruce Davidson/Magnum Photos",
+      "current_location": null,
+      "title": "Untitled (51235)",
+      "series": "USA. NYC. Garden Cafeteria",
+      "creation_date": "1973",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 61 x 50.8 cm (24 x 20 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.61,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Bruce Davidson/Magnum Photos",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Many of the clients who frequented this restaurant on New York’s Lower East Side were Holocaust survivors.",
+      "description": "Davidson encountered the Garden Cafeteria in the early 1970s while making a film on Polish-born American author Isaac Bashevis Singer, who was a regular customer. Its clientele, mostly Jews who immigrated after World War II, appealed to Davidson because his own family were Jews who had emigrated from Poland. He spent hours with his sitters, learning their histories before empathetically clicking the shutter.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876541"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.772",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317683,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:36.604000"
+    },
+    {
+      "id": 667932,
+      "accession_number": "2024.6.ii",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: View in the Large Garden, Jellalabad, 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.ii",
+      "current_location": null,
+      "title": "View in the Large Garden, Jellalabad",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448807"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.ii",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.ii/2024.6.ii_web.jpg",
+          "width": "900",
+          "height": "750",
+          "filesize": "303472",
+          "filename": "2024.6.ii_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.ii/2024.6.ii_print.jpg",
+          "width": "3400",
+          "height": "2835",
+          "filesize": "3942178",
+          "filename": "2024.6.ii_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.ii/2024.6.ii_full.tif",
+          "width": "6084",
+          "height": "5073",
+          "filesize": "92625190",
+          "filename": "2024.6.ii_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-25T15:07:40",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.ii/2024.6.ii_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "144600"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.ii/2024.6.ii_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "2088851"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.ii/2024.6.ii_alt0_full.tif",
+            "width": "14204",
+            "height": "9353",
+            "filesize": "398579398"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667932,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:33.335000"
+    },
+    {
+      "id": 153727,
+      "accession_number": "1987.35",
+      "share_license_status": "CC0",
+      "tombstone": "Oath of the Peach Garden, from Romance of the Three Kingdoms (『三国志演義』桃園結義図), c. 1780. Matsumura Goshun (Japanese, 1752–1811). Hanging scroll; ink and color on silk; image: 28.2 x 25.2 cm (11 1/8 x 9 15/16 in.); including mounting: 114.3 x 44.2 cm (45 x 17 3/8 in.). The Cleveland Museum of Art, John L. Severance Fund, 1987.35",
+      "current_location": null,
+      "title": "Oath of the Peach Garden, from Romance of the Three Kingdoms",
+      "title_in_original_language": "『三国志演義』桃園結義図",
+      "creation_date": "c. 1780",
+      "creation_date_earliest": 1775,
+      "creation_date_latest": 1785,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Japan, Edo period (1615–1868)"
+      ],
+      "technique": "hanging scroll; ink and color on silk",
+      "support_materials": [],
+      "department": "Japanese Art",
+      "collection": "ASIAN - Hanging scroll",
+      "type": "Painting",
+      "measurements": "Image: 28.2 x 25.2 cm (11 1/8 x 9 15/16 in.); Including mounting: 114.3 x 44.2 cm (45 x 17 3/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.282,
+          "width": 0.252
+        },
+        "including mounting": {
+          "height": 1.143,
+          "width": 0.442
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Artist's signature and seal at upper right",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": 1
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 310026,
+            "title": "Byobu: The Art of the Japanese Screen",
+            "description": "<i>Byobu: The Art of the Japanese Screen</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 8, 1987-January 10, 1988).",
+            "opening_date": "1987-12-08T05:00:00"
+          },
+          {
+            "id": 310231,
+            "title": "The Year in Review for 1987",
+            "description": "<i>The Year in Review for 1987</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 24-April 17, 1988).",
+            "opening_date": "1988-02-24T05:00:00"
+          },
+          {
+            "id": 311497,
+            "title": "Asian Autumn: Splendid Variety: 18th-Century Art in Japan",
+            "description": "<i>Asian Autumn: Splendid Variety: 18th-Century Art in Japan</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 16, 1993-March 6, 1994).",
+            "opening_date": "1993-11-16T05:00:00"
+          },
+          {
+            "id": 185596,
+            "title": "Unfolding Beauty:  Japanese Screens from the Cleveland Museum of Art",
+            "description": "<i>Unfolding Beauty:  Japanese Screens from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 15-September 16, 2001).",
+            "opening_date": "2001-07-15T00:00:00"
+          },
+          {
+            "id": 197104,
+            "title": "The Lure of Painted Poetry: Japanese and Korean Art",
+            "description": "<i>The Lure of Painted Poetry: Japanese and Korean Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 15-August 21, 2011).",
+            "opening_date": "2011-03-27T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "<em>Main Asian Rotation (Gallery 121)</em>. The Cleveland Museum of Art, Cleveland, OH (March 10-July 16, 2003).",
+            "opening_date": "2003-03-10T05:00:00Z"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "(Katsuhiro Kobayashi, Tokyo, Japan, sold to the Cleveland Museum of Art)",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1987",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1987–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Matsumura Goshun was trained in literati art by Yosa Buson and Maruyama Ōkyo.",
+      "description": "This painting depicts a pivotal scene from the classic Chinese historical novel <em>Romance of the Three Kingdoms</em>. Three men, Liu Bei, seen to the left, and Guan Yu and Zhang Fei, seen to the right, become sworn brothers amid peach blossom trees. Set toward the end of China’s Eastern Han dynasty (25–220 CE), the episode features the tagline “We seek not to be born on the same day but hope that we may die on the same day.” Written in the 1300s, the first published translation in Japanese appeared around 1690, after which it exploded in popularity.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60475983"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1987.35-romance-of-the-three"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Cunningham, Michael R. <em>Unfolding Beauty: Japanese Screens from the Cleveland Museum of Art</em>. Cleveland, OH: Cleveland Museum of Art, 2001.",
+          "page_number": "Mentioned: p. 86",
+          "url": ""
+        },
+        {
+          "citation": "Sŏn, Sŭng-hye. <em>The Lure of Painted Poetry: Japanese and Korean Art.</em> Cleveland, OH: Cleveland Museum of Art, 2011.",
+          "page_number": "Mentioned and Reproduced: pp. 52–53, no. 28",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1987.35",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1987.35/1987.35_web.jpg",
+          "width": "797",
+          "height": "893",
+          "filesize": "582422",
+          "filename": "1987.35_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1987.35/1987.35_print.jpg",
+          "width": "3033",
+          "height": "3400",
+          "filesize": "9314760",
+          "filename": "1987.35_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1987.35/1987.35_full.tif",
+          "width": "4474",
+          "height": "5015",
+          "filesize": "67341720",
+          "filename": "1987.35_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2010-10-12T18:46:06",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1987.35/1987.35_alt0_web.jpg",
+            "width": "345",
+            "height": "893",
+            "filesize": "232018"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1987.35/1987.35_alt0_print.jpg",
+            "width": "1314",
+            "height": "3400",
+            "filesize": "3838481"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1987.35/1987.35_alt0_full.tif",
+            "width": "2513",
+            "height": "6498",
+            "filesize": "49014408"
+          }
+        }
+      ],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 153727,
+      "creators": [
+        {
+          "id": 6178,
+          "description": "Matsumura Goshun (Japanese, 1752–1811)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "松村呉春",
+          "birth_year": "1752",
+          "death_year": "1811",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1987-03-16T00:00:00",
+      "sortable_date": 1775,
+      "date_added_to_oa": null,
+      "date_text": "c. 1780",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Romance of the Three Kingdoms"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-04-09 18:50:39.952000"
+    },
+    {
+      "id": 317680,
+      "accession_number": "2018.769",
+      "share_license_status": "Copyrighted",
+      "tombstone": "USA. NYC. Garden Cafeteria: Untitled (50244), 1973. Bruce Davidson (American, b. 1933). Gelatin silver print; paper: 50.8 x 40.6 cm (20 x 16 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.769. © Bruce Davidson/Magnum Photos",
+      "current_location": null,
+      "title": "Untitled (50244)",
+      "series": "USA. NYC. Garden Cafeteria",
+      "creation_date": "1973",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 50.8 x 40.6 cm (20 x 16 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.508,
+          "width": 0.406
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Bruce Davidson/Magnum Photos",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Many of the clients who frequented this restaurant on New York’s Lower East Side were Holocaust survivors.",
+      "description": "Davidson encountered the Garden Cafeteria in the early 1970s while making a film on Polish-born American author Isaac Bashevis Singer, who was a regular customer. Its clientele, mostly Jews who immigrated after World War II, appealed to Davidson because his own family were Jews who had emigrated from Poland. He spent hours with his sitters, learning their histories before empathetically clicking the shutter.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876532"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.769",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317680,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:05:04.529000"
+    },
+    {
+      "id": 317676,
+      "accession_number": "2018.765",
+      "share_license_status": "Copyrighted",
+      "tombstone": "USA. NYC. Garden Cafeteria: Untitled (50182), 1973. Bruce Davidson (American, b. 1933). Gelatin silver print; paper: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.765. © Bruce Davidson/Magnum Photos",
+      "current_location": null,
+      "title": "Untitled (50182)",
+      "series": "USA. NYC. Garden Cafeteria",
+      "creation_date": "1973",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Bruce Davidson/Magnum Photos",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Many of the customers who frequented this restaurant on New York’s Lower East Side were Holocaust survivors.",
+      "description": "Davidson encountered the Garden Cafeteria in the early 1970s while making a film on Polish-born American author Isaac Bashevis Singer, who was a regular customer. Its clientele, mostly Jews who immigrated after World War II, appealed to Davidson because his own family were Jews who had emigrated from Poland. He spent hours with his sitters, learning their histories before empathetically clicking the shutter.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876518"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.765",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317676,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:42.672000"
+    },
+    {
+      "id": 317684,
+      "accession_number": "2018.773",
+      "share_license_status": "Copyrighted",
+      "tombstone": "USA. NYC. Garden Cafeteria: Untitled (53742), 1973. Bruce Davidson (American, b. 1933). Gelatin silver print; paper: 25.4 x 20.3 cm (10 x 8 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.773. © Bruce Davidson/Magnum Photos",
+      "current_location": null,
+      "title": "Untitled (53742)",
+      "series": "USA. NYC. Garden Cafeteria",
+      "creation_date": "1973",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 25.4 x 20.3 cm (10 x 8 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.254,
+          "width": 0.203
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Bruce Davidson/Magnum Photos",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Many of the customers who frequented this restaurant on New York’s Lower East Side were Holocaust survivors.",
+      "description": "Davidson encountered the Garden Cafeteria in the early 1970s while making a film on Polish-born American author Isaac Bashevis Singer, who was a regular customer. Its clientele, mostly Jews who immigrated after World War II, appealed to Davidson because his own family were Jews who had emigrated from Poland. He spent hours with his sitters, learning their histories before empathetically clicking the shutter.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876545"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.773",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317684,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:04.790000"
+    },
+    {
+      "id": 127223,
+      "accession_number": "1949.540",
+      "share_license_status": "CC0",
+      "tombstone": "Agony in the Garden, c.1490–1500. Francesco Rosselli (Italian, 1448-before 1513). Engraving. The Cleveland Museum of Art, Dudley P. Allen Fund, 1949.540",
+      "current_location": null,
+      "title": "Agony in the Garden",
+      "creation_date": "c.1490–1500",
+      "creation_date_earliest": 1490,
+      "creation_date_latest": 1500,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Italy, Florence, 15th century"
+      ],
+      "technique": "engraving",
+      "support_materials": [],
+      "department": "Prints",
+      "collection": "PR - Engraving",
+      "type": "Print",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 311898,
+            "title": "35th Anniversary Exhibition",
+            "description": "<i>35th Anniversary Exhibition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 20-September 30, 1951).",
+            "opening_date": "1951-06-20T04:00:00"
+          },
+          {
+            "id": 301170,
+            "title": "Prints 1400-1800",
+            "description": "<i>Prints 1400-1800</i>. The Cleveland Museum of Art, Cleveland, OH (December 18, 1956-January 20, 1957); The Art Institute of Chicago, Chicago, IL (February 1-March 3, 1957); Minneapolis Institute of Art, Minneapolis, MN (November 1-December 1, 1957).",
+            "opening_date": "1956-12-18T05:00:00"
+          },
+          {
+            "id": 301184,
+            "title": "Department of Prints and Drawings Opening Exhibition",
+            "description": "<i>Department of Prints and Drawings Opening Exhibition</i>. The Cleveland Museum of Art (organizer) (March 3, 1958-October 11, 1959).",
+            "opening_date": "1958-03-03T05:00:00"
+          },
+          {
+            "id": 302205,
+            "title": "Art and Humanism in the Renaissance",
+            "description": "<i>Art and Humanism in the Renaissance</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 23-February 25, 1962).",
+            "opening_date": "1962-01-23T05:00:00"
+          },
+          {
+            "id": 350269,
+            "title": "Prints and Drawings from the Cleveland Museum of Art Collection",
+            "description": "<i>Prints and Drawings from the Cleveland Museum of Art Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 6-September 9, 1965).",
+            "opening_date": "1965-05-06T04:00:00"
+          },
+          {
+            "id": 350752,
+            "title": "Old Master Prints and Drawings",
+            "description": "<i>Old Master Prints and Drawings</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 29, 1966-February 28, 1967).",
+            "opening_date": "1966-07-29T04:00:00"
+          },
+          {
+            "id": 301412,
+            "title": "Florence and the Arts: Five Centuries of Patronage",
+            "description": "<i>Florence and the Arts: Five Centuries of Patronage</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 13-September 19, 1971).",
+            "opening_date": "1971-07-13T04:00:00"
+          },
+          {
+            "id": 185234,
+            "title": "Early Italian Engraving: 1460's - 1530's",
+            "description": "<i>Early Italian Engraving: 1460's - 1530's</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 25-October 27, 2002).",
+            "opening_date": "2002-08-25T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; August 25-October 27, 2002.  \"Early Italian Engravings: 1460s - 1530s.\"",
+            "opening_date": "2002-08-25T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79907072"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1949.540-agony-in-the-garden"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Francis, Henry. \"Florentine Engravings of the Fifteenth Century.\" <em>The Bulletin of the Cleveland Museum of Art </em>38, no. 3 (March 1951): 63-65.",
+          "page_number": "Mentioned: p. 65; Reproduced: p. 67",
+          "url": "https://www.jstor.org/stable/25141699"
+        }
+      ],
+      "url": "https://clevelandart.org/art/1949.540",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1949.540/1949.540_web.jpg",
+          "width": "629",
+          "height": "900",
+          "filesize": "354738",
+          "filename": "1949.540_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1949.540/1949.540_print.jpg",
+          "width": "2376",
+          "height": "3400",
+          "filesize": "4068463",
+          "filename": "1949.540_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1949.540/1949.540_full.tif",
+          "width": "9593",
+          "height": "13730",
+          "filesize": "395165132",
+          "filename": "1949.540_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Dudley P. Allen Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 127223,
+      "creators": [
+        {
+          "id": 38718,
+          "description": "Francesco Rosselli (Italian, 1448-before 1513)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1448",
+          "death_year": "1513",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1949-12-23T00:00:00",
+      "sortable_date": 1490,
+      "date_added_to_oa": null,
+      "date_text": "c.1490–1500",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:09.560000"
+    },
+    {
+      "id": 317672,
+      "accession_number": "2018.762",
+      "share_license_status": "Copyrighted",
+      "tombstone": "USA. NYC. Garden Cafeteria: Untitled (48376), 1973. Bruce Davidson (American, b. 1933). Gelatin silver print; paper: 27.9 x 35.6 cm (11 x 14 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.762. © Bruce Davidson/Magnum Photos",
+      "current_location": null,
+      "title": "Untitled (48376)",
+      "series": "USA. NYC. Garden Cafeteria",
+      "creation_date": "1973",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 27.9 x 35.6 cm (11 x 14 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.279,
+          "width": 0.356
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Bruce Davidson/Magnum Photos",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Many of the clients who frequented this restaurant on New York’s Lower East Side were Holocaust survivors.",
+      "description": "Davidson encountered the Garden Cafeteria in the early 1970s while making a film on Polish-born American author Isaac Bashevis Singer, who was a regular customer. Its clientele, mostly Jews who immigrated after World War II, appealed to Davidson because his own family were Jews who had emigrated from Poland. He spent hours with his sitters, learning their histories before empathetically clicking the shutter.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876511"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.762",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317672,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:43.201000"
+    },
+    {
+      "id": 317682,
+      "accession_number": "2018.771",
+      "share_license_status": "Copyrighted",
+      "tombstone": "USA. NYC. Garden Cafeteria: Untitled (50251), 1973. Bruce Davidson (American, b. 1933). Gelatin silver print; paper: 50.8 x 40.6 cm (20 x 16 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.771. © Bruce Davidson/Magnum Photos",
+      "current_location": null,
+      "title": "Untitled (50251)",
+      "series": "USA. NYC. Garden Cafeteria",
+      "creation_date": "1973",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 50.8 x 40.6 cm (20 x 16 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.508,
+          "width": 0.406
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Bruce Davidson/Magnum Photos",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Many of the clients who frequented this restaurant on New York’s Lower East Side were Holocaust survivors.",
+      "description": "Davidson encountered the Garden Cafeteria in the early 1970s while making a film on Polish-born American author Isaac Bashevis Singer, who was a regular customer. Its clientele, mostly Jews who immigrated after World War II, appealed to Davidson because his own family were Jews who had emigrated from Poland. He spent hours with his sitters, learning their histories before empathetically clicking the shutter.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876538"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.771",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317682,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:53.925000"
+    },
+    {
+      "id": 317675,
+      "accession_number": "2018.764",
+      "share_license_status": "Copyrighted",
+      "tombstone": "USA. NYC. Garden Cafeteria: Untitled (50180), 1973. Bruce Davidson (American, b. 1933). Gelatin silver print; paper: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.764. © Bruce Davidson/Magnum Photos",
+      "current_location": null,
+      "title": "Untitled (50180)",
+      "series": "USA. NYC. Garden Cafeteria",
+      "creation_date": "1973",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Bruce Davidson/Magnum Photos",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Many of the clients who frequented this restaurant on New York’s Lower East Side were Holocaust survivors.",
+      "description": "Davidson encountered the Garden Cafeteria in the early 1970s while making a film on Polish-born American author Isaac Bashevis Singer, who was a regular customer. Its clientele, mostly Jews who immigrated after World War II, appealed to Davidson because his own family were Jews who had emigrated from Poland. He spent hours with his sitters, learning their histories before empathetically clicking the shutter.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876514"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.764",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317675,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:38.892000"
+    }
+  ]
+}

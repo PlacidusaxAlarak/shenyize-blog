@@ -1,0 +1,122 @@
+{
+  "data": {
+    "id": 140103,
+    "accession_number": "1964.111",
+    "share_license_status": "Copyrighted",
+    "tombstone": "14th Street, The Wigwam, 1928. John Sloan (American, 1871–1951). Etching; matted: 56.2 x 40.6 cm (22 1/8 x 16 in.); image: 24.7 x 17.6 cm (9 3/4 x 6 15/16 in.); sheet: 46.3 x 31.6 cm (18 1/4 x 12 7/16 in.). The Cleveland Museum of Art, Mr. and Mrs. Charles G. Prasse Collection, 1964.111. ©  Delaware Art Museum / Artists Rights Society (ARS), New York",
+    "current_location": null,
+    "title": "14th Street, The Wigwam",
+    "creation_date": "1928",
+    "creation_date_earliest": 1928,
+    "creation_date_latest": 1928,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "etching",
+    "support_materials": [],
+    "department": "Prints",
+    "collection": "PR - Etching",
+    "type": "Print",
+    "measurements": "Matted: 56.2 x 40.6 cm (22 1/8 x 16 in.); Image: 24.7 x 17.6 cm (9 3/4 x 6 15/16 in.); Sheet: 46.3 x 31.6 cm (18 1/4 x 12 7/16 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.247,
+        "width": 0.176
+      },
+      "sheet": {
+        "height": 0.463,
+        "width": 0.316
+      },
+      "matted": {
+        "height": 0.562,
+        "width": 0.406
+      }
+    },
+    "state_of_the_work": "VII/VII",
+    "edition_of_the_work": null,
+    "copyright": "©  Delaware Art Museum / Artists Rights Society (ARS), New York",
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 351228,
+          "title": "Mr. and Mrs. Charles G. Prasse Collection",
+          "description": "<i>Mr. and Mrs. Charles G. Prasse Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 11-October 21, 1968).",
+          "opening_date": "1968-06-11T04:00:00"
+        },
+        {
+          "id": 304542,
+          "title": "Promenades, Pageants, Processions, and Pilgrimages",
+          "description": "<i>Promenades, Pageants, Processions, and Pilgrimages</i>. The Cleveland Museum of Art (organizer) (August 25, 1981-January 3, 1982).",
+          "opening_date": "1981-08-25T04:00:00"
+        },
+        {
+          "id": 381923,
+          "title": "Ashcan School Prints and the American City, 1900–1940",
+          "description": "<i>Ashcan School Prints and the American City, 1900–1940</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 18-December 26, 2021).",
+          "opening_date": "2021-07-17T04:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "The year that Sloan made this print depicting the headquarters of the Tammany Society on fourteenth street, the society sold the building and relocated to Union Square.",
+    "description": "City streets were the site of socializing and entertainment as well as of political events and parades. Here, John Sloan depicted the street outside the headquarters of Tammany Hall, a fraternal society formed in 1789 that became a champion of the working class and was crucial to helping immigrants, especially the Irish, rise in politics in the early 1900s. The society was originally named for Chief Tamanend, a leader of the Lenape people during the colonial era, and its entirely white membership appropriated native terms, such as “wigwam,” into club lingo. By the time of Sloan’s print, the Tammany Society was a strong supporter of the Democratic Party but also known for corruption.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q80037786"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "catalogue_raisonne": "Morse 235",
+    "url": "https://clevelandart.org/art/1964.111",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Mr. and Mrs. Charles G. Prasse Collection",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 140103,
+    "creators": [
+      {
+        "id": 3285,
+        "description": "John Sloan (American, 1871–1951)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1871",
+        "death_year": "1951",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1964-05-06T00:00:00",
+    "sortable_date": 1928,
+    "date_added_to_oa": null,
+    "date_text": "1928",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:00:20.689000"
+  }
+}

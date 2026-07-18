@@ -1,0 +1,133 @@
+{
+  "data": {
+    "id": 372009,
+    "accession_number": "2020.298",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Carousel, Paris, 1932. Ilse Bing (American, 1899–1998). Gelatin silver print; image: 38.6 x 48.8 cm (15 3/16 x 19 3/16 in.); paper: 40.1 x 50.5 cm (15 13/16 x 19 7/8 in.). The Cleveland Museum of Art, Gift of Michael Mattis and Judith Hochberg, 2020.298. © Estate of Ilse Bing",
+    "current_location": null,
+    "title": "Carousel, Paris",
+    "creation_date": "1932",
+    "creation_date_earliest": 1932,
+    "creation_date_latest": 1932,
+    "artists_tags": [
+      "female"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "gelatin silver print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1900-1950",
+    "type": "Photograph",
+    "measurements": "Image: 38.6 x 48.8 cm (15 3/16 x 19 3/16 in.); Paper: 40.1 x 50.5 cm (15 13/16 x 19 7/8 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.386,
+        "width": 0.488
+      },
+      "paper": {
+        "height": 0.401,
+        "width": 0.505
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": "© Estate of Ilse Bing",
+    "inscriptions": [
+      {
+        "inscription": "Written in black ink in lower left, recto: “ILSE BING/1932”",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      },
+      {
+        "inscription": "Written in pencil on verso: “ILSE/BING/1932/PARIS/(1990)”",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Estate of the Artist",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": 1
+      },
+      {
+        "description": "Michael Mattis and Judith Hochberg, Scarsdale, NY",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": 2
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "December 7, 2020",
+        "sortorder": 3
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "Riding a merry-go-round may be a rare treat in the United States but is a common one in France.",
+    "description": "Paris has a number of carousels; the oldest still in use was made in 1879. When Bing first moved to Paris, she received assignments from a newspaper in her native Frankfurt, Germany, to photograph the city and its amusements, including popular public entertainments like the carousel.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q117243293"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2020.298",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Michael Mattis and Judith Hochberg",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 372009,
+    "creators": [
+      {
+        "id": 291349,
+        "description": "Ilse Bing (American, 1899–1998)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "American and German photographer, born 1899 or 1900, died 1998",
+        "name_in_original_language": null,
+        "birth_year": "1899",
+        "death_year": "1998",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2020-12-07T00:00:00-05:00",
+    "sortable_date": 1932,
+    "date_added_to_oa": null,
+    "date_text": "1932",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:07:08.735000"
+  }
+}

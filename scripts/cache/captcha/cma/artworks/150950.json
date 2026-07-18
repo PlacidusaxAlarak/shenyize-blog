@@ -1,0 +1,118 @@
+{
+  "data": {
+    "id": 150950,
+    "accession_number": "1982.355",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Flower Garden, 1963. Sadao Watanabe (Japanese, 1913–1996). Dyed paper stencil. The Cleveland Museum of Art, Gift of Mr. and Mrs. William E. Ward, 1982.355",
+    "current_location": null,
+    "title": "Flower Garden",
+    "creation_date": "1963",
+    "creation_date_earliest": 1963,
+    "creation_date_latest": 1963,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "Japan"
+    ],
+    "technique": "dyed paper stencil",
+    "support_materials": [],
+    "department": "Prints",
+    "collection": "PR - Stencil (pouchoir)",
+    "type": "Print",
+    "dimensions": {},
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 309669,
+          "title": "The Year in Review for 1983",
+          "description": "<i>The Year in Review for 1983</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 22-April 8, 1984).",
+          "opening_date": "1984-02-22T05:00:00"
+        },
+        {
+          "id": 310104,
+          "title": "A Tradition Transformed: Japanese Prints, 1947-1987",
+          "description": "<i>A Tradition Transformed: Japanese Prints, 1947-1987</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 9-April 24, 1988).",
+          "opening_date": "1988-02-09T05:00:00"
+        }
+      ],
+      "legacy": [
+        {
+          "description": "CMA Bulletin, LXXI (February 1984), p. 76, no. 212",
+          "opening_date": "1984-02-01T00:00:00"
+        },
+        {
+          "description": "Cleveland, Ohio:  The Cleveland Museum of Art; December 12, 2004- April 10, 2005. \"Visions of Japan: Prints and Paintings from Cleveland Collections\".",
+          "opening_date": "2004-12-12T00:00:00"
+        }
+      ]
+    },
+    "provenance": [
+      {
+        "description": "Mr. and Mrs. William E. Ward, Solon",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": null
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "Watanabe is associated with the Japanese folk art movement\r\nthat admired traditional crafts, like stencil, for their\r\nunpretentiousness. Here, Watanabe employed wrinkled\r\nhandmade paper, commonly used for book covers and\r\nendpapers, to add texture to the broad areas of flat color and\r\nto emphasize the rough, handcrafted quality of his prints.\r\nThe unsophisticated, folk-like images allude to early Japanese\r\nBuddhist prints, in which black lines, rich color contrasts,\r\nand simple naïve forms are paramount. Being a Christian,\r\nWatanabe often chose religious themes from the Bible.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79933998"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/1982.355",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Mr. and Mrs. William E. Ward",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 150950,
+    "creators": [
+      {
+        "id": 34350,
+        "description": "Sadao Watanabe (Japanese, 1913–1996)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1913",
+        "death_year": "1996",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1983-03-07T00:00:00",
+    "sortable_date": 1963,
+    "date_added_to_oa": null,
+    "date_text": "1963",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:03:07.091000"
+  }
+}

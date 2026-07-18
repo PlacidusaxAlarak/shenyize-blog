@@ -1,0 +1,131 @@
+{
+  "data": {
+    "id": 85878,
+    "accession_number": "2018.254",
+    "share_license_status": "Copyrighted",
+    "tombstone": "The Autonomous Spiral, 1949 (printed before 1979). Clarence John Laughlin (American, 1905–1985). Gelatin silver print; image: 34.1 x 26.9 cm (13 7/16 x 10 9/16 in.); paper: 34.1 x 26.9 cm (13 7/16 x 10 9/16 in.); mounted: 43.3 x 35.5 cm (17 1/16 x 14 in.). The Cleveland Museum of Art, Gift of Tom E. Hinson and Diana S. Tittle, 2018.254",
+    "current_location": null,
+    "title": "The Autonomous Spiral",
+    "creation_date": "1949 (printed before 1979)",
+    "creation_date_earliest": 1949,
+    "creation_date_latest": 1949,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "gelatin silver print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "Photography",
+    "type": "Photograph",
+    "measurements": "Image: 34.1 x 26.9 cm (13 7/16 x 10 9/16 in.); Paper: 34.1 x 26.9 cm (13 7/16 x 10 9/16 in.); Mounted: 43.3 x 35.5 cm (17 1/16 x 14 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.341,
+        "width": 0.269
+      },
+      "paper": {
+        "height": 0.341,
+        "width": 0.269
+      },
+      "mounted": {
+        "height": 0.433,
+        "width": 0.355
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Written in black ink on recto of mount: “The Autonomous Spiral: 1949 Clarence John Laughlin (signed)”",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "The New Gallery of Contemporary Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": [],
+        "date": "June 1981",
+        "sortorder": 1
+      },
+      {
+        "description": "Tom E. Hinson, Truth or Consequences, NM",
+        "citations": [],
+        "footnotes": [],
+        "date": null,
+        "sortorder": 2
+      },
+      {
+        "description": "the Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": [],
+        "date": "September 4, 2018",
+        "sortorder": 3
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "The spiral staircase is a common feature of Creole architecture found throughout Louisiana.",
+    "description": "Laughlin’s depiction of a staircase transcends architectural documentation to become both a geometric exploration and a dream-like, surreal vision. He gives us a vertiginous view looking up rather than down, warping space through the use of light and shadow and the flattened perspective imposed by his choice of lens.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79471907"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2018.254",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Tom E. Hinson and Diana S. Tittle",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 85878,
+    "creators": [
+      {
+        "id": 65850,
+        "description": "Clarence John Laughlin (American, 1905–1985)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1905",
+        "death_year": "1985",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2018-09-04T00:00:00-04:00",
+    "sortable_date": 1949,
+    "date_added_to_oa": null,
+    "date_text": "1949 (printed before 1979)",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:08:40.117000"
+  }
+}

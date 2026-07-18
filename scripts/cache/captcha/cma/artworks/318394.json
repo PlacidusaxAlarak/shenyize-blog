@@ -1,0 +1,124 @@
+{
+  "data": {
+    "id": 318394,
+    "accession_number": "2018.907",
+    "share_license_status": "Copyrighted",
+    "tombstone": "England/Scotland: Untitled, 1960. Bruce Davidson (American, b. 1933). Gelatin silver print; image: 24 x 16.1 cm (9 7/16 x 6 5/16 in.); paper: 25.2 x 20.2 cm (9 15/16 x 7 15/16 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.907",
+    "current_location": null,
+    "title": "Untitled",
+    "series": "England/Scotland",
+    "creation_date": "1960",
+    "creation_date_earliest": 1960,
+    "creation_date_latest": 1960,
+    "artists_tags": [
+      "male",
+      "Jewish artists"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "gelatin silver print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1951-Present",
+    "type": "Photograph",
+    "measurements": "Image: 24 x 16.1 cm (9 7/16 x 6 5/16 in.); Paper: 25.2 x 20.2 cm (9 15/16 x 7 15/16 in.)",
+    "dimensions": {
+      "paper": {
+        "height": 0.252,
+        "width": 0.202
+      },
+      "image": {
+        "height": 0.24,
+        "width": 0.161
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Written in pencil: \"Bruce Davidson (signed)\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      },
+      {
+        "inscription": "Written in pencil on verso: \"65-43-8/9\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      },
+      {
+        "inscription": "53701",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      },
+      {
+        "inscription": "Commercially imprinted throughout verso of paper: \"Agfa\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "After a year photographing a tough Brooklyn street gang, in 1960 Davidson took a much less tense assignment, to photograph Britain through American eyes.",
+    "description": "Hired by the British lifestyle periodical <em>The Queen </em>to photograph Britain in 1960, Davidson spent three months traveling around the United Kingdom to shed light on the changes Britons were experiencing in the decades after World War II. He was democratic in his selection of subjects, shooting London’s poorest districts, rural culture, and mining operations in addition to England’s upper class.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79876940"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2018.907",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of an anonymous donor",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 318394,
+    "creators": [
+      {
+        "id": 64191,
+        "description": "Bruce Davidson (American, b. 1933)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1933",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2018-12-03T00:00:00-05:00",
+    "sortable_date": 1960,
+    "date_added_to_oa": null,
+    "date_text": "1960",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:05:46.655000"
+  }
+}

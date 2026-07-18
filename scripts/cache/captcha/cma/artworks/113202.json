@@ -1,0 +1,660 @@
+{
+  "data": {
+    "id": 113202,
+    "accession_number": "1932.227",
+    "share_license_status": "CC0",
+    "tombstone": "The Holy Family with Saint John the Baptist and Saint Margaret, c. 1488–93. Filippino Lippi (Italian, c. 1457–1504). Tempera and oil on wood; framed: 184 x 186 x 9.5 cm (72 7/16 x 73 1/4 x 3 3/4 in.); diameter: 153 cm (60 1/4 in.). The Cleveland Museum of Art, The Delia E. Holden Fund and a fund donated as a memorial to Mrs. Holden by her children: Guerdon S. Holden, Delia Holden White, Roberta Holden Bole, Emery Holden Greenough, Gertrude Holden McGinley, 1932.227",
+    "current_location": "117A Italian Renaissance",
+    "title": "The Holy Family with Saint John the Baptist and Saint Margaret",
+    "creation_date": "c. 1488–93",
+    "creation_date_earliest": 1488,
+    "creation_date_latest": 1493,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "Italy"
+    ],
+    "technique": "tempera and oil on wood",
+    "support_materials": [],
+    "department": "Medieval Art",
+    "collection": "MED - Renaissance",
+    "type": "Painting",
+    "measurements": "Framed: 184 x 186 x 9.5 cm (72 7/16 x 73 1/4 x 3 3/4 in.); Diameter: 153 cm (60 1/4 in.)",
+    "dimensions": {
+      "framed": {
+        "height": 1.84,
+        "width": 1.86,
+        "depth": 0.095
+      },
+      "diameter": {
+        "width": 1.53
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 312517,
+          "title": "The Twentieth Anniversary Exhibition: The Official Art Exhibit of the Great Lakes Exposition",
+          "description": "<i>The Twentieth Anniversary Exhibition: The Official Art Exhibit of the Great Lakes Exposition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 26-October 4, 1936).",
+          "opening_date": "1936-06-26T04:00:00"
+        },
+        {
+          "id": 311953,
+          "title": "Classic to Baroque: A Style Change in the Arts",
+          "description": "<i>Classic to Baroque: A Style Change in the Arts</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 30-November 13, 1949).",
+          "opening_date": "1949-09-30T04:00:00"
+        },
+        {
+          "id": 302205,
+          "title": "Art and Humanism in the Renaissance",
+          "description": "<i>Art and Humanism in the Renaissance</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 23-February 25, 1962).",
+          "opening_date": "1962-01-23T05:00:00"
+        },
+        {
+          "id": 301412,
+          "title": "Florence and the Arts: Five Centuries of Patronage",
+          "description": "<i>Florence and the Arts: Five Centuries of Patronage</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 13-September 19, 1971).",
+          "opening_date": "1971-07-13T04:00:00"
+        },
+        {
+          "id": 675363,
+          "title": "Filippino Lippi and Rome",
+          "description": "<i>Filippino Lippi and Rome</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 26, 2025-February 22, 2026).",
+          "opening_date": "2025-11-26T05:00:00"
+        }
+      ],
+      "legacy": [
+        {
+          "description": "<em>Special Exhibition of Paintings from the Collection of the Late Mrs. S.D. Warren</em>, Museum of Fine Arts, Boston, MA (April 1902).",
+          "opening_date": "1902-04-01T00:00:00"
+        },
+        {
+          "description": "<em>Exhibition of Old Masters,</em> Royal Academy, Burlington House, London (January 4–March 12, 1904).",
+          "opening_date": "1904-01-04T05:00:00Z"
+        }
+      ]
+    },
+    "provenance": [
+      {
+        "description": "Presumably commissioned by Cardinal Oliviero Carafa(1430–1511), Rome",
+        "citations": [],
+        "footnotes": null,
+        "date": "c. 1488-93–1511",
+        "sortorder": 1
+      },
+      {
+        "description": "Presumably in Carafa collections by descent, Rome and Naples",
+        "citations": [],
+        "footnotes": null,
+        "date": "1511–",
+        "sortorder": 2
+      },
+      {
+        "description": "Palazzo Santangelo (formerly Palazzo Diomede Carafa until 1814), Naples",
+        "citations": [],
+        "footnotes": null,
+        "date": "by 1815",
+        "sortorder": 3
+      },
+      {
+        "description": "Acquired at Palazzo Diomded Carafa or at Villa Santangelo, Pollena, from the Santangelo family and Ignazio Virzì by Bernardo Berenson and Edward Perry Warren for Susan Cornelia Clarke (Mrs. Samuel Dennis Warren Sr.) (1825–1901), Boston",
+        "citations": [],
+        "footnotes": null,
+        "date": "1898–1901",
+        "sortorder": 4
+      },
+      {
+        "description": "By descent to Cornelia, Edward, Fiske, and Samuel Warren in Boston and Lewes House, East Sussex, United Kingdom",
+        "citations": [],
+        "footnotes": null,
+        "date": "1901–1928",
+        "sortorder": 5
+      },
+      {
+        "description": "Bequeathed to H. Asa Thomas by Edward Warren (1860–1928)",
+        "citations": [],
+        "footnotes": null,
+        "date": "1928–1929",
+        "sortorder": 6
+      },
+      {
+        "description": "Sold by H. Asa Thomas through Harold Woodbury Parsons to the Cleveland Museum of Art",
+        "citations": [],
+        "footnotes": null,
+        "date": "1929",
+        "sortorder": 7
+      },
+      {
+        "description": "The Cleveland Museum of Art",
+        "citations": [],
+        "footnotes": null,
+        "date": "1932",
+        "sortorder": 8
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "Ultramarine, the blue pigment used lavishly across this tondo (circular painting), was many times more expensive than gold in the Renaissance.",
+    "description": "This monumental tondo, among Filippino’s most significant works, was commissioned by Neapolitan cardinal Oliviero Carafa, a leading political and ecclesiastical figure. The painter’s ingenious composition harmoniously overlaps five brilliantly colored divine figures within the challenging circular format. Behind a low wall adorned with sacred and domestic objects, Joseph observes the intertwined group of Mary holding Christ, who embraces his cousin John the Baptist, supported by Saint Margaret. Created during Filippino’s Roman years (1488–93), the painting reflects the inspiration he drew from ancient art. The preparatory drawing reveals how he reimagined Greco-Roman figures—his sketch of an antique Venus statue was refashioned into Saint Margaret—while the weathered pier references remnants of ancient architectural and decorative motifs, illustrating Filippino’s deep engagement with the fragments of antique murals, sculpture, and architecture throughout the city.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q60513856"
+      ],
+      "internet_archive": [
+        "https://archive.org/details/clevelandart-1932.227-the-holy-family-with"
+      ]
+    },
+    "citations": [
+      {
+        "citation": "Celano, Carlo. <em>Notizie del bello dell'antico e del curioso della città di Napoli: divise dall'autore in 10 giornate per guida e comodo de'viaggiatori ; con aggiunzioni de'piu' notabili miglioramenti posteriori fino al presente estratti dalla storia de' monumenti e dalle memorie di eruditi scrittori Napolitani.</em> 3 3. Napoli: Chiurazzi, 1858.",
+        "page_number": "p. 691",
+        "url": null
+      },
+      {
+        "citation": "Crowe, J. A., and G. B. Cavalcaselle<em>. A New History of Painting in Italy, From the Second to the Sixteenth Century. </em>London: J. Murray, 1864.",
+        "page_number": "p. 450",
+        "url": null
+      },
+      {
+        "citation": "John Murray (Firm). <em>A Handbook for Travellers in Southern Italy: Being a Guide for the Provinces Formerly Constituting the Continental Portion of the Kingdom of the Two Sicilies</em>. London: J. Murray, 1868.",
+        "page_number": "p. 183",
+        "url": null
+      },
+      {
+        "citation": "Berenson, Bernard \"U chef-d'oeuvre Inédit de Filippino Lippi,\" Revue Archéologique, vol. XXXVII (1900).",
+        "page_number": "pp. 238-243, pl. XI",
+        "url": null
+      },
+      {
+        "citation": "Museum of Fine Arts, Boston<em>. Special Exhibition of Paintings from the Collection of the Late Mrs. S.D. Warren. </em>Boston: Mudge, 1902.",
+        "page_number": "cat. no. 87",
+        "url": null
+      },
+      {
+        "citation": "Berenson, Bernard. <em>The Study and Criticism of Italian Art. </em>Second Series. London: Bell, 1910.",
+        "page_number": "pp. 92-96",
+        "url": null
+      },
+      {
+        "citation": "Colasanti, Arduino \"Miscellanea: Nuovi Dipinti di Filippo e di Filippino Lippi,\" <em>l'Arte</em>, vol 9 (1903)",
+        "page_number": "pp. 299-304",
+        "url": null
+      },
+      {
+        "citation": "Colasanti, Arduino \"Two Unpublished Pictures by Fra Filippo and filippino Lippi,\" <em>The Connoisseur</em>, vol. VII (1903)",
+        "page_number": "p. 233, p. 304",
+        "url": null
+      },
+      {
+        "citation": "Royal Academy of Arts (London). <em>Exhibition of Works by the Old Masters and by Deceased Masters of the British School, Including a Special Selection of Works by Sir Thomas Lawrence, P.R.A. and Also a Collection of Sculpture and Bronzes.</em> London: Royal Academy of Arts, 1904.",
+        "page_number": "cat. no. 13",
+        "url": null
+      },
+      {
+        "citation": "Frizoni, Gustavo \"La pinacoteca Strossmayer nel'Accademia di Scienze ed Arti in Agram.\" <em>L'Arte</em> vol. VII (1904).",
+        "page_number": "pp. 427-429, fig. 3",
+        "url": null
+      },
+      {
+        "citation": "Richter, Louise M. \"Correspondence d'Anglaterre: Les Maitres Anciens à Burlington House,\" <em>Gazette des Beaux-Arts</em>, vol. XXXI (1904).",
+        "page_number": "pp. 424, 426",
+        "url": null
+      },
+      {
+        "citation": "Konody, Paul G. <em>Filippino Lippi</em>. London: G. Newnes, limited, 1905.",
+        "page_number": "pp. xii, xv-xvi, xxiii",
+        "url": null
+      },
+      {
+        "citation": "Berenson, Bernard.<em> The Florentine Painters of the Renaissance. </em>New York: Putnam's Sons, 1909.",
+        "page_number": "pp. 121, 144",
+        "url": null
+      },
+      {
+        "citation": "Venturi, A. <em>Storia dell'Arte italiana. La pittura del Quattrocento</em> 7, 1-4 7, 1-4. 1911.",
+        "page_number": "p. 658",
+        "url": null
+      },
+      {
+        "citation": "Crowe, J. A., G. B. Cavalcaselle, Langton Douglas, and G. De Nicola. <em>A History of Painting in Italy: Umbria, Florence and Siena from the Second to the Sixteenth Century</em> : in Six Volumes Illustrated. Vol. 4, Vol. 4. London: J. Murray, 1911.",
+        "page_number": "pp. 290-91",
+        "url": null
+      },
+      {
+        "citation": "Graves, Algernon. <em>Century of Loan Exhibitions 1813-1912. </em>London: Graves, 1913.",
+        "page_number": "p. 709",
+        "url": null
+      },
+      {
+        "citation": "H. S. F. \"A Tondo by Filippino Lippi.\" <em>The Bulletin of the Cleveland Museum of Art</em> 19, no. 9 (1932).",
+        "page_number": "pp. 146-159",
+        "url": "https://www.jstor.org/stable/25137502"
+      },
+      {
+        "citation": "Cleveland Museum of Art. <em>Catalogue of the Twentieth Anniversary Exhibition of the Cleveland Museum of Art: The Official Art Exhibit of the Great Lakes Exposition : June Twenty-Sixth to October Fourth 1936. [</em>Cleveland, Ohio]: [Cleveland Museum of Art], 1936.",
+        "page_number": "Reproduced, preface; Cat. no. 17",
+        "url": null
+      },
+      {
+        "citation": "Hauptmann, Moritz. Der Tondo; <em>Ursprung, Bedeutung und Geschichte des italienischen Rundbildes in Relief und Malerei.</em> Frankfurt am Main: V. Klostermann, 1936.",
+        "page_number": "pp. 222-23",
+        "url": null
+      },
+      {
+        "citation": "Neilson, Katharine B., and Filippino Lippi. <em>Filippino Lippi, a Critical Study</em>. Cambridge, Mass: Harvard University Press, 1938.",
+        "page_number": "pp. 116, 121-125, 133- 134, 195, fig. 54",
+        "url": null
+      },
+      {
+        "citation": "<em>The Drawings of the Florentine Painters</em> 1, 1. Chicago: Univ. of Chicago Pr, 1938.",
+        "page_number": "p. 105",
+        "url": null
+      },
+      {
+        "citation": "Jugoslavenska akademija znanosti i umjetnosti.<em> Katalog Strossmayerove galerije</em>. Zagreb: Jugoslavenska Akademija Znanosti i Umjetnosti, 1939.",
+        "page_number": "no. 24, p. 54",
+        "url": null
+      },
+      {
+        "citation": "Tietze, Hans.<em> Masterpieces of European Painting in America. </em>New York: Oxford University Press, 1939.",
+        "page_number": "p. 61",
+        "url": null
+      },
+      {
+        "citation": "Burdett, Osbert, and E. H. Goddard. Edward Perry Warren; <em>The Biography of a Connoisseur.</em> London: Christophers, 1941.",
+        "page_number": "pp. 72, 80, 130, 209, 228, 411",
+        "url": null
+      },
+      {
+        "citation": "\"Cleveland Offers the Evidence for the First 25 Years,\" <em>Art News</em>, (September, 1941).",
+        "page_number": "p. 25",
+        "url": null
+      },
+      {
+        "citation": "Milliken, William. \"Silver Jubilee Exhibition.\" <em>The Bulletin of the Cleveland Museum of Art </em>28, no.6 (June 1941): 88-108",
+        "page_number": "Mentioned: p. 92; Reproduced: p. 93",
+        "url": "https://www.jstor.org/stable/25140932"
+      },
+      {
+        "citation": "<em>Paintings in the Cleveland Museum of Art.</em> [Cleveland]: The Cleveland Museum of Art, 1945.",
+        "page_number": "Reproduced: p. 50",
+        "url": "https://archive.org/details/CMAPaintings1945/page/n58"
+      },
+      {
+        "citation": "Scharf, Alfred.<em> Filippino Lippi</em>. Wien: Schroll, 1950.",
+        "page_number": "pp. 34, 55, pls. 81-85",
+        "url": null
+      },
+      {
+        "citation": "<em>Art News</em> (February, 1951).",
+        "page_number": "p. 30",
+        "url": null
+      },
+      {
+        "citation": "<em>Republic Reports</em> (Republic Steel Corp publication) (December 1953).",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+        "page_number": "Mentioned and Reproduced: cat. no. 401",
+        "url": "https://archive.org/details/CMAHandbook1958/page/n74"
+      },
+      {
+        "citation": "Gamba, Fiammetta, and Filippino Lippi.<em> Filippino Lippi nella storia della critica</em>. Firenze: Edizioni Arnaud, 1958.",
+        "page_number": "pp. 55, 103, n. 36",
+        "url": null
+      },
+      {
+        "citation": "Cleveland Museum of Art, and William Mathewson Milliken. <em>The Cleveland Museum of Art. </em>New York: H.N. Abrams, 1958.",
+        "page_number": "p. 31",
+        "url": null
+      },
+      {
+        "citation": "Davis, Douglas \" Between Two Worlds,\" <em>Newsweek</em> vol. LXXVII (August 2, 1971).",
+        "page_number": "p. 58",
+        "url": null
+      },
+      {
+        "citation": "Canaday, John.<em> Metropolitan Seminars in Art. </em>[New York]: Metropolitan Museum of Art, 1959.",
+        "page_number": "p. 7, pl. E2",
+        "url": "https://libmma.contentdm.oclc.org/digital/collection/p15324coll10/id/160572"
+      },
+      {
+        "citation": "Berenson, Bernard.<em> I disegni dei pittori fiorentini. </em>Milano: Electa editrice, 1961.",
+        "page_number": "pp. 252-268",
+        "url": null
+      },
+      {
+        "citation": "Pontificia Università lateranense. <em>Bibliotheca sanctorum</em>. Roma: Istituto Giovanni XXIII nella Pontificia Università lateranense, 1961.",
+        "page_number": "p. 1090",
+        "url": null
+      },
+      {
+        "citation": "Moskowitz, Ira, and Victoria Thorson. <em>Great Drawings of All Time. </em>New York: Shorewood Publishers, 1962.",
+        "page_number": "no. 126",
+        "url": null
+      },
+      {
+        "citation": "Berenson, Bernard.<em> Italian Pictures of the Renaissance: A List of the Principal Artists and Their Works, with an Index of Places : Florentine School.</em> London: Phaidon Press, 1963.",
+        "page_number": "p. 108, vol. II, pl. 1150",
+        "url": null
+      },
+      {
+        "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+        "page_number": "Reproduced: p. 91",
+        "url": "https://archive.org/details/CMAHandbook1966/page/n115"
+      },
+      {
+        "citation": "Joseph Alsop, \"Treasures of the Clevleand Museum of Art,\" <em>Art in America </em>(May-June 1966).",
+        "page_number": "p. 23 & 27",
+        "url": null
+      },
+      {
+        "citation": "Cleveland Museum of Art.<em> Selected Works: Cleveland Museum of Art</em>. 1967.",
+        "page_number": "p. 121",
+        "url": null
+      },
+      {
+        "citation": "<em>The Motor </em>(December, 1968).",
+        "page_number": "p. 4",
+        "url": null
+      },
+      {
+        "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+        "page_number": "Reproduced: p. 91",
+        "url": "https://archive.org/details/CMAHandbook1969/page/n115"
+      },
+      {
+        "citation": "Schug, Albert \"Zur Ikonographie von Leonardos Londoner Karton, II. Teil,\" <em>Pantheon</em> XXVII (1969).",
+        "page_number": "p. 31, no. 29",
+        "url": null
+      },
+      {
+        "citation": "Pillsbury, Edmund P. Florence and the Arts; <em>Five Centuries of Patronage.</em> 1971.",
+        "page_number": "Cat. No. 10",
+        "url": null
+      },
+      {
+        "citation": "Sherrill, Sarah B. \"Current and Coming,\"<em> The Magazine Antiques</em> vol. 100 (July 1971).",
+        "page_number": "p. 30",
+        "url": null
+      },
+      {
+        "citation": "Wasserman, Jack. \"The Dating and Patronage of Leonardo's Burlington House Cartoon.\" <em>The Art Bulletin</em> 53, no. 3 (1971),",
+        "page_number": "p. 314, fig. 3",
+        "url": "https://www.jstor.org/stable/3048867"
+      },
+      {
+        "citation": "Cooper, Barbara, and Maureen Matheson. <em>The World Museums Guide</em>, Edited by Barbara Cooper &amp; Maureen Matheson. London: Threshold Books Ltd, 1973.",
+        "page_number": "p. 78",
+        "url": null
+      },
+      {
+        "citation": "Berenson, Bernard, and Hanna Kiel.<em> Looking at Pictures with Bernard Berenson. </em>New York: Abrams, 1974.",
+        "page_number": "pp. 198-9",
+        "url": null
+      },
+      {
+        "citation": "Cleveland Museum of Art. <em>Catalogue of Paintings. Pt. 1. European Paintings before 1500. </em>Cleveland: Cleveland Museum of Art, 1974.",
+        "page_number": "Reproduced: fig. 29, p. 76 - 79, colorplate XV",
+        "url": null
+      },
+      {
+        "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+        "page_number": "Reproduced: p. 93",
+        "url": "https://archive.org/details/CMAHandbook1978/page/n113"
+      },
+      {
+        "citation": "Hodder, Michael J., and Q. David Bowers. <em>The Norweb Collection: An American Legacy.</em> Wolfeboro, N.H.: Bowers and Merena Galleries, 1987.",
+        "page_number": "p. 28",
+        "url": null
+      },
+      {
+        "citation": "Berti, Luciano, <em>Filippino Lippi, and Umberto Baldini</em>. Filippino Lippi. Firenze: Edizioni d'arte Il Fiorino, 1991.",
+        "page_number": "pp. 46, 88-89, 206, no. 63",
+        "url": null
+      },
+      {
+        "citation": "Cleveland Museum of Art.<em> Interpretations: Sixty-Five Works from the Cleveland Museum of Art</em>. 1991.",
+        "page_number": "no. 13",
+        "url": null
+      },
+      {
+        "citation": "Lippi, Filippino, George R. Goldner, Carmen Bambach, and Alessandro Cecchi. <em>The Drawings of Filippino Lippi and His Circle</em>. New York: Metropolitan Museum of Art, 1997.",
+        "page_number": "p. 77, pl 34, p. 12 & 264",
+        "url": null
+      },
+      {
+        "citation": "Olson, Roberta J. M.<em> The Florentine Tondo</em>. Oxford: Oxford University Press, 2000.",
+        "page_number": "fig. 7.25",
+        "url": null
+      },
+      {
+        "citation": "May, Sally Ruth, Jane Takac, and Barbara J. Bradley. <em>Knockouts: A Pocket Guide</em>. Cleveland: Cleveland Museum of Art, 2001.",
+        "page_number": "p. 117",
+        "url": null
+      },
+      {
+        "citation": "Lippi, Filippino, Perugino, Franca Falletti, and Jonathan Katz Nelson.<em> Filippino Lippi e Pietro Perugino: la Deposizione della Santissima Annunziata e il suo restauro.</em> Livorno: Sillabe, 2004.",
+        "page_number": "fig. 4, p. 123",
+        "url": null
+      },
+      {
+        "citation": "Humfrey, Peter. <em>Glasgow Museums - the Italian Paintings. </em>London: Unicorn Press, 2012.",
+        "page_number": "p. 51, fig. 1",
+        "url": null
+      },
+      {
+        "citation": "Ainsworth, Maryan W. and Ana Sanchez-Lassa. \"La Sagrada Familia de Jan Gossart.\" <em>Buletina Boletin</em> 6. Bilbao: Bilbao Fine Arts Museum, (2012).",
+        "page_number": "p. 78, fig. 3",
+        "url": null
+      },
+      {
+        "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+        "page_number": "Mentioned and reproduced: P. 173",
+        "url": ""
+      },
+      {
+        "citation": "“A Walking Tour: The entire new museum wing by wing, with curators calling out a few favorite works in the collection.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 54, no. 1 (January/February 2014): 8-33.",
+        "page_number": "Reproduced and Mentioned: p. 14",
+        "url": "https://archive.org/details/CMAMM2014-01"
+      },
+      {
+        "citation": "Cleveland Museum of Art.<em> Sketchbook: Michelangelo: Mind of the Master.</em> Cleveland Museum of Art; Cleveland, Ohio, 2019.",
+        "page_number": "Reproduced: P. 4",
+        "url": ""
+      },
+      {
+        "citation": "Eliot W Rowlands, ‘An indefatigable intermediary’: Harold Woodbury Parsons (1882–1967) and the formation of the European collections at the Cleveland Museum of Art: part 1, <em>Journal of the History of Collections.</em>",
+        "page_number": "p. 5",
+        "url": "https://academic.oup.com/jhc/advance-article/doi/10.1093/jhc/fhz042/5802835"
+      },
+      {
+        "citation": "Derosa, Luisa, and Andrea Leonardi. Il museo che non c'è: arte, collezionismo, gusto antiquario nel Palazzo degli Studi di Bari : (1875-1928). Firenze: Edifir - Edizioni Firenze, 2020, 186.",
+        "page_number": "Mentioned and reproduced: pp. 185-186, fig. 16.",
+        "url": ""
+      },
+      {
+        "citation": "Rowlands, Eliot W. \"An indefatigable intermediary: Harold Woodbury Parsons (1882-1967) and the formation of the European collections at the Cleveland Museum of Art: part 2.\" <em>Journal of the History of Collections </em>33, no.1 (2021): 93-109.",
+        "page_number": "Reproduced p.97; mentioned p. 96-103",
+        "url": ""
+      },
+      {
+        "citation": "Noelle, Alexander J., and Cleveland Museum of Art. <em>Filippino Lippi and Rome</em>. Cleveland, OH: Cleveland Museum of Art, 2025.",
+        "page_number": "Mentioned and reproduced: p. 110-111, no. 9",
+        "url": ""
+      },
+      {
+        "citation": "Nelson, Jonathan K. “Searching for Hybridity: Filippino Lippi’s “Distant Views and Other Fantasies.”” In <em>Filippino Lippi and Rome, </em>Alexander J. Noelle, 14-23. Cleveland, OH: Cleveland Museum of Art, 2025.",
+        "page_number": "Mentioned and reproduced: p. 14-15, fig.1",
+        "url": ""
+      },
+      {
+        "citation": "Noelle, Alexander J. “Filippino Lippi, Cardinal Carafa, and the Cleveland <em>Holy Family</em> Tondo.” In <em>Filippino Lippi and Rome, </em>Alexander J. Noelle, 27-49. Cleveland, OH: Cleveland Museum of Art, 2025.",
+        "page_number": "Mentioned and reproduced: p. 36-49, fig. 28, no. 9",
+        "url": ""
+      },
+      {
+        "citation": "Ly, Juliana, Kathryn Dooley, John Delaney, and Dean Yoder. “Iteration and Execution: Visualizing Filippino Lippi’s Technique.” In <em>Filippino Lippi and Rome, </em>Alexander J. Noelle, 76-87. Cleveland, OH: Cleveland Museum of Art, 2025.",
+        "page_number": "Mentioned and reproduced: Throughout, figs. 54-70, no. 9",
+        "url": ""
+      },
+      {
+        "citation": "\"Supporter Story: Henry Ott-Hansen.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>65, no. 1 (2025): 28-29.",
+        "page_number": "Reproduced: p. 29",
+        "url": "https://archive.org/details/CMAMM-2025-01"
+      },
+      {
+        "citation": "Noelle, Alexander J. \"Filippino Lippi and Rome: A Renaissance Painter Reimagines Antiquity.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>65, no. 3 (2025): 8-9.",
+        "page_number": "Reproduced: p. 8; Mentioned: p. 9",
+        "url": "https://archive.org/details/CMAMM-2025-03"
+      },
+      {
+        "citation": "La Malfa, Claudia. “Filippino Lippi and Rome.” <em>The Burlington Magazine</em> 168, n. 1475 (February 2026): 156-158.",
+        "page_number": "Mentioned: p. 156-158; Reproduced: p. 157",
+        "url": ""
+      }
+    ],
+    "url": "https://clevelandart.org/art/1932.227",
+    "images": {
+      "annotation": null,
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1932.227/1932.227_web.jpg",
+        "width": "900",
+        "height": "900",
+        "filesize": "355762",
+        "filename": "1932.227_web.jpg"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1932.227/1932.227_print.jpg",
+        "width": "3400",
+        "height": "3400",
+        "filesize": "3920474",
+        "filename": "1932.227_print.jpg"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1932.227/1932.227_full.tif",
+        "width": "10346",
+        "height": "10347",
+        "filesize": "321183364",
+        "filename": "1932.227_full.tif"
+      }
+    },
+    "alternate_images": [
+      {
+        "date_created": "2025-10-15T10:42:55",
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1932.227/1932.227_alt0_web.jpg",
+          "width": "900",
+          "height": "897",
+          "filesize": "379507"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1932.227/1932.227_alt0_print.jpg",
+          "width": "3400",
+          "height": "3388",
+          "filesize": "3951608"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1932.227/1932.227_alt0_full.tif",
+          "width": "10917",
+          "height": "10879",
+          "filesize": "356348796"
+        }
+      },
+      {
+        "date_created": "2025-10-15T11:40:10",
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1932.227/1932.227_alt1_web.jpg",
+          "width": "900",
+          "height": "900",
+          "filesize": "294903"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1932.227/1932.227_alt1_print.jpg",
+          "width": "3400",
+          "height": "3400",
+          "filesize": "3193657"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1932.227/1932.227_alt1_full.tif",
+          "width": "7853",
+          "height": "7852",
+          "filesize": "185029944"
+        }
+      },
+      {
+        "date_created": "2013-10-21T15:43:58",
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1932.227/1932.227_alt2_web.jpg",
+          "width": "860",
+          "height": "900",
+          "filesize": "323097"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1932.227/1932.227_alt2_print.jpg",
+          "width": "3248",
+          "height": "3400",
+          "filesize": "2649271"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1932.227/1932.227_alt2_full.tif",
+          "width": "3515",
+          "height": "3680",
+          "filesize": "38852564"
+        }
+      }
+    ],
+    "creditline": "The Delia E. Holden Fund and a fund donated as a memorial to Mrs. Holden by her children: Guerdon S. Holden, Delia Holden White, Roberta Holden Bole, Emery Holden Greenough, Gertrude Holden McGinley",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 113202,
+    "creators": [
+      {
+        "id": 2200,
+        "description": "Filippino Lippi (Italian, c. 1457–1504)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1457",
+        "death_year": "1504",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1929-06-04T00:00:00",
+    "sortable_date": 1488,
+    "date_added_to_oa": null,
+    "date_text": "c. 1488–93",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": "The painting is in remarkable condition for its age. A comprehensive conservation treatment was completed in October of 2025 to address discolored varnish residues and disfiguring remnants of prior overpainting in the sky. X-radiography revealed that the panel is comprised of four large, vertically flat-sawn boards which are joined and reinforced with two original horizontal battens that fit within a mortise and tenon joint. The X-ray also revealed an inlay design with a repeating pattern of alternating diamonds and elongated lozenges within the battens. An in-depth technical imaging study of the painting was conducted in collaboration with the National Gallery of Art. This study is published in the exhibition catalogue for <em>Filippino Lippi and Rome</em>. An elaborate underdrawing visible with infrared reflectography (IRR) reveals Lippi’s use of a variety of materials to freely draft, refine, and revise elements within the underdrawing and underpainting stages. Notable changes visible within the IRR include his exploration of additional composition options including placing a bundle of drapery where Joseph now appears, as well as his use of a rough grid possibly used to plan the composition. Fiber optic reflectance spectroscopy (FORS), X-ray fluorescence spectroscopy (XRF), cross-section samples, and scanning electron microscopy—energy dispersive spectroscopy (SEM-EDS)—confirmed Lippi’s use of the following pigments: ultramarine, copper-based greens, lead-tin yellow, vermilion, insect-based red-lakes (kermes or lac source), lead white, earth pigments, and gilding. Ultramarine, the most expensive pigment at the time, is liberally used throughout the painting, even for the small rooftops lining the horizon.",
+    "has_conservation_images": true,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [
+      "The Holy Family with the Infant St. John and St. Margaret"
+    ],
+    "is_highlight": true,
+    "updated_at": "2026-03-27 00:00:21.770000"
+  }
+}

@@ -1,0 +1,490 @@
+{
+  "data": {
+    "id": 130457,
+    "accession_number": "1953.212",
+    "share_license_status": "CC0",
+    "tombstone": "Under the Trees (from \"The Public Gardens\"), 1894. Édouard Vuillard (French, 1868–1940). Distemper on fabric; framed: 229.9 x 113 x 11.4 cm (90 1/2 x 44 1/2 x 4 1/2 in.); unframed: 214.2 x 96.3 cm (84 5/16 x 37 15/16 in.). The Cleveland Museum of Art, Gift of the Hanna Fund, 1953.212",
+    "current_location": "223 20th Century Avant-Garde",
+    "title": "Under the Trees (from \"The Public Gardens\")",
+    "creation_date": "1894",
+    "creation_date_earliest": 1894,
+    "creation_date_latest": 1894,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "France, 19th century"
+    ],
+    "technique": "distemper on fabric",
+    "support_materials": [],
+    "department": "Modern European Painting and Sculpture",
+    "collection": "Mod Euro - Painting 1800-1960",
+    "type": "Painting",
+    "measurements": "Framed: 229.9 x 113 x 11.4 cm (90 1/2 x 44 1/2 x 4 1/2 in.); Unframed: 214.2 x 96.3 cm (84 5/16 x 37 15/16 in.)",
+    "dimensions": {
+      "framed": {
+        "height": 2.299,
+        "width": 1.13,
+        "depth": 0.114
+      },
+      "unframed": {
+        "height": 2.142,
+        "width": 0.963
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Signed lower right: E. Vuillard 94\r\n",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 300318,
+          "title": "Work of Edouard Vuillard",
+          "description": "<i>Work of Edouard Vuillard</i>. The Cleveland Museum of Art, Cleveland, OH (January 27-March 14, 1954).",
+          "opening_date": "1954-01-27T05:00:00"
+        },
+        {
+          "id": 301477,
+          "title": "In Memoriam: Leonard C. Hanna, Jr.",
+          "description": "<i>In Memoriam: Leonard C. Hanna, Jr.</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 4-April 7, 1958).",
+          "opening_date": "1958-03-04T05:00:00"
+        },
+        {
+          "id": 302007,
+          "title": "Paths of Abstract Art",
+          "description": "<i>Paths of Abstract Art</i>. The Cleveland Museum of Art, Cleveland, OH (October 5-November 13, 1960).",
+          "opening_date": "1960-10-05T04:00:00"
+        },
+        {
+          "id": 191838,
+          "title": "Object in Focus:  Under the Trees (Sous les arbres) by Edouard Vuillard",
+          "description": "<i>Object in Focus:  Under the Trees (Sous les arbres) by Edouard Vuillard</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 29-November 29, 1998).",
+          "opening_date": "1998-09-29T00:00:00"
+        },
+        {
+          "id": 216734,
+          "title": "Beyond the Easel: Decorative Painting by Bonnard, Vuillard, Denis, Roussel, 1890-1930",
+          "description": "<i>Beyond the Easel: Decorative Painting by Bonnard, Vuillard, Denis, Roussel, 1890-1930</i>. The Art Institute of Chicago, Chicago, IL (organizer) (February 21-May 16, 2001); The Metropolitan Museum of Art, New York, NY (June 18-September 9, 2001).",
+          "opening_date": "2001-02-21T00:00:00"
+        },
+        {
+          "id": 177023,
+          "title": "Edouard Vuillard",
+          "description": "<i>Edouard Vuillard</i>. National Gallery of Art, Landover, MD (organizer) (January 19-April 20, 2003); Montréal Museum of Fine Arts, Montreal, Quebec, Canada (May 15-August 24, 2003).",
+          "opening_date": "2003-01-19T00:00:00"
+        },
+        {
+          "id": 182153,
+          "title": "Monet to Dalí: Modern Masters from the Cleveland Museum of Art",
+          "description": "<i>Monet to Dalí: Modern Masters from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 21, 2007-January 13, 2008).",
+          "opening_date": "2006-05-27T00:00:00"
+        },
+        {
+          "id": 329533,
+          "title": "Private Lives: Home and Family in the Art of the Nabis, Paris, 1889–1900",
+          "description": "<i>Private Lives: Home and Family in the Art of the Nabis, Paris, 1889–1900</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (co-organizer) (July 1-September 19, 2021).",
+          "opening_date": "2021-07-01T04:00:00"
+        }
+      ],
+      "legacy": [
+        {
+          "description": "Paris, Bernheim-Jeune. Vuillard (1906), no. 26 (according to Jacques Salomon, who is preparing a catalogue raisonné).",
+          "opening_date": "1906-01-01T00:00:00"
+        },
+        {
+          "description": "Paris, Galerie des Beaux-Arts. Les étapes de l'art contemporain II: Gauguin, ses amis, L'École de Pont-Aven et l'Académie Julian (1934), no. 165 (according to Salomon, unpub.).",
+          "opening_date": "1934-01-01T00:00:00"
+        },
+        {
+          "description": "Paris, Les Cadres. Peintres de la Revue blanche (1936), no. 79 (according to Salomon, unpub.).",
+          "opening_date": "1936-01-01T00:00:00"
+        },
+        {
+          "description": "Paris, Musée des Arts Décoratifs. Exposition É. Vuillard (1938), no. 34b, Sous les arbres, 214 x 97 cm, à Henri Blum (repr.).",
+          "opening_date": "1938-01-01T00:00:00"
+        },
+        {
+          "description": "cma; New York, Museum of Modern Art. Édouard Vuillard (1954), 20, 34 (repr.), 101.",
+          "opening_date": "1954-01-01T00:00:00"
+        },
+        {
+          "description": "cma. Paths of Abstract Art (1960), no. 10, pl. II, 9 (repr.).",
+          "opening_date": "1960-01-01T00:00:00"
+        },
+        {
+          "description": "Toronto, Art Gallery of Ontario; San Francisco, California Palace of the Legion of Honor; Art Institute of Chicago. Édouard Vuillard 1868-1940 (1971-72), 39 (repr.), 49-50, 225.",
+          "opening_date": "1940-01-01T00:00:00"
+        },
+        {
+          "description": "Cleveland, Ohio:  The Cleveland Museum of Art; September 29 - November 29, 1998.  \"Object in Focus:  Under the Trees (Sous les arbres) by Edouard Vuillard.\"",
+          "opening_date": "1998-09-29T00:00:00"
+        },
+        {
+          "description": "The Art Institute of Chicago (2/21-5/27/01);  NY: The Metropolitan Museum of Art (6/18 - 9/9/01); \"Beyond the Easel: Decorative Painting by Bonnard, Vuillard, Denis, Roussel, 1890-1930\"exh. cat. no. 33, pp. 120-121.",
+          "opening_date": "2001-09-09T00:00:00"
+        },
+        {
+          "description": "The National Gallery of Art, Washington, DC (1/19/2003-4/20/2003), Museum of Fine Arts, Montreal (5/15/2003-8/24/2003): \"Edouard Vuillard\", exh.cat.no. 118, p. 172-173.",
+          "opening_date": "2003-01-19T00:00:00"
+        },
+        {
+          "description": "CMA (organizer). Cleveland Museum of Art, Oct. 21, 2007- January 13, 2008:  \"Modern Masters from the Cleveland Museum of Art\"",
+          "opening_date": "2007-10-21T00:00:00"
+        }
+      ]
+    },
+    "provenance": [
+      {
+        "description": "Alexandre Natanson [1867-1936], Paris",
+        "citations": [],
+        "footnotes": [
+          "<div><!--block-->This painting is one of nine canvases that Alexandre Natanson, director of <em>La Revue blanche, </em>commissioned from Vuillard in 1893 for his home in the Avenue du Bois de Boulogne.&nbsp; The decorative cycle, entitled <em>Jardins publics </em>(<em>Public Gardens</em>) was dismantled when the Natanson family moved to the Avenue des Champs-Elysées, where it was reinstalled in 1908.&nbsp; Natanson’s collection was sold at auction in 1929, and the cycle was dispersed: five paintings are now in the Musée d’Orsay; the pendant to the CMA painting is at the Musées Royaux des Beaux-Arts de Belgique; one panel is in the collection of the Houston Museum of Fine Arts; and the current location of the ninth panel is unknown</div>"
+        ],
+        "date": "1894-1929",
+        "sortorder": 1
+      },
+      {
+        "description": "(Natanson sale, Hôtel Drouot, Paris, May 16, 1929, lot 122, sold to Georges Bénard)",
+        "citations": [],
+        "footnotes": [],
+        "date": "1929",
+        "sortorder": 2
+      },
+      {
+        "description": "Georges Bénard, Paris",
+        "citations": [],
+        "footnotes": [
+          ""
+        ],
+        "date": "1929-1933",
+        "sortorder": 3
+      },
+      {
+        "description": "(Bénard sale, Hôtel Drouot, Paris, June 9, 1933, lot 90, sold to Henri Blum)",
+        "citations": [],
+        "footnotes": [
+          "<div><!--block-->The Cleveland painting was sold together with <em>La promenade </em>(no. 89)<em>, </em>also from the <em>Jardins public</em> cycle, to Henri Blum.&nbsp; Modigliani's <em>Portrait of a Woman </em>(CMA 1951.358) also appeared in the Bénard sale (no. 67).</div>"
+        ],
+        "date": "1933",
+        "sortorder": 4
+      },
+      {
+        "description": "Henri Blum, Paris",
+        "citations": [],
+        "footnotes": [
+          "<div><!--block-->Blum, a collector of Impressonist works who was active in Paris throughout the 1930s and 1940s, lent the CMA painting to a 1938 Vuillard exhibition at the Musée des Arts Décoratifs.</div>"
+        ],
+        "date": "1933-",
+        "sortorder": 5
+      },
+      {
+        "description": "(César de Hauke, New York, sold to Knoedler & Co.)",
+        "citations": [],
+        "footnotes": [
+          "<div><!--block-->This sale may have been brokered by Parisian dealer, Paul Brame.&nbsp; Galerie Hector Brame, at which Paul Brame worked, appears in the painting’s provenance in the Salamon/Cogeval Vuillard catalogue raisonné.&nbsp; However, according to the gallery, there is no reference to the painting in their stock books.&nbsp; Paul Brame and César de Hauke were close acquaintances and often made purchases in conjunction with one another. &nbsp; The Knoedler inventory card, which makes no mention of Brame, does not specify the date de Hauke sold the painting (stock no. A5278) to Knoedler, but CMA records indicate the transaction took place in May 1953.&nbsp;</div>"
+        ],
+        "date": "Until 1953",
+        "sortorder": 6
+      },
+      {
+        "description": "(Knoedler & Co., New York, sold to the Cleveland Museum of Art)",
+        "citations": [],
+        "footnotes": [],
+        "date": "1953",
+        "sortorder": 7
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": [],
+        "date": "1953-",
+        "sortorder": 8
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "Vuillard's social circle included actors and directors. He often contributed to their theatrical pursuits by designing costumes, programs, and set pieces. In this panel from a nine-part series, a patterned landscape recalls scenery for the stage.",
+    "description": "This painting is from a nine-panel decorative series showing children playing in two of Paris’s most spacious parks: the Tuileries Gardens and the Bois de Boulogne. It depicts a game of hide-and-seek in which a girl conceals herself behind a tree. The stillness of the women resting on green chairs at the right is countered by children running at the left. Rather than a realistic rendering of the subject, Édouard Vuillard arranged the composition in bands of colorful, decorative patterns so that the painting seems like a tapestry.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q60516343"
+      ],
+      "internet_archive": [
+        "https://archive.org/details/clevelandart-1953.212-under-the-trees-from"
+      ]
+    },
+    "citations": [
+      {
+        "citation": "d'Argencourt, Louise, Roger Diederen, and Alisa Luxenberg. <em>European Paintings of the 19th Century</em>. Cleveland: Cleveland Museum of Art, 1999.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Salomon, Antoine, Guy Cogeval, and Mathias Chivot. <em>Vuillard, the Inexhaustible Glance: Critical Catalogue of Paintings and Pastels</em>. Milan: Skira, 2003.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Salomon, Jacques. <em>Vuillard</em>. [Paris]: A. Michel, 1945.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Salomon, Antoine, Guy Cogeval, and Mathias Chivot. <em>Vuillard, the Inexhaustible Glance: Critical Catalogue of Paintings and Pastels</em>. Milan: Skira, 2003.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Salomon, Antoine, Guy Cogeval, and Mathias Chivot. <em>Vuillard, the Inexhaustible Glance: Critical Catalogue of Paintings and Pastels</em>. Milan: Skira, 2003.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "<em>Exposition E. Vuillard: mai-juillet 1938</em>. [Paris]: Musée des arts décoratifs, 1938.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Salomon, Antoine, Guy Cogeval, and Mathias Chivot. <em>Vuillard, the Inexhaustible Glance: Critical Catalogue of Paintings and Pastels</em>. Milan: Skira, 2003.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Salomon, Antoine, Guy Cogeval, and Mathias Chivot. <em>Vuillard, the Inexhaustible Glance: Critical Catalogue of Paintings and Pastels</em>. Milan: Skira, 2003.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Édouard Vuillard, Series IV Inventory Cards, M. Knoedler &amp; Co. records, box 140, Getty Research Institute.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Sylvie Brame, email to Victoria Sears Goldman, Jan. 29, 2015, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Sylvie Brame, email to Victoria Sears Goldman, Jan. 30, 2015, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Salomon, Antoine, Guy Cogeval, and Mathias Chivot. <em>Vuillard, the Inexhaustible Glance: Critical Catalogue of Paintings and Pastels</em>. Milan: Skira, 2003.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Édouard Vuillard, Series IV Inventory Cards, M. Knoedler &amp; Co. records, box 166, Getty Research Institute.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Hôtel Drouot. <em>Tableaux modernes, aquarelles, pastels, dessins, lithographies</em>. May 16, 1929.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Hôtel Drouot. <em>Tableaux modernes, aquarelles, gouaches, pastels. </em>June 9, 1933<em>.</em>",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Francis, Henry. \"Edouard Vuillard.\" <em>The Bulletin of the Cleveland Museum of Art </em>41, no. 1 (January 1954): 6-7.",
+        "page_number": "Reproduced: p. 2; Mentioned: p. 6",
+        "url": "https://www.jstor.org/stable/25141927"
+      },
+      {
+        "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+        "page_number": "Mentioned and Reproduced: cat. no. 514",
+        "url": "https://archive.org/details/CMAHandbook1958/page/n95"
+      },
+      {
+        "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+        "page_number": "Reproduced: p. 182",
+        "url": "https://archive.org/details/CMAHandbook1966/page/n206"
+      },
+      {
+        "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+        "page_number": "Reproduced: p. 182",
+        "url": "https://archive.org/details/CMAHandbook1969/page/n206"
+      },
+      {
+        "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+        "page_number": "Reproduced: p. 225",
+        "url": "https://archive.org/details/CMAHandbook1978/page/n245"
+      },
+      {
+        "citation": "Robinson, William H. \"Vuillard's <em>Under the Trees</em> from the Nabi Cycle <em>The Public Gardens</em>.\" <em>The Bulletin of the Cleveland Museum of Art</em> 79, no. 4 (1992): 111-27.",
+        "page_number": "Reproduced: cover, p. 112, 119; Mentioned: p. 111-27",
+        "url": "https://www.jstor.org/stable/25161356"
+      },
+      {
+        "citation": "Cleveland Museum of Art. <em>Cleveland Art: The Cleveland Museum of Art Members Magazine</em>. Vol. 38 no. 08, October 1998",
+        "page_number": "Mentioned & reproduced: p. 2",
+        "url": "https://archive.org/details/CMAMM1998-08/page/n1"
+      },
+      {
+        "citation": "Argencourt, Louise d', and Roger Diederen. <em>Catalogue of Paintings</em>. <em>Pt. 4. European Paintings of the 19th Century</em>. Cleveland: Cleveland Museum of Art, 1974.",
+        "page_number": "Mentioned and reproduced: P. 626-630, Vol. II, no. 219",
+        "url": ""
+      },
+      {
+        "citation": "Salomon, Antoine, Guy Cogeval, and Mathias Chivot. <em>Vuillard: The Inexhaustible Glance: Critical Catalogue of Paintings and Pastels.</em> Milan: Skira, 2003.",
+        "page_number": "Mentioned and reproduced: vol. 1, p. 394-396",
+        "url": null
+      },
+      {
+        "citation": "Cahn, Isabelle. \"The Nabis: Decorative Painting and the New Sensibility.\" In J<em>apanese Connections: The Birth of Modern Deco</em>r, pp. 44-55. Isabelle Cahn, ed. Beirut: Kaph Books 2018.",
+        "page_number": "Mentioned: p. 51; Reproduced: p. 53",
+        "url": null
+      },
+      {
+        "citation": "Brown, Heather Lemonedes. “The Nabi City.” In <em>Private Lives: Home and Family in the Art of the Nabis, Paris, 1889-1900</em>. Mary Weaver Chapin and Heather Lemonedes Brown, 222-261. Cleveland: Cleveland Museum of Art, 2021.",
+        "page_number": "Mentioned: P. 225-226; Reproduced: P. 242, no. 154",
+        "url": ""
+      }
+    ],
+    "url": "https://clevelandart.org/art/1953.212",
+    "images": {
+      "annotation": null,
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1953.212/1953.212_web.jpg",
+        "width": "407",
+        "height": "900",
+        "filesize": "253047",
+        "filename": "1953.212_web.jpg"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1953.212/1953.212_print.jpg",
+        "width": "1538",
+        "height": "3400",
+        "filesize": "2042618",
+        "filename": "1953.212_print.jpg"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1953.212/1953.212_full.tif",
+        "width": "6302",
+        "height": "13936",
+        "filesize": "263499396",
+        "filename": "1953.212_full.tif"
+      }
+    },
+    "alternate_images": [
+      {
+        "date_created": "2008-02-25T14:50:09",
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1953.212/1953.212_alt0_web.jpg",
+          "width": "398",
+          "height": "893",
+          "filesize": "303672"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1953.212/1953.212_alt0_print.jpg",
+          "width": "1514",
+          "height": "3400",
+          "filesize": "3982770"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1953.212/1953.212_alt0_full.tif",
+          "width": "2693",
+          "height": "6049",
+          "filesize": "48905216"
+        }
+      },
+      {
+        "date_created": "2021-01-08T09:52:28",
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1953.212/1953.212_alt1_web.jpg",
+          "width": "453",
+          "height": "900",
+          "filesize": "153394"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1953.212/1953.212_alt1_print.jpg",
+          "width": "1713",
+          "height": "3400",
+          "filesize": "1004536"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1953.212/1953.212_alt1_full.tif",
+          "width": "7082",
+          "height": "14058",
+          "filesize": "298700764"
+        }
+      },
+      {
+        "date_created": "2021-01-06T16:48:35",
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1953.212/1953.212_alt2_web.jpg",
+          "width": "494",
+          "height": "900",
+          "filesize": "262377"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1953.212/1953.212_alt2_print.jpg",
+          "width": "1865",
+          "height": "3400",
+          "filesize": "2235151"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1953.212/1953.212_alt2_full.tif",
+          "width": "7579",
+          "height": "13820",
+          "filesize": "314251488"
+        }
+      }
+    ],
+    "creditline": "Gift of the Hanna Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": "Michael J. Horvitz Family Gallery",
+    "athena_id": 130457,
+    "creators": [
+      {
+        "id": 1833,
+        "description": "Édouard Vuillard (French, 1868–1940)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "After attending the Lycée Condorcet, Édouard Vuillard entered the studio of history painter Diogène Maillart (1840-1926). In 1886 he enrolled at the Académie Julian, where he was taught by Tony Robert-Fleury (1837-1911) and Bouguereau (q.v.). The following year he was accepted into the École des Beaux-Arts and was briefly in the atelier of Gérôme (q.v.). At this time he also studied seventeenth-century Dutch painting and the works of Chardin (1699-1779). By 1889 Vuillard was persuaded by his friend painter and theorist Maurice Denis (1870-1943) to join the newly formed group of artists known as the Nabis. The Nabis based many of their ideas on synthetism, first developed by Gauguin (q.v.) and Émile Bernard (1868-1941), in which the artist was to work not from nature but from memory. Vuillard's initial synthetist works reveal a preoccupation with pattern and bright colors, denying the three-dimensionality of the object. By 1892, however, his colors were more subdued, reflecting his desire to mimic the unusual lighting effects that he had seen in symbolist theater. Vuillard's first major commissions date from this time, including nine panels for the dining room of Alexandre Natanson and four decorative panels for the library of Dr. Henri Vaquez. In 1898 Vuillard visited Venice and Florence, and the following year he and Bonnard (q.v.), a fellow member of the Nabis, made an excursion to London. Later they went to Milan and Venice and eventually to Spain. Vuillard also made trips to Brittany and Normandy. His first public commission came in 1912, when he was asked to paint panels for the foyer of the Comédie des Champs-Elysées in Paris. During that period he moved beyond the synthetism of the Nabis and returned to a more traditional perspective. At the same time he was accepting commissions for portraits. In 1936 he was chosen to paint a mural at the Palais des Nations in Geneva and was subsequently elected to the Institut de France.",
+        "name_in_original_language": null,
+        "birth_year": "1868",
+        "death_year": "1940",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1953-06-17T00:00:00",
+    "sortable_date": 1894,
+    "date_added_to_oa": null,
+    "date_text": "1894",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": true,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:02:21.705000"
+  }
+}

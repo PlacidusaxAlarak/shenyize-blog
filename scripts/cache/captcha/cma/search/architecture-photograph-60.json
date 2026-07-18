@@ -1,0 +1,2125 @@
+{
+  "info": {
+    "total": 74,
+    "parameters": {
+      "skip": 60,
+      "limit": 20,
+      "q": "architecture photograph",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,gallery,classification_type,department,collection",
+      "search": "architecture photograph"
+    }
+  },
+  "data": [
+    {
+      "id": 165622,
+      "accession_number": "2007.54",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Angkor-Thom, c. 1930s. Georges Hugnet (French, 1906–1974). Photomechanical reproduction, collage; image: 13.1 x 10 cm (5 3/16 x 3 15/16 in.). The Cleveland Museum of Art, John L. Severance Fund, 2007.54. © 2013 Artists Rights Society (ARS), New York / ADAGP, Paris",
+      "current_location": null,
+      "title": "Angkor-Thom",
+      "creation_date": "c. 1930s",
+      "creation_date_earliest": 1930,
+      "creation_date_latest": 1939,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 20th century"
+      ],
+      "technique": "photomechanical reproduction, collage",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - French 20th Century",
+      "type": "Photograph",
+      "measurements": "Image: 13.1 x 10 cm (5 3/16 x 3 15/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.131,
+          "width": 0.1
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© 2013 Artists Rights Society (ARS), New York / ADAGP, Paris",
+      "inscriptions": [
+        {
+          "inscription": "signed on recto",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 335808,
+            "title": "Georges Hugnet Collages",
+            "description": "<i>Georges Hugnet Collages</i>. Galerie 14/16 Verneuil, (November 13, 2003-January 31, 2004).",
+            "opening_date": "2003-11-13T05:00:00"
+          },
+          {
+            "id": 203169,
+            "title": "Forbidden Games: Surrealist and Modernist Photography",
+            "description": "<i>Forbidden Games: Surrealist and Modernist Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 19, 2014-January 11, 2015).",
+            "opening_date": "2014-10-19T00:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Ferro Collection",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "(Florent Jeanniard, Paris)",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "David Raymond [b.1979], New York, NY",
+          "citations": [],
+          "footnotes": [],
+          "date": "2007",
+          "sortorder": 3
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 4
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "A full-scale replica of the temple of Angkor Wat at the 1931 International Colonial Exposition of Paris sparked popular interest in architecture in Cambodia, which was then a French protectorate. Hugnet transformed a gallery announcement for a 1926 exhibition of drawings of Cambodian ruins into a satirical portrait by merely gluing four tiny bits of printed paper onto the image of the temple. The Surrealists staged two public protests against the Colonial Exposition; Hugnet’s collage may have been a more intimate form of commentary.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79994898"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E. Hinson, Ian Walker, and Lisa Kurzner. Forbidden Games: Surrealist and Modernist Photography : the David Raymond Collection in the Cleveland Museum of Art. 2014.",
+          "page_number": "cat. no. 83, p. 128",
+          "url": null
+        },
+        {
+          "citation": "Hugnet, Georges, Timothy Baum, François Buot, and Sam Stourdzé. Georges Hugnet: collages. Paris: L. Scheer, 2003.",
+          "page_number": "p.145",
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/2007.54",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 165622,
+      "creators": [
+        {
+          "id": 55035,
+          "description": "Georges Hugnet (French, 1906–1974)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1906",
+          "death_year": "1974",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2007-02-26T00:00:00",
+      "sortable_date": 1930,
+      "date_added_to_oa": null,
+      "date_text": "c. 1930s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Angkor Wat"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:49.270000"
+    },
+    {
+      "id": 541476,
+      "accession_number": "2023.96",
+      "share_license_status": "Copyrighted",
+      "tombstone": "One and Three Persons (with Two Contexts - One Chaotic), 1994–2012. John Baldessari (American, 1931–2020). 14 color screenprint; sheet: 121.9 x 94 cm (48 x 37 in.). The Cleveland Museum of Art, Gift of Linda and Jack Lissauer, M.D., 2023.96",
+      "current_location": null,
+      "title": "One and Three Persons (with Two Contexts - One Chaotic)",
+      "creation_date": "1994–2012",
+      "creation_date_earliest": 1994,
+      "creation_date_latest": 2012,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "14 color screenprint",
+      "support_materials": [],
+      "department": "Prints",
+      "collection": "PR - Screenprint",
+      "type": "Print",
+      "measurements": "Sheet: 121.9 x 94 cm (48 x 37 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 1.219,
+          "width": 0.94
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": "Edition of 48",
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 541557,
+            "title": "New Narratives: Contemporary Works on Paper",
+            "description": "<i>New Narratives: Contemporary Works on Paper</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 19, 2023-April 14, 2024).",
+            "opening_date": "2023-11-19T05:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Pioneering Conceptual artist John Baldessari worked in a plethora of media including sculpture, printmaking, photography, painting, film, performance, installation, and books.",
+      "description": "John Baldessari was known for incorporating appropriated imagery into his various artworks, including into his printmaking practice. Here he used found photographs of architecture and architectural rubble juxtaposed with outlined figures to create strange or even ominous undertones. His continuing interest in formal qualities, such as dimensionality, is highlighted by his use of the irregularly shaped sheet of paper, white cut-outs and silhouettes.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q122828793"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2023.96",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Linda and Jack Lissauer, M.D.",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 541476,
+      "creators": [
+        {
+          "id": 22195,
+          "description": "John Baldessari (American, 1931–2020)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1931",
+          "death_year": "2020",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 68096,
+          "description": "Gemini G.E.L., Los Angeles",
+          "extent": "published by",
+          "qualifier": null,
+          "role": "publisher",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": false,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2023-06-05T04:00:00Z",
+      "sortable_date": 1994,
+      "date_added_to_oa": null,
+      "date_text": "1994–2012",
+      "collapse_artists": true,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:14.424000"
+    },
+    {
+      "id": 141728,
+      "accession_number": "1965.310",
+      "share_license_status": "CC0",
+      "tombstone": "Sketch for \"The Revolt at Cairo\", c. 1809. Anne-Louis Girodet de Roucy-Trioson (French, 1767–1824). Oil on paper, mounted on paper and canvas; framed: 25 x 33 x 6.5 cm (9 13/16 x 13 x 2 9/16 in.); unframed: 15.2 x 23.3 cm (6 x 9 3/16 in.). The Cleveland Museum of Art, Gift of Eugene Victor Thaw, 1965.310",
+      "current_location": null,
+      "title": "Sketch for \"The Revolt at Cairo\"",
+      "creation_date": "c. 1809",
+      "creation_date_earliest": 1804,
+      "creation_date_latest": 1814,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "oil on paper, mounted on paper and canvas",
+      "support_materials": [],
+      "department": "Modern European Painting and Sculpture",
+      "collection": "Mod Euro - Painting 1800-1960",
+      "type": "Painting",
+      "measurements": "Framed: 25 x 33 x 6.5 cm (9 13/16 x 13 x 2 9/16 in.); Unframed: 15.2 x 23.3 cm (6 x 9 3/16 in.)",
+      "dimensions": {
+        "framed": {
+          "height": 0.25,
+          "width": 0.33,
+          "depth": 0.065
+        },
+        "unframed": {
+          "height": 0.152,
+          "width": 0.233
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 300794,
+            "title": "Year in Review: 1965",
+            "description": "<i>Year in Review: 1965</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 27-November 14, 1965).",
+            "opening_date": "1965-10-27T04:00:00"
+          },
+          {
+            "id": 443185,
+            "title": "French Nineteenth Century Oil Sketches: David to Degas",
+            "description": "<i>French Nineteenth Century Oil Sketches: David to Degas</i>. Ackland Art Museum, University of North Carolina, Chapel Hill, NC, Chapel Hill, NC (organizer) (March 5-April 30, 1978).",
+            "opening_date": "1978-03-05T05:00:00"
+          },
+          {
+            "id": 304414,
+            "title": "Idea to Image: Preparatory Studies from the Renaissance to Impressionism",
+            "description": "<i>Idea to Image: Preparatory Studies from the Renaissance to Impressionism</i>. The Cleveland Museum of Art (organizer) (February 19-March 23, 1980).",
+            "opening_date": "1980-02-19T05:00:00"
+          },
+          {
+            "id": 442363,
+            "title": "Goya: das Zeitalter der Revolutionen, 1789-1830 (Goya: The Age of Revolutions, 1789-1830)",
+            "description": "<i>Goya: das Zeitalter der Revolutionen, 1789-1830 (Goya: The Age of Revolutions, 1789-1830)</i>. Hamburger Kunsthalle, Hamburg, Germany (organizer) (October 16, 1980-January 4, 1981).",
+            "opening_date": "1980-10-16T04:00:00"
+          },
+          {
+            "id": 441965,
+            "title": "Triumph und Tod des Helden (Triumph and Death of the Hero): European History Painting from Rubens to Manet",
+            "description": "<i>Triumph und Tod des Helden (Triumph and Death of the Hero): European History Painting from Rubens to Manet</i>. Wallraf-Richartz Museum, 50667 Cologne, Germany (organizer) (October 30, 1987-January 10, 1988); Kunsthaus Zürich, CH-8024 Zürich, Switzerland (March 3-April 24, 1988); Musée des Beaux-Arts de Lyon, 69001 Lyon, France (May 19-July 17, 1988).",
+            "opening_date": "1987-10-30T05:00:00"
+          },
+          {
+            "id": 311635,
+            "title": "French Drawings from the Collection",
+            "description": "<i>French Drawings from the Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 13, 1994-March 12, 1995).",
+            "opening_date": "1994-12-13T05:00:00"
+          },
+          {
+            "id": 219170,
+            "title": "Girodet: Romantic Rebel",
+            "description": "<i>Girodet: Romantic Rebel</i>. The Art Institute of Chicago, Chicago, IL (February 11-April 30, 2006); The Metropolitan Museum of Art, New York, NY (May 22-August 27, 2006); Montréal Museum of Fine Arts, Montreal, Quebec, Canada (October 12, 2006-January 21, 2007).",
+            "opening_date": "2005-09-19T00:00:00"
+          },
+          {
+            "id": 521173,
+            "title": "Egyptomania: Fashion’s Conflicted Obsession",
+            "description": "<i>Egyptomania: Fashion’s Conflicted Obsession</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 1, 2023-January 28, 2024).",
+            "opening_date": "2023-04-01T04:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Kansas City, Nelson Atkins Museum. The Taste of Napoleon (1969), no. 35.",
+            "opening_date": "1969-01-01T00:00:00"
+          },
+          {
+            "description": "Chapel Hill, William Hayes Ackland Memorial Art Center, University of North Carolina. French Nineteenth Century Oil Sketches: David to Degas (1978), no. 39, fig. 39.",
+            "opening_date": "1978-01-01T00:00:00"
+          },
+          {
+            "description": "cma; Brooklyn Museum; Saint Louis Art Museum; Glasgow Art Gallery and Museum. The Realist Tradition: French Painting and Drawing 1830-1900 (1980-82), 72-73 (repr.). Text by Gabriel P. Weisberg.",
+            "opening_date": "1900-01-01T00:00:00"
+          },
+          {
+            "description": "Kunsthalle Hamburg. Goya: Das Zeitalter der Revolutionen 1789-1830 (1981), 534, no. 393, pl. xx.",
+            "opening_date": "1981-01-01T00:00:00"
+          },
+          {
+            "description": "Providence, Bell Gallery, Brown University. All the Banners Wave: Art and War in the Romantic Era 1792-1851 (1982), no. 11b (repr.).",
+            "opening_date": "1982-01-01T00:00:00"
+          },
+          {
+            "description": "Memorial Art Gallery of the University of Rochester (N.Y.); Neuberger Museum, State University of New York at Purchase. Orientalism: The Near East in French Painting, 1800-1880 (1982), no. 45, fig. 14.",
+            "opening_date": "1982-01-01T00:00:00"
+          },
+          {
+            "description": "Cologne, Wallraf-Richartz-Museum; Kunsthaus Zürich; Lyons, Musée des Beaux-Arts. Triumph und Tod des Helden: Europäische Historienmalerei von Rubens bis Manet (1987-88), no. 134 (repr.).",
+            "opening_date": "1987-01-01T00:00:00"
+          },
+          {
+            "description": "Art Institute of Chicago, IL (2/11/2006 - 4/30/2006), Metropolitan Museum of Art, NYC (5/22/2006 - 8/27/2006) and the Musée des Beaux Arts, Montréal (10/12/2006 - 1/21/2007): \"Girodet: Romantic Rebel\" (Paris: Musée du Louvre Êdition ©2005), ex. cat. 56, p. 317.",
+            "opening_date": "2006-02-11T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Paris sale, Drouot, collection Coutan-Hauguet, 16-17 December 1889 (lot 16), \"Géricault [annotation gives: Girodet]: Révolte du Caire, 21 Octobre 1798, première pensée: esquisse,\" 15 x 24 cm, for ff 309 to Guillon [annotated]. Eugene Victor Thaw, New York. Given to the CMA in 1965.",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Throughout the 1800s and into the 1900s, prints, paintings, and photographs, like Louis Haghe’s <em>Egypt and Nubia</em> series, brought back by artists who voyaged to Egypt, inspired American and European artists, architects, and designers to emulate ancient Egyptian motifs and styles. Egyptomania blossomed through the 1800s and can be seen in architecture around cities like Washington, DC, and in the interiors of aristocratic homes, as well as in funerary monuments, such as in Lake View Cemetery in Cleveland, Ohio. Looking back at these creations provides an interesting historical groundwork for debating who has the right to interpret Egyptian motifs and styles.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60469487"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1965.310-sketch-for-the-revol"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "“Annual Report for 1965.” <em>The Bulletin of the Cleveland Museum of Art</em> 53, no. 6 (June 1966): 137–171.",
+          "page_number": "Mentioned: p. 140, 141",
+          "url": "http://www.jstor.org/stable/25152106"
+        },
+        {
+          "citation": "Argencourt, Louise d', and Roger Diederen. <em>Catalogue of Paintings</em>. <em>Pt. 4. European Paintings of the 19th Century</em>. Cleveland: Cleveland Museum of Art, 1974.",
+          "page_number": "Mentioned and reproduced: P. 298-300, Vol. I, no. 107",
+          "url": ""
+        },
+        {
+          "citation": "Bellenger, Sylvain, ed.<em> Girodet, 1767-1824</em>. [Paris, France]: Gallimard, 2006.",
+          "page_number": "Mentioned and reproduced: pp. 316-319, cat. 56",
+          "url": null
+        },
+        {
+          "citation": "Lisby, Darnell-Jamal. “Egyptomania: Engaging the conflicted obsession.\"<em> Cleveland Museum of Art Members Magazine </em>vol. 63, no. 1 (2023): 12-15.",
+          "page_number": "Reproduced: P. 12",
+          "url": "https://archive.org/details/CMAMM2023-01/page/n11/mode/2up"
+        }
+      ],
+      "url": "https://clevelandart.org/art/1965.310",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1965.310/1965.310_web.jpg",
+          "width": "1263",
+          "height": "826",
+          "filesize": "266500",
+          "filename": "1965.310_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1965.310/1965.310_print.jpg",
+          "width": "3400",
+          "height": "2224",
+          "filesize": "1600541",
+          "filename": "1965.310_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1965.310/1965.310_full.tif",
+          "width": "6346",
+          "height": "4152",
+          "filesize": "79069540",
+          "filename": "1965.310_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1965.310/1965.310_alt0_web.jpg",
+            "width": "1263",
+            "height": "819",
+            "filesize": "948254"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1965.310/1965.310_alt0_print.jpg",
+            "width": "2048",
+            "height": "1328",
+            "filesize": "2433853"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1965.310/1965.310_alt0_full.tif",
+            "width": "2048",
+            "height": "1328",
+            "filesize": "8162068"
+          }
+        },
+        {
+          "date_created": "2013-09-23T15:34:44",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1965.310/1965.310_alt1_web.jpg",
+            "width": "1263",
+            "height": "829",
+            "filesize": "217828"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1965.310/1965.310_alt1_print.jpg",
+            "width": "3400",
+            "height": "2233",
+            "filesize": "1326965"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1965.310/1965.310_alt1_full.tif",
+            "width": "6788",
+            "height": "4460",
+            "filesize": "90847136"
+          }
+        }
+      ],
+      "creditline": "Gift of Eugene Victor Thaw",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 141728,
+      "creators": [
+        {
+          "id": 1697,
+          "description": "Anne-Louis Girodet de Roucy-Trioson (French, 1767–1824)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "On the advice of his architecture instructor Étienne-Louis Boullée (1728-1799), Girodet enrolled in the atelier of David (q.v.) in 1783 to study painting, working alongside other young artists like Gros (q.v.) and Jean-Baptiste-Joseph Wicar (1762-1834) who were also taught in David's neoclassical style. Girodet's early works display the influence of David in the linear and sculptural quality of his figures. After three consecutive years of competing for the Prix de Rome, he finally won at his fourth effort in 1789. Later that year the Revolution broke out in France and Girodet made numerous drawings of the fall of the Bastille. In 1790 he left for Italy where he stayed for five years. During that time his style changed and softened under the influence of the works of Leonardo (1452-1519) and Correggio (1489/94-1534). Girodet strove to be unique and original in his depictions and even went to great lengths to oppose David's neoclassicism. His new interest in atmospheric and light effects differed from that of his teacher. He made a name for himself at the Salon of 1793, with his submission of Sleep of Endymion (Musée du Louvre, Paris). After his return to Paris from Italy, Girodet became known as a portrait painter and accepted numerous commissions, but many of them were either late in delivery or never completed. Girodet's tendency to interpret commissions to prove his own originality often offended and alienated his patrons. He did not find official success at the Salon again until 1808 and produced little after 1815.",
+          "name_in_original_language": null,
+          "birth_year": "1767",
+          "death_year": "1824",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1965-09-11T00:00:00",
+      "sortable_date": 1804,
+      "date_added_to_oa": null,
+      "date_text": "c. 1809",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": true,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:08.191000"
+    },
+    {
+      "id": 146318,
+      "accession_number": "1972.1087",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Terminal Tower, Ohio, 1928. Margaret Bourke-White (American, 1904–1971). Vintage gelatin silver print; image: 17.8 x 7.3 cm (7 x 2 7/8 in.); mounted: 25.2 x 19.4 cm (9 15/16 x 7 5/8 in.); matted: 45.7 x 35.6 cm (18 x 14 in.). The Cleveland Museum of Art, Gift of Mrs. Edd A. Ruggles, 1972.1087. ©  Estate of Margaret Bourke-White / Licensed by VAGA at Artists Rights Society (ARS), NY",
+      "current_location": null,
+      "title": "Terminal Tower, Ohio",
+      "creation_date": "1928",
+      "creation_date_earliest": 1928,
+      "creation_date_latest": 1928,
+      "artists_tags": [
+        "May Show",
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "Vintage gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 17.8 x 7.3 cm (7 x 2 7/8 in.); Mounted: 25.2 x 19.4 cm (9 15/16 x 7 5/8 in.); Matted: 45.7 x 35.6 cm (18 x 14 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.178,
+          "width": 0.073
+        },
+        "mounted": {
+          "height": 0.252,
+          "width": 0.194
+        },
+        "matted": {
+          "height": 0.457,
+          "width": 0.356
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "©  Estate of Margaret Bourke-White / Licensed by VAGA at Artists Rights Society (ARS), NY",
+      "inscriptions": [
+        {
+          "inscription": "lower right in pencil: Bourke-White\r\nInside (Christmas Card): Margaret Bourke-White sends Christmas Greetings to Mr. Ruggles Terminal Tower 1928",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 310260,
+            "title": "American Cities: The Artist's View",
+            "description": "<i>American Cities: The Artist's View</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 17, 1989-January 7, 1990).",
+            "opening_date": "1989-10-17T04:00:00"
+          },
+          {
+            "id": 521173,
+            "title": "Egyptomania: Fashion’s Conflicted Obsession",
+            "description": "<i>Egyptomania: Fashion’s Conflicted Obsession</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 1, 2023-January 28, 2024).",
+            "opening_date": "2023-04-01T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Reminiscent of the ancient Lighthouse of Alexandria, Terminal Tower is an example of how Egyptomania impacted architecture in Cleveland, Ohio. Like the ancient lighthouse, Terminal Tower is a symbolic and functional building, dedicated to trade and commerce. Inspired by Roman mausoleums, the Van Sweringen brothers designed Terminal Tower in the Beaux-Art style, balancing Classical sculpture and architectural elements with modern materials. After assuming power over Egypt, the Greek general Ptolemy began constructing the Alexandrian lighthouse in 280 BCE. He used traditional Greek architectural techniques, which the Romans later borrowed, and which were subsequently interpreted by Beaux-Art architects in the 1800s.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79924710"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1972.1087",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Mrs. Edd A. Ruggles",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 146318,
+      "creators": [
+        {
+          "id": 262,
+          "description": "Margaret Bourke-White (American, 1904–1971)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Margaret Bourke-White American, 1904-1971 Margaret Bourke-White was a preeminent photojournalist who gained fame for her striking images published in Fortune and Life magazines in the 1930s-50s. In 1922, while at Columbia University Teachers College in her native New York City, Bourke-White studied photography with Clarence White. She attended several other colleges before graduating from Cornell University (1927), then moved to Cleveland. The city's industrial landscape was influential in the development of Bourke-White's photographic style. One of her images from this period, Romance of Steel, was a first-place winner in the Cleveland Museum of Art's 1928 May Show, a regional juried exhibition. The following year Bourke-White moved back to New York to work for Henry Luce's new business magazine, Fortune. In 1934 she was sent by the magazine to cover the drought in the Midwest, an assignment she credited with awakening her social conscience. Three years later she collaborated with writer Erskine Caldwell on You Have Seen Their Faces, an acclaimed study of the plight of rural Southerners during the Great Depression. Bourke-White's long association with Life began in 1936 when she joined the magazine as one of its first staff photographers. When it premiered on November 23, 1936, her photographs of Fort Peck Dam in Montana were featured on the cover and in the lead story. During her career, Bourke-White covered many major world events: the Great Depression, World War II, the partitioning of India, and the Korean War. She continued to photograph throughout the 1950s, publishing her images in magazines and in a number of books, including Eyes on Russia (1931), North of the Danube, with Erskine Caldwell (1939), Say, Is This the U.S.A.?, with Erskine Caldwell (1941), Shooting the Russian War (1942), Dear Fatherland, Rest Quietly (1946), Halfway to Freedom: A Report on the New India (1949), and Portrait of Myself (her autobiography, 1963). M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1904",
+          "death_year": "1971",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1972-12-05T00:00:00",
+      "sortable_date": 1928,
+      "date_added_to_oa": null,
+      "date_text": "1928",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:33.041000"
+    },
+    {
+      "id": 166754,
+      "accession_number": "2008.47",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Architecture of Density #45, 2005. Michael Wolf (American, 1954–2019). Chromogenic process color print; image: 63.5 x 95.6 cm (25 x 37 5/8 in.); mounted: 83.6 x 114.1 cm (32 15/16 x 44 15/16 in.); paper: 83.6 x 114.1 cm (32 15/16 x 44 15/16 in.). The Cleveland Museum of Art, Gift of Amy and Neil Viny, 2008.47",
+      "current_location": null,
+      "title": "Architecture of Density #45",
+      "creation_date": "2005",
+      "creation_date_earliest": 2005,
+      "creation_date_latest": 2005,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "chromogenic process color print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 63.5 x 95.6 cm (25 x 37 5/8 in.); Mounted: 83.6 x 114.1 cm (32 15/16 x 44 15/16 in.); Paper: 83.6 x 114.1 cm (32 15/16 x 44 15/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.635,
+          "width": 0.956
+        },
+        "mounted": {
+          "height": 0.836,
+          "width": 1.141
+        },
+        "paper": {
+          "height": 0.836,
+          "width": 1.141
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso of mount: \"MWO 08\"\r\n",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Artist; Robert Koch Gallery, San Francisco; Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79997435"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2008.47",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Amy and Neil Viny",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 166754,
+      "creators": [
+        {
+          "id": 57002,
+          "description": "Michael Wolf (American, 1954–2019)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1954",
+          "death_year": "2019",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2008-06-23T00:00:00",
+      "sortable_date": 2005,
+      "date_added_to_oa": null,
+      "date_text": "2005",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": "1",
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:04:50.544000"
+    },
+    {
+      "id": 160713,
+      "accession_number": "1998.72",
+      "share_license_status": "CC0",
+      "tombstone": "Westminster Abbey, before 1844. Nicholas Henneman (British, 1813–1898). Salted paper print from calotype negative; image: 16.1 x 18.2 cm (6 5/16 x 7 3/16 in.); paper: 18.5 x 22.9 cm (7 5/16 x 9 in.); matted: 35.6 x 45.7 cm (14 x 18 in.). The Cleveland Museum of Art, Andrew R. and Martha Holden Jennings Fund, 1998.72",
+      "current_location": null,
+      "title": "Westminster Abbey",
+      "creation_date": "before 1844",
+      "creation_date_earliest": 1800,
+      "creation_date_latest": 1899,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "salted paper print from calotype negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 16.1 x 18.2 cm (6 5/16 x 7 3/16 in.); Paper: 18.5 x 22.9 cm (7 5/16 x 9 in.); Matted: 35.6 x 45.7 cm (14 x 18 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.161,
+          "width": 0.182
+        },
+        "paper": {
+          "height": 0.185,
+          "width": 0.229
+        },
+        "matted": {
+          "height": 0.356,
+          "width": 0.457
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in ink on verso \"LA22\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Lacock Abbey",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "This rare image is the first photography by Henneman to enter the museum's collection. Its composition stresses the overall form as well as the details of the main entrance of London's Westminster Abbey. Instead of showing the entire building, Henneman selected a close vantage point to express his admiration of one of the greatest examples of early English architecture.  Enlivened with strong light and shadow patterns, the sculptural and textural refinements of the building are clearly visible in this subtly toned photograph.\r\n\r\nHenneman became a key figure in the early history of photography through his association with the inventor of the calotype process, William Henry Fox Talbot (1800–1877).  Beginning about 1841, Henneman made some of photography's earliest images and was the master printer for Talbot and a number of his close associates. Talbot even chose this picture to be included with 23 of his own images in his first  photographically illustrated book, The Pencil of Nature (1844 to 1846). \r\n",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79982338"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1998.72-westminster-abbey"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1998.72",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1998.72/1998.72_web.jpg",
+          "width": "900",
+          "height": "796",
+          "filesize": "249329",
+          "filename": "1998.72_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1998.72/1998.72_print.jpg",
+          "width": "3400",
+          "height": "3007",
+          "filesize": "2650702",
+          "filename": "1998.72_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1998.72/1998.72_full.tif",
+          "width": "5295",
+          "height": "4683",
+          "filesize": "74423364",
+          "filename": "1998.72_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2007-09-10T19:31:18",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1998.72/1998.72_alt0_web.jpg",
+            "width": "1006",
+            "height": "893",
+            "filesize": "677932"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1998.72/1998.72_alt0_print.jpg",
+            "width": "3400",
+            "height": "3017",
+            "filesize": "7451154"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1998.72/1998.72_alt0_full.tif",
+            "width": "5051",
+            "height": "4482",
+            "filesize": "67949080"
+          }
+        }
+      ],
+      "creditline": "Andrew R. and Martha Holden Jennings Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 160713,
+      "creators": [
+        {
+          "id": 19667,
+          "description": "Nicholas Henneman (British, 1813–1898)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1813",
+          "death_year": "1898",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1998-06-01T00:00:00",
+      "sortable_date": 1800,
+      "date_added_to_oa": null,
+      "date_text": "before 1844",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:11.452000"
+    },
+    {
+      "id": 165303,
+      "accession_number": "2007.21",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Starrett Lehigh Building, July 1936. Berenice Abbott (American, 1898–1991). Gelatin silver print; image: 19.8 x 24.5 cm (7 13/16 x 9 5/8 in.); paper: 20.2 x 25.5 cm (7 15/16 x 10 1/16 in.). The Cleveland Museum of Art, John L. Severance Fund, 2007.21. © Berenice Abbott/Getty Images",
+      "current_location": null,
+      "title": "Starrett Lehigh Building",
+      "creation_date": "July 1936",
+      "creation_date_earliest": 1936,
+      "creation_date_latest": 1936,
+      "artists_tags": [
+        "female",
+        "LGBTQ+ (after 1900)"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 19.8 x 24.5 cm (7 13/16 x 9 5/8 in.); Paper: 20.2 x 25.5 cm (7 15/16 x 10 1/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.198,
+          "width": 0.245
+        },
+        "paper": {
+          "height": 0.202,
+          "width": 0.255
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Berenice Abbott/Getty Images",
+      "inscriptions": [
+        {
+          "inscription": "Black stamp on verso of print: Federal Art Project/\"Changing New York\"/Photographs by Berenice Abbott",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 203169,
+            "title": "Forbidden Games: Surrealist and Modernist Photography",
+            "description": "<i>Forbidden Games: Surrealist and Modernist Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 19, 2014-January 11, 2015).",
+            "opening_date": "2014-10-19T00:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Harry Lunn, Ltd., Washington, DC)",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "(Edwyn Houk Gallery, New York, NY)",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "David Raymond [b. 1979], New York, NY",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007",
+          "sortorder": 3
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 4
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Raised in Springfield, Ohio, Abbott went to Paris to study art and took up photography when she became Man Ray’s studio assistant. She moved to New York in 1929. Shocked by the rapid changes in the urban landscape, she dedicated much of her life to documenting New York’s new buildings and its fast-disappearing historic ones. Abbott made this image while working for the Federal Art Project during the Great Depression. The upward, wide-angle view emphasizes the massiveness of the factory warehouse, which still occupies a full block in the Chelsea neighborhood. Opened in 1931, the building was notable for applying modernist architectural principles to industrial architecture.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79994063"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E. Hinson, Ian Walker, and Lisa Kurzner. Forbidden Games: Surrealist and Modernist Photography : the David Raymond Collection in the Cleveland Museum of Art. 2014.",
+          "page_number": "cat. no. 157, p. 193.",
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/2007.21",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 165303,
+      "creators": [
+        {
+          "id": 11,
+          "description": "Berenice Abbott (American, 1898–1991)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Berenice Abbott American, 1898-1991 Berenice Abbott was one of the most accomplished documentary photographers of the 20th century. The Springfield, Ohio, native also achieved recognition for her critical role in preserving and promoting the work of French photographer Eugène Atget. Abbott learned photography during the 1920s while serving as an assistant in Man Ray's Paris studio. In 1926 she opened her own portrait studio, photographing many of the artists and intellectuals then living in Paris, including Atget and James Joyce. Following Atget's death in 1927, Abbott was instrumental in preserving his prints and negatives and in bringing his work to public attention through exhibitions and publications. In 1929, the year that Abbott returned to the United States, her photographs were included in the important exhibition Film und Foto in Stuttgart. Once back in the U.S., Abbott opened a portrait studio in New York City and undertook an ambitious project to document the city's rapidly changing landscape. In 1935 she received assistance from the wpa Federal Arts Project, and two years later images from her study were exhibited at the Museum of the City of New York. In 1939 her photographs were featured in Changing New York, a book with accompanying text by critic Elizabeth McCausland. It was also during the 1930s that Abbott began teaching at the New School for Social Research, a position she held until 1958. In the 1940s Abbott published a manual of photographic instruction, A Guide to Better Photography (1941), as well as a book of photographs taken from 1947-48, Greenwich Village Today and Yesterday (1949). Her photographic subject matter broadened to include scientific phenomena, particularly physical and chemical reactions, an interest she pursued throughout the 1950s. American landscapes, however, continued to be a source of inspiration. In 1954 Abbott traveled U.S. Route 1 from Florida to Maine, photographing small towns encountered along the way. Throughout her long career, Abbott's work was exhibited widely, beginning with a 1926 Paris show at the avant-garde gallery Au Sacre du Printemps. Over the years she participated in numerous group exhibitions as well as in one-person shows at the Museum of Modern Art, New York (1970), the Museum of Photographic Arts, San Diego (1984), and the New York Public Library (1989). M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1898",
+          "death_year": "1991",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2007-02-26T00:00:00",
+      "sortable_date": 1936,
+      "date_added_to_oa": null,
+      "date_text": "July 1936",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:05:06.743000"
+    },
+    {
+      "id": 163081,
+      "accession_number": "2003.9",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Untitled #2421, 1999. Todd Hido (American, b. 1968). Chromogenic process color print; image: 96.5 x 76 cm (38 x 29 15/16 in.); mounted: 96.5 x 76.2 cm (38 x 30 in.); matted: 96.5 x 76.2 cm (38 x 30 in.). The Cleveland Museum of Art, Norman O. Stone and Ella A. Stone Memorial Fund, 2003.9",
+      "current_location": null,
+      "title": "Untitled #2421",
+      "creation_date": "1999",
+      "creation_date_earliest": 1999,
+      "creation_date_latest": 1999,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "chromogenic process color print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 96.5 x 76 cm (38 x 29 15/16 in.); Mounted: 96.5 x 76.2 cm (38 x 30 in.); Matted: 96.5 x 76.2 cm (38 x 30 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.965,
+          "width": 0.76
+        },
+        "mounted": {
+          "height": 0.965,
+          "width": 0.762
+        },
+        "matted": {
+          "height": 0.965,
+          "width": 0.762
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": "10",
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "written in black marker on verso of mount: \"Todd Hido/ #2421 3/9 1999\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": [
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art;  July 20, 2002- September 25, 2002.  \"House Hunting:  Photographs \".  No catalogue.",
+            "opening_date": "2002-07-20T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "House Hunting: Photographs by Todd Hido\r\nA native of Kent, Ohio, Todd Hido (born 1968) examined the prosaic qualities of suburban domestic architecture in highly detailed and luminous color photographs. These haunting images were created through long exposures relying only on the available light. Based in San Francisco, Hido has traveled extensively over the past five years to record-at night and in varying climatic conditions-houses whose glowing windows are the only indication of habitation. This exhibition juxtaposes such pictures with shots of rooms in recently foreclosed properties that the evicted tenants had to leave quickly. Devoid of people, his evocative photographs deal with issues of absence and abandonment and isolation and anonymity.\r\nOhio Prints\r\nAlthough he now resides in San Francisco, when creating this body of work Todd Hido frequently returned to Ohio to capture his home state in vivid color photographs. Over half of the images in this exhibition feature either the exteriors of houses or an interior of a house in Ohio: Untitled #1952, Untitled #2308, Untitled #2421, Untitled #2423-A, Untitled #2424-A, Untitled #2424-B, Untitled #2431, Untitled #2479-A, and Untitled #2840.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79988548"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2003.9",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Norman O. Stone and Ella A. Stone Memorial Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 163081,
+      "creators": [
+        {
+          "id": 42068,
+          "description": "Todd Hido (American, b. 1968)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1968",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2003-03-03T00:00:00",
+      "sortable_date": 1999,
+      "date_added_to_oa": null,
+      "date_text": "1999",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:55.741000"
+    },
+    {
+      "id": 170029,
+      "accession_number": "2012.256",
+      "share_license_status": "CC0",
+      "tombstone": "Egypt and Nubia, Volume I: The Great Temple of Aboo-Simble, Nubia, 1846. Louis Haghe (British, 1806–1885), F. G. Moon (British, 1797–1871), after David Roberts (Scottish, 1796–1864). Color lithograph; sheet: 43.7 x 60.3 cm (17 3/16 x 23 3/4 in.); image: 32.8 x 48.9 cm (12 15/16 x 19 1/4 in.). The Cleveland Museum of Art, Bequest of John Bonebrake, 2012.256",
+      "current_location": null,
+      "title": "Egypt and Nubia, Volume I: The Great Temple of Aboo-Simble, Nubia",
+      "creation_date": "1846",
+      "creation_date_earliest": 1846,
+      "creation_date_latest": 1846,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "color lithograph",
+      "support_materials": [
+        {
+          "description": "wove paper",
+          "watermarks": []
+        }
+      ],
+      "department": "Prints",
+      "collection": "PR - Lithograph",
+      "type": "Print",
+      "measurements": "Sheet: 43.7 x 60.3 cm (17 3/16 x 23 3/4 in.); Image: 32.8 x 48.9 cm (12 15/16 x 19 1/4 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.437,
+          "width": 0.603
+        },
+        "image": {
+          "height": 0.328,
+          "width": 0.489
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 521173,
+            "title": "Egyptomania: Fashion’s Conflicted Obsession",
+            "description": "<i>Egyptomania: Fashion’s Conflicted Obsession</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 1, 2023-January 28, 2024).",
+            "opening_date": "2023-04-01T04:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Nineteenth-Century Views of Egypt (CMA, May 19-September 9, 1992)",
+            "opening_date": "1992-05-19T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "[Otto Schreiber]",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Louis Haghe was appointed Lithographer to the Queen in 1838.",
+      "description": "Throughout the 1800s and into the 1900s, prints, paintings, and photographs, like Louis Haghe’s <em>Egypt and Nubia</em> series, brought back by artists who voyaged to Egypt, inspired American and European artists, architects, and designers to emulate ancient Egyptian motifs and styles. Egyptomania blossomed through the 1800s and can be seen in architecture around cities like Washington, DC, and in the interiors of aristocratic homes, as well as in funerary monuments, such as in Lake View Cemetery in Cleveland, Ohio. Looking back at these creations provides an interesting historical groundwork for debating who has the right to interpret Egyptian motifs and styles.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80078082"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2012.256-egypt-and-nubia-volu"
+        ]
+      },
+      "citations": [],
+      "catalogue_raisonne": "Abbey 272:8",
+      "url": "https://clevelandart.org/art/2012.256",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2012.256/2012.256_web.jpg",
+          "width": "1247",
+          "height": "893",
+          "filesize": "172286",
+          "filename": "2012.256_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2012.256/2012.256_print.jpg",
+          "width": "3400",
+          "height": "2435",
+          "filesize": "1761247",
+          "filename": "2012.256_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2012.256/2012.256_full.tif",
+          "width": "6305",
+          "height": "4517",
+          "filesize": "85461732",
+          "filename": "2012.256_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Bequest of John Bonebrake",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 170029,
+      "creators": [
+        {
+          "id": 27203,
+          "description": "Louis Haghe (British, 1806–1885)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1806",
+          "death_year": "1885",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 67928,
+          "description": "F. G. Moon (British, 1797–1871)",
+          "extent": null,
+          "qualifier": null,
+          "role": "published by",
+          "biography": "Sir Francis Graham Moon, 1st baronet (1796-1871) was a stationer, printer, bookseller, and publisher in London to 1853, after which he devoted himself to public life. He became Lord Mayor in 1854, the same year he was knighted.",
+          "name_in_original_language": null,
+          "birth_year": "1796",
+          "death_year": "1871",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        },
+        {
+          "id": 1474,
+          "description": "David Roberts (Scottish, 1796–1864)",
+          "extent": null,
+          "qualifier": "after",
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1796",
+          "death_year": "1864",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2012-12-03T00:00:00",
+      "sortable_date": 1846,
+      "date_added_to_oa": null,
+      "date_text": "1846",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:42.573000"
+    },
+    {
+      "id": 169914,
+      "accession_number": "2012.155",
+      "share_license_status": "CC0",
+      "tombstone": "Egypt and Nubia, Volume II: Pyramids of Geezeh, 1848. Louis Haghe (British, 1806–1885), F. G. Moon, 20 Threadneedle Street, London, after David Roberts (Scottish, 1796–1864). Color lithograph; sheet: 43.8 x 60.2 cm (17 1/4 x 23 11/16 in.); image: 34 x 53.5 cm (13 3/8 x 21 1/16 in.). The Cleveland Museum of Art, Bequest of John Bonebrake, 2012.155",
+      "current_location": null,
+      "title": "Egypt and Nubia, Volume II: Pyramids of Geezeh",
+      "creation_date": "1848",
+      "creation_date_earliest": 1848,
+      "creation_date_latest": 1848,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "color lithograph",
+      "support_materials": [
+        {
+          "description": "wove paper",
+          "watermarks": []
+        }
+      ],
+      "department": "Prints",
+      "collection": "PR - Lithograph",
+      "type": "Print",
+      "measurements": "Sheet: 43.8 x 60.2 cm (17 1/4 x 23 11/16 in.); Image: 34 x 53.5 cm (13 3/8 x 21 1/16 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.438,
+          "width": 0.602
+        },
+        "image": {
+          "height": 0.34,
+          "width": 0.535
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 521173,
+            "title": "Egyptomania: Fashion’s Conflicted Obsession",
+            "description": "<i>Egyptomania: Fashion’s Conflicted Obsession</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 1, 2023-January 28, 2024).",
+            "opening_date": "2023-04-01T04:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Nineteenth-Century Views of Egypt.(CMA, May 19-September 9, 1992",
+            "opening_date": "1992-05-19T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "[Otto Schreiber]",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Louis Haghe was appointed Lithographer to the Queen in 1838.",
+      "description": "Throughout the 1800s and into the 1900s, prints, paintings, and photographs, like Louis Haghe’s<em> Egypt and Nubia</em> series, brought back by artists who voyaged to Egypt, inspired American and European artists, architects, and designers to emulate ancient Egyptian motifs and styles. Egyptomania blossomed through the 1800s and can be seen in architecture around cities like Washington, DC, and in the interiors of aristocratic homes, as well as in funerary monuments, such as in Lake View Cemetery in Cleveland, Ohio. Looking back at these creations provides an interesting historical groundwork for debating who has the right to interpret Egyptian motifs and styles.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80077811"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2012.155-egypt-and-nubia-volu"
+        ]
+      },
+      "citations": [],
+      "catalogue_raisonne": "Abbey 272:67",
+      "url": "https://clevelandart.org/art/2012.155",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2012.155/2012.155_web.jpg",
+          "width": "1257",
+          "height": "893",
+          "filesize": "136960",
+          "filename": "2012.155_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2012.155/2012.155_print.jpg",
+          "width": "3400",
+          "height": "2416",
+          "filesize": "2593288",
+          "filename": "2012.155_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2012.155/2012.155_full.tif",
+          "width": "6772",
+          "height": "4813",
+          "filesize": "97803448",
+          "filename": "2012.155_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Bequest of John Bonebrake",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 169914,
+      "creators": [
+        {
+          "id": 27203,
+          "description": "Louis Haghe (British, 1806–1885)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1806",
+          "death_year": "1885",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 67934,
+          "description": "F. G. Moon, 20 Threadneedle Street, London",
+          "extent": null,
+          "qualifier": null,
+          "role": "published by",
+          "biography": "Sir Francis Graham Moon, 1st baronet (1796–1871) was a stationer, printer, bookseller, and publisher in London to 1853, after which he devoted himself to public life. He became Lord Mayor in 1854, the same year he was knighted.",
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        },
+        {
+          "id": 1474,
+          "description": "David Roberts (Scottish, 1796–1864)",
+          "extent": null,
+          "qualifier": "after",
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1796",
+          "death_year": "1864",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2012-12-03T00:00:00",
+      "sortable_date": 1848,
+      "date_added_to_oa": null,
+      "date_text": "1848",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:42.485000"
+    },
+    {
+      "id": 161297,
+      "accession_number": "1999.7",
+      "share_license_status": "CC0",
+      "tombstone": "Plaster Cast from the Depaulis Collection, c. 1854–55. Henri Le Secq (French, 1818–1882). Salted paper print from waxed paper negative; image: 34.8 x 25.4 cm (13 11/16 x 10 in.); matted: 55.9 x 45.7 cm (22 x 18 in.). The Cleveland Museum of Art, Andrew R. and Martha Holden Jennings Fund, 1999.7",
+      "current_location": null,
+      "title": "Plaster Cast from the Depaulis Collection",
+      "creation_date": "c. 1854–55",
+      "creation_date_earliest": 1854,
+      "creation_date_latest": 1855,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "salted paper print from waxed paper negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - French 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 34.8 x 25.4 cm (13 11/16 x 10 in.); Matted: 55.9 x 45.7 cm (22 x 18 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.348,
+          "width": 0.254
+        },
+        "matted": {
+          "height": 0.559,
+          "width": 0.457
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "written in negative on recto: \"Collection/ de Mr/ Depaulis.\" \"h. Le Secq.\" (underlined)",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Henri Le Secq was one of the most gifted early photographers to record architecture and sculpture. This stunning image is from a small, rare group of photographs of the collection of Alexis-Joseph Depaulis (1792–1867), a French engraver and collector of historic paintings, drawings, prints, and sculptures, as well as casts of ancient and modern objects. The depicted work is a plaster cast made from an early 19th-century neoclassical funerary sculpture created by an uniden-tified artist, probably French. Le Secq's exceptional talent for capturing the broad effects of light and shadow animates the figures in this complex sculpture, giving them physical presence. Indeed, the shadows are deep and diffused because of the texture of the paper negative and the lengthy exposure time.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79983896"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1999.7-plaster-cast-from-th"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, “Major Benin Bronze Plaque, Rembrandt Print, Other Works of Art Enter CMA Collection,” March 12, 1999, Cleveland Museum of Art Archives.",
+          "page_number": null,
+          "url": "https://archive.org/details/cmapr4240"
+        }
+      ],
+      "url": "https://clevelandart.org/art/1999.7",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1999.7/1999.7_web.jpg",
+          "width": "661",
+          "height": "893",
+          "filesize": "417618",
+          "filename": "1999.7_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1999.7/1999.7_print.jpg",
+          "width": "2516",
+          "height": "3400",
+          "filesize": "5679598",
+          "filename": "1999.7_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1999.7/1999.7_full.tif",
+          "width": "4304",
+          "height": "5816",
+          "filesize": "75128756",
+          "filename": "1999.7_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Andrew R. and Martha Holden Jennings Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 161297,
+      "creators": [
+        {
+          "id": 1617,
+          "description": "Henri Le Secq (French, 1818–1882)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1818",
+          "death_year": "1882",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1999-03-01T00:00:00",
+      "sortable_date": 1854,
+      "date_added_to_oa": null,
+      "date_text": "c. 1854–55",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:05:31.861000"
+    },
+    {
+      "id": 159833,
+      "accession_number": "1997.145",
+      "share_license_status": "CC0",
+      "tombstone": "St. Andrews Castle, from the Southeast, 1846. David Octavius Hill (British, 1802–1870), and Robert Adamson (British, 1821–1848). Salted paper print from calotype negative; image: 19.9 x 18.7 cm (7 13/16 x 7 3/8 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, John L. Severance Fund, 1997.145",
+      "current_location": null,
+      "title": "St. Andrews Castle, from the Southeast",
+      "creation_date": "1846",
+      "creation_date_earliest": 1846,
+      "creation_date_latest": 1846,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "salted paper print from calotype negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 19.9 x 18.7 cm (7 13/16 x 7 3/8 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.199,
+          "width": 0.187
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "In graphite on verso: \"ST ANDREWS CASTLE FROM THE SOUTHEAST.\"; \"128\"; \"Avery 12)\"; \"1303.4\"; \"SOLD\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "This photograph is from a body of work created in 1846 by the pioneering Scottish photographers David Octavius Hill and Robert Adamson.  Their ambitious campaign to record the principal buildings and sites of the historic Scottish town of St. Andrews resulted in over 70 known images.  From an elevated viewpoint, they made three exposures of this picturesque vista of the ruins of St. Andrews Castle, located on a rocky shoreline jutting into the North Sea.  This poetic, evocative print, which may be unique, is notable for its broad areas to light and dark.  The diagonal shadow in the left foreground and the curving rock formations guide the viewer's interest to the remains of the castle.  Its tall, solid forms occupy the empty space of the sea and sky.\r\n\r\nThe photographers participated in a wide-ranging, contemporary interest in the architecture, landscape, and history of Scotland.  St. Andrews was a particular favorite, since it was the ancient ecclesiastical capital of Scotland and the seat of the oldest university.  Built around 1200, the castle was the residence of the bishops and archbishops of St. Andrews.  It was last rebuilt in the 17th century but was subsequently neglected.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79980072"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1997.145-st-andrews-castle-fr"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1997.145",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1997.145/1997.145_web.jpg",
+          "width": "1204",
+          "height": "893",
+          "filesize": "753018",
+          "filename": "1997.145_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1997.145/1997.145_print.jpg",
+          "width": "3400",
+          "height": "2521",
+          "filesize": "1800581",
+          "filename": "1997.145_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1997.145/1997.145_full.tif",
+          "width": "5778",
+          "height": "4284",
+          "filesize": "74290032",
+          "filename": "1997.145_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 159833,
+      "creators": [
+        {
+          "id": 156,
+          "description": "David Octavius Hill (British, 1802–1870)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "David Octavius Hill British, b. Scotland, 1802-1870; and Robert Adamson British, b. Scotland, 1821-1848\r\n\r\nBrought together out of necessity, David Octavius Hill and Robert Adamson proved to be collaborators whose work was as inspired as its impact has been long lasting. Hill was born in Perth to a family in the printing and publishing business. Trained as a painter, an occupation pursued throughout his life, Hill also was an illustrator and lithographer. His earliest work, Sketches of Scenery in Perthshire Drawn from Nature and on Stone (1821), published before he was 20, was one of the first in Britain to employ the new medium of lithography. In 1829 he helped found the Royal Scottish Academy, serving as secretary from 1830-70.\r\n\tHill turned to photography as an aid for a large group portrait of the 474 ministers who formed the new Free Church of Scotland. Noting the difficulties of such a monumental task, photographic pioneer Sir David Brewster, an associate of William Henry Fox Talbot, introduced Hill to Robert Adamson (born in Brunswick). Trained as an engineer, Adamson had learned the technique of photography from his brother John, whom Brewster had taught. The portraits necessary for Hill's work were the beginning of their collaboration, the two working in Adamson's Edinburgh studio in 1843. Hill is generally thought to be the artistic mind behind their images, while Adamson served as the technician responsible for the camera. This opinion among scholars, however, is shifting toward greater recognition of Adamson's artistic skill.\r\n\tAfter Adamson's early death in 1848, Hill stopped working entirely for 10 years before continuing in collaboration with A. McGlashan of Glasgow at a considerably diminished level. The portraits by Hill and Adamson are known for their painterly, Old Master quality and exceptional use of light and shadow. Other images include architecture, landscape, and a series on the small fishing village of Newhaven. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1802",
+          "death_year": "1870",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 159,
+          "description": "Robert Adamson (British, 1821–1848)",
+          "extent": null,
+          "qualifier": "and",
+          "role": "artist",
+          "biography": "David Octavius Hill British, b. Scotland, 1802-1870; and Robert Adamson British, b. Scotland, 1821-1848\r\n\r\nBrought together out of necessity, David Octavius Hill and Robert Adamson proved to be collaborators whose work was as inspired as its impact has been long lasting. Hill was born in Perth to a family in the printing and publishing business. Trained as a painter, an occupation pursued throughout his life, Hill also was an illustrator and lithographer. His earliest work, Sketches of Scenery in Perthshire Drawn from Nature and on Stone (1821), published before he was 20, was one of the first in Britain to employ the new medium of lithography. In 1829 he helped found the Royal Scottish Academy, serving as secretary from 1830-70.\r\n\tHill turned to photography as an aid for a large group portrait of the 474 ministers who formed the new Free Church of Scotland. Noting the difficulties of such a monumental task, photographic pioneer Sir David Brewster, an associate of William Henry Fox Talbot, introduced Hill to Robert Adamson (born in Brunswick). Trained as an engineer, Adamson had learned the technique of photography from his brother John, whom Brewster had taught. The portraits necessary for Hill's work were the beginning of their collaboration, the two working in Adamson's Edinburgh studio in 1843. Hill is generally thought to be the artistic mind behind their images, while Adamson served as the technician responsible for the camera. This opinion among scholars, however, is shifting toward greater recognition of Adamson's artistic skill.\r\n\tAfter Adamson's early death in 1848, Hill stopped working entirely for 10 years before continuing in collaboration with A. McGlashan of Glasgow at a considerably diminished level. The portraits by Hill and Adamson are known for their painterly, Old Master quality and exceptional use of light and shadow. Other images include architecture, landscape, and a series on the small fishing village of Newhaven. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1821",
+          "death_year": "1848",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1997-09-15T00:00:00",
+      "sortable_date": 1846,
+      "date_added_to_oa": null,
+      "date_text": "1846",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:43.232000"
+    },
+    {
+      "id": 159971,
+      "accession_number": "1997.241",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Barn Abstraction, c. 1939. Ralston Crawford (American, 1906–1978). Gelatin silver print; image: 12.5 x 22.4 cm (4 15/16 x 8 13/16 in.); matted: 35.6 x 45.7 cm (14 x 18 in.). The Cleveland Museum of Art, Jo Hershey Selden Fund, 1997.241. ©  Estate of Ralston Crawford / Licensed by VAGA at Artists Rights Society (ARS), NY",
+      "current_location": null,
+      "title": "Barn Abstraction",
+      "creation_date": "c. 1939",
+      "creation_date_earliest": 1934,
+      "creation_date_latest": 1944,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 12.5 x 22.4 cm (4 15/16 x 8 13/16 in.); Matted: 35.6 x 45.7 cm (14 x 18 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.125,
+          "width": 0.224
+        },
+        "matted": {
+          "height": 0.356,
+          "width": 0.457
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "©  Estate of Ralston Crawford / Licensed by VAGA at Artists Rights Society (ARS), NY",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \" P10114J\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 299125,
+            "title": "From Riches to Rags: American Photography in the Depression",
+            "description": "<i>From Riches to Rags: American Photography in the Depression</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 13-December 31, 2017).",
+            "opening_date": "2017-08-13T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Both of these images explore the relationship between the three- and two-dimensional worlds and, while remaining representational, emphasize each building’s abstract qualities. Best known as a painter, but also a draftsman, printmaker, filmmaker, and photographer. Crawford focused on the rural architecture of Pennsylvania and Delaware in the mid-1930s. The 18th-century adobe church of San Francisco de Assisi in Rancho de Taos, New Mexico, was an icon of pure form for modernist artists from Georgia O’Keeffe and Ansel Adams to Paul Strand, who spent summers in Taos from 1930 to 1932. Ansel Adams also chose this view of the back with its sculptural buttresses, stating that “it is the rear elevation that defines this building as one of the great architectural monuments of America.”",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79980417"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1997.241",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Jo Hershey Selden Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 159971,
+      "creators": [
+        {
+          "id": 5873,
+          "description": "Ralston Crawford (American, 1906–1978)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1906",
+          "death_year": "1978",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1997-12-01T00:00:00",
+      "sortable_date": 1934,
+      "date_added_to_oa": null,
+      "date_text": "c. 1939",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:21.205000"
+    },
+    {
+      "id": 156506,
+      "accession_number": "1992.221",
+      "share_license_status": "CC0",
+      "tombstone": "Taylor, Col. Meadows; Architecture in Dharwar and Mysore: Tank and Temples at Bunshunkuree, c. 1857. Col. Thomas Biggs (British, 1822–1905). Albumen print from wet collodion negative; image: 26.7 x 39.4 cm (10 1/2 x 15 1/2 in.); matted: 50.8 x 61 cm (20 x 24 in.). The Cleveland Museum of Art, Gift of Charles Isaacs in honor of Evan H. Turner, 1992.221",
+      "current_location": null,
+      "title": "Tank and Temples at Bunshunkuree",
+      "series": "Taylor, Col. Meadows; Architecture in Dharwar and Mysore",
+      "creation_date": "c. 1857",
+      "creation_date_earliest": 1852,
+      "creation_date_latest": 1862,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "albumen print from wet collodion negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "Photography",
+      "type": "Photograph",
+      "measurements": "Image: 26.7 x 39.4 cm (10 1/2 x 15 1/2 in.); Matted: 50.8 x 61 cm (20 x 24 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.267,
+          "width": 0.394
+        },
+        "matted": {
+          "height": 0.508,
+          "width": 0.61
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in negative: [unclear signature ?]; in pencil: \"Col. Biggs\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 311486,
+            "title": "Signs of Affection: Gifts Honoring the Museum's 75th Anniversary",
+            "description": "<i>Signs of Affection: Gifts Honoring the Museum's 75th Anniversary</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 27, 1992-January 3, 1993).",
+            "opening_date": "1992-10-27T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, October 27, 1992 - January 3, 1993: \"Signs of Affection: Gifts Honoring the Museum's Seventy-Fifth Anniversary,\" CMA Bulletin, 80 (February 1993), p. 67, no. 78.",
+            "opening_date": "1992-10-27T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "(Charles Isaacs Photographs, Inc., New York, NY)",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "October 19, 1992",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79945927"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1992.221-tank-and-temples-at"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Turner, Evan H. “The Year in Review for 1992.” <em>The Bulletin of the Cleveland Museum of Art</em> 80, no. 2 (February 1993): 38–79.",
+          "page_number": "Mentioned: p. 67",
+          "url": "http://www.jstor.org/stable/25161388"
+        },
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 97",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1992.221",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1992.221/1992.221_web.jpg",
+          "width": "1263",
+          "height": "850",
+          "filesize": "769031",
+          "filename": "1992.221_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1992.221/1992.221_print.jpg",
+          "width": "3400",
+          "height": "2289",
+          "filesize": "5049216",
+          "filename": "1992.221_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1992.221/1992.221_full.tif",
+          "width": "5939",
+          "height": "3999",
+          "filesize": "71281764",
+          "filename": "1992.221_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Gift of Charles Isaacs in honor of Evan H. Turner",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 156506,
+      "creators": [
+        {
+          "id": 232,
+          "description": "Col. Thomas Biggs (British, 1822–1905)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Colonel Thomas Biggs British, 1822-1905\r\n\r\nThe long British occupation of India increased European interest in the history and culture of this unfamiliar subcontinent. A member of the Bombay Artillery, Thomas Biggs was among a number of military men who as amateur photographers played an important role in recording the archaeological and artistic heritage of India.\r\n\tAccompanied by surgeon and fellow photographer Dr. W. H. Pigou, Biggs spent two years photographing monuments in Bijapur, Dharwar, and Mysore. Returning to military service during the Indian Mutiny (1857-59), he was asked again to make photographs in 1862-63 of Indian monuments in Ahmedabad. These views were published in Architecture at Ahmedabad, the Capital of Goozerat, Photographed by Colonel Biggs, R.A., the first volume of an ambitious series on architectural antiquities in India. The entire series was never completed, due in part to its expense, but the first three volumes appeared in 1866. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1822",
+          "death_year": "1905",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 68315,
+          "description": "J. Murray, pl. 88",
+          "extent": "published by",
+          "qualifier": null,
+          "role": "publisher",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": false,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1992-10-19T00:00:00",
+      "sortable_date": 1852,
+      "date_added_to_oa": null,
+      "date_text": "c. 1857",
+      "collapse_artists": true,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:07.580000"
+    }
+  ]
+}

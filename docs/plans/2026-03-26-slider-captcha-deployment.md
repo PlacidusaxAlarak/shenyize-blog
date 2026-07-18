@@ -43,7 +43,6 @@ Expected: PASS
 - Create: `public/slider-captcha/app.js`
 - Create: `public/slider-captcha/styles.css`
 - Create: `public/slider-captcha/assets/demo-background.svg`
-- Create: `public/slider-captcha/assets/placeholder-background.svg`
 - Create: `public/slider-captcha/js/captcha-interactions.js`
 - Create: `public/slider-captcha/js/captcha-logic.js`
 - Create: `public/slider-captcha/js/captcha-renderer.js`

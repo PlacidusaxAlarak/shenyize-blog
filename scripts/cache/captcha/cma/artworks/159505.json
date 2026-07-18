@@ -1,0 +1,118 @@
+{
+  "data": {
+    "id": 159505,
+    "accession_number": "1996.275",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Ancient Garden (Night Garden), 1953–55. Louise Nevelson (American, born Russian Empire [now Ukraine], 1900–1988). Etching, hand-colored with crayon; platemark: 37.1 x 45.1 cm (14 5/8 x 17 3/4 in.). The Cleveland Museum of Art, John L. Severance Fund, 1996.275. © Estate of Louise Nevelson / Artists Rights Society (ARS), New York",
+    "current_location": null,
+    "title": "Ancient Garden (Night Garden)",
+    "creation_date": "1953–55",
+    "creation_date_earliest": 1953,
+    "creation_date_latest": 1955,
+    "artists_tags": [
+      "female",
+      "Jewish artists"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "etching, hand-colored with crayon",
+    "support_materials": [],
+    "department": "Prints",
+    "collection": "PR - Etching",
+    "type": "Print",
+    "measurements": "Platemark: 37.1 x 45.1 cm (14 5/8 x 17 3/4 in.)",
+    "dimensions": {
+      "platemark": {
+        "height": 0.371,
+        "width": 0.451
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": "© Estate of Louise Nevelson / Artists Rights Society (ARS), New York",
+    "inscriptions": [
+      {
+        "inscription": "Written in graphite, lower right: \"Louise Nevelson\"; center: \"Ancient Garden\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 188479,
+          "title": "From Rembrandt to Rauschenberg:  Recently Acquired Prints",
+          "description": "<i>From Rembrandt to Rauschenberg:  Recently Acquired Prints</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 17-November 26, 2000).",
+          "opening_date": "2000-09-17T00:00:00"
+        },
+        {
+          "id": 286696,
+          "title": "Cutting Edge: Modern Prints from Atelier 17",
+          "description": "<i>Cutting Edge: Modern Prints from Atelier 17</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 9-August 13, 2017).",
+          "opening_date": "2017-04-09T04:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "During the late 1940s, Nevelson made trips to Mexico, as well as to Central and South America, where she was enthralled by elaborately carved pre-Columbian temples amid overgrown jungle landscapes. These inspired a series of prints with murky textures and mysterious forms that she later executed at Atelier 17 in New York. This impression of <em>Ancient Garden</em> is extremely rare in the artist’s use of hand coloring, including purple, green, yellow, and brown crayon.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79979179"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "catalogue_raisonne": "Johnson 18",
+    "url": "https://clevelandart.org/art/1996.275",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "John L. Severance Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 159505,
+    "creators": [
+      {
+        "id": 3922,
+        "description": "Louise Nevelson (American, born Russian Empire [now Ukraine], 1900–1988)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1900",
+        "death_year": "1988",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1996-09-16T00:00:00",
+    "sortable_date": 1953,
+    "date_added_to_oa": null,
+    "date_text": "1953–55",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [
+      "Night Garden"
+    ],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:01:04.692000"
+  }
+}

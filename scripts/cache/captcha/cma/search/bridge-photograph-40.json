@@ -1,0 +1,2606 @@
+{
+  "info": {
+    "total": 114,
+    "parameters": {
+      "skip": 40,
+      "limit": 20,
+      "q": "bridge photograph",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,gallery,classification_type,department,collection",
+      "search": "bridge photograph"
+    }
+  },
+  "data": [
+    {
+      "id": 154805,
+      "accession_number": "1989.388",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Untitled (Brooklyn Bridge Centennial), 1988. Jed Devine (American, 1944-). Palladium print; image: 5.4 x 16.9 cm (2 1/8 x 6 5/8 in.); paper: 9.4 x 21.5 cm (3 11/16 x 8 7/16 in.); matted: 25.4 x 30.6 cm (10 x 12 1/16 in.). The Cleveland Museum of Art, Gift of Bonni Benrubi, 1989.388",
+      "current_location": null,
+      "title": "Untitled (Brooklyn Bridge Centennial)",
+      "creation_date": "1988",
+      "creation_date_earliest": 1988,
+      "creation_date_latest": 1988,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "palladium print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 5.4 x 16.9 cm (2 1/8 x 6 5/8 in.); Paper: 9.4 x 21.5 cm (3 11/16 x 8 7/16 in.); Matted: 25.4 x 30.6 cm (10 x 12 1/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.054,
+          "width": 0.169
+        },
+        "paper": {
+          "height": 0.094,
+          "width": 0.215
+        },
+        "matted": {
+          "height": 0.254,
+          "width": 0.306
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on recto: \"Jed Devine [signed]\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 310333,
+            "title": "The Year in Review for 1989",
+            "description": "<i>The Year in Review for 1989</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 6-April 15, 1990).",
+            "opening_date": "1990-02-06T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, Feb. 6 - April 15, 1990: \"Year in Review 1989,\" CMA Bulletin, 77 (Feb. 1990), p. 67, no. 34.",
+            "opening_date": "1990-02-06T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79942407"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 140",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1989.388",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Bonni Benrubi",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 154805,
+      "creators": [
+        {
+          "id": 101,
+          "description": "Jed Devine (American, 1944-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Jed Devine American, 1944 -\r\n\r\nJohn Edward \"Jed\" Devine (born in Mount Kisco, New York) has worked as both an artist and educator. He studied painting at Yale University (B.A., 1967; M.F.A., 1972) and during that time began to photograph, finding the nature of abstract painting too \"impersonal\" for his concerns. He studied with and printed for Walker Evans and, like his professor, has worked primarily with an 8 x 10-inch camera. As subjects he chooses people and objects with personal associations, printing in black and white using the platinum-palladium process, which he feels best expresses the sensual qualities of his images. Committed to both the expressive and formal properties of the photographic process, Devine has stated that he is \"more interested in the feeling of a picture than in any idea behind it.\"\r\n\tIn a series of images exhibited and published under the title Friendship (1994), Devine explored his relationship with Jim Dinsmore -- a native of Friendship, Maine -- who died in 1988. Devine conceived of the project as an examination of the continual cycle of life, death, and renewal, juxtaposing images of simple everyday objects with landscape scenes, portraits of Dinsmore, and their letters of correspondence spanning the 13 years before Dinsmore's death. He has since focused on the memento mori as a subject, using as symbols melons and skulls to ruminate on the dichotomies of fecundity and decay, life and death.\r\n\t In addition to Friendship, Devine has published a monograph titled The Bethesda Terrace (1987). Among his many awards and honors are the Bishop Paul Moore Fellowship in Painting (1968), the Alice Kimball English Traveling Fellowship (1972), a grant from the New York Foundation for the Arts (1986), and a fellowship from the John Simon Guggenheim Memorial Foundation (1987). Since 1977 Devine has taught photography at the State University of New York College at Purchase. He lives in New York. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1944",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1990-01-29T00:00:00",
+      "sortable_date": 1988,
+      "date_added_to_oa": null,
+      "date_text": "1988",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:40.454000"
+    },
+    {
+      "id": 154922,
+      "accession_number": "1989.486",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Bascule Bridge in the Flats, 1987. Cervin Robinson (American, 1928–2022). Gelatin silver print; image: 34.5 x 26.9 cm (13 9/16 x 10 9/16 in.); paper: 35.6 x 27.7 cm (14 x 10 7/8 in.); matted: 50.8 x 40.6 cm (20 x 16 in.). The Cleveland Museum of Art, Funded by a grant from The Cleveland Foundation and the East Ohio Gas Company, 1989.486. © 1989 Cervin Robinson",
+      "current_location": null,
+      "title": "Bascule Bridge in the Flats",
+      "creation_date": "1987",
+      "creation_date_earliest": 1987,
+      "creation_date_latest": 1987,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 34.5 x 26.9 cm (13 9/16 x 10 9/16 in.); Paper: 35.6 x 27.7 cm (14 x 10 7/8 in.); Matted: 50.8 x 40.6 cm (20 x 16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.345,
+          "width": 0.269
+        },
+        "paper": {
+          "height": 0.356,
+          "width": 0.277
+        },
+        "matted": {
+          "height": 0.508,
+          "width": 0.406
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© 1989 Cervin Robinson",
+      "inscriptions": [
+        {
+          "inscription": "Written in black ink on verso: \"C.R.  I 730-7\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": [
+          {
+            "description": "CMA, Nov. 22, 1989 - Jan. 20, 1990: \"Cervin Robinson/Cleveland, Ohio,\" cat. p. 31 (not exhibited - see errata).",
+            "opening_date": "1989-11-22T00:00:00"
+          },
+          {
+            "description": "CMA, Feb. 6 - April 15, 1990: \"Year in Review 1989,\" CMA Bulletin, p. 68, no. 51 (not exhibited).",
+            "opening_date": "1990-02-06T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79942691"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 280",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1989.486",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Funded by a grant from The Cleveland Foundation and the East Ohio Gas Company",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 154922,
+      "creators": [
+        {
+          "id": 14005,
+          "description": "Cervin Robinson (American, 1928–2022)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Born May 18, 1928. Photographer, historian, and critic Cervin Robinson is considered one of the most distinguished American architectural scholars. Born in Boston to an architect and his wife, Robinson's interest in topography, perspective, and the cultural significance of cities and buildings developed at the encouragement of his father and grew during his two-year duty in the U.S. Army. After earning a B.A. in English literature from Harvard University (1950), he worked as an assistant to Walker Evans in New York (1953-57), an experience that further sparked his fascination with American architecture. Over the years he received numerous commissions from historical societies, the Library of Congress, architects and architectural magazines, and the film industry. Robinson's still photographs served as backdrops for Superman the Movie and Superman II. Robinson lectured and wrote regularly for various architectural and academic periodicals, and taught architectural photography at Columbia University. He received a fellowship from the John Simon Guggenheim Memorial Foundation (1971) and directed a project funded by the National Endowment for the Arts/New York State Council on the Arts (1978). In 1978 he was named a J. Clauson Mills Scholar. In 1989 the Cleveland Museum of Art organized Cervin Robinson: Cleveland, Ohio, an exhibition and catalogue of black-and-white views of the city commissioned by the museum. Robinson lived in New York. A. W.",
+          "name_in_original_language": null,
+          "birth_year": "1928",
+          "death_year": "2022",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1990-01-29T00:00:00",
+      "sortable_date": 1987,
+      "date_added_to_oa": null,
+      "date_text": "1987",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:43.602000"
+    },
+    {
+      "id": 167178,
+      "accession_number": "2009.158.40",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Bridge Street, Ohio City, 2002. Andrew Borowiec (American, b. 1956). Gelatin silver print; image: 32.4 x 47.8 cm (12 3/4 x 18 13/16 in.); paper: 40.4 x 50.4 cm (15 7/8 x 19 13/16 in.). The Cleveland Museum of Art, Gift of Mark Schwartz and Bettina Katz in honor of James and Hanna Bartlett, 2009.158.40. © Andrew Borowiec 2008",
+      "current_location": null,
+      "title": "Bridge Street, Ohio City",
+      "creation_date": "2002",
+      "creation_date_earliest": 2002,
+      "creation_date_latest": 2002,
+      "artists_tags": [
+        "May Show",
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 32.4 x 47.8 cm (12 3/4 x 18 13/16 in.); Paper: 40.4 x 50.4 cm (15 7/8 x 19 13/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.324,
+          "width": 0.478
+        },
+        "paper": {
+          "height": 0.404,
+          "width": 0.504
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Andrew Borowiec 2008",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"BRIDGE STREET, OHIO CITY, CLEVELAND, 2002 Andrew Borowiec (signed) 1/25 02205-4\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 197811,
+            "title": "Andrew Borowiec: Cleveland Photographs",
+            "description": "<i>Andrew Borowiec: Cleveland Photographs</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 13-October 17, 2010).",
+            "opening_date": "2010-06-13T00:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79998413"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2009.158.40",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Mark Schwartz and Bettina Katz in honor of James and Hanna Bartlett",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 167178,
+      "creators": [
+        {
+          "id": 34186,
+          "description": "Andrew Borowiec (American, b. 1956)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Andrew Borowiec American, 1956- Andrew Borowiec is a photographer, educator, and arts administrator. His black-and-white photographs of factory towns in the Ohio River Valley, a series that he has worked on extensively since the early 1990s, reveal an uneasy coexistence between residential and industrial sites, and between humans and their environment. Borowiec cites as influences the geographical writings of J. B. Jackson and the philosophies of photographer Frank Gohlke, with whom he studied in the early 1980s while a graduate student at Yale University School of Art. Born in New York City, Borowiec attended high school at the École Internationale in Geneva, Switzerland, and moved back across the Atlantic to earn a B.A. in Russian from Haverford College (1979). That same year, he took a workshop with Garry Winogrand at the International Center of Photography, where he also worked as a staff photographer (1979-80). Borowiec received his M.F.A. from Yale (1982); in addition to Gohlke, his teachers included Richard Benson, Jan Groover, Ben Lifson, and Tod Papageorge. In 1980 Borowiec served as assistant director of the Workshop Program for the Rencontres Internationales de la Photographie in Arles, France. Throughout his career he has completed various commissions for academic periodicals as well as civic and cultural institutions. Borowiec has held faculty positions at the New School for Social Research (1982-84), Parsons School of Design (1983-84), and Oberlin College (1990). His numerous awards include fellowships from the National Endowment for the Arts (1985, 1988) and the Folk Endowment Grant (1993). Since 1984 he has taught at the University of Akron School of Art. A.W.<br>Biographical information exists in the Cleveland Museum of Art Archives.",
+          "name_in_original_language": null,
+          "birth_year": "1956",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2009-06-08T00:00:00",
+      "sortable_date": 2002,
+      "date_added_to_oa": null,
+      "date_text": "2002",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2009.158",
+      "is_nazi_era_provenance": false,
+      "impression": "1",
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:42.787000"
+    },
+    {
+      "id": 169416,
+      "accession_number": "2011.264",
+      "share_license_status": "Copyrighted",
+      "tombstone": "The Destruction of Lower Manhattan: Beekman Street, Sunday Morning; Ginco, Tonto, Frankie, John Jr., and Nelson, After Exploring the Buildings, 1966–67. Danny Lyon (American, 1942-). Gelatin silver print; image: 25.5 x 32.4 cm (10 1/16 x 12 3/4 in.); paper: 27.7 x 35.4 cm (10 7/8 x 13 15/16 in.); matted: 45.7 x 55.9 cm (18 x 22 in.). The Cleveland Museum of Art, Gift of George Stephanopoulos, 2011.264",
+      "current_location": null,
+      "title": "Beekman Street, Sunday Morning; Ginco, Tonto, Frankie, John Jr., and Nelson, After Exploring the Buildings",
+      "series": "The Destruction of Lower Manhattan",
+      "creation_date": "1966–67",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1967,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 25.5 x 32.4 cm (10 1/16 x 12 3/4 in.); Paper: 27.7 x 35.4 cm (10 7/8 x 13 15/16 in.); Matted: 45.7 x 55.9 cm (18 x 22 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.255,
+          "width": 0.324
+        },
+        "paper": {
+          "height": 0.277,
+          "width": 0.354
+        },
+        "matted": {
+          "height": 0.457,
+          "width": 0.559
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Signed, titled and dated on verso\r\nartist's \"Bleak Beauty\" stamp also on verso",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 306442,
+            "title": "Danny Lyon: The Destruction of Lower Manhattan",
+            "description": "<i>Danny Lyon: The Destruction of Lower Manhattan</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 19-October 7, 2018).",
+            "opening_date": "2018-05-19T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "George Stephanopoulos",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "When Lyon moved back to New York from Chicago, he settled in Lower Manhattan because of the cheap rent and his friendship with sculptor Mark di Suvero, who had a studio close to the Brooklyn Bridge. These young boys lived in a nearby housing project and scavenged the demolition areas for old industrial building materials for di Suvero’s sculptures.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80076694"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2011.264",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George Stephanopoulos",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 169416,
+      "creators": [
+        {
+          "id": 601,
+          "description": "Danny Lyon (American, 1942-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Danny Lyon American, 1942- Danny Lyon (born in Brooklyn) came to attention in the 1960s as a social documentary photographer whose sympathies with his subjects often grew from personal involvement in their causes. While studying history at the University of Chicago (B.A., 1963), he joined the Student Non-Violent Coordinating Committee and served as the group's photographer. Since 1967 he has been an associate for the magnum photo agency and made extensive photo essays in the late 1960s-70s on the civil rights movement (The Movement, 1964), the Chicago Outlaws Motorcycle Club, of which he was a member (The Bikeriders, 1968), the demolition of historic 19th-century buildings in New York City (The Destruction of Lower Manhattan, 1969), and Texas prisons (Conversations with the Dead, 1971). For that series, Lyon included with his black-and-white photographs excerpts from handwritten letters, drawings, police reports, and telegrams. In 1977 the U.S. Justice Department used his images in a landmark legal case (Ruiz vs. Estelle) to improve conditions in prisons throughout Texas. Since the 1980s, Lyon has traveled to Colombia to photograph street children and prostitutes (The Paper Negative, 1980) and to Haiti to cover the events leading up to the collapse of the Duvalier regime in 1986. His own family has also become a continued subject of his work. Parallel to his photography, Lyon has made numerous films that are shown regularly in universities across the United States: Social Sciences 127 (1969), Llanito (1971), El Mojado (1973), Los Niños Abandonados (1975), Dear Mark (1975-80), Little Boy (1977), Willie (1986-87), and Media Man (c. 1993). He has published his own works since 1988 under the imprint Bleak Beauty Books, in collaboration with his wife, Nancy Lyon, and Michael Hausman. Lyon has also taught nonfiction film at the State University of New York at Buffalo (1986) and at Columbia University (1987-90). Among his honors are fellowships from the John Simon Guggenheim Memorial Foundation (1969, 1979) and the Rockefeller Foundation (1990). He has had one-person exhibitions at the Art Institute of Chicago (1966, 1969), the Newport Harbor Art Museum in California (1973), and the Philadelphia Museum of Art (1982). In 1991 a retrospective, Danny Lyon Photo Film, with accompanying catalogue, traveled internationally. Lyon lives in Clintondale, New York. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1942",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2011-12-05T00:00:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–67",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:05.156000"
+    },
+    {
+      "id": 155037,
+      "accession_number": "1989.588",
+      "share_license_status": "Copyrighted",
+      "tombstone": "View Upriver from Terminal Tower Looking Toward Hope Memorial Bridge, 1988. Cervin Robinson (American, 1928–2022). Gelatin silver print; image: 49.8 x 39.1 cm (19 5/8 x 15 3/8 in.); paper: 50.6 x 40.7 cm (19 15/16 x 16 in.); matted: 67.3 x 54.6 cm (26 1/2 x 21 1/2 in.). The Cleveland Museum of Art, Funded by a grant from The Cleveland Foundation and the East Ohio Gas Company, 1989.588. © 1989 Cervin Robinson",
+      "current_location": null,
+      "title": "View Upriver from Terminal Tower Looking Toward Hope Memorial Bridge",
+      "creation_date": "1988",
+      "creation_date_earliest": 1988,
+      "creation_date_latest": 1988,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 49.8 x 39.1 cm (19 5/8 x 15 3/8 in.); Paper: 50.6 x 40.7 cm (19 15/16 x 16 in.); Matted: 67.3 x 54.6 cm (26 1/2 x 21 1/2 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.498,
+          "width": 0.391
+        },
+        "paper": {
+          "height": 0.506,
+          "width": 0.407
+        },
+        "matted": {
+          "height": 0.673,
+          "width": 0.546
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© 1989 Cervin Robinson",
+      "inscriptions": [
+        {
+          "inscription": "Written in black ink on verso: \"© Cervin Robinson 1989\"; in pencil: \"J 526-1\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 189766,
+            "title": "Industry and Photography: Selections from the Permanent Collection",
+            "description": "<i>Industry and Photography: Selections from the Permanent Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 16, 1997-March 1, 1998).",
+            "opening_date": "1997-11-16T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, Nov. 22, 1989 - Jan. 20, 1990: \"Cervin Robinson/Cleveland, Ohio,\" cat. p. 25.",
+            "opening_date": "1989-11-22T00:00:00"
+          },
+          {
+            "description": "CMA, Feb. 6 - April 15, 1990: \"Year in Review 1989,\" CMA Bulletin, p. 68, no. 51 (not exhibited).",
+            "opening_date": "1990-02-06T00:00:00"
+          },
+          {
+            "description": "Lakewood, Ohio. The Beck Center for Cultural Arts, July 15 - August 12, 1990: \"American Cities: The Artist's View,\" no exhibition catalogue.",
+            "opening_date": "1990-07-15T00:00:00"
+          },
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; 11/16/97 - 3/1/98.  \"Industry and Photography:  Selections from the Permanent Collection.\"",
+            "opening_date": "1997-11-16T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79942966"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1989.588",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Funded by a grant from The Cleveland Foundation and the East Ohio Gas Company",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 155037,
+      "creators": [
+        {
+          "id": 14005,
+          "description": "Cervin Robinson (American, 1928–2022)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Born May 18, 1928. Photographer, historian, and critic Cervin Robinson is considered one of the most distinguished American architectural scholars. Born in Boston to an architect and his wife, Robinson's interest in topography, perspective, and the cultural significance of cities and buildings developed at the encouragement of his father and grew during his two-year duty in the U.S. Army. After earning a B.A. in English literature from Harvard University (1950), he worked as an assistant to Walker Evans in New York (1953-57), an experience that further sparked his fascination with American architecture. Over the years he received numerous commissions from historical societies, the Library of Congress, architects and architectural magazines, and the film industry. Robinson's still photographs served as backdrops for Superman the Movie and Superman II. Robinson lectured and wrote regularly for various architectural and academic periodicals, and taught architectural photography at Columbia University. He received a fellowship from the John Simon Guggenheim Memorial Foundation (1971) and directed a project funded by the National Endowment for the Arts/New York State Council on the Arts (1978). In 1978 he was named a J. Clauson Mills Scholar. In 1989 the Cleveland Museum of Art organized Cervin Robinson: Cleveland, Ohio, an exhibition and catalogue of black-and-white views of the city commissioned by the museum. Robinson lived in New York. A. W.",
+          "name_in_original_language": null,
+          "birth_year": "1928",
+          "death_year": "2022",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1990-10-29T00:00:00",
+      "sortable_date": 1988,
+      "date_added_to_oa": null,
+      "date_text": "1988",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:12.198000"
+    },
+    {
+      "id": 169381,
+      "accession_number": "2011.232",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Bridge, 1935. Ilse Bing (American, 1899–1998). Gelatin silver print; image: 28.2 x 21 cm (11 1/8 x 8 1/4 in.); mounted: 42.2 x 35 cm (16 5/8 x 13 3/4 in.); paper: 28.2 x 21 cm (11 1/8 x 8 1/4 in.); matted: 50.8 x 40.6 cm (20 x 16 in.). The Cleveland Museum of Art, Gift of George Stephanopoulos, 2011.232. © Estate of Ilse Bing",
+      "current_location": null,
+      "title": "Bridge",
+      "creation_date": "1935",
+      "creation_date_earliest": 1935,
+      "creation_date_latest": 1935,
+      "artists_tags": [
+        "female",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 28.2 x 21 cm (11 1/8 x 8 1/4 in.); Mounted: 42.2 x 35 cm (16 5/8 x 13 3/4 in.); Paper: 28.2 x 21 cm (11 1/8 x 8 1/4 in.); Matted: 50.8 x 40.6 cm (20 x 16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.282,
+          "width": 0.21
+        },
+        "mounted": {
+          "height": 0.422,
+          "width": 0.35
+        },
+        "paper": {
+          "height": 0.282,
+          "width": 0.21
+        },
+        "matted": {
+          "height": 0.508,
+          "width": 0.406
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Estate of Ilse Bing",
+      "inscriptions": [
+        {
+          "inscription": "Imprinted in verso of paper: \"Agfa Brovira\"\r\nCommercially imprinted in lower right corner of recto: \"Ilse Bing/1935\"\r\n",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "George Stephanopoulos",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80076617"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2011.232",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George Stephanopoulos",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 169381,
+      "creators": [
+        {
+          "id": 235,
+          "description": "Ilse Bing (American, 1899–1998)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Ilse Bing (American, b. Germany, 1899-1998). Ilse Bing became interested in photography while pursuing a doctoral degree in art history at Frankfurt University. Around 1927-28 she began taking photographs to illustrate her dissertation and in 1930 decided to move to Paris to look for freelance assignments. Using the new 35mm Leica camera, she worked as a fashion, portrait, and architectural photographer, as well as a photojournalist. During her years in Paris she took part in numerous exhibitions, including the Museum of Modern Art's Photography 1839-1937 show in New York. In 1941 Bing and her husband immigrated to the United States, settling in New York City. In New York she began to work on a different scale, using the larger-format Rolleiflex camera as well as electronic flash. By 1957 she was working exclusively in color. Two years later Bing gave up photography to concentrate on painting and poetry.",
+          "name_in_original_language": null,
+          "birth_year": "1899",
+          "death_year": "1998",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2011-12-05T00:00:00",
+      "sortable_date": 1935,
+      "date_added_to_oa": null,
+      "date_text": "1935",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:14.571000"
+    },
+    {
+      "id": 447656,
+      "accession_number": "2021.186",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Cuyahoga Valley National Park: Blue Hen Falls, 2005. Geoffrey James (British, 1942-). Gelatin silver print; image: 20 x 48.2 cm (7 7/8 x 19 in.); paper: 25.5 x 50.5 cm (10 1/16 x 19 7/8 in.). The Cleveland Museum of Art, Gift of the George Gund Foundation Collection in Honor of David Bergholz, 2021.186",
+      "current_location": null,
+      "title": "Blue Hen Falls",
+      "series": "Cuyahoga Valley National Park",
+      "creation_date": "2005",
+      "creation_date_earliest": 2005,
+      "creation_date_latest": 2005,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 20 x 48.2 cm (7 7/8 x 19 in.); Paper: 25.5 x 50.5 cm (10 1/16 x 19 7/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.2,
+          "width": 0.482
+        },
+        "paper": {
+          "height": 0.255,
+          "width": 0.505
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “Blue Hen Falls 2005 1/10 Geoffrey James (signed)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Geoffrey James (the artist) [1942-], Toronto, Ontario, Canada",
+          "citations": [],
+          "footnotes": null,
+          "date": "2005",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation Collection, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2005-2021",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 6, 2021",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The Cuyahoga Valley National Park, which runs between Akron and Cleveland, is land that has been occupied by humans for over 1,200 years.",
+      "description": "In his views of the Cuyahoga Valley National Park, landscape photographer Geoffrey James shows us natural beauty, but also reminders of the impact of humans on the land such as fragments of the abandoned locks of the Ohio &amp; Erie Canal and modern bridges. James described the park as “a great democratic open space. . . like no other national park I have seen.”",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117246972"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "<em>George Gund Foundation2005 Annual Report: The Cuyahoga Valley National Park</em>, Cleveland: George Gund Foundation, 2005.",
+          "page_number": "",
+          "url": "https://gundfoundation.org/portfolios/cuyahoga-valley-national-park/"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2021.186",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of the George Gund Foundation Collection in Honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 447656,
+      "creators": [
+        {
+          "id": 509,
+          "description": "Geoffrey James (British, 1942-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Geoffrey James British, b. Wales, 1942- The garden panoramas for which Geoffrey James is best known depict utopian spaces that, since the height of their grandeur in centuries past, have fallen into decay and neglect. He uses a large-format camera fitted with a curved film plane to allow the dramatic curves of his architectural and natural subjects to speak most effectively. The resulting monochromatic panoramas are three times longer than they are high, which allows for multiple vantage points and the play of perspective. James's most obvious historical precedent is Eugène Atget, whose extensive series of Parisian gardens speak with a similar technical vocabulary. James (born in St. Asaph) was educated at Wellington College in Crowthorne, Berkshire, and at Wadham College, Oxford, where he studied modern history (B.A., 1962; M.A., 1964). He taught himself photography in 1965, then moved to Canada, working for several years as contributing editor of Time magazine in Montreal (1967-75), as head of the Visual Arts Section of the Canada Council, Ottawa (1975-82), and on various independent freelance projects. James has also taught at the University of Ottawa (1982-84) and has received a fellowship from the Graham Foundation in Fine Arts (1984) and an artist-in-residency from the Centre International de Recherche de Création et d'Animation, Villeneuve-les-Avignon, France (1985). A retrospective of his work, Genius Loci, was organized by the Canadian Museum of Contemporary Photography (1986). His publications include Transparent Things: The Artist's Use of Photography (1977), The Legacy of Atget (coauthor, 1977), Visions: Essays on Contemporary Canadian Art (coeditor, 1977), Entrances and Exits (1984), I Giardini Italiani (1985), Genius Loci (1986), and Morbid Symptoms (1987). James lives in Toronto. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1942",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2021-12-06T05:00:00Z",
+      "sortable_date": 2005,
+      "date_added_to_oa": null,
+      "date_text": "2005",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:20.937000"
+    },
+    {
+      "id": 170252,
+      "accession_number": "2012.425",
+      "share_license_status": "Copyrighted",
+      "tombstone": "The Destruction of Lower Manhattan: The St. George Building, 1966–67, printed 2007. Danny Lyon (American, 1942-). Gelatin silver print; image: 23.2 x 29.9 cm (9 1/8 x 11 3/4 in.); paper: 27.7 x 35.4 cm (10 7/8 x 13 15/16 in.). The Cleveland Museum of Art, Gift of George Stephanopoulos, 2012.425",
+      "current_location": null,
+      "title": "The St. George Building",
+      "series": "The Destruction of Lower Manhattan",
+      "creation_date": "1966–67, printed 2007",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1967,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 23.2 x 29.9 cm (9 1/8 x 11 3/4 in.); Paper: 27.7 x 35.4 cm (10 7/8 x 13 15/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.232,
+          "width": 0.299
+        },
+        "paper": {
+          "height": 0.277,
+          "width": 0.354
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"DLM64\"\r\nWritten in pencil on verso: \"Danny Lyon (signed)\"\r\nStamped in red ink on verso: \"Printer u (in pencil)/BLEAK BEAUTY/Picture Date 67 (in pencil) (star) Print Date 7 (in pencil)\"\r\n",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 306442,
+            "title": "Danny Lyon: The Destruction of Lower Manhattan",
+            "description": "<i>Danny Lyon: The Destruction of Lower Manhattan</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 19-October 7, 2018).",
+            "opening_date": "2018-05-19T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "The St. George Building at the intersection of Beekman and Cliff Streets was built as a warehouse in 1870, one year after construction began on the nearby Brooklyn Bridge. The building was named after a succession of churches that had occupied the site from 1752 to 1868. Lyon made a series of images showing the progress of the warehouse’s demolition. Today, not even the intersection remains. In 1971 it was subsumed into a cooperative apartment complex consisting of four 27-story buildings that still occupy the site.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80078676"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2012.425",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George Stephanopoulos",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 170252,
+      "creators": [
+        {
+          "id": 601,
+          "description": "Danny Lyon (American, 1942-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Danny Lyon American, 1942- Danny Lyon (born in Brooklyn) came to attention in the 1960s as a social documentary photographer whose sympathies with his subjects often grew from personal involvement in their causes. While studying history at the University of Chicago (B.A., 1963), he joined the Student Non-Violent Coordinating Committee and served as the group's photographer. Since 1967 he has been an associate for the magnum photo agency and made extensive photo essays in the late 1960s-70s on the civil rights movement (The Movement, 1964), the Chicago Outlaws Motorcycle Club, of which he was a member (The Bikeriders, 1968), the demolition of historic 19th-century buildings in New York City (The Destruction of Lower Manhattan, 1969), and Texas prisons (Conversations with the Dead, 1971). For that series, Lyon included with his black-and-white photographs excerpts from handwritten letters, drawings, police reports, and telegrams. In 1977 the U.S. Justice Department used his images in a landmark legal case (Ruiz vs. Estelle) to improve conditions in prisons throughout Texas. Since the 1980s, Lyon has traveled to Colombia to photograph street children and prostitutes (The Paper Negative, 1980) and to Haiti to cover the events leading up to the collapse of the Duvalier regime in 1986. His own family has also become a continued subject of his work. Parallel to his photography, Lyon has made numerous films that are shown regularly in universities across the United States: Social Sciences 127 (1969), Llanito (1971), El Mojado (1973), Los Niños Abandonados (1975), Dear Mark (1975-80), Little Boy (1977), Willie (1986-87), and Media Man (c. 1993). He has published his own works since 1988 under the imprint Bleak Beauty Books, in collaboration with his wife, Nancy Lyon, and Michael Hausman. Lyon has also taught nonfiction film at the State University of New York at Buffalo (1986) and at Columbia University (1987-90). Among his honors are fellowships from the John Simon Guggenheim Memorial Foundation (1969, 1979) and the Rockefeller Foundation (1990). He has had one-person exhibitions at the Art Institute of Chicago (1966, 1969), the Newport Harbor Art Museum in California (1973), and the Philadelphia Museum of Art (1982). In 1991 a retrospective, Danny Lyon Photo Film, with accompanying catalogue, traveled internationally. Lyon lives in Clintondale, New York. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1942",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2012-12-03T00:00:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–67, printed 2007",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:11.632000"
+    },
+    {
+      "id": 150103,
+      "accession_number": "1980.305",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Song Without Words: Golden Gate Bridge (San Francisco), 1959. Minor White (American, 1908–1976). Gelatin silver print; image: 8.2 x 11.5 cm (3 1/4 x 4 1/2 in.); matted: 30.6 x 35.6 cm (12 1/16 x 14 in.). The Cleveland Museum of Art, Gift of Nicholas C. Hlobeczy in memory of his father and of his friend and teacher, Minor White, 1980.305. © 1982 Trustees of Princeton University",
+      "current_location": null,
+      "title": "Golden Gate Bridge (San Francisco)",
+      "series": "Song Without Words",
+      "creation_date": "1959",
+      "creation_date_earliest": 1959,
+      "creation_date_latest": 1959,
+      "artists_tags": [
+        "male",
+        "LGBTQ+ (after 1900)"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 8.2 x 11.5 cm (3 1/4 x 4 1/2 in.); Matted: 30.6 x 35.6 cm (12 1/16 x 14 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.082,
+          "width": 0.115
+        },
+        "matted": {
+          "height": 0.306,
+          "width": 0.356
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© 1982 Trustees of Princeton University",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 304521,
+            "title": "Year in Review: 1980",
+            "description": "<i>Year in Review: 1980</i>. The Cleveland Museum of Art (organizer) (June 24-July 19, 1981).",
+            "opening_date": "1981-06-24T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Nicholas C. Hlobeczy [1927-2007]",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "March 9, 1981",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79932221"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 388",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1980.305",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Nicholas C. Hlobeczy in memory of his father and of his friend and teacher, Minor White",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 150103,
+      "creators": [
+        {
+          "id": 1091,
+          "description": "Minor White (American, 1908–1976)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Minor White American, 1908-1976 Minor Martin White (born in Minneapolis) was a photographer, poet, and teacher who worked in photographic sequences to achieve greater expressive power. Several years after graduating from the University of Minnesota with a major in botany and a minor in English, White moved to Portland where he joined the Oregon Camera Club. Interested in photography since his youth, he worked as an assistant in a photography studio at night and in 1938 served as a creative photographer for the Works Progress Administration. Following service in the U.S. Army Intelligence Corps (1942-45), White moved to New York where he studied art history with Meyer Shapiro at Columbia University (19450-46). In 1946 he met Alfred Stieglitz, whose ideas about photographic equivalents had a deep impact on his work. Like Stieglitz, White sought to express inner feelings and beliefs through his work. Around this time he began producing sequences of images that were arranged for their allusive or metaphorical meaning rather than for narrative content, a practice he continued throughout his career. In 1952 White helped found Aperture magazine, serving as its editor until l975. He took a position as curator of exhibitions at George Eastman House in Rochester in the early 1950s, working there until 1957. While at Eastman House he also served as editor for the museum's publication, Image. In 1955 White began teaching at the Rochester Institute of Technology, leaving in 1965 to join the faculty of the Massachusetts Institute of Technology. Over the years he became a well-respected and influential teacher, and continued to teach at mit until 1974. During the 1950s White became interested in mysticism, Eastern philosophy, and Gestalt psychology, all of which had an impact on his work and teaching. In 1962 he was a founding member of the Society for Photographic Education and in 1970 was awarded a fellowship by the John Simon Guggenheim Memorial Foundation. M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1908",
+          "death_year": "1976",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1981-03-09T00:00:00",
+      "sortable_date": 1959,
+      "date_added_to_oa": null,
+      "date_text": "1959",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:44.806000"
+    },
+    {
+      "id": 166762,
+      "accession_number": "2008.54",
+      "share_license_status": "CC0",
+      "tombstone": "The Country Bridge (Staplylton Bridge, Bristol), c. 1854– 1857. John Dillwyn Llewelyn (British, 1810–1882). Albumen print; image: 15.4 x 20.2 cm (6 1/16 x 7 15/16 in.); paper: 25.8 x 35.8 cm (10 3/16 x 14 1/8 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, L. E. Holden Fund, 2008.54",
+      "current_location": null,
+      "title": "The Country Bridge (Staplylton Bridge, Bristol)",
+      "creation_date": "c. 1854– 1857",
+      "creation_date_earliest": 1854,
+      "creation_date_latest": 1857,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "Photography",
+      "type": "Photograph",
+      "measurements": "Image: 15.4 x 20.2 cm (6 1/16 x 7 15/16 in.); Paper: 25.8 x 35.8 cm (10 3/16 x 14 1/8 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.154,
+          "width": 0.202
+        },
+        "paper": {
+          "height": 0.258,
+          "width": 0.358
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "written in pencil on verso of mount: \"13838-4.09/The Country Bridge/John Dillwyn Llewelyn\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Stephen Bennett - Portsmouth, New Hampshire auction house; William L. Schaeffer/Photographs, Chester, CT; CMA",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79997451"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2008.54-the-country-bridge-s"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2008.54",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2008.54/2008.54_web.jpg",
+          "width": "1179",
+          "height": "893",
+          "filesize": "257764",
+          "filename": "2008.54_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2008.54/2008.54_print.jpg",
+          "width": "3400",
+          "height": "2575",
+          "filesize": "1802022",
+          "filename": "2008.54_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2008.54/2008.54_full.tif",
+          "width": "6006",
+          "height": "4550",
+          "filesize": "82009928",
+          "filename": "2008.54_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2008-08-29T16:16:18",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2008.54/2008.54_alt0_web.jpg",
+            "width": "1178",
+            "height": "893",
+            "filesize": "856141"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2008.54/2008.54_alt0_print.jpg",
+            "width": "3400",
+            "height": "2577",
+            "filesize": "5980062"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2008.54/2008.54_alt0_full.tif",
+            "width": "4576",
+            "height": "3468",
+            "filesize": "47644132"
+          }
+        },
+        {
+          "date_created": "2013-07-30T14:56:53",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2008.54/2008.54_alt1_web.jpg",
+            "width": "1223",
+            "height": "893",
+            "filesize": "152853"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2008.54/2008.54_alt1_print.jpg",
+            "width": "3400",
+            "height": "2482",
+            "filesize": "1241100"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2008.54/2008.54_alt1_full.tif",
+            "width": "7256",
+            "height": "5298",
+            "filesize": "115356356"
+          }
+        },
+        {
+          "date_created": "2013-07-30T15:18:36",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2008.54/2008.54_alt2_web.jpg",
+            "width": "1204",
+            "height": "893",
+            "filesize": "91620"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2008.54/2008.54_alt2_print.jpg",
+            "width": "3400",
+            "height": "2521",
+            "filesize": "1092378"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2008.54/2008.54_alt2_full.tif",
+            "width": "7264",
+            "height": "5387",
+            "filesize": "117421064"
+          }
+        }
+      ],
+      "creditline": "L. E. Holden Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 166762,
+      "creators": [
+        {
+          "id": 589,
+          "description": "John Dillwyn Llewelyn (British, 1810–1882)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "John Dillwyn Llewelyn British, b. Wales, 1810-1882\r\n\r\nBorn in Swansea as John Dillwyn, Llewelyn took the surname of his maternal grandfather when he came of age and began to manage the family's estate. He was presumably introduced to photography through his wife, Emma Talbot, a cousin of William Henry Fox Talbot. The son of a member of Parliament, Llewelyn was a Fellow of the Royal Society and the Linnaean Society of London, as well as a member of the Photographic Exchange Club and the Amateur Photographic Association. The family's estate, Penllergare, in Glamorganshire, South Wales, was already alive with Victorian pursuits such as astronomy, botany, and art, and became a key center of important amateur photography work in Britain. The Llewelyns' circle included a host of excellent amateurs, including their daughter Thereza, her husband, Nevil Story-Maskelyne, James Knight, the Reverend Calvert Richard Jones, Jr., and Philip Henry Delamotte. Llewelyn himself developed a distinctive, low-key, almost domestic style, and is also known for inventing the oxymel process, a \"dry\" collodion method that extended the field life of wet plate negatives. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1810",
+          "death_year": "1882",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2008-06-23T00:00:00",
+      "sortable_date": 1854,
+      "date_added_to_oa": null,
+      "date_text": "c. 1854– 1857",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:58.196000"
+    },
+    {
+      "id": 447659,
+      "accession_number": "2021.194",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Cuyahoga Valley National Park: Kendal Lake, 2005. Geoffrey James (British, 1942-). Gelatin silver print; image: 19 x 45.5 cm (7 1/2 x 17 15/16 in.); paper: 30.3 x 50.4 cm (11 15/16 x 19 13/16 in.). The Cleveland Museum of Art, Gift of the George Gund Foundation Collection in Honor of David Bergholz, 2021.194",
+      "current_location": null,
+      "title": "Kendal Lake",
+      "series": "Cuyahoga Valley National Park",
+      "creation_date": "2005",
+      "creation_date_earliest": 2005,
+      "creation_date_latest": 2005,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 19 x 45.5 cm (7 1/2 x 17 15/16 in.); Paper: 30.3 x 50.4 cm (11 15/16 x 19 13/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.19,
+          "width": 0.455
+        },
+        "paper": {
+          "height": 0.303,
+          "width": 0.504
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “Boy Scout Fishing Derby, Kendal Lake 2005 A/P Geoffrey James (signed)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Geoffrey James (the artist) [1942-], Toronto, Ontario, Canada",
+          "citations": [],
+          "footnotes": null,
+          "date": "2005",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation Collection, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2005-2021",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 6, 2021",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The Cuyahoga Valley National Park, which runs between Akron and Cleveland, is land that has been occupied by humans for over 1,200 years.",
+      "description": "In his views of the Cuyahoga Valley National Park, landscape photographer Geoffrey James shows us natural beauty, but also reminders of the impact of humans on the land such as fragments of the abandoned locks of the Ohio &amp; Erie Canal and modern bridges. James described the park as “a great democratic open space. . . like no other national park I have seen.”",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117246975"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "<em>George Gund Foundation2005 Annual Report: The Cuyahoga Valley National Park</em>, Cleveland: George Gund Foundation, 2005.",
+          "page_number": "",
+          "url": "https://gundfoundation.org/portfolios/cuyahoga-valley-national-park/"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2021.194",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of the George Gund Foundation Collection in Honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 447659,
+      "creators": [
+        {
+          "id": 509,
+          "description": "Geoffrey James (British, 1942-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Geoffrey James British, b. Wales, 1942- The garden panoramas for which Geoffrey James is best known depict utopian spaces that, since the height of their grandeur in centuries past, have fallen into decay and neglect. He uses a large-format camera fitted with a curved film plane to allow the dramatic curves of his architectural and natural subjects to speak most effectively. The resulting monochromatic panoramas are three times longer than they are high, which allows for multiple vantage points and the play of perspective. James's most obvious historical precedent is Eugène Atget, whose extensive series of Parisian gardens speak with a similar technical vocabulary. James (born in St. Asaph) was educated at Wellington College in Crowthorne, Berkshire, and at Wadham College, Oxford, where he studied modern history (B.A., 1962; M.A., 1964). He taught himself photography in 1965, then moved to Canada, working for several years as contributing editor of Time magazine in Montreal (1967-75), as head of the Visual Arts Section of the Canada Council, Ottawa (1975-82), and on various independent freelance projects. James has also taught at the University of Ottawa (1982-84) and has received a fellowship from the Graham Foundation in Fine Arts (1984) and an artist-in-residency from the Centre International de Recherche de Création et d'Animation, Villeneuve-les-Avignon, France (1985). A retrospective of his work, Genius Loci, was organized by the Canadian Museum of Contemporary Photography (1986). His publications include Transparent Things: The Artist's Use of Photography (1977), The Legacy of Atget (coauthor, 1977), Visions: Essays on Contemporary Canadian Art (coeditor, 1977), Entrances and Exits (1984), I Giardini Italiani (1985), Genius Loci (1986), and Morbid Symptoms (1987). James lives in Toronto. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1942",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2021-12-06T05:00:00Z",
+      "sortable_date": 2005,
+      "date_added_to_oa": null,
+      "date_text": "2005",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:37.604000"
+    },
+    {
+      "id": 447660,
+      "accession_number": "2021.191",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Cuyahoga Valley National Park: Lock 30 Peninsula Feeder Lock, 2005. Geoffrey James (British, 1942-). Gelatin silver print; image: 20.2 x 49.3 cm (7 15/16 x 19 7/16 in.); paper: 30.3 x 50.4 cm (11 15/16 x 19 13/16 in.). The Cleveland Museum of Art, Gift of the George Gund Foundation Collection in Honor of David Bergholz, 2021.191",
+      "current_location": null,
+      "title": "Lock 30 Peninsula Feeder Lock",
+      "series": "Cuyahoga Valley National Park",
+      "creation_date": "2005",
+      "creation_date_earliest": 2005,
+      "creation_date_latest": 2005,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 20.2 x 49.3 cm (7 15/16 x 19 7/16 in.); Paper: 30.3 x 50.4 cm (11 15/16 x 19 13/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.202,
+          "width": 0.493
+        },
+        "paper": {
+          "height": 0.303,
+          "width": 0.504
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “Lock, Ohio Erie Canal 2005 A/P Geoffrey James (signed)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Geoffrey James (the artist) [1942-], Toronto, Ontario, Canada",
+          "citations": [],
+          "footnotes": null,
+          "date": "2005",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation Collection, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2005-2021",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 6, 2021",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The Cuyahoga Valley National Park, which runs between Akron and Cleveland, is land that has been occupied by humans for over 1,200 years.",
+      "description": "In his views of the Cuyahoga Valley National Park, landscape photographer Geoffrey James shows us natural beauty, but also reminders of the impact of humans on the land such as fragments of the abandoned locks of the Ohio &amp; Erie Canal and modern bridges. James described the park as “a great democratic open space. . . like no other national park I have seen.”",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117246976"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "<em>George Gund Foundation2005 Annual Report: The Cuyahoga Valley National Park</em>, Cleveland: George Gund Foundation, 2005.",
+          "page_number": "",
+          "url": "https://gundfoundation.org/portfolios/cuyahoga-valley-national-park/"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2021.191",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of the George Gund Foundation Collection in Honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 447660,
+      "creators": [
+        {
+          "id": 509,
+          "description": "Geoffrey James (British, 1942-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Geoffrey James British, b. Wales, 1942- The garden panoramas for which Geoffrey James is best known depict utopian spaces that, since the height of their grandeur in centuries past, have fallen into decay and neglect. He uses a large-format camera fitted with a curved film plane to allow the dramatic curves of his architectural and natural subjects to speak most effectively. The resulting monochromatic panoramas are three times longer than they are high, which allows for multiple vantage points and the play of perspective. James's most obvious historical precedent is Eugène Atget, whose extensive series of Parisian gardens speak with a similar technical vocabulary. James (born in St. Asaph) was educated at Wellington College in Crowthorne, Berkshire, and at Wadham College, Oxford, where he studied modern history (B.A., 1962; M.A., 1964). He taught himself photography in 1965, then moved to Canada, working for several years as contributing editor of Time magazine in Montreal (1967-75), as head of the Visual Arts Section of the Canada Council, Ottawa (1975-82), and on various independent freelance projects. James has also taught at the University of Ottawa (1982-84) and has received a fellowship from the Graham Foundation in Fine Arts (1984) and an artist-in-residency from the Centre International de Recherche de Création et d'Animation, Villeneuve-les-Avignon, France (1985). A retrospective of his work, Genius Loci, was organized by the Canadian Museum of Contemporary Photography (1986). His publications include Transparent Things: The Artist's Use of Photography (1977), The Legacy of Atget (coauthor, 1977), Visions: Essays on Contemporary Canadian Art (coeditor, 1977), Entrances and Exits (1984), I Giardini Italiani (1985), Genius Loci (1986), and Morbid Symptoms (1987). James lives in Toronto. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1942",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2021-12-06T05:00:00Z",
+      "sortable_date": 2005,
+      "date_added_to_oa": null,
+      "date_text": "2005",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:24.378000"
+    },
+    {
+      "id": 447658,
+      "accession_number": "2021.187",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Cuyahoga Valley National Park: Cuyahoga Valley Scenic Railroad along the Cuyahoga River, 2005. Geoffrey James (British, 1942-). Gelatin silver print; image: 20 x 48.3 cm (7 7/8 x 19 in.); paper: 25.5 x 50.5 cm (10 1/16 x 19 7/8 in.). The Cleveland Museum of Art, Gift of the George Gund Foundation Collection in Honor of David Bergholz, 2021.187",
+      "current_location": null,
+      "title": "Cuyahoga Valley Scenic Railroad along the Cuyahoga River",
+      "series": "Cuyahoga Valley National Park",
+      "creation_date": "2005",
+      "creation_date_earliest": 2005,
+      "creation_date_latest": 2005,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 20 x 48.3 cm (7 7/8 x 19 in.); Paper: 25.5 x 50.5 cm (10 1/16 x 19 7/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.2,
+          "width": 0.483
+        },
+        "paper": {
+          "height": 0.255,
+          "width": 0.505
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “Cuyahoga NP. 2005 1/10 Geoffrey James (signed)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Geoffrey James (the artist) [1942-], Toronto, Ontario, Canada",
+          "citations": [],
+          "footnotes": null,
+          "date": "2005",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation Collection, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2005-2021",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 6, 2021",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The Cuyahoga Valley National Park, which runs between Akron and Cleveland, is land that has been occupied by humans for over 1,200 years.",
+      "description": "In his views of the Cuyahoga Valley National Park, landscape photographer Geoffrey James shows us natural beauty, but also reminders of the impact of humans on the land such as fragments of the abandoned locks of the Ohio &amp; Erie Canal and modern bridges. James described the park as “a great democratic open space. . . like no other national park I have seen.”",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117246974"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "<em>George Gund Foundation2005 Annual Report: The Cuyahoga Valley National Park</em>, Cleveland: George Gund Foundation, 2005.",
+          "page_number": "",
+          "url": "https://gundfoundation.org/portfolios/cuyahoga-valley-national-park/"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2021.187",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of the George Gund Foundation Collection in Honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 447658,
+      "creators": [
+        {
+          "id": 509,
+          "description": "Geoffrey James (British, 1942-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Geoffrey James British, b. Wales, 1942- The garden panoramas for which Geoffrey James is best known depict utopian spaces that, since the height of their grandeur in centuries past, have fallen into decay and neglect. He uses a large-format camera fitted with a curved film plane to allow the dramatic curves of his architectural and natural subjects to speak most effectively. The resulting monochromatic panoramas are three times longer than they are high, which allows for multiple vantage points and the play of perspective. James's most obvious historical precedent is Eugène Atget, whose extensive series of Parisian gardens speak with a similar technical vocabulary. James (born in St. Asaph) was educated at Wellington College in Crowthorne, Berkshire, and at Wadham College, Oxford, where he studied modern history (B.A., 1962; M.A., 1964). He taught himself photography in 1965, then moved to Canada, working for several years as contributing editor of Time magazine in Montreal (1967-75), as head of the Visual Arts Section of the Canada Council, Ottawa (1975-82), and on various independent freelance projects. James has also taught at the University of Ottawa (1982-84) and has received a fellowship from the Graham Foundation in Fine Arts (1984) and an artist-in-residency from the Centre International de Recherche de Création et d'Animation, Villeneuve-les-Avignon, France (1985). A retrospective of his work, Genius Loci, was organized by the Canadian Museum of Contemporary Photography (1986). His publications include Transparent Things: The Artist's Use of Photography (1977), The Legacy of Atget (coauthor, 1977), Visions: Essays on Contemporary Canadian Art (coeditor, 1977), Entrances and Exits (1984), I Giardini Italiani (1985), Genius Loci (1986), and Morbid Symptoms (1987). James lives in Toronto. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1942",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2021-12-06T05:00:00Z",
+      "sortable_date": 2005,
+      "date_added_to_oa": null,
+      "date_text": "2005",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:05:00.743000"
+    },
+    {
+      "id": 447661,
+      "accession_number": "2021.188",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Cuyahoga Valley National Park: On the bank of the Cuyahoga River near Boston Store, 2005. Geoffrey James (British, 1942-). Gelatin silver print; image: 19.8 x 48.3 cm (7 13/16 x 19 in.); paper: 25.6 x 50.6 cm (10 1/16 x 19 15/16 in.). The Cleveland Museum of Art, Gift of the George Gund Foundation Collection in Honor of David Bergholz, 2021.188",
+      "current_location": null,
+      "title": "On the bank of the Cuyahoga River near Boston Store",
+      "series": "Cuyahoga Valley National Park",
+      "creation_date": "2005",
+      "creation_date_earliest": 2005,
+      "creation_date_latest": 2005,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 19.8 x 48.3 cm (7 13/16 x 19 in.); Paper: 25.6 x 50.6 cm (10 1/16 x 19 15/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.198,
+          "width": 0.483
+        },
+        "paper": {
+          "height": 0.256,
+          "width": 0.506
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “Along the River 2005 1/10 Geoffrey James (signed)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Geoffrey James (the artist) [1942-], Toronto, Ontario, Canada",
+          "citations": [],
+          "footnotes": null,
+          "date": "2005",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation Collection, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2005-2021",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 6, 2021",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The Cuyahoga Valley National Park, which runs between Akron and Cleveland, is land that has been occupied by humans for over 1,200 years.",
+      "description": "In his views of the Cuyahoga Valley National Park, landscape photographer Geoffrey James shows us natural beauty, but also reminders of the impact of humans on the land such as fragments of the abandoned locks of the Ohio &amp; Erie Canal and modern bridges. James described the park as “a great democratic open space. . . like no other national park I have seen.”",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117246977"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "<em>George Gund Foundation2005 Annual Report: The Cuyahoga Valley National Park</em>, Cleveland: George Gund Foundation, 2005.",
+          "page_number": "",
+          "url": "https://gundfoundation.org/portfolios/cuyahoga-valley-national-park/."
+        }
+      ],
+      "url": "https://clevelandart.org/art/2021.188",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of the George Gund Foundation Collection in Honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 447661,
+      "creators": [
+        {
+          "id": 509,
+          "description": "Geoffrey James (British, 1942-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Geoffrey James British, b. Wales, 1942- The garden panoramas for which Geoffrey James is best known depict utopian spaces that, since the height of their grandeur in centuries past, have fallen into decay and neglect. He uses a large-format camera fitted with a curved film plane to allow the dramatic curves of his architectural and natural subjects to speak most effectively. The resulting monochromatic panoramas are three times longer than they are high, which allows for multiple vantage points and the play of perspective. James's most obvious historical precedent is Eugène Atget, whose extensive series of Parisian gardens speak with a similar technical vocabulary. James (born in St. Asaph) was educated at Wellington College in Crowthorne, Berkshire, and at Wadham College, Oxford, where he studied modern history (B.A., 1962; M.A., 1964). He taught himself photography in 1965, then moved to Canada, working for several years as contributing editor of Time magazine in Montreal (1967-75), as head of the Visual Arts Section of the Canada Council, Ottawa (1975-82), and on various independent freelance projects. James has also taught at the University of Ottawa (1982-84) and has received a fellowship from the Graham Foundation in Fine Arts (1984) and an artist-in-residency from the Centre International de Recherche de Création et d'Animation, Villeneuve-les-Avignon, France (1985). A retrospective of his work, Genius Loci, was organized by the Canadian Museum of Contemporary Photography (1986). His publications include Transparent Things: The Artist's Use of Photography (1977), The Legacy of Atget (coauthor, 1977), Visions: Essays on Contemporary Canadian Art (coeditor, 1977), Entrances and Exits (1984), I Giardini Italiani (1985), Genius Loci (1986), and Morbid Symptoms (1987). James lives in Toronto. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1942",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2021-12-06T05:00:00Z",
+      "sortable_date": 2005,
+      "date_added_to_oa": null,
+      "date_text": "2005",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:04:00.873000"
+    },
+    {
+      "id": 447664,
+      "accession_number": "2021.189",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Cuyahoga Valley National Park: Viaduct of the Ohio Turnpike, 2005. Geoffrey James (British, 1942-). Gelatin silver print; image: 19.6 x 47.7 cm (7 11/16 x 18 3/4 in.); paper: 30.2 x 50.5 cm (11 7/8 x 19 7/8 in.). The Cleveland Museum of Art, Gift of the George Gund Foundation Collection in Honor of David Bergholz, 2021.189",
+      "current_location": null,
+      "title": "Viaduct of the Ohio Turnpike",
+      "series": "Cuyahoga Valley National Park",
+      "creation_date": "2005",
+      "creation_date_earliest": 2005,
+      "creation_date_latest": 2005,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 19.6 x 47.7 cm (7 11/16 x 18 3/4 in.); Paper: 30.2 x 50.5 cm (11 7/8 x 19 7/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.196,
+          "width": 0.477
+        },
+        "paper": {
+          "height": 0.302,
+          "width": 0.505
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “Ohio Turnpike 2005 A/P Geoffrey James (signed)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Geoffrey James (the artist) [1942-], Toronto, Ontario, Canada",
+          "citations": [],
+          "footnotes": null,
+          "date": "2005",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation Collection, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2005-2021",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 6, 2021",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The Cuyahoga Valley National Park, which runs between Akron and Cleveland, is land that has been occupied by humans for over 1,200 years.",
+      "description": "In his views of the Cuyahoga Valley National Park, landscape photographer Geoffrey James shows us natural beauty, but also reminders of the impact of humans on the land such as fragments of the abandoned locks of the Ohio &amp; Erie Canal and modern bridges. James described the park as “a great democratic open space. . . like no other national park I have seen.”",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117246980"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "<em>George Gund Foundation2005 Annual Report: The Cuyahoga Valley National Park</em>, Cleveland: George Gund Foundation, 2005.",
+          "page_number": "",
+          "url": "https://gundfoundation.org/portfolios/cuyahoga-valley-national-park/"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2021.189",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of the George Gund Foundation Collection in Honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 447664,
+      "creators": [
+        {
+          "id": 509,
+          "description": "Geoffrey James (British, 1942-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Geoffrey James British, b. Wales, 1942- The garden panoramas for which Geoffrey James is best known depict utopian spaces that, since the height of their grandeur in centuries past, have fallen into decay and neglect. He uses a large-format camera fitted with a curved film plane to allow the dramatic curves of his architectural and natural subjects to speak most effectively. The resulting monochromatic panoramas are three times longer than they are high, which allows for multiple vantage points and the play of perspective. James's most obvious historical precedent is Eugène Atget, whose extensive series of Parisian gardens speak with a similar technical vocabulary. James (born in St. Asaph) was educated at Wellington College in Crowthorne, Berkshire, and at Wadham College, Oxford, where he studied modern history (B.A., 1962; M.A., 1964). He taught himself photography in 1965, then moved to Canada, working for several years as contributing editor of Time magazine in Montreal (1967-75), as head of the Visual Arts Section of the Canada Council, Ottawa (1975-82), and on various independent freelance projects. James has also taught at the University of Ottawa (1982-84) and has received a fellowship from the Graham Foundation in Fine Arts (1984) and an artist-in-residency from the Centre International de Recherche de Création et d'Animation, Villeneuve-les-Avignon, France (1985). A retrospective of his work, Genius Loci, was organized by the Canadian Museum of Contemporary Photography (1986). His publications include Transparent Things: The Artist's Use of Photography (1977), The Legacy of Atget (coauthor, 1977), Visions: Essays on Contemporary Canadian Art (coeditor, 1977), Entrances and Exits (1984), I Giardini Italiani (1985), Genius Loci (1986), and Morbid Symptoms (1987). James lives in Toronto. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1942",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2021-12-06T05:00:00Z",
+      "sortable_date": 2005,
+      "date_added_to_oa": null,
+      "date_text": "2005",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:44.244000"
+    },
+    {
+      "id": 162562,
+      "accession_number": "2003.194",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Under Veterans Memorial Bridge, 1991. Lois Conner (American, b. 1951). Platinum print; image: 16.6 x 42 cm (6 9/16 x 16 9/16 in.); matted: 35.6 x 58.4 cm (14 x 23 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, The Cleveland Museum of Art, 2003.194",
+      "current_location": null,
+      "title": "Under Veterans Memorial Bridge",
+      "creation_date": "1991",
+      "creation_date_earliest": 1991,
+      "creation_date_latest": 1991,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "platinum print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 16.6 x 42 cm (6 9/16 x 16 9/16 in.); Matted: 35.6 x 58.4 cm (14 x 23 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.166,
+          "width": 0.42
+        },
+        "matted": {
+          "height": 0.356,
+          "width": 0.584
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": [
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; November 17, 2002 - January 26, 2003.  \"A City Seen:  Photographs from The George Gund Foundation\", exh. cat. p. 41.",
+            "opening_date": "2002-11-17T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "The George Gund Foundation Collection",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79987207"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2003.194",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The George Gund Foundation Collection in honor of David Bergholz, The Cleveland Museum of Art",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 162562,
+      "creators": [
+        {
+          "id": 42873,
+          "description": "Lois Conner (American, b. 1951)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1951",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2003-09-02T00:00:00",
+      "sortable_date": 1991,
+      "date_added_to_oa": null,
+      "date_text": "1991",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:37.614000"
+    },
+    {
+      "id": 447655,
+      "accession_number": "2021.190",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Cuyahoga Valley National Park: Beaver Marsh, 2005. Geoffrey James (British, 1942-). Gelatin silver print; image: 19.8 x 48.2 cm (7 13/16 x 19 in.); paper: 25.5 x 50.5 cm (10 1/16 x 19 7/8 in.). The Cleveland Museum of Art, Gift of the George Gund Foundation Collection in Honor of David Bergholz, 2021.190",
+      "current_location": null,
+      "title": "Beaver Marsh",
+      "series": "Cuyahoga Valley National Park",
+      "creation_date": "2005",
+      "creation_date_earliest": 2005,
+      "creation_date_latest": 2005,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 19.8 x 48.2 cm (7 13/16 x 19 in.); Paper: 25.5 x 50.5 cm (10 1/16 x 19 7/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.198,
+          "width": 0.482
+        },
+        "paper": {
+          "height": 0.255,
+          "width": 0.505
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “Beaver Marsh, Cuyahoga NP 2005 1/10 Geoffrey James (signed)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Geoffrey James (the artist) [1942-], Toronto, Ontario, Canada",
+          "citations": [],
+          "footnotes": null,
+          "date": "2005",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation Collection, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2005-2021",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 6, 2021",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The Cuyahoga Valley National Park, which runs between Akron and Cleveland, is land that has been occupied by humans for over 1,200 years.",
+      "description": "In his views of the Cuyahoga Valley National Park, landscape photographer Geoffrey James shows us natural beauty, but also reminders of the impact of humans on the land such as fragments of the abandoned locks of the Ohio &amp; Erie Canal and modern bridges. James described the park as “a great democratic open space. . . like no other national park I have seen.”",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117246971"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "<em>George Gund Foundation2005 Annual Report: The Cuyahoga Valley National Park</em>, Cleveland: George Gund Foundation, 2005.",
+          "page_number": "",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/2021.190",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of the George Gund Foundation Collection in Honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 447655,
+      "creators": [
+        {
+          "id": 509,
+          "description": "Geoffrey James (British, 1942-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Geoffrey James British, b. Wales, 1942- The garden panoramas for which Geoffrey James is best known depict utopian spaces that, since the height of their grandeur in centuries past, have fallen into decay and neglect. He uses a large-format camera fitted with a curved film plane to allow the dramatic curves of his architectural and natural subjects to speak most effectively. The resulting monochromatic panoramas are three times longer than they are high, which allows for multiple vantage points and the play of perspective. James's most obvious historical precedent is Eugène Atget, whose extensive series of Parisian gardens speak with a similar technical vocabulary. James (born in St. Asaph) was educated at Wellington College in Crowthorne, Berkshire, and at Wadham College, Oxford, where he studied modern history (B.A., 1962; M.A., 1964). He taught himself photography in 1965, then moved to Canada, working for several years as contributing editor of Time magazine in Montreal (1967-75), as head of the Visual Arts Section of the Canada Council, Ottawa (1975-82), and on various independent freelance projects. James has also taught at the University of Ottawa (1982-84) and has received a fellowship from the Graham Foundation in Fine Arts (1984) and an artist-in-residency from the Centre International de Recherche de Création et d'Animation, Villeneuve-les-Avignon, France (1985). A retrospective of his work, Genius Loci, was organized by the Canadian Museum of Contemporary Photography (1986). His publications include Transparent Things: The Artist's Use of Photography (1977), The Legacy of Atget (coauthor, 1977), Visions: Essays on Contemporary Canadian Art (coeditor, 1977), Entrances and Exits (1984), I Giardini Italiani (1985), Genius Loci (1986), and Morbid Symptoms (1987). James lives in Toronto. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1942",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2021-12-06T05:00:00Z",
+      "sortable_date": 2005,
+      "date_added_to_oa": null,
+      "date_text": "2005",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:38.395000"
+    },
+    {
+      "id": 447657,
+      "accession_number": "2021.193",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Cuyahoga Valley National Park: Cuyahoga Valley National Park, 2005. Geoffrey James (British, 1942-). Gelatin silver print; image: 19.9 x 48.3 cm (7 13/16 x 19 in.); paper: 25.4 x 50.5 cm (10 x 19 7/8 in.). The Cleveland Museum of Art, Gift of the George Gund Foundation Collection in Honor of David Bergholz, 2021.193",
+      "current_location": null,
+      "title": "Cuyahoga Valley National Park",
+      "series": "Cuyahoga Valley National Park",
+      "creation_date": "2005",
+      "creation_date_earliest": 2005,
+      "creation_date_latest": 2005,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 19.9 x 48.3 cm (7 13/16 x 19 in.); Paper: 25.4 x 50.5 cm (10 x 19 7/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.199,
+          "width": 0.483
+        },
+        "paper": {
+          "height": 0.254,
+          "width": 0.505
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “Kendal [Hills?] 2005 A/P Geoffrey James (signed)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Geoffrey James (the artist) [1942-], Toronto, Ontario, Canada",
+          "citations": [],
+          "footnotes": null,
+          "date": "2005",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation Collection, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2005-2021",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 6, 2021",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The Cuyahoga Valley National Park, which runs between Akron and Cleveland, is land that has been occupied by humans for over 1,200 years.",
+      "description": "In his views of the Cuyahoga Valley National Park, landscape photographer Geoffrey James shows us natural beauty, but also reminders of the impact of humans on the land such as fragments of the abandoned locks of the Ohio &amp; Erie Canal and modern bridges. James described the park as “a great democratic open space. . . like no other national park I have seen.”",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117246973"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "<em>George Gund Foundation2005 Annual Report: The Cuyahoga Valley National Park</em>, Cleveland: George Gund Foundation, 2005.",
+          "page_number": "",
+          "url": "https://gundfoundation.org/portfolios/cuyahoga-valley-national-park/"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2021.193",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of the George Gund Foundation Collection in Honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 447657,
+      "creators": [
+        {
+          "id": 509,
+          "description": "Geoffrey James (British, 1942-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Geoffrey James British, b. Wales, 1942- The garden panoramas for which Geoffrey James is best known depict utopian spaces that, since the height of their grandeur in centuries past, have fallen into decay and neglect. He uses a large-format camera fitted with a curved film plane to allow the dramatic curves of his architectural and natural subjects to speak most effectively. The resulting monochromatic panoramas are three times longer than they are high, which allows for multiple vantage points and the play of perspective. James's most obvious historical precedent is Eugène Atget, whose extensive series of Parisian gardens speak with a similar technical vocabulary. James (born in St. Asaph) was educated at Wellington College in Crowthorne, Berkshire, and at Wadham College, Oxford, where he studied modern history (B.A., 1962; M.A., 1964). He taught himself photography in 1965, then moved to Canada, working for several years as contributing editor of Time magazine in Montreal (1967-75), as head of the Visual Arts Section of the Canada Council, Ottawa (1975-82), and on various independent freelance projects. James has also taught at the University of Ottawa (1982-84) and has received a fellowship from the Graham Foundation in Fine Arts (1984) and an artist-in-residency from the Centre International de Recherche de Création et d'Animation, Villeneuve-les-Avignon, France (1985). A retrospective of his work, Genius Loci, was organized by the Canadian Museum of Contemporary Photography (1986). His publications include Transparent Things: The Artist's Use of Photography (1977), The Legacy of Atget (coauthor, 1977), Visions: Essays on Contemporary Canadian Art (coeditor, 1977), Entrances and Exits (1984), I Giardini Italiani (1985), Genius Loci (1986), and Morbid Symptoms (1987). James lives in Toronto. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1942",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2021-12-06T05:00:00Z",
+      "sortable_date": 2005,
+      "date_added_to_oa": null,
+      "date_text": "2005",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:42.614000"
+    },
+    {
+      "id": 447653,
+      "accession_number": "2021.196",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Cuyahoga Valley National Park: Along Brandywine Falls, 2005. Geoffrey James (British, 1942-). Gelatin silver print; image: 20.2 x 49.2 cm (7 15/16 x 19 3/8 in.); paper: 30.3 x 50.3 cm (11 15/16 x 19 13/16 in.). The Cleveland Museum of Art, Gift of the George Gund Foundation Collection in Honor of David Bergholz, 2021.196",
+      "current_location": null,
+      "title": "Along Brandywine Falls",
+      "series": "Cuyahoga Valley National Park",
+      "creation_date": "2005",
+      "creation_date_earliest": 2005,
+      "creation_date_latest": 2005,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 20.2 x 49.2 cm (7 15/16 x 19 3/8 in.); Paper: 30.3 x 50.3 cm (11 15/16 x 19 13/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.202,
+          "width": 0.492
+        },
+        "paper": {
+          "height": 0.303,
+          "width": 0.503
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “Brandywine Falls 2005 A/P Geoffrey James (signed)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Geoffrey James (the artist) [1942-], Toronto, Ontario, Canada",
+          "citations": [],
+          "footnotes": null,
+          "date": "2005",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation Collection, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2005-2021",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 6, 2021",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The Cuyahoga Valley National Park, which runs between Akron and Cleveland, is land that has been occupied by humans for over 1,200 years.",
+      "description": "In his views of the Cuyahoga Valley National Park, landscape photographer Geoffrey James shows us natural beauty, but also reminders of the impact of humans on the land such as fragments of the abandoned locks of the Ohio &amp; Erie Canal and modern bridges. James described the park as “a great democratic open space. . . like no other national park I have seen.”",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117246968"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "<em>George Gund Foundation2005 Annual Report: The Cuyahoga Valley National Park</em>, Cleveland: George Gund Foundation, 2005.",
+          "page_number": "",
+          "url": "https://gundfoundation.org/portfolios/cuyahoga-valley-national-park/"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2021.196",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of the George Gund Foundation Collection in Honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 447653,
+      "creators": [
+        {
+          "id": 509,
+          "description": "Geoffrey James (British, 1942-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Geoffrey James British, b. Wales, 1942- The garden panoramas for which Geoffrey James is best known depict utopian spaces that, since the height of their grandeur in centuries past, have fallen into decay and neglect. He uses a large-format camera fitted with a curved film plane to allow the dramatic curves of his architectural and natural subjects to speak most effectively. The resulting monochromatic panoramas are three times longer than they are high, which allows for multiple vantage points and the play of perspective. James's most obvious historical precedent is Eugène Atget, whose extensive series of Parisian gardens speak with a similar technical vocabulary. James (born in St. Asaph) was educated at Wellington College in Crowthorne, Berkshire, and at Wadham College, Oxford, where he studied modern history (B.A., 1962; M.A., 1964). He taught himself photography in 1965, then moved to Canada, working for several years as contributing editor of Time magazine in Montreal (1967-75), as head of the Visual Arts Section of the Canada Council, Ottawa (1975-82), and on various independent freelance projects. James has also taught at the University of Ottawa (1982-84) and has received a fellowship from the Graham Foundation in Fine Arts (1984) and an artist-in-residency from the Centre International de Recherche de Création et d'Animation, Villeneuve-les-Avignon, France (1985). A retrospective of his work, Genius Loci, was organized by the Canadian Museum of Contemporary Photography (1986). His publications include Transparent Things: The Artist's Use of Photography (1977), The Legacy of Atget (coauthor, 1977), Visions: Essays on Contemporary Canadian Art (coeditor, 1977), Entrances and Exits (1984), I Giardini Italiani (1985), Genius Loci (1986), and Morbid Symptoms (1987). James lives in Toronto. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1942",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2021-12-06T05:00:00Z",
+      "sortable_date": 2005,
+      "date_added_to_oa": null,
+      "date_text": "2005",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:48.069000"
+    },
+    {
+      "id": 447654,
+      "accession_number": "2021.197",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Cuyahoga Valley National Park: Along the Towpath Trail near Stumpy Basin, 2005. Geoffrey James (British, 1942-). Gelatin silver print; image: 19.8 x 48.3 cm (7 13/16 x 19 in.); paper: 25.4 x 50.5 cm (10 x 19 7/8 in.). The Cleveland Museum of Art, Gift of the George Gund Foundation Collection in Honor of David Bergholz, 2021.197",
+      "current_location": null,
+      "title": "Along the Towpath Trail near Stumpy Basin",
+      "series": "Cuyahoga Valley National Park",
+      "creation_date": "2005",
+      "creation_date_earliest": 2005,
+      "creation_date_latest": 2005,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 19.8 x 48.3 cm (7 13/16 x 19 in.); Paper: 25.4 x 50.5 cm (10 x 19 7/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.198,
+          "width": 0.483
+        },
+        "paper": {
+          "height": 0.254,
+          "width": 0.505
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “Towpath + River”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Geoffrey James (the artist) [1942-], Toronto, Ontario, Canada",
+          "citations": [],
+          "footnotes": null,
+          "date": "2005",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation Collection, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2005-2021",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 6, 2021",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The Cuyahoga Valley National Park, which runs between Akron and Cleveland, is land that has been occupied by humans for over 1,200 years.",
+      "description": "In his views of the Cuyahoga Valley National Park, landscape photographer Geoffrey James shows us natural beauty, but also reminders of the impact of humans on the land such as fragments of the abandoned locks of the Ohio &amp; Erie Canal and modern bridges. James described the park as “a great democratic open space. . . like no other national park I have seen.”",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117246969"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "<em>George Gund Foundation2005 Annual Report: The Cuyahoga Valley National Park</em>, Cleveland: George Gund Foundation, 2005.",
+          "page_number": "",
+          "url": "https://gundfoundation.org/portfolios/cuyahoga-valley-national-park/"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2021.197",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of the George Gund Foundation Collection in Honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 447654,
+      "creators": [
+        {
+          "id": 509,
+          "description": "Geoffrey James (British, 1942-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Geoffrey James British, b. Wales, 1942- The garden panoramas for which Geoffrey James is best known depict utopian spaces that, since the height of their grandeur in centuries past, have fallen into decay and neglect. He uses a large-format camera fitted with a curved film plane to allow the dramatic curves of his architectural and natural subjects to speak most effectively. The resulting monochromatic panoramas are three times longer than they are high, which allows for multiple vantage points and the play of perspective. James's most obvious historical precedent is Eugène Atget, whose extensive series of Parisian gardens speak with a similar technical vocabulary. James (born in St. Asaph) was educated at Wellington College in Crowthorne, Berkshire, and at Wadham College, Oxford, where he studied modern history (B.A., 1962; M.A., 1964). He taught himself photography in 1965, then moved to Canada, working for several years as contributing editor of Time magazine in Montreal (1967-75), as head of the Visual Arts Section of the Canada Council, Ottawa (1975-82), and on various independent freelance projects. James has also taught at the University of Ottawa (1982-84) and has received a fellowship from the Graham Foundation in Fine Arts (1984) and an artist-in-residency from the Centre International de Recherche de Création et d'Animation, Villeneuve-les-Avignon, France (1985). A retrospective of his work, Genius Loci, was organized by the Canadian Museum of Contemporary Photography (1986). His publications include Transparent Things: The Artist's Use of Photography (1977), The Legacy of Atget (coauthor, 1977), Visions: Essays on Contemporary Canadian Art (coeditor, 1977), Entrances and Exits (1984), I Giardini Italiani (1985), Genius Loci (1986), and Morbid Symptoms (1987). James lives in Toronto. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1942",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2021-12-06T05:00:00Z",
+      "sortable_date": 2005,
+      "date_added_to_oa": null,
+      "date_text": "2005",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:25.703000"
+    }
+  ]
+}

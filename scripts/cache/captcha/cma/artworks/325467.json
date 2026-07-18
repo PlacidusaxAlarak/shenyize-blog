@@ -1,0 +1,152 @@
+{
+  "data": {
+    "id": 325467,
+    "accession_number": "2019.29",
+    "share_license_status": "Copyrighted",
+    "tombstone": "New York Street Scene, 1911. Karl F. Struss (American, 1886–1981). Platinum print; image: 8.7 x 11 cm (3 7/16 x 4 5/16 in.); paper: 8.7 x 11 cm (3 7/16 x 4 5/16 in.); primary mount: 9.2 x 11.6 cm (3 5/8 x 4 9/16 in.); secondary mount: 10.5 x 12.7 cm (4 1/8 x 5 in.). The Cleveland Museum of Art, Gift of Diann G. Mann and Thomas A. Mann, 2019.29",
+    "current_location": null,
+    "title": "New York Street Scene",
+    "creation_date": "1911",
+    "creation_date_earliest": 1911,
+    "creation_date_latest": 1911,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "platinum print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1900-1950",
+    "type": "Photograph",
+    "measurements": "Image: 8.7 x 11 cm (3 7/16 x 4 5/16 in.); Paper: 8.7 x 11 cm (3 7/16 x 4 5/16 in.); Primary mount: 9.2 x 11.6 cm (3 5/8 x 4 9/16 in.); Secondary mount: 10.5 x 12.7 cm (4 1/8 x 5 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.087,
+        "width": 0.11
+      },
+      "paper": {
+        "height": 0.087,
+        "width": 0.11
+      },
+      "primary mount": {
+        "height": 0.092,
+        "width": 0.116
+      },
+      "secondary mount": {
+        "height": 0.105,
+        "width": 0.127
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Written in pencil on recto of secondary mount in lower left: “1911”",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      },
+      {
+        "inscription": "Stamped in black ink on verso of secondary mount: “KARL STRUSS/ARTIST PHOTOGRAPHER/HOLLYWOOD, CALIFORNIA”",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      },
+      {
+        "inscription": "Written in pencil on verso of secondary mount: “SW/83”",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      },
+      {
+        "inscription": "Written in pencil on verso of secondary mount: “8”",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Thomas A. and Diann G. Mann, Palm Beach Gardens, FL",
+        "citations": [],
+        "footnotes": [],
+        "date": null,
+        "sortorder": 1
+      },
+      {
+        "description": "the Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": [],
+        "date": "March 4, 2019",
+        "sortorder": 2
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "This elevated train station on the Sixth Avenue Line was demolished in 1939, replaced by an underground line.",
+    "description": "A successful photographer, Struss was also an inventor and entrepeneur. He developed and manufactured the Struss pictorial lens, which allowed focus to be varied from a soft atmospheric quality to sharp focus. It may not be coincidental that this foggy cityscape evokes a film noir mood. Moving to Hollywood after World War I, Struss became an innovative cinematographer and won the first Academy Award given for that profession.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79875985"
+      ],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "Christie, Manson &amp; Woods International Inc. An American Journey: The Diann G. and Thomas A. Mann Collection of Photographic Masterworks. 2018.",
+        "page_number": null,
+        "url": null
+      }
+    ],
+    "url": "https://clevelandart.org/art/2019.29",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Diann G. Mann and Thomas A. Mann",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 325467,
+    "creators": [
+      {
+        "id": 970,
+        "description": "Karl F. Struss (American, 1886–1981)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "Karl F. Struss American, 1886-1981\r\n\r\nBorn and raised in New York City, Karl Fischer Struss was an important early pictorialist and a cofounder of the Pictorial Photographers of America. He was also a member of the Photo-Secession, publishing his works in Camera Work (April 1912), and a photographer for publications such as Vogue, Vanity Fair, and Harper's Bazaar.\r\n\tA student of Clarence H. White, Struss was influenced by both White and Alvin Langdon Coburn. He developed his own style, however, an elegant synthesis of random qualities with formal composition. Struss experimented with various technical processes. He developed multiple platinum printing to enhance the depth of shadows and in 1909 designed the Struss Pictorial lens, which entered commercial production in 1915.\r\n\tShortly after the First World War, Struss moved to Hollywood, where he became a successful cinematographer. He worked first for Cecil B. De Mille and later freelanced for both independent and major studios until his retirement in 1970. Among his film credits are Ben Hur (1926), Dr. Jekyll and Mr. Hyde (1932), and the Chaplin classics The Great Dictator (1940) and Limelight (1952). In 1928 Struss received an Academy Award for his work on De Mille's film Sunrise. T.W.F.",
+        "name_in_original_language": null,
+        "birth_year": "1886",
+        "death_year": "1981",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2019-03-04T00:00:00-05:00",
+    "sortable_date": 1911,
+    "date_added_to_oa": null,
+    "date_text": "1911",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:10:18.293000"
+  }
+}

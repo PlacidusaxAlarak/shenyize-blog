@@ -1,0 +1,164 @@
+{
+  "data": {
+    "id": 164592,
+    "accession_number": "2006.115",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Earth Landscape, c. 2004. Li Huayi (Chinese, b. 1948). Horizontal flat mount; ink and color on paper; painting: 87.6 x 177.8 cm (34 1/2 x 70 in.). The Cleveland Museum of Art, Norman O. Stone and Ella A. Stone Memorial Fund, 2006.115",
+    "current_location": null,
+    "title": "Earth Landscape",
+    "creation_date": "c. 2004",
+    "creation_date_earliest": 2002,
+    "creation_date_latest": 2006,
+    "artists_tags": [
+      "male",
+      "Asian (from 1900 to present)"
+    ],
+    "culture": [
+      "China"
+    ],
+    "technique": "Horizontal flat mount; ink and color on paper",
+    "support_materials": [],
+    "department": "Chinese Art",
+    "collection": "Chinese Art",
+    "type": "Painting",
+    "measurements": "Painting: 87.6 x 177.8 cm (34 1/2 x 70 in.)",
+    "dimensions": {
+      "No Extent Specified": {},
+      "painting": {
+        "height": 0.876,
+        "width": 1.778
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "李華弌  [印] 華弌",
+        "inscription_translation": "Artist's signature and seal, \"Huayi\" in lower left",
+        "inscription_remark": null,
+        "sortorder": 1
+      },
+      {
+        "inscription": null,
+        "inscription_translation": "Artist's seal on upper left side",
+        "inscription_remark": null,
+        "sortorder": 2
+      },
+      {
+        "inscription": null,
+        "inscription_translation": "Artist's seal on right side",
+        "inscription_remark": null,
+        "sortorder": 3
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 367949,
+          "title": "Spotlight on a New Generation: Contemporary Chinese Artists",
+          "description": "<i>Spotlight on a New Generation: Contemporary Chinese Artists</i>. The Cleveland Museum of Art (organizer) (February 6-November 1, 2020).",
+          "opening_date": "2020-02-06T05:00:00"
+        }
+      ],
+      "legacy": [
+        {
+          "description": "<em>Main Asian Rotation (Gallery 242)</em>. The Cleveland Museum of Art, Cleveland, OH (July 28, 2014-January 7, 2015).",
+          "opening_date": "2014-07-28T00:00:00"
+        }
+      ]
+    },
+    "provenance": [
+      {
+        "description": "Collection of the artist, San Francisco, CA",
+        "citations": [],
+        "footnotes": null,
+        "date": "2004–?",
+        "sortorder": 1
+      },
+      {
+        "description": "(Kaikodo America Inc., New York, NY, sold to the Cleveland Museum of Art)",
+        "citations": [],
+        "footnotes": null,
+        "date": "?–2006",
+        "sortorder": 2
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "2006–",
+        "sortorder": 3
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "One of Li Huayi's inspirations is the monumental landscape painting tradition of the Northern Song dynasty (960–1127).",
+    "description": "Li Huayi seeks to recapture the elegance and fine texture of ancient Chinese landscape paintings while creating new abstract compositions for the modern world. Li begins his compositions by laying out large areas of ink washes. Next, he applies details of rock masses, trees, waterfall, clouds, and mist. While borrowing abstract, geometric forms of Western modernism, his brushwork depicting rocks and trees remains traditional.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q60480339"
+      ],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "Chung, Anita, \"New Chinese Landscapes\", Cleveland Museum of Art. <em>Cleveland Art: The Cleveland Museum of Art Members Magazine</em>. Vol. 47 no. 05, May/June 2007",
+        "page_number": "Mentioned & reproduced: p. 10",
+        "url": "https://archive.org/details/CMAMM2007-05/page/10/"
+      },
+      {
+        "citation": "Chung, Anita. \"Re-emergence: New Chinese Galleries and Art Acquisitions of The Cleveland Museum of Art.\" <em>Orientations</em> vol 44 no. 8 (November/December 2013): 64-75.",
+        "page_number": "Reproduced: pp. 72-3, fig. 9",
+        "url": null
+      },
+      {
+        "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+        "page_number": "Mentioned and reproduced: P. 111",
+        "url": ""
+      }
+    ],
+    "url": "https://clevelandart.org/art/2006.115",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Norman O. Stone and Ella A. Stone Memorial Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 164592,
+    "creators": [
+      {
+        "id": 54385,
+        "description": "Li Huayi (Chinese, b. 1948)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": "李華弌",
+        "birth_year": "1948",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2006-06-05T00:00:00",
+    "sortable_date": 2002,
+    "date_added_to_oa": null,
+    "date_text": "c. 2004",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:05:58.768000"
+  }
+}

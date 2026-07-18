@@ -1,0 +1,105 @@
+{
+  "data": {
+    "id": 162566,
+    "accession_number": "2003.195.b",
+    "share_license_status": "Copyrighted",
+    "tombstone": "From Control Tower near Carter Road Bridge, 1991. Lois Conner (American, b. 1951). Platinum print; overall: 16.6 x 126 cm (6 9/16 x 49 5/8 in.); each: 16.6 x 42 cm (6 9/16 x 16 9/16 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, The Cleveland Museum of Art, 2003.195.b",
+    "current_location": null,
+    "title": "From Control Tower near Carter Road Bridge",
+    "creation_date": "1991",
+    "creation_date_earliest": 1991,
+    "creation_date_latest": 1991,
+    "artists_tags": [
+      "female"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "platinum print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1951-Present",
+    "type": "Photograph",
+    "measurements": "Overall: 16.6 x 126 cm (6 9/16 x 49 5/8 in.); Each: 16.6 x 42 cm (6 9/16 x 16 9/16 in.)",
+    "dimensions": {
+      "overall": {
+        "height": 0.166,
+        "width": 1.26
+      },
+      "each": {
+        "height": 0.166,
+        "width": 0.42
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "The George Gund Foundation Collection",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": null
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": null,
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79987214"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2003.195.b",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "The George Gund Foundation Collection in honor of David Bergholz, The Cleveland Museum of Art",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 162566,
+    "creators": [
+      {
+        "id": 42873,
+        "description": "Lois Conner (American, b. 1951)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1951",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2003-09-02T00:00:00",
+    "sortable_date": 1991,
+    "date_added_to_oa": null,
+    "date_text": "1991",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "part",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": "2003.195",
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:07:03.139000"
+  }
+}

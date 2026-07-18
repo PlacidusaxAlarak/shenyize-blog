@@ -1,0 +1,127 @@
+{
+  "data": {
+    "id": 155985,
+    "accession_number": "1991.27",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Looking Along Broadway Towards Grace Church, 1981. Red Grooms (American, b. 1937). Mixed media (alkyd paint, gatorboard, celastic, wood, wax, foam-core); overall: 180.3 x 161.9 x 73 cm (71 x 63 3/4 x 28 3/4 in.). The Cleveland Museum of Art, Gift of Agnes Gund in honor of Edward Henning, 1991.27. © Red Grooms, Member of Artists Rights Society (ARS)",
+    "current_location": "000 Education Gallery",
+    "title": "Looking Along Broadway Towards Grace Church",
+    "creation_date": "1981",
+    "creation_date_earliest": 1981,
+    "creation_date_latest": 1981,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "mixed media (alkyd paint, gatorboard, celastic, wood, wax, foam-core)",
+    "support_materials": [],
+    "department": "Contemporary Art",
+    "collection": "CONTEMP - Sculpture",
+    "type": "Sculpture",
+    "measurements": "Overall: 180.3 x 161.9 x 73 cm (71 x 63 3/4 x 28 3/4 in.)",
+    "dimensions": {
+      "overall": {
+        "height": 1.803,
+        "width": 1.619,
+        "depth": 0.73
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": "© Red Grooms, Member of Artists Rights Society (ARS)",
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 311440,
+          "title": "Notable Acquisitions",
+          "description": "<i>Notable Acquisitions</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 7-September 15, 1991).",
+          "opening_date": "1991-06-07T04:00:00"
+        }
+      ],
+      "legacy": [
+        {
+          "description": "New York, NY, Marlborough Gallery, 1981: \"Red Grooms: Recent Works,\" repr. cover and p. 31",
+          "opening_date": "1981-01-01T00:00:00"
+        },
+        {
+          "description": "Philadelphia, PA, Pennsylvania Academy of the Fine Arts, 1985-86: \"Red Grooms Retrospective,\" cat. no. 70, (also to: Denver Art Museum, Museum of Contemporary Art, Los Angeles, Nashville, Tennessee State Museum).",
+          "opening_date": "1985-01-01T00:00:00"
+        },
+        {
+          "description": "CMA 1991: \"Notable Acquisitions,\" CMA Bulletin 78 (June, 1991), p. 110, repr.",
+          "opening_date": "1991-06-01T00:00:00"
+        }
+      ]
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [
+      "461.1981"
+    ],
+    "did_you_know": "This work depicts roughly 15 blocks of Lower Manhattan between Canal and 10th Streets.",
+    "description": "Looking Along Broadway Towards Grace Church exemplifies the zany, cartoonlike sculptural environments of Red Grooms. Throughout his career, New York City has provided wonderfully rich subject matter for his work. In this animated scene, the artist focuses on the visual clutter of a lower Manhattan street near his studio. A three-dimensional caricature, this work features jutting buildings, garish street people, and aggressive cars, trucks, and buses, all vividly painted. With engaging wit and enormous energy Grooms captures urban life with rare good humor.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q60781105"
+      ],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "Hinson, Tom E. \"Notable Acquisitions.\" <em>The Bulletin of the Cleveland Museum of Art</em> 78, no. 3 (1991): 63-147.",
+        "page_number": "Reproduced and Mentioned: p. 110",
+        "url": "https://www.jstor.org/stable/25161319"
+      },
+      {
+        "citation": "Greenberg, Jan, and Sandra Jordan. The Sculptor’s Eye : Looking at Contemporary American Art. New York: Delacorte Press, 1993.",
+        "page_number": "Mentioned and reproduced: pp. 36-37, fig. 12",
+        "url": ""
+      }
+    ],
+    "url": "https://clevelandart.org/art/1991.27",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Agnes Gund in honor of Edward Henning",
+    "image_credit": null,
+    "sketchfab_id": "a96aba217b6440108ca818e423be51cc",
+    "sketchfab_url": "https://sketchfab.com/models/a96aba217b6440108ca818e423be51cc",
+    "gallery_donor_text": "Susan M. Kaesgen Education Gallery and Lobby",
+    "athena_id": 155985,
+    "creators": [
+      {
+        "id": 55844,
+        "description": "Red Grooms (American, b. 1937)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1937",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1991-03-27T00:00:00",
+    "sortable_date": 1981,
+    "date_added_to_oa": null,
+    "date_text": "1981",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-04-14 21:33:17.466000"
+  }
+}

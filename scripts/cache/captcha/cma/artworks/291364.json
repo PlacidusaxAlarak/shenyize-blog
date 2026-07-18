@@ -1,0 +1,104 @@
+{
+  "data": {
+    "id": 291364,
+    "accession_number": "2016.462",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Amphitheater Bridge, Acadia National Park, 1989. Mark Citret (American, b. 1949). Gelatin silver print on vellum; image: 15.8 x 15.8 cm (6 1/4 x 6 1/4 in.); paper: 21.4 x 27.9 cm (8 7/16 x 11 in.). The Cleveland Museum of Art, Gift of George Stephanopoulos, 2016.462",
+    "current_location": null,
+    "title": "Amphitheater Bridge, Acadia National Park",
+    "creation_date": "1989",
+    "creation_date_earliest": 1989,
+    "creation_date_latest": 1989,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "gelatin silver print on vellum",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1951-Present",
+    "type": "Photograph",
+    "measurements": "Image: 15.8 x 15.8 cm (6 1/4 x 6 1/4 in.); Paper: 21.4 x 27.9 cm (8 7/16 x 11 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.158,
+        "width": 0.158
+      },
+      "paper": {
+        "height": 0.214,
+        "width": 0.279
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Written in pencil on recto: “16/45 Mark Citret (signed)”\nWritten in pencil on recto: “Amphitheater Bridge, Acadia National Park, 1989”\nWritten in pencil on verso: “95-PFA”\nWritten in pencil on verso: “45.5.10”",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": null,
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79864689"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2016.462",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of George Stephanopoulos",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 291364,
+    "creators": [
+      {
+        "id": 291359,
+        "description": "Mark Citret (American, b. 1949)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1949",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2016-12-05T00:00:00-05:00",
+    "sortable_date": 1989,
+    "date_added_to_oa": null,
+    "date_text": "1989",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-26 23:59:35.416000"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "data": {
+    "id": 380088,
+    "accession_number": "2020.171",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Garden Variations, Orange and Yellow, 1977. Joseph O'Sickey (American, 1918–2013). Oil on canvas; overall: 152.4 x 177.8 cm (60 x 70 in.). The Cleveland Museum of Art, Nancy F. and Joseph P. Keithley Collection Gift, 2020.171",
+    "current_location": null,
+    "title": "Garden Variations, Orange and Yellow",
+    "creation_date": "1977",
+    "creation_date_earliest": 1977,
+    "creation_date_latest": 1977,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "oil on canvas",
+    "support_materials": [],
+    "department": "Contemporary Art",
+    "collection": "CONTEMP - Painting",
+    "type": "Painting",
+    "measurements": "Overall: 152.4 x 177.8 cm (60 x 70 in.)",
+    "dimensions": {
+      "overall": {
+        "height": 1.524,
+        "width": 1.778
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Signed and dated, lower right: O'Sickey 77",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 396695,
+          "title": "Impressionism to Modernism: The Keithley Collection",
+          "description": "<i>Impressionism to Modernism: The Keithley Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 11, 2022-January 8, 2023).",
+          "opening_date": "2022-09-11T04:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "As a child, O’Sickey attended Saturday classes in illustration here at the Cleveland Museum of Art.",
+    "description": "Joseph O’Sickey’s most celebrated canvases, such as <em>Garden Variations: Orange and Yellow</em>, are hybrid still life and landscape subjects that he arranged and painted in his backyard. A frequent motif in this body of work is a cloth-covered table prepared for entertainment that takes center stage. Here, the table displays a bowl of fruit, vases of flowers, and bottled beverages. As this painting’s title suggests, bold color is a prominent compositional feature, creating a festive feeling appropriate for an informal outdoor gathering.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q87481588"
+      ],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "Adams, Henry. \"Joseph O’Sickey.\" In <em>The Keithley Collection at the Cleveland Museum of Art, </em>edited by Heather Lemonedes Brown, 186-191. Cleveland, OH: The Cleveland Museum of Art, 2022.",
+        "page_number": "Mentioned and reproduced: p. 186-191; Mentioned: p. 269",
+        "url": ""
+      },
+      {
+        "citation": "Brown, Heather Lemonedes. “Color, Sensation, and Memory: Themes in the Keithleys’ gift and promised gift.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>62, no. 3 (2022): Cover, 4-7.",
+        "page_number": "Reproduced: Cover, P. 2",
+        "url": "https://archive.org/details/CMAMM2022-03/page/4/mode/2up"
+      }
+    ],
+    "url": "https://clevelandart.org/art/2020.171",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Nancy F. and Joseph P. Keithley Collection Gift",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 380088,
+    "creators": [
+      {
+        "id": 3579,
+        "description": "Joseph O'Sickey (American, 1918–2013)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1918",
+        "death_year": "2013",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 0
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2020-03-02T00:00:00-05:00",
+    "sortable_date": 1977,
+    "date_added_to_oa": null,
+    "date_text": "1977",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:00:17.720000"
+  }
+}

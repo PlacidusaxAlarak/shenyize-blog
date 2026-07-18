@@ -1,0 +1,130 @@
+{
+  "data": {
+    "id": 395077,
+    "accession_number": "2020.307",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Ohio City, 2004. Thomas Roma (American, 1950-). Gelatin silver print; image: 24.4 x 32.2 cm (9 5/8 x 12 11/16 in.); paper: 27.8 x 35.3 cm (10 15/16 x 13 7/8 in.). The Cleveland Museum of Art, Gift of the George Gund Foundation Collection in Honor of David Bergholz, 2020.307",
+    "current_location": null,
+    "title": "Ohio City",
+    "creation_date": "2004",
+    "creation_date_earliest": 2004,
+    "creation_date_latest": 2004,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "gelatin silver print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1951-Present",
+    "type": "Photograph",
+    "measurements": "Image: 24.4 x 32.2 cm (9 5/8 x 12 11/16 in.); Paper: 27.8 x 35.3 cm (10 15/16 x 13 7/8 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.244,
+        "width": 0.322
+      },
+      "paper": {
+        "height": 0.278,
+        "width": 0.353
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Written in pencil on verso: \"3813-04-12 Thomas Roma (signed) 2004\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Thomas Roma (the artist) [1950-]",
+        "citations": [],
+        "footnotes": [],
+        "date": "2004",
+        "sortorder": 1
+      },
+      {
+        "description": "The George Gund Foundation, Cleveland, OH",
+        "citations": [],
+        "footnotes": [],
+        "date": "2004-2020",
+        "sortorder": 2
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": [],
+        "date": "December 7, 2020",
+        "sortorder": 3
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "The George Gund Foundation annually commissions artists to photograph the Foundation’s areas of interest in Northeast Ohio for its annual reports.",
+    "description": "In 2004, the Foundation selected Brooklyn-based artist Thomas Roma, a masterful and sympathetic recorder of the urban environment, to photograph Ohio City on Cleveland’s near west side. He shows us a healthy neighborhood, one where the streets are busy and the businesses active. There are no great dramas or tensions, merely the daily dance of urban life.",
+    "external_resources": {
+      "wikidata": [],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "<em>The George Fund Foundation: Annual Report 2004</em>, Cleveland: George Gund Foundation, 2005.",
+        "page_number": null,
+        "url": "https://gundfoundation.org/portfolios/ohio-city/"
+      }
+    ],
+    "url": "https://clevelandart.org/art/2020.307",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of the George Gund Foundation Collection in Honor of David Bergholz",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 395077,
+    "creators": [
+      {
+        "id": 51368,
+        "description": "Thomas Roma (American, 1950-)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1950",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2020-12-07T00:00:00-05:00",
+    "sortable_date": 2004,
+    "date_added_to_oa": null,
+    "date_text": "2004",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:04:03.869000"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": 161193,
+    "accession_number": "1999.304.2",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Gardener's Huts: My Huts, 1999. François Houtin (French, 1950-). Etching; sheet: 37.7 x 28.3 cm (14 13/16 x 11 1/8 in.); platemark: 23.3 x 17.8 cm (9 3/16 x 7 in.). The Cleveland Museum of Art, Gift of Elizabeth Carroll Shearer in memory of Robert Lundie Shearer, 1999.304.2",
+    "current_location": null,
+    "title": "Gardener's Huts: My Huts",
+    "creation_date": "1999",
+    "creation_date_earliest": 1999,
+    "creation_date_latest": 1999,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "France, 20th century"
+    ],
+    "technique": "etching",
+    "support_materials": [
+      {
+        "description": "Lana Royal watermarked wove paper",
+        "watermarks": []
+      }
+    ],
+    "department": "Prints",
+    "collection": "PR - Etching",
+    "type": "Print",
+    "measurements": "Sheet: 37.7 x 28.3 cm (14 13/16 x 11 1/8 in.); Platemark: 23.3 x 17.8 cm (9 3/16 x 7 in.)",
+    "dimensions": {
+      "sheet": {
+        "height": 0.377,
+        "width": 0.283
+      },
+      "platemark": {
+        "height": 0.233,
+        "width": 0.178
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": "60",
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "in graphite: numbered XIX/LX; titled Mes Cabanes; signed and dated Houtin '99",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 202597,
+          "title": "Imagining the Garden",
+          "description": "<i>Imagining the Garden</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 24, 2015-March 6, 2016).",
+          "opening_date": "2015-10-24T00:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "Houtin, a landscape architect, also makes etchings of utopian gardens. In this suite of 14 prints he invented charming gardener sheds that blend nature and architecture into delightful, imaginative follies.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79983634"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "catalogue_raisonne": "Armstrong+Broutta 282",
+    "url": "https://clevelandart.org/art/1999.304.2",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Elizabeth Carroll Shearer in memory of Robert Lundie Shearer",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 161193,
+    "creators": [
+      {
+        "id": 11174,
+        "description": "François Houtin (French, 1950-)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1950",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2000-03-15T00:00:00",
+    "sortable_date": 1999,
+    "date_added_to_oa": null,
+    "date_text": "1999",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "component",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": "1999.304",
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:06:25.850000"
+  }
+}

@@ -1,0 +1,2547 @@
+{
+  "info": {
+    "total": 536,
+    "parameters": {
+      "skip": 80,
+      "limit": 20,
+      "q": "city photograph",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,gallery,classification_type,department,collection",
+      "search": "city photograph"
+    }
+  },
+  "data": [
+    {
+      "id": 317938,
+      "accession_number": "2018.886",
+      "share_license_status": "Copyrighted",
+      "tombstone": "East 100th Street: Untitled, 1966–1968. Bruce Davidson (American, b. 1933). Gelatin silver print; image: 21.1 x 25.8 cm (8 5/16 x 10 3/16 in.); paper: 35.3 x 27.7 cm (13 7/8 x 10 7/8 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.886",
+      "current_location": null,
+      "title": "Untitled",
+      "series": "East 100th Street",
+      "creation_date": "1966–1968",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1968,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 21.1 x 25.8 cm (8 5/16 x 10 3/16 in.); Paper: 35.3 x 27.7 cm (13 7/8 x 10 7/8 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.353,
+          "width": 0.277
+        },
+        "image": {
+          "height": 0.211,
+          "width": 0.258
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"Bruce Davidson\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"66-46-1099/42\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Davidson’s photographs of Spanish Harlem were used as evidence of squalid housing conditions in claims against New York City.",
+      "description": "Davidson spent two years photographing in Spanish Harlem, attempting to integrate himself into the daily lives of its residents. In the past he had used a 35mm camera, but here he turned to a large-format, 4 x 5-inch camera, which requires a tripod and slows down the act of photographing, making the session more of a shared experience, a give and take.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876879"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.886",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317938,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–1968",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:21.801000"
+    },
+    {
+      "id": 370131,
+      "accession_number": "2019.263",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Veracruz 272, 1973, printed 1980s. Aaron Siskind (American, 1903–1991). Gelatin silver print; image: 19.1 x 18 cm (7 1/2 x 7 1/16 in.); paper: 25.2 x 20.2 cm (9 15/16 x 7 15/16 in.). The Cleveland Museum of Art, Gift of George and Joan Violin, 2019.263",
+      "current_location": null,
+      "title": "Veracruz 272",
+      "creation_date": "1973, printed 1980s",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 19.1 x 18 cm (7 1/2 x 7 1/16 in.); Paper: 25.2 x 20.2 cm (9 15/16 x 7 15/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.191,
+          "width": 0.18
+        },
+        "paper": {
+          "height": 0.252,
+          "width": 0.202
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in black ink on recto: “V.C. 272 1973 Aaron Siskind (signed)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “VC 272-‘73/5”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “5”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “PF133086”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “ASF 15526”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Commercially imprinted throughout verso: “Agfa”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(G.W. Einstein, Inc., New York, NY)",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "George and Joan Violin",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 3, 2019",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Aaron Siskind taught high school English in New York City for 23 years before he took up photography.",
+      "description": "Siskind found motifs in the city or in nature that, when detached from their context through close-up, enter into a dialogue with contemporary avant-garde painting, especially Abstract Expressionism. Whether capturing fragments of nature, architecture, or the urban environment, Siskind created images that explored abstraction, symbolism, gesture, and texture.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q84279393"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2019.263",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George and Joan Violin",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 370131,
+      "creators": [
+        {
+          "id": 912,
+          "description": "Aaron Siskind (American, 1903–1991)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Aaron Siskind American, 1903-1991 Born in New York City, Aaron Siskind inspired many photographers through the example of his own work and his instruction at the Institute of Design, Illinois Institute of Technology, and at the Rhode Island School of Design. Graduating from City College of New York in 1926, Siskind taught English in the city's public schools for 23 years. He took up photography as a hobby in 1930 and two years later learned to process and print his own images. Around this time he joined the Photo League, an organization of socially concerned photographers who promoted documentary photography. Siskind headed the league's project focusing on Harlem (Harlem Document) and also produced his own series Tabernacle City, Bucks County and The Most Crowded Block in the World. In the early 1940s, Siskind's work gradually shifted from a social documentary approach to a more abstract and personal style. During summers on Martha's Vineyard and in Gloucester, Massachusetts, he began photographing natural objects close up, eliminating deep, naturalistic space and concentrating on the primacy of the flat, two-dimensional surface of the photograph. As a result of his experiments, he came to be interested in the photograph as a physical object in its own right, rather than as a reflection of the outside world. In 1947 Siskind exhibited his new work at the Egan Gallery in New York, where the paintings of the abstract expressionists were shown. He became friends with painter Franz Kline and other members of his circle and through their support published his first book, Aaron Siskind: Photographs (1959). In the 1950s Siskind also began to establish himself as a photography teacher. He gained his first experience as a part-time instructor at Trenton College (1949-51), then taught during the summer of 1951 at Black Mountain College in North Carolina. There he worked with Harry Callahan, who invited him to join the staff of the Institute of Design in Chicago. Siskind taught at the institute from 1951-71, when he left to join the Rhode Island School of Design where Callahan now headed the department of photography. Siskind continued to teach at the school until his retirement in 1976. Over the years Siskind remained interested in exploring the formal and abstract qualities of photography, becoming known for his closeup, abstracted views of rocks, peeling paint, bits of graffiti, torn signs, and other objects. He exhibited widely, and in 1982 his photographs were featured in a major retrospective, Aaron Siskind: Fifty Years, organized by the Center for Creative Photography, Tucson. M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1903",
+          "death_year": "1991",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-12-02T00:00:00-05:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973, printed 1980s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:04:50.794000"
+    },
+    {
+      "id": 317926,
+      "accession_number": "2018.874",
+      "share_license_status": "Copyrighted",
+      "tombstone": "East 100th Street: Untitled (52536), 1966–1968. Bruce Davidson (American, b. 1933). Gelatin silver print; paper: 27.9 x 35.6 cm (11 x 14 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.874",
+      "current_location": null,
+      "title": "Untitled (52536)",
+      "series": "East 100th Street",
+      "creation_date": "1966–1968",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1968,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 27.9 x 35.6 cm (11 x 14 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.279,
+          "width": 0.356
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Davidson’s photographs of Spanish Harlem were used as evidence of squalid housing conditions in claims against New York City.",
+      "description": "Davidson spent two years photographing in Spanish Harlem, attempting to integrate himself into the daily lives of its residents. In the past he had used a 35mm camera, but here he turned to a large-format, 4 x 5-inch camera, which requires a tripod and slows down the act of photographing, making the session more of a shared experience, a give and take.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876844"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.874",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317926,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–1968",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:51.539000"
+    },
+    {
+      "id": 317935,
+      "accession_number": "2018.883",
+      "share_license_status": "Copyrighted",
+      "tombstone": "East 100th Street: Untitled, 1966–1968. Bruce Davidson (American, b. 1933). Gelatin silver print; image: 21.3 x 15.8 cm (8 3/8 x 6 1/4 in.); paper: 35.6 x 27.6 cm (14 x 10 7/8 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.883. © Bruce Davidson/Magnum Photos",
+      "current_location": null,
+      "title": "Untitled",
+      "series": "East 100th Street",
+      "creation_date": "1966–1968",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1968,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 21.3 x 15.8 cm (8 3/8 x 6 1/4 in.); Paper: 35.6 x 27.6 cm (14 x 10 7/8 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.356,
+          "width": 0.276
+        },
+        "image": {
+          "height": 0.213,
+          "width": 0.158
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Bruce Davidson/Magnum Photos",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"Bruce Davidson\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"66-46-421/13\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Davidson’s photographs of Spanish Harlem were used as evidence of squalid housing conditions in claims against New York City.",
+      "description": "Davidson spent two years photographing in Spanish Harlem, attempting to integrate himself into the daily lives of its residents. In the past he had used a 35mm camera, but here he turned to a large-format, 4 x 5-inch camera, which requires a tripod and slows down the act of photographing, making the session more of a shared experience, a give and take.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876869"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.883",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317935,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–1968",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:06.965000"
+    },
+    {
+      "id": 317940,
+      "accession_number": "2018.888",
+      "share_license_status": "Copyrighted",
+      "tombstone": "East 100th Street: Untitled (53006), 1966–1968. Bruce Davidson (American, b. 1933). Gelatin silver print; paper: 50.8 x 61 cm (20 x 24 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.888. © Bruce Davidson/Magnum Photos",
+      "current_location": null,
+      "title": "Untitled (53006)",
+      "series": "East 100th Street",
+      "creation_date": "1966–1968",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1968,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 50.8 x 61 cm (20 x 24 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.508,
+          "width": 0.61
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Bruce Davidson/Magnum Photos",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Davidson’s photographs of Spanish Harlem were used as evidence of squalid housing conditions in claims against New York City.",
+      "description": "Davidson spent two years photographing in Spanish Harlem, attempting to integrate himself into the daily lives of its residents. In the past he had used a 35mm camera, but here he turned to a large-format, 4 x 5-inch camera, which requires a tripod and slows down the act of photographing, making the session more of a shared experience, a give and take.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876884"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.888",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317940,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–1968",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:16.380000"
+    },
+    {
+      "id": 317941,
+      "accession_number": "2018.889",
+      "share_license_status": "Copyrighted",
+      "tombstone": "East 100th Street: Untitled (53184), 1966–1968. Bruce Davidson (American, b. 1933). Gelatin silver print; paper: 35.6 x 27.9 cm (14 x 11 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.889. © Bruce Davidson/Magnum Photos",
+      "current_location": null,
+      "title": "Untitled (53184)",
+      "series": "East 100th Street",
+      "creation_date": "1966–1968",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1968,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 35.6 x 27.9 cm (14 x 11 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.356,
+          "width": 0.279
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Bruce Davidson/Magnum Photos",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Davidson’s photographs of Spanish Harlem were used as evidence of squalid housing conditions in claims against New York City.",
+      "description": "Davidson spent two years photographing in Spanish Harlem, attempting to integrate himself into the daily lives of its residents. In the past he had used a 35mm camera, but here he turned to a large-format, 4 x 5-inch camera, which requires a tripod and slows down the act of photographing, making the session more of a shared experience, a give and take.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876887"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.889",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317941,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–1968",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:41.549000"
+    },
+    {
+      "id": 291569,
+      "accession_number": "2016.280",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Line of Unemployed Men, New York City, 1963 (printed before 1975). Leonard Freed (American, 1929–2006). Gelatin silver print; image: 16.2 x 24 cm (6 3/8 x 9 7/16 in.); paper: 20.3 x 25.2 cm (8 x 9 15/16 in.). The Cleveland Museum of Art, Gift of Michael Mattis and Judith Hochberg, 2016.280. © Leonard Freed /Magnum Photos",
+      "current_location": null,
+      "title": "Line of Unemployed Men, New York City",
+      "creation_date": "1963 (printed before 1975)",
+      "creation_date_earliest": 1963,
+      "creation_date_latest": 1963,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 16.2 x 24 cm (6 3/8 x 9 7/16 in.); Paper: 20.3 x 25.2 cm (8 x 9 15/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.162,
+          "width": 0.24
+        },
+        "paper": {
+          "height": 0.203,
+          "width": 0.252
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Leonard Freed /Magnum Photos",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “LFBWA-11.2 7500”\nWritten in red ink on verso: “Unemployment”\nImprinted in black type on white adhesive label on verso: “© Leonard Freed/Magnum Photos, Inc.”\nStamped in black ink on verso: “50498”\nWritten in pencil on verso: “SOC: 81”\nStamped in red ink on verso: “Photograph By/Leonard Freed/© MAGNUM PHOTOS, INC./15 West 46th Street, N.Y.C. 10036/63-7-35/22 [written in black marker]”\nWritten in pencil on verso: “63-7-35/22”\nStamped in blue ink on verso: “MAGNUM/PHOTO LIBRARY PRINT/NEW YORK./34024 [written in pencil and crossed out] 34821 [written in pencil and crossed out]/LOG REF. 32069 [written in pencil and crossed out] 45954 [written in pencil]/TO BE RETURNED”\nStamped in black ink on verso: “PRINTED BY/BRIGITTE FREED/BETWEEN 1957/AND 1975”\nWritten in pencil on verso: “Leonard Freed (signed)”\nStamped in black ink on verso: “© Leonard Freed-Magnum”\nStamped in black ink on verso: “VINTAGE PRINT”\nWritten in pencil on verso: “Book: Black in White America 63-7-35-22/1963 New York City, USA (Unemployed Men)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 292784,
+            "title": "Black in America: Louis Draper and Leonard Freed",
+            "description": "<i>Black in America: Louis Draper and Leonard Freed</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 26-July 30, 2017).",
+            "opening_date": "2017-02-26T05:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "In 1963, the year Martin Luther King Jr. delivered his “I Have a Dream” speech, the unemployment rate in the United States was 5% for whites and 10.9% for blacks.",
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79871070"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2016.280",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Michael Mattis and Judith Hochberg",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 291569,
+      "creators": [
+        {
+          "id": 64197,
+          "description": "Leonard Freed (American, 1929–2006)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Born in Brooklyn to Jewish, working-class parents of Eastern European descent, Leonard Freed (1929–2006) went to Europe to become a painter but instead discovered photography. After studying the medium in New York City, he worked as a documentary photographer and photojournalist in Europe. In 1972 he joined Magnum, the celebrated collaborative photo agency. Freed’s photographs in this exhibition are from<em> Black in White America, </em>a series inspired by an experience he had while covering the construction of the Berlin Wall in 1961. As he photographed an African American soldier guarding the border, it struck Freed that this man was risking his life to defend a country that limited his own rights. Freed returned to New York to undertake a multiyear exploration of African American life. Freed began shooting around New York, and then traveled extensively throughout the South. He spent time in communities getting to know his subjects, and kept a journal recording his impressions and their stories and words. During these years, he also covered Martin Luther King Jr. and numerous civil rights events, but when Freed published <em>Black in White America</em> in 1968, the book focused instead on the fabric of daily life. As a photojournalist, Freed was an observer rather than a participant, but not an impartial one. He believed that “photography is about who you are. It’s the seeking of truth in relation to yourself.”",
+          "name_in_original_language": null,
+          "birth_year": "1929",
+          "death_year": "2006",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2016-12-05T00:00:00-05:00",
+      "sortable_date": 1963,
+      "date_added_to_oa": null,
+      "date_text": "1963 (printed before 1975)",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:41.665000"
+    },
+    {
+      "id": 370132,
+      "accession_number": "2019.264",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Veracruz 180, 1973, printed 1985. Aaron Siskind (American, 1903–1991). Gelatin silver print; image: 22 x 23.8 cm (8 11/16 x 9 3/8 in.); paper: 35.2 x 27.7 cm (13 7/8 x 10 7/8 in.). The Cleveland Museum of Art, Gift of George and Joan Violin, 2019.264",
+      "current_location": null,
+      "title": "Veracruz 180",
+      "creation_date": "1973, printed 1985",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 22 x 23.8 cm (8 11/16 x 9 3/8 in.); Paper: 35.2 x 27.7 cm (13 7/8 x 10 7/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.22,
+          "width": 0.238
+        },
+        "paper": {
+          "height": 0.352,
+          "width": 0.277
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “Vera Cruz 180 1973/Aaron Siskind (signed)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “2/85 (circled)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"VC 180 1/72/B4 (illegible writing)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “43”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “PF133124”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “ASF 14646”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Commercially imprinted throughout verso: “Agfa”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(G.W. Einstein, Inc., New York, NY)",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "George and Joan Violin",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 3, 2019",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Aaron Siskind taught high school English in New York City for 23 years before he took up photography.",
+      "description": "Siskind found motifs in the city or in nature that, when detached from their context through close-up, enter into a dialogue with contemporary avant-garde painting, especially Abstract Expressionism. Whether capturing fragments of nature, architecture, or the urban environment, Siskind created images that explored abstraction, symbolism, gesture, and texture.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q84279411"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2019.264",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George and Joan Violin",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 370132,
+      "creators": [
+        {
+          "id": 912,
+          "description": "Aaron Siskind (American, 1903–1991)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Aaron Siskind American, 1903-1991 Born in New York City, Aaron Siskind inspired many photographers through the example of his own work and his instruction at the Institute of Design, Illinois Institute of Technology, and at the Rhode Island School of Design. Graduating from City College of New York in 1926, Siskind taught English in the city's public schools for 23 years. He took up photography as a hobby in 1930 and two years later learned to process and print his own images. Around this time he joined the Photo League, an organization of socially concerned photographers who promoted documentary photography. Siskind headed the league's project focusing on Harlem (Harlem Document) and also produced his own series Tabernacle City, Bucks County and The Most Crowded Block in the World. In the early 1940s, Siskind's work gradually shifted from a social documentary approach to a more abstract and personal style. During summers on Martha's Vineyard and in Gloucester, Massachusetts, he began photographing natural objects close up, eliminating deep, naturalistic space and concentrating on the primacy of the flat, two-dimensional surface of the photograph. As a result of his experiments, he came to be interested in the photograph as a physical object in its own right, rather than as a reflection of the outside world. In 1947 Siskind exhibited his new work at the Egan Gallery in New York, where the paintings of the abstract expressionists were shown. He became friends with painter Franz Kline and other members of his circle and through their support published his first book, Aaron Siskind: Photographs (1959). In the 1950s Siskind also began to establish himself as a photography teacher. He gained his first experience as a part-time instructor at Trenton College (1949-51), then taught during the summer of 1951 at Black Mountain College in North Carolina. There he worked with Harry Callahan, who invited him to join the staff of the Institute of Design in Chicago. Siskind taught at the institute from 1951-71, when he left to join the Rhode Island School of Design where Callahan now headed the department of photography. Siskind continued to teach at the school until his retirement in 1976. Over the years Siskind remained interested in exploring the formal and abstract qualities of photography, becoming known for his closeup, abstracted views of rocks, peeling paint, bits of graffiti, torn signs, and other objects. He exhibited widely, and in 1982 his photographs were featured in a major retrospective, Aaron Siskind: Fifty Years, organized by the Center for Creative Photography, Tucson. M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1903",
+          "death_year": "1991",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-12-02T00:00:00-05:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973, printed 1985",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:51.109000"
+    },
+    {
+      "id": 370133,
+      "accession_number": "2019.265",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Veracruz 253, 1973, printed later. Aaron Siskind (American, 1903–1991). Gelatin silver print; image: 24.2 x 24.2 cm (9 1/2 x 9 1/2 in.); paper: 35.5 x 27.8 cm (14 x 10 15/16 in.). The Cleveland Museum of Art, Gift of George and Joan Violin, 2019.265",
+      "current_location": null,
+      "title": "Veracruz 253",
+      "creation_date": "1973, printed later",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 24.2 x 24.2 cm (9 1/2 x 9 1/2 in.); Paper: 35.5 x 27.8 cm (14 x 10 15/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.242,
+          "width": 0.242
+        },
+        "paper": {
+          "height": 0.355,
+          "width": 0.278
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in black ink on recto: “Vera Cruz 253 1973 Aaron Siskind (signed)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “VC 253 (illegible writing)/B4”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “44”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “PF133125”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “ASF 14685”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Commercially imprinted throughout verso: “Agfa”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(G.W. Einstein, Inc., New York, NY)",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "George and Joan Violin",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 2, 2019",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Aaron Siskind taught high school English in New York City for 23 years before he took up photography.",
+      "description": "Siskind found motifs in the city or in nature that, when detached from their context through close-up, enter into a dialogue with contemporary avant-garde painting, especially Abstract Expressionism. Whether capturing fragments of nature, architecture, or the urban environment, Siskind created images that explored abstraction, symbolism, gesture, and texture.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q84279429"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2019.265",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George and Joan Violin",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 370133,
+      "creators": [
+        {
+          "id": 912,
+          "description": "Aaron Siskind (American, 1903–1991)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Aaron Siskind American, 1903-1991 Born in New York City, Aaron Siskind inspired many photographers through the example of his own work and his instruction at the Institute of Design, Illinois Institute of Technology, and at the Rhode Island School of Design. Graduating from City College of New York in 1926, Siskind taught English in the city's public schools for 23 years. He took up photography as a hobby in 1930 and two years later learned to process and print his own images. Around this time he joined the Photo League, an organization of socially concerned photographers who promoted documentary photography. Siskind headed the league's project focusing on Harlem (Harlem Document) and also produced his own series Tabernacle City, Bucks County and The Most Crowded Block in the World. In the early 1940s, Siskind's work gradually shifted from a social documentary approach to a more abstract and personal style. During summers on Martha's Vineyard and in Gloucester, Massachusetts, he began photographing natural objects close up, eliminating deep, naturalistic space and concentrating on the primacy of the flat, two-dimensional surface of the photograph. As a result of his experiments, he came to be interested in the photograph as a physical object in its own right, rather than as a reflection of the outside world. In 1947 Siskind exhibited his new work at the Egan Gallery in New York, where the paintings of the abstract expressionists were shown. He became friends with painter Franz Kline and other members of his circle and through their support published his first book, Aaron Siskind: Photographs (1959). In the 1950s Siskind also began to establish himself as a photography teacher. He gained his first experience as a part-time instructor at Trenton College (1949-51), then taught during the summer of 1951 at Black Mountain College in North Carolina. There he worked with Harry Callahan, who invited him to join the staff of the Institute of Design in Chicago. Siskind taught at the institute from 1951-71, when he left to join the Rhode Island School of Design where Callahan now headed the department of photography. Siskind continued to teach at the school until his retirement in 1976. Over the years Siskind remained interested in exploring the formal and abstract qualities of photography, becoming known for his closeup, abstracted views of rocks, peeling paint, bits of graffiti, torn signs, and other objects. He exhibited widely, and in 1982 his photographs were featured in a major retrospective, Aaron Siskind: Fifty Years, organized by the Center for Creative Photography, Tucson. M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1903",
+          "death_year": "1991",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-12-02T00:00:00-05:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973, printed later",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:33.725000"
+    },
+    {
+      "id": 159031,
+      "accession_number": "1995.237",
+      "share_license_status": "CC0",
+      "tombstone": "Dolmen, Cap del Puetch, Ariège, France, c. 1865–69. Arthur A. Taylor (French, active 1850–d. 1873). G. Arosa et Cie process print from waxed paper negative; image: 33.1 x 24.7 cm (13 1/16 x 9 3/4 in.); matted: 45.7 x 55.9 cm (18 x 22 in.). The Cleveland Museum of Art, John L. Severance Fund, 1995.237",
+      "current_location": null,
+      "title": "Dolmen, Cap del Puetch, Ariège, France",
+      "creation_date": "c. 1865–69",
+      "creation_date_earliest": 1865,
+      "creation_date_latest": 1869,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "G. Arosa et Cie process print from waxed paper negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - French 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 33.1 x 24.7 cm (13 1/16 x 9 3/4 in.); Matted: 45.7 x 55.9 cm (18 x 22 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.331,
+          "width": 0.247
+        },
+        "matted": {
+          "height": 0.457,
+          "width": 0.559
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "none",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 178867,
+            "title": "Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art",
+            "description": "<i>Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 26-June 16, 2005).",
+            "opening_date": "2005-02-26T00:00:00"
+          },
+          {
+            "id": 197576,
+            "title": "France at the Dawn of Photography",
+            "description": "<i>France at the Dawn of Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 4, 2009-January 24, 2010).",
+            "opening_date": "2009-10-04T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; February 26 - June 16, 2005 . \"Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art\".",
+            "opening_date": "2005-02-26T00:00:00"
+          },
+          {
+            "description": "The Cleveland Museum of Art (10/04/2009 - 01/24/2010); \"France at the Dawn of Photography\"",
+            "opening_date": "2009-10-04T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Marc Pagneux, Paris",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "A British-born photographer, Taylor lived in Marseille and became a member of the Société Française de Photographie in 1860. Taking photographs in city parks and the surrounding countryside, as well as in Ariège and Seine-et-Oise, he often worked with the establishment G. Arosa et Cie in Saint-Cloud to produce his ink-based prints made from photographs according to the publisher’s unique process. This print is likely made from a shellac base, for Taylor wrote several articles for British and American photographic journals on a shellac printing process in 1866 and 1867. After printing, the images would be mounted onto a heavy card stock and sold to be collected in albums. Here, the subject, a dolmen, or Neolithic tomb, reflects 19th-century interest in distant history and early monuments.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79978012"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1995.237-dolmen-cap-del-puetc"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 356",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1995.237",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1995.237/1995.237_web.jpg",
+          "width": "1194",
+          "height": "893",
+          "filesize": "982599",
+          "filename": "1995.237_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1995.237/1995.237_print.jpg",
+          "width": "3400",
+          "height": "2542",
+          "filesize": "7093207",
+          "filename": "1995.237_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1995.237/1995.237_full.tif",
+          "width": "5658",
+          "height": "4230",
+          "filesize": "71834888",
+          "filename": "1995.237_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 159031,
+      "creators": [
+        {
+          "id": 997,
+          "description": "Arthur A. Taylor (French, active 1850–d. 1873)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Arthur A. Taylor French, b. Britain, d. 1873 An engineer by profession, Arthur A. Taylor was a major photographic innovator and supporter in the south of France. Although born in Britain, Taylor was the son of the leading industrialist in Marseilles during the second half of the 19th century, and this was the city where he would spend his entire career. Taylor was a founding member and active supporter of the Société marseillaise de photographie. Active from 1850-73, he took photographs in city parks and the surrounding countryside, as well as in Ariège and Seine-et-Oise. His invention of a portable camera and an exposure meter were undoubtedly helpful for these landscape excursions. Taylor worked with the publishing establishment G. Arosa et Cie. in Saint-Cloud to produce ink-based prints made from photographs according to Arosa's unique process. This type of print is likely made from a shellac base, for Taylor wrote several articles for British and American photographic journals on a shellac printing process in 1866-67 and introduced the process to the Société française de photographie in 1869. K.L.C.",
+          "name_in_original_language": null,
+          "death_year": "1873",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1995-12-04T00:00:00",
+      "sortable_date": 1865,
+      "date_added_to_oa": null,
+      "date_text": "c. 1865–69",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:11.981000"
+    },
+    {
+      "id": 157692,
+      "accession_number": "1995.188",
+      "share_license_status": "Copyrighted",
+      "tombstone": "The Tongass: Alaska's Vanishing Rain Forest: View from Rosie's, Ketchikan, 1986. Robert Glenn Ketchum (American, 1947-). Silver dye bleach process color print (Cibachrome); image: 47.6 x 58.9 cm (18 3/4 x 23 3/16 in.); paper: 50.8 x 61 cm (20 x 24 in.); matted: 76.2 x 81.3 cm (30 x 32 in.). The Cleveland Museum of Art, Gift of the Advocacy Arts Foundation, 1995.188",
+      "current_location": null,
+      "title": "View from Rosie's, Ketchikan",
+      "series": "The Tongass: Alaska's Vanishing Rain Forest",
+      "creation_date": "1986",
+      "creation_date_earliest": 1986,
+      "creation_date_latest": 1986,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "silver dye bleach process color print (Cibachrome)",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 47.6 x 58.9 cm (18 3/4 x 23 3/16 in.); Paper: 50.8 x 61 cm (20 x 24 in.); Matted: 76.2 x 81.3 cm (30 x 32 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.476,
+          "width": 0.589
+        },
+        "paper": {
+          "height": 0.508,
+          "width": 0.61
+        },
+        "matted": {
+          "height": 0.762,
+          "width": 0.813
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"Robert Glenn Ketchum [signed] / View from 'Rosie's Ketchikon [sic]' /  1986 / 2/27\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 178383,
+            "title": "Trophies of the Hunt: Capturing Nature as Art",
+            "description": "<i>Trophies of the Hunt: Capturing Nature as Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 24-November 3, 2004).",
+            "opening_date": "2004-07-24T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Cleveland, Ohio: The Cleveland Museum of Art; 7/24/04 - 11/3/04. \"Trophies of the Hunt: Capturing Nature as Art\".  No exhibition catalogue.",
+            "opening_date": "2004-07-24T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Jack B. Ketchum, Los Angeles, CA",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 1995",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Many of Robert Glenn Ketchum’s photographs share an incredible surface beauty and a richness of color and detail that draw viewers into the composition before they realize that something is amiss. In this image, taken in the Alaskan city of Ketchikan, the outward gaze of a deer head hanging from the wall is what invites the viewer into the scene. It is only after absorbing the richly detailed living room, with its many plants and fur-covered chair, that the viewer notices its contrast to nature’s depletion outside the window. This photograph was one of a series of pieces that contributed to Ketchum’s work on behalf of timber management reform, influential in Congress’s signing into law the Tongass Timber Reform Act, which gave protected status to one million acres of Alaskan rain forest. In acknowledgement of his efforts, Ketchum—already known for his environmental activism—was awarded a 1991 United Nations Outstanding Environmental Achievement Award.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79974801"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 215",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1995.188",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of the Advocacy Arts Foundation",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 157692,
+      "creators": [
+        {
+          "id": 530,
+          "description": "Robert Glenn Ketchum (American, 1947-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Robert Glenn Ketchum American, 1947-\r\n\r\nRobert Glenn Ketchum (born in Los Angeles) is known for his photography as well as his involvement with the Los Angeles Center for Photographic Studies (1976-82) and the National Park Foundation (since 1980), serving as curator of photography for both organizations. Drawing inspiration from the works of Paul Caponigro, Ketchum culls his subjects from nature and uses his work to express environmental concerns. He has worked in both 35mm and 4 x 5-inch formats, in black and white and color.\r\n\tA student of Robert Fichter, Robert Heinecken, and Edmund Teske, Ketchum earned a B.A. in design from ucla (1970). In 1970 he founded the photography workshop at the Sun Valley Center for the Arts and Humanities in Idaho and then continued his education at the Brooks Institute in Santa Barbara and the California Institute of the Arts (M.F.A., 1973). He began teaching at CalArts in 1975, but left his post the following year to work full-time for lacps. In 1977, on a commission from the Friends of the International Ocean Institute, Ketchum traveled to 10 countries with Elisabeth Mann Borgese (German novelist Thomas Mann's daughter) to examine critically the environmental concerns of those countries. Since 1982 he has worked to develop the Appalachian Environmental Arts Center.\r\n\tKetchum has received many awards, including two grants for curatorial research from the National Park Foundation (1978, 1979), a materials grant from Ciba-Geigy for Cibachrome printing and masking research (1979), and the ucla Alumni Association's Award of Excellence (1993). In 1985 the Lila Acheson Wallace Fund commissioned Ketchum and his then-wife, Carey D. Ketchum, to photograph the Tongass National Forest in Alaska, which was being destroyed by timber-cutting practices sanctioned by the U.S. Forest Service. Originally meant to illustrate legislation proposed to protect the region, the images also became the focus of one of Ketchum's many books, The Tongass: Alaska's Vanishing Rain Forest (1987). In 1986 he was commissioned by the Akron Art Museum, in cooperation with the National Park Service, to photograph the Cuyahoga Valley National Recreation Area. These images were exhibited at the Akron Art Museum and published as part of a retrospective book, The Legacy of Wildness (1993). Ketchum lives in Los Angeles. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1995-12-04T00:00:00",
+      "sortable_date": 1986,
+      "date_added_to_oa": null,
+      "date_text": "1986",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": "2",
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:15.363000"
+    },
+    {
+      "id": 161479,
+      "accession_number": "2000.15",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Tokyo- City of Webs: Untitled (sunglasses), 1978. Daido Moriyama (Japanese, 1938-). Gelatin silver print; overall: 39.2 x 32.1 cm (15 7/16 x 12 5/8 in.); matted: 61 x 50.8 cm (24 x 20 in.). The Cleveland Museum of Art, John L. Severance Fund, 2000.15",
+      "current_location": null,
+      "title": "Untitled (sunglasses)",
+      "series": "Tokyo--City of Webs",
+      "creation_date": "1978",
+      "creation_date_earliest": 1978,
+      "creation_date_latest": 1978,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Japan"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Japanese 20th Century",
+      "type": "Photograph",
+      "measurements": "Overall: 39.2 x 32.1 cm (15 7/16 x 12 5/8 in.); Matted: 61 x 50.8 cm (24 x 20 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.392,
+          "width": 0.321
+        },
+        "matted": {
+          "height": 0.61,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "written in pencil on verso: \"1980, / Daido Moriyama [signed]\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Laurence Miller Gallery, New York, NY)",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "March 15, 2000",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Beginning in the early 1960s, Moriyama challenged accepted Japanese photographic conventions with his unique vision of jarring juxtapositions and strange associations culled from the chaotic, often bleak environments of Tokyo and Osaka-the cities in which he has lived. He photographed at unpredictable angles, often at very close range, and printed his negatives using a grainy, high-contrast technique. This rare vintage print is an outstanding example from his important series Tokyo, the City of Webs. With seemingly arbitrary abandon, he selected a portion of a simple display rack of eyeglasses and sunglasses-ordinary consumer products made extraordinary by the vision of the artist.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79984237"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2000.15",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 161479,
+      "creators": [
+        {
+          "id": 37421,
+          "description": "Daido Moriyama (Japanese, 1938-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1938",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2000-03-15T00:00:00",
+      "sortable_date": 1978,
+      "date_added_to_oa": null,
+      "date_text": "1978",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:41.068000"
+    },
+    {
+      "id": 153410,
+      "accession_number": "1986.93",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Composites: Philadelphia (Apertures), 1965. Ray K. Metzker (American, 1931–2014). Gelatin silver prints; image: 36.5 x 57.7 cm (14 3/8 x 22 11/16 in.); matted: 71.1 x 81.3 cm (28 x 32 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1986.93",
+      "current_location": null,
+      "title": "Composites: Philadelphia (Apertures)",
+      "creation_date": "1965",
+      "creation_date_earliest": 1965,
+      "creation_date_latest": 1965,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver prints",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 36.5 x 57.7 cm (14 3/8 x 22 11/16 in.); Matted: 71.1 x 81.3 cm (28 x 32 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.365,
+          "width": 0.577
+        },
+        "matted": {
+          "height": 0.711,
+          "width": 0.813
+        },
+        "mount": {
+          "height": 0.559,
+          "width": 0.762
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 310034,
+            "title": "Year in Review for 1986",
+            "description": "<i>Year in Review for 1986</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 4-March 15, 1987).",
+            "opening_date": "1987-02-04T05:00:00"
+          },
+          {
+            "id": 311875,
+            "title": "Legacy of Light: Master Photographs from the Cleveland Museum of Art",
+            "description": "<i>Legacy of Light: Master Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 24, 1996-February 2, 1997).",
+            "opening_date": "1996-11-24T05:00:00"
+          },
+          {
+            "id": 181802,
+            "title": "The Persistence of Geometry: Form, Content and Culture in the Collection of the Cleveland Museum of Art",
+            "description": "<i>The Persistence of Geometry: Form, Content and Culture in the Collection of the Cleveland Museum of Art</i>. Museum of Contemporary Art Cleveland (MOCA), Cleveland, OH (June 9-August 20, 2006).",
+            "opening_date": "2006-06-09T00:00:00"
+          },
+          {
+            "id": 316500,
+            "title": "PROOF: Photography in the Era of the Contact Sheet",
+            "description": "<i>PROOF: Photography in the Era of the Contact Sheet</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 7-November 29, 2020).",
+            "opening_date": "2020-02-07T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, February 4 - March 15, 1987: \"Year in Review 1986,\" CMA Bulletin, 74 (February 1986), p. 65, no. 84, repr. p. 52.",
+            "opening_date": "1987-02-04T00:00:00"
+          },
+          {
+            "description": "CMA, July 10 - August 19, 1990: \"The Camera,\" Classroom Level, no exhibition catalogue.",
+            "opening_date": "1990-07-10T00:00:00"
+          },
+          {
+            "description": "CMA, November 20,1996 - February 2, 1997: \"Legacy of Light: Master Photographs from the Cleveland Museum of Art,\" see Catalogue of Photography, pp. 54-55.",
+            "opening_date": "1997-02-02T00:00:00"
+          },
+          {
+            "description": "MOCA Cleveland (6/9/2006 - 8/20/2006):  \"The Persistence of Geometry: Form, Content and Culture in the Collection of the Cleveland Museum of Art\"",
+            "opening_date": "2006-06-09T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Between 1964 and 1967, Ray Metzker produced a body of experimental work that explored serial imagery and the grid—concepts that also intrigued painters and sculptors of that time. A montage comprising 240 individual photographs, this urban image abandons the conventional single-frame format for a new pictorial approach. Taken while looking out of or up at buildings in Philadelphia, twelve separate 35 mm negatives are repeated throughout the composite photograph. Sometimes turned or printed in reverse, each negative was contact-printed numerous times to present the viewer with multiple viewpoints. Through repetition, juxtaposition, and sequencing, Metzker suggests the multiplicity and vitality of city life.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60780830"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Turner, Evan H. “The Year in Review for 1986.” <em>The Bulletin of the Cleveland Museum of Art</em> 74, no. 2 (February 1987): 38–79.",
+          "page_number": "Reproduced: p. 52; Mentioned: p. 65, no. 84",
+          "url": "http://www.jstor.org/stable/25159974"
+        },
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Mentioned and Reproduced: P. 54-55; Reproduced: P. 235",
+          "url": ""
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>Cleveland Art: The Cleveland Museum of Art Members Magazine</em>. Vol. 36 no. 10, December 1996",
+          "page_number": "Mentioned & reproduced: p. 6",
+          "url": "https://archive.org/details/CMAMM1996-10/page/6"
+        }
+      ],
+      "url": "https://clevelandart.org/art/1986.93",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Purchase from the J. H. Wade Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 153410,
+      "creators": [
+        {
+          "id": 656,
+          "description": "Ray K. Metzker (American, 1931–2014)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Ray K. Metzker American, 1931-\r\n\r\nAs a student of Arthur Siegel, Aaron Siskind, and Harry Callahan in Chicago at the Institute of Design, Illinois Institute of Technology, Ray Metzker was influenced by the spirit of photographic experimentation at the \"New Bauhaus.\" Extending photography's formal vocabulary beyond description and into the realm of visual puzzles, Metzker is best known for his creative use of pattern, high tonal contrast, focus, print size, and composition. He first explored these issues in his single-image work of the 1950s, moving in the 1960s to make multiframe assemblages that juxtaposed highly contrasted fragments of figures, objects, and architectural elements to create kinetic patterns and mosaic grids. Envisioning an entire roll of film as one negative, Metzker describes his Composites series as an explanation of \"the potential of the black-and-white still photograph to deal with the complexity of succession and simultaneity.\"\r\n\tMetzker resumed the single-image format in a series of New Mexican landscapes during the early 1970s, fusing high-contrast blocks created by buildings, leaves, and his own shadow with subjects rendered in the more traditional gradation of black-and-white tones. His Pictus Interruptus series of 1977 continued the play of tone and perspective, wherein objects placed close to the lens appeared blurred, obscuring scenic backdrops views of Greece and Philadelphia. In 1989, with the assistance of a grant from the National Endowment for the Arts and a residency from the La Napoule Foundation, Metzker photographed in the south of France for his series titled Sojourn. In this and his later series In Nature's Realm (1994), he continued to explore the photographic interplay of natural textures and forms.\r\n\tBorn in Milwaukee, Metzker earned a B.A. in art from Beloit College (1953) and an M.S. in photography from the Institute of Design, Illinois Institute of Technology (1959). His work has been featured in one-person exhibitions at the Art Institute of Chicago (1959, 1985, 1991), the Museum of Modern Art, New York (1967), the Milwaukee Art Center (1970), the International Center of Photography, New York (1978), the Museum of Fine Arts, Houston (1984), the San Francisco Museum of Modern Art (1985), the Philadelphia Museum of Art (1985), the High Museum of Art, Atlanta (1986), George Eastman House, Rochester (1986), the National Museum of American Art, Smithsonian Institution, Washington, D.C (1986), and the Cleveland Museum of Art (1991). Metzker has received fellowships from the John Simon Guggenheim Memorial Foundation (1966, 1979) and the National Endowment for the Arts (1974, 1988), an award from La Napoule Foundation, France (1989), and a Bernheim Fellowship (1989).\r\n\tMetzker has taught photography at the Rhode Island School of Design (1977), the University of New Mexico (1970-72), Columbia College (1980), and the Philadelphia College of Art (1962-80). He lives in Philadelphia and Moab, Utah. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1931",
+          "death_year": "2014",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1986-12-15T00:00:00",
+      "sortable_date": 1965,
+      "date_added_to_oa": null,
+      "date_text": "1965",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:36.803000"
+    },
+    {
+      "id": 372009,
+      "accession_number": "2020.298",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Carousel, Paris, 1932. Ilse Bing (American, 1899–1998). Gelatin silver print; image: 38.6 x 48.8 cm (15 3/16 x 19 3/16 in.); paper: 40.1 x 50.5 cm (15 13/16 x 19 7/8 in.). The Cleveland Museum of Art, Gift of Michael Mattis and Judith Hochberg, 2020.298. © Estate of Ilse Bing",
+      "current_location": null,
+      "title": "Carousel, Paris",
+      "creation_date": "1932",
+      "creation_date_earliest": 1932,
+      "creation_date_latest": 1932,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 38.6 x 48.8 cm (15 3/16 x 19 3/16 in.); Paper: 40.1 x 50.5 cm (15 13/16 x 19 7/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.386,
+          "width": 0.488
+        },
+        "paper": {
+          "height": 0.401,
+          "width": 0.505
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Estate of Ilse Bing",
+      "inscriptions": [
+        {
+          "inscription": "Written in black ink in lower left, recto: “ILSE BING/1932”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “ILSE/BING/1932/PARIS/(1990)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Estate of the Artist",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "Michael Mattis and Judith Hochberg, Scarsdale, NY",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 7, 2020",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Riding a merry-go-round may be a rare treat in the United States but is a common one in France.",
+      "description": "Paris has a number of carousels; the oldest still in use was made in 1879. When Bing first moved to Paris, she received assignments from a newspaper in her native Frankfurt, Germany, to photograph the city and its amusements, including popular public entertainments like the carousel.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117243293"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2020.298",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Michael Mattis and Judith Hochberg",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 372009,
+      "creators": [
+        {
+          "id": 291349,
+          "description": "Ilse Bing (American, 1899–1998)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "American and German photographer, born 1899 or 1900, died 1998",
+          "name_in_original_language": null,
+          "birth_year": "1899",
+          "death_year": "1998",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2020-12-07T00:00:00-05:00",
+      "sortable_date": 1932,
+      "date_added_to_oa": null,
+      "date_text": "1932",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:08.735000"
+    },
+    {
+      "id": 306932,
+      "accession_number": "2017.266",
+      "share_license_status": "Copyrighted",
+      "tombstone": "IRT 2, New York City, 1980. Danny Lyon (American, 1942-). Gelatin silver print; image: 22.2 x 33.5 cm (8 3/4 x 13 3/16 in.); paper: 27.7 x 35.7 cm (10 7/8 x 14 1/16 in.). The Cleveland Museum of Art, Gift of Alan and Monah L. Gettner, 2017.266",
+      "current_location": null,
+      "title": "IRT 2, New York City",
+      "creation_date": "1980",
+      "creation_date_earliest": 1980,
+      "creation_date_latest": 1980,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 22.2 x 33.5 cm (8 3/4 x 13 3/16 in.); Paper: 27.7 x 35.7 cm (10 7/8 x 14 1/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.222,
+          "width": 0.335
+        },
+        "paper": {
+          "height": 0.277,
+          "width": 0.357
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “20”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “Danny Lyon (signed)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Commercially imprinted throughout verso of paper: “Agfa”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "By the 1970s, the South Bronx in New York was an exemplar of urban decay. Forty percent of its buildings were burned or abandoned between 1970 and 1980. Lyon chose to document the people who remained, whether by choice or desperation. The grim, challenging environment gave birth to hip-hop in that same decade. The South Bronx is now experiencing gentrification.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79873302"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2017.266",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Alan and Monah L. Gettner",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 306932,
+      "creators": [
+        {
+          "id": 601,
+          "description": "Danny Lyon (American, 1942-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Danny Lyon American, 1942- Danny Lyon (born in Brooklyn) came to attention in the 1960s as a social documentary photographer whose sympathies with his subjects often grew from personal involvement in their causes. While studying history at the University of Chicago (B.A., 1963), he joined the Student Non-Violent Coordinating Committee and served as the group's photographer. Since 1967 he has been an associate for the magnum photo agency and made extensive photo essays in the late 1960s-70s on the civil rights movement (The Movement, 1964), the Chicago Outlaws Motorcycle Club, of which he was a member (The Bikeriders, 1968), the demolition of historic 19th-century buildings in New York City (The Destruction of Lower Manhattan, 1969), and Texas prisons (Conversations with the Dead, 1971). For that series, Lyon included with his black-and-white photographs excerpts from handwritten letters, drawings, police reports, and telegrams. In 1977 the U.S. Justice Department used his images in a landmark legal case (Ruiz vs. Estelle) to improve conditions in prisons throughout Texas. Since the 1980s, Lyon has traveled to Colombia to photograph street children and prostitutes (The Paper Negative, 1980) and to Haiti to cover the events leading up to the collapse of the Duvalier regime in 1986. His own family has also become a continued subject of his work. Parallel to his photography, Lyon has made numerous films that are shown regularly in universities across the United States: Social Sciences 127 (1969), Llanito (1971), El Mojado (1973), Los Niños Abandonados (1975), Dear Mark (1975-80), Little Boy (1977), Willie (1986-87), and Media Man (c. 1993). He has published his own works since 1988 under the imprint Bleak Beauty Books, in collaboration with his wife, Nancy Lyon, and Michael Hausman. Lyon has also taught nonfiction film at the State University of New York at Buffalo (1986) and at Columbia University (1987-90). Among his honors are fellowships from the John Simon Guggenheim Memorial Foundation (1969, 1979) and the Rockefeller Foundation (1990). He has had one-person exhibitions at the Art Institute of Chicago (1966, 1969), the Newport Harbor Art Museum in California (1973), and the Philadelphia Museum of Art (1982). In 1991 a retrospective, Danny Lyon Photo Film, with accompanying catalogue, traveled internationally. Lyon lives in Clintondale, New York. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1942",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 0
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2017-12-04T00:00:00-05:00",
+      "sortable_date": 1980,
+      "date_added_to_oa": null,
+      "date_text": "1980",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:33.043000"
+    },
+    {
+      "id": 665383,
+      "accession_number": "2023.211",
+      "share_license_status": "Copyrighted",
+      "tombstone": "At a Bird Bazaar, 1998, printed later. Kevin Bubriski (American, b. 1954). Gelatin silver print. The Cleveland Museum of Art, Transfer from Ingalls Library, 2023.211",
+      "current_location": null,
+      "title": "At a Bird Bazaar",
+      "creation_date": "1998, printed later",
+      "creation_date_earliest": 1998,
+      "creation_date_latest": 1998,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "In the Uyghur culture, special breeds of pigeons can be as expensive as sheep.",
+      "description": "This photograph was taken at the bird market in Kashgar, a city in the Xinjiang region of China that was a center of Uyghur culture. The Uyghurs are a Muslim ethnic minority of Turkic origin. They raise pigeons as a hobby. The photographer, who spent time in Kashgar in 1998, wrote that “their greatest joy is to stand on their rooftops and watch their pigeons fly.”",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q124256336"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2023.211",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Transfer from Ingalls Library",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 665383,
+      "creators": [
+        {
+          "id": 665381,
+          "description": "Kevin Bubriski (American, b. 1954)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1954",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2023-12-04T05:00:00Z",
+      "sortable_date": 1998,
+      "date_added_to_oa": null,
+      "date_text": "1998, printed later",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:30.596000"
+    },
+    {
+      "id": 306931,
+      "accession_number": "2017.265",
+      "share_license_status": "Copyrighted",
+      "tombstone": "IRT 2, New York City, 1980. Danny Lyon (American, 1942-). Gelatin silver print; image: 22.3 x 33.1 cm (8 3/4 x 13 1/16 in.); paper: 28 x 35.4 cm (11 x 13 15/16 in.). The Cleveland Museum of Art, Gift of Alan and Monah L. Gettner, 2017.265",
+      "current_location": null,
+      "title": "IRT 2, New York City",
+      "creation_date": "1980",
+      "creation_date_earliest": 1980,
+      "creation_date_latest": 1980,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 22.3 x 33.1 cm (8 3/4 x 13 1/16 in.); Paper: 28 x 35.4 cm (11 x 13 15/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.223,
+          "width": 0.331
+        },
+        "paper": {
+          "height": 0.28,
+          "width": 0.354
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “29”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “Danny Lyon (signed)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Imprinted throughout verso of paper: “Agfa”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "By the 1970s, the South Bronx in New York was an exemplar of urban decay. Forty percent of its buildings were burned or abandoned between 1970 and 1980. Lyon chose to document the people who remained, whether by choice or desperation. The grim, challenging environment gave birth to hip-hop in that same decade. The South Bronx is now experiencing gentrification.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79873300"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2017.265",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Alan and Monah L. Gettner",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 306931,
+      "creators": [
+        {
+          "id": 601,
+          "description": "Danny Lyon (American, 1942-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Danny Lyon American, 1942- Danny Lyon (born in Brooklyn) came to attention in the 1960s as a social documentary photographer whose sympathies with his subjects often grew from personal involvement in their causes. While studying history at the University of Chicago (B.A., 1963), he joined the Student Non-Violent Coordinating Committee and served as the group's photographer. Since 1967 he has been an associate for the magnum photo agency and made extensive photo essays in the late 1960s-70s on the civil rights movement (The Movement, 1964), the Chicago Outlaws Motorcycle Club, of which he was a member (The Bikeriders, 1968), the demolition of historic 19th-century buildings in New York City (The Destruction of Lower Manhattan, 1969), and Texas prisons (Conversations with the Dead, 1971). For that series, Lyon included with his black-and-white photographs excerpts from handwritten letters, drawings, police reports, and telegrams. In 1977 the U.S. Justice Department used his images in a landmark legal case (Ruiz vs. Estelle) to improve conditions in prisons throughout Texas. Since the 1980s, Lyon has traveled to Colombia to photograph street children and prostitutes (The Paper Negative, 1980) and to Haiti to cover the events leading up to the collapse of the Duvalier regime in 1986. His own family has also become a continued subject of his work. Parallel to his photography, Lyon has made numerous films that are shown regularly in universities across the United States: Social Sciences 127 (1969), Llanito (1971), El Mojado (1973), Los Niños Abandonados (1975), Dear Mark (1975-80), Little Boy (1977), Willie (1986-87), and Media Man (c. 1993). He has published his own works since 1988 under the imprint Bleak Beauty Books, in collaboration with his wife, Nancy Lyon, and Michael Hausman. Lyon has also taught nonfiction film at the State University of New York at Buffalo (1986) and at Columbia University (1987-90). Among his honors are fellowships from the John Simon Guggenheim Memorial Foundation (1969, 1979) and the Rockefeller Foundation (1990). He has had one-person exhibitions at the Art Institute of Chicago (1966, 1969), the Newport Harbor Art Museum in California (1973), and the Philadelphia Museum of Art (1982). In 1991 a retrospective, Danny Lyon Photo Film, with accompanying catalogue, traveled internationally. Lyon lives in Clintondale, New York. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1942",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 0
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2017-12-04T00:00:00-05:00",
+      "sortable_date": 1980,
+      "date_added_to_oa": null,
+      "date_text": "1980",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:20.113000"
+    },
+    {
+      "id": 320446,
+      "accession_number": "2018.1015",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Subway: Untitled (53075), 1980. Bruce Davidson (American, b. 1933). Chromogenic print; paper: 61 x 50.8 cm (24 x 20 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.1015",
+      "current_location": null,
+      "title": "Untitled (53075)",
+      "series": "Subway",
+      "creation_date": "1980",
+      "creation_date_earliest": 1980,
+      "creation_date_latest": 1980,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "Chromogenic print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 61 x 50.8 cm (24 x 20 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.61,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Davidson carried a whistle and knife while photographing in the New York subway, which in the 1970s was plagued by robberies and attacks.",
+      "description": "Although he was inspired by Walker Evan’s covert shots of subway riders from the mid-1930s, Davidson wanted his subjects to be aware of his camera. He asked and received permission from transit authorities and the riders in his photographs. Like Evans, Davidson captures the claustrophobic environment of the subway car, a space that Davidson viewed as the dark and dangerous underworld of the city.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79877269"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.1015",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 320446,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1980,
+      "date_added_to_oa": null,
+      "date_text": "1980",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:49.283000"
+    },
+    {
+      "id": 150465,
+      "accession_number": "1981.30",
+      "share_license_status": "Copyrighted",
+      "tombstone": "New York, c.1940. Andreas Feininger (American, 1906–1999). Gelatin silver print; image: 34.2 x 27.1 cm (13 7/16 x 10 11/16 in.); matted: 50.8 x 40.6 cm (20 x 16 in.). The Cleveland Museum of Art, Louis D. Kacalieff, M.D. Fund, 1981.30",
+      "current_location": null,
+      "title": "New York",
+      "creation_date": "c.1940",
+      "creation_date_earliest": 1935,
+      "creation_date_latest": 1945,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 34.2 x 27.1 cm (13 7/16 x 10 11/16 in.); Matted: 50.8 x 40.6 cm (20 x 16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.342,
+          "width": 0.271
+        },
+        "matted": {
+          "height": 0.508,
+          "width": 0.406
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"No. 50 / aus: A. Feininger / 'New York' \"; \"A. Feininger [signed]\"; \"37 [circled]\"; \"AF68\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 304599,
+            "title": "The Year in Review for 1981",
+            "description": "<i>The Year in Review for 1981</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 17-March 21, 1982).",
+            "opening_date": "1982-02-17T05:00:00"
+          },
+          {
+            "id": 194095,
+            "title": "Icons of American Photography: A Century of Photographs from the Cleveland Museum of Art",
+            "description": "<i>Icons of American Photography: A Century of Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 24-September 16, 2007); Frick Art and Historical Center, Pittsburgh, PA (October 3, 2009-January 3, 2010).",
+            "opening_date": "2007-06-24T00:00:00"
+          },
+          {
+            "id": 393871,
+            "title": "A New York Minute: Street Photography, 1920–1950",
+            "description": "<i>A New York Minute: Street Photography, 1920–1950</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 11-November 7, 2021).",
+            "opening_date": "2021-07-10T04:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "The Cleveland Museum of Art (6/24/07 - 9/16/07) and Frick Art and Historical Center, Pittburgh, PA (10/3/2009 - 1/3/2010); \"Icons of American Photography: A Century of Photographs from the Cleveland Museum of Art\", no exhibition catalogue.",
+            "opening_date": "2007-06-24T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Although the skyscraper originated in the 1880s, it was not until the 1910s and 1920s that a vertical building boom created the steep-walled canyons exemplified in Andreas Feininger’s photograph. The scale of the city changed drastically over the 1920s and 1930s. In the center of the photograph, the New York Stock Exchange Building, built in 1903 on Wall Street, is dwarfed by the later skyscrapers. The construction of massive office buildings was spurred by the need to accommodate a burgeoning white-collar workforce spawned by industrialization and rapid economic growth.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79932938"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Lee, Sherman E. “The Year in Review for 1981.” <em>The Bulletin of the Cleveland Museum of Art</em> 69, no. 2 (February 1982): 39–82.",
+          "page_number": "Reproduced: p. 64; Mentioned: p. 79, no. 37",
+          "url": "http://www.jstor.org/stable/25159758"
+        },
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 154",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1981.30",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Louis D. Kacalieff, M.D. Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 150465,
+      "creators": [
+        {
+          "id": 388,
+          "description": "Andreas Feininger (American, 1906–1999)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Andreas Feininger American, b. France, 1906-1999. Born in Paris, Andreas Bernhard Lyonel Feininger is a documentary photographer who has specialized in photojournalism as well as architectural and nature studies. He trained as a cabinetmaker at the Bauhaus in Weimar, Germany (1922-25) (where his father, the American painter Lyonel Feininger, was a teacher), and then as an architect at the Staatliche Bauschule Weimar and the Anhaltische Bauschule in Zerbst (1925-28). During his architectural studies, Feininger became interested in photography and in 1927 set up his own darkroom. In 1928 he began working for the architectural firm of Kurt Elster in Dessau, followed by a job as an architect for the Karstadt department store in Hamburg (1930-31). In 1930 Feininger's photographs started to appear in German newspapers and magazines through his association with the cooperative photojournalist agency, Dephot. He spent the next year traveling and photographing architecture in Germany and France (1931-32), then moved to Paris after it became difficult for foreigners to find employment in Germany. He worked for the architect Le Corbusier for 10 months and, when unable to obtain a French work permit, moved to Sweden in 1933. Feininger decided to become a professional photographer and in 1934 opened a studio that specialized in architectural photography. That same year he also published the first of many technical books on photography. After the outbreak of World War II in 1939, Feininger left Europe for New York City. He established himself as a freelance photographer, working for the Black Star Photo Agency and Life magazine. In 1943 he became a staff photographer for Life, specializing in images of New York. He continued his association with Life until 1962, when he resigned to focus on his own work. In addition to his career as a photojournalist and architectural photographer, Feininger has devoted much time since the 1950s to nature photography. An interest in ecology led him to begin a photographic study of the natural world and resulted in the book The Anatomy of Nature (1956), followed by Forms of Nature and Life (1966) and Trees (1968). Throughout his career, Feininger has taken part in numerous exhibitions, including the 1929 Film und Foto show in Stuttgart as well as one-artist exhibitions at the American Museum of Natural History, New York (1957), the Smithsonian Institution, Washington, D.C. (1963), and the Center for Creative Photography, Tucson (1981).",
+          "name_in_original_language": null,
+          "birth_year": "1906",
+          "death_year": "1999",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1981-08-19T00:00:00",
+      "sortable_date": 1935,
+      "date_added_to_oa": null,
+      "date_text": "c.1940",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:32.834000"
+    },
+    {
+      "id": 154075,
+      "accession_number": "1988.191",
+      "share_license_status": "CC0",
+      "tombstone": "Sky Study, Paris, 1856–57. Charles Marville (French, 1813–1879). Albumen print from wet collodion negative; image: 15.3 x 21.4 cm (6 x 8 7/16 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, John L. Severance Fund, 1988.191",
+      "current_location": null,
+      "title": "Sky Study, Paris",
+      "creation_date": "1856–57",
+      "creation_date_earliest": 1856,
+      "creation_date_latest": 1857,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "albumen print from wet collodion negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "Photography",
+      "type": "Photograph",
+      "measurements": "Image: 15.3 x 21.4 cm (6 x 8 7/16 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.153,
+          "width": 0.214
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on recto: \"1 [circled] 1 / no5 [boxed] / F [circled]\"; in pencil on verso: \"5 [circled]\"; \"#301\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 311875,
+            "title": "Legacy of Light: Master Photographs from the Cleveland Museum of Art",
+            "description": "<i>Legacy of Light: Master Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 24, 1996-February 2, 1997).",
+            "opening_date": "1996-11-24T05:00:00"
+          },
+          {
+            "id": 178867,
+            "title": "Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art",
+            "description": "<i>Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 26-June 16, 2005).",
+            "opening_date": "2005-02-26T00:00:00"
+          },
+          {
+            "id": 197576,
+            "title": "France at the Dawn of Photography",
+            "description": "<i>France at the Dawn of Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 4, 2009-January 24, 2010).",
+            "opening_date": "2009-10-04T00:00:00"
+          },
+          {
+            "id": 383281,
+            "title": "Stories from Storage",
+            "description": "<i>Stories from Storage</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 7-May 16, 2021).",
+            "opening_date": "2021-02-06T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "<em>The World Seen Anew: English and French Photographs of the 1850s. </em>The Cleveland Museum of Art, Cleveland, OH (June 29-August 26, 1990).",
+            "opening_date": "1990-06-29T00:00:00"
+          },
+          {
+            "description": "<em>Etudes de Ciels. </em>Galerie Octant, Paris, France (November 3-December 22, 1978).",
+            "opening_date": "1978-11-03T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Alain Paviot, Paris, France",
+          "citations": [],
+          "footnotes": null,
+          "date": "?-?",
+          "sortorder": 1
+        },
+        {
+          "description": "(Charles Isaacs Photographs, Inc., New York, NY)",
+          "citations": [],
+          "footnotes": null,
+          "date": "?-1989",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "June 29, 1989",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Charles Marville made a series of views of the skies over Paris, some from various rooftops and others from his apartment window.",
+      "description": "Here Marville framed the city so that the dome at Les Invalides—a retirement home and hospital for military veterans—dominates the skyline. Below lie dark, dense neighborhoods where individual buildings are barely discernable. Photographing skies in landscapes was challenging in the 1850s: the light-sensitive coatings were incapable of properly exposing both earth and the heavens in a single shot. There is no doubt that Marville’s interest here was the sky—the magnificent massing of clouds that momentarily eclipses the sun. The scale, drama, and majesty of this short-lived natural spectacle overwhelms human achievements.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60781200"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1988.191-sky-study-paris"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 231",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1988.191",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1988.191/1988.191_web.jpg",
+          "width": "1247",
+          "height": "893",
+          "filesize": "656338",
+          "filename": "1988.191_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1988.191/1988.191_print.jpg",
+          "width": "3400",
+          "height": "2434",
+          "filesize": "4922606",
+          "filename": "1988.191_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1988.191/1988.191_full.tif",
+          "width": "5976",
+          "height": "4278",
+          "filesize": "76727452",
+          "filename": "1988.191_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 154075,
+      "creators": [
+        {
+          "id": 635,
+          "description": "Charles Marville (French, 1813–1879)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "At the invitation of the city of Paris, photographer Charles Marville was among the first to document the ancient quarters of his birthplace. His views, taken in the late 1850s, were intended to record the many buildings and neighborhoods ultimately destroyed by Baron Georges-Eugène Haussmann's urban planning project that would create the boulevards and open spaces of modern Paris. While Marville's survey of the city, extensive and thorough in scope, prefigured other important efforts of its kind, it is distinguished by its emotional accessibility. His work beautifully reveals a Paris that has long disappeared. Originally trained as a painter and illustrator, Marville worked with both calotype and glass plate negatives. He photographed in France, Italy, Germany, and Algeria, becoming most well known for his architectural imagery but also producing acclaimed landscapes and studies of trees. Many of Marville's early views, often considered his best, were included in the albums of Louis-Désiré Blanquart-Évrard before the printer's establishment in Lille closed in 1855. Named official photographer of Paris in 1862, Marville also served as photographer to the Imperial Museum of the Louvre and to King Vittorio Emmanuelle of Italy. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1813",
+          "death_year": "1879",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1989-06-29T00:00:00",
+      "sortable_date": 1856,
+      "date_added_to_oa": null,
+      "date_text": "1856–57",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Untitled (Cloud Study with Les Invalides)"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 16:32:39.517000"
+    }
+  ]
+}

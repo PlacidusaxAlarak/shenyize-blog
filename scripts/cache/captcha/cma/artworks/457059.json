@@ -1,0 +1,113 @@
+{
+  "data": {
+    "id": 457059,
+    "accession_number": "2022.124",
+    "share_license_status": "Copyrighted",
+    "tombstone": "#27.144277, Okeechobee, FL, 2011. Doug Rickard (American, 1968–2021). Inkjet print; paper: 52.7 x 84.5 cm (20 3/4 x 33 1/4 in.). The Cleveland Museum of Art, Gift of Fred and Laura Ruth Bidwell in memory of Doug Rickard, 2022.124",
+    "current_location": null,
+    "title": "#27.144277, Okeechobee, FL",
+    "creation_date": "2011",
+    "creation_date_earliest": 2011,
+    "creation_date_latest": 2011,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [],
+    "technique": "inkjet print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1951-Present",
+    "type": "Photograph",
+    "measurements": "Paper: 52.7 x 84.5 cm (20 3/4 x 33 1/4 in.)",
+    "dimensions": {
+      "paper": {
+        "height": 0.527,
+        "width": 0.845
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Fred and Laura Bidwell, Cleveland, OH, given to The Cleveland Museum of Art",
+        "citations": [],
+        "footnotes": null,
+        "date": "?-2022",
+        "sortorder": 1
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "June 6, 2022-",
+        "sortorder": 2
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "This image was re-photographed from Google Street View by Doug Rickard.",
+    "description": "Without leaving his house, Rickard took a virtual road trip across America. He explored the country on his computer through Google Street View, seeking “forgotten, economically devastated, and largely abandoned places. . . . scenes of urban and rural decay.” He used a camera on a tripod to re-photograph his chosen images off the computer screen. He opted for low-resolution images that impart a painterly feel to these otherwise harsh views.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q117247301"
+      ],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "Rickard, Doug, David Campany, and Erin O'Toole. Doug Rickard: A New American Picture. New York: Aperture, 2012.",
+        "page_number": "",
+        "url": ""
+      }
+    ],
+    "url": "https://clevelandart.org/art/2022.124",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Fred and Laura Ruth Bidwell in memory of Doug Rickard",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 457059,
+    "creators": [
+      {
+        "id": 457057,
+        "description": "Doug Rickard (American, 1968–2021)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1968",
+        "death_year": "2021",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2022-09-12T04:00:00Z",
+    "sortable_date": 2011,
+    "date_added_to_oa": null,
+    "date_text": "2011",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:10:01.614000"
+  }
+}

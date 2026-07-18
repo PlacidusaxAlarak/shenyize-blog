@@ -1,0 +1,13 @@
+{
+  "info": {
+    "total": 74,
+    "parameters": {
+      "skip": 80,
+      "limit": 20,
+      "q": "architecture photograph",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,collection,department,classification_type,gallery",
+      "search": "architecture photograph"
+    }
+  },
+  "data": []
+}

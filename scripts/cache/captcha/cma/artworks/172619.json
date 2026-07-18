@@ -1,0 +1,122 @@
+{
+  "data": {
+    "id": 172619,
+    "accession_number": "2015.96.b",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Zelan Tang, Yuanming Yuan (Pavilion for Nurturing Orchids, Garden of Extended Spring) (center), 2004. Lois Conner (American, b. 1951). Inkjet print, AP; each: 58.4 x 457 cm (23 x 179 15/16 in.). The Cleveland Museum of Art, Gift of the artist in memory of Mark Schwartz, 2015.96.b",
+    "current_location": null,
+    "title": "Zelan Tang, Yuanming Yuan (Pavilion for Nurturing Orchids, Garden of Extended Spring) (center)",
+    "creation_date": "2004",
+    "creation_date_earliest": 2004,
+    "creation_date_latest": 2004,
+    "artists_tags": [
+      "female"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "Inkjet print, AP",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1951-Present",
+    "type": "Photograph",
+    "measurements": "Each: 58.4 x 457 cm (23 x 179 15/16 in.)",
+    "dimensions": {
+      "each": {
+        "height": 0.584,
+        "width": 4.57
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "written in pencil on recto: \"CH04301 Zelan Tang Yuanming Yuan, Beijing China 2004/Lois Conner (signed) AP/3 in memory of Mark Schwartz/middle 3 of 3 Waterdrop Lotus Triptych\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 201954,
+          "title": "Beijing: Contemporary and Imperial: Photographs by Lois Conner",
+          "description": "<i>Beijing: Contemporary and Imperial: Photographs by Lois Conner</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 30-June 29, 2014).",
+          "opening_date": "2014-03-30T00:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Studio of the artist, given to the Cleveland Museum of Art",
+        "citations": [],
+        "footnotes": null,
+        "date": "2004–2015",
+        "sortorder": 1
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "2015–",
+        "sortorder": 2
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": null,
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q80084862"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2015.96.b",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of the artist in memory of Mark Schwartz",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 172619,
+    "creators": [
+      {
+        "id": 42873,
+        "description": "Lois Conner (American, b. 1951)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1951",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2015-09-08T00:00:00",
+    "sortable_date": 2004,
+    "date_added_to_oa": null,
+    "date_text": "2004",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "part",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": "2015.96",
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:05:14.008000"
+  }
+}

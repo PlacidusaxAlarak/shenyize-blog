@@ -1,0 +1,133 @@
+{
+  "data": {
+    "id": 372007,
+    "accession_number": "2020.296",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Street Fair Photographer, Paris, 1935, printed 1994. Ilse Bing (American, 1899–1998). Gelatin silver print; image: 25.3 x 31.8 cm (9 15/16 x 12 1/2 in.); paper: 27.8 x 35.2 cm (10 15/16 x 13 7/8 in.). The Cleveland Museum of Art, Gift of Michael Mattis and Judith Hochberg, 2020.296. © Estate of Ilse Bing",
+    "current_location": null,
+    "title": "Street Fair Photographer, Paris",
+    "creation_date": "1935, printed 1994",
+    "creation_date_earliest": 1935,
+    "creation_date_latest": 1935,
+    "artists_tags": [
+      "female"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "gelatin silver print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1900-1950",
+    "type": "Photograph",
+    "measurements": "Image: 25.3 x 31.8 cm (9 15/16 x 12 1/2 in.); Paper: 27.8 x 35.2 cm (10 15/16 x 13 7/8 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.253,
+        "width": 0.318
+      },
+      "paper": {
+        "height": 0.278,
+        "width": 0.352
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": "© Estate of Ilse Bing",
+    "inscriptions": [
+      {
+        "inscription": "Written in pencil on verso: “ILSE/BING/1935/94”",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      },
+      {
+        "inscription": "Written in pencil on verso: “IBMB-358.6 3500”",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Estate of the Artist",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": 1
+      },
+      {
+        "description": "Michael Mattis and Judith Hochberg, Scarsdale, NY",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": 2
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "December 7, 2020",
+        "sortorder": 3
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "Some street fairs in Paris date back to the Middle Ages.",
+    "description": "Street fairs were popular entertainment in cities in the days before television. Here, Bing photographs not the rides but a fellow photographer, who made his living taking portraits of the fair goers in days when many people did not own a camera.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q117243274"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2020.296",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Michael Mattis and Judith Hochberg",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 372007,
+    "creators": [
+      {
+        "id": 291349,
+        "description": "Ilse Bing (American, 1899–1998)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "American and German photographer, born 1899 or 1900, died 1998",
+        "name_in_original_language": null,
+        "birth_year": "1899",
+        "death_year": "1998",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2020-12-07T00:00:00-05:00",
+    "sortable_date": 1935,
+    "date_added_to_oa": null,
+    "date_text": "1935, printed 1994",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:04:46.295000"
+  }
+}

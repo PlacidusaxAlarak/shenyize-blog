@@ -1,0 +1,135 @@
+{
+  "data": {
+    "id": 324697,
+    "accession_number": "2018.296",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Night Coming Tenderly, Black: Untitled #11 (Bent Branches), 2017. Dawoud Bey (American, b. 1953). Gelatin silver print; image: 121.9 x 149.9 cm (48 x 59 in.); framed: 122.7 x 151.1 x 5.1 cm (48 5/16 x 59 1/2 x 2 in.). The Cleveland Museum of Art, Dorothea Wright Hamilton Fund, 2018.296. © Dawoud Bey",
+    "current_location": null,
+    "title": "Untitled #11 (Bent Branches)",
+    "series": "Night Coming Tenderly, Black",
+    "creation_date": "2017",
+    "creation_date_earliest": 2017,
+    "creation_date_latest": 2017,
+    "artists_tags": [
+      "Black American Artists",
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "gelatin silver print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1951-Present",
+    "type": "Photograph",
+    "measurements": "Image: 121.9 x 149.9 cm (48 x 59 in.); Framed: 122.7 x 151.1 x 5.1 cm (48 5/16 x 59 1/2 x 2 in.)",
+    "dimensions": {
+      "image": {
+        "height": 1.219,
+        "width": 1.499
+      },
+      "framed": {
+        "height": 1.227,
+        "width": 1.511,
+        "depth": 0.051
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": "edition of 6 + 2 artist's proofs",
+    "copyright": "© Dawoud Bey",
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 443702,
+          "title": "Currents and Constellations: Black Art in Focus",
+          "description": "<i>Currents and Constellations: Black Art in Focus</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 20-June 26, 2022).",
+          "opening_date": "2022-02-20T05:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Dawoud Bey (the artist)",
+        "citations": [],
+        "footnotes": null,
+        "date": "2017",
+        "sortorder": 1
+      },
+      {
+        "description": "Stephen Daiter Gallery, Chicago, IL",
+        "citations": [],
+        "footnotes": null,
+        "date": "2018",
+        "sortorder": 2
+      },
+      {
+        "description": "the Cleveland Museum of Art",
+        "citations": [],
+        "footnotes": null,
+        "date": "December 3, 2018",
+        "sortorder": 3
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "This series was shot in Northeast Ohio at real sites used by the Underground Railroad and in landscapes typical of the region.",
+    "description": "Bey describes this series as “a visual reimagining of the movement of fugitive slaves through the Cleveland and Hudson, Ohio landscape as they approached Lake Erie and the final passage to freedom in Canada…These photographs seek to approximate the spatial and sensory experience of those moving furtively through the darkness, and the landscapes they encountered.”",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79875682"
+      ],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "Lee, Key Jo. “Currents and Constellations: A universe of ideas.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine  </em>62, no. 1: 12-15.",
+        "page_number": "Reproduced: P. 13; Mentioned: P. 12.",
+        "url": ""
+      }
+    ],
+    "url": "https://clevelandart.org/art/2018.296",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Dorothea Wright Hamilton Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 324697,
+    "creators": [
+      {
+        "id": 42884,
+        "description": "Dawoud Bey (American, b. 1953)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1953",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2018-12-03T00:00:00-05:00",
+    "sortable_date": 2017,
+    "date_added_to_oa": null,
+    "date_text": "2017",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-26 23:59:58.739000"
+  }
+}

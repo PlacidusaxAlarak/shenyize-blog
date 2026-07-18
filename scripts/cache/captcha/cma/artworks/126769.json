@@ -1,0 +1,503 @@
+{
+  "data": {
+    "id": 126769,
+    "accession_number": "1949.186",
+    "share_license_status": "CC0",
+    "tombstone": "Fight Between a Tiger and a Buffalo, 1908. Henri Rousseau (French, 1844–1910). Oil on fabric; framed: 183 x 203 x 4.5 cm (72 1/16 x 79 15/16 x 1 3/4 in.); unframed: 170 x 189.5 cm (66 15/16 x 74 5/8 in.). The Cleveland Museum of Art, Gift of the Hanna Fund, 1949.186",
+    "current_location": null,
+    "title": "Fight Between a Tiger and a Buffalo",
+    "creation_date": "1908",
+    "creation_date_earliest": 1908,
+    "creation_date_latest": 1908,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "France, late 19th-early 20th Century"
+    ],
+    "technique": "oil on fabric",
+    "support_materials": [],
+    "department": "Modern European Painting and Sculpture",
+    "collection": "Mod Euro - Painting 1800-1960",
+    "type": "Painting",
+    "measurements": "Framed: 183 x 203 x 4.5 cm (72 1/16 x 79 15/16 x 1 3/4 in.); Unframed: 170 x 189.5 cm (66 15/16 x 74 5/8 in.)",
+    "dimensions": {
+      "framed": {
+        "height": 1.83,
+        "width": 2.03,
+        "depth": 0.045
+      },
+      "unframed": {
+        "height": 1.7,
+        "width": 1.895
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Signed and dated lower right: Henri Rousseau / 1908\r\n\r\n\r\n",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 301477,
+          "title": "In Memoriam: Leonard C. Hanna, Jr.",
+          "description": "<i>In Memoriam: Leonard C. Hanna, Jr.</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 4-April 7, 1958).",
+          "opening_date": "1958-03-04T05:00:00"
+        },
+        {
+          "id": 518973,
+          "title": "Masterpieces of Art",
+          "description": "<i>Masterpieces of Art</i>. Century 21 Exposition, Seattle, WA (organizer) (April 21-September 4, 1962).",
+          "opening_date": "1962-04-21T05:00:00"
+        },
+        {
+          "id": 520135,
+          "title": "Henri Rousseau",
+          "description": "<i>Henri Rousseau</i>. Wildenstein & Co., New York, NY (organizer) (April 16-May 25, 1963).",
+          "opening_date": "1963-04-16T05:00:00"
+        },
+        {
+          "id": 520506,
+          "title": "Le Monde Des Neifs (De Lusthof Der Naieven)",
+          "description": "<i>Le Monde Des Neifs (De Lusthof Der Naieven)</i>. Museum Boijmans Van Beuningen, Rotterdam, Netherlands (organizer) (July 10-September 6, 1964); Musée National d'Art Moderne, Paris, Cedex 04, France (October 14-December 6, 1964).",
+          "opening_date": "1964-07-10T04:00:00"
+        },
+        {
+          "id": 300763,
+          "title": "Years of Ferment: The Birth of Twentieth-century Art",
+          "description": "<i>Years of Ferment: The Birth of Twentieth-century Art</i>. Frederick S. Wight Art Gallery, UCLA, Los Angeles, CA (January 24-March 7, 1965); San Francisco Museum of Modern Art, San Francisco, CA (March 28-May 16, 1965); The Cleveland Museum of Art, Cleveland, OH (July 14-August 22, 1965).",
+          "opening_date": "1965-01-24T05:00:00"
+        },
+        {
+          "id": 310025,
+          "title": "Creativity in Art and Science, 1860-1960",
+          "description": "<i>Creativity in Art and Science, 1860-1960</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 16-November 8, 1987).",
+          "opening_date": "1987-09-16T04:00:00"
+        },
+        {
+          "id": 224431,
+          "title": "Henri Rousseau and the Modern Age",
+          "description": "<i>Henri Rousseau and the Modern Age</i>. Künsthalle Tubingen, D-72076 Tübingen, Germany (organizer) (February 3-June 17, 2001).",
+          "opening_date": "2001-02-03T00:00:00"
+        },
+        {
+          "id": 229570,
+          "title": "Jungles in Paris: The Paintings of Henri Rousseau",
+          "description": "<i>Jungles in Paris: The Paintings of Henri Rousseau</i>. Tate Modern, London, United Kingdom of Great Britain and Northern Ireland (organizer) (November 3, 2005-February 5, 2006); Galeries Nationales du Grand Palais, 75008 Paris, France (March 13-June 19, 2006); National Gallery of Art, Landover, MD (July 16-October 15, 2006).",
+          "opening_date": "2005-11-03T00:00:00"
+        },
+        {
+          "id": 182153,
+          "title": "Monet to Dalí: Modern Masters from the Cleveland Museum of Art",
+          "description": "<i>Monet to Dalí: Modern Masters from the Cleveland Museum of Art</i>. Seoul Art Center, South Korea (December 22, 2006-March 28, 2007); Seoul Olympic Museum of Art, South Korea (April 7-May 20, 2007); Vancouver Art Gallery, Vancouver, Canada (June 9-September 16, 2007); The Cleveland Museum of Art, Cleveland, OH (organizer) (October 21, 2007-January 13, 2008).",
+          "opening_date": "2006-05-27T00:00:00"
+        },
+        {
+          "id": 202129,
+          "title": "Admired from Afar: Masterworks of Japanese Painting from the Cleveland Museum of Art",
+          "description": "<i>Admired from Afar: Masterworks of Japanese Painting from the Cleveland Museum of Art</i>. Tokyo National Museum, Tokyo, Japan (January 15-February 23, 2014); Kyushu National Museum, Fukuoka, Japan (July 8-August 31, 2014).",
+          "opening_date": "2014-01-15T00:00:00"
+        },
+        {
+          "id": 223433,
+          "title": "The Shadow of the Avant-Garde",
+          "description": "<i>The Shadow of the Avant-Garde</i>. Museum Folkwang, 45128 Essen, Germany (organizer) (October 3, 2015-January 10, 2016).",
+          "opening_date": "2015-10-03T00:00:00"
+        },
+        {
+          "id": 220685,
+          "title": "Le Douanier Rousseau. L'innocence archaïque",
+          "description": "<i>Le Douanier Rousseau. L'innocence archaïque</i>. Musée d'Orsay, Paris, France (organizer) (March 21-July 17, 2016); National Gallery, Prague (September 16, 2016-January 15, 2017).",
+          "opening_date": "2016-03-21T00:00:00"
+        },
+        {
+          "id": 670844,
+          "title": "Henri Rousseau: A Painter’s Secrets",
+          "description": "<i>Henri Rousseau: A Painter’s Secrets</i>. The Barnes Foundation, Philadelphia, PA (organizer) (October 19, 2025-February 22, 2026) https://www.barnesfoundation.org/whats-on/exhibitions/henri-rousseau-a-painters-secrets?gad_source=1&gad_campaignid=20125069632&gbraid=0AAAAACP5DbL4rs-9EfKRpQcP3HjjlYEfb&gclid=Cj0KCQjw0NPGBhCDARIsAGAzpp0GmWNK1KSSGhKIsZvvTWdQSwfepIT4aDadyzyDDvYho3pdqzpJPgMaAr91EALw_wcB; Musée de l'Orangerie, Paris, France (March 24-July 20, 2026).",
+          "opening_date": "2025-10-19T04:00:00"
+        }
+      ],
+      "legacy": [
+        {
+          "description": "Paris, Société des Artistes Indépendants. 24me exposition (1908), no. 5260, Combat de Tigre et de Buffle (for sale).",
+          "opening_date": "1908-01-01T00:00:00"
+        },
+        {
+          "description": "Chicago, Arts Club Exhibitions at the Art Institute. Loan Exhibition of Some Modern Paintings (1926-27), no. 14, The Jungle, lent by Mrs. John A. Carpenter.",
+          "opening_date": "1926-01-01T00:00:00"
+        },
+        {
+          "description": "New York, Reinhardt Gallery. Loan Exhibition of Paintings from Memling, Holbein, and Titian to Renoir and Picasso (1928), no. 27, The Jungle, lent by Mrs. John Alden Carpenter (repr.)",
+          "opening_date": "1928-01-01T00:00:00"
+        },
+        {
+          "description": "New York, Valentine Gallery. Six Major Paintings by the Modern Masters of France, Braque, Matisse, Derain, Picasso, and One Important Work by Henri Rousseau (1930), no. 7, Le tigre et le rhinocéros-1908.",
+          "opening_date": "1930-01-01T00:00:00"
+        },
+        {
+          "description": "Arts Club of Chicago. Paintings by Henri Rousseau (1931), no. 7, The Jungle, collection of Mrs. John Alden Carpenter, Chicago.",
+          "opening_date": "1931-01-01T00:00:00"
+        },
+        {
+          "description": "New York, Museum of Modern Art. Fruit and Flower Paintings (1933), no cat.",
+          "opening_date": "1933-01-01T00:00:00"
+        },
+        {
+          "description": "Art Institute of Chicago. A Century of Progress Exhibition of Paintings and Sculpture (1933 and 1934), no. 368 (1933); no. 321 (1934), lent by Mrs. Patrick J. Hill to the Joseph Winterbotham Collection, Art Institute of Chicago.",
+          "opening_date": "1933-01-01T00:00:00"
+        },
+        {
+          "description": "Art Institute of Chicago; New York, Museum of Modern Art. Henri Rousseau (1942-43), 49 (repr.) (lent by Hill, according to 1942 moma label on the back of the frame; according to moma archives, the painting did not travel to other venues after New York), 64.",
+          "opening_date": "1942-01-01T00:00:00"
+        },
+        {
+          "description": "New York, Pierre Matisse Gallery. Twentieth Century Masters (1948), no. 12, The Jungle (repr.).",
+          "opening_date": "1948-01-01T00:00:00"
+        },
+        {
+          "description": "Venice. XXV Biennale di Venezia (1950), 235, no. 14, fig. 59.",
+          "opening_date": "1950-01-01T00:00:00"
+        },
+        {
+          "description": "Montreal Museum of Art. Six Centuries of Landscape (1952), no. 58, 29 (repr.).",
+          "opening_date": "1952-01-01T00:00:00"
+        },
+        {
+          "description": "Paris, Musée National d'Art Moderne. L'oeuvre du XXe siècle (1952), no. 98.",
+          "opening_date": "1952-01-01T00:00:00"
+        },
+        {
+          "description": "London, Tate Gallery (Organized by the Arts Council). XXth Century Masterpieces (1952), no. 83.",
+          "opening_date": "1952-01-01T00:00:00"
+        },
+        {
+          "description": "Kansas City, Nelson-Atkins Museum. Twentieth Anniversary Celebration: French Paintings-19th and 20th Centuries-A Loan Exhibition (1953), checklist no. 10.",
+          "opening_date": "1953-01-01T00:00:00"
+        },
+        {
+          "description": "Buffalo, Albright Art Gallery. Fifty Paintings 1905-1913 (1955), no. 42, 64 (repr.).",
+          "opening_date": "1955-01-01T00:00:00"
+        },
+        {
+          "description": "Kansas City, Nelson Gallery and Atkins Museum. Twenty-fifth Anniversary Exhibition, in The Nelson Gallery and Atkins Museum Bulletin 1 (December 1958), no. 9.",
+          "opening_date": "1958-12-01T00:00:00"
+        },
+        {
+          "description": "Seattle World's Fair, Fine Art Pavillion. Masterpieces of Art (1962), no. 53 (repr.).",
+          "opening_date": "1962-01-01T00:00:00"
+        },
+        {
+          "description": "New York, Wildenstein. Loan Exhibition Henri Rousseau (1963), no. 46 (repr.).",
+          "opening_date": "1963-01-01T00:00:00"
+        },
+        {
+          "description": "Rotterdam, Museum Boymans-van Beuningen. De Lusthof der Naïeven (1964), no. 20 (repr.).",
+          "opening_date": "1964-01-01T00:00:00"
+        },
+        {
+          "description": "Paris, Musée National d'Art Moderne. Le Monde des Naifs (1964), no. 20 (repr.).",
+          "opening_date": "1964-01-01T00:00:00"
+        },
+        {
+          "description": "Los Angeles, ucla Art Galleries; San Francisco Museum of Art; cma. Years of Ferment: The Birth of Twentieth Century Art 1886-1914 (1965), 38 (repr.), no. 47 (repr. on cover).",
+          "opening_date": "1965-01-01T00:00:00"
+        },
+        {
+          "description": "Paris, Grand Palais; New York, Museum of Modern Art. Henri Rousseau (1984-85), no. 50 (repr.) (not shown in Paris).",
+          "opening_date": "1984-01-01T00:00:00"
+        },
+        {
+          "description": "CMA. Creativity in Art and Science (1987), no. 18 (repr.).",
+          "opening_date": "1987-01-01T00:00:00"
+        },
+        {
+          "description": "Tübingen, Germany: Kunsthalle Tübingen, Germany. Henri Rousseau and the Modern Age (2/3/01 - 6/17/01), exh. cat. no. 43, pp 209-211, repr. p. 211, detail front and back.",
+          "opening_date": "2001-02-03T00:00:00"
+        },
+        {
+          "description": "Tate Modern, London (11/3/2005 - 2/5/2006), Galeries du Grand Palais, Paris (3/13/2006 - 6/19/2006) and the National Gallery of Art, Washington, DC (7/16/2006 - 10/15/2006): \"Jungles in Paris: The Paintings of Henri Rousseau\" ex. cat. no. 45, p. 148-149.",
+          "opening_date": "2005-11-03T00:00:00"
+        },
+        {
+          "description": "CMA (organizer). Seoul Arts Center, Seoul, Korea: Dec. 18, 2006 - March 31, 2007; Seoul Olympic Museum of Art, Seoul, Korea: Apr. 7 - May 20, 2007; Vancouver Art Gallery, Vancouver, British Columbia, Canada: June 9 - Sept. 16, 2007; Cleveland Museum of Art, Oct. 21, 2007- January 13, 2008: \"Modern Masters from the Cleveland Museum of Art\"",
+          "opening_date": "2007-04-07T00:00:00"
+        },
+        {
+          "description": "Musée d'Orsay, Paris, France (3/21/2016 - 7/17/2016): \"Le Douanier Rousseau. L'innocence archaïque\" cat. no. 89, p. 232-233.",
+          "opening_date": "2016-03-21T00:00:00"
+        }
+      ]
+    },
+    "provenance": [
+      {
+        "description": "Bought from the artist by Ambroise Vollard on 14 December 1909.",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": null
+      },
+      {
+        "description": "Bought by John Quinn, New York, October 1923.",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": 2
+      },
+      {
+        "description": "Quinn estate from 1924.",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": 3
+      },
+      {
+        "description": "Mrs. John Alden Carpenter, Chicago, by 1926.",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": 4
+      },
+      {
+        "description": "Mrs. Patrick J. Hill, Washington D.C.",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": 5
+      },
+      {
+        "description": "[Pierre Matisse Gallery, New York, 1948]",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": 7
+      },
+      {
+        "description": "Purchased by the Cleveland Museum of Art on 14 June 1949.",
+        "citations": [],
+        "footnotes": [],
+        "date": null,
+        "sortorder": 8
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "Many of Henri Rousseau's paintings depict wild animals and tropical jungles that might lead one to believe he traveled widely. However, Rousseau never left France, but drew inspiration from visiting botanical gardens and reading travel books.",
+    "description": "Having never ventured outside France, Henri Rousseau derived his jungle scenes from reading travel books and visiting the Paris botanical garden. He placed this imaginary scene of a tiger attacking a buffalo within a fantastic jungle environment in which botanical accuracy was of little importance (note the bananas growing upside down). Here, sharply outlined hothouse plants are enlarged to fearsome proportions. Rousseau was working on this painting while imprisoned for fraud in December 1907. Officials granted him an early release to finish it for exhibition at the Salon des Indépendants, where this major composition, one of the artist's largest and most important, appeared in March 1908. A self-taught artist and retired customs inspector, Rousseau was admired by Pablo Picasso and other avant-garde artists for his originality and the naïve purity of his vision.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q60515648"
+      ],
+      "internet_archive": [
+        "https://archive.org/details/clevelandart-1949.186-fight-between-a-tige"
+      ]
+    },
+    "citations": [
+      {
+        "citation": "Le douanier Rousseau: l'innocence archaïque [exposition au Musée d'Orsay, du 22 mars au 17 juillet 2016]. Dossier De L'art (Dijon). Dijon: Édition Faton, 2016. catalogue number 89",
+        "page_number": "232-233",
+        "url": null
+      },
+      {
+        "citation": "Fajt, Jiří. Celnik Douanier Rousseau: Painter's Paradise Lost : [Exposition National Gallery, Prague, 15.09.2016-15.01.2017]. Prague: National Gallery, 2016.",
+        "page_number": "128-129",
+        "url": null
+      },
+      {
+        "citation": "Francis, Henry. \"'The Jungle' by Henri-Julien Rousseau.\" <em>The Bulletin of the Cleveland Museum of Art </em>36, no. 9 (November 1949): 170-178.",
+        "page_number": "Reproduced: front cover, p. 173; Mentioned: p. 177",
+        "url": "https://www.jstor.org/stable/25141582"
+      },
+      {
+        "citation": "“Part II: Annual Report Issue for the Year 1949.” <em>The Bulletin of the Cleveland Museum of Art</em> 37, no. 6 (June 1950): 127–161.",
+        "page_number": "Mentioned: p. 129",
+        "url": "http://www.jstor.org/stable/25141645"
+      },
+      {
+        "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+        "page_number": "Mentioned and Reproduced: cat. no. 515",
+        "url": "https://archive.org/details/CMAHandbook1958/page/n95"
+      },
+      {
+        "citation": "UCLA Art Council. <em>Years of Ferment; The Birth of Twentieth Century Art 1886-1914.</em> [Los Angeles]: [UCLA Art Council],1965.",
+        "page_number": "Reproduced: P. 38, no. 47, cover",
+        "url": ""
+      },
+      {
+        "citation": "Henning, Edward B. <em>The Spirit of Surrealism</em>. Cleveland: The Cleveland Museum of Art, 1979.",
+        "page_number": "Mentioned: p. 49-50, 185; Reproduced: p. 50, fig. 8; colorplate III",
+        "url": null
+      },
+      {
+        "citation": "Le Pichon, Yann. <em>The World of Henri Rousseau.</em> New York: Viking Press, 1982.",
+        "page_number": "Reproduced: p. 147",
+        "url": null
+      },
+      {
+        "citation": "Henning, Edward B. “The Aviator: A Major Painting by Fernand Léger.” <em>The Bulletin of the Cleveland Museum of Art</em> 69, no. 3 (March 1982): 87–93.",
+        "page_number": "Mentioned and reproduced: p. 86-87, fig. 3",
+        "url": "http://www.jstor.org/stable/25159762"
+      },
+      {
+        "citation": "Henning, Edward B. <em>Creativity in Art and Science, 1860-1960</em>. [Cleveland, Ohio]: Published by the Cleveland Museum of Art in cooperation with Indiana University Press, 1987.",
+        "page_number": "Mentioned and reproduced: P. 110, no. 18",
+        "url": ""
+      },
+      {
+        "citation": "Turpin, Ian. <em>Ernst. </em>London: Phaidon Books, 1993.",
+        "page_number": "Mentioned and reproduced: p. 94, fig. 29",
+        "url": ""
+      },
+      {
+        "citation": "Argencourt, Louise d', and Roger Diederen. <em>Catalogue of Paintings</em>. <em>Pt. 4. European Paintings of the 19th Century</em>. Cleveland: Cleveland Museum of Art, 1974.",
+        "page_number": "Mentioned and reproduced: P. 555-559, Vol. II, no. 196",
+        "url": ""
+      },
+      {
+        "citation": "<em>Admired from afar: masterworks of Japanese painting from the Cleveland Museum of Art</em> [クリーブランド美術館展 : 名画でたどる日本の美 Kurīburando Bijutsukan ten: meiga de tadoru Nihon no bi ]. Tokyo: Tōkyō Kokuritsu Hakubutsukan, 2014.",
+        "page_number": "Reproduced: p. 135",
+        "url": null
+      },
+      {
+        "citation": "König, Kasper, and Falk Wolf, eds. <em>The Shadow of the Avant-Garde: Rousseau and the Forgotten Masters.</em> Ostfildern, Germany: Hatje Cantz Verlag, 2015.",
+        "page_number": "Reproduced: p. 92, fig. 57",
+        "url": null
+      },
+      {
+        "citation": "Belli, Gabriella. <em>Le Douanier Rousseau: l'innocence archaïque.</em> Vanves: Hazan, 2016.",
+        "page_number": "Reproduced: p. 232-233, no. 89",
+        "url": null
+      },
+      {
+        "citation": "Brožová, Kristýna. <em>Celník Rousseau: malířův ztracený ráj = Douanier Rousseau: Painter's Paradise Lost.</em> 2016.",
+        "page_number": "Mentioned: p. 21; Reproduced: p. 128-129",
+        "url": null
+      },
+      {
+        "citation": "Stabenow, Cornelia, and Charity Scott-Stokes. <em>Henri Rousseau: 1844-1910.</em> Köln: Taschen, 2018.",
+        "page_number": "Reproduced: P. 87",
+        "url": ""
+      },
+      {
+        "citation": "Homburg, Cornelia. \"Redon's Femmes aux Fleurs.\" In <em>Odilon Redon: Literature and Music.</em> Cornelia Homburg, etal., 174-197. Rotterdam: Nai010 uitgevers, 2018.",
+        "page_number": "Reproduced: p. 184, no. 183",
+        "url": null
+      },
+      {
+        "citation": "<em>Paintings in the Cleveland Museum of Art: Picture Book No. 4 .</em> [Cleveland]: The Cleveland Museum of Art, 1952.",
+        "page_number": "Reproduced: p. 41",
+        "url": "https://archive.org/details/CMAPaintings1952"
+      },
+      {
+        "citation": "Ireson, Nancy. \"Henri Rousseau's Secrets.\" In <em>Henri Rousseau: A Painter’s Secrets,</em> edited by Christopher Green and Nancy Ireson, 1-17. Philadelphia: The Barnes Foundation, 2025.",
+        "page_number": "Mentioned: p. 13",
+        "url": ""
+      },
+      {
+        "citation": "Green, Christopher, and Nancy Ireson, eds. <em>Henri Rousseau: A Painter’s Secrets.</em> Philadelphia: The Barnes Foundation, 2025.",
+        "page_number": "Mentioned: p. 148, 253, 278, 299 n8; Reproduced: p. 154-155, pl. 49",
+        "url": ""
+      },
+      {
+        "citation": "Koerner Von Gustorf, Oliver. \"Die wildnis in uns.\"<em> Die Weltkunst. </em>Jg. 96, n. 252 (March 2026): 18-31.",
+        "page_number": "Reproduced: cover and p.3",
+        "url": ""
+      }
+    ],
+    "url": "https://clevelandart.org/art/1949.186",
+    "images": {
+      "annotation": null,
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1949.186/1949.186_web.jpg",
+        "width": "900",
+        "height": "806",
+        "filesize": "265744",
+        "filename": "1949.186_web.jpg"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1949.186/1949.186_print.jpg",
+        "width": "3400",
+        "height": "3046",
+        "filesize": "3071351",
+        "filename": "1949.186_print.jpg"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1949.186/1949.186_full.tif",
+        "width": "12503",
+        "height": "11202",
+        "filesize": "420208660",
+        "filename": "1949.186_full.tif"
+      }
+    },
+    "alternate_images": [
+      {
+        "date_created": "2007-10-15T14:41:23",
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1949.186/1949.186_alt0_web.jpg",
+          "width": "1001",
+          "height": "893",
+          "filesize": "710062"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1949.186/1949.186_alt0_print.jpg",
+          "width": "3400",
+          "height": "3032",
+          "filesize": "7585688"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1949.186/1949.186_alt0_full.tif",
+          "width": "5361",
+          "height": "4780",
+          "filesize": "76920616"
+        }
+      }
+    ],
+    "creditline": "Gift of the Hanna Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 126769,
+    "creators": [
+      {
+        "id": 1804,
+        "description": "Henri Rousseau (French, 1844–1910)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "Self-taught artist Henri Rousseau was born in Laval in 1844. He entered the military at the age of eighteen and served as a saxophone player in an infantry band. Most biographers discount his claim of traveling abroad during the Mexican campaign. In 1871 Rousseau left the military to join the customs service, where he spent fourteen years working on the outskirts of Paris as a minor inspector. After retiring with a small pension in 1885, he pursued the career of a painter and sought portrait commissions. From 1886 to 1910, he exhibited on a regular basis at the Salon des Indépendants, and after 1905, at the Salon d'Automne. Through these activities he became friendly with other artists, including Gauguin (q.v.), Pissarro (q.v.), Seurat (q.v), Paul Signac (1863-1935), and Redon (q.v.) who affectionately called him \"le douanier\" (customs officer). Rousseau's paintings were poorly received, and frequently ridiculed in the press, until he attracted a small group of admirers in the early years of this century. This group included Pablo Picasso, Maurice de Vlaminck, Robert Delaunay, Max Weber, and Ardengo Soffici, along with the writers Alfred Jarry, Max Jacob, André Salmon, and Guillaume Apollinaire. In 1908, a famous banquet honoring Rousseau was organized at Picasso's studio. Avant-garde artists admired Rousseau's direct, simple vision and his innate talent at clear, pictorial design. However, he aspired to paint in the academic manner of Gérôme (q.v.) and Bouguereau (q.v.). Rousseau reportedly told Picasso: \"We are the two greatest artists of this era-you in the Egyptian style, I in the modern style.\"1 Despite growing acclaim in his late years, Rousseau struggled for sales and was forced to supplement his meager income by giving private painting and violin lessons. He occasionally sold works through the dealers Ambroise Vollard and Wilhelm Uhde. In 1909 Rousseau was convicted of complicity in a bank fraud, but authorities suspended the sentence because of his age and apparent failure to comprehend his role in the crime. Rousseau died in Paris of pneumonia in 1910. In 1911 Uhde organized a retrospective at the Indépendants and published the first biography of Rousseau.",
+        "name_in_original_language": null,
+        "birth_year": "1844",
+        "death_year": "1910",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1949-06-14T00:00:00",
+    "sortable_date": 1908,
+    "date_added_to_oa": null,
+    "date_text": "1908",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-04-09 18:18:19.245000"
+  }
+}

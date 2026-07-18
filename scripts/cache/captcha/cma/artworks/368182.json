@@ -1,0 +1,140 @@
+{
+  "data": {
+    "id": 368182,
+    "accession_number": "2019.222",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Hillside Houses, Cleveland West Side, 1936. August Biehle, Jr. (American, 1885–1979). Lithograph; sheet: 19.1 x 29.2 cm (7 1/2 x 11 1/2 in.). The Cleveland Museum of Art, Gift of Frederick Biehle, 2019.222",
+    "current_location": null,
+    "title": "Hillside Houses, Cleveland West Side",
+    "creation_date": "1936",
+    "creation_date_earliest": 1936,
+    "creation_date_latest": 1936,
+    "artists_tags": [
+      "May Show",
+      "Cleveland Institute of Art"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "lithograph",
+    "support_materials": [],
+    "department": "Prints",
+    "collection": "PR - Lithograph",
+    "type": "Print",
+    "measurements": "Sheet: 19.1 x 29.2 cm (7 1/2 x 11 1/2 in.)",
+    "dimensions": {
+      "sheet": {
+        "height": 0.191,
+        "width": 0.292
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "August F. Biehle (the artist) [1885-1979]",
+        "citations": [],
+        "footnotes": [],
+        "date": null,
+        "sortorder": 1
+      },
+      {
+        "description": "Frederick A. Biehle (artist's son) [1926-2000]",
+        "citations": [],
+        "footnotes": [],
+        "date": null,
+        "sortorder": 2
+      },
+      {
+        "description": "Frederick Biehle and Erika Hinricks, Brooklyn, NY",
+        "citations": [],
+        "footnotes": [],
+        "date": null,
+        "sortorder": 3
+      },
+      {
+        "description": "the Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": [],
+        "date": "September 9, 2019",
+        "sortorder": 4
+      }
+    ],
+    "find_spot": null,
+    "related_works": [
+      {
+        "id": 316897,
+        "description": "Cleveland West Side, Hillside Houses, c. 1914–17. August Biehle, Jr. (American, 1885–1979). Oil on board; 71.1 x 100.3 cm (28 x 39 1/2 in.); 81.3 x 110.5 cm (32 x 43 1/2 in.). The Cleveland Museum of Art, Gift of the John and Susan Horseman Collection, 2018.306",
+        "relationship": null
+      },
+      {
+        "id": 368180,
+        "description": "Hillside Houses, Cleveland West Side, c. 1914–17. August Biehle, Jr. (American, 1885–1979). Graphite, gouache; sheet: 19.1 x 28.6 cm (7 1/2 x 11 1/4 in.). The Cleveland Museum of Art, Gift of Frederick Biehle 2019.221",
+        "relationship": null
+      },
+      {
+        "id": 368181,
+        "description": "Sketch for Cleveland West Side, Hillside Houses, c. 1914–17. August Biehle, Jr. (American, 1885–1979). Pencil on toned paper with gouache; sheet: 29.8 x 44.5 cm (11 3/4 x 17 1/2 in.). The Cleveland Museum of Art, Gift of Frederick Biehle 2019.223",
+        "relationship": null
+      }
+    ],
+    "former_accession_numbers": [],
+    "did_you_know": "This scene captures Cleveland’s west side in around 1914, from the viewpoint of \"14th street looking toward 55th street,\" according to the artist.",
+    "description": "This lithograph was made by August Biehle in 1936 to reprise the composition of his most significant oil painting of his modernist period (2018.306) depicting Cleveland’s west side. Biehle captured the steep embankment with houses on the top and bottom of the hill, noting its location as “from 14th street toward 55th st.” Biehle was born and trained in Cleveland and studied further in Munich. While supporting himself as a commercial lithographer, he participated in a number of local exhibitions devoted to cutting-edge art at a time when there was little support.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79878257"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2019.222",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Frederick Biehle",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 368182,
+    "creators": [
+      {
+        "id": 545786,
+        "description": "August Biehle, Jr. (American, 1885–1979)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "Biographical information exists in the Cleveland Museum of Art Archives.",
+        "name_in_original_language": null,
+        "birth_year": "1885",
+        "death_year": "1979",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2019-09-09T00:00:00-04:00",
+    "sortable_date": 1936,
+    "date_added_to_oa": null,
+    "date_text": "1936",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:03:32.126000"
+  }
+}

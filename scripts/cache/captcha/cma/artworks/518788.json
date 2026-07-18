@@ -1,0 +1,124 @@
+{
+  "data": {
+    "id": 518788,
+    "accession_number": "2022.117",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Monet's Pond at Giverny, c. 1989. Herbert Ascherman (American, b. 1947). Platinum print; image: 15.2 x 43.2 cm (6 x 17 in.). The Cleveland Museum of Art, Gift of Herbert Ascherman Jr., 2022.117",
+    "current_location": null,
+    "title": "Monet's Pond at Giverny",
+    "creation_date": "c. 1989",
+    "creation_date_earliest": 1984,
+    "creation_date_latest": 1994,
+    "artists_tags": [
+      "May Show",
+      "male",
+      "Jewish artists",
+      "Cleveland Institute of Art (faculty)"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "platinum print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1951-Present",
+    "type": "Photograph",
+    "measurements": "Image: 15.2 x 43.2 cm (6 x 17 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.152,
+        "width": 0.432
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Herbert Ascherman, Jr. [1947-] (the artist), Beachwood, OH, given to The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "1989-2022",
+        "sortorder": 1
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "September 12, 2022-",
+        "sortorder": 2
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "At his home in Giverny, France, Claude Monet created a Japanese-inspired water garden beginning in the 1890s.",
+    "description": "When photographing that garden in 1989, Cleveland artist Herbert Ascherman chose an elongated, vertical panoramic format. It evokes the Japanese scroll paintings that influenced the Impressionist painters, including Monet. To view other depictions of the garden at Giverny in the museum’s collection see Monet’s painting <em>Water Lilies (Agapanthus)</em>, c. 1915–26 (1960.81) and photographs by Sally Gall (1993.216) and Lynn Geesaman (2000.90).",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q117247369"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2022.117",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Herbert Ascherman Jr.",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 518788,
+    "creators": [
+      {
+        "id": 51596,
+        "description": "Herbert Ascherman (American, b. 1947)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "Biographical information exists in the Cleveland Museum of Art Archives.",
+        "name_in_original_language": null,
+        "birth_year": "1947",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      },
+      {
+        "id": 51193,
+        "description": "Sal Lopes (American, 1943-)",
+        "extent": "printed by",
+        "qualifier": null,
+        "role": "printer",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1943",
+        "use_in_caption": false,
+        "include_extent": false,
+        "weight": 2
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2022-09-12T04:00:00Z",
+    "sortable_date": 1984,
+    "date_added_to_oa": null,
+    "date_text": "c. 1989",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-26 23:59:08.991000"
+  }
+}

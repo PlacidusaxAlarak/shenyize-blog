@@ -1,0 +1,110 @@
+{
+  "data": {
+    "id": 162558,
+    "accession_number": "2003.190",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Lower Level of Lorain-Carnegie Bridge, 1991. Lois Conner (American, b. 1951). Platinum print; image: 16.6 x 42 cm (6 9/16 x 16 9/16 in.); matted: 35.6 x 58.4 cm (14 x 23 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, The Cleveland Museum of Art, 2003.190",
+    "current_location": null,
+    "title": "Lower Level of Lorain-Carnegie Bridge",
+    "creation_date": "1991",
+    "creation_date_earliest": 1991,
+    "creation_date_latest": 1991,
+    "artists_tags": [
+      "female"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "platinum print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1951-Present",
+    "type": "Photograph",
+    "measurements": "Image: 16.6 x 42 cm (6 9/16 x 16 9/16 in.); Matted: 35.6 x 58.4 cm (14 x 23 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.166,
+        "width": 0.42
+      },
+      "matted": {
+        "height": 0.356,
+        "width": 0.584
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [],
+      "legacy": [
+        {
+          "description": "Cleveland, Ohio:  The Cleveland Museum of Art; November 17, 2002 - January 26, 2003.  \"A City Seen:  Photographs from The George Gund Foundation\", exh. cat. p. 38.",
+          "opening_date": "2002-11-17T00:00:00"
+        }
+      ]
+    },
+    "provenance": [
+      {
+        "description": "The George Gund Foundation Collection",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": null
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": null,
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79987196"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2003.190",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "The George Gund Foundation Collection in honor of David Bergholz, The Cleveland Museum of Art",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 162558,
+    "creators": [
+      {
+        "id": 42873,
+        "description": "Lois Conner (American, b. 1951)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1951",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2003-09-02T00:00:00",
+    "sortable_date": 1991,
+    "date_added_to_oa": null,
+    "date_text": "1991",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:07:28.631000"
+  }
+}

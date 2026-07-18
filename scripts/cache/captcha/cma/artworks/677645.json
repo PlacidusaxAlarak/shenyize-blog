@@ -1,0 +1,137 @@
+{
+  "data": {
+    "id": 677645,
+    "accession_number": "2024.97",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Palace of Fontainebleau Triptych, 1988. Lynn Geesaman (American, 1938–2020), Irve Dell (American, b. 1962). Cast iron, wood, and 3 gelatin silver prints; overall: 36.8 x 40.6 cm (14 1/2 x 16 in.). The Cleveland Museum of Art, Gift in Memory of Toby Devan Lewis, 2024.97",
+    "current_location": null,
+    "title": "Palace of Fontainebleau Triptych",
+    "creation_date": "1988",
+    "creation_date_earliest": 1988,
+    "creation_date_latest": 1988,
+    "artists_tags": [
+      "female",
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "Cast iron, wood, and 3 gelatin silver prints",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1951-Present",
+    "type": "Photograph",
+    "measurements": "Overall: 36.8 x 40.6 cm (14 1/2 x 16 in.)",
+    "dimensions": {
+      "overall": {
+        "height": 0.368,
+        "width": 0.406
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Toby Devan Lewis [1934–2022], Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "?–2022",
+        "sortorder": 1
+      },
+      {
+        "description": "Estate of Toby Lewis, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "2022–24",
+        "sortorder": 2
+      },
+      {
+        "description": "Adam Joseph Lewis, Ivy Beth Lewis, and Mark C. Lewis, given to The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "2024",
+        "sortorder": 3
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "September 9, 2024–",
+        "sortorder": 4
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "This tabletop sculpture blends the form of Renaissance altarpiece with Arts and Crafts aesthetics, yet also echoes how photographs were sometimes displayed in Victorian parlors.",
+    "description": "Cleveland-bornLynn Geesaman used photography to explore the artificially formed landscapes of public parks and formal gardens in the United States and Europe. Here she shows three views of the gardens of the Château de Fontainebleau outside of Paris, combined in a single three-part frame designed and fabricated in cast iron by Minneapolis sculptor Irve Dell.",
+    "external_resources": {
+      "wikidata": [],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2024.97",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift in Memory of Toby Devan Lewis",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 677645,
+    "creators": [
+      {
+        "id": 37879,
+        "description": "Lynn Geesaman (American, 1938–2020)",
+        "extent": null,
+        "qualifier": null,
+        "role": null,
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1938",
+        "death_year": "2020",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      },
+      {
+        "id": 677643,
+        "description": "Irve Dell (American, b. 1962)",
+        "extent": null,
+        "qualifier": null,
+        "role": null,
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1962",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 2
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2024-09-09T04:00:00Z",
+    "sortable_date": 1988,
+    "date_added_to_oa": null,
+    "date_text": "1988",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": true,
+    "record_type": "cover",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [
+      "Fountainbleau Triptych"
+    ],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:10:10.197000"
+  }
+}

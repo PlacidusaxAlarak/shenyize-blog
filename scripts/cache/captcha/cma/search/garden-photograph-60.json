@@ -1,0 +1,2522 @@
+{
+  "info": {
+    "total": 98,
+    "parameters": {
+      "skip": 60,
+      "limit": 20,
+      "q": "garden photograph",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,gallery,classification_type,department,collection",
+      "search": "garden photograph"
+    }
+  },
+  "data": [
+    {
+      "id": 153701,
+      "accession_number": "1987.213",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Untitled (Garden of Mrs. Homer H. Johnson), c. 1928. Margaret Bourke-White (American, 1904–1971). Gelatin silver print; image: 24.3 x 32.9 cm (9 9/16 x 12 15/16 in.); paper: 24.7 x 33.2 cm (9 3/4 x 13 1/16 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, Gift of Mrs. John B. Dempsey, 1987.213. ©  Estate of Margaret Bourke-White / Licensed by VAGA at Artists Rights Society (ARS), NY",
+      "current_location": null,
+      "title": "Untitled (Garden of Mrs. Homer H. Johnson)",
+      "creation_date": "c. 1928",
+      "creation_date_earliest": 1923,
+      "creation_date_latest": 1933,
+      "artists_tags": [
+        "May Show",
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 24.3 x 32.9 cm (9 9/16 x 12 15/16 in.); Paper: 24.7 x 33.2 cm (9 3/4 x 13 1/16 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.243,
+          "width": 0.329
+        },
+        "paper": {
+          "height": 0.247,
+          "width": 0.332
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "©  Estate of Margaret Bourke-White / Licensed by VAGA at Artists Rights Society (ARS), NY",
+      "inscriptions": [
+        {
+          "inscription": "Written in red pencil on verso: \"44\"; in pencil: \"#4\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 310231,
+            "title": "The Year in Review for 1987",
+            "description": "<i>The Year in Review for 1987</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 24-April 17, 1988).",
+            "opening_date": "1988-02-24T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, February 24 - April 17, 1988: \"Year in Review 1987,\" CMA Bulletin, 75 (February 1988), p. 66, no. 38.",
+            "opening_date": "1988-02-24T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79939820"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 104",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1987.213",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Mrs. John B. Dempsey",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 153701,
+      "creators": [
+        {
+          "id": 262,
+          "description": "Margaret Bourke-White (American, 1904–1971)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Margaret Bourke-White American, 1904-1971 Margaret Bourke-White was a preeminent photojournalist who gained fame for her striking images published in Fortune and Life magazines in the 1930s-50s. In 1922, while at Columbia University Teachers College in her native New York City, Bourke-White studied photography with Clarence White. She attended several other colleges before graduating from Cornell University (1927), then moved to Cleveland. The city's industrial landscape was influential in the development of Bourke-White's photographic style. One of her images from this period, Romance of Steel, was a first-place winner in the Cleveland Museum of Art's 1928 May Show, a regional juried exhibition. The following year Bourke-White moved back to New York to work for Henry Luce's new business magazine, Fortune. In 1934 she was sent by the magazine to cover the drought in the Midwest, an assignment she credited with awakening her social conscience. Three years later she collaborated with writer Erskine Caldwell on You Have Seen Their Faces, an acclaimed study of the plight of rural Southerners during the Great Depression. Bourke-White's long association with Life began in 1936 when she joined the magazine as one of its first staff photographers. When it premiered on November 23, 1936, her photographs of Fort Peck Dam in Montana were featured on the cover and in the lead story. During her career, Bourke-White covered many major world events: the Great Depression, World War II, the partitioning of India, and the Korean War. She continued to photograph throughout the 1950s, publishing her images in magazines and in a number of books, including Eyes on Russia (1931), North of the Danube, with Erskine Caldwell (1939), Say, Is This the U.S.A.?, with Erskine Caldwell (1941), Shooting the Russian War (1942), Dear Fatherland, Rest Quietly (1946), Halfway to Freedom: A Report on the New India (1949), and Portrait of Myself (her autobiography, 1963). M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1904",
+          "death_year": "1971",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1988-02-18T00:00:00",
+      "sortable_date": 1923,
+      "date_added_to_oa": null,
+      "date_text": "c. 1928",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:04:37.354000"
+    },
+    {
+      "id": 153702,
+      "accession_number": "1987.214",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Untitled (Garden of Mrs. Homer H. Johnson), c. 1928. Margaret Bourke-White (American, 1904–1971). Gelatin silver print; image: 22.3 x 31.5 cm (8 3/4 x 12 3/8 in.); paper: 22.7 x 31.9 cm (8 15/16 x 12 9/16 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, Gift of Mrs. John B. Dempsey, 1987.214. ©  Estate of Margaret Bourke-White / Licensed by VAGA at Artists Rights Society (ARS), NY",
+      "current_location": null,
+      "title": "Untitled (Garden of Mrs. Homer H. Johnson)",
+      "creation_date": "c. 1928",
+      "creation_date_earliest": 1923,
+      "creation_date_latest": 1933,
+      "artists_tags": [
+        "May Show",
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 22.3 x 31.5 cm (8 3/4 x 12 3/8 in.); Paper: 22.7 x 31.9 cm (8 15/16 x 12 9/16 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.223,
+          "width": 0.315
+        },
+        "paper": {
+          "height": 0.227,
+          "width": 0.319
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "©  Estate of Margaret Bourke-White / Licensed by VAGA at Artists Rights Society (ARS), NY",
+      "inscriptions": [
+        {
+          "inscription": "Written in red pencil on verso:  \"44\"; in pencil: \"#3\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 310231,
+            "title": "The Year in Review for 1987",
+            "description": "<i>The Year in Review for 1987</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 24-April 17, 1988).",
+            "opening_date": "1988-02-24T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, February 24 - April 17, 1988: \"Year in Review 1987,\" CMA Bulletin, 75 (February 1988), p. 66, no. 39.",
+            "opening_date": "1988-02-24T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79939822"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 104",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1987.214",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Mrs. John B. Dempsey",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 153702,
+      "creators": [
+        {
+          "id": 262,
+          "description": "Margaret Bourke-White (American, 1904–1971)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Margaret Bourke-White American, 1904-1971 Margaret Bourke-White was a preeminent photojournalist who gained fame for her striking images published in Fortune and Life magazines in the 1930s-50s. In 1922, while at Columbia University Teachers College in her native New York City, Bourke-White studied photography with Clarence White. She attended several other colleges before graduating from Cornell University (1927), then moved to Cleveland. The city's industrial landscape was influential in the development of Bourke-White's photographic style. One of her images from this period, Romance of Steel, was a first-place winner in the Cleveland Museum of Art's 1928 May Show, a regional juried exhibition. The following year Bourke-White moved back to New York to work for Henry Luce's new business magazine, Fortune. In 1934 she was sent by the magazine to cover the drought in the Midwest, an assignment she credited with awakening her social conscience. Three years later she collaborated with writer Erskine Caldwell on You Have Seen Their Faces, an acclaimed study of the plight of rural Southerners during the Great Depression. Bourke-White's long association with Life began in 1936 when she joined the magazine as one of its first staff photographers. When it premiered on November 23, 1936, her photographs of Fort Peck Dam in Montana were featured on the cover and in the lead story. During her career, Bourke-White covered many major world events: the Great Depression, World War II, the partitioning of India, and the Korean War. She continued to photograph throughout the 1950s, publishing her images in magazines and in a number of books, including Eyes on Russia (1931), North of the Danube, with Erskine Caldwell (1939), Say, Is This the U.S.A.?, with Erskine Caldwell (1941), Shooting the Russian War (1942), Dear Fatherland, Rest Quietly (1946), Halfway to Freedom: A Report on the New India (1949), and Portrait of Myself (her autobiography, 1963). M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1904",
+          "death_year": "1971",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1988-02-18T00:00:00",
+      "sortable_date": 1923,
+      "date_added_to_oa": null,
+      "date_text": "c. 1928",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:06.106000"
+    },
+    {
+      "id": 165668,
+      "accession_number": "2007.73",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Plant and Window Study, 1934. Dora Maar (French, 1907–1997). Gelatin silver print, ferrotyped; image: 22.5 x 26.5 cm (8 7/8 x 10 7/16 in.); paper: 22.5 x 30.3 cm (8 7/8 x 11 15/16 in.). The Cleveland Museum of Art, John L. Severance Fund, 2007.73. © 2013 Artists Rights Society (ARS), New York / ADAGP, Paris",
+      "current_location": null,
+      "title": "Plant and Window Study",
+      "creation_date": "1934",
+      "creation_date_earliest": 1934,
+      "creation_date_latest": 1934,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "France, 20th century"
+      ],
+      "technique": "gelatin silver print, ferrotyped",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - French 20th Century",
+      "type": "Photograph",
+      "measurements": "Image: 22.5 x 26.5 cm (8 7/8 x 10 7/16 in.); Paper: 22.5 x 30.3 cm (8 7/8 x 11 15/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.225,
+          "width": 0.265
+        },
+        "paper": {
+          "height": 0.225,
+          "width": 0.303
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© 2013 Artists Rights Society (ARS), New York / ADAGP, Paris",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 335981,
+            "title": "Dora Maar: Bataille, Picasso, et les Surréalistes",
+            "description": "<i>Dora Maar: Bataille, Picasso, et les Surréalistes</i>. Haus der Kunst, Munich, Mùnich, Germany (October 13, 2001-January 6, 2002); Centre de la Vieille Charité, Marseille, France (February 7-April 30, 2002); Centre d’Art Tecla Sala, L’Hospitalet, Spain (May 21-July 15, 2002).",
+            "opening_date": "2001-10-13T04:00:00"
+          },
+          {
+            "id": 335822,
+            "title": "Dora Maar: Photographer",
+            "description": "<i>Dora Maar: Photographer</i>. Dorsky Gallery (April 25-June 28, 2004).",
+            "opening_date": "2004-04-25T04:00:00"
+          },
+          {
+            "id": 203169,
+            "title": "Forbidden Games: Surrealist and Modernist Photography",
+            "description": "<i>Forbidden Games: Surrealist and Modernist Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 19, 2014-January 11, 2015).",
+            "opening_date": "2014-10-19T00:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "The artist's estate, Paris",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "(PIASA, Paris, Nov. 19, 1999, no. 8, sold to David Raymond)",
+          "citations": [],
+          "footnotes": null,
+          "date": "November 19, 1999",
+          "sortorder": 2
+        },
+        {
+          "description": "David Raymond [b.1979], New York, NY",
+          "citations": [],
+          "footnotes": null,
+          "date": "1999-2007",
+          "sortorder": 3
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007-",
+          "sortorder": 4
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Photographing the interior of the Kew Gardens Palm House in London, Maar juxtaposes the botanical ornaments and structure of its distinctive Victorian ironwork staircase with the lacy, far less regimented leaves and trunks of the plants. Botanical studies by Maar contrast profuse foliage with spare, geometric built elements..",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60780948"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E. Hinson, Ian Walker, and Lisa Kurzner. Forbidden Games: Surrealist and Modernist Photography : the David Raymond Collection in the Cleveland Museum of Art. 2014.",
+          "page_number": "Mentioned: p. 101; reproduced: p. 10; reproduced and mentioned: pp. 224.",
+          "url": null
+        },
+        {
+          "citation": "Maar, Dora. Dora Maar: Bataille, Picasso et les surréalistes. [Marseille]: Musées de Marseille, 2000.",
+          "page_number": "Reproduced: p. 107, no. 77; mentioned: pp. 266.",
+          "url": null
+        },
+        {
+          "citation": "Maar, Dora, and Victoria Combalía Dexeus. Dora Maar: Haus der Kunst München, 13. Oktober 2001-6. Januar 2002 ; Musées de Marseille, Centre de la Vieille Charité, 20. Januar-4. Mai 2002 ; Centre Cultural Tecla Sala, L'Hospitalet Barcelona, 15. Mai- 15. Juli 2002. München: Haus der Kunst München, 2001.",
+          "page_number": "Reproduced: p. 125, no. 79; mentioned: pp. 324.",
+          "url": null
+        },
+        {
+          "citation": "Maar, Dora. Dora Maar: Photographer. Long Island City, NY: Dorsky Gallery, 2004.",
+          "page_number": null,
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/2007.73",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 165668,
+      "creators": [
+        {
+          "id": 11223,
+          "description": "Dora Maar (French, 1907–1997)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1907",
+          "death_year": "1997",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2007-02-26T00:00:00",
+      "sortable_date": 1934,
+      "date_added_to_oa": null,
+      "date_text": "1934",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:30.467000"
+    },
+    {
+      "id": 168709,
+      "accession_number": "2010.417",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Upton Pyne, January 14, 2001, 2001. Jem Southam (British, 1950-). Chromogenic dye coupler print; image: 68.3 x 86.5 cm (26 7/8 x 34 1/16 in.); mounted: 91.3 x 107.8 cm (35 15/16 x 42 7/16 in.); paper: 91.3 x 107.8 cm (35 15/16 x 42 7/16 in.). The Cleveland Museum of Art, Gift of William and Margaret Lipscomb in honor of Tom Hinson, 2010.417. © Jem Southam.  Courtesy Charles Isaacs Photographs and Robert Mann Gallery, New York",
+      "current_location": null,
+      "title": "Upton Pyne, January 14, 2001",
+      "creation_date": "2001",
+      "creation_date_earliest": 2001,
+      "creation_date_latest": 2001,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 21st century"
+      ],
+      "technique": "chromogenic dye coupler print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 20th Century",
+      "type": "Photograph",
+      "measurements": "Image: 68.3 x 86.5 cm (26 7/8 x 34 1/16 in.); Mounted: 91.3 x 107.8 cm (35 15/16 x 42 7/16 in.); Paper: 91.3 x 107.8 cm (35 15/16 x 42 7/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.683,
+          "width": 0.865
+        },
+        "mounted": {
+          "height": 0.913,
+          "width": 1.078
+        },
+        "paper": {
+          "height": 0.913,
+          "width": 1.078
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Jem Southam.  Courtesy Charles Isaacs Photographs and Robert Mann Gallery, New York",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso of mount: \"1569c\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 199873,
+            "title": "Contemporary Landscape Photography",
+            "description": "<i>Contemporary Landscape Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 26-August 14, 2011).",
+            "opening_date": "2011-03-26T00:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Charles Isaacs, New York; William Lipscomb, Cleveland; Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "From 1996 to 2003, Southam photographed the ongoing evolution of a small pond near his home in Cornwall, documenting each successive tenant’s attempts at improvements to the property. First a tree-lined bucolic nature retreat, then a stereotypical suburban garden complete with swing set and plastic lawn ornaments, the pond represents for Southam a microcosmic vision of the ever-shifting balance between human intervention and natural transformation.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80075010"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2010.417",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of William and Margaret Lipscomb in honor of Tom Hinson",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 168709,
+      "creators": [
+        {
+          "id": 49946,
+          "description": "Jem Southam (British, 1950-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1950",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2010-11-29T00:00:00",
+      "sortable_date": 2001,
+      "date_added_to_oa": null,
+      "date_text": "2001",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": "1",
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:05:51.923000"
+    },
+    {
+      "id": 681210,
+      "accession_number": "2024.97.b",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Palace of Fontainebleau Triptych, 1988. Lynn Geesaman (American, 1938–2020), Irve Dell (American, b. 1962). Gelatin silver print. The Cleveland Museum of Art, Gift in Memory of Toby Devan Lewis, 2024.97.b",
+      "current_location": null,
+      "title": "Palace of Fontainebleau Triptych",
+      "creation_date": "1988",
+      "creation_date_earliest": 1988,
+      "creation_date_latest": 1988,
+      "artists_tags": [
+        "female",
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Toby Devan Lewis [1934–2022], Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–2022",
+          "sortorder": 1
+        },
+        {
+          "description": "Estate of Toby Lewis, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2022–24",
+          "sortorder": 2
+        },
+        {
+          "description": "Adam Joseph Lewis, Ivy Beth Lewis, and Mark C. Lewis, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2024",
+          "sortorder": 3
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 9, 2024–",
+          "sortorder": 4
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This tabletop sculpture blends the form of Renaissance altarpiece with Arts and Crafts aesthetics, yet also echoes how photographs were sometimes displayed in Victorian parlors.",
+      "description": "Cleveland-bornLynn Geesaman used photography to explore the artificially formed landscapes of public parks and formal gardens in the United States and Europe. Here she shows three views of the gardens of the Château de Fontainebleau outside of Paris, combined in a single three-part frame designed and fabricated in cast iron by Minneapolis sculptor Irve Dell.",
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.97.b",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift in Memory of Toby Devan Lewis",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 681210,
+      "creators": [
+        {
+          "id": 37879,
+          "description": "Lynn Geesaman (American, 1938–2020)",
+          "extent": null,
+          "qualifier": null,
+          "role": null,
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1938",
+          "death_year": "2020",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 677643,
+          "description": "Irve Dell (American, b. 1962)",
+          "extent": null,
+          "qualifier": null,
+          "role": null,
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1962",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-09-09T00:00:00-04:00",
+      "sortable_date": 1988,
+      "date_added_to_oa": null,
+      "date_text": "1988",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.97",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:55.722000"
+    },
+    {
+      "id": 160942,
+      "accession_number": "1999.214",
+      "share_license_status": "CC0",
+      "tombstone": "Henriette Robert, 1852–1853. Louis-Rémy Robert (French, 1811–1882). Salted paper print from waxed paper negative; image: 21.8 x 17 cm (8 9/16 x 6 11/16 in.); mounted: 32.4 x 26.4 cm (12 3/4 x 10 3/8 in.); matted: 50.8 x 40.6 cm (20 x 16 in.). The Cleveland Museum of Art, John L. Severance Fund, 1999.214",
+      "current_location": null,
+      "title": "Henriette Robert",
+      "creation_date": "1852–1853",
+      "creation_date_earliest": 1852,
+      "creation_date_latest": 1853,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "salted paper print from waxed paper negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - French 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 21.8 x 17 cm (8 9/16 x 6 11/16 in.); Mounted: 32.4 x 26.4 cm (12 3/4 x 10 3/8 in.); Matted: 50.8 x 40.6 cm (20 x 16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.218,
+          "width": 0.17
+        },
+        "mounted": {
+          "height": 0.324,
+          "width": 0.264
+        },
+        "matted": {
+          "height": 0.508,
+          "width": 0.406
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "written in pencil on mount: \"Henriette Robert\"; stamped in purple ink on verso: \"Jean DIETERLE---[illegible]\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 188432,
+            "title": "19th-Century French Portrait Photography from the Cleveland Museum of Art",
+            "description": "<i>19th-Century French Portrait Photography from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 27-August 9, 2000).",
+            "opening_date": "2000-05-27T00:00:00"
+          },
+          {
+            "id": 178867,
+            "title": "Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art",
+            "description": "<i>Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 26-June 16, 2005).",
+            "opening_date": "2005-02-26T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; 5/27/00 - 8/9/00.  \"19th-Century French Portrait Photography from the Cleveland Museum of Art.\"",
+            "opening_date": "2000-05-27T00:00:00"
+          },
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; February 26 - June 16, 2005 . \"Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art\".",
+            "opening_date": "2005-02-26T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Henriette Robert, daughter of the distinguished amateur photographer of this portrait, is seated on a stone balustrade in the garden of the manufactory at Sèvres, where her father spent his entire professional career in various positions of authority from 1839 to 1879. Throughout his working career, however, Robert devoted much passion and energy to his interest in photography. One of his earliest themes was portraiture, embodied in a small, remarkable group of intimate views of his family and his fellow artists at Sèvres. In this spare composition, Robert posed his daughter in a contemplative manner, holding a book and deliberately looking into the camera's lens. This beautiful portrait of Henriette is distinquished by its intensity and its allusion to her personality.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79982986"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1999.214-henriette-robert"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, “Cleveland Museum of Art Acquires Rare Chinese Paintings, Baroque Porcelain Plaque and Other New Acquisitions Exhibited with Hanging Scrolls,” December 20, 1999, Cleveland Museum of Art Archives.",
+          "page_number": null,
+          "url": "https://archive.org/details/cmapr4305"
+        }
+      ],
+      "url": "https://clevelandart.org/art/1999.214",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1999.214/1999.214_web.jpg",
+          "width": "691",
+          "height": "893",
+          "filesize": "380405",
+          "filename": "1999.214_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1999.214/1999.214_print.jpg",
+          "width": "2632",
+          "height": "3400",
+          "filesize": "5293985",
+          "filename": "1999.214_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1999.214/1999.214_full.tif",
+          "width": "3979",
+          "height": "5141",
+          "filesize": "61397924",
+          "filename": "1999.214_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 160942,
+      "creators": [
+        {
+          "id": 826,
+          "description": "Louis-Rémy Robert (French, 1811–1882)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Louis-Rémy Robert French, 1811-1882\r\n\r\nBorn in Paris, Louis-Rémy Robert was trained by his father as a painter on porcelain and glass, eventually succeeding him as chief in charge of the workshops of painters and gilders at the Manufacture de Sèvres. He developed an active interest in photography, probably due in part to his friendship with Henri-Victor Regnault, who was appointed director at Sèvres in 1852, and whom Robert succeeded in 1871.\r\n\tRobert's views are frequently more traditional and classically inclined than those of Regnault. His well-known series on the architecture, gardens, and art of Versailles, published by Louis-Désire Blanquart-Évrard as Souvenirs de Versailles (1853), reflects an appreciation of the heritage in French culture and design, traditions with which Robert was familiar, on a smaller scale, through his background in porcelain and glass decoration.\r\n\tRobert was also a technical innovator, a friend of the printers Blanquart-Évrard and Alphonse Louis Poitevin, and served as a judge for the competition originated by the Duc de Luynes to further research into the longevity of photographic prints. A member of the Société française de photographie, Robert exhibited his work in Paris, Brussels, and London between 1855-62 and lectured on photography at the École des Ponts et Chausées from 1858-72. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1811",
+          "death_year": "1882",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1999-12-06T00:00:00",
+      "sortable_date": 1852,
+      "date_added_to_oa": null,
+      "date_text": "1852–1853",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:19.090000"
+    },
+    {
+      "id": 681209,
+      "accession_number": "2024.97.a",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Palace of Fontainebleau Triptych, 1988. Lynn Geesaman (American, 1938–2020), Irve Dell (American, b. 1962). Gelatin silver print. The Cleveland Museum of Art, Gift in Memory of Toby Devan Lewis, 2024.97.a",
+      "current_location": null,
+      "title": "Palace of Fontainebleau Triptych",
+      "creation_date": "1988",
+      "creation_date_earliest": 1988,
+      "creation_date_latest": 1988,
+      "artists_tags": [
+        "female",
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Toby Devan Lewis [1934–2022], Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–2022",
+          "sortorder": 1
+        },
+        {
+          "description": "Estate of Toby Lewis, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2022–24",
+          "sortorder": 2
+        },
+        {
+          "description": "Adam Joseph Lewis, Ivy Beth Lewis, and Mark C. Lewis, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2024",
+          "sortorder": 3
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 9, 2024–",
+          "sortorder": 4
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This tabletop sculpture blends the form of Renaissance altarpiece with Arts and Crafts aesthetics, yet also echoes how photographs were sometimes displayed in Victorian parlors.",
+      "description": "Cleveland-bornLynn Geesaman used photography to explore the artificially formed landscapes of public parks and formal gardens in the United States and Europe. Here she shows three views of the gardens of the Château de Fontainebleau outside of Paris, combined in a single three-part frame designed and fabricated in cast iron by Minneapolis sculptor Irve Dell.",
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.97.a",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift in Memory of Toby Devan Lewis",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 681209,
+      "creators": [
+        {
+          "id": 37879,
+          "description": "Lynn Geesaman (American, 1938–2020)",
+          "extent": null,
+          "qualifier": null,
+          "role": null,
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1938",
+          "death_year": "2020",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 677643,
+          "description": "Irve Dell (American, b. 1962)",
+          "extent": null,
+          "qualifier": null,
+          "role": null,
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1962",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-09-09T00:00:00-04:00",
+      "sortable_date": 1988,
+      "date_added_to_oa": null,
+      "date_text": "1988",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.97",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:17.432000"
+    },
+    {
+      "id": 311762,
+      "accession_number": "2018.38",
+      "share_license_status": "CC0",
+      "tombstone": "Buddhist Temple, Kalani, c. 1880. Scowen & Co. (British, active Ceylon, 1876–1895). Albumen print from glass plate negative; image: 21.5 x 27.7 cm (8 7/16 x 10 7/8 in.); paper: 21.5 x 27.7 cm (8 7/16 x 10 7/8 in.); mounted: 29 x 37 cm (11 7/16 x 14 9/16 in.). The Cleveland Museum of Art, Gift of Catherine Glynn Benkaim and Barbara Timmer, 2018.38",
+      "current_location": null,
+      "title": "Buddhist Temple, Kalani",
+      "creation_date": "c. 1880",
+      "creation_date_earliest": 1875,
+      "creation_date_latest": 1885,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Sri Lanka, Kandy"
+      ],
+      "technique": "Albumen print from glass plate negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 21.5 x 27.7 cm (8 7/16 x 10 7/8 in.); Paper: 21.5 x 27.7 cm (8 7/16 x 10 7/8 in.); Mounted: 29 x 37 cm (11 7/16 x 14 9/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.215,
+          "width": 0.277
+        },
+        "paper": {
+          "height": 0.215,
+          "width": 0.277
+        },
+        "mounted": {
+          "height": 0.29,
+          "width": 0.37
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 449919,
+            "title": "Text and Image in Southern Asia",
+            "description": "<i>Text and Image in Southern Asia</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 26, 2022-March 5, 2023).",
+            "opening_date": "2022-08-26T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Bruno Tartarain, photovintagefrance, Arnaville, France",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "Catherine Glynn Benkaim and Barbara Timmer, Beverly Hills, CA, given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–2018",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OJH",
+          "citations": [],
+          "footnotes": null,
+          "date": "June 4, 2018–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Next to the tree are the buildings of a monastery and a whitewashed, dome-shaped structure with pointed spire, called a stupa.",
+      "description": "This image may actually show the Jaya Sri Maha Bodhi, a sacred fig tree planted in 288 BC in Mahamewna Gardens, Anuradhapura, Ceylon (now Sri Lanka). Grown from a cutting of the tree in India under which Buddha attained enlightenment, it is one of the most sacred Buddhist relics in Sri Lanka.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79873621"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2018.38-buddhist-temple-kala"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.38",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2018.38/2018.38_web.jpg",
+          "width": "900",
+          "height": "695",
+          "filesize": "336623",
+          "filename": "2018.38_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2018.38/2018.38_print.jpg",
+          "width": "3400",
+          "height": "2625",
+          "filesize": "2612478",
+          "filename": "2018.38_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2018.38/2018.38_full.tif",
+          "width": "5012",
+          "height": "3870",
+          "filesize": "58225660",
+          "filename": "2018.38_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Gift of Catherine Glynn Benkaim and Barbara Timmer",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 311762,
+      "creators": [
+        {
+          "id": 311760,
+          "description": "Scowen & Co. (British, active Ceylon, 1876–1895)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 0
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-06-04T00:00:00-04:00",
+      "sortable_date": 1875,
+      "date_added_to_oa": null,
+      "date_text": "c. 1880",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:43.989000"
+    },
+    {
+      "id": 168576,
+      "accession_number": "2010.300",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Magic Garden, Aichi-ken, 1986. Linda Butler (American, b. 1947). Gelatin silver print; image: 46.5 x 36.2 cm (18 5/16 x 14 1/4 in.); paper: 50.6 x 40.2 cm (19 15/16 x 15 13/16 in.); matted: 71.1 x 81.3 cm (28 x 32 in.). The Cleveland Museum of Art, Gift of the Artist, 2010.300. © Linda Butler",
+      "current_location": null,
+      "title": "Magic Garden, Aichi-ken",
+      "creation_date": "1986",
+      "creation_date_earliest": 1986,
+      "creation_date_latest": 1986,
+      "artists_tags": [
+        "May Show",
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 46.5 x 36.2 cm (18 5/16 x 14 1/4 in.); Paper: 50.6 x 40.2 cm (19 15/16 x 15 13/16 in.); Matted: 71.1 x 81.3 cm (28 x 32 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.465,
+          "width": 0.362
+        },
+        "paper": {
+          "height": 0.506,
+          "width": 0.402
+        },
+        "matted": {
+          "height": 0.711,
+          "width": 0.813
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Linda Butler",
+      "inscriptions": [
+        {
+          "inscription": "Written on verso in pencil : \" Magic Garden,  Aichi-Ken 1986:1990  ©  1992   (signed by artist)  Linda Butler  38/45 \"\r\n\r\n\r\n\r\n\r\n",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80074652"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2010.300",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of the Artist",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 168576,
+      "creators": [
+        {
+          "id": 32391,
+          "description": "Linda Butler (American, b. 1947)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Biographical information exists in the Cleveland Museum of Art Archives.",
+          "name_in_original_language": null,
+          "birth_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2010-11-29T00:00:00",
+      "sortable_date": 1986,
+      "date_added_to_oa": null,
+      "date_text": "1986",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": "6",
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:04.890000"
+    },
+    {
+      "id": 161421,
+      "accession_number": "2000.114.6",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Zen Gardens, 1973. Birgit Skiöld (British, 1923–1982), Circle Press. Photoetching and linocut relief; sheet: 29.7 x 59.6 cm (11 11/16 x 23 7/16 in.); platemark: 8.8 x 11.3 cm (3 7/16 x 4 7/16 in.). The Cleveland Museum of Art, Gift of Jane Weiss Garrett, 2000.114.6",
+      "current_location": null,
+      "title": "Zen Gardens",
+      "creation_date": "1973",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "England, 20th century"
+      ],
+      "technique": "photoetching and linocut relief",
+      "support_materials": [],
+      "department": "Prints",
+      "collection": "PR - Etching",
+      "type": "Portfolio",
+      "measurements": "Sheet: 29.7 x 59.6 cm (11 11/16 x 23 7/16 in.); Platemark: 8.8 x 11.3 cm (3 7/16 x 4 7/16 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.297,
+          "width": 0.596
+        },
+        "platemark": {
+          "height": 0.088,
+          "width": 0.113
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": "100; numbers 1-75 printed in English with 10 artist's proofs; 76-100 printed in Japanese with 5 artist's proofs",
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "the colophon is signed by the artist and the poet",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Skiöld was raised on the coast of Sweden and the influence of the sea was expressed in rhythmic\r\npatterns printed in relief and a delicate, ethereal sense of color. During a 1970 trip to Japan the inspiration of nature and the simplicity of Asian art also affected her work. Photographs she took there were transferred to etching plates to illustrate Zen Gardens where they, and the embossed designs, echo verbal references to stones, sand, sea birds, and sky. The poems (by James Kirkup) and images enhance each other producing a satisfying whole.\r\n",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79984092"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2000.114.6",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Jane Weiss Garrett",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 161421,
+      "creators": [
+        {
+          "id": 38704,
+          "description": "Birgit Skiöld (British, 1923–1982)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1923",
+          "death_year": "1982",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 67706,
+          "description": "Circle Press",
+          "extent": null,
+          "qualifier": null,
+          "role": "published by",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2000-09-18T00:00:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973",
+      "collapse_artists": true,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2000.114",
+      "is_nazi_era_provenance": false,
+      "impression": "25/100",
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:38.252000"
+    },
+    {
+      "id": 161420,
+      "accession_number": "2000.114.5",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Zen Gardens, 1973. Birgit Skiöld (British, 1923–1982), Circle Press. Photoetching and linocut relief; sheet: 29.8 x 59.6 cm (11 3/4 x 23 7/16 in.); platemark: 8.7 x 13 cm (3 7/16 x 5 1/8 in.). The Cleveland Museum of Art, Gift of Jane Weiss Garrett, 2000.114.5",
+      "current_location": null,
+      "title": "Zen Gardens",
+      "creation_date": "1973",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "England, 20th century"
+      ],
+      "technique": "photoetching and linocut relief",
+      "support_materials": [],
+      "department": "Prints",
+      "collection": "PR - Etching",
+      "type": "Portfolio",
+      "measurements": "Sheet: 29.8 x 59.6 cm (11 3/4 x 23 7/16 in.); Platemark: 8.7 x 13 cm (3 7/16 x 5 1/8 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.298,
+          "width": 0.596
+        },
+        "platemark": {
+          "height": 0.087,
+          "width": 0.13
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": "100; numbers 1-75 printed in English with 10 artist's proofs; 76-100 printed in Japanese with 5 artist's proofs",
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "the colophon is signed by the artist and the poet",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Skiöld was raised on the coast of Sweden and the influence of the sea was expressed in rhythmic\r\npatterns printed in relief and a delicate, ethereal sense of color. During a 1970 trip to Japan the inspiration of nature and the simplicity of Asian art also affected her work. Photographs she took there were transferred to etching plates to illustrate Zen Gardens where they, and the embossed designs, echo verbal references to stones, sand, sea birds, and sky. The poems (by James Kirkup) and images enhance each other producing a satisfying whole.\r\n",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79984090"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2000.114.5",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Jane Weiss Garrett",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 161420,
+      "creators": [
+        {
+          "id": 38704,
+          "description": "Birgit Skiöld (British, 1923–1982)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1923",
+          "death_year": "1982",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 67706,
+          "description": "Circle Press",
+          "extent": null,
+          "qualifier": null,
+          "role": "published by",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2000-09-18T00:00:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973",
+      "collapse_artists": true,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2000.114",
+      "is_nazi_era_provenance": false,
+      "impression": "25/100",
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:46.537000"
+    },
+    {
+      "id": 161417,
+      "accession_number": "2000.114.2",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Zen Gardens, 1973. Birgit Skiöld (British, 1923–1982), Circle Press. Photoetching and linocut relief; sheet: 29.8 x 59.6 cm (11 3/4 x 23 7/16 in.); platemark: 12.1 x 8.5 cm (4 3/4 x 3 3/8 in.). The Cleveland Museum of Art, Gift of Jane Weiss Garrett, 2000.114.2",
+      "current_location": null,
+      "title": "Zen Gardens",
+      "creation_date": "1973",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "England, 20th century"
+      ],
+      "technique": "photoetching and linocut relief",
+      "support_materials": [],
+      "department": "Prints",
+      "collection": "PR - Etching",
+      "type": "Portfolio",
+      "measurements": "Sheet: 29.8 x 59.6 cm (11 3/4 x 23 7/16 in.); Platemark: 12.1 x 8.5 cm (4 3/4 x 3 3/8 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.298,
+          "width": 0.596
+        },
+        "platemark": {
+          "height": 0.121,
+          "width": 0.085
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": "100; numbers 1-75 printed in English with 10 artist's proofs; 76-100 printed in Japanese with 5 artist's proofs",
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "the colophon is signed by the artist and the poet",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Skiöld was raised on the coast of Sweden and the influence of the sea was expressed in rhythmic\r\npatterns printed in relief and a delicate, ethereal sense of color. During a 1970 trip to Japan the inspiration of nature and the simplicity of Asian art also affected her work. Photographs she took there were transferred to etching plates to illustrate Zen Gardens where they, and the embossed designs, echo verbal references to stones, sand, sea birds, and sky. The poems (by James Kirkup) and images enhance each other producing a satisfying whole.\r\n",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79984083"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2000.114.2",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Jane Weiss Garrett",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 161417,
+      "creators": [
+        {
+          "id": 38704,
+          "description": "Birgit Skiöld (British, 1923–1982)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1923",
+          "death_year": "1982",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 67706,
+          "description": "Circle Press",
+          "extent": null,
+          "qualifier": null,
+          "role": "published by",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2000-09-18T00:00:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973",
+      "collapse_artists": true,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2000.114",
+      "is_nazi_era_provenance": false,
+      "impression": "25/100",
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:20.579000"
+    },
+    {
+      "id": 161419,
+      "accession_number": "2000.114.4",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Zen Gardens, 1973. Birgit Skiöld (British, 1923–1982), Circle Press. Photoetching and linocut relief; sheet: 29.9 x 59.6 cm (11 3/4 x 23 7/16 in.); platemark: 9.4 x 11.6 cm (3 11/16 x 4 9/16 in.). The Cleveland Museum of Art, Gift of Jane Weiss Garrett, 2000.114.4",
+      "current_location": null,
+      "title": "Zen Gardens",
+      "creation_date": "1973",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "England, 20th century"
+      ],
+      "technique": "photoetching and linocut relief",
+      "support_materials": [],
+      "department": "Prints",
+      "collection": "PR - Etching",
+      "type": "Portfolio",
+      "measurements": "Sheet: 29.9 x 59.6 cm (11 3/4 x 23 7/16 in.); Platemark: 9.4 x 11.6 cm (3 11/16 x 4 9/16 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.299,
+          "width": 0.596
+        },
+        "platemark": {
+          "height": 0.094,
+          "width": 0.116
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": "100, numbers 1-75 printed in English with 10 artist's proofs; 76-100 printed in Japanese with 5 artist's proofs",
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "the colophon is signed by the artist and the poet",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Skiöld was raised on the coast of Sweden and the influence of the sea was expressed in rhythmic\r\npatterns printed in relief and a delicate, ethereal sense of color. During a 1970 trip to Japan the inspiration of nature and the simplicity of Asian art also affected her work. Photographs she took there were transferred to etching plates to illustrate Zen Gardens where they, and the embossed designs, echo verbal references to stones, sand, sea birds, and sky. The poems (by James Kirkup) and images enhance each other producing a satisfying whole.\r\n",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79984087"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2000.114.4",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Jane Weiss Garrett",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 161419,
+      "creators": [
+        {
+          "id": 38704,
+          "description": "Birgit Skiöld (British, 1923–1982)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1923",
+          "death_year": "1982",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 67706,
+          "description": "Circle Press",
+          "extent": null,
+          "qualifier": null,
+          "role": "published by",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2000-09-18T00:00:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973",
+      "collapse_artists": true,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2000.114",
+      "is_nazi_era_provenance": false,
+      "impression": "25/100",
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:47.602000"
+    },
+    {
+      "id": 681211,
+      "accession_number": "2024.97.c",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Palace of Fontainebleau Triptych, 1988. Lynn Geesaman (American, 1938–2020), Irve Dell (American, b. 1962). Gelatin silver print. The Cleveland Museum of Art, Gift in Memory of Toby Devan Lewis, 2024.97.c",
+      "current_location": null,
+      "title": "Palace of Fontainebleau Triptych",
+      "creation_date": "1988",
+      "creation_date_earliest": 1988,
+      "creation_date_latest": 1988,
+      "artists_tags": [
+        "female",
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Toby Devan Lewis [1934–2022], Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–2022",
+          "sortorder": 1
+        },
+        {
+          "description": "Estate of Toby Lewis, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2022–24",
+          "sortorder": 2
+        },
+        {
+          "description": "Adam Joseph Lewis, Ivy Beth Lewis, and Mark C. Lewis, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2024",
+          "sortorder": 3
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 9, 2024–",
+          "sortorder": 4
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This tabletop sculpture blends the form of a Renaissance altarpiece with Arts and Crafts aesthetics, yet also echoes how photographs were sometimes displayed in Victorian parlors.",
+      "description": "Cleveland-bornLynn Geesaman used photography to explore the artificially formed landscapes of public parks and formal gardens in the United States and Europe. Here she shows three views of the gardens of the Château de Fontainebleau outside of Paris, combined in a single three-part frame designed and fabricated in cast iron by Minneapolis sculptor Irve Dell.",
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.97.c",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift in Memory of Toby Devan Lewis",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 681211,
+      "creators": [
+        {
+          "id": 37879,
+          "description": "Lynn Geesaman (American, 1938–2020)",
+          "extent": null,
+          "qualifier": null,
+          "role": null,
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1938",
+          "death_year": "2020",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 677643,
+          "description": "Irve Dell (American, b. 1962)",
+          "extent": null,
+          "qualifier": null,
+          "role": null,
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1962",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-09-09T00:00:00-04:00",
+      "sortable_date": 1988,
+      "date_added_to_oa": null,
+      "date_text": "1988",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.97",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:27.878000"
+    },
+    {
+      "id": 161418,
+      "accession_number": "2000.114.3",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Zen Gardens, 1973. Birgit Skiöld (British, 1923–1982), Circle Press. Photoetching and linocut relief; sheet: 29.8 x 59.7 cm (11 3/4 x 23 1/2 in.); platemark: 9.6 x 13.2 cm (3 3/4 x 5 3/16 in.). The Cleveland Museum of Art, Gift of Jane Weiss Garrett, 2000.114.3",
+      "current_location": null,
+      "title": "Zen Gardens",
+      "creation_date": "1973",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "England, 20th century"
+      ],
+      "technique": "photoetching and linocut relief",
+      "support_materials": [],
+      "department": "Prints",
+      "collection": "PR - Etching",
+      "type": "Portfolio",
+      "measurements": "Sheet: 29.8 x 59.7 cm (11 3/4 x 23 1/2 in.); Platemark: 9.6 x 13.2 cm (3 3/4 x 5 3/16 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.298,
+          "width": 0.597
+        },
+        "platemark": {
+          "height": 0.096,
+          "width": 0.132
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": "100; numbers 1-75 printed in English with 10 artist's proofs; 76-100 printed in Japanese with 5 artist's proofs",
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "the colophon is signed by the artist and the poet",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Skiöld was raised on the coast of Sweden and the influence of the sea was expressed in rhythmic\r\npatterns printed in relief and a delicate, ethereal sense of color. During a 1970 trip to Japan the inspiration of nature and the simplicity of Asian art also affected her work. Photographs she took there were transferred to etching plates to illustrate Zen Gardens where they, and the embossed designs, echo verbal references to stones, sand, sea birds, and sky. The poems (by James Kirkup) and images enhance each other producing a satisfying whole.\r\n",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79984086"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2000.114.3",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Jane Weiss Garrett",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 161418,
+      "creators": [
+        {
+          "id": 38704,
+          "description": "Birgit Skiöld (British, 1923–1982)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1923",
+          "death_year": "1982",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 67706,
+          "description": "Circle Press",
+          "extent": null,
+          "qualifier": null,
+          "role": "published by",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2000-09-18T00:00:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973",
+      "collapse_artists": true,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2000.114",
+      "is_nazi_era_provenance": false,
+      "impression": "25/100",
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:04:25.803000"
+    },
+    {
+      "id": 170615,
+      "accession_number": "2013.163",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Garden View, 1909. Karl F. Struss (American, 1886–1981). Vintage gelatin silver print; image: 9.6 x 7 cm (3 3/4 x 2 3/4 in.); paper: 10.3 x 7.7 cm (4 1/16 x 3 1/16 in.). The Cleveland Museum of Art, Gift of George Stephanopoulos, 2013.163",
+      "current_location": null,
+      "title": "Garden View",
+      "creation_date": "1909",
+      "creation_date_earliest": 1909,
+      "creation_date_latest": 1909,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "Vintage gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 9.6 x 7 cm (3 3/4 x 2 3/4 in.); Paper: 10.3 x 7.7 cm (4 1/16 x 3 1/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.096,
+          "width": 0.07
+        },
+        "paper": {
+          "height": 0.103,
+          "width": 0.077
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80079573"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2013.163",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George Stephanopoulos",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 170615,
+      "creators": [
+        {
+          "id": 970,
+          "description": "Karl F. Struss (American, 1886–1981)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Karl F. Struss American, 1886-1981\r\n\r\nBorn and raised in New York City, Karl Fischer Struss was an important early pictorialist and a cofounder of the Pictorial Photographers of America. He was also a member of the Photo-Secession, publishing his works in Camera Work (April 1912), and a photographer for publications such as Vogue, Vanity Fair, and Harper's Bazaar.\r\n\tA student of Clarence H. White, Struss was influenced by both White and Alvin Langdon Coburn. He developed his own style, however, an elegant synthesis of random qualities with formal composition. Struss experimented with various technical processes. He developed multiple platinum printing to enhance the depth of shadows and in 1909 designed the Struss Pictorial lens, which entered commercial production in 1915.\r\n\tShortly after the First World War, Struss moved to Hollywood, where he became a successful cinematographer. He worked first for Cecil B. De Mille and later freelanced for both independent and major studios until his retirement in 1970. Among his film credits are Ben Hur (1926), Dr. Jekyll and Mr. Hyde (1932), and the Chaplin classics The Great Dictator (1940) and Limelight (1952). In 1928 Struss received an Academy Award for his work on De Mille's film Sunrise. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1886",
+          "death_year": "1981",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2013-12-02T00:00:00",
+      "sortable_date": 1909,
+      "date_added_to_oa": null,
+      "date_text": "1909",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:00.551000"
+    },
+    {
+      "id": 168589,
+      "accession_number": "2010.312",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Garden 26, 1986. Willard Traub (American, 1943–2015). Gelatin silver print, selenium-toned; paper: 61 x 50.8 cm (24 x 20 in.); matted: 76.2 x 61 cm (30 x 24 in.). The Cleveland Museum of Art, Gift of the Artist in honor of Tom Hinson, 2010.312",
+      "current_location": null,
+      "title": "Garden 26",
+      "creation_date": "1986",
+      "creation_date_earliest": 1986,
+      "creation_date_latest": 1986,
+      "artists_tags": [
+        "May Show",
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print, selenium-toned",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 61 x 50.8 cm (24 x 20 in.); Matted: 76.2 x 61 cm (30 x 24 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.61,
+          "width": 0.508
+        },
+        "matted": {
+          "height": 0.762,
+          "width": 0.61
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Artist; Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80074682"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2010.312",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of the Artist in honor of Tom Hinson",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 168589,
+      "creators": [
+        {
+          "id": 60669,
+          "description": "Willard Traub (American, 1943–2015)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Willard Traub American, 1943- Willard Traub (born in Cleveland) left a tenured position as a high school English teacher in 1978 to pursue a career as an architectural and fine arts photographer. Largely self-taught in the medium, he has taken workshops with Lewis Baltz, Barbara Crane, Ralph Gibson, and Eikoh Hosoe under the auspices of the Friends of Photography (1977-78), with Henry Holmes Smith at the Visual Studies Workshop, Rochester (1980), and with Emmet Gowin, Alan Magee, Ezra Stoller, and Peter Aaron at the Maine Photographic Workshop (1983, 1984). In 1980 and 1986 Traub earned awards in the Cleveland Museum of Art's May Show, a regional juried exhibition, and since then has continued to exhibit his works nationwide. His photographs have been published in the Boston Globe, Boston Magazine, New England Living, New Home, the New York Times, and Popular Photography. He lives in Framingham, Massachusetts. A.W.<br>Biographical information exists in the Cleveland Museum of Art Archives.",
+          "name_in_original_language": null,
+          "birth_year": "1943",
+          "death_year": "2015",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2010-11-29T00:00:00",
+      "sortable_date": 1986,
+      "date_added_to_oa": null,
+      "date_text": "1986",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:28.911000"
+    },
+    {
+      "id": 159599,
+      "accession_number": "1996.336",
+      "share_license_status": "CC0",
+      "tombstone": "Man on a Horse, c. 1860s. Nadar (French, 1820–1910). Albumen print from wet collodion negative; image: 17 x 22.3 cm (6 11/16 x 8 3/4 in.); matted: 35.6 x 45.7 cm (14 x 18 in.). The Cleveland Museum of Art, Gift of Robert Hershkowitz and Charles Isaacs, 1996.336",
+      "current_location": null,
+      "title": "Man on a Horse",
+      "creation_date": "c. 1860s",
+      "creation_date_earliest": 1860,
+      "creation_date_latest": 1869,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "albumen print from wet collodion negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "Photography",
+      "type": "Photograph",
+      "measurements": "Image: 17 x 22.3 cm (6 11/16 x 8 3/4 in.); Matted: 35.6 x 45.7 cm (14 x 18 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.17,
+          "width": 0.223
+        },
+        "matted": {
+          "height": 0.356,
+          "width": 0.457
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on recto of mount: \"Fj 1064\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 188432,
+            "title": "19th-Century French Portrait Photography from the Cleveland Museum of Art",
+            "description": "<i>19th-Century French Portrait Photography from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 27-August 9, 2000).",
+            "opening_date": "2000-05-27T00:00:00"
+          },
+          {
+            "id": 286506,
+            "title": "Cheating Death: Portrait Photography’s First Half Century",
+            "description": "<i>Cheating Death: Portrait Photography’s First Half Century</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 22, 2016-February 5, 2017).",
+            "opening_date": "2016-10-22T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "During 1860-61, Nadar tried his hand at equestrian photography, probably while waiting for the completion of his new, elaborate studio on the Boulevard des Capuchins. In this rare example of the theme, Nadar carefully positioned and lit his subject—an unidentified, elegantly dressed gentleman on horseback—in front of a painted backdrop decorated with a walled garden scene. The two remained motionless just long enough for the wet collodion negative to render a sharply defined image.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79979450"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1996.336-man-on-a-horse"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1996.336",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1996.336/1996.336_web.jpg",
+          "width": "1175",
+          "height": "893",
+          "filesize": "654374",
+          "filename": "1996.336_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1996.336/1996.336_print.jpg",
+          "width": "3400",
+          "height": "2583",
+          "filesize": "4895710",
+          "filename": "1996.336_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1996.336/1996.336_full.tif",
+          "width": "4464",
+          "height": "3391",
+          "filesize": "45444024",
+          "filename": "1996.336_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Gift of Robert Hershkowitz and Charles Isaacs",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 159599,
+      "creators": [
+        {
+          "id": 721,
+          "description": "Nadar (French, 1820–1910)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Nadar (Gaspard-Félix Tournachon) French, 1820-1910\r\n\r\nBorn Gaspard-Félix Tournachon in Paris, Nadar is probably the best known French photographer. His portraits of celebrities and public figures help define our impression of France in the second half of the 19th century; his panache in conducting his business helped popularize photography.\r\n\tEducated at the Collège Bourber, Paris (1833-36), Nadar moved to Lyon, where he studied medicine (1837-38) before continuing his studies at the Hôtel Dieu and the Bicêtre in Paris. He wrote satires and essays and drew caricatures (his pseudonym derived from his barbed wit aimed against the establishment) for a number of Paris publications, eventually founding several of his own, and was a highly visible figure in the city's cultural and artistic life. Learning photographic technique from Adophe Bertsch and Camille d'Arnaud, Nadar founded a studio in 1854. Twenty years later his son Paul, also a photographer, became director of the business and by 1886 headed the firm. He also worked for a time with his brother, Adrien, who sometimes called himself Nadar jeune, a practice which later prompted Nadar to file a lawsuit.\r\n\tNadar's exploits with aerial balloon photography were of both photographic and historic importance. Below ground, he used artificial light to make surveys of the catacombs and sewers of Paris, novel and highly popular curiosities. With his son Paul as photographer, he is credited with the first photo-interview, conducted with the scientist and color theorist Michel-Eugène Chevreul on his 100th birthday in 1886. Because of the importance of his work and the notoriety of his sitters, among them Franz Liszt, George Sand, Sarah Bernhardt, and Honoré Balzac, Nadar will long occupy a key place in the development of photography. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1820",
+          "death_year": "1910",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1996-12-02T00:00:00",
+      "sortable_date": 1860,
+      "date_added_to_oa": null,
+      "date_text": "c. 1860s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 16:32:42.036000"
+    },
+    {
+      "id": 161415,
+      "accession_number": "2000.114",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Zen Gardens, 1973. Birgit Skiöld (British, 1923–1982). Photoetching and linocut relief; sheet: 29.8 x 60 cm (11 3/4 x 23 5/8 in.); platemark: 9.7 x 12.2 cm (3 13/16 x 4 13/16 in.). The Cleveland Museum of Art, Gift of Jane Weiss Garrett, 2000.114",
+      "current_location": null,
+      "title": "Zen Gardens",
+      "creation_date": "1973",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "England, 20th century"
+      ],
+      "technique": "photoetching and linocut relief",
+      "support_materials": [],
+      "department": "Prints",
+      "collection": "PR - Etching",
+      "type": "Portfolio",
+      "measurements": "Sheet: 29.8 x 60 cm (11 3/4 x 23 5/8 in.); Platemark: 9.7 x 12.2 cm (3 13/16 x 4 13/16 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.298,
+          "width": 0.6
+        },
+        "platemark": {
+          "height": 0.097,
+          "width": 0.122
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "the colophon is signed by the artist and the poet",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Skiöld was raised on the coast of Sweden and the influence of the sea was expressed in rhythmic\r\npatterns printed in relief and a delicate, ethereal sense of color. During a 1970 trip to Japan the inspiration of nature and the simplicity of Asian art also affected her work. Photographs she took there were transferred to etching plates to illustrate Zen Gardens where they, and the embossed designs, echo verbal references to stones, sand, sea birds, and sky. The poems (by James Kirkup) and images enhance each other producing a satisfying whole.\r\n",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79984077"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2000.114",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Jane Weiss Garrett",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 161415,
+      "creators": [
+        {
+          "id": 38704,
+          "description": "Birgit Skiöld (British, 1923–1982)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1923",
+          "death_year": "1982",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2000-09-18T00:00:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "cover",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:48.900000"
+    },
+    {
+      "id": 152228,
+      "accession_number": "1985.114",
+      "share_license_status": "CC0",
+      "tombstone": "Versailles, Fountain of Triumphant France, 1904. Eugène Atget (French, 1857–1927). Albumen print, gold toned; image: 22 x 18.2 cm (8 11/16 x 7 3/16 in.); matted: 45.7 x 35.6 cm (18 x 14 in.). The Cleveland Museum of Art, John L. Severance Fund, 1985.114",
+      "current_location": null,
+      "title": "Versailles, Fountain of Triumphant France",
+      "creation_date": "1904",
+      "creation_date_earliest": 1904,
+      "creation_date_latest": 1904,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 20th century"
+      ],
+      "technique": "albumen print, gold toned",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "Photography",
+      "type": "Photograph",
+      "measurements": "Image: 22 x 18.2 cm (8 11/16 x 7 3/16 in.); Matted: 45.7 x 35.6 cm (18 x 14 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.22,
+          "width": 0.182
+        },
+        "matted": {
+          "height": 0.457,
+          "width": 0.356
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"Versailles\"; \"#6493\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 178867,
+            "title": "Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art",
+            "description": "<i>Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 26-June 16, 2005).",
+            "opening_date": "2005-02-26T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, February 12 - April 20, 1986: \"Year in Review 1985,\" CMA Bulletin, 73 (Feb. 1986), p. 64, no. 57.",
+            "opening_date": "1986-02-12T00:00:00"
+          },
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; February 26 - June 16, 2005 . \"Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art\".",
+            "opening_date": "2005-02-26T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "From 1901 until his death in 1927, Atget devoted much of his time to documenting châteaus and parks in and around Paris. Initially and most frequently, he was attracted to the gardens of Versailles, first working there until 1906. This intriguing detail of the Fountain of Triumphant France isolates two of its three allegorical figures: the seated representation of the French Empire behind Jean-Baptiste Tubi’s sculpture denoting Spain. The fountain was commissioned by Louis XIV to celebrate the French victory over Spain and Holland. The sharply focused composition filled with decorative and sculptural details is typical of Atget’s early photographs, which he understood to be \"documents for artists\"—raw material for painters, sculptors, stage designers, and craftsmen.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79936326"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1985.114-versailles-fountain"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 88",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1985.114",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1985.114/1985.114_web.jpg",
+          "width": "721",
+          "height": "893",
+          "filesize": "556111",
+          "filename": "1985.114_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1985.114/1985.114_print.jpg",
+          "width": "2744",
+          "height": "3400",
+          "filesize": "6681715",
+          "filename": "1985.114_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1985.114/1985.114_full.tif",
+          "width": "4335",
+          "height": "5371",
+          "filesize": "69888948",
+          "filename": "1985.114_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 152228,
+      "creators": [
+        {
+          "id": 23,
+          "description": "Eugène Atget (French, 1857–1927)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Eugène Atget French, 1857-1927\r\n\r\nRelatively unknown to the public during his lifetime, Eugène Atget is today an icon -- one of the most celebrated and influential photographers of the 20th century. Born near Bordeaux, Atget first directed his efforts to painting and the stage before turning to photography shortly before 1890. He is best known for his documentary scenes of Paris and Versailles, but he photographed a number of other sites as well. Atget viewed his work as a historical and aesthetic record, regarding it as documentation for use by artists. Indeed, several artists are known to have painted from his images.\r\n\tUsing relatively unsophisticated, even outdated equipment, Atget achieved a view of French architecture and culture that is both personal and factual. Along with the rediscovery of the images of Mathew Brady in the early 20th century, the recognition of Atget's artistic accomplishments shortly before his death by Berenice Abbott, Man Ray, and others helped turn photographers away from the mannered style of pictorialism toward the visual and technical clarity of modernism. Marked by a selective and highly individual method, his is among the most widely shown, published, and recognized work in photography today. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1857",
+          "death_year": "1927",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1985-08-27T00:00:00",
+      "sortable_date": 1904,
+      "date_added_to_oa": null,
+      "date_text": "1904",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:29.648000"
+    }
+  ]
+}

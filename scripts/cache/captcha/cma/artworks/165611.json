@@ -1,0 +1,165 @@
+{
+  "data": {
+    "id": 165611,
+    "accession_number": "2007.44",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Bauhaus Sculptural Study, c. 1927. Erich Consemüller (German, 1902–1957). Gelatin silver print; image: 10.6 x 7.6 cm (4 3/16 x 3 in.); paper: 10.9 x 8 cm (4 5/16 x 3 1/8 in.); mounted, primary: 14.7 x 10.5 cm (5 13/16 x 4 1/8 in.); mounted, secondary: 35.6 x 27.9 cm (14 x 11 in.). The Cleveland Museum of Art, John L. Severance Fund, 2007.44",
+    "current_location": null,
+    "title": "Bauhaus Sculptural Study",
+    "creation_date": "c. 1927",
+    "creation_date_earliest": 1922,
+    "creation_date_latest": 1932,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "Germany, 20th century"
+    ],
+    "technique": "gelatin silver print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - German 20th Century",
+    "type": "Photograph",
+    "measurements": "Image: 10.6 x 7.6 cm (4 3/16 x 3 in.); Paper: 10.9 x 8 cm (4 5/16 x 3 1/8 in.); Mounted, primary: 14.7 x 10.5 cm (5 13/16 x 4 1/8 in.); Mounted, secondary: 35.6 x 27.9 cm (14 x 11 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.106,
+        "width": 0.076
+      },
+      "paper": {
+        "height": 0.109,
+        "width": 0.08
+      },
+      "mounted, primary": {
+        "height": 0.147,
+        "width": 0.105
+      },
+      "mounted, secondary": {
+        "height": 0.356,
+        "width": 0.279
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Typed label on recto of mount: \"(24) #12/1. Mounted on black paper/2.Erich Consemüller (attributed on package and in box)/3.Sculptural study shot from below with Bauhaus building visible through design forming a complex abstraction/4.BF, p. 26, \"study c. 1927-Consemüller\"/5.Bauhaus student, self taught in photography/,produced fine/work, especially abstraction.\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 203169,
+          "title": "Forbidden Games: Surrealist and Modernist Photography",
+          "description": "<i>Forbidden Games: Surrealist and Modernist Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 19, 2014-January 11, 2015).",
+          "opening_date": "2014-10-19T00:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "(Edwynn Houk Gallery, New York, NY)",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": 1
+      },
+      {
+        "description": "Egidio Marzona [b.1944], Berlin",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": 2
+      },
+      {
+        "description": "David Raymond [b.1979], New York, NY",
+        "citations": [],
+        "footnotes": null,
+        "date": "2007",
+        "sortorder": 3
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "2007-",
+        "sortorder": 4
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "Consemüller, an architecture student at the Bauhaus, was hired to document the work, performances, and buildings at this revolutionary modernist German art school. Consemüller made an artistic rather than documentary image of this wooden sculptural model by another student. He had it held on its side so that its crossbars became diagonals, and set them against the rectilinear grid of the school’s windows. Two fragments of reality are merged here to create an abstraction about space, perspective, and light.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79994871"
+      ],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "Cleveland Museum of Art, Tom E. Hinson, Ian Walker, and Lisa Kurzner. Forbidden Games: Surrealist and Modernist Photography : the David Raymond Collection in the Cleveland Museum of Art. 2014.",
+        "page_number": "cat. no. 117, p. 165",
+        "url": null
+      },
+      {
+        "citation": "Fricke, Roswitha. Bauhaus Fotografie. [Düsseldorf]: Edition Marzona, 1982.",
+        "page_number": "p. 54",
+        "url": null
+      },
+      {
+        "citation": "Bauhaus. Bauhaus photography. Cambridge, Mass: MIT Press, 1985.",
+        "page_number": "p. 23",
+        "url": null
+      }
+    ],
+    "url": "https://clevelandart.org/art/2007.44",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "John L. Severance Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 165611,
+    "creators": [
+      {
+        "id": 55338,
+        "description": "Erich Consemüller (German, 1902–1957)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1902",
+        "death_year": "1957",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2007-02-26T00:00:00",
+    "sortable_date": 1922,
+    "date_added_to_oa": null,
+    "date_text": "c. 1927",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:07:13.351000"
+  }
+}

@@ -1,0 +1,2379 @@
+{
+  "info": {
+    "total": 114,
+    "parameters": {
+      "skip": 80,
+      "limit": 20,
+      "q": "bridge photograph",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,department,gallery,classification_type,collection",
+      "search": "bridge photograph"
+    }
+  },
+  "data": [
+    {
+      "id": 696993,
+      "accession_number": "2025.464",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Brooklyn Bridge, NY, 1947, printed later. Arthur Leipzig (American, 1918–2014). Gelatin silver print; image: 35.6 x 34.3 cm (14 x 13 1/2 in.); paper: 42.9 x 35.5 cm (16 7/8 x 14 in.). The Cleveland Museum of Art, Gift of George Stephanopoulos, 2025.464. © Arthur Leipzig",
+      "current_location": null,
+      "title": "Brooklyn Bridge, NY",
+      "creation_date": "1947, printed later",
+      "creation_date_earliest": 1947,
+      "creation_date_latest": 1947,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 35.6 x 34.3 cm (14 x 13 1/2 in.); Paper: 42.9 x 35.5 cm (16 7/8 x 14 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.356,
+          "width": 0.343
+        },
+        "paper": {
+          "height": 0.429,
+          "width": 0.355
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": "edition of 5",
+      "copyright": "© Arthur Leipzig",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"AL-NY-158.H.5\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Stamped in black ink on verso: \"An Arthur Leipzig Photo ©/378 Glen Avenue/Sea Cliff, N.Y. 11579/516-676-6016\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"Arthur Leipzig (signed)\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "George Stephanopoulos [1961–], New York, NY, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–2025",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 8, 2025–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2025.464",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George Stephanopoulos",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 696993,
+      "creators": [
+        {
+          "id": 696911,
+          "description": "Arthur Leipzig (American, 1918–2014)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "American photographer, born 1918",
+          "name_in_original_language": null,
+          "birth_year": "1918",
+          "death_year": "2014",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2025-12-08T05:00:00Z",
+      "sortable_date": 1947,
+      "date_added_to_oa": null,
+      "date_text": "1947, printed later",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 16:32:54.436000"
+    },
+    {
+      "id": 160335,
+      "accession_number": "1998.192",
+      "share_license_status": "CC0",
+      "tombstone": "Untitled (Bridge with Town in Distance), 1900s. 19th century. Albumen print from wet collodion negative; paper: 9.6 x 15.5 cm (3 3/4 x 6 1/8 in.). The Cleveland Museum of Art, Gift of Henry H. Hawley, 1998.192",
+      "current_location": null,
+      "title": "Untitled (Bridge with Town in Distance)",
+      "creation_date": "1900s",
+      "creation_date_earliest": 1900,
+      "creation_date_latest": 1940,
+      "artists_tags": [],
+      "culture": [
+        "19th century"
+      ],
+      "technique": "albumen print from wet collodion negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "measurements": "Paper: 9.6 x 15.5 cm (3 3/4 x 6 1/8 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.096,
+          "width": 0.155
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "written in pencil on verso: \"477 (?)=\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Henry H. Hawley [1934-2019], Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "November 23, 1998",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79981360"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1998.192",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1998.192/1998.192_web.jpg",
+          "width": "1263",
+          "height": "757",
+          "filesize": "662473",
+          "filename": "1998.192_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1998.192/1998.192_print.jpg",
+          "width": "3400",
+          "height": "2039",
+          "filesize": "4762201",
+          "filename": "1998.192_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1998.192/1998.192_full.tif",
+          "width": "5862",
+          "height": "3516",
+          "filesize": "61864068",
+          "filename": "1998.192_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1998.192/1998.192_alt0_web.jpg",
+            "width": "1263",
+            "height": "781",
+            "filesize": "694476"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1998.192/1998.192_alt0_print.jpg",
+            "width": "3400",
+            "height": "2103",
+            "filesize": "4663553"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1998.192/1998.192_alt0_full.tif",
+            "width": "5000",
+            "height": "3093",
+            "filesize": "46420852"
+          }
+        },
+        {
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1998.192/1998.192_alt1_web.jpg",
+            "width": "1263",
+            "height": "842",
+            "filesize": "735077"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1998.192/1998.192_alt1_print.jpg",
+            "width": "3400",
+            "height": "2266",
+            "filesize": "4496781"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1998.192/1998.192_alt1_full.tif",
+            "width": "5000",
+            "height": "3333",
+            "filesize": "50024148"
+          }
+        }
+      ],
+      "creditline": "Gift of Henry H. Hawley",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 160335,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1998-11-23T00:00:00",
+      "sortable_date": 1900,
+      "date_added_to_oa": null,
+      "date_text": "1900s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:25.196000"
+    },
+    {
+      "id": 155034,
+      "accession_number": "1989.585",
+      "share_license_status": "Copyrighted",
+      "tombstone": "View of the Flats, the Veterans Memorial Bridge, and Downtown Cleveland from an Apartment Building in Ohio City, 1988. Cervin Robinson (American, 1928–2022). Gelatin silver print; image: 26.7 x 34.6 cm (10 1/2 x 13 5/8 in.); paper: 27.8 x 35.6 cm (10 15/16 x 14 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, Funded by a grant from The Cleveland Foundation and the East Ohio Gas Company, 1989.585. © 1989 Cervin Robinson",
+      "current_location": null,
+      "title": "View of the Flats, the Veterans Memorial Bridge, and Downtown Cleveland from an Apartment Building in Ohio City",
+      "creation_date": "1988",
+      "creation_date_earliest": 1988,
+      "creation_date_latest": 1988,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 26.7 x 34.6 cm (10 1/2 x 13 5/8 in.); Paper: 27.8 x 35.6 cm (10 15/16 x 14 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.267,
+          "width": 0.346
+        },
+        "paper": {
+          "height": 0.278,
+          "width": 0.356
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© 1989 Cervin Robinson",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"J 528-8\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": [
+          {
+            "description": "CMA, Nov. 22, 1989 - Jan. 20, 1990: \"Cervin Robinson/Cleveland, Ohio,\" cat. p. 68 (not exhibited).",
+            "opening_date": "1989-11-22T00:00:00"
+          },
+          {
+            "description": "CMA, Feb. 6 - April 15, 1990: \"Year in Review 1989,\" CMA Bulletin, p. 68, no. 51 (not exhibited).",
+            "opening_date": "1990-02-06T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79942956"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 305",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1989.585",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Funded by a grant from The Cleveland Foundation and the East Ohio Gas Company",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 155034,
+      "creators": [
+        {
+          "id": 14005,
+          "description": "Cervin Robinson (American, 1928–2022)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Born May 18, 1928. Photographer, historian, and critic Cervin Robinson is considered one of the most distinguished American architectural scholars. Born in Boston to an architect and his wife, Robinson's interest in topography, perspective, and the cultural significance of cities and buildings developed at the encouragement of his father and grew during his two-year duty in the U.S. Army. After earning a B.A. in English literature from Harvard University (1950), he worked as an assistant to Walker Evans in New York (1953-57), an experience that further sparked his fascination with American architecture. Over the years he received numerous commissions from historical societies, the Library of Congress, architects and architectural magazines, and the film industry. Robinson's still photographs served as backdrops for Superman the Movie and Superman II. Robinson lectured and wrote regularly for various architectural and academic periodicals, and taught architectural photography at Columbia University. He received a fellowship from the John Simon Guggenheim Memorial Foundation (1971) and directed a project funded by the National Endowment for the Arts/New York State Council on the Arts (1978). In 1978 he was named a J. Clauson Mills Scholar. In 1989 the Cleveland Museum of Art organized Cervin Robinson: Cleveland, Ohio, an exhibition and catalogue of black-and-white views of the city commissioned by the museum. Robinson lived in New York. A. W.",
+          "name_in_original_language": null,
+          "birth_year": "1928",
+          "death_year": "2022",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1990-01-29T00:00:00",
+      "sortable_date": 1988,
+      "date_added_to_oa": null,
+      "date_text": "1988",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:47.204000"
+    },
+    {
+      "id": 154961,
+      "accession_number": "1989.519",
+      "share_license_status": "Copyrighted",
+      "tombstone": "\"Guardians of Traffic\" of Hope Memorial Bridge Looming above 2007 West 17th Street, 1987. Cervin Robinson (American, 1928–2022). Gelatin silver print; image: 26.9 x 34.5 cm (10 9/16 x 13 9/16 in.); paper: 27.9 x 35.4 cm (11 x 13 15/16 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, Funded by a grant from The Cleveland Foundation and the East Ohio Gas Company, 1989.519. © 1989 Cervin Robinson",
+      "current_location": null,
+      "title": "\"Guardians of Traffic\" of Hope Memorial Bridge Looming above 2007 West 17th Street",
+      "creation_date": "1987",
+      "creation_date_earliest": 1987,
+      "creation_date_latest": 1987,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 26.9 x 34.5 cm (10 9/16 x 13 9/16 in.); Paper: 27.9 x 35.4 cm (11 x 13 15/16 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.269,
+          "width": 0.345
+        },
+        "paper": {
+          "height": 0.279,
+          "width": 0.354
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© 1989 Cervin Robinson",
+      "inscriptions": [
+        {
+          "inscription": "Written in black ink on verso: \"C.R. I 101-5\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": [
+          {
+            "description": "CMA, Nov. 22, 1989 - Jan. 20, 1990: \"Cervin Robinson/Cleveland, Ohio,\" cat. p. 72.",
+            "opening_date": "1989-11-22T00:00:00"
+          },
+          {
+            "description": "CMA, Feb. 6 - April 15, 1990: \"Year in Review 1989,\" CMA Bulletin, p. 68, no. 51 (not exhibited).",
+            "opening_date": "1990-02-06T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79942780"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 289",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1989.519",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Funded by a grant from The Cleveland Foundation and the East Ohio Gas Company",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 154961,
+      "creators": [
+        {
+          "id": 14005,
+          "description": "Cervin Robinson (American, 1928–2022)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Born May 18, 1928. Photographer, historian, and critic Cervin Robinson is considered one of the most distinguished American architectural scholars. Born in Boston to an architect and his wife, Robinson's interest in topography, perspective, and the cultural significance of cities and buildings developed at the encouragement of his father and grew during his two-year duty in the U.S. Army. After earning a B.A. in English literature from Harvard University (1950), he worked as an assistant to Walker Evans in New York (1953-57), an experience that further sparked his fascination with American architecture. Over the years he received numerous commissions from historical societies, the Library of Congress, architects and architectural magazines, and the film industry. Robinson's still photographs served as backdrops for Superman the Movie and Superman II. Robinson lectured and wrote regularly for various architectural and academic periodicals, and taught architectural photography at Columbia University. He received a fellowship from the John Simon Guggenheim Memorial Foundation (1971) and directed a project funded by the National Endowment for the Arts/New York State Council on the Arts (1978). In 1978 he was named a J. Clauson Mills Scholar. In 1989 the Cleveland Museum of Art organized Cervin Robinson: Cleveland, Ohio, an exhibition and catalogue of black-and-white views of the city commissioned by the museum. Robinson lived in New York. A. W.",
+          "name_in_original_language": null,
+          "birth_year": "1928",
+          "death_year": "2022",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1990-01-29T00:00:00",
+      "sortable_date": 1987,
+      "date_added_to_oa": null,
+      "date_text": "1987",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:04:26.648000"
+    },
+    {
+      "id": 155035,
+      "accession_number": "1989.586",
+      "share_license_status": "Copyrighted",
+      "tombstone": "View of the Flats, the Veterans Memorial Bridge, and Downtown Cleveland from an Apartment Building in Ohio City, 1988. Cervin Robinson (American, 1928–2022). Gelatin silver print; image: 36 x 49.7 cm (14 3/16 x 19 9/16 in.); paper: 40.6 x 50.5 cm (16 x 19 7/8 in.); matted: 54.6 x 67.3 cm (21 1/2 x 26 1/2 in.). The Cleveland Museum of Art, Funded by a grant from The Cleveland Foundation and the East Ohio Gas Company, 1989.586. © 1989 Cervin Robinson",
+      "current_location": null,
+      "title": "View of the Flats, the Veterans Memorial Bridge, and Downtown Cleveland from an Apartment Building in Ohio City",
+      "creation_date": "1988",
+      "creation_date_earliest": 1988,
+      "creation_date_latest": 1988,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 36 x 49.7 cm (14 3/16 x 19 9/16 in.); Paper: 40.6 x 50.5 cm (16 x 19 7/8 in.); Matted: 54.6 x 67.3 cm (21 1/2 x 26 1/2 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.36,
+          "width": 0.497
+        },
+        "paper": {
+          "height": 0.406,
+          "width": 0.505
+        },
+        "matted": {
+          "height": 0.546,
+          "width": 0.673
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© 1989 Cervin Robinson",
+      "inscriptions": [
+        {
+          "inscription": "Written in black ink on verso: \"© Cervin Robinson 1989\"; in pencil: \"J 528-8\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": [
+          {
+            "description": "CMA, Nov. 22, 1989 - Jan. 20, 1990: \"Cervin Robinson/Cleveland, Ohio,\" cat. p. 68.",
+            "opening_date": "1989-11-22T00:00:00"
+          },
+          {
+            "description": "CMA, Feb. 6 - April 15, 1990: \"Year in Review 1989,\" CMA Bulletin, p. 68, no. 51 (not exhibited).",
+            "opening_date": "1990-02-06T00:00:00"
+          },
+          {
+            "description": "Lakewood, Ohio. The Beck Center for Cultural Arts, July 15 - August 12, 1990: \"American Cities: The Artist's View, no exhibition catalogue.",
+            "opening_date": "1990-07-15T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79942960"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1989.586",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Funded by a grant from The Cleveland Foundation and the East Ohio Gas Company",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 155035,
+      "creators": [
+        {
+          "id": 14005,
+          "description": "Cervin Robinson (American, 1928–2022)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Born May 18, 1928. Photographer, historian, and critic Cervin Robinson is considered one of the most distinguished American architectural scholars. Born in Boston to an architect and his wife, Robinson's interest in topography, perspective, and the cultural significance of cities and buildings developed at the encouragement of his father and grew during his two-year duty in the U.S. Army. After earning a B.A. in English literature from Harvard University (1950), he worked as an assistant to Walker Evans in New York (1953-57), an experience that further sparked his fascination with American architecture. Over the years he received numerous commissions from historical societies, the Library of Congress, architects and architectural magazines, and the film industry. Robinson's still photographs served as backdrops for Superman the Movie and Superman II. Robinson lectured and wrote regularly for various architectural and academic periodicals, and taught architectural photography at Columbia University. He received a fellowship from the John Simon Guggenheim Memorial Foundation (1971) and directed a project funded by the National Endowment for the Arts/New York State Council on the Arts (1978). In 1978 he was named a J. Clauson Mills Scholar. In 1989 the Cleveland Museum of Art organized Cervin Robinson: Cleveland, Ohio, an exhibition and catalogue of black-and-white views of the city commissioned by the museum. Robinson lived in New York. A. W.",
+          "name_in_original_language": null,
+          "birth_year": "1928",
+          "death_year": "2022",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1990-01-29T00:00:00",
+      "sortable_date": 1988,
+      "date_added_to_oa": null,
+      "date_text": "1988",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:04:42.632000"
+    },
+    {
+      "id": 439498,
+      "accession_number": "2021.40",
+      "share_license_status": "CC0",
+      "tombstone": "Périgueux. The Tournepiche Bridge, upstream side, 1860. Édouard Baldus (French, 1813–1889). Albumenized salt print from a paper negative; image: 32.4 x 42.5 cm (12 3/4 x 16 3/4 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 2021.40",
+      "current_location": null,
+      "title": "Périgueux. The Tournepiche Bridge, upstream side",
+      "creation_date": "1860",
+      "creation_date_earliest": 1860,
+      "creation_date_latest": 1860,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France"
+      ],
+      "technique": "albumenized salt print from a paper negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - French 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 32.4 x 42.5 cm (12 3/4 x 16 3/4 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.324,
+          "width": 0.425
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Michael Mattis and Judith Hochberg, Scarsdale, NY",
+          "citations": [],
+          "footnotes": null,
+          "date": "?-2021",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "June 7, 2021",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q107378551"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2021.40-perigeux-the-tournep"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2021.40",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2021.40/2021.40_web.jpg",
+          "width": "900",
+          "height": "689",
+          "filesize": "297372",
+          "filename": "2021.40_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2021.40/2021.40_print.jpg",
+          "width": "3400",
+          "height": "2604",
+          "filesize": "3633985",
+          "filename": "2021.40_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2021.40/2021.40_full.tif",
+          "width": "8131",
+          "height": "6227",
+          "filesize": "151922902",
+          "filename": "2021.40_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2021-06-23T13:27:57",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.40/2021.40_alt0_web.jpg",
+            "width": "900",
+            "height": "689",
+            "filesize": "155491"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.40/2021.40_alt0_print.jpg",
+            "width": "3400",
+            "height": "2604",
+            "filesize": "2206116"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.40/2021.40_alt0_full.tif",
+            "width": "8132",
+            "height": "6228",
+            "filesize": "151961702"
+          }
+        }
+      ],
+      "creditline": "Purchase from the J. H. Wade Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 439498,
+      "creators": [
+        {
+          "id": 214,
+          "description": "Édouard Baldus (French, 1813–1889)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Édouard Baldus French, b. Prussia, 1813 - 1889\r\n\r\nThe large and regal prints made by Édouard-Denis Baldus are widely agreed to be among the finest photographic images ever produced. After serving as an artillery officer in the Prussian army, Baldus left his native country for France during the 1830s to become a painter. He exhibited his paintings of religious subjects, portraits, and genre scenes in the Paris Salons from 1841 - 51 and was naturalized as a French citizen in 1849, the same year his interests turned to photography.\r\n\tCombining his training in painting with an inquisitive, inventive technical expertise, Baldus produced a body of work of exceptional quality and interest. His subjects included architecture, landscape, and engineering feats. In 1851 the Commission des monuments historiques selected him for the Missions héliographique—a government project that sponsored the photographing of endangered classical and medieval architecture in France. For this important series Baldus produced views of Burgundy, Provence, and the Dauphiné, and the following year he completed a commission for the Ministry of the Interior. In 1855 he began his photography of railroads, some of his most distinctive work. A copy of his album recording the line between Paris and Boulogne was presented to Queen Victoria. He also documented the flooding of the Rhone, as well as construction of the new Louvre and other Paris views.\r\n\tA founding member of the Société héliographique and a member of the Société française de photographie (1857), Baldus exhibited his photographs widely in London, Amsterdam, Edinburgh, Brussels, and Paris and won numerous medals of award. A master printer, he produced combination prints in the early 1850s, frequently retouching his images with pencil and ink. His best work appears most often in specially assembled albums -- such as Les principaux Monuments de la France reproduits en héliogravure par E. Baldus, published in 1875 from plates drawn from earlier negatives. Today, his work continues to be much sought after and to set a standard by which other photographers are judged. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1813",
+          "death_year": "1889",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2021-06-07T04:00:00Z",
+      "sortable_date": 1860,
+      "date_added_to_oa": null,
+      "date_text": "1860",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:15.238000"
+    },
+    {
+      "id": 166001,
+      "accession_number": "2008.123.38",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Under the Hope Memorial Bridge, The Flats, 2002. Andrew Borowiec (American, b. 1956). Gelatin silver print; image: 32.3 x 47.8 cm (12 11/16 x 18 13/16 in.); paper: 40.5 x 50.4 cm (15 15/16 x 19 13/16 in.). The Cleveland Museum of Art, Gift of Mark Schwartz and Bettina Katz in honor of James and Hanna Bartlett, 2008.123.38. © Andrew Borowiec 2008",
+      "current_location": null,
+      "title": "Under the Hope Memorial Bridge, The Flats",
+      "creation_date": "2002",
+      "creation_date_earliest": 2002,
+      "creation_date_latest": 2002,
+      "artists_tags": [
+        "May Show",
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 32.3 x 47.8 cm (12 11/16 x 18 13/16 in.); Paper: 40.5 x 50.4 cm (15 15/16 x 19 13/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.323,
+          "width": 0.478
+        },
+        "paper": {
+          "height": 0.405,
+          "width": 0.504
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Andrew Borowiec 2008",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79995685"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2008.123.38",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Mark Schwartz and Bettina Katz in honor of James and Hanna Bartlett",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 166001,
+      "creators": [
+        {
+          "id": 34186,
+          "description": "Andrew Borowiec (American, b. 1956)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Andrew Borowiec American, 1956- Andrew Borowiec is a photographer, educator, and arts administrator. His black-and-white photographs of factory towns in the Ohio River Valley, a series that he has worked on extensively since the early 1990s, reveal an uneasy coexistence between residential and industrial sites, and between humans and their environment. Borowiec cites as influences the geographical writings of J. B. Jackson and the philosophies of photographer Frank Gohlke, with whom he studied in the early 1980s while a graduate student at Yale University School of Art. Born in New York City, Borowiec attended high school at the École Internationale in Geneva, Switzerland, and moved back across the Atlantic to earn a B.A. in Russian from Haverford College (1979). That same year, he took a workshop with Garry Winogrand at the International Center of Photography, where he also worked as a staff photographer (1979-80). Borowiec received his M.F.A. from Yale (1982); in addition to Gohlke, his teachers included Richard Benson, Jan Groover, Ben Lifson, and Tod Papageorge. In 1980 Borowiec served as assistant director of the Workshop Program for the Rencontres Internationales de la Photographie in Arles, France. Throughout his career he has completed various commissions for academic periodicals as well as civic and cultural institutions. Borowiec has held faculty positions at the New School for Social Research (1982-84), Parsons School of Design (1983-84), and Oberlin College (1990). His numerous awards include fellowships from the National Endowment for the Arts (1985, 1988) and the Folk Endowment Grant (1993). Since 1984 he has taught at the University of Akron School of Art. A.W.<br>Biographical information exists in the Cleveland Museum of Art Archives.",
+          "name_in_original_language": null,
+          "birth_year": "1956",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2008-09-02T00:00:00",
+      "sortable_date": 2002,
+      "date_added_to_oa": null,
+      "date_text": "2002",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2008.123",
+      "is_nazi_era_provenance": false,
+      "impression": "2",
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:04:59.614000"
+    },
+    {
+      "id": 291513,
+      "accession_number": "2016.537",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Grandma Moses, Eagle Bridge, New York, 1956. Arthur Rothstein (American, 1915–1985). Gelatin silver print, printed later; image: 19.3 x 19.1 cm (7 5/8 x 7 1/2 in.); paper: 23.5 x 20.3 cm (9 1/4 x 8 in.). The Cleveland Museum of Art, Gift of George Stephanopoulos, 2016.537",
+      "current_location": null,
+      "title": "Grandma Moses, Eagle Bridge, New York",
+      "creation_date": "1956",
+      "creation_date_earliest": 1956,
+      "creation_date_latest": 1956,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print, printed later",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 19.3 x 19.1 cm (7 5/8 x 7 1/2 in.); Paper: 23.5 x 20.3 cm (9 1/4 x 8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.193,
+          "width": 0.191
+        },
+        "paper": {
+          "height": 0.235,
+          "width": 0.203
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “AR 493.2 1200”\nWritten in pencil on verso: “Pls return to Jean, Features”\nWritten in black crayon on verso: “FOR REPRODUCTION ONLY”\nStamped in black ink on verso: “Photo By/ARTHUR ROTHSTEIN”\nWritten in pencil on verso: “Year?”\nWritten in pencil on verso: “in 1950s/90 at time/primitive parties/upstate N.Y.”\nStamped in black ink on verso: “ARTHUR ROTHSTEIN/PHOTOGRAPH/from the collection of/GRACE ROTHSTEIN”\nWritten in pencil on verso: “Grandma Moses/1952”\nWritten in pencil on verso: “C-7/15 MULT ½ <15.038>”\nStamped in black ink on verso: “ARTHUR ROTHSTEIN/PARADE/750 THIRD AVENUE/NEW YORK, N.Y. 10017/(212) 573-7180”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79865012"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2016.537",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George Stephanopoulos",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 291513,
+      "creators": [
+        {
+          "id": 291504,
+          "description": "Arthur Rothstein (American, 1915–1985)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "American photographer, 1915-1985",
+          "name_in_original_language": null,
+          "birth_year": "1915",
+          "death_year": "1985",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2016-12-05T00:00:00-05:00",
+      "sortable_date": 1956,
+      "date_added_to_oa": null,
+      "date_text": "1956",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:41.523000"
+    },
+    {
+      "id": 162567,
+      "accession_number": "2003.195.c",
+      "share_license_status": "Copyrighted",
+      "tombstone": "From Control Tower near Carter Road Bridge, 1991. Lois Conner (American, b. 1951). Platinum print; overall: 16.6 x 126 cm (6 9/16 x 49 5/8 in.); each: 16.6 x 42 cm (6 9/16 x 16 9/16 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, The Cleveland Museum of Art, 2003.195.c",
+      "current_location": null,
+      "title": "From Control Tower near Carter Road Bridge",
+      "creation_date": "1991",
+      "creation_date_earliest": 1991,
+      "creation_date_latest": 1991,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "platinum print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Overall: 16.6 x 126 cm (6 9/16 x 49 5/8 in.); Each: 16.6 x 42 cm (6 9/16 x 16 9/16 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.166,
+          "width": 1.26
+        },
+        "each": {
+          "height": 0.166,
+          "width": 0.42
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "The George Gund Foundation Collection",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79987216"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2003.195.c",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The George Gund Foundation Collection in honor of David Bergholz, The Cleveland Museum of Art",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 162567,
+      "creators": [
+        {
+          "id": 42873,
+          "description": "Lois Conner (American, b. 1951)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1951",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2003-09-02T00:00:00",
+      "sortable_date": 1991,
+      "date_added_to_oa": null,
+      "date_text": "1991",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2003.195",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:04:34.839000"
+    },
+    {
+      "id": 165986,
+      "accession_number": "2008.123.24",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Under the Veteran's Memorial Bridge, The Flats, 2002. Andrew Borowiec (American, b. 1956). Gelatin silver print; image: 32.5 x 47.8 cm (12 13/16 x 18 13/16 in.); paper: 40.3 x 50.3 cm (15 7/8 x 19 13/16 in.). The Cleveland Museum of Art, Gift of Mark Schwartz and Bettina Katz in honor of James and Hanna Bartlett, 2008.123.24. © Andrew Borowiec 2008",
+      "current_location": null,
+      "title": "Under the Veteran's Memorial Bridge, The Flats",
+      "creation_date": "2002",
+      "creation_date_earliest": 2002,
+      "creation_date_latest": 2002,
+      "artists_tags": [
+        "May Show",
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 32.5 x 47.8 cm (12 13/16 x 18 13/16 in.); Paper: 40.3 x 50.3 cm (15 7/8 x 19 13/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.325,
+          "width": 0.478
+        },
+        "paper": {
+          "height": 0.403,
+          "width": 0.503
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Andrew Borowiec 2008",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79995653"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2008.123.24",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Mark Schwartz and Bettina Katz in honor of James and Hanna Bartlett",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 165986,
+      "creators": [
+        {
+          "id": 34186,
+          "description": "Andrew Borowiec (American, b. 1956)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Andrew Borowiec American, 1956- Andrew Borowiec is a photographer, educator, and arts administrator. His black-and-white photographs of factory towns in the Ohio River Valley, a series that he has worked on extensively since the early 1990s, reveal an uneasy coexistence between residential and industrial sites, and between humans and their environment. Borowiec cites as influences the geographical writings of J. B. Jackson and the philosophies of photographer Frank Gohlke, with whom he studied in the early 1980s while a graduate student at Yale University School of Art. Born in New York City, Borowiec attended high school at the École Internationale in Geneva, Switzerland, and moved back across the Atlantic to earn a B.A. in Russian from Haverford College (1979). That same year, he took a workshop with Garry Winogrand at the International Center of Photography, where he also worked as a staff photographer (1979-80). Borowiec received his M.F.A. from Yale (1982); in addition to Gohlke, his teachers included Richard Benson, Jan Groover, Ben Lifson, and Tod Papageorge. In 1980 Borowiec served as assistant director of the Workshop Program for the Rencontres Internationales de la Photographie in Arles, France. Throughout his career he has completed various commissions for academic periodicals as well as civic and cultural institutions. Borowiec has held faculty positions at the New School for Social Research (1982-84), Parsons School of Design (1983-84), and Oberlin College (1990). His numerous awards include fellowships from the National Endowment for the Arts (1985, 1988) and the Folk Endowment Grant (1993). Since 1984 he has taught at the University of Akron School of Art. A.W.<br>Biographical information exists in the Cleveland Museum of Art Archives.",
+          "name_in_original_language": null,
+          "birth_year": "1956",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2008-09-02T00:00:00",
+      "sortable_date": 2002,
+      "date_added_to_oa": null,
+      "date_text": "2002",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2008.123",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-29 12:04:29.251000"
+    },
+    {
+      "id": 697956,
+      "accession_number": "2025.268.10",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Tree #28, 1964–65, printed 1969. George A. Tice (American, 1938–2025). Gelatin silver print; sheet: 35.5 x 28.1 cm (14 x 11 1/16 in.); image: 12.7 x 11.2 cm (5 x 4 7/16 in.). The Cleveland Museum of Art, Gift of Diana S. Tittle in memory of Tom E. Hinson, 2025.268.10",
+      "current_location": null,
+      "title": "Tree #28",
+      "creation_date": "1964–65, printed 1969",
+      "creation_date_earliest": 1964,
+      "creation_date_latest": 1965,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Sheet: 35.5 x 28.1 cm (14 x 11 1/16 in.); Image: 12.7 x 11.2 cm (5 x 4 7/16 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.355,
+          "width": 0.281
+        },
+        "image": {
+          "height": 0.127,
+          "width": 0.112
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": "Edition 42/50",
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "George Tice was a master at revealing interest and beauty in mundane aspects of the landscape and built environment.",
+      "description": "In 2014, Diana S. Tittle and her husband, Tom Hinson, who served the museum for 38 years in various curatorial capacities and concluded his career as its first curator of photography, offered the museum the opportunity to select works from their personal collection for donation over the ensuing years. This year the museum is receiving the final group of five works by four artists—individual prints by Margaret Bourke-White, William Clift, and Aaron Siskind, and a twelve-print portfolio by George Tice. While photographs by these artists are already owned by the museum, these additional works will enrich and broaden our holdings of their work. These images represent several different “straight” approaches to photography. Bourke-White, the poet of industrial Cleveland, juxtaposes a pale Terminal Tower rising in the distant mist with the dark, lacy geometry of a bridge’s ironwork in this 1927–29 view. The artist sent small-scale prints like this to her friends as holiday cards, evoking through composition the grandeur and spirit of this rising city. The museum currently owns two such intimate prints, one a different view of the Terminal Tower and the other a scene of the downtown skyline hovering in the distance over Lake Erie waves. William Clift, renowned for his architectural and landscape views, is represented by a pair of inspiring views: one of Mont St. Michel, a tidal island in France capped by a medieval abbey, and one of Shiprock, a barren, isolated peak rising 1,583 feet above the desert in New Mexico. Clift published a book of his views of these two sites, one mountain shaped by human endeavor and the other left as nature shaped it. Aaron Siskind turned fragments of city walls into vehicles for personal expression and artistic experimentation. <em>Chicago 13 </em>(1952) presents a set of geometric forms that are parallel to the picture plane. While rooted in function, they verge on abstraction. He plays with the range of scale, contrasting the small horizontal bricks with the larger vertical doorways. Capping the left side is an incongruous, decorative white arch which further emphasizes the quirky nature of Siskind’s composition. Like Bourke-White, Clift, and Siskind, George Tice was a master at revealing interest and beauty in mundane aspects of the landscape and built environment. He issued the <em>Trees</em> portfolio shortly after he teamed up with Lee Witkin to establish the Witkin Gallery in New York, one of the early art galleries devoted exclusively to photography. These 12 images showing trees are more portraits than landscapes: they evoke the individuality and majesty of each plant. These gifts from Diana Tittle add to the museum’s narrative of the story of art history with works by significant artists. They also reflect an important segment of the museum’s institutional history: they were selected and adored by the individual who was formative in shaping the CMA’s photography collection.",
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2025.268.10",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Diana S. Tittle in memory of Tom E. Hinson",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 697956,
+      "creators": [
+        {
+          "id": 1017,
+          "description": "George A. Tice (American, 1938–2025)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "George A. Tice American (1938–2025). Self-taught in photography, George Andrew Tice came to national recognition in 1959 when Edward Steichen, then director of the department of photography at the Museum of Modern Art, New York, bought Tice's image of an explosion aboard the U.S.S. Wasp for the museum's collection. The exchange began a mentor/protégé relationship between the two men that would last for several years. Although assigning a particular style or theme to Tice's straight black-and-white photographs is difficult, a continued interest in the vernacular landscape and history of small-town and city life is evident. His study of Paterson, New Jersey, reveals his fascination with urban icons, often printed in low-key tonal ranges to evoke mood. Projects addressing these themes have included Urban Landscapes: A New Jersey Portrait (1975), Seacoast Maine: People and Places (1973), Lincoln (1984), Hometowns, An American Pilgrimage (1988), and Stone Walls, Grey Skies: A Vision of Yorkshire (1991). Tice also finds inspiration in individuals who retain strong ties to their communities. His portraits of the Amish in Fields of Peace: A Pennsylvania-German Album (1970) and his extended essay on Artie Van Blarcum (1977) reflect these concerns. In 1994 Tice began work on Ticetown, a project that has involved tracing his Dutch ancestors, who arrived in New York in 1663 and then migrated to New Jersey. Tice (born in Newark, New Jersey) studied commercial photography at Newark Vocational and Technical High School (1955). He has received fellowships from the National Endowment for the Arts (1973) and the John Simon Guggenheim Memorial Foundation (1973), and a joint fellowship from England's National Museum of Photography, Film, and Television/Bradford and Ilkley Community College (1990-91). Tice lives in Iselin, New Jersey. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1938",
+          "death_year": "2025",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2025-12-08T05:00:00Z",
+      "sortable_date": 1964,
+      "date_added_to_oa": null,
+      "date_text": "1964–65, printed 1969",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2025.268",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:22.701000"
+    },
+    {
+      "id": 162564,
+      "accession_number": "2003.195",
+      "share_license_status": "Copyrighted",
+      "tombstone": "From Control Tower near Carter Road Bridge, 1991. Lois Conner (American, b. 1951). Platinum print, triptych; overall: 16.6 x 126 cm (6 9/16 x 49 5/8 in.); each: 16.6 x 42 cm (6 9/16 x 16 9/16 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, The Cleveland Museum of Art, 2003.195",
+      "current_location": null,
+      "title": "From Control Tower near Carter Road Bridge",
+      "creation_date": "1991",
+      "creation_date_earliest": 1991,
+      "creation_date_latest": 1991,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "platinum print, triptych",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Overall: 16.6 x 126 cm (6 9/16 x 49 5/8 in.); Each: 16.6 x 42 cm (6 9/16 x 16 9/16 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.166,
+          "width": 1.26
+        },
+        "each": {
+          "height": 0.166,
+          "width": 0.42
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "The George Gund Foundation Collection",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79987210"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2003.195",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The George Gund Foundation Collection in honor of David Bergholz, The Cleveland Museum of Art",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 162564,
+      "creators": [
+        {
+          "id": 42873,
+          "description": "Lois Conner (American, b. 1951)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1951",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2003-09-02T00:00:00",
+      "sortable_date": 1991,
+      "date_added_to_oa": null,
+      "date_text": "1991",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "cover",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:39.185000"
+    },
+    {
+      "id": 162566,
+      "accession_number": "2003.195.b",
+      "share_license_status": "Copyrighted",
+      "tombstone": "From Control Tower near Carter Road Bridge, 1991. Lois Conner (American, b. 1951). Platinum print; overall: 16.6 x 126 cm (6 9/16 x 49 5/8 in.); each: 16.6 x 42 cm (6 9/16 x 16 9/16 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, The Cleveland Museum of Art, 2003.195.b",
+      "current_location": null,
+      "title": "From Control Tower near Carter Road Bridge",
+      "creation_date": "1991",
+      "creation_date_earliest": 1991,
+      "creation_date_latest": 1991,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "platinum print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Overall: 16.6 x 126 cm (6 9/16 x 49 5/8 in.); Each: 16.6 x 42 cm (6 9/16 x 16 9/16 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.166,
+          "width": 1.26
+        },
+        "each": {
+          "height": 0.166,
+          "width": 0.42
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "The George Gund Foundation Collection",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79987214"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2003.195.b",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The George Gund Foundation Collection in honor of David Bergholz, The Cleveland Museum of Art",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 162566,
+      "creators": [
+        {
+          "id": 42873,
+          "description": "Lois Conner (American, b. 1951)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1951",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2003-09-02T00:00:00",
+      "sortable_date": 1991,
+      "date_added_to_oa": null,
+      "date_text": "1991",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2003.195",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:03.139000"
+    },
+    {
+      "id": 286688,
+      "accession_number": "2016.61",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Tires in the Flats, View from Eagle Street Bridge, 1993. Penny Rakoff (American, b. 1951). Chromogenic print; image: 93.9 x 76.2 cm (36 15/16 x 30 in.); framed: 119.3 x 99 cm (46 15/16 x 39 in.). The Cleveland Museum of Art, Gift of Eli Becker, 2016.61, Gift of Eli Becker",
+      "current_location": null,
+      "title": "Tires in the Flats, View from Eagle Street Bridge",
+      "creation_date": "1993",
+      "creation_date_earliest": 1993,
+      "creation_date_latest": 1993,
+      "artists_tags": [
+        "May Show",
+        "female",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "Chromogenic print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 93.9 x 76.2 cm (36 15/16 x 30 in.); Framed: 119.3 x 99 cm (46 15/16 x 39 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.939,
+          "width": 0.762
+        },
+        "framed": {
+          "height": 1.193,
+          "width": 0.99
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "No visible inscriptions could be located while the work is still framed",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79860467"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2016.61",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Eli Becker",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 286688,
+      "creators": [
+        {
+          "id": 802,
+          "description": "Penny Rakoff (American, b. 1951)",
+          "extent": null,
+          "qualifier": null,
+          "role": null,
+          "biography": "Penny Rakoff American, 1951- An astute understanding of color and light characterizes the images of Penny Rakoff. Trained in painting at the University of Michigan, Rakoff has translated her interest in color theory and composition to her photographic work. By controlling and manipulating natural and artificial light in extended night-time exposures, she conjures spectral, often surreal displays from otherwise banal subject matter. For Color Pleasures of Miami, her earliest body of photographs in this vein (1978), Rakoff traveled the Florida city and its suburbs. The preponderance of illuminated palm trees, lawn ornaments, and glowing swimming pools proved an environment well suited to her concerns. She has continued to explore the fabricated nature of American culture in Akron Landscapes, seeking out residential and industrial sites to photograph at night in her trademark aurora of lights. Rakoff was born in New York City and raised on Long Island. After earning her B.F.A. from the University of Michigan (1973), she pursued photography at the Rochester Institute of Technology (M.F.A., 1976) and with Nathan Lyons at the Visual Studies Workshop, Rochester (1978). After teaching for a year at the State University of New York College at Oswego, in 1978 Rakoff relocated to Ohio to accept a position at the University of Akron, where she continues to teach. She is the recipient of awards from the Ohio Arts Council (1981, 1982, 1986, 1988, 1994) and from the Cleveland Museum of Art for her entries in the museum's regional juried exhibition, the May Show (1984, 1987). In recent years, Rakoff has also turned her attention to the production of public art and installations. She lives in Cleveland. A.W.<br>Biographical information exists in the Cleveland Museum of Art Archives.",
+          "name_in_original_language": null,
+          "birth_year": "1951",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 0
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2016-09-06T00:00:00-04:00",
+      "sortable_date": 1993,
+      "date_added_to_oa": null,
+      "date_text": "1993",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:05:19.687000"
+    },
+    {
+      "id": 161648,
+      "accession_number": "2000.26",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Skyline, 1928. Arnold Rönnebeck (American, 1885–1947). Lithograph; sheet: 28.8 x 40.3 cm (11 5/16 x 15 7/8 in.); image: 22.5 x 35 cm (8 7/8 x 13 3/4 in.). The Cleveland Museum of Art, John L. Severance Fund, 2000.26",
+      "current_location": null,
+      "title": "Skyline",
+      "creation_date": "1928",
+      "creation_date_earliest": 1928,
+      "creation_date_latest": 1928,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "lithograph",
+      "support_materials": [
+        {
+          "description": "wove paper",
+          "watermarks": []
+        }
+      ],
+      "department": "Prints",
+      "collection": "PR - Lithograph",
+      "type": "Print",
+      "measurements": "Sheet: 28.8 x 40.3 cm (11 5/16 x 15 7/8 in.); Image: 22.5 x 35 cm (8 7/8 x 13 3/4 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.288,
+          "width": 0.403
+        },
+        "image": {
+          "height": 0.225,
+          "width": 0.35
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "signed and dated in graphite, lower right: Arnold Rönnebeck, 1928; titled in graphite, lower left: Skyline",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Originally from Germany, Rönnebeck moved to New York in 1924, where he gravitated to the circle of photographer Alfred Stieglitz (1864–1946). Like so many Europeans, Rönnebeck was struck by the spectacle of New York's transformation into a major urban metropolis. \"My artistic emotion at the 'phantastic' reality of America was beyond all expectations,\" he declared, \"New York is Living Cubism.\" Trained as an architect, Rönnebeck took many panoramic photographs of Manhattan as preliminary studies for a series of lithographs depicting the city he found so dynamic and intriguing. <em>Skyline</em> captures an alluring view of the city at night, as seen from across the East River and bisected by the Brooklyn Bridge with its lights represented as glowing orbs.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79984636"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2000.26",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 161648,
+      "creators": [
+        {
+          "id": 38382,
+          "description": "Arnold Rönnebeck (American, 1885–1947)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1885",
+          "death_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2000-06-05T00:00:00",
+      "sortable_date": 1928,
+      "date_added_to_oa": null,
+      "date_text": "1928",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Manhattan"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:08.083000"
+    },
+    {
+      "id": 169386,
+      "accession_number": "2011.237",
+      "share_license_status": "Copyrighted",
+      "tombstone": "The Destruction of Lower Manhattan: The Brooklyn Bridge Site Seen From the Roof of the Beekman Hospital , 1966–67. Danny Lyon (American, 1942-). Gelatin silver print; image: 24.4 x 31.4 cm (9 5/8 x 12 3/8 in.); paper: 27.8 x 35.5 cm (10 15/16 x 14 in.); matted: 45.7 x 55.9 cm (18 x 22 in.). The Cleveland Museum of Art, Gift of George Stephanopoulos, 2011.237",
+      "current_location": null,
+      "title": "The Brooklyn Bridge Site Seen From the Roof of the Beekman Hospital ",
+      "series": "The Destruction of Lower Manhattan",
+      "creation_date": "1966–67",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1967,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 24.4 x 31.4 cm (9 5/8 x 12 3/8 in.); Paper: 27.8 x 35.5 cm (10 15/16 x 14 in.); Matted: 45.7 x 55.9 cm (18 x 22 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.244,
+          "width": 0.314
+        },
+        "paper": {
+          "height": 0.278,
+          "width": 0.355
+        },
+        "matted": {
+          "height": 0.457,
+          "width": 0.559
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Signed, titled and dated on verso; artist's \"Bleak Beauty\" stamp also on verso",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "George Stephanopoulos",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80076628"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2011.237",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George Stephanopoulos",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 169386,
+      "creators": [
+        {
+          "id": 601,
+          "description": "Danny Lyon (American, 1942-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Danny Lyon American, 1942- Danny Lyon (born in Brooklyn) came to attention in the 1960s as a social documentary photographer whose sympathies with his subjects often grew from personal involvement in their causes. While studying history at the University of Chicago (B.A., 1963), he joined the Student Non-Violent Coordinating Committee and served as the group's photographer. Since 1967 he has been an associate for the magnum photo agency and made extensive photo essays in the late 1960s-70s on the civil rights movement (The Movement, 1964), the Chicago Outlaws Motorcycle Club, of which he was a member (The Bikeriders, 1968), the demolition of historic 19th-century buildings in New York City (The Destruction of Lower Manhattan, 1969), and Texas prisons (Conversations with the Dead, 1971). For that series, Lyon included with his black-and-white photographs excerpts from handwritten letters, drawings, police reports, and telegrams. In 1977 the U.S. Justice Department used his images in a landmark legal case (Ruiz vs. Estelle) to improve conditions in prisons throughout Texas. Since the 1980s, Lyon has traveled to Colombia to photograph street children and prostitutes (The Paper Negative, 1980) and to Haiti to cover the events leading up to the collapse of the Duvalier regime in 1986. His own family has also become a continued subject of his work. Parallel to his photography, Lyon has made numerous films that are shown regularly in universities across the United States: Social Sciences 127 (1969), Llanito (1971), El Mojado (1973), Los Niños Abandonados (1975), Dear Mark (1975-80), Little Boy (1977), Willie (1986-87), and Media Man (c. 1993). He has published his own works since 1988 under the imprint Bleak Beauty Books, in collaboration with his wife, Nancy Lyon, and Michael Hausman. Lyon has also taught nonfiction film at the State University of New York at Buffalo (1986) and at Columbia University (1987-90). Among his honors are fellowships from the John Simon Guggenheim Memorial Foundation (1969, 1979) and the Rockefeller Foundation (1990). He has had one-person exhibitions at the Art Institute of Chicago (1966, 1969), the Newport Harbor Art Museum in California (1973), and the Philadelphia Museum of Art (1982). In 1991 a retrospective, Danny Lyon Photo Film, with accompanying catalogue, traveled internationally. Lyon lives in Clintondale, New York. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1942",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2011-12-05T00:00:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–67",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:05:08.978000"
+    },
+    {
+      "id": 368023,
+      "accession_number": "2019.170.35",
+      "share_license_status": "CC0",
+      "tombstone": "Lucknow After the Siege: The Muchee Bhawan Fort and the Gomti River Taken from the Stone Bridge, 1858. Felice A. Beato (British, 1830–1906). Albumen print; image: 25.4 x 30.5 cm (10 x 12 in.). The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund, 2019.170.35",
+      "current_location": null,
+      "title": "The Muchee Bhawan Fort and the Gomti River Taken from the Stone Bridge",
+      "series": "Lucknow After the Siege",
+      "creation_date": "1858",
+      "creation_date_earliest": 1858,
+      "creation_date_latest": 1858,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 25.4 x 30.5 cm (10 x 12 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.254,
+          "width": 0.305
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Sir William Russell, 2nd Baronet",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "Christie's, London, United Kingdom",
+          "citations": [],
+          "footnotes": null,
+          "date": "October 20, 1993",
+          "sortorder": 2
+        },
+        {
+          "description": "Christie's, London, United Kingdom",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 27, 2001",
+          "sortorder": 3
+        },
+        {
+          "description": "Private Collection, United Kingdom",
+          "citations": [],
+          "footnotes": null,
+          "date": "2001-2019",
+          "sortorder": 4
+        },
+        {
+          "description": "Prahlad Bubbar Indian and Islamic Art, London, United Kingdom",
+          "citations": [],
+          "footnotes": null,
+          "date": "2019",
+          "sortorder": 5
+        },
+        {
+          "description": "the Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 9, 2019",
+          "sortorder": 6
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79878178"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2019.170.35-the-muchee-bhawan-fo"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2019.170.35",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.170.35/2019.170.35_web.jpg",
+          "width": "900",
+          "height": "665",
+          "filesize": "264009",
+          "filename": "2019.170.35_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.170.35/2019.170.35_print.jpg",
+          "width": "3400",
+          "height": "2512",
+          "filesize": "3383631",
+          "filename": "2019.170.35_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.170.35/2019.170.35_full.tif",
+          "width": "11772",
+          "height": "8699",
+          "filesize": "307241600",
+          "filename": "2019.170.35_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Severance and Greta Millikin Purchase Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 368023,
+      "creators": [
+        {
+          "id": 35,
+          "description": "Felice A. Beato (British, 1830–1906)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Felice Beato British?, b. Italy, 1832-1909 Often confused with his brother Antonio, Venice-born Felice Beato was a pioneer photojournalist with strong ties to Britain. His first important work was done in partnership with James Robertson, superintendent and chief engraver for the Imperial Mint in Constantinople and husband of Beato's sister, Maria Matilde. With Robertson he photographed first in Malta in the early 1850s, then in Constantinople, Athens, Palestine, and Egypt. By the middle of the decade, Beato and Robertson were among the first to apply photography to the reportage of war, covering the Crimean conflict and the fall of Balaklava. Images of war and the exotic became Beato's specialty. With Robertson, he covered the Indian Mutiny (1857-59), works especially well known for their grisly views of the siege of Lucknow. His photographs of the Opium War, taken in the early 1860s, are thought to be the first western views of China; his depictions of the conquered Fort Taku are among the most stark and uncompromising documents of their time. Following China, Beato worked for some 15 years in Japan, where he produced a large body of work. In 1877 he sold his studio and negatives to Austrian photographer Baron Raimond von Stillfried und Ratenitz, and in the mid-1880s documented British military activities at Khartoum in the Sudan. In an 1886 issue of the British Journal of Photography, Beato was credited with an important improvement in the albumen process, which cut necessary exposure time. Around 1889 he settled in Burma, where he illustrated mail-order catalogues and sold native furniture and crafts. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1832",
+          "death_year": "1909",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-09-09T00:00:00-04:00",
+      "sortable_date": 1858,
+      "date_added_to_oa": null,
+      "date_text": "1858",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2019.170",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:34.275000"
+    },
+    {
+      "id": 367992,
+      "accession_number": "2019.170.5",
+      "share_license_status": "CC0",
+      "tombstone": "Lucknow After the Siege: Bridge of Boats over the Gumti River near the Chattar Manzil and Fusseed Bakah or Old Palace, 1858. Felice A. Beato (British, 1830–1906). Albumen print; image: 25.4 x 30.5 cm (10 x 12 in.). The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund, 2019.170.5",
+      "current_location": null,
+      "title": "Bridge of Boats over the Gumti River near the Chattar Manzil and Fusseed Bakah or Old Palace",
+      "series": "Lucknow After the Siege",
+      "creation_date": "1858",
+      "creation_date_earliest": 1858,
+      "creation_date_latest": 1858,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 25.4 x 30.5 cm (10 x 12 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.254,
+          "width": 0.305
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Sir William Russell, 2nd Baronet",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "Christie's, London, United Kingdom",
+          "citations": [],
+          "footnotes": null,
+          "date": "October 20, 1993",
+          "sortorder": 2
+        },
+        {
+          "description": "Christie's, London, United Kingdom",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 27, 2001",
+          "sortorder": 3
+        },
+        {
+          "description": "Private Collection, United Kingdom",
+          "citations": [],
+          "footnotes": null,
+          "date": "2001-2019",
+          "sortorder": 4
+        },
+        {
+          "description": "Prahlad Bubbar Indian and Islamic Art, London, United Kingdom",
+          "citations": [],
+          "footnotes": null,
+          "date": "2019",
+          "sortorder": 5
+        },
+        {
+          "description": "the Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 9, 2019",
+          "sortorder": 6
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79878097"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2019.170.5-bridge-of-boats-over"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2019.170.5",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.170.5/2019.170.5_web.jpg",
+          "width": "900",
+          "height": "714",
+          "filesize": "317822",
+          "filename": "2019.170.5_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.170.5/2019.170.5_print.jpg",
+          "width": "3400",
+          "height": "2696",
+          "filesize": "3963143",
+          "filename": "2019.170.5_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.170.5/2019.170.5_full.tif",
+          "width": "10904",
+          "height": "8647",
+          "filesize": "282889156",
+          "filename": "2019.170.5_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Severance and Greta Millikin Purchase Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 367992,
+      "creators": [
+        {
+          "id": 35,
+          "description": "Felice A. Beato (British, 1830–1906)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Felice Beato British?, b. Italy, 1832-1909 Often confused with his brother Antonio, Venice-born Felice Beato was a pioneer photojournalist with strong ties to Britain. His first important work was done in partnership with James Robertson, superintendent and chief engraver for the Imperial Mint in Constantinople and husband of Beato's sister, Maria Matilde. With Robertson he photographed first in Malta in the early 1850s, then in Constantinople, Athens, Palestine, and Egypt. By the middle of the decade, Beato and Robertson were among the first to apply photography to the reportage of war, covering the Crimean conflict and the fall of Balaklava. Images of war and the exotic became Beato's specialty. With Robertson, he covered the Indian Mutiny (1857-59), works especially well known for their grisly views of the siege of Lucknow. His photographs of the Opium War, taken in the early 1860s, are thought to be the first western views of China; his depictions of the conquered Fort Taku are among the most stark and uncompromising documents of their time. Following China, Beato worked for some 15 years in Japan, where he produced a large body of work. In 1877 he sold his studio and negatives to Austrian photographer Baron Raimond von Stillfried und Ratenitz, and in the mid-1880s documented British military activities at Khartoum in the Sudan. In an 1886 issue of the British Journal of Photography, Beato was credited with an important improvement in the albumen process, which cut necessary exposure time. Around 1889 he settled in Burma, where he illustrated mail-order catalogues and sold native furniture and crafts. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1832",
+          "death_year": "1909",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-09-09T00:00:00-04:00",
+      "sortable_date": 1858,
+      "date_added_to_oa": null,
+      "date_text": "1858",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2019.170",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:44.530000"
+    },
+    {
+      "id": 412254,
+      "accession_number": "2020.404",
+      "share_license_status": "Copyrighted",
+      "tombstone": "For the first time, Unbeatable Sarah and her two sons stood publicly with other victims of domestic violence, at \"Meet Us at the Bridge,\" Nashville, Tennessee, 2013. Donna Ferrato (American, 1949-). Archival pigment print; image: 33.6 x 50.8 cm (13 1/4 x 20 in.); paper: 50.7 x 60.9 cm (19 15/16 x 24 in.). The Cleveland Museum of Art, Gift of the Short Family, 2020.404. © Donna Ferrato",
+      "current_location": null,
+      "title": "For the first time, Unbeatable Sarah and her two sons stood publicly with other victims of domestic violence, at \"Meet Us at the Bridge,\" Nashville, Tennessee",
+      "creation_date": "2013",
+      "creation_date_earliest": 2013,
+      "creation_date_latest": 2013,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "archival pigment print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 33.6 x 50.8 cm (13 1/4 x 20 in.); Paper: 50.7 x 60.9 cm (19 15/16 x 24 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.336,
+          "width": 0.508
+        },
+        "paper": {
+          "height": 0.507,
+          "width": 0.609
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Donna Ferrato",
+      "inscriptions": [
+        {
+          "inscription": "Written in black marker on verso: \"Donna Ferrato (signed)/SARAH AUGUSTA JONES/2013\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117246506"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2020.404",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of the Short Family",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 412254,
+      "creators": [
+        {
+          "id": 412210,
+          "description": "Donna Ferrato (American, 1949-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "American photographer, born 1949",
+          "name_in_original_language": null,
+          "birth_year": "1949",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2020-12-07T00:00:00-05:00",
+      "sortable_date": 2013,
+      "date_added_to_oa": null,
+      "date_text": "2013",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:50.789000"
+    },
+    {
+      "id": 291465,
+      "accession_number": "2016.509",
+      "share_license_status": "Copyrighted",
+      "tombstone": "The county wanted to widen the road in front of my home. They planned to cut down several oak trees, build a bigger bridge and \"improve\" the area so more cars could get through. To stop them we organized a neighborhood association and hired a lawyer. Community action works if you hire a lawyer. Tri-Valley Area, Northern California, 1969–1975. Bill Owens (American, b. 1938). Vintage gelatin silver print; image: 19.1 x 24.1 cm (7 1/2 x 9 1/2 in.); paper: 20.3 x 25.2 cm (8 x 9 15/16 in.). The Cleveland Museum of Art, Gift of George Stephanopoulos, 2016.509",
+      "current_location": null,
+      "title": "The county wanted to widen the road in front of my home. They planned to cut down several oak trees, build a bigger bridge and \"improve\" the area so more cars could get through. To stop them we organized a neighborhood association and hired a lawyer. Community action works if you hire a lawyer. Tri-Valley Area, Northern California",
+      "creation_date": "1969–1975",
+      "creation_date_earliest": 1969,
+      "creation_date_latest": 1975,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "vintage gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 19.1 x 24.1 cm (7 1/2 x 9 1/2 in.); Paper: 20.3 x 25.2 cm (8 x 9 15/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.191,
+          "width": 0.241
+        },
+        "paper": {
+          "height": 0.203,
+          "width": 0.252
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “Bill Owens (signed)”\nWritten in pencil on verso: “V0716/3500”\nWritten in blue ink on verso: “87 [circled]”\nWritten in blue ink on verso three times: “A [circled]”\nWritten in blue ink on verso: “BO-40-11/79”\nStamped in black ink on verso: “BILL OWENS/BBM [scribbled out in black ink]/© All Rights Reserved/This Photograph must be returned./B.B.M Associates/741 Addison Street/Berkeley, California 94710 [scribbled out in black ink]”\nStamped in black ink on verso: “USE WITH/JEROBOAM INC. CREDIT LINE/RETURN TO CATEGORY:”\nWritten in black ink on verso: “Use w/ Jeroboam Credit/White Collar” \nCommercially imprinted throughout paper on verso: “Agfa”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79870997"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2016.509",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George Stephanopoulos",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 291465,
+      "creators": [
+        {
+          "id": 291453,
+          "description": "Bill Owens (American, b. 1938)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "American photographer, born 1938",
+          "name_in_original_language": null,
+          "birth_year": "1938",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2016-12-05T00:00:00-05:00",
+      "sortable_date": 1969,
+      "date_added_to_oa": null,
+      "date_text": "1969–1975",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:13.841000"
+    }
+  ]
+}

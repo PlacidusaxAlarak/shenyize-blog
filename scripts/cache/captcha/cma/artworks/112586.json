@@ -1,0 +1,399 @@
+{
+  "data": {
+    "id": 112586,
+    "accession_number": "1931.205",
+    "share_license_status": "CC0",
+    "tombstone": "Venus Reclining in a Landscape, c. 1508–9. Giulio Campagnola (Italian, 1482–1515). Engraving; platemark: 11.9 x 18.3 cm (4 11/16 x 7 3/16 in.); sheet: 11.9 x 18.3 cm (4 11/16 x 7 3/16 in.). The Cleveland Museum of Art, Gift of The Print Club of Cleveland, 1931.205",
+    "current_location": null,
+    "title": "Venus Reclining in a Landscape",
+    "creation_date": "c. 1508–9",
+    "creation_date_earliest": 1508,
+    "creation_date_latest": 1509,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "Italy, late 15th-early 16th Century"
+    ],
+    "technique": "engraving",
+    "support_materials": [],
+    "department": "Prints",
+    "collection": "PR - Engraving",
+    "type": "Print",
+    "measurements": "Platemark: 11.9 x 18.3 cm (4 11/16 x 7 3/16 in.); Sheet: 11.9 x 18.3 cm (4 11/16 x 7 3/16 in.)",
+    "dimensions": {
+      "platemark": {
+        "height": 0.119,
+        "width": 0.183
+      },
+      "sheet": {
+        "height": 0.119,
+        "width": 0.183
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Watermark: two crossed arrows (similar to Briquet 6270)",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 357426,
+          "title": "Italian and German Prints of the 15th Century",
+          "description": "<i>Italian and German Prints of the 15th Century</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 29, 1933-January 3, 1934).",
+          "opening_date": "1933-11-29T05:00:00"
+        },
+        {
+          "id": 357312,
+          "title": "Prints of the Fifteenth to Twentieth Century from the Museum Collection",
+          "description": "<i>Prints of the Fifteenth to Twentieth Century from the Museum Collection</i>. The Cleveland Museum of Art, Cleveland, OH (June 5-September 12, 1934).",
+          "opening_date": "1934-06-05T04:00:00"
+        },
+        {
+          "id": 345396,
+          "title": "Inaugural Exhibition of the New Print Gallery - Prints from the Museum Collection",
+          "description": "<i>Inaugural Exhibition of the New Print Gallery - Prints from the Museum Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 10-November 13, 1938).",
+          "opening_date": "1938-08-10T04:00:00"
+        },
+        {
+          "id": 312341,
+          "title": "The Silver Jubilee Exhibition",
+          "description": "<i>The Silver Jubilee Exhibition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 23-September 28, 1941).",
+          "opening_date": "1941-06-23T04:00:00"
+        },
+        {
+          "id": 301170,
+          "title": "Prints 1400-1800",
+          "description": "<i>Prints 1400-1800</i>. The Cleveland Museum of Art, Cleveland, OH (December 18, 1956-January 20, 1957); The Art Institute of Chicago, Chicago, IL (February 1-March 3, 1957); Minneapolis Institute of Art, Minneapolis, MN (November 1-December 1, 1957).",
+          "opening_date": "1956-12-18T05:00:00"
+        },
+        {
+          "id": 301184,
+          "title": "Department of Prints and Drawings Opening Exhibition",
+          "description": "<i>Department of Prints and Drawings Opening Exhibition</i>. The Cleveland Museum of Art (organizer) (March 3, 1958-October 11, 1959).",
+          "opening_date": "1958-03-03T05:00:00"
+        },
+        {
+          "id": 301501,
+          "title": "40th Anniversary Exhibition of the Print Club of Cleveland",
+          "description": "<i>40th Anniversary Exhibition of the Print Club of Cleveland</i>. The Cleveland Museum of Art, Cleveland, OH (December 3, 1959-January 20, 1960).",
+          "opening_date": "1959-12-03T05:00:00"
+        },
+        {
+          "id": 302205,
+          "title": "Art and Humanism in the Renaissance",
+          "description": "<i>Art and Humanism in the Renaissance</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 23-February 25, 1962).",
+          "opening_date": "1962-01-23T05:00:00"
+        },
+        {
+          "id": 350269,
+          "title": "Prints and Drawings from the Cleveland Museum of Art Collection",
+          "description": "<i>Prints and Drawings from the Cleveland Museum of Art Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 6-September 9, 1965).",
+          "opening_date": "1965-05-06T04:00:00"
+        },
+        {
+          "id": 350752,
+          "title": "Old Master Prints and Drawings",
+          "description": "<i>Old Master Prints and Drawings</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 29, 1966-February 28, 1967).",
+          "opening_date": "1966-07-29T04:00:00"
+        },
+        {
+          "id": 351103,
+          "title": "Italian Prints and Drawings",
+          "description": "<i>Italian Prints and Drawings</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 30-March 26, 1968).",
+          "opening_date": "1968-01-30T05:00:00"
+        },
+        {
+          "id": 301359,
+          "title": "The Print Club of Cleveland, 1919 - 1969: Fifty Years in Review",
+          "description": "<i>The Print Club of Cleveland, 1919 - 1969: Fifty Years in Review</i>. The Cleveland Museum of Art, Cleveland, OH (January 14-March 31, 1970).",
+          "opening_date": "1970-01-14T05:00:00"
+        },
+        {
+          "id": 304546,
+          "title": "Connoisseurship in Italian Figural Compositions",
+          "description": "<i>Connoisseurship in Italian Figural Compositions</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 21, 1980-February 15, 1981).",
+          "opening_date": "1980-10-21T04:00:00"
+        },
+        {
+          "id": 310008,
+          "title": "Real Prints: Reproduction or Invention",
+          "description": "<i>Real Prints: Reproduction or Invention</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 7-May 17, 1987).",
+          "opening_date": "1987-04-07T04:00:00"
+        },
+        {
+          "id": 311461,
+          "title": "Generous Donors: A Tribute to The Print Club of Cleveland",
+          "description": "<i>Generous Donors: A Tribute to The Print Club of Cleveland</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 2-August 4, 1991).",
+          "opening_date": "1991-04-02T05:00:00"
+        },
+        {
+          "id": 185234,
+          "title": "Early Italian Engraving: 1460's - 1530's",
+          "description": "<i>Early Italian Engraving: 1460's - 1530's</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 25-October 27, 2002).",
+          "opening_date": "2002-08-25T00:00:00"
+        },
+        {
+          "id": 204986,
+          "title": "Treasures on Paper from the Collection of the Cleveland Museum of Art",
+          "description": "<i>Treasures on Paper from the Collection of the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 9-June 8, 2014).",
+          "opening_date": "2014-03-09T00:00:00"
+        },
+        {
+          "id": 294294,
+          "title": "The Renaissance Nude: 1400-1530",
+          "description": "<i>The Renaissance Nude: 1400-1530</i>. J. Paul Getty Museum, Los Angeles, CA (organizer) (October 30, 2018-January 27, 2019); Royal Academy of Arts, London, United Kingdom of Great Britain and Northern Ireland (February 28-June 2, 2019).",
+          "opening_date": "2018-10-30T04:00:00"
+        },
+        {
+          "id": 437915,
+          "title": "Love Gardens / Forbidden Fruit",
+          "description": "<i>Love Gardens / Forbidden Fruit</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 2-October 29, 2023).",
+          "opening_date": "2023-07-02T04:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "The Hermitage, St. Petersburg (duplicate)",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": 1
+      },
+      {
+        "description": "with C. G. Boerner, Leipzig",
+        "citations": [],
+        "footnotes": null,
+        "date": "1930",
+        "sortorder": 2
+      },
+      {
+        "description": "with Knoedler & Co., Inc., New York",
+        "citations": [],
+        "footnotes": null,
+        "date": "1931",
+        "sortorder": 3
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "This artist's training as a gem cutter prepared him well for the relatively new art of engraving, which required carving into a copperplate with a sharp instrument called a burin.",
+    "description": "The Venetian artist Giulio Campagnola introduced the \"dot manner,\" an engraving technique by which shading is created with dots and flicks produced with the point of the burin. This innovation allowed for a much greater range of tone and subtler gradations from dark to light. The effect imitated <em>sfumato, </em>a painting technique for creating soft atmospheric effects practiced by Venetian artists, such as Giorgione, at the time. The influence of and perhaps even the engraver’s collaboration with Giorgione is reflected in the extraordinary beauty and refinement of this rare early impression of <em>Venus Reclining in a Landscape</em>. The female nude reclining in a landscape was to become a distinctly Venetian subject in the 1500s.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q60759300"
+      ],
+      "internet_archive": [
+        "https://archive.org/details/clevelandart-1931.205-venus-reclining-in-a"
+      ]
+    },
+    "citations": [
+      {
+        "citation": "\"An Engraving by Giulio Campagnola.\" <em>The Bulletin of the Cleveland Museum of Art </em>18, no. 9 (November 1931): 171-174",
+        "page_number": "Reproduced: p. 170; Mentioned: p. 171",
+        "url": "jstor.org/stable/25137420"
+      },
+      {
+        "citation": "Prasse, Leona. \"An Engraving of 'St. John the Baptist' by Giulio Campagnola.\" <em>The Bulletin of the Cleveland Museum of Art </em>22, no. 2 (February 1935): 15-18",
+        "page_number": "Mentioned: p. 15-16",
+        "url": "https://www.jstor.org/stable/25137672"
+      },
+      {
+        "citation": "Meier, Henry, \"Giulio Campagnola's 'Woman Reclining in a Landsacpe,\" and its Technique, Bulletin of the New York Public Library Vol. 46, No. 8 (August, 1942): 735-738.",
+        "page_number": "p. 735",
+        "url": ""
+      },
+      {
+        "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+        "page_number": "Mentioned and Reproduced: cat. no. 622",
+        "url": "https://archive.org/details/CMAHandbook1958/page/n116"
+      },
+      {
+        "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+        "page_number": "Reproduced: p. 93",
+        "url": "https://archive.org/details/CMAHandbook1966/page/n117"
+      },
+      {
+        "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+        "page_number": "Reproduced: p. 93",
+        "url": "https://archive.org/details/CMAHandbook1969/page/n117"
+      },
+      {
+        "citation": "Levenson, Jay A., Konrad Oberhuber, and Jacquelyn L. Sheehan. Early Italian Engravings from the National Gallery of Art. 1973.",
+        "page_number": "pp. 398-399, fig. 19-10",
+        "url": ""
+      },
+      {
+        "citation": "Meiss, Millard. The Painter's Choice: Problems in the Interpretation of Renaissance Art. New York: Harper &amp; Row, 1976.",
+        "page_number": "pp. 217, 233n30, fig. 225",
+        "url": ""
+      },
+      {
+        "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+        "page_number": "Reproduced: p. 105",
+        "url": "https://archive.org/details/CMAHandbook1978/page/n125"
+      },
+      {
+        "citation": "Cafritz, Robert, Lawrence Gowing, and David Rosand. Places of Delight: The Pastoral Landscape. Washington, D.C.: Phillips Collection in association with the National Gallery of Art, 1988.",
+        "page_number": "p. 74, fig. 76 (no. 26)",
+        "url": ""
+      },
+      {
+        "citation": "Russell, H. Diane, and Bernadine Ann Barnes. Eva/Ave: Woman in Renaissance and Baroque Prints. Washington: National Gallery of Art, 1990.",
+        "page_number": "p. 139, fig. 80b",
+        "url": ""
+      },
+      {
+        "citation": "Lo Monaco, Louis. La gravure en taille-douce: art, histoire, technique. Paris: Arts et métiers graphiques/Flammarion, 1992.",
+        "page_number": "p. 31",
+        "url": ""
+      },
+      {
+        "citation": "Landau, David, and Peter W. Parshall. The Renaissance Print, 1470-1550. New Haven: Yale University Press, 1994.",
+        "page_number": "p. 263, fig. 268.",
+        "url": ""
+      },
+      {
+        "citation": "Hults, Linda C. The Print in the Western World: An Introductory History. Madison, Wis: University of Wisconsin Press, 1996.",
+        "page_number": "p. 175, fig. 3.40",
+        "url": ""
+      },
+      {
+        "citation": "Rosand, David. Drawing Acts: Studies in Graphic Expression and Representation. Cambridge, UK: Cambridge University Press, 2002.",
+        "page_number": "pp. 205-206, fig. 188",
+        "url": ""
+      },
+      {
+        "citation": "Ballarin, Alessandro. <em>Giorgione e l'umanesimo veneziano</em>. Verona : Edizioni dell’Aurora, 2016.",
+        "page_number": "Reproduced and mentioned: pp. I: 214, 379; v: xxx, xxxii; tavv. v. (xii) 57, 63, 67, 78 I",
+        "url": null
+      },
+      {
+        "citation": "Kren, Thomas, Jill Burke, and Stephen J. Campbell. <em>The Renaissance Nude.</em> Los Angeles : J. Paul Getty Museum, 2018.",
+        "page_number": "Mentioned and reproduced: p. 168-169, cat. 49",
+        "url": null
+      }
+    ],
+    "catalogue_raisonne": "Hind V(II).202.13 ; Passavant V.165.11 ; Le Blanc I.575.10 ; Ottley II.769.8",
+    "url": "https://clevelandart.org/art/1931.205",
+    "images": {
+      "annotation": null,
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1931.205/1931.205_web.jpg",
+        "width": "900",
+        "height": "605",
+        "filesize": "262871",
+        "filename": "1931.205_web.jpg"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1931.205/1931.205_print.jpg",
+        "width": "3400",
+        "height": "2286",
+        "filesize": "3939835",
+        "filename": "1931.205_print.jpg"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1931.205/1931.205_full.tif",
+        "width": "11175",
+        "height": "7515",
+        "filesize": "251970898",
+        "filename": "1931.205_full.tif"
+      }
+    },
+    "alternate_images": [
+      {
+        "date_created": "2006-08-25T18:28:12",
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1931.205/1931.205_alt0_web.jpg",
+          "width": "1263",
+          "height": "818",
+          "filesize": "874492"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1931.205/1931.205_alt0_print.jpg",
+          "width": "3400",
+          "height": "2203",
+          "filesize": "6043569"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1931.205/1931.205_alt0_full.tif",
+          "width": "4995",
+          "height": "3236",
+          "filesize": "48523488"
+        }
+      },
+      {
+        "date_created": "2017-11-20T16:25:51",
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1931.205/1931.205_alt1_web.jpg",
+          "width": "900",
+          "height": "597",
+          "filesize": "268763"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1931.205/1931.205_alt1_print.jpg",
+          "width": "3400",
+          "height": "2254",
+          "filesize": "3239012"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1931.205/1931.205_alt1_full.tif",
+          "width": "7008",
+          "height": "4645",
+          "filesize": "97689360"
+        }
+      }
+    ],
+    "creditline": "Gift of The Print Club of Cleveland",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 112586,
+    "creators": [
+      {
+        "id": 24423,
+        "description": "Giulio Campagnola (Italian, 1482–1515)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1482",
+        "death_year": "1515",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1931-05-25T00:00:00",
+    "sortable_date": 1508,
+    "date_added_to_oa": null,
+    "date_text": "c. 1508–9",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": true,
+    "updated_at": "2026-03-29 12:04:27.801000"
+  }
+}

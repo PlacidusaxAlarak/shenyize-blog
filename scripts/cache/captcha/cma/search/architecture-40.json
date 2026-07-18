@@ -1,0 +1,3487 @@
+{
+  "info": {
+    "total": 430,
+    "parameters": {
+      "skip": 40,
+      "limit": 20,
+      "q": "architecture",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,collection,department,classification_type,gallery",
+      "search": "architecture"
+    }
+  },
+  "data": [
+    {
+      "id": 161865,
+      "accession_number": "2001.152",
+      "share_license_status": "CC0",
+      "tombstone": "Hoyshaleshvara Temple Sculpture, Halebidu (Halebeedu), 1856–57. Richard Banner Oakeley (British, 1834–1914). Albumenized salt print from waxed paper negative; image: 27.2 x 29.2 cm (10 11/16 x 11 1/2 in.); mounted: 35.3 x 44.4 cm (13 7/8 x 17 1/2 in.); matted: 50.8 x 61 cm (20 x 24 in.). The Cleveland Museum of Art, John L. Severance Fund, 2001.152",
+      "current_location": null,
+      "title": "Hoyshaleshvara Temple Sculpture, Halebidu (Halebeedu)",
+      "creation_date": "1856–57",
+      "creation_date_earliest": 1856,
+      "creation_date_latest": 1857,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "albumenized salt print from waxed paper negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 27.2 x 29.2 cm (10 11/16 x 11 1/2 in.); Mounted: 35.3 x 44.4 cm (13 7/8 x 17 1/2 in.); Matted: 50.8 x 61 cm (20 x 24 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.272,
+          "width": 0.292
+        },
+        "mounted": {
+          "height": 0.353,
+          "width": 0.444
+        },
+        "matted": {
+          "height": 0.508,
+          "width": 0.61
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "written in pencil on recto of mount: \"Q1437\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 184303,
+            "title": "Travel Photography: Early Images of India",
+            "description": "<i>Travel Photography: Early Images of India</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 2-July 17, 2002).",
+            "opening_date": "2002-03-02T00:00:00"
+          },
+          {
+            "id": 299790,
+            "title": "Indian Gallery 242b Rotation – November 2017-April 2018",
+            "description": "<i>Indian Gallery 242b Rotation – November 2017-April 2018</i>. The Cleveland Museum of Art (organizer) (November 10, 2017-April 16, 2018).",
+            "opening_date": "2017-11-10T05:00:00"
+          },
+          {
+            "id": 674335,
+            "title": "Temples and Worship in South Asia",
+            "description": "<i>Temples and Worship in South Asia</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 14, 2024-March 9, 2025).",
+            "opening_date": "2024-09-14T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Charles Isaacs Photographs, Inc., New York, NY, sold to the Cleveland Museum of Art)",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–2001",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2001–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Holysaleswara Temple is a magnificent example of Hindu architecture and sculpture begun during the first half of the 12th century.",
+      "description": "On the recommendation of a friend, Oakeley marched 20 days along treacherous country roads to locate the Hoyshaleshvara Temple in southwestern India. Finding it more beautiful than any other building he had seen in southern India, he framed his subject to capture a sense of the lavish number of vivid sculptures that enliven the temple's walls. <br><br>At the right is the Hindu god Shiva with his wife, the goddess Parvati, seated on his mount, the bull Nandi. At the left, Shiva and Parvati are seated on Mount Kailasha, which a multiarmed demon is attempting to dislodge.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79985166"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2001.152-hoysalesvara-temple",
+          "https://archive.org/details/clevelandart-2001.152-hoyshaleshvara-templ"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2001.152",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2001.152/2001.152_web.jpg",
+          "width": "1171",
+          "height": "893",
+          "filesize": "912636",
+          "filename": "2001.152_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2001.152/2001.152_print.jpg",
+          "width": "3400",
+          "height": "2592",
+          "filesize": "6424979",
+          "filename": "2001.152_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2001.152/2001.152_full.tif",
+          "width": "5000",
+          "height": "3812",
+          "filesize": "57200572",
+          "filename": "2001.152_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 161865,
+      "creators": [
+        {
+          "id": 41229,
+          "description": "Richard Banner Oakeley (British, 1834–1914)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1834",
+          "death_year": "1914",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2001-12-03T00:00:00",
+      "sortable_date": 1856,
+      "date_added_to_oa": null,
+      "date_text": "1856–57",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Hoysalesvara Temple Sculpture, Halebid"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:00.299000"
+    },
+    {
+      "id": 149660,
+      "accession_number": "1979.52",
+      "share_license_status": "CC0",
+      "tombstone": "Landscape with a Distant Temple (遠寺山水図), 1600s. Japan, Edo period (1615–1868). Hanging scroll; ink on paper; overall: 195.6 x 57.2 cm (77 x 22 1/2 in.); painting only: 107.7 x 45 cm (42 3/8 x 17 11/16 in.). The Cleveland Museum of Art, The Severance and Greta Millikin Purchase Fund, 1979.52",
+      "current_location": null,
+      "title": "Landscape with a Distant Temple",
+      "title_in_original_language": "遠寺山水図",
+      "creation_date": "1600s",
+      "creation_date_earliest": 1600,
+      "creation_date_latest": 1699,
+      "artists_tags": [],
+      "culture": [
+        "Japan, Edo period (1615–1868)"
+      ],
+      "technique": "hanging scroll; ink on paper",
+      "support_materials": [],
+      "department": "Japanese Art",
+      "collection": "ASIAN - Hanging scroll",
+      "type": "Painting",
+      "measurements": "Overall: 195.6 x 57.2 cm (77 x 22 1/2 in.); Painting only: 107.7 x 45 cm (42 3/8 x 17 11/16 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 1.956,
+          "width": 0.572
+        },
+        "painting only": {
+          "height": 1.077,
+          "width": 0.45
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "apocryphal inscription dated 1490 on the upper left edge of the painting.",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 304412,
+            "title": "Year in Review: 1979",
+            "description": "<i>Year in Review: 1979</i>. The Cleveland Museum of Art (organizer) (February 13-March 9, 1980).",
+            "opening_date": "1980-02-13T05:00:00"
+          },
+          {
+            "id": 304561,
+            "title": "Visions of Landscape: East and West",
+            "description": "<i>Visions of Landscape: East and West</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 17-March 21, 1982).",
+            "opening_date": "1982-02-17T05:00:00"
+          },
+          {
+            "id": 310041,
+            "title": "Mountains, Rocks, and Water: Landscape Painting in Asia",
+            "description": "<i>Mountains, Rocks, and Water: Landscape Painting in Asia</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 2-December 13, 1987).",
+            "opening_date": "1987-10-02T04:00:00"
+          },
+          {
+            "id": 311446,
+            "title": "Asian Autumn: Masterpieces from the Collection",
+            "description": "<i>Asian Autumn: Masterpieces from the Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 17, 1991-January 5, 1992).",
+            "opening_date": "1991-09-17T04:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "<em>Main Asian Rotation (Gallery 121)</em>. The Cleveland Museum of Art, Cleveland, OH (March 10-July 16, 2003).",
+            "opening_date": "2003-03-10T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "(Kinzen Co., Ltd., Tokyo, Japan, sold to the Cleveland Museum of Art)",
+          "citations": [],
+          "footnotes": null,
+          "date": "?-1979",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH, 1979-present",
+          "citations": [],
+          "footnotes": null,
+          "date": "1979-",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This painter emulated the style of Sesshū Tōyō (1420–1506) a Japanese artist who traveled to China to study painting.",
+      "description": "A traveler has presumably descended from the distant temple compound that consists of several buildings linked together by a winding trail lined with steps. The highest point in the compound is occupied by the most sacred structure in Buddhist temple architecture: a mulitroofed pagoda. This rugged landscape, with its towering craggy peaks, pine forests, and river, typifies the idealized image of religious sanctuary in East Asian medieval ink painting.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60474020"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1979.52-landscape-with-a-dis"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Lee, Sherman E. \"The Year in Review for 1979.\" <em>The Bulletin of the Cleveland Museum of Art</em> 67, no. 3 (1980): 58-99.",
+          "page_number": "Reproduced: cat. no. 129, p. 85; Mentioned: p. 62",
+          "url": "https://www.jstor.org/stable/25159667"
+        },
+        {
+          "citation": "Cunningham, Michael. “Painting the Wind: A Mid-Fifteenth Century ‘Suibokuga.’” <em>The Bulletin of the Cleveland Museum of Art</em> 72, no. 7 (November 1985): 363–377.",
+          "page_number": "Mentioned and Reproduced: fig. 12, p. 371",
+          "url": "https://www.jstor.org/stable/25159918"
+        }
+      ],
+      "url": "https://clevelandart.org/art/1979.52",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.52/1979.52_web.jpg",
+          "width": "393",
+          "height": "893",
+          "filesize": "86721",
+          "filename": "1979.52_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.52/1979.52_print.jpg",
+          "width": "1496",
+          "height": "3400",
+          "filesize": "1206562",
+          "filename": "1979.52_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.52/1979.52_full.tif",
+          "width": "2934",
+          "height": "6668",
+          "filesize": "58715048",
+          "filename": "1979.52_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2012-05-08T16:31:59",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1979.52/1979.52_alt0_web.jpg",
+            "width": "288",
+            "height": "893",
+            "filesize": "48833"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1979.52/1979.52_alt0_print.jpg",
+            "width": "1098",
+            "height": "3400",
+            "filesize": "715832"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1979.52/1979.52_alt0_full.tif",
+            "width": "2087",
+            "height": "6458",
+            "filesize": "40456876"
+          }
+        }
+      ],
+      "creditline": "The Severance and Greta Millikin Purchase Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 149660,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1979-08-17T00:00:00",
+      "sortable_date": 1600,
+      "date_added_to_oa": null,
+      "date_text": "1600s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:05.629000"
+    },
+    {
+      "id": 153368,
+      "accession_number": "1986.59",
+      "share_license_status": "CC0",
+      "tombstone": "A Rooster and Turkey Fighting, c. 1680. Melchior de Hondecoeter (Dutch, 1636–1695). Oil on canvas; framed: 164.5 x 193 x 10 cm (64 3/4 x 76 x 3 15/16 in.); unframed: 137.2 x 166.4 cm (54 x 65 1/2 in.). The Cleveland Museum of Art, John L. Severance Fund, 1986.59",
+      "current_location": null,
+      "title": "A Rooster and Turkey Fighting",
+      "creation_date": "c. 1680",
+      "creation_date_earliest": 1675,
+      "creation_date_latest": 1685,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Netherlands"
+      ],
+      "technique": "oil on canvas",
+      "support_materials": [],
+      "department": "European Painting and Sculpture",
+      "collection": "P - Netherlandish-Dutch",
+      "type": "Painting",
+      "measurements": "Framed: 164.5 x 193 x 10 cm (64 3/4 x 76 x 3 15/16 in.); Unframed: 137.2 x 166.4 cm (54 x 65 1/2 in.)",
+      "dimensions": {
+        "framed": {
+          "height": 1.645,
+          "width": 1.93,
+          "depth": 0.1
+        },
+        "unframed": {
+          "height": 1.372,
+          "width": 1.664
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "signed upper center:  M C Hondecoeter",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 310034,
+            "title": "Year in Review for 1986",
+            "description": "<i>Year in Review for 1986</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 4-March 15, 1987).",
+            "opening_date": "1987-02-04T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Year in Review for 1986, The Cleveland Museum of Art, (Bulletin, Feb. 1987, p. 62, cat. no. 38, color illus.)",
+            "opening_date": "1987-02-01T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Charles Fairfax Murray, London (Paris sale 1914).",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        },
+        {
+          "description": "Frances Roche (New York sale 1948).",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        },
+        {
+          "description": "(Harari & Johns, London, and Newhouse Gallery, New York), sold to the Cleveland Museum of Art, 1986.",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "One of the most fashionable artists of his time, Hondecoeter specialized in paintings of domestic and exotic birds, and other animals. Here the composition is enlivened by the swirl and excitement of the fighting rooster and turkey, set in a garden with classical architecture. A large picture like this must have been placed high over a fireplace in a rich Amsterdam house.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60475889"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1986.59-a-rooster-and-turkey"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Turner, Evan H. “The Year in Review for 1986.” <em>The Bulletin of the Cleveland Museum of Art</em> 74, no. 2 (February 1987): 38–79.",
+          "page_number": "Reproduced: p. 49; Mentioned: p. 62, no. 38",
+          "url": "http://www.jstor.org/stable/25159974"
+        }
+      ],
+      "url": "https://clevelandart.org/art/1986.59",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1986.59/1986.59_web.jpg",
+          "width": "1086",
+          "height": "893",
+          "filesize": "705425",
+          "filename": "1986.59_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1986.59/1986.59_print.jpg",
+          "width": "3400",
+          "height": "2797",
+          "filesize": "6346721",
+          "filename": "1986.59_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1986.59/1986.59_full.tif",
+          "width": "5500",
+          "height": "4524",
+          "filesize": "74679908",
+          "filename": "1986.59_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2012-02-24T20:15:15",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1986.59/1986.59_alt0_web.jpg",
+            "width": "1049",
+            "height": "893",
+            "filesize": "138082"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1986.59/1986.59_alt0_print.jpg",
+            "width": "3400",
+            "height": "2894",
+            "filesize": "1806668"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1986.59/1986.59_alt0_full.tif",
+            "width": "5864",
+            "height": "4992",
+            "filesize": "87846164"
+          }
+        },
+        {
+          "date_created": "2012-02-24T19:30:25",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1986.59/1986.59_alt1_web.jpg",
+            "width": "1046",
+            "height": "893",
+            "filesize": "204040"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1986.59/1986.59_alt1_print.jpg",
+            "width": "3400",
+            "height": "2903",
+            "filesize": "1965606"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1986.59/1986.59_alt1_full.tif",
+            "width": "5615",
+            "height": "4795",
+            "filesize": "80802380"
+          }
+        }
+      ],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 153368,
+      "creators": [
+        {
+          "id": 2849,
+          "description": "Melchior de Hondecoeter (Dutch, 1636–1695)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1636",
+          "death_year": "1695",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1986-09-29T00:00:00",
+      "sortable_date": 1675,
+      "date_added_to_oa": null,
+      "date_text": "c. 1680",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": true,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:57.453000"
+    },
+    {
+      "id": 155460,
+      "accession_number": "1990.186",
+      "share_license_status": "CC0",
+      "tombstone": "Architectural Model, 100 BCE–300 CE. Mesoamerica, Mexico, Guerrero, Mezcala. Serpentine; overall: 7.3 x 4.7 x 3.4 cm (2 7/8 x 1 7/8 x 1 5/16 in.). The Cleveland Museum of Art, Gift of Mr. and Mrs. James C. Gruener, 1990.186",
+      "current_location": null,
+      "title": "Architectural Model",
+      "creation_date": "100 BCE–300 CE",
+      "creation_date_earliest": -100,
+      "creation_date_latest": 300,
+      "artists_tags": [],
+      "culture": [
+        "Mesoamerica, Mexico, Guerrero, Mezcala"
+      ],
+      "technique": "serpentine",
+      "support_materials": [],
+      "department": "Art of the Americas",
+      "collection": "AA - Mesoamerica",
+      "type": "Sculpture",
+      "measurements": "Overall: 7.3 x 4.7 x 3.4 cm (2 7/8 x 1 7/8 x 1 5/16 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.073,
+          "width": 0.047,
+          "depth": 0.034
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 221105,
+            "title": "Long-term loan/5 years (renewable to 10 years",
+            "description": "<i>Long-term loan/5 years (renewable to 10 years</i>. Davis Museum and Cultural Center, Wellesley, MA (organizer) (January 27, 2000-April 1, 2005).",
+            "opening_date": "2000-01-27T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Wellesley, MA: Davis Museum and Cutural Center; Long-term loan/5 years (renewable to 10 years). Shipped on January 27, 2000.",
+            "opening_date": "2000-01-27T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "(Frances Pratt, Inc., New York, NY, 1962, sold to James C. and Florence C. Gruener",
+          "citations": [],
+          "footnotes": [],
+          "date": "?-1962",
+          "sortorder": 1
+        },
+        {
+          "description": "James C. [1903-1990] and Florence C. [1908-1982] Gruener, Cleveland, OH, bequest to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": [],
+          "date": "1962-1990",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": [],
+          "date": "1990",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The Mezcala style is only identified in stone sculpture.",
+      "description": "The Mezcala style takes its name from a river in its homeland, the Guerrero region of western Mexico. The style is known for small-scale stone sculptures including architectural “models” characterized by sleek abstraction. Because comparisons to actual architecture in the Mezcala region are scarce, it is not known whether the models refer to temples, houses, or underground funerary structures.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79943559"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1990.186-architectural-model"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Young-Sánchez, Margaret. “The Gruener Collection of Pre-Columbian Art.” <em>The Bulletin of the Cleveland Museum of Art</em> 79, no. 7 (September 1992): 234–275.",
+          "page_number": "Mentioned: p. 269, no. 39",
+          "url": "http://www.jstor.org/stable/25161367"
+        }
+      ],
+      "url": "https://clevelandart.org/art/1990.186",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1990.186/1990.186_web.jpg",
+          "width": "787",
+          "height": "893",
+          "filesize": "352326",
+          "filename": "1990.186_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1990.186/1990.186_print.jpg",
+          "width": "2998",
+          "height": "3400",
+          "filesize": "6478703",
+          "filename": "1990.186_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1990.186/1990.186_full.tif",
+          "width": "3076",
+          "height": "3488",
+          "filesize": "32217164",
+          "filename": "1990.186_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2011-04-12T15:37:10",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1990.186/1990.186_alt0_web.jpg",
+            "width": "703",
+            "height": "893",
+            "filesize": "314306"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1990.186/1990.186_alt0_print.jpg",
+            "width": "2675",
+            "height": "3400",
+            "filesize": "5809800"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1990.186/1990.186_alt0_full.tif",
+            "width": "2457",
+            "height": "3122",
+            "filesize": "23041656"
+          }
+        },
+        {
+          "date_created": "2011-04-12T15:42:35",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1990.186/1990.186_alt1_web.jpg",
+            "width": "764",
+            "height": "893",
+            "filesize": "322629"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1990.186/1990.186_alt1_print.jpg",
+            "width": "2909",
+            "height": "3400",
+            "filesize": "6242272"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1990.186/1990.186_alt1_full.tif",
+            "width": "2861",
+            "height": "3343",
+            "filesize": "28721332"
+          }
+        },
+        {
+          "date_created": "2011-04-12T17:21:27",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1990.186/1990.186_alt2_web.jpg",
+            "width": "845",
+            "height": "893",
+            "filesize": "401625"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1990.186/1990.186_alt2_print.jpg",
+            "width": "3216",
+            "height": "3400",
+            "filesize": "7146607"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1990.186/1990.186_alt2_full.tif",
+            "width": "3076",
+            "height": "3251",
+            "filesize": "30032124"
+          }
+        }
+      ],
+      "creditline": "Gift of Mr. and Mrs. James C. Gruener",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 155460,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1991-03-27T00:00:00",
+      "sortable_date": -100,
+      "date_added_to_oa": null,
+      "date_text": "100 BCE–300 CE",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:11.844000"
+    },
+    {
+      "id": 155461,
+      "accession_number": "1990.187",
+      "share_license_status": "CC0",
+      "tombstone": "Architectural Model, 100 BCE–300 CE. Mesoamerica, Mexico, Guerrero, Mezcala. Serpentine; overall: 12 x 4.7 x 2.6 cm (4 3/4 x 1 7/8 x 1 in.). The Cleveland Museum of Art, Gift of Mr. and Mrs. James C. Gruener, 1990.187",
+      "current_location": null,
+      "title": "Architectural Model",
+      "creation_date": "100 BCE–300 CE",
+      "creation_date_earliest": -100,
+      "creation_date_latest": 300,
+      "artists_tags": [],
+      "culture": [
+        "Mesoamerica, Mexico, Guerrero, Mezcala"
+      ],
+      "technique": "serpentine",
+      "support_materials": [],
+      "department": "Art of the Americas",
+      "collection": "AA - Mesoamerica",
+      "type": "Sculpture",
+      "measurements": "Overall: 12 x 4.7 x 2.6 cm (4 3/4 x 1 7/8 x 1 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.12,
+          "width": 0.047,
+          "depth": 0.026
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 344809,
+            "title": "The Gruener Collection of Pre-Columbian Art",
+            "description": "<i>The Gruener Collection of Pre-Columbian Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 4-November 29, 1992).",
+            "opening_date": "1992-02-04T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Cleveland, OH: The Cleveland Museum of Art; February 4 - November 29, 1992. \"The Gruener Collection of Pre-Columbian Art.\" The Bulletin of The Cleveland Museum of Art. 79 (September, 1992.) cat. no. 40, p. 269, repr. fig. 40, p. 248.",
+            "opening_date": "1992-02-04T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "(Frances Pratt, Inc., New York, NY, 1962, sold to James C. and Florence C. Gruener)",
+          "citations": [],
+          "footnotes": [],
+          "date": "?-1962",
+          "sortorder": 1
+        },
+        {
+          "description": "James C. [1903-1990] and Florence C. [1908-1982] Gruener, Cleveland, OH, bequest to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": [],
+          "date": "1962-1990",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": [],
+          "date": "1990",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Mezcala architectural models reportedly come from burials, but few have been scientifically excavated.",
+      "description": "The Mezcala style takes its name from a river in its homeland, the Guerrero region of western Mexico. The style is known for small-scale stone sculptures including architectural “models” characterized by sleek abstraction. Because comparisons to actual architecture in the Mezcala region are scarce, it is not known whether the models refer to temples, houses, or underground funerary structures.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79943561"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1990.187-architectural-model"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Young-Sánchez, Margaret. \"The Gruener Collection of Pre-Columbian Art.\" <em>The Bulletin of the Cleveland Museum of Art</em> 79, no. 7 (1992): 234-75.",
+          "page_number": "Reproduced and Mentioned: p. 248",
+          "url": "https://www.jstor.org/stable/25161367"
+        }
+      ],
+      "url": "https://clevelandart.org/art/1990.187",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1990.187/1990.187_web.jpg",
+          "width": "629",
+          "height": "893",
+          "filesize": "284503",
+          "filename": "1990.187_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1990.187/1990.187_print.jpg",
+          "width": "2395",
+          "height": "3400",
+          "filesize": "5146514",
+          "filename": "1990.187_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1990.187/1990.187_full.tif",
+          "width": "3077",
+          "height": "4368",
+          "filesize": "40355292",
+          "filename": "1990.187_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2011-04-12T17:46:35",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1990.187/1990.187_alt0_web.jpg",
+            "width": "661",
+            "height": "893",
+            "filesize": "244584"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1990.187/1990.187_alt0_print.jpg",
+            "width": "2515",
+            "height": "3400",
+            "filesize": "4900626"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1990.187/1990.187_alt0_full.tif",
+            "width": "3222",
+            "height": "4355",
+            "filesize": "42123892"
+          }
+        },
+        {
+          "date_created": "2011-04-12T18:00:56",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1990.187/1990.187_alt1_web.jpg",
+            "width": "602",
+            "height": "893",
+            "filesize": "228183"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1990.187/1990.187_alt1_print.jpg",
+            "width": "2292",
+            "height": "3400",
+            "filesize": "4487738"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1990.187/1990.187_alt1_full.tif",
+            "width": "2982",
+            "height": "4422",
+            "filesize": "39587892"
+          }
+        },
+        {
+          "date_created": "2011-04-12T18:27:10",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1990.187/1990.187_alt2_web.jpg",
+            "width": "674",
+            "height": "893",
+            "filesize": "303867"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1990.187/1990.187_alt2_print.jpg",
+            "width": "2566",
+            "height": "3400",
+            "filesize": "5490526"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1990.187/1990.187_alt2_full.tif",
+            "width": "3335",
+            "height": "4418",
+            "filesize": "44232468"
+          }
+        }
+      ],
+      "creditline": "Gift of Mr. and Mrs. James C. Gruener",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 155461,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1991-03-27T00:00:00",
+      "sortable_date": -100,
+      "date_added_to_oa": null,
+      "date_text": "100 BCE–300 CE",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:59.458000"
+    },
+    {
+      "id": 169174,
+      "accession_number": "2011.1",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Stairs, 2010. Monika Sosnowska (Polish, b. 1972). Steel, paint; overall: 294.6 x 165.1 x 88.9 cm (116 x 65 x 35 in.). The Cleveland Museum of Art, Gift of Scott C. Mueller and Margaret Fulton Mueller and Sundry Art-Contemporary Fund, 2011.1",
+      "current_location": null,
+      "title": "Stairs",
+      "creation_date": "2010",
+      "creation_date_earliest": 2010,
+      "creation_date_latest": 2010,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "Poland, 21st century"
+      ],
+      "technique": "steel, paint",
+      "support_materials": [],
+      "department": "Contemporary Art",
+      "collection": "CONTEMP - Sculpture",
+      "type": "Mixed Media",
+      "measurements": "Overall: 294.6 x 165.1 x 88.9 cm (116 x 65 x 35 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 2.946,
+          "width": 1.651,
+          "depth": 0.889
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Artist; Hauser & Wirth, New York; The Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Sosnowska says of her art, “In my works there’s no trace of the artist’s hand.”",
+      "description": "Sosnowska is interested in modernism's fascination with utopian ideals, examples of which in Eastern Europe are now in ruins. <em>Stairs</em>, made during the artist's first residency in the United States, is an exact copy of fire-escape stairs seen in New York City. The newly rendered stairs were carefully bent with the use of forklifts, then painted with enamel oil-based paint, providing it with both sculptural elegance and uncanniness. <em>Stairs</em> uses the language of architecture to explore and analyze the ways in which form and function can be used to express a range of ideals, locations, and histories.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80076092"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+          "page_number": "Mentioned and reproduced: P. 126",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/2011.1",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Scott C. Mueller and Margaret Fulton Mueller and Sundry Art-Contemporary Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 169174,
+      "creators": [
+        {
+          "id": 60778,
+          "description": "Monika Sosnowska (Polish, b. 1972)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1972",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2011-03-07T00:00:00",
+      "sortable_date": 2010,
+      "date_added_to_oa": null,
+      "date_text": "2010",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:00.659000"
+    },
+    {
+      "id": 394986,
+      "accession_number": "2020.220.b",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Tablet from Set 3, from the series Les Septs Stations\nCélestes (The Seven Heavenly Stations), 2018. Rachid Koraïchi (Algerian, b. 1947). Alabaster; overall: 49.5 x 49.5 x 3.2 cm (19 1/2 x 19 1/2 x 1 1/4 in.). The Cleveland Museum of Art, Dudley P. Allen Fund, 2020.220.b",
+      "current_location": "108A African",
+      "title": "Tablet from Set 3, from the series Les Septs Stations\nCélestes (The Seven Heavenly Stations)",
+      "creation_date": "2018",
+      "creation_date_earliest": 2018,
+      "creation_date_latest": 2018,
+      "artists_tags": [
+        "male",
+        "African (from 1900 to present)"
+      ],
+      "culture": [
+        "Algeria"
+      ],
+      "technique": "Alabaster",
+      "support_materials": [],
+      "department": "African Art",
+      "collection": "African Art",
+      "type": "Stone",
+      "measurements": "Overall: 49.5 x 49.5 x 3.2 cm (19 1/2 x 19 1/2 x 1 1/4 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.495,
+          "width": 0.495,
+          "depth": 0.032
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 446033,
+            "title": "Arts of Africa",
+            "description": "<i>Arts of Africa</i>. The Cleveland Museum of Art (organizer) (December 10, 2021-July 2, 2023).",
+            "opening_date": "2021-12-09T05:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Collection of the artist",
+          "citations": [],
+          "footnotes": null,
+          "date": "2018",
+          "sortorder": 1
+        },
+        {
+          "description": "(Aicon Gallery, New York, NY, sold to the Cleveland Museum of Art)",
+          "citations": [],
+          "footnotes": null,
+          "date": "by 2018",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2020-",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Blending historical and high-tech art-making techniques, these tablets’ designs were first drawn, then carved with a digital router.",
+      "description": "The paired alabaster tablets of <em>Les Septs Stations Célestes </em>contrast Arabic calligraphy (right) with Rachid Koraïchi’s unique visual language and drawings (left). Over many decades, Koraïchi has developed a personal “alphabet of memory,” blending Chinese, Sumerian, Hebrew, Tamazight (Amazigh), Tifinagh (Tuareg), and Arabic letterforms or symbols with numbers, codes, and drawings. These digitally sculpted tablets evoke historical Islamic architecture, especially Egypt’s gleaming “Alabaster Mosque” in Cairo, made from the same semiopaque stone. This set features excerpts from Lebanese-American writer and painter Kahlil Gibran (1883–1931) on the subject of love. The word <em>love </em>repeats throughout, emphasizing its centrality.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q106600563"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Aicon Gallery. <em>Rachid Koraïchi: Les Sept Stations Céleste</em>. New York, NY: Aicon Gallery, 2020.",
+          "page_number": "Reproduced:  pp. 14-15.",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/2020.220.b",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Dudley P. Allen Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 394986,
+      "creators": [
+        {
+          "id": 383228,
+          "description": "Rachid Koraïchi (Algerian, b. 1947)",
+          "extent": null,
+          "qualifier": null,
+          "role": "maker",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 0
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2020-09-14T00:00:00-04:00",
+      "sortable_date": 2018,
+      "date_added_to_oa": null,
+      "date_text": "2018",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2020.220",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Tablet from Set 3 from the series Les Septs Stations Célestes"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:49.947000"
+    },
+    {
+      "id": 152598,
+      "accession_number": "1985.409",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Chinese Temple, Nagasaki, 1955. Saitō Kiyoshi (1907–1997). Woodblock print; ink and color on paper; 61 x 84.5 cm (24 x 33 1/4 in.). The Cleveland Museum of Art, The Kelvin Smith Collection, given by Mrs. Kelvin Smith, 1985.409",
+      "current_location": null,
+      "title": "Chinese Temple, Nagasaki",
+      "creation_date": "1955",
+      "creation_date_earliest": 1955,
+      "creation_date_latest": 1955,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Japan"
+      ],
+      "technique": "woodblock print; ink and color on paper",
+      "support_materials": [],
+      "department": "Prints",
+      "collection": "PR - Woodcut",
+      "type": "Print",
+      "measurements": "61 x 84.5 cm (24 x 33 1/4 in.)",
+      "dimensions": {
+        "No Extent Specified": {
+          "height": 0.61,
+          "width": 0.845
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The temple represented is Sōfukuji, the construction of which was completed in 1635.",
+      "description": "The foreground of Saitō Kiyoshi's print captures the elaborately carved wood railing of the Ming dynasty–style architecture of a Buddhist temple in Nagasaki. The temple was established by Chaonian (1567–1644), a monk from Fuzhou in China's Fujian province, to serve the diasporic community from Fuzhou.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79937607"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1985.409",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The Kelvin Smith Collection, given by Mrs. Kelvin Smith",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 152598,
+      "creators": [
+        {
+          "id": 34426,
+          "description": "Saitō Kiyoshi (1907–1997)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "斎藤 清",
+          "birth_year": "1907",
+          "death_year": "1997",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1985-12-18T00:00:00",
+      "sortable_date": 1955,
+      "date_added_to_oa": null,
+      "date_text": "1955",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:05.683000"
+    },
+    {
+      "id": 125577,
+      "accession_number": "1947.501.a",
+      "share_license_status": "CC0",
+      "tombstone": "Yusuf and Zulaykha (recto), from an Anthology of Persian Verses, including The Fifth Throne from the Haft Awrang (Seven Thrones) of Jami: The Fifth Throne, c. 1556–65. Iran, Shiraz or Mashhad, Safavid period (1501–1722). Gum tempera, ink, and gold on paper; sheet: 29.8 x 17.3 cm (11 3/4 x 6 13/16 in.); image: 21.3 x 15.3 cm (8 3/8 x 6 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1947.501.a",
+      "current_location": null,
+      "title": "Yusuf and Zulaykha (recto), from an Anthology of Persian Verses, including The Fifth Throne from the Haft Awrang (Seven Thrones) of Jami: The Fifth Throne",
+      "creation_date": "c. 1556–65",
+      "creation_date_earliest": 1556,
+      "creation_date_latest": 1565,
+      "artists_tags": [],
+      "culture": [
+        "Iran, Shiraz or Mashhad, Safavid period (1501–1722)"
+      ],
+      "technique": "Gum tempera, ink, and gold on paper",
+      "support_materials": [],
+      "department": "Islamic Art",
+      "collection": "Islamic Art",
+      "type": "Manuscript",
+      "measurements": "Sheet: 29.8 x 17.3 cm (11 3/4 x 6 13/16 in.); Image: 21.3 x 15.3 cm (8 3/8 x 6 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.298,
+          "width": 0.173
+        },
+        "image": {
+          "height": 0.213,
+          "width": 0.153
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Script: Nasta'liq",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 309887,
+            "title": "The Twain Shall Meet",
+            "description": "<i>The Twain Shall Meet</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 30, 1985-January 5, 1986).",
+            "opening_date": "1985-10-30T05:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Heeramaneck Galleries, New York, NY, sold to the Cleveland Museum of Art)",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1947",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1947–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Figs and pomegranates, being served to the couple, are symbolic of fertility.",
+      "description": "The painting quotes verses from the <em>Haft Awrang</em> (Seven Thrones) by the Persian poet Jami, a classic of Persian literature, here illustrating the romance of Yusuf and Zulaykha. Originally rooted in the Qur’an (Surah Yusuf, chapter 12), the Prophet Yusuf (Joseph) encounters the wife of the Egyptian governor, traditionally identified as Zulaykha, both seated opposite each other on the right, framed by architecture.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79904300"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1947.501.a-yusuf-and-zulaykha-r"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Neils, Jenifer. “The Twain Shall Meet.” <em>The Bulletin of the Cleveland Museum of Art</em> 72, no. 6 (1985): 326–359.",
+          "page_number": "Mentioned: no. 26, p. 357",
+          "url": "http://www.jstor.org/stable/2515991"
+        }
+      ],
+      "url": "https://clevelandart.org/art/1947.501.a",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1947.501.a/1947.501.a_web.jpg",
+          "width": "657",
+          "height": "893",
+          "filesize": "561672",
+          "filename": "1947.501.a_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1947.501.a/1947.501.a_print.jpg",
+          "width": "2503",
+          "height": "3400",
+          "filesize": "7447961",
+          "filename": "1947.501.a_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1947.501.a/1947.501.a_full.tif",
+          "width": "3550",
+          "height": "4822",
+          "filesize": "51390608",
+          "filename": "1947.501.a_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2009-11-18T20:59:42",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1947.501.a/1947.501.a_alt0_web.jpg",
+            "width": "668",
+            "height": "893",
+            "filesize": "566141"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1947.501.a/1947.501.a_alt0_print.jpg",
+            "width": "2545",
+            "height": "3400",
+            "filesize": "7614737"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1947.501.a/1947.501.a_alt0_full.tif",
+            "width": "4992",
+            "height": "6668",
+            "filesize": "99895952"
+          }
+        }
+      ],
+      "creditline": "Purchase from the J. H. Wade Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 125577,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1947-12-19T00:00:00",
+      "sortable_date": 1556,
+      "date_added_to_oa": null,
+      "date_text": "c. 1556–65",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "1947.501",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "An Episode from the Story of the Sasanian King Khusro and His Beloved Shirin:  Illustration from the Manuscript of the Khamsa (Quintet) by Nizami",
+        "Yusuf and Zulaykha (recto); Illustration and Text (Persian Verses) in an Anthology with some verses from Haft Awrang (Seven Thrones) of Jami; The Fifth Throne"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-04-01 20:17:23.966000"
+    },
+    {
+      "id": 136191,
+      "accession_number": "1959.99.8",
+      "share_license_status": "CC0",
+      "tombstone": "The Life of the Virgin: The Annunciation, c. 1503–5. Albrecht Dürer (German, 1471–1528). Woodcut. The Cleveland Museum of Art, Dudley P. Allen Fund, 1959.99.8",
+      "current_location": null,
+      "title": "The Annunciation",
+      "series": "The Life of the Virgin",
+      "creation_date": "c. 1503–5",
+      "creation_date_earliest": 1503,
+      "creation_date_latest": 1505,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Germany, early 16th Century"
+      ],
+      "technique": "woodcut",
+      "support_materials": [],
+      "department": "Prints",
+      "collection": "PR - Woodcut",
+      "type": "Print",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 301400,
+            "title": "Albrecht Dürer - 500th Anniversary",
+            "description": "<i>Albrecht Dürer - 500th Anniversary</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 19-March 28, 1971).",
+            "opening_date": "1971-02-19T05:00:00"
+          },
+          {
+            "id": 445328,
+            "title": "Durer",
+            "description": "<i>Durer</i>. Allen Memorial Art Museum, Oberlin, OH (organizer) (April 6-May 8, 1971).",
+            "opening_date": "1971-04-06T05:00:00"
+          },
+          {
+            "id": 184690,
+            "title": "Against the Grain: Woodcuts from the Collection",
+            "description": "<i>Against the Grain: Woodcuts from the Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 17-November 9, 2003).",
+            "opening_date": "2003-08-17T00:00:00"
+          },
+          {
+            "id": 205194,
+            "title": "Dürer's Women: Images of Devotion and Desire",
+            "description": "<i>Dürer's Women: Images of Devotion and Desire</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 22-September 28, 2014).",
+            "opening_date": "2014-06-22T00:00:00"
+          },
+          {
+            "id": 357806,
+            "title": "Prince Salim's Life of Christ (Manuscript Rotation) - Gallery 115",
+            "description": "<i>Prince Salim's Life of Christ (Manuscript Rotation) - Gallery 115</i>. The Cleveland Museum of Art (organizer) (December 2, 2019-July 1, 2020).",
+            "opening_date": "2019-12-02T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "<em>Sets and Series: Five Centuries of Master Prints</em>. The Cleveland Museum of Art, Cleveland, OH (February 20-May 5, 1996). no cat.",
+            "opening_date": "1996-02-20T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "(William H. Schab Gallery, New York, NY, sold to the Cleveland Museum of Art)",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1959",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1959–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [
+        "1959.106"
+      ],
+      "did_you_know": "Dürer's cycle depicting Mary's life, which gained instant acclaim, was remarkable not only for its theological accuracy but also for its unprecedented wealth of detail.",
+      "description": "Dürer’s Gabriel is no humble messenger: he commands the space with rippling drapery and an expansive spread of wings. Indeed, it is Mary who seems submissive, dwarfed by the massive architecture and her new responsibility as the mother of God. The grand setting underscores the drama of the moment and displays Dürer’s command of mathematical perspective. <br><br>Details in Dürer’s <em>Annunciation</em> held significance for European Christians. For example, the dove hovering above Mary’s head in a blaze of light indicates the moment the Holy Spirit impregnates her; the Old Testament heroine Judith, depicted in a roundel just below the ceiling, symbolizes Mary’s victory over the devil.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q18338566"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1959.99.8-the-annunciation"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Dürer, Albrecht. <em>The Life of the Virgin.</em> Cleveland, Ohio: Cleveland Museum of Art, 1959.",
+          "page_number": "Mentioned: p. 8; Plate VIII",
+          "url": "https://archive.org/details/AlbrechtDurer/page/n17"
+        }
+      ],
+      "catalogue_raisonne": "Meder 195",
+      "url": "https://clevelandart.org/art/1959.99.8",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1959.99.8/1959.99.8_web.jpg",
+          "width": "647",
+          "height": "893",
+          "filesize": "582797",
+          "filename": "1959.99.8_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1959.99.8/1959.99.8_print.jpg",
+          "width": "2462",
+          "height": "3400",
+          "filesize": "7783323",
+          "filename": "1959.99.8_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1959.99.8/1959.99.8_full.tif",
+          "width": "3648",
+          "height": "5038",
+          "filesize": "55171272",
+          "filename": "1959.99.8_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Dudley P. Allen Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 136191,
+      "creators": [
+        {
+          "id": 11617,
+          "description": "Albrecht Dürer (German, 1471–1528)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1471",
+          "death_year": "1528",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1959-04-25T00:00:00",
+      "sortable_date": 1503,
+      "date_added_to_oa": null,
+      "date_text": "c. 1503–5",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "1959.99",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "The Life of the Virgin:  The Annunciation"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:05:49.259000"
+    },
+    {
+      "id": 111716,
+      "accession_number": "1930.243",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Grief (Mural Study), 1929. José Clemente Orozco (Mexican, 1883–1949), published by Delphic Studios. Lithograph; image: 30.2 x 35.1 cm (11 7/8 x 13 13/16 in.). The Cleveland Museum of Art, Dudley P. Allen Fund, 1930.243. © José Clemente Orozco / Artists Rights Society (ARS), New York / SOMAAP, Mexico \r\n\r\n",
+      "current_location": null,
+      "title": "Grief (Mural Study)",
+      "creation_date": "1929",
+      "creation_date_earliest": 1929,
+      "creation_date_latest": 1929,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Mexico, 20th century"
+      ],
+      "technique": "lithograph",
+      "support_materials": [],
+      "department": "Prints",
+      "collection": "PR - Lithograph",
+      "type": "Print",
+      "measurements": "Image: 30.2 x 35.1 cm (11 7/8 x 13 13/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.302,
+          "width": 0.351
+        }
+      },
+      "state_of_the_work": "I/I",
+      "edition_of_the_work": "edition of 100",
+      "copyright": "© José Clemente Orozco / Artists Rights Society (ARS), New York / SOMAAP, Mexico \r\n\r\n",
+      "inscriptions": [
+        {
+          "inscription": "signed at lower right, in pencil: J.C. Orozco; inscribed at lower left, in pencil: 56/100",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 357312,
+            "title": "Prints of the Fifteenth to Twentieth Century from the Museum Collection",
+            "description": "<i>Prints of the Fifteenth to Twentieth Century from the Museum Collection</i>. The Cleveland Museum of Art, Cleveland, OH (June 5-September 12, 1934).",
+            "opening_date": "1934-06-05T04:00:00"
+          },
+          {
+            "id": 373919,
+            "title": "A Graphic Revolution: Prints and Drawings in Latin America",
+            "description": "<i>A Graphic Revolution: Prints and Drawings in Latin America</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 14-August 2, 2020).",
+            "opening_date": "2020-03-08T05:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Korner & Wood Co., Cleveland, OH, sold to the Cleveland Museum of Art, Cleveland, OH)",
+          "citations": [],
+          "footnotes": [],
+          "date": "?-1930",
+          "sortorder": 1
+        },
+        {
+          "description": "Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "1930-",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "In this print, Orozco incorporated the architecture of the building where the related mural was located in the form of a partial column along the left side of the image.",
+      "description": "José Clemente Orozco reinterpreted the mural projects he completed as commissions for the Mexican government as lithographs to share their imagery more widely. Orozco’s focus on universal emotions—such as grief, seen here—appealed to an especially broad audience. This print features a detail from murals that the artist created for the National Preparatory School in Mexico City.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80004178"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "catalogue_raisonne": "Hopkins 34; Orozco 7",
+      "url": "https://clevelandart.org/art/1930.243",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Dudley P. Allen Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 111716,
+      "creators": [
+        {
+          "id": 3234,
+          "description": "José Clemente Orozco (Mexican, 1883–1949)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1883",
+          "death_year": "1949",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 370942,
+          "description": "Delphic Studios",
+          "extent": "published by",
+          "qualifier": null,
+          "role": "publisher",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 2
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1930-05-10T00:00:00",
+      "sortable_date": 1929,
+      "date_added_to_oa": null,
+      "date_text": "1929",
+      "collapse_artists": true,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": "56",
+      "alternate_titles": [
+        "Mural Study"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:06.312000"
+    },
+    {
+      "id": 163670,
+      "accession_number": "2005.145.40.a",
+      "share_license_status": "CC0",
+      "tombstone": "Simeon Kneels in Front of Mary and Jesus after Recognizing Them (folio 40 recto), from a Mirror of Holiness (Mir’at al-quds) of Father Jerome Xavier, 1602–4. Mughal India, Allahabad, made for Prince Salim (1569–1627). Gum tempera, ink, and gold on paper; sheet: 26.2 x 15.7 cm (10 5/16 x 6 3/16 in.); image: 21.4 x 12.6 cm (8 7/16 x 4 15/16 in.). The Cleveland Museum of Art, John L. Severance Fund, 2005.145.40.a",
+      "current_location": null,
+      "title": "Simeon Kneels in Front of Mary and Jesus after Recognizing Them (folio 40 recto), from a Mirror of Holiness (Mir’at al-quds) of Father Jerome Xavier",
+      "creation_date": "1602–4",
+      "creation_date_earliest": 1602,
+      "creation_date_latest": 1604,
+      "artists_tags": [],
+      "culture": [
+        "Mughal India, Allahabad, made for Prince Salim (1569–1627)"
+      ],
+      "technique": "Gum tempera, ink, and gold on paper",
+      "support_materials": [],
+      "department": "Indian and Southeast Asian Art",
+      "collection": "Indian Art",
+      "type": "Manuscript",
+      "measurements": "Sheet: 26.2 x 15.7 cm (10 5/16 x 6 3/16 in.); Image: 21.4 x 12.6 cm (8 7/16 x 4 15/16 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.262,
+          "width": 0.157
+        },
+        "image": {
+          "height": 0.214,
+          "width": 0.126
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 357806,
+            "title": "Prince Salim's Life of Christ (Manuscript Rotation) - Gallery 115",
+            "description": "<i>Prince Salim's Life of Christ (Manuscript Rotation) - Gallery 115</i>. The Cleveland Museum of Art (organizer) (December 2, 2019-July 1, 2020).",
+            "opening_date": "2019-12-02T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "<em>Main Asian Rotation (Gallery 245)</em>. The Cleveland Museum of Art, Cleveland, OH (January 5-April 27, 2015).",
+            "opening_date": "2015-01-05T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "An Indian family in Great Britain, whose grandfather brought the manuscript to England in the 1930s or 1940s",
+          "citations": [],
+          "footnotes": [],
+          "date": "before 1930s–2005",
+          "sortorder": 1
+        },
+        {
+          "description": "(Oliver Forge and Brendan Lynch Ltd., London, England, sold to the Cleveland Museum of Art)",
+          "citations": [],
+          "footnotes": null,
+          "date": "2005",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "2005–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [
+        "2005.145.8"
+      ],
+      "did_you_know": "A man in the lower left offers grapes to a dog.",
+      "description": "Simeon had heard a prophecy that he would encounter the Messiah with his mother in the temple at Jerusalem. This painting depicts his moment of recognition that the prophecy had come true. The temple is populated by Jewish teachers and scholars, and a number of unusual visual elements. A dragon-headed vase is set by the stairs, and niches for vases flank the entrance, possibly in reference to Mary’s status as a vessel for the divine. The form of the temple itself seems to be an imaginative combination of Hindu temple architecture and a Mughal palace.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q85630382"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2005.145.40.a-simeon-kneels-in-fro"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Sotheby's (Firm). <em>Arts of the Islamic World: Including 20th Century Middle Eastern Painting</em>. London: Sotheby's, 2001.",
+          "page_number": "Mentioned and Reproduced: lot no. 75, p. 77",
+          "url": null
+        },
+        {
+          "citation": "O’Malley, John W., Gauvin A. Bailey, and Giovanni Sale. <em>The Jesuits and the Arts, 1540-1773</em>. 1st English ed. Philadelphia: Saint Joseph’s University Press, 2005.",
+          "page_number": "Reproduced: p. 352, fig. 10.37",
+          "url": ""
+        },
+        {
+          "citation": "Carvalho, Pedro de Moura, and W. M. Thackston. <em>Mirʼāt al-quds (Mirror of holiness): a life of Christ for Emperor Akbar: a commentary on Father Jerome Xavier's text and the miniatures of Cleveland Museum of Art, Acc. no. 2005.145</em>. Leiden: Brill, 2012.",
+          "page_number": null,
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/2005.145.40.a",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2005.145.40.a/2005.145.40.a_web.jpg",
+          "width": "549",
+          "height": "900",
+          "filesize": "329066",
+          "filename": "2005.145.40.a_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2005.145.40.a/2005.145.40.a_print.jpg",
+          "width": "2073",
+          "height": "3400",
+          "filesize": "2865891",
+          "filename": "2005.145.40.a_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2005.145.40.a/2005.145.40.a_full.tif",
+          "width": "3876",
+          "height": "6358",
+          "filesize": "73963568",
+          "filename": "2005.145.40.a_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2005-10-14T17:35:58",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2005.145.40.a/2005.145.40.a_alt0_web.jpg",
+            "width": "546",
+            "height": "900",
+            "filesize": "295425"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2005.145.40.a/2005.145.40.a_alt0_print.jpg",
+            "width": "2061",
+            "height": "3400",
+            "filesize": "2123691"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2005.145.40.a/2005.145.40.a_alt0_full.tif",
+            "width": "3324",
+            "height": "5484",
+            "filesize": "54718072"
+          }
+        },
+        {
+          "date_created": "2005-10-14T17:35:58",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2005.145.40.a/2005.145.40.a_alt1_web.jpg",
+            "width": "541",
+            "height": "893",
+            "filesize": "399148"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2005.145.40.a/2005.145.40.a_alt1_print.jpg",
+            "width": "2061",
+            "height": "3400",
+            "filesize": "4822756"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2005.145.40.a/2005.145.40.a_alt1_full.tif",
+            "width": "3324",
+            "height": "5484",
+            "filesize": "54718072"
+          }
+        },
+        {
+          "date_created": "2014-04-25T12:39:16",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2005.145.40.a/2005.145.40.a_alt2_web.jpg",
+            "width": "549",
+            "height": "900",
+            "filesize": "217924"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2005.145.40.a/2005.145.40.a_alt2_print.jpg",
+            "width": "2073",
+            "height": "3400",
+            "filesize": "2256721"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2005.145.40.a/2005.145.40.a_alt2_full.tif",
+            "width": "3876",
+            "height": "6358",
+            "filesize": "73963568"
+          }
+        },
+        {
+          "date_created": "2019-11-14T15:41:30",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2005.145.40.a/2005.145.40.a_alt3_web.jpg",
+            "width": "565",
+            "height": "900",
+            "filesize": "282158"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2005.145.40.a/2005.145.40.a_alt3_print.jpg",
+            "width": "2133",
+            "height": "3400",
+            "filesize": "2854611"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2005.145.40.a/2005.145.40.a_alt3_full.tif",
+            "width": "7717",
+            "height": "12301",
+            "filesize": "284809000"
+          }
+        }
+      ],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 163670,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "2005-09-06T00:00:00",
+      "sortable_date": 1602,
+      "date_added_to_oa": null,
+      "date_text": "1602–4",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2005.145",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Masihnama (Life of Christ) Manuscript (plate 8: Presentation in the Temple)",
+        "Simeon Kneels in Front of Mary and Jesus After Recognizing Them, from a Mirror of Holiness (Mi'rat al-Quds) of Father Jerome Xavier",
+        "Simeon Kneels in Front of Mary and Jesus After Recognizing Them, from a Mirror of Holiness (Mir’at al-quds) of Father Jerome Xavier"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:05:08.910000"
+    },
+    {
+      "id": 147942,
+      "accession_number": "1974.40",
+      "share_license_status": "CC0",
+      "tombstone": "Plaque Depicting the Trojan Horse from the Aeneid, c. 1530–40. Master of the Aeneid Series (French). Painted enamel on copper, gilt-silver frame; overall: 23.8 x 21.4 cm (9 3/8 x 8 7/16 in.). The Cleveland Museum of Art, Andrew R. and Martha Holden Jennings Fund, 1974.40",
+      "current_location": "114 Late Northern Renaissance",
+      "title": "Plaque Depicting the Trojan Horse from the Aeneid",
+      "creation_date": "c. 1530–40",
+      "creation_date_earliest": 1525,
+      "creation_date_latest": 1545,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, Limoges"
+      ],
+      "technique": "painted enamel on copper, gilt-silver frame",
+      "support_materials": [],
+      "department": "Decorative Art and Design",
+      "collection": "Decorative Arts",
+      "type": "Enamel",
+      "measurements": "Overall: 23.8 x 21.4 cm (9 3/8 x 8 7/16 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.238,
+          "width": 0.214
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 302084,
+            "title": "Year in Review: 1974",
+            "description": "<i>Year in Review: 1974</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 11-April 6, 1975).",
+            "opening_date": "1975-03-11T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Nathaniel de Rothschild, Vienna.  Alphonse de Rothschild, Vienna.  (Rosenberg & Steibel, New York).  Sydney J. Lamon, New York.  (Blumka Gallery, New York).",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "This plaque is among the earliest examples of the technique of enamel on copper used during the Renaissance to depict secular scenes. Although it illustrates a passage from the ancient text of the <em>Aeneid</em>, the architecture and dress are more reflective of the courtly style popular in 16th-century France, when this work was made.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60762991"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1974.40-plaque-depicting-the"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Lee, Sherman E. \"The Year in Review for 1974.\" <em>The Bulletin of the Cleveland Museum of Art</em> 62, no. 3 (March 1975): 62-102.",
+          "page_number": "mentioned & reproduced PP 66 & 97, cat. no. 13",
+          "url": "www.jstor.org/stable/25152580"
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+          "page_number": "reproduced P 117",
+          "url": "https://archive.org/details/CMAHandbook1978/page/n137"
+        }
+      ],
+      "url": "https://clevelandart.org/art/1974.40",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1974.40/1974.40_web.jpg",
+          "width": "849",
+          "height": "893",
+          "filesize": "642790",
+          "filename": "1974.40_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1974.40/1974.40_print.jpg",
+          "width": "3231",
+          "height": "3400",
+          "filesize": "8158663",
+          "filename": "1974.40_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1974.40/1974.40_full.tif",
+          "width": "4430",
+          "height": "4661",
+          "filesize": "61980160",
+          "filename": "1974.40_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1974.40/1974.40_alt0_web.jpg",
+            "width": "804",
+            "height": "893",
+            "filesize": "713091"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1974.40/1974.40_alt0_print.jpg",
+            "width": "1536",
+            "height": "1705",
+            "filesize": "2562988"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1974.40/1974.40_alt0_full.tif",
+            "width": "1536",
+            "height": "1705",
+            "filesize": "7859548"
+          }
+        },
+        {
+          "date_created": "2009-01-06T13:52:44",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1974.40/1974.40_alt1_web.jpg",
+            "width": "842",
+            "height": "893",
+            "filesize": "434215"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1974.40/1974.40_alt1_print.jpg",
+            "width": "3207",
+            "height": "3400",
+            "filesize": "6164941"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1974.40/1974.40_alt1_full.tif",
+            "width": "4429",
+            "height": "4696",
+            "filesize": "62426340"
+          }
+        }
+      ],
+      "creditline": "Andrew R. and Martha Holden Jennings Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 147942,
+      "creators": [
+        {
+          "id": 5733,
+          "description": "Master of the Aeneid Series (French)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1974-05-21T00:00:00",
+      "sortable_date": 1525,
+      "date_added_to_oa": null,
+      "date_text": "c. 1530–40",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Episode of the Aeneid: The Trojan Horse"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:47.721000"
+    },
+    {
+      "id": 524144,
+      "accession_number": "2022.256",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Itjorholo/ijogolo (married woman’s apron), c. 1935. Africa, Southern Africa, South Africa, Ndebele-style maker. Goatskin, grass, glass beads; overall: 69.8 x 50.8 cm (27 1/2 x 20 in.). The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund, 2022.256",
+      "current_location": "108B Southern African",
+      "title": "Itjorholo/ijogolo (married woman’s apron)",
+      "creation_date": "c. 1935",
+      "creation_date_earliest": 1930,
+      "creation_date_latest": 1940,
+      "artists_tags": [],
+      "culture": [
+        "Africa, Southern Africa, South Africa, Ndebele-style maker"
+      ],
+      "technique": "Goatskin, grass, glass beads",
+      "support_materials": [],
+      "department": "African Art",
+      "collection": "African Art",
+      "type": "Textile",
+      "measurements": "Overall: 69.8 x 50.8 cm (27 1/2 x 20 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.698,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Suzanne Priebatsch & Natalie Knight, South Africa",
+          "citations": [],
+          "footnotes": null,
+          "date": "ca. 1970s–1980s",
+          "sortorder": 1
+        },
+        {
+          "description": "(Knight Galleries International, Toronto, Canada (Natalie [Knight] Liknaitzky & Julian Liknaitzky), sold to Gary van Wyk & Lisa Brittan",
+          "citations": [],
+          "footnotes": null,
+          "date": "2/7/2000",
+          "sortorder": 2
+        },
+        {
+          "description": "Gary van Wyk & Lisa Brittan, West Orange, NJ, sold to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "2000–2022",
+          "sortorder": 3
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2022–",
+          "sortorder": 4
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The designs on this <em>itjorholo</em> (beaded apron) reference architecture. An “H-shape” motif represents a homestead’s floor plan; triangles may be interpreted as a roof; and horizontal bands suggest compound walls.",
+      "description": "This <em>itjorholo</em> (beaded apron) represents the social status and future aspirations of a married Ndebele woman. Before a wedding, bridegrooms gift an undecorated hide apron to their fiancée. Following the marriage, the new bride or her mother-in-law embellish it with imported glass beads. The five large lappets or “calves” reference future children, while the smaller flanking lappets indicate the wearer already had children. The colorful motif suggests the paintings Ndebele women make on the exterior walls of their homestead compounds.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117247710"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Stepan, Peter, John William Gabriel, and Elizabeth Schwaiger. <em>Africa</em>. Munich: Prestel, 2001.",
+          "page_number": "pp. 60–61",
+          "url": "(https://www.worldcat.org/title/47270611)"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2022.256",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Severance and Greta Millikin Purchase Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 524144,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "2022-12-05T05:00:00Z",
+      "sortable_date": 1930,
+      "date_added_to_oa": null,
+      "date_text": "c. 1935",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:37.997000"
+    },
+    {
+      "id": 123529,
+      "accession_number": "1944.126",
+      "share_license_status": "CC0",
+      "tombstone": "Pair of Firedogs, c. 1785. France, 18th century. Gilt bronze; overall: 50.3 x 46.3 x 14 cm (19 13/16 x 18 1/4 x 5 1/2 in.). The Cleveland Museum of Art, The Elisabeth Severance Prentiss Collection, 1944.126",
+      "current_location": "202 French Neoclassical Decorative Arts",
+      "title": "Pair of Firedogs",
+      "creation_date": "c. 1785",
+      "creation_date_earliest": 1780,
+      "creation_date_latest": 1790,
+      "artists_tags": [],
+      "culture": [
+        "France, 18th century"
+      ],
+      "technique": "gilt bronze",
+      "support_materials": [],
+      "department": "Decorative Art and Design",
+      "collection": "Furniture",
+      "type": "Furniture and woodwork",
+      "measurements": "Overall: 50.3 x 46.3 x 14 cm (19 13/16 x 18 1/4 x 5 1/2 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.503,
+          "width": 0.463,
+          "depth": 0.14
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 304705,
+            "title": "Neo-classicism: Style and Motif",
+            "description": "<i>Neo-classicism: Style and Motif</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 23-October 31, 1964).",
+            "opening_date": "1964-09-23T04:00:00"
+          },
+          {
+            "id": 521173,
+            "title": "Egyptomania: Fashion’s Conflicted Obsession",
+            "description": "<i>Egyptomania: Fashion’s Conflicted Obsession</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 1, 2023-January 28, 2024).",
+            "opening_date": "2023-04-01T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Marquis of Hertford, Paris; Mrs. Francis F. Prentiss, Cleveland Heights, Ohio.",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Although Louis Jean Desprez’s design was largely inspired by tombs in southern Italy, he added sphinxes in his print <em>Tomb with Sphinx </em>due to his fascination with ancient Egypt. Ancient Egyptians saw the sphinx, a half-human, half-lion mythological creature, as a protector of tombs and temples. The pair of andirons, decorative supports for a hearth’s firewood, alongside <em>Tomb with Sphinx</em>, highlight the growing interest in Egyptomania during the 1700s. Interestingly, the andirons portray ancient Greek and Roman interpretations of the sphinx. Most Europeans learned of ancient Egypt by studying Egyptomania in ancient Roman and Greek art and architecture or Egyptian antiquities brought over by the Romans.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60761035"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1944.126-pair-of-andirons-che",
+          "https://archive.org/details/clevelandart-1944.126-pair-of-firedogs"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "<em>Catalogue of the Elisabeth Severance Prentiss collection : bequest of Elisabeth Severance Prentiss, 1944.</em> [Cleveland]: The Cleveland Museum of Art, 1944. Published as: Pair of Firedogs, chenets.",
+          "page_number": "Reproduced & Mention: p.61, fig.42",
+          "url": "https://archive.org/details/Prentiss/page/n65"
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+          "page_number": "Reproduced: p. 157",
+          "url": "https://archive.org/details/CMAHandbook1966/page/n181"
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+          "page_number": "Reproduced: p. 157",
+          "url": "https://archive.org/details/CMAHandbook1969/page/n181"
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+          "page_number": "Reproduced: p. 189",
+          "url": "https://archive.org/details/CMAHandbook1978/page/n209"
+        }
+      ],
+      "url": "https://clevelandart.org/art/1944.126",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1944.126/1944.126_web.jpg",
+          "width": "900",
+          "height": "412",
+          "filesize": "",
+          "filename": "1944.126_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1944.126/1944.126_print.jpg",
+          "width": "3400",
+          "height": "1556",
+          "filesize": "",
+          "filename": "1944.126_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1944.126/1944.126_full.tif",
+          "width": "9374",
+          "height": "4290",
+          "filesize": "",
+          "filename": "1944.126_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2007-12-11T20:19:49",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1944.126/1944.126_alt0_web.jpg",
+            "width": "900",
+            "height": "831",
+            "filesize": "177063"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1944.126/1944.126_alt0_print.jpg",
+            "width": "3400",
+            "height": "3140",
+            "filesize": "1775343"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1944.126/1944.126_alt0_full.tif",
+            "width": "4645",
+            "height": "4290",
+            "filesize": "59812760"
+          }
+        }
+      ],
+      "creditline": "The Elisabeth Severance Prentiss Collection",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": "M. Roger and Anne Clapp Gallery",
+      "athena_id": 123529,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1944-03-17T00:00:00",
+      "sortable_date": 1780,
+      "date_added_to_oa": null,
+      "date_text": "c. 1785",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "cover",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Fire Dog"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:57.714000"
+    },
+    {
+      "id": 123531,
+      "accession_number": "1944.126.2",
+      "share_license_status": "CC0",
+      "tombstone": "Firedog, c. 1785. France, 18th century. Gilt bronze; overall: 50.3 x 46.3 x 14 cm (19 13/16 x 18 1/4 x 5 1/2 in.). The Cleveland Museum of Art, The Elisabeth Severance Prentiss Collection, 1944.126.2",
+      "current_location": "202 French Neoclassical Decorative Arts",
+      "title": "Firedog",
+      "creation_date": "c. 1785",
+      "creation_date_earliest": 1780,
+      "creation_date_latest": 1790,
+      "artists_tags": [],
+      "culture": [
+        "France, 18th century"
+      ],
+      "technique": "gilt bronze",
+      "support_materials": [],
+      "department": "Decorative Art and Design",
+      "collection": "Furniture",
+      "type": "Furniture and woodwork",
+      "measurements": "Overall: 50.3 x 46.3 x 14 cm (19 13/16 x 18 1/4 x 5 1/2 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.503,
+          "width": 0.463,
+          "depth": 0.14
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 304705,
+            "title": "Neo-classicism: Style and Motif",
+            "description": "<i>Neo-classicism: Style and Motif</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 23-October 31, 1964).",
+            "opening_date": "1964-09-23T04:00:00"
+          },
+          {
+            "id": 521173,
+            "title": "Egyptomania: Fashion’s Conflicted Obsession",
+            "description": "<i>Egyptomania: Fashion’s Conflicted Obsession</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 1, 2023-January 28, 2024).",
+            "opening_date": "2023-04-01T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Marquis of Hertford, Paris; Mrs. Francis F. Prentiss, Cleveland Heights, Ohio.",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [
+        "1944.127"
+      ],
+      "did_you_know": null,
+      "description": "Although Louis Jean Desprez’s design was largely inspired by tombs in southern Italy, he added sphinxes in his print <em>Tomb with Sphinx</em> due to his fascination with ancient Egypt. Ancient Egyptians saw the sphinx, a half-human, half-lion mythological creature, as a protector of tombs and temples. The pair of andirons, decorative supports for a hearth’s firewood, alongside Tomb with Sphinx, highlight the growing interest in Egyptomania during the 1700s. Interestingly, the andirons portray ancient Greek and Roman interpretations of the sphinx. Most Europeans learned of ancient Egypt by studying Egyptomania in ancient Roman and Greek art and architecture or Egyptian antiquities brought over by the Romans.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60754217"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1944.126.2-andiron-chenet",
+          "https://archive.org/details/clevelandart-1944.126.2-firedog"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "<em>Catalogue of the Elisabeth Severance Prentiss collection : bequest of Elisabeth Severance Prentiss, 1944. </em>[Cleveland]: The Cleveland Museum of Art, 1944.",
+          "page_number": "Mentioned: p. 61; reproduced: p. 60; cat. no. 43",
+          "url": "https://archive.org/details/Prentiss/page/n63"
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+          "page_number": "Reproduced: p. 157",
+          "url": "https://archive.org/details/CMAHandbook1966/page/n181"
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+          "page_number": "Reproduced: p. 157",
+          "url": "https://archive.org/details/CMAHandbook1969/page/n181"
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+          "page_number": "Reproduced: p. 189",
+          "url": "https://archive.org/details/CMAHandbook1978/page/n209"
+        }
+      ],
+      "url": "https://clevelandart.org/art/1944.126.2",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1944.126.2/1944.126.2_web.jpg",
+          "width": "995",
+          "height": "893",
+          "filesize": "499265",
+          "filename": "1944.126.2_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1944.126.2/1944.126.2_print.jpg",
+          "width": "3400",
+          "height": "3050",
+          "filesize": "5894332",
+          "filename": "1944.126.2_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1944.126.2/1944.126.2_full.tif",
+          "width": "4926",
+          "height": "4419",
+          "filesize": "65340700",
+          "filename": "1944.126.2_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2007-12-11T18:46:26",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1944.126.2/1944.126.2_alt0_web.jpg",
+            "width": "959",
+            "height": "893",
+            "filesize": "463294"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1944.126.2/1944.126.2_alt0_print.jpg",
+            "width": "3400",
+            "height": "3165",
+            "filesize": "5914398"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1944.126.2/1944.126.2_alt0_full.tif",
+            "width": "4649",
+            "height": "4328",
+            "filesize": "60400696"
+          }
+        },
+        {
+          "date_created": "2007-12-11T19:14:59",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1944.126.2/1944.126.2_alt1_web.jpg",
+            "width": "546",
+            "height": "893",
+            "filesize": "239135"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1944.126.2/1944.126.2_alt1_print.jpg",
+            "width": "2079",
+            "height": "3400",
+            "filesize": "3722329"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1944.126.2/1944.126.2_alt1_full.tif",
+            "width": "2760",
+            "height": "4513",
+            "filesize": "37404984"
+          }
+        },
+        {
+          "date_created": "2007-12-11T19:24:00",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1944.126.2/1944.126.2_alt2_web.jpg",
+            "width": "584",
+            "height": "893",
+            "filesize": "256914"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1944.126.2/1944.126.2_alt2_print.jpg",
+            "width": "2223",
+            "height": "3400",
+            "filesize": "4038674"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1944.126.2/1944.126.2_alt2_full.tif",
+            "width": "2819",
+            "height": "4312",
+            "filesize": "36501168"
+          }
+        }
+      ],
+      "creditline": "The Elisabeth Severance Prentiss Collection",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": "M. Roger and Anne Clapp Gallery",
+      "athena_id": 123531,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1944-03-17T00:00:00",
+      "sortable_date": 1780,
+      "date_added_to_oa": null,
+      "date_text": "c. 1785",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "1944.126",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Fire Dog"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:52.409000"
+    },
+    {
+      "id": 140150,
+      "accession_number": "1964.150.2",
+      "share_license_status": "CC0",
+      "tombstone": "Panel from a Triptych: St. Anthony Abbot, 1458. Fra Filippo Lippi (Italian, c. 1406–1469). Tempera on wood panel; framed: 94 x 40 x 6.5 cm (37 x 15 3/4 x 2 9/16 in.); unframed: 81.3 x 29.8 x 3 cm (32 x 11 3/4 x 1 3/16 in.). The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund, 1964.150.2",
+      "current_location": "117A Italian Renaissance",
+      "title": "Panel from a Triptych: St. Anthony Abbot",
+      "creation_date": "1458",
+      "creation_date_earliest": 1458,
+      "creation_date_latest": 1458,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Italy, 15th century"
+      ],
+      "technique": "tempera on wood panel",
+      "support_materials": [],
+      "department": "Medieval Art",
+      "collection": "MED - Medieval Art",
+      "type": "Painting",
+      "measurements": "Framed: 94 x 40 x 6.5 cm (37 x 15 3/4 x 2 9/16 in.); Unframed: 81.3 x 29.8 x 3 cm (32 x 11 3/4 x 1 3/16 in.)",
+      "dimensions": {
+        "framed": {
+          "height": 0.94,
+          "width": 0.4,
+          "depth": 0.065
+        },
+        "unframed": {
+          "height": 0.813,
+          "width": 0.298,
+          "depth": 0.03
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 304723,
+            "title": "Year in Review (1964)",
+            "description": "<i>Year in Review (1964)</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 8, 1964-January 31, 1965).",
+            "opening_date": "1964-12-08T05:00:00"
+          },
+          {
+            "id": 301412,
+            "title": "Florence and the Arts: Five Centuries of Patronage",
+            "description": "<i>Florence and the Arts: Five Centuries of Patronage</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 13-September 19, 1971).",
+            "opening_date": "1971-07-13T04:00:00"
+          },
+          {
+            "id": 222394,
+            "title": "Masterpieces of European Painting from The Cleveland Museum of Art",
+            "description": "<i>Masterpieces of European Painting from The Cleveland Museum of Art</i>. Frick Collection, New York, NY (organizer) (November 8, 2006-January 28, 2007).",
+            "opening_date": "2006-11-08T00:00:00"
+          },
+          {
+            "id": 179662,
+            "title": "Masterpieces of European Painting from the Cleveland Museum of Art",
+            "description": "<i>Masterpieces of European Painting from the Cleveland Museum of Art</i>. Maltz Museum of Jewish Heritage, Beachwood, OH (March 29-July 8, 2007).",
+            "opening_date": "2007-03-29T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "\"Masterpieces of European Painting from The Cleveland Museum of Art\": The Frick Collection (11/8/2006 - 1/28/2007), exh. cat. no. 1, p. 20-23.",
+            "opening_date": "2006-11-08T00:00:00"
+          },
+          {
+            "description": "Maltz Museum of Jewish Heritage (March 29, 2007 - July 8, 2007):  \"Masterpieces of European Painting from the Cleveland Museum of Art\"",
+            "opening_date": "2007-03-29T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Commissioned by Giovanni di Cosimo de' Medici, Florence, as a gift for King Alfonso V of Aragon (Alfonso I of Naples)",
+          "citations": [],
+          "footnotes": null,
+          "date": "by 1457",
+          "sortorder": 1
+        },
+        {
+          "description": "Collection of King Alfonso V of Aragon (Alfonso I of Naples), Naples",
+          "citations": [],
+          "footnotes": null,
+          "date": "by 1458",
+          "sortorder": 2
+        },
+        {
+          "description": "Collection of Countess Sara Pacheco, Madrid",
+          "citations": [],
+          "footnotes": null,
+          "date": "by 1871",
+          "sortorder": 3
+        },
+        {
+          "description": "Purchased by Sir John Charles Robinson, Madrid, for Sir Fancis Cook, Soughty House, Richmond, Surrey",
+          "citations": [],
+          "footnotes": null,
+          "date": "1871",
+          "sortorder": 4
+        },
+        {
+          "description": "By descent to Sir Frederick Cook, Sir Herbert Cook, and their heirs",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 5
+        },
+        {
+          "description": "Rosenberg & Stiebel Inc., New York",
+          "citations": [],
+          "footnotes": null,
+          "date": "by 1964",
+          "sortorder": 6
+        },
+        {
+          "description": "The Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "1964",
+          "sortorder": 7
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [
+        "1964.151"
+      ],
+      "did_you_know": null,
+      "description": "These panels depicting Saints Anthony the Abbot and Michael originally flanked a central scene of the Madonna and Child with Angels, now lost, to form a triptych. Giovanni di Cosimo de’Medici of Florence commissioned the ensemble in 1457 as a gift to Alfonso V of Aragon. Fra Filippo Lippi, a Carmelite friar and one of the great masters of early Renaissance Florence, depicted realistic, weighty figures in a three-dimensional space using a system of linear perspective, inspired partly by Masaccio’s Brancacci Chapel, and reflected in the background architecture. Saint Anthony the Abbot rejected all earthly possessions in pursuit of a contemplative life in the desert. He is generally regarded as the founder of monasticism and is depicted wearing a monk’s habit. Saint Michael’s sword and shield refer to his role as heaven’s defender against evil.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60469135"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1964.150.2-panel-from-a-triptyc"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+          "page_number": "Reproduced: p. 79",
+          "url": "https://archive.org/details/CMAHandbook1966/page/n103"
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+          "page_number": "Reproduced: p. 79",
+          "url": "https://archive.org/details/CMAHandbook1969/page/n103"
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>Catalogue of Paintings. Pt. 1. European Paintings before 1500. </em>Cleveland: Cleveland Museum of Art, 1974.",
+          "page_number": "Reproduced: fig. 30A, p. 80 - 83",
+          "url": ""
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+          "page_number": "Reproduced: p. 90",
+          "url": "https://archive.org/details/CMAHandbook1978/page/n110"
+        },
+        {
+          "citation": "Fliegel, Stephen N. “Fra Filippo Lippi’s Saints: Altarpiece panels by the Florentine master started life as a political gift.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 55, no. 5 (September/October 2015): 14-15.",
+          "page_number": "Reproduced and Mentioned: p. 14-15",
+          "url": "https://archive.org/details/CMAMM2015-05"
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+          "page_number": "Mentioned and reproduced: P. 276",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1964.150.2",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1964.150.2/1964.150.2_web.jpg",
+          "width": "485",
+          "height": "900",
+          "filesize": "163312",
+          "filename": "1964.150.2_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1964.150.2/1964.150.2_print.jpg",
+          "width": "1831",
+          "height": "3400",
+          "filesize": "1825746",
+          "filename": "1964.150.2_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1964.150.2/1964.150.2_full.tif",
+          "width": "7336",
+          "height": "13622",
+          "filesize": "299823284",
+          "filename": "1964.150.2_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2006-04-10T20:10:27",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1964.150.2/1964.150.2_alt0_web.jpg",
+            "width": "332",
+            "height": "893",
+            "filesize": "215111"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1964.150.2/1964.150.2_alt0_print.jpg",
+            "width": "1263",
+            "height": "3400",
+            "filesize": "2546491"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1964.150.2/1964.150.2_alt0_full.tif",
+            "width": "2572",
+            "height": "6924",
+            "filesize": "53456004"
+          }
+        },
+        {
+          "date_created": "2005-09-01T15:09:54",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1964.150.2/1964.150.2_alt1_web.jpg",
+            "width": "381",
+            "height": "893",
+            "filesize": "282399"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1964.150.2/1964.150.2_alt1_print.jpg",
+            "width": "1450",
+            "height": "3400",
+            "filesize": "3081770"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1964.150.2/1964.150.2_alt1_full.tif",
+            "width": "2132",
+            "height": "5000",
+            "filesize": "31997748"
+          }
+        },
+        {
+          "date_created": "2025-09-16T10:27:49",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1964.150.2/1964.150.2_alt2_web.jpg",
+            "width": "485",
+            "height": "900",
+            "filesize": "167270"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1964.150.2/1964.150.2_alt2_print.jpg",
+            "width": "1831",
+            "height": "3400",
+            "filesize": "2143295"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1964.150.2/1964.150.2_alt2_full.tif",
+            "width": "7336",
+            "height": "13622",
+            "filesize": "299825312"
+          }
+        },
+        {
+          "date_created": "2025-09-16T10:27:49",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1964.150.2/1964.150.2_alt3_web.jpg",
+            "width": "395",
+            "height": "900",
+            "filesize": "148144"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1964.150.2/1964.150.2_alt3_print.jpg",
+            "width": "1492",
+            "height": "3400",
+            "filesize": "1546780"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1964.150.2/1964.150.2_alt3_full.tif",
+            "width": "5476",
+            "height": "12482",
+            "filesize": "205086432"
+          }
+        }
+      ],
+      "creditline": "Leonard C. Hanna Jr. Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 140150,
+      "creators": [
+        {
+          "id": 2197,
+          "description": "Fra Filippo Lippi (Italian, c. 1406–1469)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1406",
+          "death_year": "1469",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1964-06-09T00:00:00",
+      "sortable_date": 1458,
+      "date_added_to_oa": null,
+      "date_text": "1458",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "1964.150",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:24.107000"
+    },
+    {
+      "id": 146877,
+      "accession_number": "1972.282.3",
+      "share_license_status": "CC0",
+      "tombstone": "Carved Bracket, 1600s. South India, probably Madurai. Ivory with traces of pigment; overall: 10.2 cm (4 in.). The Cleveland Museum of Art, Bequest of Edgar A. Hahn, 1972.282.3",
+      "current_location": null,
+      "title": "Carved Bracket",
+      "creation_date": "1600s",
+      "creation_date_earliest": 1600,
+      "creation_date_latest": 1699,
+      "artists_tags": [],
+      "culture": [
+        "South India, probably Madurai"
+      ],
+      "technique": "Ivory with traces of pigment",
+      "support_materials": [],
+      "department": "Indian and Southeast Asian Art",
+      "collection": "Indian Art",
+      "type": "Ivory",
+      "measurements": "Overall: 10.2 cm (4 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.102
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Edgar A. Hahn [1882-1970], Cleveland, OH, bequest to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": [],
+          "date": "?-1972",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "1972-",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [
+        "1972.284"
+      ],
+      "did_you_know": "These creatures stand for shakti, or creative energy.",
+      "description": "Composite creatures with the body of a lion, tusks and trunk of an elephant, and horns of an antelope are standard elements of medieval Indian architecture and furniture. Traces of pigment indicate that these ivory furniture facings were brightly painted.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79925607"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1972.282.3-carved-bracket"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1972.282.3",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1972.282.3/1972.282.3_web.jpg",
+          "width": "721",
+          "height": "893",
+          "filesize": "52169",
+          "filename": "1972.282.3_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1972.282.3/1972.282.3_print.jpg",
+          "width": "2744",
+          "height": "3400",
+          "filesize": "625822",
+          "filename": "1972.282.3_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1972.282.3/1972.282.3_full.tif",
+          "width": "3562",
+          "height": "4413",
+          "filesize": "47188476",
+          "filename": "1972.282.3_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2012-07-17T12:08:20",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1972.282.3/1972.282.3_alt0_web.jpg",
+            "width": "802",
+            "height": "893",
+            "filesize": "53051"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1972.282.3/1972.282.3_alt0_print.jpg",
+            "width": "3053",
+            "height": "3400",
+            "filesize": "618211"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1972.282.3/1972.282.3_alt0_full.tif",
+            "width": "4077",
+            "height": "4540",
+            "filesize": "55559080"
+          }
+        },
+        {
+          "date_created": "2012-07-17T12:42:52",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1972.282.3/1972.282.3_alt1_web.jpg",
+            "width": "700",
+            "height": "893",
+            "filesize": "30672"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1972.282.3/1972.282.3_alt1_print.jpg",
+            "width": "2664",
+            "height": "3400",
+            "filesize": "426301"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1972.282.3/1972.282.3_alt1_full.tif",
+            "width": "3444",
+            "height": "4395",
+            "filesize": "45455372"
+          }
+        },
+        {
+          "date_created": "2012-07-17T12:46:59",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1972.282.3/1972.282.3_alt2_web.jpg",
+            "width": "728",
+            "height": "893",
+            "filesize": "32762"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1972.282.3/1972.282.3_alt2_print.jpg",
+            "width": "2773",
+            "height": "3400",
+            "filesize": "487064"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1972.282.3/1972.282.3_alt2_full.tif",
+            "width": "3617",
+            "height": "4434",
+            "filesize": "48145164"
+          }
+        }
+      ],
+      "creditline": "Bequest of Edgar A. Hahn",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 146877,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1972-12-05T00:00:00",
+      "sortable_date": 1600,
+      "date_added_to_oa": null,
+      "date_text": "1600s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "1972.282",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:15.947000"
+    },
+    {
+      "id": 449062,
+      "accession_number": "2021.231",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Institute of Design, Student Independent 3: Untitled (Looking into a Structure), c. 1960. Robert Tanner (American, b. 1937). Gelatin silver print; image: 23.5 x 18.4 cm (9 1/4 x 7 1/4 in.); mounted: 36.2 x 28.3 cm (14 1/4 x 11 1/8 in.). The Cleveland Museum of Art, Gift of Carl and Joan Schneider, 2021.231",
+      "current_location": null,
+      "title": "Untitled (Looking into a Structure)",
+      "series": "Institute of Design, Student Independent 3",
+      "creation_date": "c. 1960",
+      "creation_date_earliest": 1955,
+      "creation_date_latest": 1965,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 23.5 x 18.4 cm (9 1/4 x 7 1/4 in.); Mounted: 36.2 x 28.3 cm (14 1/4 x 11 1/8 in.)",
+      "dimensions": {
+        "mounted": {
+          "height": 0.362,
+          "width": 0.283
+        },
+        "image": {
+          "height": 0.235,
+          "width": 0.184
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Carl and Joan Schneider, Whitmore Lake, MI",
+          "citations": [],
+          "footnotes": [],
+          "date": "?-2021",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 6, 2021",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "From 1946 through the 1970s, the photography department at Chicago’s Institute of Design was one of the most important and avant-garde photography programs in America.",
+      "description": "TheInstitute of Design, which was founded in 1937 in Chicago by Laszlo Moholy-Nagy to continue the principles of the German Bauhaus, offered an experimental atmosphere that encouraged exploration of the interconnectedness of art, design, and architecture and of the various art media. Starting in the 1950s, in order to draw attention to their work, the photography students banded together to publish portfolios.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q119997028"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2021.231",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Carl and Joan Schneider",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 449062,
+      "creators": [
+        {
+          "id": 449060,
+          "description": "Robert Tanner (American, b. 1937)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1937",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2021-12-06T00:00:00-05:00",
+      "sortable_date": 1955,
+      "date_added_to_oa": null,
+      "date_text": "c. 1960",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:13.822000"
+    },
+    {
+      "id": 615494,
+      "accession_number": "2023.135",
+      "share_license_status": "Copyrighted",
+      "tombstone": "University Circle: Overlooking Epworth-Euclid United Methodist Church, East View, 2007, printed 2008. Garie Waltzer (American, 1947-). Inkjet print; image: 33 x 33 cm (13 x 13 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, 2023.135",
+      "current_location": null,
+      "title": "Overlooking Epworth-Euclid United Methodist Church, East View",
+      "series": "University Circle",
+      "creation_date": "2007, printed 2008",
+      "creation_date_earliest": 2007,
+      "creation_date_latest": 2007,
+      "artists_tags": [
+        "female",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "inkjet print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 33 x 33 cm (13 x 13 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.33,
+          "width": 0.33
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Garie Waltzer (the artist) [1947–], Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation Collection, Cleveland, OH, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007–23",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 11, 2023–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Cleveland’s University Circle neighborhood, which encompasses around 550 acres, contains numerous institutions and businesses that employ 30,000 peop",
+      "description": "Cleveland artist Garie Waltzer was commissioned to photograph University Circle for the Gund Foundation Annual Report in 2007. Her densely toned black-and-white photographs, many shot from elevated vantage points and employing deep vistas, reveal the Circle’s underlying structure: a graceful interweaving of nature and architecture united by elegantly drawn circulation patterns to produce a harmonious convergence of place and populace.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q123115887"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "George Gund Foundation, and Garie Waltzer. The George Gund Foundation: 2007 Annual Report. Cleveland: George Gund Foundation, 2007.",
+          "page_number": null,
+          "url": "https://gundfoundation.org/wp-content/uploads/2019/11/Gund-Annual-Report-2007.pdf"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2023.135",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The George Gund Foundation Collection in honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 615494,
+      "creators": [
+        {
+          "id": 54764,
+          "description": "Garie Waltzer (American, 1947-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2023-09-11T04:00:00Z",
+      "sortable_date": 2007,
+      "date_added_to_oa": null,
+      "date_text": "2007, printed 2008",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:05:44.879000"
+    }
+  ]
+}

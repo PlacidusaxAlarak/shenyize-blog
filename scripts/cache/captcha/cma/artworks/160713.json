@@ -1,0 +1,165 @@
+{
+  "data": {
+    "id": 160713,
+    "accession_number": "1998.72",
+    "share_license_status": "CC0",
+    "tombstone": "Westminster Abbey, before 1844. Nicholas Henneman (British, 1813–1898). Salted paper print from calotype negative; image: 16.1 x 18.2 cm (6 5/16 x 7 3/16 in.); paper: 18.5 x 22.9 cm (7 5/16 x 9 in.); matted: 35.6 x 45.7 cm (14 x 18 in.). The Cleveland Museum of Art, Andrew R. and Martha Holden Jennings Fund, 1998.72",
+    "current_location": null,
+    "title": "Westminster Abbey",
+    "creation_date": "before 1844",
+    "creation_date_earliest": 1800,
+    "creation_date_latest": 1899,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "England, 19th century"
+    ],
+    "technique": "salted paper print from calotype negative",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - British 19th Century",
+    "type": "Photograph",
+    "measurements": "Image: 16.1 x 18.2 cm (6 5/16 x 7 3/16 in.); Paper: 18.5 x 22.9 cm (7 5/16 x 9 in.); Matted: 35.6 x 45.7 cm (14 x 18 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.161,
+        "width": 0.182
+      },
+      "paper": {
+        "height": 0.185,
+        "width": 0.229
+      },
+      "matted": {
+        "height": 0.356,
+        "width": 0.457
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Written in ink on verso \"LA22\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Lacock Abbey",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": null
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "This rare image is the first photography by Henneman to enter the museum's collection. Its composition stresses the overall form as well as the details of the main entrance of London's Westminster Abbey. Instead of showing the entire building, Henneman selected a close vantage point to express his admiration of one of the greatest examples of early English architecture.  Enlivened with strong light and shadow patterns, the sculptural and textural refinements of the building are clearly visible in this subtly toned photograph.\r\n\r\nHenneman became a key figure in the early history of photography through his association with the inventor of the calotype process, William Henry Fox Talbot (1800–1877).  Beginning about 1841, Henneman made some of photography's earliest images and was the master printer for Talbot and a number of his close associates. Talbot even chose this picture to be included with 23 of his own images in his first  photographically illustrated book, The Pencil of Nature (1844 to 1846). \r\n",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79982338"
+      ],
+      "internet_archive": [
+        "https://archive.org/details/clevelandart-1998.72-westminster-abbey"
+      ]
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/1998.72",
+    "images": {
+      "annotation": null,
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1998.72/1998.72_web.jpg",
+        "width": "900",
+        "height": "796",
+        "filesize": "249329",
+        "filename": "1998.72_web.jpg"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1998.72/1998.72_print.jpg",
+        "width": "3400",
+        "height": "3007",
+        "filesize": "2650702",
+        "filename": "1998.72_print.jpg"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1998.72/1998.72_full.tif",
+        "width": "5295",
+        "height": "4683",
+        "filesize": "74423364",
+        "filename": "1998.72_full.tif"
+      }
+    },
+    "alternate_images": [
+      {
+        "date_created": "2007-09-10T19:31:18",
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1998.72/1998.72_alt0_web.jpg",
+          "width": "1006",
+          "height": "893",
+          "filesize": "677932"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1998.72/1998.72_alt0_print.jpg",
+          "width": "3400",
+          "height": "3017",
+          "filesize": "7451154"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1998.72/1998.72_alt0_full.tif",
+          "width": "5051",
+          "height": "4482",
+          "filesize": "67949080"
+        }
+      }
+    ],
+    "creditline": "Andrew R. and Martha Holden Jennings Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 160713,
+    "creators": [
+      {
+        "id": 19667,
+        "description": "Nicholas Henneman (British, 1813–1898)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1813",
+        "death_year": "1898",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1998-06-01T00:00:00",
+    "sortable_date": 1800,
+    "date_added_to_oa": null,
+    "date_text": "before 1844",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:00:11.452000"
+  }
+}

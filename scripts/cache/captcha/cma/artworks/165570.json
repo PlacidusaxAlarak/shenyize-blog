@@ -1,0 +1,180 @@
+{
+  "data": {
+    "id": 165570,
+    "accession_number": "2007.30",
+    "share_license_status": "Copyrighted",
+    "tombstone": "The Swing, Paris Fair, 1933. Ilse Bing (American, 1899–1998). Gelatin silver print; image: 28.3 x 22.3 cm (11 1/8 x 8 3/4 in.); mounted: 41.9 x 34.9 cm (16 1/2 x 13 3/4 in.). The Cleveland Museum of Art, John L. Severance Fund, 2007.30. © Estate of Ilse Bing",
+    "current_location": null,
+    "title": "The Swing, Paris Fair",
+    "creation_date": "1933",
+    "creation_date_earliest": 1933,
+    "creation_date_latest": 1933,
+    "artists_tags": [
+      "female",
+      "Jewish artists"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "gelatin silver print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1900-1950",
+    "type": "Photograph",
+    "measurements": "Image: 28.3 x 22.3 cm (11 1/8 x 8 3/4 in.); Mounted: 41.9 x 34.9 cm (16 1/2 x 13 3/4 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.283,
+        "width": 0.223
+      },
+      "mounted": {
+        "height": 0.419,
+        "width": 0.349
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": "© Estate of Ilse Bing",
+    "inscriptions": [
+      {
+        "inscription": "Inscribed in fine opaque material on surface of print: \"Ilse Bing/1933\"\r\nWritten in pencil on verso: \"Ilse/Bing/Paris\"\r\nWritten in pencil on mount: \"Paris Faire\"\r\n",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      },
+      {
+        "inscription": "Black stamp on recto of mount: \"ILSE BING/PARIS\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 335775,
+          "title": "Accommodations of Desire: Surrealist Works on Paper Collected by Julien Levy",
+          "description": "<i>Accommodations of Desire: Surrealist Works on Paper Collected by Julien Levy</i>. Palmer Museum of Art (September 14-December 5, 2004); McMullen Museum of Art, Boston College, MA (January 16-March 27, 2005); Crocker Art Museum, Sacaramento, CA (July 9-September 11, 2005); Portland Museum of Art (January 1-March 19, 2006).",
+          "opening_date": "2004-09-14T04:00:00"
+        },
+        {
+          "id": 203169,
+          "title": "Forbidden Games: Surrealist and Modernist Photography",
+          "description": "<i>Forbidden Games: Surrealist and Modernist Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 19, 2014-January 11, 2015).",
+          "opening_date": "2014-10-19T00:00:00"
+        },
+        {
+          "id": 370361,
+          "title": "Ilse Bing: Queen of the Leica",
+          "description": "<i>Ilse Bing: Queen of the Leica</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 6-October 11, 2020).",
+          "opening_date": "2020-03-06T05:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Estate of the photographer, New York, NY",
+        "citations": [],
+        "footnotes": [],
+        "date": null,
+        "sortorder": 1
+      },
+      {
+        "description": "(Edwynn Houk Gallery, New York, NY)",
+        "citations": [],
+        "footnotes": [],
+        "date": null,
+        "sortorder": 2
+      },
+      {
+        "description": "Paul Hertzmann, California",
+        "citations": [],
+        "footnotes": [],
+        "date": "1999",
+        "sortorder": 3
+      },
+      {
+        "description": "David Raymond [b.1979], New York, NY",
+        "citations": [],
+        "footnotes": [],
+        "date": "2007",
+        "sortorder": 4
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": 5
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "A couple enjoys one of the rides at a popular, historical Parisian street festival known as the Gingerbread Fair. Like Bing’s cancan photographs, the real subjects here are the sensations of motion and excitement.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79994758"
+      ],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "Cleveland Museum of Art, Tom E. Hinson, Ian Walker, and Lisa Kurzner. Forbidden Games: Surrealist and Modernist Photography : the David Raymond Collection in the Cleveland Museum of Art. 2014.",
+        "page_number": "cat. no. 119, p. 167",
+        "url": null
+      },
+      {
+        "citation": "Schaffner, Ingrid, Julien Levy, and Colin Westerbeck. Accommodations of Desire: Surrealist Works on Paper Collected by Julien Levy. Pasadena, Calif: Curatorial Assistance, Inc, 2004.",
+        "page_number": "p. 83",
+        "url": null
+      }
+    ],
+    "url": "https://clevelandart.org/art/2007.30",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "John L. Severance Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 165570,
+    "creators": [
+      {
+        "id": 235,
+        "description": "Ilse Bing (American, 1899–1998)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "Ilse Bing (American, b. Germany, 1899-1998). Ilse Bing became interested in photography while pursuing a doctoral degree in art history at Frankfurt University. Around 1927-28 she began taking photographs to illustrate her dissertation and in 1930 decided to move to Paris to look for freelance assignments. Using the new 35mm Leica camera, she worked as a fashion, portrait, and architectural photographer, as well as a photojournalist. During her years in Paris she took part in numerous exhibitions, including the Museum of Modern Art's Photography 1839-1937 show in New York. In 1941 Bing and her husband immigrated to the United States, settling in New York City. In New York she began to work on a different scale, using the larger-format Rolleiflex camera as well as electronic flash. By 1957 she was working exclusively in color. Two years later Bing gave up photography to concentrate on painting and poetry.",
+        "name_in_original_language": null,
+        "birth_year": "1899",
+        "death_year": "1998",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2007-02-26T00:00:00",
+    "sortable_date": 1933,
+    "date_added_to_oa": null,
+    "date_text": "1933",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [
+      "Balancoire, Amusement Park Ride"
+    ],
+    "is_highlight": false,
+    "updated_at": "2026-03-26 23:59:37.124000"
+  }
+}

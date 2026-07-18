@@ -1,0 +1,123 @@
+{
+  "data": {
+    "id": 157561,
+    "accession_number": "1994.92",
+    "share_license_status": "Copyrighted",
+    "tombstone": "The Wells Street \"L,\" Chicago, 1931. Gordon Coster (American, 1906–1988). Gelatin silver print; image: 23.7 x 33.7 cm (9 5/16 x 13 1/4 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, John L. Severance Fund, 1994.92",
+    "current_location": null,
+    "title": "The Wells Street \"L,\" Chicago",
+    "creation_date": "1931",
+    "creation_date_earliest": 1931,
+    "creation_date_latest": 1931,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "gelatin silver print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1900-1950",
+    "type": "Photograph",
+    "measurements": "Image: 23.7 x 33.7 cm (9 5/16 x 13 1/4 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.237,
+        "width": 0.337
+      },
+      "matted": {
+        "height": 0.406,
+        "width": 0.508
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 311616,
+          "title": "Recent Acquisitions: Prints, Drawings, Photographs",
+          "description": "<i>Recent Acquisitions: Prints, Drawings, Photographs</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 13-November 27, 1994).",
+          "opening_date": "1994-09-13T04:00:00"
+        },
+        {
+          "id": 189766,
+          "title": "Industry and Photography: Selections from the Permanent Collection",
+          "description": "<i>Industry and Photography: Selections from the Permanent Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 16, 1997-March 1, 1998).",
+          "opening_date": "1997-11-16T00:00:00"
+        },
+        {
+          "id": 299125,
+          "title": "From Riches to Rags: American Photography in the Depression",
+          "description": "<i>From Riches to Rags: American Photography in the Depression</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 13-December 31, 2017).",
+          "opening_date": "2017-08-13T04:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "Although the skyscraper originated in the 1880s, it was not until the 1910s and 1920s that a vertical building boom turned Chicago’s downtown and several areas in New York into steep-walled canyons. The construction of massive office buildings was spurred by the need to accommodate a burgeoning white-collar workforce spawned by rapid economic growth. Electrified railroads, some of them elevated like Chicago’s “L,” provided transportation for the throngs of workers. Gordon Coster, a Chicago photographer, began as a Pictorialist, creating soft-focus, artfully manipulated images, but later embraced modernism’s sharp focus and radical compositional strategies. This dizzying view is emblematic of modernist experimentation with unusual camera angles.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79974039"
+      ],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+        "page_number": "Reproduced: P. 134",
+        "url": ""
+      }
+    ],
+    "url": "https://clevelandart.org/art/1994.92",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "John L. Severance Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 157561,
+    "creators": [
+      {
+        "id": 334,
+        "description": "Gordon Coster (American, 1906–1988)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "Gordon Coster American, 1906-1988 Baltimore native Gordon Coster began his photographic career in the 1920s, exhibiting his work widely in photographic salons in the United States, Canada, and Europe. After a brief stay in New York City in late 1929, Coster moved to Chicago in 1930 and established himself as a commercial photographer. He worked for several studios, then opened his own, including among his clients Marshall Field &amp; Company. In the late 1930s he turned to photojournalism, becoming associated with Life magazine, and in the next decade began teaching at the Institute of Design, Illinois Institute of Technology, in Chicago. Although his participation became more limited, Coster continued to show his work and during the 1950s was included in two exhibitions at the Museum of Modern Art, New York: Memorable Life Photographs (1951) and The Family of Man (1955), both organized by Edward Steichen. M.M.",
+        "name_in_original_language": null,
+        "birth_year": "1906",
+        "death_year": "1988",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1994-05-24T00:00:00",
+    "sortable_date": 1931,
+    "date_added_to_oa": null,
+    "date_text": "1931",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:00:37.147000"
+  }
+}

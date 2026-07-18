@@ -1,0 +1,2890 @@
+{
+  "info": {
+    "total": 122,
+    "parameters": {
+      "skip": 0,
+      "limit": 20,
+      "q": "architectural photograph",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,gallery,classification_type,department,collection",
+      "search": "architectural photograph"
+    }
+  },
+  "data": [
+    {
+      "id": 384224,
+      "accession_number": "2020.212",
+      "share_license_status": "CC0",
+      "tombstone": "Entrance to the Minakshi Sundareshvara Temple, Madurai, 1858. Captain Linnaeus Tripe (British, 1822–1902). Albumen print from a waxed paper negative; image: 30.6 x 37.1 cm (12 1/16 x 14 5/8 in.); paper: 30.6 x 37.1 cm (12 1/16 x 14 5/8 in.); mount: 45.5 x 57.3 cm (17 15/16 x 22 9/16 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 2020.212",
+      "current_location": null,
+      "title": "Entrance to the Minakshi Sundareshvara Temple, Madurai",
+      "creation_date": "1858",
+      "creation_date_earliest": 1858,
+      "creation_date_latest": 1858,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "albumen print from a waxed paper negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 30.6 x 37.1 cm (12 1/16 x 14 5/8 in.); Paper: 30.6 x 37.1 cm (12 1/16 x 14 5/8 in.); Mount: 45.5 x 57.3 cm (17 15/16 x 22 9/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.306,
+          "width": 0.371
+        },
+        "paper": {
+          "height": 0.306,
+          "width": 0.371
+        },
+        "mount": {
+          "height": 0.455,
+          "width": 0.573
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Imprinted in black type on white paper adhered to recto of mount: \"15\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in graphite on recto of mount: \"G/A1\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Embossed on recto of mount: \"LT/Photographer to Government\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 674335,
+            "title": "Temples and Worship in South Asia",
+            "description": "<i>Temples and Worship in South Asia</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 14, 2024-March 9, 2025).",
+            "opening_date": "2024-09-14T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Paul F. Walter [1935–2017]",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "(Christie's, London, United Kingdom)",
+          "citations": [],
+          "footnotes": [],
+          "date": "June 5, 1996",
+          "sortorder": 2
+        },
+        {
+          "description": "Private Collection, United Kingdom",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 3
+        },
+        {
+          "description": "(Prahlad Bubbar Indian and Islamic Art, London, United Kingdom, sold to the Cleveland Museum of Art)",
+          "citations": [],
+          "footnotes": [],
+          "date": "2020",
+          "sortorder": 4
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "September 14, 2020–",
+          "sortorder": 5
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This photograph shows the relationship in space and scale between one of the towering gateways and the modestly sized original entrance to this Madurai temple complex.",
+      "description": "With its multiple gateways, rising to ever greater heights the farther they stand from the center, the Minakshi Sundareshvara temple was one of the monuments Tripe selected for his series documenting India’s architectural achievements in photographs. In 1858, the year this photograph was taken, India became a colony ruled by Britain, and the new colonial government supported Tripe’s project. He sold the images to the British public in pre-selected sets mounted in albums. Tripe was a military officer working to protect the interests of the British East India Company, which controlled sourcing, transportation, and sale of goods from India for profit.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117244779"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2020.212-entrance-to-the-mina"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Dewan, Janet, and Linnaeus Tripe. The Photographs of Linnaeus Tripe: A Catalogue Raisonné. Toronto: Art Gallery of Ontario, 2003.",
+          "page_number": "CR6-138",
+          "url": null
+        }
+      ],
+      "catalogue_raisonne": "Dewan: CR6-138",
+      "url": "https://clevelandart.org/art/2020.212",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.212/2020.212_web.jpg",
+          "width": "900",
+          "height": "723",
+          "filesize": "268271",
+          "filename": "2020.212_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.212/2020.212_print.jpg",
+          "width": "3400",
+          "height": "2733",
+          "filesize": "2459046",
+          "filename": "2020.212_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.212/2020.212_full.tif",
+          "width": "12370",
+          "height": "9942",
+          "filesize": "368976112",
+          "filename": "2020.212_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2020-08-13T17:22:42",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2020.212/2020.212_alt0_web.jpg",
+            "width": "900",
+            "height": "724",
+            "filesize": "173944"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2020.212/2020.212_alt0_print.jpg",
+            "width": "3400",
+            "height": "2734",
+            "filesize": "1687026"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2020.212/2020.212_alt0_full.tif",
+            "width": "12371",
+            "height": "9949",
+            "filesize": "369262604"
+          }
+        }
+      ],
+      "creditline": "Purchase from the J. H. Wade Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 384224,
+      "creators": [
+        {
+          "id": 1026,
+          "description": "Captain Linnaeus Tripe (British, 1822–1902)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Captain Linnaeus Tripe British, 1822-1902\r\n\r\nBorn in Davenport, Linnaeus Tripe was an officer in the 12th Regiment Native Infantry at Bangalore who learned photography while on furlough in England between 1851-54. In 1855 he was appointed photographer to a British mission in Burma, where he produced more than 120 views subsequently published by the Madras Photographic Society in Bangalore (1857). For four years, beginning in 1856, he was government photographer to the Madras presidency. Six volumes with more than 100 images of various cities in Madras (now Tamil Nadu) were later published.\r\n\tLike other expeditionary photographers, Tripe documented the landscape, culture, and architecture he encountered. His particular views are valued not only for their factual content, but also for Tripe's soft, almost romantic interpretation of his subjects. Rising through the military ranks during his career, Tripe retired to England as an honorary major general in 1875. He continued to photograph for his own pleasure. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1822",
+          "death_year": "1902",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2020-09-14T00:00:00-04:00",
+      "sortable_date": 1858,
+      "date_added_to_oa": null,
+      "date_text": "1858",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "The great pagoda, entrance to menatchee pagoda"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:10.812000"
+    },
+    {
+      "id": 155006,
+      "accession_number": "1989.56",
+      "share_license_status": "CC0",
+      "tombstone": "Notre Dame de Paris, early 1860s. Charles Soulier (French, 1840–1875). Albumen print from glass negative; image: 38 x 30.6 cm (14 15/16 x 12 1/16 in.); matted: 71.1 x 61 cm (28 x 24 in.). The Cleveland Museum of Art, John L. Severance Fund, 1989.56",
+      "current_location": null,
+      "title": "Notre Dame de Paris",
+      "creation_date": "early 1860s",
+      "creation_date_earliest": 1860,
+      "creation_date_latest": 1865,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "albumen print from glass negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "Photography",
+      "type": "Photograph",
+      "measurements": "Image: 38 x 30.6 cm (14 15/16 x 12 1/16 in.); Matted: 71.1 x 61 cm (28 x 24 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.38,
+          "width": 0.306
+        },
+        "matted": {
+          "height": 0.711,
+          "width": 0.61
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 310333,
+            "title": "The Year in Review for 1989",
+            "description": "<i>The Year in Review for 1989</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 6-April 15, 1990).",
+            "opening_date": "1990-02-06T05:00:00"
+          },
+          {
+            "id": 189766,
+            "title": "Industry and Photography: Selections from the Permanent Collection",
+            "description": "<i>Industry and Photography: Selections from the Permanent Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 16, 1997-March 1, 1998).",
+            "opening_date": "1997-11-16T00:00:00"
+          },
+          {
+            "id": 178867,
+            "title": "Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art",
+            "description": "<i>Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 26-June 16, 2005).",
+            "opening_date": "2005-02-26T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, Feb. 6 - April 15, 1990: \"Year in Review 1989,\" CMA Bulletin, 77 (Feb. 1990), p. 69, no. 57, repr. p. 61.",
+            "opening_date": "1990-02-06T00:00:00"
+          },
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; 11/16/97 - 3/1/98.  \"Industry and Photography:  Selections from the Permanent Collection.\"",
+            "opening_date": "1997-11-16T00:00:00"
+          },
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; February 26 - June 16, 2005 . \"Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art\".",
+            "opening_date": "2005-02-26T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "A successful commercial photographer, Soulier operated in partnerships initially with A. Clouzard and then with Claude-Marie Ferrier and his son, A. Ferrier. Soulier was admired for his naturalistic architectural and urban views of Paris. In this imposing frontal view of the front façade of Notre Dame, his skill at rendering great architectural monuments and placing them into the context of their urban environment is beautifully realized. Photographed in bright sunlight, the warmly toned photograph is filled with visual, textural, and incidental information. This engaging mid-century photograph is an early record of the cathedral’s surrounding neighborhood, bustling with human activity.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79942886"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1989.56-notre-dame-de-paris"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "E. H. T. “The Year in Review: Selections 1989.” <em>The Bulletin of the Cleveland Museum of Art</em> 77, no. 2 (February 1990): 38–78.",
+          "page_number": "Reproduced: p. 61; Mentioned: p. 69, no. 57",
+          "url": "http://www.jstor.org/stable/25160106"
+        },
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 327",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1989.56",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1989.56/1989.56_web.jpg",
+          "width": "704",
+          "height": "893",
+          "filesize": "479261",
+          "filename": "1989.56_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1989.56/1989.56_print.jpg",
+          "width": "2679",
+          "height": "3400",
+          "filesize": "5649371",
+          "filename": "1989.56_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1989.56/1989.56_full.tif",
+          "width": "3369",
+          "height": "4275",
+          "filesize": "43241196",
+          "filename": "1989.56_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 155006,
+      "creators": [
+        {
+          "id": 932,
+          "description": "Charles Soulier (French, 1840–1875)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Charles Soulier French, 1840-1875\r\n\r\nCharles Soulier operated in partnerships, first with A. Clouzard (1854-59) and later with Claude-Marie Ferrier and his son A. Ferrier (1860-64). Soulier was among the first to take naturalistic, snapshot-like views of Paris. His city street scenes were represented in an extensive set of glass stereographs, a medium preferred by Soulier for the delicacy of its reproductive range. Panoramas of the city were considered his specialty.\r\n\tIn 1859 Soulier photographed Napoléon III on his campaign in Austria; he was later named photographer to the emperor. He became a member of the Société française de photographie in 1867 and in 1871 documented activities of the Paris Commune. His work includes topographical, urban, and landscape views, among them images of Mt. Blanc and other European scenery, as well as photographic reproductions of artwork. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1840",
+          "death_year": "1875",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1989-06-29T00:00:00",
+      "sortable_date": 1860,
+      "date_added_to_oa": null,
+      "date_text": "early 1860s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 16:32:40.300000"
+    },
+    {
+      "id": 85873,
+      "accession_number": "2022.62",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Tide Pool, Mont Saint-Michel, France, 1982, printed 1995. William Clift (American, b. 1944). Gelatin silver print; image: 16.4 x 22.8 cm (6 7/16 x 9 in.); paper: 17.5 x 24 cm (6 7/8 x 9 7/16 in.). The Cleveland Museum of Art, Gift of Tom E. Hinson and Diana S. Tittle, 2022.62",
+      "current_location": null,
+      "title": "Tide Pool, Mont Saint-Michel, France",
+      "creation_date": "1982, printed 1995",
+      "creation_date_earliest": 1982,
+      "creation_date_latest": 1982,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "Gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "Photography",
+      "type": "Photograph",
+      "measurements": "Image: 16.4 x 22.8 cm (6 7/16 x 9 in.); Paper: 17.5 x 24 cm (6 7/8 x 9 7/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.164,
+          "width": 0.228
+        },
+        "paper": {
+          "height": 0.175,
+          "width": 0.24
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": "print no. 2",
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on mat, recto, lower left: “Tide Pool, Mont Saint Michel, France 1982/Print #2, 6-7/16 x 9”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on mat, recto, lower right: “William Clift (signed)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "William Clift (the artist) [1944-], Santa Fe, NM, 1995, to Tom Hinson, Truth or Consequences, NM",
+          "citations": [],
+          "footnotes": null,
+          "date": "?-1995",
+          "sortorder": 1
+        },
+        {
+          "description": "Tom Hinson, Truth or Consequences, NM, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1995-2022",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "June 6, 2022-",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "William Clift was a close friend of Georgia O'Keeffe and photographed her numerous times; see 1990.111 and 2019.93.",
+      "description": "During visits to France in 1977 and 1981–82, architectural and landscape photographer William Clift photographed in and around the majestic abbey of Mont-Saint-Michel. Mont-Saint-Michel is a tidal island and was originally accessible via a causeway only at low tides. The tide pool in Clift’s photograph echoes the island's isolation from the mainland but with an inversion: the tide pool is composed of rocks and water, and the \"water\" surrounding it is dry sand.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q115909319"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2022.62",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Tom E. Hinson and Diana S. Tittle",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 85873,
+      "creators": [
+        {
+          "id": 29900,
+          "description": "William Clift (American, b. 1944)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "William Clift American, 1944- Throughout his career, William Brooks Clift III has photographed the land and architecture as quiet yet complex subjects filled with cultural and spiritual metaphor. Celebrating the nuances of light and composition in his images, which are primarily black and white, he is a careful and thoughtful technician. He digests, rather than dramatizes, his subjects, often spending several years exploring a theme before completing it. Born in Boston, Clift first took an interest in photography at age 10, building his own darkroom. As a teenager, he attended a workshop with Paul Caponigro. Beginning in 1962, Clift spent eight years specializing in architectural subjects, commissioned on a freelance basis by various organizations -- including the Massachusetts Council on the Arts for an extensive documentation of Old Boston City Hall (1970). He moved to Santa Fe in 1971 and began to photograph the landscape that continues to inspire his work. He has been awarded fellowships from the National Endowment for the Arts (1972, 1979) and the John Simon Guggenheim Memorial Foundation (1973, 1980). Returning to Boston in 1975, Clift photographed the architecture of Beacon Hill. During 1975-76 he worked for the Joseph Seagram and Son's bicentennial project on American county courthouses. In 1977 he traveled to France to take pictures of Mont-Saint-Michel and began an ongoing project picturing the sculpture of Juan Hamilton. Commissions followed from AT&amp;T for their American Images project (1978) and from the Reader's Digest Association (1985-86) to photograph the Hudson River Highlands with Steven Shore, who eventually discontinued the endeavor. A one-person exhibition of Clift's work, Certain Places, was on view at the Art Institute of Chicago and the Amon Carter Museum, Fort Worth (1987). That same year he received the Governor's Award for Excellence and Achievement in the Arts in New Mexico and began a color project with Polaroid materials, making family pictures that were exhibited in the Equitable Gallery, New York (1992). He has produced and distributed two books, Certain Places (1987) and A Hudson Landscape (1994). Clift continues to photograph the mountain and desert landscape throughout the southwestern United States. He lives in Santa Fe. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1944",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2022-06-06T04:00:00Z",
+      "sortable_date": 1982,
+      "date_added_to_oa": null,
+      "date_text": "1982, printed 1995",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:28.811000"
+    },
+    {
+      "id": 360442,
+      "accession_number": "2019.185",
+      "share_license_status": "CC0",
+      "tombstone": "India. Benares. Aurangzeb's Mosque, after a photo by Dr. Kurt Boeck, c. 1890–1910. Photoglob Co. (Zurich, active c. 1890–1910). Photochrom; image: 20.5 x 26.7 cm (8 1/16 x 10 1/2 in.); paper: 20.5 x 26.7 cm (8 1/16 x 10 1/2 in.); mounted: 25.4 x 29.8 cm (10 x 11 3/4 in.). The Cleveland Museum of Art, Gift of Catherine Glynn Benkaim and Barbara Timmer, 2019.185",
+      "current_location": null,
+      "title": "India. Benares. Aurangzeb's Mosque, after a photo by Dr. Kurt Boeck",
+      "creation_date": "c. 1890–1910",
+      "creation_date_earliest": 1885,
+      "creation_date_latest": 1915,
+      "artists_tags": [],
+      "culture": [
+        "India, 19th century"
+      ],
+      "technique": "Photochrom",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 20.5 x 26.7 cm (8 1/16 x 10 1/2 in.); Paper: 20.5 x 26.7 cm (8 1/16 x 10 1/2 in.); Mounted: 25.4 x 29.8 cm (10 x 11 3/4 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.205,
+          "width": 0.267
+        },
+        "image": {
+          "height": 0.205,
+          "width": 0.267
+        },
+        "mounted": {
+          "height": 0.254,
+          "width": 0.298
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Imprinted in type on recto: “20.026.P.Z.-BENARES.AURUNGZEB’S MOSQUE",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso of mount: “5 (circled and scribbled out)/1 (circled) GUR AUPP”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Collection of Gunther Heil, Germany",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "Catherine Glynn Benkaim and Barbara Timmer, Beverly Hills, CA, given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 9, 2019",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The Taj Mahal was created as a tomb for Aurangzeb’s mother.",
+      "description": "The sixth Mughal emperor Aurangzeb, a very pious Muslim, had this enormous mosque built in a blend of Islamic and Hindu architectural styles. It was constructed in the late 17th century on the site of one of the most sacred ancient Hindu temples in the city of Varanasi (formerly Benares).",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79877998"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2019.185-india-benares-aurang"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2019.185",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.185/2019.185_web.jpg",
+          "width": "900",
+          "height": "764",
+          "filesize": "327691",
+          "filename": "2019.185_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.185/2019.185_print.jpg",
+          "width": "3400",
+          "height": "2886",
+          "filesize": "3748147",
+          "filename": "2019.185_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.185/2019.185_full.tif",
+          "width": "10589",
+          "height": "8988",
+          "filesize": "285552700",
+          "filename": "2019.185_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2020-08-28T15:55:03",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2019.185/2019.185_alt0_web.jpg",
+            "width": "900",
+            "height": "766",
+            "filesize": "203426"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2019.185/2019.185_alt0_print.jpg",
+            "width": "3400",
+            "height": "2895",
+            "filesize": "3033862"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2019.185/2019.185_alt0_full.tif",
+            "width": "10587",
+            "height": "9016",
+            "filesize": "286383072"
+          }
+        }
+      ],
+      "creditline": "Gift of Catherine Glynn Benkaim and Barbara Timmer",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 360442,
+      "creators": [
+        {
+          "id": 313224,
+          "description": "Photoglob Co. (Zurich, active c. 1890–1910)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-09-09T00:00:00-04:00",
+      "sortable_date": 1885,
+      "date_added_to_oa": null,
+      "date_text": "c. 1890–1910",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:09.687000"
+    },
+    {
+      "id": 156101,
+      "accession_number": "1991.35",
+      "share_license_status": "CC0",
+      "tombstone": "Notre-Dame, Paris, 1852–53. Édouard Baldus (French, 1813–1889). Salted paper print from wet collodion negative; image: 29.5 x 44.7 cm (11 5/8 x 17 5/8 in.); matted: 50.8 x 61 cm (20 x 24 in.). The Cleveland Museum of Art, Edwin R. and Harriet Pelton Perkins Memorial Fund, 1991.35",
+      "current_location": null,
+      "title": "Notre-Dame, Paris",
+      "creation_date": "1852–53",
+      "creation_date_earliest": 1852,
+      "creation_date_latest": 1853,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "salted paper print from wet collodion negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - French 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 29.5 x 44.7 cm (11 5/8 x 17 5/8 in.); Matted: 50.8 x 61 cm (20 x 24 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.295,
+          "width": 0.447
+        },
+        "matted": {
+          "height": 0.508,
+          "width": 0.61
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 311440,
+            "title": "Notable Acquisitions",
+            "description": "<i>Notable Acquisitions</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 7-September 15, 1991).",
+            "opening_date": "1991-06-07T04:00:00"
+          },
+          {
+            "id": 178867,
+            "title": "Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art",
+            "description": "<i>Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 26-June 16, 2005).",
+            "opening_date": "2005-02-26T00:00:00"
+          },
+          {
+            "id": 223311,
+            "title": "Impressionist France: Visions of Nation from Le Gray to Monet",
+            "description": "<i>Impressionist France: Visions of Nation from Le Gray to Monet</i>. The Nelson-Atkins Museum of Art, Kansas City, MO (organizer) (October 19, 2013-February 9, 2014).",
+            "opening_date": "2013-10-19T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Ecole Nationale Superieure des Beaux-Arts, October 27 - December 6, 1982: \"La Photographie Comme Modele,\" p. 63, no. 61.",
+            "opening_date": "1982-10-27T00:00:00"
+          },
+          {
+            "description": "CMA, June 7 - September 15, 1991: \"Notable Acquisitions,\" CMA Bulletin, 78 (June 1991), p. 92, repr.",
+            "opening_date": "1991-06-07T00:00:00"
+          },
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; February 26 - June 16, 2005 . \"Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art\".",
+            "opening_date": "2005-02-26T00:00:00"
+          },
+          {
+            "description": "The Nelson-Atkins Museum of Art, Kansas City, MO (10/19/2013 - 2/9/2014):  \"Impressionist France: Visions of Nation from Le Gray to Monet\"",
+            "opening_date": "2013-10-19T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Alain Paviot, Paris",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "This extraordinary photograph clearly demonstrates Baldus’s genius both as an architectural photographer and as a printer. Centrally placed and filling the entire composition, this great architectural monument is clearly depicted, seemingly removed from time, as there are no interfering elements such as figures or clouds to distract from the building’s majesty. This large, ambitious view captures, almost without rival, the physical and symbolic essence of Notre-Dame. Instead of the traditional frontal view, Baldus photographed the building at an oblique angle in order to articulate the volume of the structure, and he was most conscious of the negative space created by the cathedral’s contour against the unmodulated sky. His salt prints of architectural views, with their breathtaking warm gray tones, are among the most striking achievements of 19th-century photography.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60760355"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1991.35-notre-dame-paris"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Hinson, Tom E. \"Notable Acquisitions.\" <em>The Bulletin of the Cleveland Museum of Art</em> 78, no. 3 (1991): 63-147.",
+          "page_number": "Reproduced and Mentioned: p. 92",
+          "url": "https://www.jstor.org/stable/25161319"
+        },
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 91",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1991.35",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1991.35/1991.35_web.jpg",
+          "width": "1263",
+          "height": "839",
+          "filesize": "723584",
+          "filename": "1991.35_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1991.35/1991.35_print.jpg",
+          "width": "3400",
+          "height": "2258",
+          "filesize": "4703881",
+          "filename": "1991.35_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1991.35/1991.35_full.tif",
+          "width": "6016",
+          "height": "3996",
+          "filesize": "72150480",
+          "filename": "1991.35_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Edwin R. and Harriet Pelton Perkins Memorial Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 156101,
+      "creators": [
+        {
+          "id": 214,
+          "description": "Édouard Baldus (French, 1813–1889)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Édouard Baldus French, b. Prussia, 1813 - 1889\r\n\r\nThe large and regal prints made by Édouard-Denis Baldus are widely agreed to be among the finest photographic images ever produced. After serving as an artillery officer in the Prussian army, Baldus left his native country for France during the 1830s to become a painter. He exhibited his paintings of religious subjects, portraits, and genre scenes in the Paris Salons from 1841 - 51 and was naturalized as a French citizen in 1849, the same year his interests turned to photography.\r\n\tCombining his training in painting with an inquisitive, inventive technical expertise, Baldus produced a body of work of exceptional quality and interest. His subjects included architecture, landscape, and engineering feats. In 1851 the Commission des monuments historiques selected him for the Missions héliographique—a government project that sponsored the photographing of endangered classical and medieval architecture in France. For this important series Baldus produced views of Burgundy, Provence, and the Dauphiné, and the following year he completed a commission for the Ministry of the Interior. In 1855 he began his photography of railroads, some of his most distinctive work. A copy of his album recording the line between Paris and Boulogne was presented to Queen Victoria. He also documented the flooding of the Rhone, as well as construction of the new Louvre and other Paris views.\r\n\tA founding member of the Société héliographique and a member of the Société française de photographie (1857), Baldus exhibited his photographs widely in London, Amsterdam, Edinburgh, Brussels, and Paris and won numerous medals of award. A master printer, he produced combination prints in the early 1850s, frequently retouching his images with pencil and ink. His best work appears most often in specially assembled albums -- such as Les principaux Monuments de la France reproduits en héliogravure par E. Baldus, published in 1875 from plates drawn from earlier negatives. Today, his work continues to be much sought after and to set a standard by which other photographers are judged. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1813",
+          "death_year": "1889",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1991-04-29T00:00:00",
+      "sortable_date": 1852,
+      "date_added_to_oa": null,
+      "date_text": "1852–53",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 16:32:40.617000"
+    },
+    {
+      "id": 146319,
+      "accession_number": "1972.1088",
+      "share_license_status": "Copyrighted",
+      "tombstone": "A Canal in Venice, Italy, c. 1900–1920. Edward Crosby Doughty (American, 1877–1952). Gelatin silver print; image: 19.5 x 24 cm (7 11/16 x 9 7/16 in.); mounted: 29.1 x 32.6 cm (11 7/16 x 12 13/16 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, Gift of Mrs. Edd A. Ruggles, 1972.1088",
+      "current_location": null,
+      "title": "A Canal in Venice, Italy",
+      "creation_date": "c. 1900–1920",
+      "creation_date_earliest": 1900,
+      "creation_date_latest": 1920,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 19.5 x 24 cm (7 11/16 x 9 7/16 in.); Mounted: 29.1 x 32.6 cm (11 7/16 x 12 13/16 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.195,
+          "width": 0.24
+        },
+        "mounted": {
+          "height": 0.291,
+          "width": 0.326
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "lower right in pencil on mount paper: E. Crosby Doughty\r\nlower left: E.C.D.\r\nverso in pencil: A Canal in Venice, Italy",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 202729,
+            "title": "Shadows and Dreams: Pictorialist Photography in America",
+            "description": "<i>Shadows and Dreams: Pictorialist Photography in America</i>. The Cleveland Museum of Art (organizer) (September 5, 2015-January 17, 2016).",
+            "opening_date": "2015-09-05T00:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Edward Crosby Doughty was trained as an architect but became a photographer specializing in architectural, landscape, and garden images.",
+      "description": "Doughty printed this image on translucent tissue. The light bouncing through the tissue and off the paper mount enhances the luminosity of water and sky. In keeping with the approach of Stieglitz and other Pictorialists, Doughty captures the beauty of the mundane. Rather than photographing popular tourist sites such as the Grand Canal, he turns his camera toward a more banal part of the city, with laundry drying in the breeze above docked boats.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79924713"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1972.1088",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Mrs. Edd A. Ruggles",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 146319,
+      "creators": [
+        {
+          "id": 29762,
+          "description": "Edward Crosby Doughty (American, 1877–1952)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1877",
+          "death_year": "1952",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1972-12-05T00:00:00",
+      "sortable_date": 1900,
+      "date_added_to_oa": null,
+      "date_text": "c. 1900–1920",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:05:02.704000"
+    },
+    {
+      "id": 325436,
+      "accession_number": "2019.71",
+      "share_license_status": "CC0",
+      "tombstone": "Tamil Gateway (Gopura), Tamil Nadu, c. 1860. Unknown, 19th century. Stereoscopic albumen print from glass plate negative; image: 7 x 13.8 cm (2 3/4 x 5 7/16 in.); mounted: 8.3 x 17.3 cm (3 1/4 x 6 13/16 in.). The Cleveland Museum of Art, Gift of Daniella Dangoor, 2019.71",
+      "current_location": null,
+      "title": "Tamil Gateway (Gopura), Tamil Nadu",
+      "creation_date": "c. 1860",
+      "creation_date_earliest": 1855,
+      "creation_date_latest": 1865,
+      "artists_tags": [],
+      "culture": [
+        "Unknown, 19th century"
+      ],
+      "technique": "stereoscopic albumen print from glass plate negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 7 x 13.8 cm (2 3/4 x 5 7/16 in.); Mounted: 8.3 x 17.3 cm (3 1/4 x 6 13/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.07,
+          "width": 0.138
+        },
+        "mounted": {
+          "height": 0.083,
+          "width": 0.173
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso of mount: “very fine quality photograph £10/c. 1860/4776”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 674335,
+            "title": "Temples and Worship in South Asia",
+            "description": "<i>Temples and Worship in South Asia</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 14, 2024-March 9, 2025).",
+            "opening_date": "2024-09-14T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Daniella Dangoor, London, England, given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–2019",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "March 4, 2019–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Stereographs were introduced to the public in London in 1851 and became wildly popular from the 1860s to around 1930.",
+      "description": "A stereograph, when seen through a viewer, produces the illusion of a three-dimensional scene and creates a “you-are-there” sensation. This stereo view documents a Hindu temple in the southern Indian state of Tamil Nadu. The high gopura or gatehouse leading into the temple precinct is characteristic of medieval temples constructed in that region. Popular beginning with their introduction to the public in London in 1851, stereographs inspired a sense of awe that would have compounded a viewer’s impression of India’s architectural wonders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79875956"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2019.71-tamil-gateway-gopura"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2019.71",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.71/2019.71_web.jpg",
+          "width": "900",
+          "height": "458",
+          "filesize": "239805",
+          "filename": "2019.71_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.71/2019.71_print.jpg",
+          "width": "3400",
+          "height": "1732",
+          "filesize": "2726536",
+          "filename": "2019.71_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.71/2019.71_full.tif",
+          "width": "12344",
+          "height": "6288",
+          "filesize": "232884756",
+          "filename": "2019.71_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2020-10-15T13:11:20",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2019.71/2019.71_alt0_web.jpg",
+            "width": "900",
+            "height": "458",
+            "filesize": "173626"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2019.71/2019.71_alt0_print.jpg",
+            "width": "3400",
+            "height": "1732",
+            "filesize": "2478845"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2019.71/2019.71_alt0_full.tif",
+            "width": "12345",
+            "height": "6288",
+            "filesize": "232900812"
+          }
+        }
+      ],
+      "creditline": "Gift of Daniella Dangoor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 325436,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "2019-03-04T00:00:00-05:00",
+      "sortable_date": 1855,
+      "date_added_to_oa": null,
+      "date_text": "c. 1860",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:05.552000"
+    },
+    {
+      "id": 165274,
+      "accession_number": "2007.20",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Hudson River Bridge, spring 1930. Berenice Abbott (American, 1898–1991). Gelatin silver print; image: 23.7 x 17.3 cm (9 5/16 x 6 13/16 in.). The Cleveland Museum of Art, John L. Severance Fund, 2007.20. © Berenice Abbott/Getty Images",
+      "current_location": null,
+      "title": "Hudson River Bridge",
+      "creation_date": "spring 1930",
+      "creation_date_earliest": 1930,
+      "creation_date_latest": 1930,
+      "artists_tags": [
+        "female",
+        "LGBTQ+ (after 1900)"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 23.7 x 17.3 cm (9 5/16 x 6 13/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.237,
+          "width": 0.173
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Berenice Abbott/Getty Images",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"Hudson River Bridge\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"Berenice Abbott (signed)\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Black stamp on verso:  \"Courtesy of Julian Levy Gallery\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Purple stamp on verso:  \"Photo/Berenice/Abbott/1.W.67th St. NYC\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 335775,
+            "title": "Accommodations of Desire: Surrealist Works on Paper Collected by Julien Levy",
+            "description": "<i>Accommodations of Desire: Surrealist Works on Paper Collected by Julien Levy</i>. Palmer Museum of Art (September 14-December 5, 2004); McMullen Museum of Art, Boston College, MA (January 16-March 27, 2005); Crocker Art Museum, Sacaramento, CA (July 9-September 11, 2005); Portland Museum of Art (January 1-March 19, 2006).",
+            "opening_date": "2004-09-14T04:00:00"
+          },
+          {
+            "id": 203169,
+            "title": "Forbidden Games: Surrealist and Modernist Photography",
+            "description": "<i>Forbidden Games: Surrealist and Modernist Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 19, 2014-January 11, 2015).",
+            "opening_date": "2014-10-19T00:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "The artist, New York, NY",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "(Julien Levy Gallery, New York, NY)",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "(Sothebys, New York, NY, Oct. 7, 1998)",
+          "citations": [],
+          "footnotes": [],
+          "date": "1998-10-7",
+          "sortorder": 3
+        },
+        {
+          "description": "David Raymond [b. 1979], New York, NY",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 4
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 5
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Abbot was commissioned to photograph the construction of Manhattan’s George Washington Bridge for an article in <em>Architectural Record</em>. She drew attention to the industrial structure’s abstract, aesthetic qualities and its height through her choice of camera angle.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79993999"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E. Hinson, Ian Walker, and Lisa Kurzner. Forbidden Games: Surrealist and Modernist Photography : the David Raymond Collection in the Cleveland Museum of Art. 2014.",
+          "page_number": "cat. no. 120, p. 168.",
+          "url": null
+        },
+        {
+          "citation": "Fellah, Nadiah Rivera, William Griswold, Natalie Scenters-Zapico, and Cleveland Museum of Art. <em>Picturing the Border</em>. Cleveland: The Cleveland Museum of Art, 2024.",
+          "page_number": "Mentioned and reproduced: p. 63, fig. 12",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/2007.20",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 165274,
+      "creators": [
+        {
+          "id": 11,
+          "description": "Berenice Abbott (American, 1898–1991)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Berenice Abbott American, 1898-1991 Berenice Abbott was one of the most accomplished documentary photographers of the 20th century. The Springfield, Ohio, native also achieved recognition for her critical role in preserving and promoting the work of French photographer Eugène Atget. Abbott learned photography during the 1920s while serving as an assistant in Man Ray's Paris studio. In 1926 she opened her own portrait studio, photographing many of the artists and intellectuals then living in Paris, including Atget and James Joyce. Following Atget's death in 1927, Abbott was instrumental in preserving his prints and negatives and in bringing his work to public attention through exhibitions and publications. In 1929, the year that Abbott returned to the United States, her photographs were included in the important exhibition Film und Foto in Stuttgart. Once back in the U.S., Abbott opened a portrait studio in New York City and undertook an ambitious project to document the city's rapidly changing landscape. In 1935 she received assistance from the wpa Federal Arts Project, and two years later images from her study were exhibited at the Museum of the City of New York. In 1939 her photographs were featured in Changing New York, a book with accompanying text by critic Elizabeth McCausland. It was also during the 1930s that Abbott began teaching at the New School for Social Research, a position she held until 1958. In the 1940s Abbott published a manual of photographic instruction, A Guide to Better Photography (1941), as well as a book of photographs taken from 1947-48, Greenwich Village Today and Yesterday (1949). Her photographic subject matter broadened to include scientific phenomena, particularly physical and chemical reactions, an interest she pursued throughout the 1950s. American landscapes, however, continued to be a source of inspiration. In 1954 Abbott traveled U.S. Route 1 from Florida to Maine, photographing small towns encountered along the way. Throughout her long career, Abbott's work was exhibited widely, beginning with a 1926 Paris show at the avant-garde gallery Au Sacre du Printemps. Over the years she participated in numerous group exhibitions as well as in one-person shows at the Museum of Modern Art, New York (1970), the Museum of Photographic Arts, San Diego (1984), and the New York Public Library (1989). M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1898",
+          "death_year": "1991",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2007-02-26T00:00:00",
+      "sortable_date": 1930,
+      "date_added_to_oa": null,
+      "date_text": "spring 1930",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:54.871000"
+    },
+    {
+      "id": 152223,
+      "accession_number": "1985.113",
+      "share_license_status": "CC0",
+      "tombstone": "Versailles, Chaste Venus, 1922–1923. Eugène Atget (French, 1857–1927). Albumen print, gold toned; image: 18.1 x 22.6 cm (7 1/8 x 8 7/8 in.); matted: 35.6 x 45.7 cm (14 x 18 in.). The Cleveland Museum of Art, John L. Severance Fund, 1985.113",
+      "current_location": null,
+      "title": "Versailles, Chaste Venus",
+      "creation_date": "1922–1923",
+      "creation_date_earliest": 1922,
+      "creation_date_latest": 1923,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 20th century"
+      ],
+      "technique": "albumen print, gold toned",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "Photography",
+      "type": "Photograph",
+      "measurements": "Image: 18.1 x 22.6 cm (7 1/8 x 8 7/8 in.); Matted: 35.6 x 45.7 cm (14 x 18 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.181,
+          "width": 0.226
+        },
+        "matted": {
+          "height": 0.356,
+          "width": 0.457
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"Versailles 1203\"; scratched into negative: \"1503 [sic]\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 311875,
+            "title": "Legacy of Light: Master Photographs from the Cleveland Museum of Art",
+            "description": "<i>Legacy of Light: Master Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 24, 1996-February 2, 1997).",
+            "opening_date": "1996-11-24T05:00:00"
+          },
+          {
+            "id": 178867,
+            "title": "Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art",
+            "description": "<i>Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 26-June 16, 2005).",
+            "opening_date": "2005-02-26T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, February 12 - April 20, 1986: \"Year in Review 1985,\" CMA Bulletin, 73 (Feb. 1986), p. 64, no. 56.",
+            "opening_date": "1986-02-12T00:00:00"
+          },
+          {
+            "description": "CMA, November 20,1996 - February 2, 1997: \"Legacy of Light: Master Photographs from the Cleveland Museum of Art,\" see Catalogue of Photography, pp. 34-35.",
+            "opening_date": "1997-02-02T00:00:00"
+          },
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; February 26 - June 16, 2005 . \"Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art\".",
+            "opening_date": "2005-02-26T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Estate of Eugène Atget; Julien Levy Collection",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "During the first quarter of the 20th century, Eugène Atget photographed the French urban experience. Periodically, from 1901 to 1926, Atget was particularly attracted to the grounds and gardens at the palace of Versailles, photographing its walks, fountains, and statues during different seasons. An eerie silence and mysteriousness frequently suffuses his images, as it does in this haunting photograph of Antoine Coysevox's bronze sculpture of Venus, positioned on a raised plinth facing the palace's garden facade. With the placement of his camera, Atget brought a carefully ordered harmony to the composition through the alignment of various architectural and sculptural elements.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79936324"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1985.113-versailles-chaste-ve"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Mentioned and Reproduced: P. 34-35, 88",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1985.113",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1985.113/1985.113_web.jpg",
+          "width": "1130",
+          "height": "893",
+          "filesize": "670898",
+          "filename": "1985.113_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1985.113/1985.113_print.jpg",
+          "width": "3400",
+          "height": "2686",
+          "filesize": "6060246",
+          "filename": "1985.113_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1985.113/1985.113_full.tif",
+          "width": "5503",
+          "height": "4348",
+          "filesize": "71815804",
+          "filename": "1985.113_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 152223,
+      "creators": [
+        {
+          "id": 23,
+          "description": "Eugène Atget (French, 1857–1927)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Eugène Atget French, 1857-1927\r\n\r\nRelatively unknown to the public during his lifetime, Eugène Atget is today an icon -- one of the most celebrated and influential photographers of the 20th century. Born near Bordeaux, Atget first directed his efforts to painting and the stage before turning to photography shortly before 1890. He is best known for his documentary scenes of Paris and Versailles, but he photographed a number of other sites as well. Atget viewed his work as a historical and aesthetic record, regarding it as documentation for use by artists. Indeed, several artists are known to have painted from his images.\r\n\tUsing relatively unsophisticated, even outdated equipment, Atget achieved a view of French architecture and culture that is both personal and factual. Along with the rediscovery of the images of Mathew Brady in the early 20th century, the recognition of Atget's artistic accomplishments shortly before his death by Berenice Abbott, Man Ray, and others helped turn photographers away from the mannered style of pictorialism toward the visual and technical clarity of modernism. Marked by a selective and highly individual method, his is among the most widely shown, published, and recognized work in photography today. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1857",
+          "death_year": "1927",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1985-08-27T00:00:00",
+      "sortable_date": 1922,
+      "date_added_to_oa": null,
+      "date_text": "1922–1923",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:05:09.955000"
+    },
+    {
+      "id": 160945,
+      "accession_number": "1999.215.2",
+      "share_license_status": "CC0",
+      "tombstone": "Taj Mahal, Back View of the Rest-House, with Figure, c. 1858–1862. Dr. John Murray (Scottish, 1809–1898). Waxed paper negative; image: 39.7 x 44.8 cm (15 5/8 x 17 5/8 in.); paper: 40.5 x 44.8 cm (15 15/16 x 17 5/8 in.). The Cleveland Museum of Art, John L. Severance Fund, 1999.215.2",
+      "current_location": null,
+      "title": "Taj Mahal, Back View of the Rest-House, with Figure",
+      "creation_date": "c. 1858–1862",
+      "creation_date_earliest": 1858,
+      "creation_date_latest": 1862,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "waxed paper negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 39.7 x 44.8 cm (15 5/8 x 17 5/8 in.); Paper: 40.5 x 44.8 cm (15 15/16 x 17 5/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.397,
+          "width": 0.448
+        },
+        "paper": {
+          "height": 0.405,
+          "width": 0.448
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 184303,
+            "title": "Travel Photography: Early Images of India",
+            "description": "<i>Travel Photography: Early Images of India</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 2-July 17, 2002).",
+            "opening_date": "2002-03-02T00:00:00"
+          },
+          {
+            "id": 299790,
+            "title": "Indian Gallery 242b Rotation – November 2017-April 2018",
+            "description": "<i>Indian Gallery 242b Rotation – November 2017-April 2018</i>. The Cleveland Museum of Art (organizer) (November 10, 2017-April 16, 2018).",
+            "opening_date": "2017-11-10T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, March 2 - July 17, 2002; \"Travel Photography: Images of India\". No catalog.",
+            "opening_date": "2002-03-02T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Although Dr. John Murray enjoyed a distinguished medical career as a surgeon, administrator, and leader in the fight against cholera, he is now best known for his superb paper negative photographs of India. Having lived near the Taj Mahal in the city of Agra for 20 years, Dr. Murray took great interest in the monument, photographing it from numerous perspectives and under varying light conditions. In this print, he chose an elevated viewpoint to compose an intriguing rendering of the Rest-House. The paper negative was waxed before sensitizing, improving its translucency and allowing the photographer to render his architectural subject matter in broad areas of light and dark, emphasizing the building's bold geometric forms. The surrounding, picturesque landscape adds both visual interest and complexity to the composition. Seated figures in the foreground provide an indication of scale and the sense of wonder that might be experienced in the presence of this vast monument.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79982992"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1999.215.2-taj-mahal-back-view"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1999.215.2",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1999.215.2/1999.215.2_web.jpg",
+          "width": "1130",
+          "height": "893",
+          "filesize": "672601",
+          "filename": "1999.215.2_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1999.215.2/1999.215.2_print.jpg",
+          "width": "3400",
+          "height": "2688",
+          "filesize": "5340328",
+          "filename": "1999.215.2_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1999.215.2/1999.215.2_full.tif",
+          "width": "5000",
+          "height": "3953",
+          "filesize": "59327096",
+          "filename": "1999.215.2_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 160945,
+      "creators": [
+        {
+          "id": 36645,
+          "description": "Dr. John Murray (Scottish, 1809–1898)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1809",
+          "death_year": "1898",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1999-12-06T00:00:00",
+      "sortable_date": 1858,
+      "date_added_to_oa": null,
+      "date_text": "c. 1858–1862",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "1999.215",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:51.248000"
+    },
+    {
+      "id": 667175,
+      "accession_number": "2024.5",
+      "share_license_status": "CC0",
+      "tombstone": "Photographs of Northern India, 1863–70. Samuel Bourne (British, 1834–1912). Album of 50 albumen prints. The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund, 2024.5",
+      "current_location": null,
+      "title": "Photographs of Northern India",
+      "creation_date": "1863–70",
+      "creation_date_earliest": 1863,
+      "creation_date_latest": 1870,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England"
+      ],
+      "technique": "Album of 50 albumen prints",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Bound Volume",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Samuel Bourne, the author of most the images in this album, was a banker in England before he moved to India to become a professional photographer.",
+      "description": "The 50 images in this album, all taken in the 1860s, move from the hill towns of the Himalayas down to cities including Lahore (now in Pakistan), Delhi, Lucknow, Agra, Benares (now Varansi), and Calcutta (now Kolkata). Architectural studies of major monuments offer valuable historical records of what sites such as the Taj Mahal and the imperial mosque of the Mughal emperors in Delhi looked like before twentieth-century restorations.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125360112"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2024.5-photographs-of-north"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.5",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.5/2024.5_web.jpg",
+          "width": "900",
+          "height": "707",
+          "filesize": "319287",
+          "filename": "2024.5_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.5/2024.5_print.jpg",
+          "width": "3400",
+          "height": "2670",
+          "filesize": "3786922",
+          "filename": "2024.5_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.5/2024.5_full.tif",
+          "width": "11303",
+          "height": "8877",
+          "filesize": "301044270",
+          "filename": "2024.5_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-03-15T14:06:23",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5/2024.5_alt0_web.jpg",
+            "width": "900",
+            "height": "692",
+            "filesize": "455940"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5/2024.5_alt0_print.jpg",
+            "width": "3400",
+            "height": "2616",
+            "filesize": "6359270"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5/2024.5_alt0_full.tif",
+            "width": "11212",
+            "height": "8626",
+            "filesize": "290173154"
+          }
+        },
+        {
+          "date_created": "2024-03-15T14:10:44",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5/2024.5_alt1_web.jpg",
+            "width": "900",
+            "height": "692",
+            "filesize": "426582"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5/2024.5_alt1_print.jpg",
+            "width": "3400",
+            "height": "2616",
+            "filesize": "6164530"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5/2024.5_alt1_full.tif",
+            "width": "11211",
+            "height": "8626",
+            "filesize": "290147354"
+          }
+        },
+        {
+          "date_created": "2024-03-15T14:08:48",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5/2024.5_alt2_web.jpg",
+            "width": "900",
+            "height": "692",
+            "filesize": "236440"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5/2024.5_alt2_print.jpg",
+            "width": "3400",
+            "height": "2616",
+            "filesize": "3875868"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5/2024.5_alt2_full.tif",
+            "width": "11211",
+            "height": "8626",
+            "filesize": "290145730"
+          }
+        },
+        {
+          "date_created": "2024-03-15T14:14:25",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5/2024.5_alt3_web.jpg",
+            "width": "740",
+            "height": "900",
+            "filesize": "239421"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5/2024.5_alt3_print.jpg",
+            "width": "2794",
+            "height": "3400",
+            "filesize": "2078600"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5/2024.5_alt3_full.tif",
+            "width": "7217",
+            "height": "8783",
+            "filesize": "190191434"
+          }
+        },
+        {
+          "date_created": "2024-03-15T14:14:47",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5/2024.5_alt4_web.jpg",
+            "width": "740",
+            "height": "900",
+            "filesize": "298986"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5/2024.5_alt4_print.jpg",
+            "width": "2794",
+            "height": "3400",
+            "filesize": "2375797"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5/2024.5_alt4_full.tif",
+            "width": "7217",
+            "height": "8783",
+            "filesize": "190193074"
+          }
+        }
+      ],
+      "creditline": "Severance and Greta Millikin Purchase Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667175,
+      "creators": [
+        {
+          "id": 265,
+          "description": "Samuel Bourne (British, 1834–1912)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Samuel Bourne British, 1834 - 1912 Born in Nottingham, Samuel Bourne first began taking photographs as an amateur in 1851. Four years later, he gave up his career in banking to become a professional photographer. In 1862 he embarked for India, where for the next several years he made three photographic expeditions into the Himalayas. He also formed a partnership in Simla with Charles Shepherd -- a publishing enterprise to reproduce photographic views. Until his return to England in 1870, Bourne continued to work in India and the Far East and to expand the province of Bourne &amp; Shepherd, opening a second branch in Calcutta. By the time of his departure he had produced some 1,500 negatives of such places as Benares, Darjeeling, and Tibet, largely of landscape and architecture for the public market. Bourne was known for the care with which he conceived and executed his work. His images, though plentiful, were highly prized and remain so today. Many are still available from the firm Bourne &amp; Shepherd, which has survived for more than 125 years. After returning to England, he established a business in cotton doubling, manufacturing thread for lacemaking and weaving machines, raised a family, and took up again the life of an amateur photographer and watercolorist. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1834",
+          "death_year": "1912",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1863,
+      "date_added_to_oa": null,
+      "date_text": "1863–70",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "cover",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:09.224000"
+    },
+    {
+      "id": 154895,
+      "accession_number": "1989.461",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Emma Street, Lakeland, Florida, 1982. Nicholas Nixon (American, 1947-). Gelatin silver print; image: 19.5 x 24.5 cm (7 11/16 x 9 5/8 in.); paper: 20.3 x 25.3 cm (8 x 9 15/16 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, Gift of Museum members in 1989, 1989.461",
+      "current_location": null,
+      "title": "Emma Street, Lakeland, Florida",
+      "creation_date": "1982",
+      "creation_date_earliest": 1982,
+      "creation_date_latest": 1982,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 19.5 x 24.5 cm (7 11/16 x 9 5/8 in.); Paper: 20.3 x 25.3 cm (8 x 9 15/16 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.195,
+          "width": 0.245
+        },
+        "paper": {
+          "height": 0.203,
+          "width": 0.253
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"NN16199\"; \"Emma Street Lakeland, Florida 1982 14/50 Nicholas Nixon [signed]\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 184340,
+            "title": "Looking at Children:  Photographs from the Permanent Collection",
+            "description": "<i>Looking at Children:  Photographs from the Permanent Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 20-December 4, 2002).",
+            "opening_date": "2002-07-20T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, Feb. 6 - April 15, 1990: \"Year in Review 1989,\" CMA Bulletin, 77 (Feb. 1990), p. 72, no. 122 (not exhibited).",
+            "opening_date": "1990-02-06T00:00:00"
+          },
+          {
+            "description": "CMA, Nov. 18, 1992 - Jan. 3, 1993: \"Contemporary American Photographers,\" CMA Bulletin, 79 (Nov. 1992), p. 341, no. 56, repr. p. 339.",
+            "opening_date": "1992-11-18T00:00:00"
+          },
+          {
+            "description": "CMA, July 20 - December 4, 2002; \"Looking at Children\".  No catalog",
+            "opening_date": "2002-07-20T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Nicholas Nixon began his career in the late 1960s, photographing architectural views and cityscapes before turning to portraiture. During the late 1970s and early 1980s, he recorded working-class and impoverished Americans in urban and rural locations. In this visually complex image of several generations, Nixon positions the subjects and photographs them up close to decrease the sense of deep space, allowing the subjects to dominate the composition. Although physically close, the eyes of the figures are diverted from one another and the camera, and they appear emotionally distant and in their own separate worlds. The photograph avoids sentimentality while providing a social documentation and a study of human interaction.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79942633"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Hinson, Tom E. \"Contemporary American Photographs: An Exhibition.\" <em>The Bulletin of the Cleveland Museum of Art</em> 79, no. 9 (1992): 306-51.",
+          "page_number": "Reproduced & Mentioned: p. 338-39",
+          "url": "https://www.jstor.org/stable/25161375"
+        },
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 256",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1989.461",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Museum members in 1989",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 154895,
+      "creators": [
+        {
+          "id": 739,
+          "description": "Nicholas Nixon (American, 1947-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Nicholas Nixon American, 1947-\r\n\r\nThe photographs of Nicholas Nixon reflect the amalgamation of a number of stylistic and humanitarian influences. Like many documentary photographers who came on the scene in the late 1960s, Nixon (born in Detroit) began making 35mm snapshots in the manner of Cartier-Bresson's \"decisive moment.\" He was a vista volunteer in St. Louis (1969-70) and taught high school in Minneapolis (1970-71), experiences that would influence his later portraiture.\r\n\tIn 1975 curator Bill Jenkins of George Eastman House, Rochester, included Nixon's architectural views in his influential New Topographics exhibition along with the work of nine other emerging photographers whose subjects addressed the \"man-altered landscape.\" Nixon pursued this theme throughout the mid-1970s, photographing the modern city skyline with the sort of utopian idealism previously reserved for the type of heroic landscapes perfected by Ansel Adams. In 1976 he had his first solo exhibition at the Museum of Modern Art, New York. During this time he also began using a large-format camera to make powerful, honest portraits of his wife, Bebe, and her three sisters. This ongoing series, included in its nascence by John Szarkowski in his 1978 Mirrors and Windows exhibition at the Museum of Modern Art, New York, is among Nixon's most recognized achievements.\r\n\tNixon collaborated with his wife on a book project, People with aids (1991), and continues to explore themes of family, childhood, and education, recently completing a series on his son Sam's sixth-grade class, titled Room 306. He holds a B.A. in American literature from the University of Michigan (1969) and an M.F.A. from the University of New Mexico (1974). His awards include fellowships from the National Endowment for the Arts (1976, 1979) and the John Simon Guggenheim Memorial Foundation (1977). Nixon lives in Cambridge, where he teaches at the Massachusetts College of Art. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1990-01-29T00:00:00",
+      "sortable_date": 1982,
+      "date_added_to_oa": null,
+      "date_text": "1982",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": "14",
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:04:25.770000"
+    },
+    {
+      "id": 151361,
+      "accession_number": "1983.202",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Church, Rancho de Taos, New Mexico, 1931. Paul Strand (American, 1890–1976). Gelatin silver print; image: 9.2 x 11.9 cm (3 5/8 x 4 11/16 in.); matted: 30.6 x 35.6 cm (12 1/16 x 14 in.). The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund, 1983.202. © Aperture Foundation, Inc., Paul Strand Archive",
+      "current_location": null,
+      "title": "Church, Rancho de Taos, New Mexico",
+      "creation_date": "1931",
+      "creation_date_earliest": 1931,
+      "creation_date_latest": 1931,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 9.2 x 11.9 cm (3 5/8 x 4 11/16 in.); Matted: 30.6 x 35.6 cm (12 1/16 x 14 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.092,
+          "width": 0.119
+        },
+        "matted": {
+          "height": 0.306,
+          "width": 0.356
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Aperture Foundation, Inc., Paul Strand Archive",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"SW-Arch-467 TI\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 309669,
+            "title": "The Year in Review for 1983",
+            "description": "<i>The Year in Review for 1983</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 22-April 8, 1984).",
+            "opening_date": "1984-02-22T05:00:00"
+          },
+          {
+            "id": 310243,
+            "title": "The Precisionist Aesthetic in American Art",
+            "description": "<i>The Precisionist Aesthetic in American Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 24-April 9, 1989).",
+            "opening_date": "1989-01-24T05:00:00"
+          },
+          {
+            "id": 311876,
+            "title": "Legacy of Light: Seven Masters in Depth",
+            "description": "<i>Legacy of Light: Seven Masters in Depth</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 20-February 2, 1996).",
+            "opening_date": "1996-11-20T05:00:00"
+          },
+          {
+            "id": 194095,
+            "title": "Icons of American Photography: A Century of Photographs from the Cleveland Museum of Art",
+            "description": "<i>Icons of American Photography: A Century of Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 24-September 16, 2007).",
+            "opening_date": "2007-06-24T00:00:00"
+          },
+          {
+            "id": 299125,
+            "title": "From Riches to Rags: American Photography in the Depression",
+            "description": "<i>From Riches to Rags: American Photography in the Depression</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 13-December 31, 2017).",
+            "opening_date": "2017-08-13T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Built with mud, straw, and sun-baked adobe bricks in the early 1800s, this church is still an active place of worship today.",
+      "description": "The 18th-century adobe church of San Francisco de Assisi in Rancho de Taos, New Mexico, was an icon of pure form for modernist artists from Georgia O’Keeffe and Ansel Adams to Paul Strand, who spent summers in Taos from 1930 to 1932. Ansel Adams also chose this view of the back with its sculptural buttresses, stating that “it is the rear elevation that defines this building as one of the great architectural monuments of America.” Strand's picture of this notable church  explores the relationship between the three- and two-dimensional worlds. While remaining representational, it emphasizes the building’s abstract qualities.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60781205"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 336",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1983.202",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Leonard C. Hanna Jr. Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 151361,
+      "creators": [
+        {
+          "id": 967,
+          "description": "Paul Strand (American, 1890–1976)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Paul Strand American, 1890-1976\r\n\r\nPaul Strand (born in New York City) was an influential advocate of the straight approach in creative photography. While a student at the Ethical Culture School in New York, Strand studied photography with Lewis Hine (1907-8). In 1908 he joined the Camera Club of New York and three years later traveled through Europe, making softly focused, manipulated photographs in the popular pictorial style. In the fall of 1911 Strand established himself as a freelance commercial photographer in New York and two years later began visiting the exhibitions of modern art at Alfred Stieglitz's Photo-Secession galleries.\r\n\tBetween 1914-17, stimulated by his contact with Stieglitz and avant-garde American and European art, Strand abandoned pictorialism for images that expressed an interest in formal concerns and the dynamism of contemporary urban life. He experimented with abstraction and movement and candid portraiture of people on the street. Excited by Strand's innovative work, Stieglitz exhibited his pictures at \"291\" in 1916 and featured them in the final two issues of Camera Work (October 1916; June 1917). In 1917 Strand expressed his belief in a pure photographic aesthetic, stressing the objectivity of the medium and its ability to produce \"a range of almost infinite tonal values which lie beyond the skill of the human hand.\"\r\n\tThe following year Strand served as an x-ray technician in the Army Medical Corps. After his year of service, he returned to New York and in 1920 collaborated with painter/photographer Charles Sheeler on the avant-garde film Manhatta (originally titled New York the Magnificent). Throughout the 1920s Strand made his living as a filmmaker, only occasionally making photographs. He pursued both film and creative photography in the 1930s and early 1940s; by 1945, however, when his images were featured in a one-person exhibition at the Museum of Modern Art, New York, still photography had once more become his primary focus. After visiting France in 1950 he decided to settle there, and over the following two decades traveled and photographed in Europe and Africa.\r\n\tStrand's work has been widely exhibited. Retrospectives have been mounted by the Museum of Modern Art, New York (1945), the Philadelphia Museum of Art (1971, and tour), and the Metropolitan Museum of Art, New York (1973), and numerous traveling exhibitions have been organized, including Paul Strand: An American Vision by the National Gallery of Art, Washington, D.C. (1990). He was named an Honorary Member of the American Society of Magazine Photographers (1963) and a Fellow of the American Academy of Arts and Sciences (1973). M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1890",
+          "death_year": "1976",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1983-12-05T00:00:00",
+      "sortable_date": 1931,
+      "date_added_to_oa": null,
+      "date_text": "1931",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:54.327000"
+    },
+    {
+      "id": 674294,
+      "accession_number": "2024.45.9",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Metamorphoses: Atropa, c. 2019. Anderson & Low. Salt print. The Cleveland Museum of Art, The Michael G. and C. Jane Wilson 2007 Trust, 2024.45.9. © Anderson & Low",
+      "current_location": null,
+      "title": "Atropa",
+      "series": "Metamorphoses",
+      "creation_date": "c. 2019",
+      "creation_date_earliest": 2017,
+      "creation_date_latest": 2024,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "salt print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Anderson & Low",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "These 21st century images were inspired by photographs taken through a microscope by nineteenth-century British photographer Frederick Evans.",
+      "description": "Evans’s fascination with form and visionary translation of common natural objects resonated with Anderson &amp; Low. They decided to rework images from their <em>Chrysalis</em> series, in which they used digital technology to transform earlier analog architectural views into large-scale, exuberantly patterned, and colored abstract images. In contrast, the <em>Metamorphoses </em>are delicate monochromatic images—intimately scaled salt prints, a complex printing process devised in the mid-1830s.",
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.45.9",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The Michael G. and C. Jane Wilson 2007 Trust",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 674294,
+      "creators": [
+        {
+          "id": 323633,
+          "description": "Anderson & Low",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1990",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-06-03T00:00:00-04:00",
+      "sortable_date": 2017,
+      "date_added_to_oa": null,
+      "date_text": "c. 2019",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.45",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:16.343000"
+    },
+    {
+      "id": 674291,
+      "accession_number": "2024.45.7",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Metamorphoses: Cupiditas, c. 2019. Anderson & Low. Salt print. The Cleveland Museum of Art, The Michael G. and C. Jane Wilson 2007 Trust, 2024.45.7. © Anderson & Low",
+      "current_location": null,
+      "title": "Cupiditas",
+      "series": "Metamorphoses",
+      "creation_date": "c. 2019",
+      "creation_date_earliest": 2017,
+      "creation_date_latest": 2024,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "salt print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Anderson & Low",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "These 21st century images were inspired by photographs taken through a microscope by nineteenth-century British photographer Frederick Evans.",
+      "description": "Evans’s fascination with form and visionary translation of common natural objects resonated with Anderson &amp; Low. They decided to rework images from their <em>Chrysalis</em> series, in which they used digital technology to transform earlier analog architectural views into large-scale, exuberantly patterned, and colored abstract images. In contrast, the <em>Metamorphoses </em>are delicate monochromatic images—intimately scaled salt prints, a complex printing process devised in the mid-1830s.",
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.45.7",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The Michael G. and C. Jane Wilson 2007 Trust",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 674291,
+      "creators": [
+        {
+          "id": 323633,
+          "description": "Anderson & Low",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1990",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-06-03T00:00:00-04:00",
+      "sortable_date": 2017,
+      "date_added_to_oa": null,
+      "date_text": "c. 2019",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.45",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:20.582000"
+    },
+    {
+      "id": 325431,
+      "accession_number": "2019.55",
+      "share_license_status": "CC0",
+      "tombstone": "Lepcha Woman (number 1908), c. 1863–70. Samuel Bourne (British, 1834–1912). Albumen print from wet collodion negative; image: 27.5 x 23.2 cm (10 13/16 x 9 1/8 in.); paper: 27.5 x 23.2 cm (10 13/16 x 9 1/8 in.). The Cleveland Museum of Art, Photography Discretionary Fund, 2019.55",
+      "current_location": null,
+      "title": "Lepcha Woman (number 1908)",
+      "creation_date": "c. 1863–70",
+      "creation_date_earliest": 1858,
+      "creation_date_latest": 1875,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "albumen print from wet collodion negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 27.5 x 23.2 cm (10 13/16 x 9 1/8 in.); Paper: 27.5 x 23.2 cm (10 13/16 x 9 1/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.275,
+          "width": 0.232
+        },
+        "paper": {
+          "height": 0.275,
+          "width": 0.232
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in black ink on recto, lower left: “Bourne/1908”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “1908”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Daniella Dangoor, London, England)",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "March 4, 2019",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The Lepcha people, also called the Rongkup, are indigenous to Sikkim, Darjeeling, and West Bengal in India, and to areas of Nepal and Bhutan.",
+      "description": "One of the most versatile and widely traveled early photographers of India was Samuel Bourne, recognized in his time and now for superb technical skills and artistic talent. While his predominant subject matters were landscape and architectural views, Bourne sometimes photographed the types of people he encountered on his travels throughout India.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79875953"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2019.55-lepcha-woman-number"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2019.55",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.55/2019.55_web.jpg",
+          "width": "754",
+          "height": "900",
+          "filesize": "341871",
+          "filename": "2019.55_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.55/2019.55_print.jpg",
+          "width": "2848",
+          "height": "3400",
+          "filesize": "3436102",
+          "filename": "2019.55_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.55/2019.55_full.tif",
+          "width": "8737",
+          "height": "10432",
+          "filesize": "273465076",
+          "filename": "2019.55_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Photography Discretionary Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 325431,
+      "creators": [
+        {
+          "id": 265,
+          "description": "Samuel Bourne (British, 1834–1912)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Samuel Bourne British, 1834 - 1912 Born in Nottingham, Samuel Bourne first began taking photographs as an amateur in 1851. Four years later, he gave up his career in banking to become a professional photographer. In 1862 he embarked for India, where for the next several years he made three photographic expeditions into the Himalayas. He also formed a partnership in Simla with Charles Shepherd -- a publishing enterprise to reproduce photographic views. Until his return to England in 1870, Bourne continued to work in India and the Far East and to expand the province of Bourne &amp; Shepherd, opening a second branch in Calcutta. By the time of his departure he had produced some 1,500 negatives of such places as Benares, Darjeeling, and Tibet, largely of landscape and architecture for the public market. Bourne was known for the care with which he conceived and executed his work. His images, though plentiful, were highly prized and remain so today. Many are still available from the firm Bourne &amp; Shepherd, which has survived for more than 125 years. After returning to England, he established a business in cotton doubling, manufacturing thread for lacemaking and weaving machines, raised a family, and took up again the life of an amateur photographer and watercolorist. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1834",
+          "death_year": "1912",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-03-04T00:00:00-05:00",
+      "sortable_date": 1858,
+      "date_added_to_oa": null,
+      "date_text": "c. 1863–70",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:01.934000"
+    },
+    {
+      "id": 156107,
+      "accession_number": "1991.40",
+      "share_license_status": "CC0",
+      "tombstone": "Arch in Farmyard, Swansea, 1845. Calvert Richard Jones (British, 1804–1877). Salted paper print from calotype negative, gold-toned; image: 23.2 x 18.7 cm (9 1/8 x 7 3/8 in.); matted: 50.8 x 40.6 cm (20 x 16 in.). The Cleveland Museum of Art, Andrew R. and Martha Holden Jennings Fund, 1991.40",
+      "current_location": null,
+      "title": "Arch in Farmyard, Swansea",
+      "creation_date": "1845",
+      "creation_date_earliest": 1845,
+      "creation_date_latest": 1845,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "salted paper print from calotype negative, gold-toned",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 23.2 x 18.7 cm (9 1/8 x 7 3/8 in.); Matted: 50.8 x 40.6 cm (20 x 16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.232,
+          "width": 0.187
+        },
+        "matted": {
+          "height": 0.508,
+          "width": 0.406
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"10726-CIWS\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 311440,
+            "title": "Notable Acquisitions",
+            "description": "<i>Notable Acquisitions</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 7-September 15, 1991).",
+            "opening_date": "1991-06-07T04:00:00"
+          },
+          {
+            "id": 311875,
+            "title": "Legacy of Light: Master Photographs from the Cleveland Museum of Art",
+            "description": "<i>Legacy of Light: Master Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 24, 1996-February 2, 1997).",
+            "opening_date": "1996-11-24T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, June 7 - September, 1991: \"Notable Acquisitions,\" CMA Bulletin, 78 (June 1991), p. 90, repr.",
+            "opening_date": "1991-06-01T00:00:00"
+          },
+          {
+            "description": "CMA, November 20,1996 - February 2, 1997: \"Legacy of Light: Master Photographs from the Cleveland Museum of Art.\"",
+            "opening_date": "1997-02-02T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Educated as a mathematician, musician, and clergyman, Jones was an accomplished daguerreotypist before he was introduced to the calotype by William Henry Fox Talbot in 1845. Jones's pictures were taken primarily in Wales, England, Ireland, and the Mediterranean and often depicted complex compositions of ruins, landscape, and rustic architecture. To provide a sense of scale and human presence, he almost always included figures in his architectural views (here a lone individual leans against the archway). In this photograph Jones also alluded to the inevitable passage of time by contrasting the monumental arch in the foreground with the ruined arch in the distance.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79945085"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1991.40-arch-in-farmyard-swa"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Hinson, Tom E. \"Notable Acquisitions.\" <em>The Bulletin of the Cleveland Museum of Art</em> 78, no. 3 (1991): 63-147.",
+          "page_number": "Reproduced and Mentioned: p. 90",
+          "url": "https://www.jstor.org/stable/25161319"
+        },
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 204",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1991.40",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1991.40/1991.40_web.jpg",
+          "width": "723",
+          "height": "893",
+          "filesize": "558193",
+          "filename": "1991.40_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1991.40/1991.40_print.jpg",
+          "width": "2754",
+          "height": "3400",
+          "filesize": "6548522",
+          "filename": "1991.40_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1991.40/1991.40_full.tif",
+          "width": "4392",
+          "height": "5423",
+          "filesize": "71487768",
+          "filename": "1991.40_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2006-10-24T17:08:09",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1991.40/1991.40_alt0_web.jpg",
+            "width": "728",
+            "height": "893",
+            "filesize": "549457"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1991.40/1991.40_alt0_print.jpg",
+            "width": "2773",
+            "height": "3400",
+            "filesize": "6236656"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1991.40/1991.40_alt0_full.tif",
+            "width": "3876",
+            "height": "4752",
+            "filesize": "55290724"
+          }
+        }
+      ],
+      "creditline": "Andrew R. and Martha Holden Jennings Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 156107,
+      "creators": [
+        {
+          "id": 512,
+          "description": "Calvert Richard Jones (British, 1804–1877)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Reverend Calvert Richard Jones, Jr. British, b. Wales, 1804-1877\r\n\r\nCalvert Jones was part of the circle of Welsh amateur photographers that emerged around John Dillwyn Llewelyn and were strongly influenced by William Henry Fox Talbot. Educated at Oriel College, Oxford, Jones returned to Wales in 1829 after his ordination to serve as rector of Loughor near his native town of Swansea. A man of varied interests, including mathematics, music, and painting, he was introduced to photography by Welsh members of Talbot's family.\r\n\tIn 1845, after lessons and practical experience in calotyping with Talbot in Britain, Jones embarked on a trip to Malta and Italy, during which he produced a number of views. On his return, he sent 22 small calotypes and 102 larger ones to Talbot, who sold them on commission. Jones's training in art, especially marine painting, lends his images considerable confidence of composition, tone, and scale. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1804",
+          "death_year": "1877",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1991-04-29T00:00:00",
+      "sortable_date": 1845,
+      "date_added_to_oa": null,
+      "date_text": "1845",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:52.593000"
+    },
+    {
+      "id": 674296,
+      "accession_number": "2024.45.11",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Metamorphoses: Circus, c. 2019. Anderson & Low. Salt print. The Cleveland Museum of Art, The Michael G. and C. Jane Wilson 2007 Trust, 2024.45.11. © Anderson & Low",
+      "current_location": null,
+      "title": "Circus",
+      "series": "Metamorphoses",
+      "creation_date": "c. 2019",
+      "creation_date_earliest": 2017,
+      "creation_date_latest": 2024,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "salt print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Anderson & Low",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "These 21st century images were inspired by photographs taken through a microscope by nineteenth-century British photographer Frederick Evans.",
+      "description": "Evans’s fascination with form and visionary translation of common natural objects resonated with Anderson &amp; Low. They decided to rework images from their <em>Chrysalis</em> series, in which they used digital technology to transform earlier analog architectural views into large-scale, exuberantly patterned, and colored abstract images. In contrast, the <em>Metamorphoses </em>are delicate monochromatic images—intimately scaled salt prints, a complex printing process devised in the mid-1830s.",
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.45.11",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The Michael G. and C. Jane Wilson 2007 Trust",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 674296,
+      "creators": [
+        {
+          "id": 323633,
+          "description": "Anderson & Low",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1990",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-06-03T00:00:00-04:00",
+      "sortable_date": 2017,
+      "date_added_to_oa": null,
+      "date_text": "c. 2019",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.45",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:29.584000"
+    },
+    {
+      "id": 674300,
+      "accession_number": "2024.45.16",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Metamorphoses: Somnium Architecti, c. 2019. Anderson & Low. Salt print. The Cleveland Museum of Art, The Michael G. and C. Jane Wilson 2007 Trust, 2024.45.16. © Anderson & Low",
+      "current_location": null,
+      "title": "Somnium Architecti",
+      "series": "Metamorphoses",
+      "creation_date": "c. 2019",
+      "creation_date_earliest": 2017,
+      "creation_date_latest": 2024,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "salt print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Anderson & Low",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "These 21st century images were inspired by photographs taken through a microscope by nineteenth-century British photographer Frederick Evans.",
+      "description": "Evans’s fascination with form and visionary translation of common natural objects resonated with Anderson &amp; Low. They decided to rework images from their <em>Chrysalis</em> series, in which they used digital technology to transform earlier analog architectural views into large-scale, exuberantly patterned, and colored abstract images. In contrast, the <em>Metamorphoses </em>are delicate monochromatic images—intimately scaled salt prints, a complex printing process devised in the mid-1830s.",
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.45.16",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The Michael G. and C. Jane Wilson 2007 Trust",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 674300,
+      "creators": [
+        {
+          "id": 323633,
+          "description": "Anderson & Low",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1990",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-06-03T00:00:00-04:00",
+      "sortable_date": 2017,
+      "date_added_to_oa": null,
+      "date_text": "c. 2019",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.45",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:18.419000"
+    },
+    {
+      "id": 674292,
+      "accession_number": "2024.45.13",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Metamorphoses: Concha Quarta, c. 2019. Anderson & Low. Salt print. The Cleveland Museum of Art, The Michael G. and C. Jane Wilson 2007 Trust, 2024.45.13. © Anderson & Low",
+      "current_location": null,
+      "title": "Concha Quarta",
+      "series": "Metamorphoses",
+      "creation_date": "c. 2019",
+      "creation_date_earliest": 2017,
+      "creation_date_latest": 2024,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "salt print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Anderson & Low",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "These 21st century images were inspired by photographs taken through a microscope by nineteenth-century British photographer Frederick Evans.",
+      "description": "Evans’s fascination with form and visionary translation of common natural objects resonated with Anderson &amp; Low. They decided to rework images from their <em>Chrysalis</em> series, in which they used digital technology to transform earlier analog architectural views into large-scale, exuberantly patterned, and colored abstract images. In contrast, the <em>Metamorphoses </em>are delicate monochromatic images—intimately scaled salt prints, a complex printing process devised in the mid-1830s.",
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.45.13",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The Michael G. and C. Jane Wilson 2007 Trust",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 674292,
+      "creators": [
+        {
+          "id": 323633,
+          "description": "Anderson & Low",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1990",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-06-03T00:00:00-04:00",
+      "sortable_date": 2017,
+      "date_added_to_oa": null,
+      "date_text": "c. 2019",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.45",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:46.478000"
+    }
+  ]
+}

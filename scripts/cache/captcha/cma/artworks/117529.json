@@ -1,0 +1,132 @@
+{
+  "data": {
+    "id": 117529,
+    "accession_number": "1938.194",
+    "share_license_status": "Copyrighted",
+    "tombstone": "The Bridge, c. 1937. Mabel A. Hewit (American, 1903–1984). Block printing on silk; overall: 127 x 84.5 cm (50 x 33 1/4 in.). The Cleveland Museum of Art, Educational Purchase Fund, 1938.194. © Mabel A. Hewit",
+    "current_location": null,
+    "title": "The Bridge",
+    "creation_date": "c. 1937",
+    "creation_date_earliest": 1932,
+    "creation_date_latest": 1942,
+    "artists_tags": [
+      "May Show",
+      "female"
+    ],
+    "culture": [
+      "America, Ohio, Cleveland"
+    ],
+    "technique": "block printing on silk",
+    "support_materials": [],
+    "department": "Textiles",
+    "collection": "Textiles",
+    "type": "Textile",
+    "measurements": "Overall: 127 x 84.5 cm (50 x 33 1/4 in.)",
+    "dimensions": {
+      "overall": {
+        "height": 1.27,
+        "width": 0.845
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": "© Mabel A. Hewit",
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 382029,
+          "title": "The May Show: 20th Annual Exhibition of Works by Cleveland Artists and Craftsmen",
+          "description": "<i>The May Show: 20th Annual Exhibition of Works by Cleveland Artists and Craftsmen</i>. The Cleveland Museum of Art (organizer) (May 4-June 12, 1938).",
+          "opening_date": "1938-05-04T04:00:00"
+        },
+        {
+          "id": 178739,
+          "title": "Midwest Modern: The Color Woodcuts of Mabel Hewit",
+          "description": "<i>Midwest Modern: The Color Woodcuts of Mabel Hewit</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 26-October 24, 2010).",
+          "opening_date": "2010-06-26T04:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "purchased from the 20th Annual Exibition of Work by Cleveland Artists and Craftsmen",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": null
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "Motifs like the bridge are here decorated with patterns that animate this textile, meant for home decoration or clothing. The trees and shrubs have metamorphosed into fanciful, geometric plant forms reflecting the Art Deco style popular in the 1920s and 1930s. When Hewit printed loom widths of cotton or silk, she carved the blocks in the traditional manner, cutting away the excess wood, leaving the image in relief. <em>The Bridge</em> is a clever design that illustrates Hewit’s sophisticated use of the precise process of printing a block repeatedly in horizontal rows on a large piece of fabric. While the block contains all the elements of the design, the design is only complete after the block has been printed seven times—to the left and right of the original imprint but twice above and below it. The design is staggered on alternate rows, and only through these adjacencies do the motifs become whole.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q80012056"
+      ],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "Mabel Hewit scrapbooks. Cleveland Museum of Art Archives.",
+        "page_number": null,
+        "url": "http://library.clevelandart.org/mabel-hewit-scrapbooks"
+      },
+      {
+        "citation": "Mabel A. Hewit Entry Card to 1938 May Show. Cleveland Museum of Art May Show Records, Cleveland Museum of Art Archives.",
+        "page_number": null,
+        "url": "https://archive.org/details/CMAMS04720/"
+      },
+      {
+        "citation": "Artist biographical file for Mabel Hewit. Cleveland Museum of Art May Show Records, Cleveland Museum of Art Archives.",
+        "page_number": null,
+        "url": "https://archive.org/details/MSB0857"
+      }
+    ],
+    "url": "https://clevelandart.org/art/1938.194",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Educational Purchase Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 117529,
+    "creators": [
+      {
+        "id": 42681,
+        "description": "Mabel A. Hewit (American, 1903–1984)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "Biographical information exists in the Cleveland Museum of Art Archives.",
+        "name_in_original_language": null,
+        "birth_year": "1903",
+        "death_year": "1984",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1938-06-03T00:00:00",
+    "sortable_date": 1932,
+    "date_added_to_oa": null,
+    "date_text": "c. 1937",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:04:12.830000"
+  }
+}

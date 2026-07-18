@@ -1,0 +1,389 @@
+{
+  "data": {
+    "id": 151298,
+    "accession_number": "1983.155",
+    "share_license_status": "CC0",
+    "tombstone": "Prater Landscape, c. 1831. Ferdinand Georg Waldmüller (Austrian, 1793–1865). Oil on wood panel; framed: 37.5 x 43.5 x 5.5 cm (14 3/4 x 17 1/8 x 2 3/16 in.); unframed: 25 x 31 cm (9 13/16 x 12 3/16 in.). The Cleveland Museum of Art, Andrew R. and Martha Holden Jennings Fund, 1983.155",
+    "current_location": null,
+    "title": "Prater Landscape",
+    "creation_date": "c. 1831",
+    "creation_date_earliest": 1826,
+    "creation_date_latest": 1836,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "Austria"
+    ],
+    "technique": "oil on wood panel",
+    "support_materials": [],
+    "department": "Modern European Painting and Sculpture",
+    "collection": "Mod Euro - Painting 1800-1960",
+    "type": "Painting",
+    "measurements": "Framed: 37.5 x 43.5 x 5.5 cm (14 3/4 x 17 1/8 x 2 3/16 in.); Unframed: 25 x 31 cm (9 13/16 x 12 3/16 in.)",
+    "dimensions": {
+      "framed": {
+        "height": 0.375,
+        "width": 0.435,
+        "depth": 0.055
+      },
+      "unframed": {
+        "height": 0.25,
+        "width": 0.31
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 309669,
+          "title": "The Year in Review for 1983",
+          "description": "<i>The Year in Review for 1983</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 22-April 8, 1984).",
+          "opening_date": "1984-02-22T05:00:00"
+        },
+        {
+          "id": 383281,
+          "title": "Stories from Storage",
+          "description": "<i>Stories from Storage</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 7-May 16, 2021).",
+          "opening_date": "2021-02-06T05:00:00"
+        }
+      ],
+      "legacy": [
+        {
+          "description": "Vienna, Oesterreichischer Kunstverein. Katalog der Ausstellung von Kunstwerken des Malers und Professors der k. k. Akademie, Ferdinand G. Waldmüller. 169. Ausstellung (1865), no. 67.",
+          "opening_date": null
+        },
+        {
+          "description": "Vienna, Hagenbund. Ferdinand Georg Waldmüller (1930), no. 32, Praterbäume, Privatbesitz Wien (repr.).",
+          "opening_date": "1930-01-01T00:00:00"
+        },
+        {
+          "description": "Basel, Kunsthalle. Kunstwerke des 19. Jahrhunderts aus Basler Privatbesitz (1943), no. 66, Praterlandschaft.",
+          "opening_date": "1943-01-01T00:00:00"
+        },
+        {
+          "description": "Salzburg, Residenz. Ferdinand Georg Waldmüller 1793-1865 (1953), no. 36, Praterbäume (early 1830s), private collection, Switzerland.",
+          "opening_date": "1953-01-01T00:00:00"
+        },
+        {
+          "description": "Winterthur, Kunstmuseum. Europäische Meister 1790-1910 (1955), no. 212, Praterbäume, Schweizer Privatbesitz.",
+          "opening_date": "1955-01-01T00:00:00"
+        }
+      ]
+    },
+    "provenance": [
+      {
+        "description": "Herr von Beer",
+        "citations": [],
+        "footnotes": [
+          "<div><!--block-->Rupert Feuchtmüller’s Waldmüller catalogue raisonné is the only known source for the inclusion in the provenance of Herr von Beer, about whom further details are unknown.&nbsp; The source for his ownership of the Waldmüller in 1865 is also unknown.&nbsp; It is also possible that “Herr von Beer” should in fact be “Herr von Behr,” as there are very few references to anyone by the name of “Herr von Beer.”&nbsp; An obscure reference to one Herr von Beer during the years 1870-74 appears in the 1906 <em>Memoirs of Prince Chlowig of Hohenlohe-Schillingsfuerst</em>, vol. 2, p. 58: “When the Bavarians marched past with the other picked troops, my neighbor, Herr von Beer, was so moved that he thanked me heartily for my share in the arrangement.”&nbsp; A perhaps more relevant reference is in Francis Turner Palgrave’s <em>Official Catalogue of the Fine Art Department, </em>which accompanied the International Exhibition in London of 1862, which lists among the architectural designs of “E. Knoblauch,” a Prussian architect (possibly Carl Heinrich Eduard Knoblauch), the “Residence of Herr von Behr, Wilhelmsplatz, Berlin” (p. 182).&nbsp;</div>"
+        ],
+        "date": "1865?",
+        "sortorder": 1
+      },
+      {
+        "description": "(Kunsthandlung Arnot, Vienna)",
+        "citations": [],
+        "footnotes": [],
+        "date": "?",
+        "sortorder": 2
+      },
+      {
+        "description": "Private collection, Vienna",
+        "citations": [],
+        "footnotes": [
+          "<div><!--block-->Künstlerbund Hagen. <em>Ferdinand Georg Waldmüller: Jänner-März 1930, in den Räumen des Hagenbundes</em>. [Wien]: [Kunstlerbund Hagen], 1930.</div>"
+        ],
+        "date": "By 1930",
+        "sortorder": 3
+      },
+      {
+        "description": "Fritz Nathan, sold to Dr. Tobler",
+        "citations": [],
+        "footnotes": [
+          "<div><!--block-->According to Johannes Nathan, Fritz Nathan was frequently in Vienna in the 1930s and may very well have purchased the painting there prior to 1937.</div>"
+        ],
+        "date": "Until 1937",
+        "sortorder": 4
+      },
+      {
+        "description": "Dr. Tobler",
+        "citations": [],
+        "footnotes": [
+          "<div><!--block-->The archives of Galerie Nathan show that they sold the painting to one Dr. Tobler in 1937. Johannes Nathan suggested that Fritz Nathan may have sold the painting to Robert von Hirsch on behalf of Dr. Tobler, although their records, which are incomplete, do not provide confirmation one way or the other.&nbsp; \"Dr. Tobler\" is handwritten on the \"Sammlung Robert von Hirsch, Basel\" label on the back of the painting.</div>"
+        ],
+        "date": "1937-",
+        "sortorder": 5
+      },
+      {
+        "description": "Baron Robert von Hirsch [1883-1977], Basel, sold to Dr. Fritz Nathan",
+        "citations": [],
+        "footnotes": [
+          "<div><!--block-->German industrialist von Hirsch lent the Waldmüller to an exhibition of nineteenth-century artworks at the Basel Kunsthalle in 1943.&nbsp;</div>"
+        ],
+        "date": "By 1943 - by 1945",
+        "sortorder": 6
+      },
+      {
+        "description": "Dr. Fritz Nathan, St. Gallen, sold to a Swiss private collector",
+        "citations": [],
+        "footnotes": [
+          "<div><!--block-->Peter Nathan recalled that his father, dealer Fritz Nathan, had purchased the painting from von Hirsch during the war.&nbsp;</div>"
+        ],
+        "date": "By 1945",
+        "sortorder": 7
+      },
+      {
+        "description": "Private collection, Zurich",
+        "citations": [],
+        "footnotes": [
+          "<div><!--block-->A 1953 Waldmüller exhibition at the Salzburg Residenz and Bruno Grimschitz’s 1957 Waldmüller monograph both give the painting's current owner as a Zurich private collector, likely the Swiss collector to whom Fritz Nathan had sold it previously.&nbsp;</div>"
+        ],
+        "date": "By 1957",
+        "sortorder": 8
+      },
+      {
+        "description": "(Galerie Nathan, Zürich, sold to the Cleveland Museum of Art)",
+        "citations": [],
+        "footnotes": [],
+        "date": "Until 1983",
+        "sortorder": 9
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": [],
+        "date": "1983-",
+        "sortorder": 10
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "Waldmüller, best remembered as one of the most important Austrian landscape painters, financed his early training by painting candy pictures and portrait miniatures, teaching children, and designing theater sets.",
+    "description": "In this depiction of the Prater, a large public garden in Vienna, Austria, a man sits beside a tree in the left foreground. Brilliant sunlight floods into the park illuminating a multitude of trees, their leaves rendered with fine detail. Although celebrated for his portraits, Waldmüller also produced closely observed landscapes and often visited the Prater to paint the majestic oak trees. He was forced to retire from his position as a professor at the Vienna Academy for rejecting doctrines of idealized, moralizing art in favor of truth to nature based on direct observation.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q60475169"
+      ],
+      "internet_archive": [
+        "https://archive.org/details/clevelandart-1983.155-prater-landscape"
+      ]
+    },
+    "citations": [
+      {
+        "citation": "Feuchtmüller, Rupert. <em>Ferdinand Georg Waldmüller 1793-1865: Leben, Schriften, Werke</em>. Wien: C. Brandstätter, 1996.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Feuchtmüller, Rupert. <em>Ferdinand Georg Waldmüller 1793-1865: Leben, Schriften, Werke</em>. Wien: C. Brandstätter, 1996.<em><br></em>",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Künstlerbund Hagen. <em>Ferdinand Georg Waldmüller: Jänner-März 1930, in den Räumen des Hagenbundes</em>. [Wien]: [Kunstlerbund Hagen], 1930.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Johannes Nathan, email to Victoria Sears Goldman, Feb. 24, 2015, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Johannes Nathan, email to Victoria Sears Goldman, Feb. 26, 2015, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Johannes Nathan, email to Victoria Sears Goldman, Feb. 24, 2015, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Tania Lehmann, email to Victoria Sears Goldman, Feb. 18, 2015, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Feuchtmüller, Rupert. <em>Ferdinand Georg Waldmüller 1793-1865: Leben, Schriften, Werke</em>. Wien: C. Brandstätter, 1996.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Galerie Nathan, invoice, Nov. 30, 1983, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Sören Schmeling, email to Victoria Sears Goldman, March 29, 2016, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Feuchtmüller, Rupert. <em>Ferdinand Georg Waldmüller 1793-1865: Leben, Schriften, Werke</em>. Wien: C. Brandstätter, 1996.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Peter Nathan, letter to Sherman Lee, May 27, 1983, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Galerie Nathan, invoice, Nov. 30, 1983, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Feuchtmüller, Rupert. <em>Ferdinand Georg Waldmüller 1793-1865: Leben, Schriften, Werke</em>. Wien: C. Brandstätter, 1996.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Grimschitz, Bruno. <em>Ferdinand Georg Waldmüller</em>. Salzburg: Galerie Welz, 1957.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Peter Nathan, letter to Sherman Lee, May 27, 1983, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Galerie Nathan, invoice, Nov. 30, 1983, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "<em>Ferdinand Georg Waldmüller, 1793-1865. [Katalog zur Gedächtnis-Ausstellung Ferdinand Georg Waldmüller, Salzburg, Residenz, 15. Juni bis 15. September 1953</em>. Salzburg: Galerie Welz, 1953.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Galerie Nathan, invoice, Nov. 30, 1983, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Grimschitz, Bruno. <em>Ferdinand Georg Waldmüller</em>. Salzburg, Austria: Galerie Welz, 1957.",
+        "page_number": "Reproduced: pl. 5",
+        "url": null
+      },
+      {
+        "citation": "Lurie, Ann Tzeutschler. “Ferdinand Georg Waldmüller in the Cleveland Museum of Art: Portrait of Crescentia, Countess Zichy (later Countess Széchenyi) with a Parrot and a Camellia in a Mountainous Landscape.” <em>The Bulletin of the Cleveland Museum of Art</em> 81, no. 1 (1994): 3-17.",
+        "page_number": "Mentioned: p. 3, 15",
+        "url": "https://www.jstor.org/stable/25161437"
+      },
+      {
+        "citation": "Lurie, Ann Tzeutschler. “Ferdinand Georg Waldmüller in the Cleveland Museum of Art: Prater Landscape.” <em>The Bulletin of the Cleveland Museum of Art</em> 81, no. 1 (1994): 18-23.",
+        "page_number": "Reproduced: p. 18, 21; Mentioned: p. 18-23",
+        "url": "https://www.jstor.org/stable/25161438"
+      },
+      {
+        "citation": "Argencourt, Louise d', and Roger Diederen. <em>Catalogue of Paintings</em>. <em>Pt. 4. European Paintings of the 19th Century</em>. Cleveland: Cleveland Museum of Art, 1974.",
+        "page_number": "Mentioned and reproduced: P. 639-640, Vol. II, no. 224",
+        "url": ""
+      },
+      {
+        "citation": "Robinson, William. “Nature Transformed.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>61, no. 1 (Winter 2021): 27.",
+        "page_number": "Reproduced and Mentioned: P. 27.",
+        "url": ""
+      }
+    ],
+    "url": "https://clevelandart.org/art/1983.155",
+    "images": {
+      "annotation": null,
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1983.155/1983.155_web.jpg",
+        "width": "1106",
+        "height": "893",
+        "filesize": "943673",
+        "filename": "1983.155_web.jpg"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1983.155/1983.155_print.jpg",
+        "width": "1902",
+        "height": "1536",
+        "filesize": "2730291",
+        "filename": "1983.155_print.jpg"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1983.155/1983.155_full.tif",
+        "width": "1902",
+        "height": "1536",
+        "filesize": "8767668",
+        "filename": "1983.155_full.tif"
+      }
+    },
+    "alternate_images": [
+      {
+        "date_created": "2008-10-27T19:35:42",
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1983.155/1983.155_alt0_web.jpg",
+          "width": "1110",
+          "height": "893",
+          "filesize": "853532"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1983.155/1983.155_alt0_print.jpg",
+          "width": "3400",
+          "height": "2735",
+          "filesize": "7444263"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1983.155/1983.155_alt0_full.tif",
+          "width": "4564",
+          "height": "3671",
+          "filesize": "50299132"
+        }
+      }
+    ],
+    "creditline": "Andrew R. and Martha Holden Jennings Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 151298,
+    "creators": [
+      {
+        "id": 2810,
+        "description": "Ferdinand Georg Waldmüller (Austrian, 1793–1865)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "Ferdinand Georg Waldmüller was the leading innovator for Austrian portrait, landscape, and genre painting of the romantic period, substantially contributing to a style that came to be known as Biedermeier.1 His earliest art lessons were in flower painting with porcelain painter Josef Zintler (d. 1826). From 1808 until 1813 Waldmüller attended the Vienna Academy at intervals, studying with Hubert Maurer (1738-1818) and Johann Baptist Lampi (1775-1837). The next two years Waldmüller engaged in painting portrait miniatures. He undoubtedly perfected his painting technique significantly by studying and copying the great masters in the major Viennese galleries well into the 1820s. Between 1825 and 1856 he traveled to Italy, as well as to France and England, in Paris being presented to Emperor Napoleon III and in London to Queen Victoria.\r\nIn 1827, the year before he painted Cleveland's Countess Zichy, Waldmüller had been introduced to the imperial court of Emperor Franz I and received the great honor of painting his portrait. In 1829 Prince Metternich appointed Waldmüller curator of the Lamberg Painting Gallery and professor of the Vienna Academy. However, his radical proposals to change academic teaching methods, by insisting that observation of and truth to nature were the only sources of art, would have ended his academic career in 1846 had Prince Metternich not intervened. Nevertheless, in 1855 his continued open criticism of academic procedures cost him his retirement, which, thanks to Emperor Franz I of Austria, was reinstated in 1863. Waldmüller's convincing honesty in portraying his sitters exactly as they were reflected the growing confidence of the bourgeoisie after the French revolutionary wars and Napoleon's final defeat in 1815. The artist's faithfulness to nature on the one hand, and his talent in portraying the elegance and luxury of his sitters' attire on the other, appealed to both the bourgeoisie and aristocracy.\r\n1. The name Biedermeier was derived from a fictitious poet named Gottlieb Biedermaier (or Biedermeier) who was featured in the mid-nineteenth-century magazine Fliegende Blätter. \"Bieder\" describes a simple but honest and upstanding person, while \"Meier\" is a common German surname. The style pervaded all of Europe, but particularly Austria, Germany, Switzerland, and Scandinavia, centering mainly in cities with active academies. See also Amerling, The Young Eastern Woman, no. 4.",
+        "name_in_original_language": null,
+        "birth_year": "1793",
+        "death_year": "1865",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1983-10-12T00:00:00",
+    "sortable_date": 1826,
+    "date_added_to_oa": null,
+    "date_text": "c. 1831",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": "A solitary seated figure in the foreground draws the viewer into the composition, providing a sense of scale for the towering trees. To the right of the seated figure, another figure appears, previously painted in and later altered by the artist. This figure now appears as pentimenti, visible through paint layers that have become more transparent over time. Infrared imaging helped to better visualize this standing figure. Even though the artist has removed this figure from the composition, their shadow remains, as a thin opaque paint layer extending in front of the seated figure.",
+    "has_conservation_images": true,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": true,
+    "impression": null,
+    "alternate_titles": [
+      "Prater Landscape"
+    ],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:00:49.220000"
+  }
+}

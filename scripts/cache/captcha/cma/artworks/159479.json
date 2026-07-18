@@ -1,0 +1,148 @@
+{
+  "data": {
+    "id": 159479,
+    "accession_number": "1996.253",
+    "share_license_status": "CC0",
+    "tombstone": "Amiens, Northern Façade of the Transept, 1852. Henri Le Secq (French, 1818–1882). Salted paper print from calotype negative; image: 32.3 x 23.2 cm (12 11/16 x 9 1/8 in.); matted: 61 x 50.8 cm (24 x 20 in.). The Cleveland Museum of Art, Andrew R. and Martha Holden Jennings Fund, 1996.253",
+    "current_location": null,
+    "title": "Amiens, Northern Façade of the Transept",
+    "creation_date": "1852",
+    "creation_date_earliest": 1852,
+    "creation_date_latest": 1852,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "France, 19th century"
+    ],
+    "technique": "salted paper print from calotype negative",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - French 19th Century",
+    "type": "Photograph",
+    "measurements": "Image: 32.3 x 23.2 cm (12 11/16 x 9 1/8 in.); Matted: 61 x 50.8 cm (24 x 20 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.323,
+        "width": 0.232
+      },
+      "matted": {
+        "height": 0.61,
+        "width": 0.508
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Written in negative: \"H. LeSecq. Amiens. / 1852\"; written in pencil on verso of mount: \"n.°200N\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 178867,
+          "title": "Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art",
+          "description": "<i>Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 26-June 16, 2005).",
+          "opening_date": "2005-02-26T00:00:00"
+        }
+      ],
+      "legacy": [
+        {
+          "description": "Cleveland, Ohio:  The Cleveland Museum of Art; February 26 - June 16, 2005 . \"Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art\".",
+          "opening_date": "2005-02-26T00:00:00"
+        }
+      ]
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "A pioneering French photographer, Le Secq is best known for his elaborate photographic studies of French architecture. His extensive photographic portrait of Amiens began in 1850 and continued for several years. This detail of the cathedral’s exterior beautifully describes his skill at expressively interpreting historic architecture. The photograph not only displays Le Secq’s preference and talent for isolating fragments of buildings, but even more impressively attests to his ability to capture the play of light and shade over stone sculpture. He deftly used raking light to infuse vitality and plasticity to the centrally positioned carved figure and the architectural elements surrounding it. The lowered frontal camera position stresses an order and formality that Le Secq believed was inherent in Gothic cathedrals.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79979109"
+      ],
+      "internet_archive": [
+        "https://archive.org/details/clevelandart-1996.253-amiens-northern-faca"
+      ]
+    },
+    "citations": [
+      {
+        "citation": "Cleveland Museum of Art, “Rare Korean Screen Painting, Important Baroque Drawing, Sheeler Drawing Join the Museum Collection,” October 10, 1996, Cleveland Museum of Art Archives.",
+        "page_number": null,
+        "url": "https://archive.org/details/cmapr4074"
+      }
+    ],
+    "url": "https://clevelandart.org/art/1996.253",
+    "images": {
+      "annotation": null,
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1996.253/1996.253_web.jpg",
+        "width": "633",
+        "height": "893",
+        "filesize": "405613",
+        "filename": "1996.253_web.jpg"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1996.253/1996.253_print.jpg",
+        "width": "2411",
+        "height": "3400",
+        "filesize": "5294186",
+        "filename": "1996.253_print.jpg"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1996.253/1996.253_full.tif",
+        "width": "4464",
+        "height": "6295",
+        "filesize": "84333592",
+        "filename": "1996.253_full.tif"
+      }
+    },
+    "alternate_images": [],
+    "creditline": "Andrew R. and Martha Holden Jennings Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 159479,
+    "creators": [
+      {
+        "id": 1617,
+        "description": "Henri Le Secq (French, 1818–1882)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1818",
+        "death_year": "1882",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1996-09-16T00:00:00",
+    "sortable_date": 1852,
+    "date_added_to_oa": null,
+    "date_text": "1852",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:00:05.122000"
+  }
+}

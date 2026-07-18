@@ -1,0 +1,112 @@
+{
+  "data": {
+    "id": 161648,
+    "accession_number": "2000.26",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Skyline, 1928. Arnold Rönnebeck (American, 1885–1947). Lithograph; sheet: 28.8 x 40.3 cm (11 5/16 x 15 7/8 in.); image: 22.5 x 35 cm (8 7/8 x 13 3/4 in.). The Cleveland Museum of Art, John L. Severance Fund, 2000.26",
+    "current_location": null,
+    "title": "Skyline",
+    "creation_date": "1928",
+    "creation_date_earliest": 1928,
+    "creation_date_latest": 1928,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "lithograph",
+    "support_materials": [
+      {
+        "description": "wove paper",
+        "watermarks": []
+      }
+    ],
+    "department": "Prints",
+    "collection": "PR - Lithograph",
+    "type": "Print",
+    "measurements": "Sheet: 28.8 x 40.3 cm (11 5/16 x 15 7/8 in.); Image: 22.5 x 35 cm (8 7/8 x 13 3/4 in.)",
+    "dimensions": {
+      "sheet": {
+        "height": 0.288,
+        "width": 0.403
+      },
+      "image": {
+        "height": 0.225,
+        "width": 0.35
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "signed and dated in graphite, lower right: Arnold Rönnebeck, 1928; titled in graphite, lower left: Skyline",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "Originally from Germany, Rönnebeck moved to New York in 1924, where he gravitated to the circle of photographer Alfred Stieglitz (1864–1946). Like so many Europeans, Rönnebeck was struck by the spectacle of New York's transformation into a major urban metropolis. \"My artistic emotion at the 'phantastic' reality of America was beyond all expectations,\" he declared, \"New York is Living Cubism.\" Trained as an architect, Rönnebeck took many panoramic photographs of Manhattan as preliminary studies for a series of lithographs depicting the city he found so dynamic and intriguing. <em>Skyline</em> captures an alluring view of the city at night, as seen from across the East River and bisected by the Brooklyn Bridge with its lights represented as glowing orbs.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79984636"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2000.26",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "John L. Severance Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 161648,
+    "creators": [
+      {
+        "id": 38382,
+        "description": "Arnold Rönnebeck (American, 1885–1947)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1885",
+        "death_year": "1947",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2000-06-05T00:00:00",
+    "sortable_date": 1928,
+    "date_added_to_oa": null,
+    "date_text": "1928",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [
+      "Manhattan"
+    ],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:08:08.083000"
+  }
+}

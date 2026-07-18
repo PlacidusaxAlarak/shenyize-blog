@@ -1,0 +1,114 @@
+{
+  "data": {
+    "id": 146325,
+    "accession_number": "1972.1093",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Yellowstone Canyon, c. 1932. Edd A. Ruggles (American, 1880–1940). Gelatin silver print; image: 25.9 x 25.7 cm (10 3/16 x 10 1/8 in.); paper: 26.7 x 26.5 cm (10 1/2 x 10 7/16 in.); matted: 50.8 x 40.6 cm (20 x 16 in.). The Cleveland Museum of Art, Gift of Mrs. Edd A. Ruggles, 1972.1093",
+    "current_location": null,
+    "title": "Yellowstone Canyon",
+    "creation_date": "c. 1932",
+    "creation_date_earliest": 1927,
+    "creation_date_latest": 1937,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "gelatin silver print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1900-1950",
+    "type": "Photograph",
+    "measurements": "Image: 25.9 x 25.7 cm (10 3/16 x 10 1/8 in.); Paper: 26.7 x 26.5 cm (10 1/2 x 10 7/16 in.); Matted: 50.8 x 40.6 cm (20 x 16 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.259,
+        "width": 0.257
+      },
+      "paper": {
+        "height": 0.267,
+        "width": 0.265
+      },
+      "matted": {
+        "height": 0.508,
+        "width": 0.406
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 185373,
+          "title": "American Space:  Landscape Photography 1900-1950",
+          "description": "<i>American Space:  Landscape Photography 1900-1950</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 6-May 23, 2001).",
+          "opening_date": "2001-01-06T00:00:00"
+        }
+      ],
+      "legacy": [
+        {
+          "description": "Cleveland, Ohio:  The Cleveland Museum of Art; January 3-May 23, 2001.  \"American Space:  Landscape Photography, 1900-1950.\"",
+          "opening_date": "2001-01-03T00:00:00"
+        }
+      ]
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "Hired shortly before its formal opening in 1916, Ruggles was the Cleveland Museum of Art's photographer for 25 years. During that time he pursued his own work, photographing the American landscape and English architecture. In this tightly cropped composition of a steep canyon split by rushing water, he concentrated on the rugged beauty of the American West. The striking geological formations became sculptural through strong contrasts of light and shade. By eliminating the horizon line, Ruggles challenged the viewer's perception of scale and distance, enlivening the image with visual ambiguity.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79924723"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/1972.1093",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Mrs. Edd A. Ruggles",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 146325,
+    "creators": [
+      {
+        "id": 16872,
+        "description": "Edd A. Ruggles (American, 1880–1940)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "Edd A. Ruggles (born in Newburgh, Ohio) first worked as an architect before becoming the staff photographer of the Cleveland Museum of Art. After attending the Armour Institute in Chicago, Ruggles practiced architecture in Cleveland from 1904-16. He was hired by the museum shortly before its formal opening in 1916. During his 25-year association with the museum, Ruggles also pursued his own work, photographing in Ohio, New England, and Great Britain. In 1931 his photographs of English architecture appeared in the book Small Stone Houses of the Cotswold District. During the early years of his photographic career, Ruggles also participated in a number of May Shows, regional juried exhibitions sponsored by the Cleveland Museum of Art, winning several first and second prizes between 1919-26. <br><br>Additionally, Ruggles was married to the Head of the Extensions department, Ruth K. Field Ruggles. When combined, they gave over 50 years of service to the Cleveland Museum of Art. Their joint memorial gift continues to benefit the Ingalls Library to this day.",
+        "name_in_original_language": null,
+        "birth_year": "1880",
+        "death_year": "1940",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1972-12-05T00:00:00",
+    "sortable_date": 1927,
+    "date_added_to_oa": null,
+    "date_text": "c. 1932",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:10:09.766000"
+  }
+}

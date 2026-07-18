@@ -1,0 +1,143 @@
+{
+  "data": {
+    "id": 372002,
+    "accession_number": "2020.291",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Garden Gazebo, Paris, 1935. Ilse Bing (American, 1899–1998). Gelatin silver print; image: 28.3 x 22.4 cm (11 1/8 x 8 13/16 in.); paper: 28.3 x 22.4 cm (11 1/8 x 8 13/16 in.); mounted: 42 x 34.5 cm (16 9/16 x 13 9/16 in.). The Cleveland Museum of Art, Gift of Michael Mattis and Judith Hochberg, 2020.291. © Estate of Ilse Bing",
+    "current_location": null,
+    "title": "Garden Gazebo, Paris",
+    "creation_date": "1935",
+    "creation_date_earliest": 1935,
+    "creation_date_latest": 1935,
+    "artists_tags": [
+      "female"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "gelatin silver print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1900-1950",
+    "type": "Photograph",
+    "measurements": "Image: 28.3 x 22.4 cm (11 1/8 x 8 13/16 in.); Paper: 28.3 x 22.4 cm (11 1/8 x 8 13/16 in.); Mounted: 42 x 34.5 cm (16 9/16 x 13 9/16 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.283,
+        "width": 0.224
+      },
+      "paper": {
+        "height": 0.283,
+        "width": 0.224
+      },
+      "mounted": {
+        "height": 0.42,
+        "width": 0.345
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": "© Estate of Ilse Bing",
+    "inscriptions": [
+      {
+        "inscription": "Written in white in lower left, recto: “ILSE BING/1935”",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      },
+      {
+        "inscription": "Commercially imprinted throughout verso: “Agfa Brovira”",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      },
+      {
+        "inscription": "Written in black ink on recto of mount: “fur Konrad/[Illegible] 1935/Paris Ilse (signed)”",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Estate of the Artist",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": 1
+      },
+      {
+        "description": "Michael Mattis and Judith Hochberg, Scarsdale, NY",
+        "citations": [],
+        "footnotes": [],
+        "date": null,
+        "sortorder": 2
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": [],
+        "date": "December 7, 2020",
+        "sortorder": 3
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "Ilse Bing, born and raised in Frankfurt Germany, fell in love with Paris.",
+    "description": "Bing moved to Paris in 1930 determined to succeed as a professional photographer. “The moment I put my foot on the Paris pavement,” she said, “I knew it was my atmosphere. . . . I breathed in art, and felt myself unfolding.” She photographed the nightlife, amusements, and unique character of her adopted city including its gardens and parks.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q117243225"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2020.291",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Michael Mattis and Judith Hochberg",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 372002,
+    "creators": [
+      {
+        "id": 291349,
+        "description": "Ilse Bing (American, 1899–1998)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "American and German photographer, born 1899 or 1900, died 1998",
+        "name_in_original_language": null,
+        "birth_year": "1899",
+        "death_year": "1998",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2020-12-07T00:00:00-05:00",
+    "sortable_date": 1935,
+    "date_added_to_oa": null,
+    "date_text": "1935",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:00:08.689000"
+  }
+}

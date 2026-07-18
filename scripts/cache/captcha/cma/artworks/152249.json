@@ -1,0 +1,116 @@
+{
+  "data": {
+    "id": 152249,
+    "accession_number": "1985.131",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Landscape, 1980. Georg Baselitz (German, 1938-). Linocut. The Cleveland Museum of Art, Gift of the Print Club of Cleveland in memory of Leona E. Prasse, 1985.131",
+    "current_location": null,
+    "title": "Landscape",
+    "creation_date": "1980",
+    "creation_date_earliest": 1980,
+    "creation_date_latest": 1980,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "Germany, 20th century"
+    ],
+    "technique": "linocut",
+    "support_materials": [],
+    "department": "Prints",
+    "collection": "PR - Linocut",
+    "type": "Print",
+    "dimensions": {},
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 309910,
+          "title": "The Year in Review for 1985",
+          "description": "<i>The Year in Review for 1985</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 12-April 20, 1986).",
+          "opening_date": "1986-02-12T05:00:00"
+        },
+        {
+          "id": 318307,
+          "title": "A Lasting Impression: Gifts of the Print Club of Cleveland",
+          "description": "<i>A Lasting Impression: Gifts of the Print Club of Cleveland</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 5-September 22, 2019).",
+          "opening_date": "2019-05-05T04:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Print Club of Cleveland, Cleveland, OH, given to the Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": [],
+        "date": "after 1980-1985",
+        "sortorder": 1
+      },
+      {
+        "description": "Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": [],
+        "date": "1985-",
+        "sortorder": 2
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "Since 1969, Georg Baselitz has depicted most of his subjects upside down as a way of reconsidering the relationship between art and representation.",
+    "description": "Georg Baselitz’s art is deeply informed by his experiences in post–World War II Germany. He represented this landscape with violent, jagged forms, creating an abstracted view of destruction. Baselitz began to make linocuts around 1977, favoring the technique for the similarity between the smooth lines created in a linocut and drawing with a pen on paper. Here, he printed with oil paint rather than ink, which allowed the resulting image to bleed and contributed to the work’s sense of anxiety and disorder.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79936380"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "catalogue_raisonne": "not in Jahn",
+    "url": "https://clevelandart.org/art/1985.131",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of the Print Club of Cleveland in memory of Leona E. Prasse",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 152249,
+    "creators": [
+      {
+        "id": 25597,
+        "description": "Georg Baselitz (German, 1938-)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1938",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1915-04-30T00:00:00",
+    "sortable_date": 1980,
+    "date_added_to_oa": null,
+    "date_text": "1980",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:02:52.769000"
+  }
+}

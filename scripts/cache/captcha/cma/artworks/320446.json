@@ -1,0 +1,95 @@
+{
+  "data": {
+    "id": 320446,
+    "accession_number": "2018.1015",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Subway: Untitled (53075), 1980. Bruce Davidson (American, b. 1933). Chromogenic print; paper: 61 x 50.8 cm (24 x 20 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.1015",
+    "current_location": null,
+    "title": "Untitled (53075)",
+    "series": "Subway",
+    "creation_date": "1980",
+    "creation_date_earliest": 1980,
+    "creation_date_latest": 1980,
+    "artists_tags": [
+      "male",
+      "Jewish artists"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "Chromogenic print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1951-Present",
+    "type": "Photograph",
+    "measurements": "Paper: 61 x 50.8 cm (24 x 20 in.)",
+    "dimensions": {
+      "paper": {
+        "height": 0.61,
+        "width": 0.508
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "Davidson carried a whistle and knife while photographing in the New York subway, which in the 1970s was plagued by robberies and attacks.",
+    "description": "Although he was inspired by Walker Evan’s covert shots of subway riders from the mid-1930s, Davidson wanted his subjects to be aware of his camera. He asked and received permission from transit authorities and the riders in his photographs. Like Evans, Davidson captures the claustrophobic environment of the subway car, a space that Davidson viewed as the dark and dangerous underworld of the city.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79877269"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2018.1015",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of an anonymous donor",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 320446,
+    "creators": [
+      {
+        "id": 64191,
+        "description": "Bruce Davidson (American, b. 1933)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1933",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2018-12-03T00:00:00-05:00",
+    "sortable_date": 1980,
+    "date_added_to_oa": null,
+    "date_text": "1980",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-26 23:59:49.283000"
+  }
+}

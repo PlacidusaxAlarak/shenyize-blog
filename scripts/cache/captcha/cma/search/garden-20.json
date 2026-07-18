@@ -1,0 +1,3669 @@
+{
+  "info": {
+    "total": 607,
+    "parameters": {
+      "skip": 20,
+      "limit": 20,
+      "q": "garden",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,gallery,classification_type,department,collection",
+      "search": "garden"
+    }
+  },
+  "data": [
+    {
+      "id": 157012,
+      "accession_number": "1993.161",
+      "share_license_status": "CC0",
+      "tombstone": "The Garden of Love (Large Plate), c. 1465. Master ES (German, active 1450–67). Engraving; plate: 23.5 x 15.8 cm (9 1/4 x 6 1/4 in.); sheet: 23.8 x 16.5 cm (9 3/8 x 6 1/2 in.). The Cleveland Museum of Art, John L. Severance Fund, 1993.161",
+      "current_location": null,
+      "title": "The Garden of Love (Large Plate)",
+      "creation_date": "c. 1465",
+      "creation_date_earliest": 1460,
+      "creation_date_latest": 1470,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Germany"
+      ],
+      "technique": "engraving",
+      "support_materials": [],
+      "department": "Prints",
+      "collection": "PR - Engraving",
+      "type": "Print",
+      "measurements": "Plate: 23.5 x 15.8 cm (9 1/4 x 6 1/4 in.); Sheet: 23.8 x 16.5 cm (9 3/8 x 6 1/2 in.)",
+      "dimensions": {
+        "plate": {
+          "height": 0.235,
+          "width": 0.158
+        },
+        "sheet": {
+          "height": 0.238,
+          "width": 0.165
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 177150,
+            "title": "Love and War: A Manual for Life in the Late Middle Ages",
+            "description": "<i>Love and War: A Manual for Life in the Late Middle Ages</i>. National Gallery of Art (organizer) (November 8, 1998-January 31, 1999).",
+            "opening_date": "1998-11-08T00:00:00"
+          },
+          {
+            "id": 222370,
+            "title": "The Medieval Housebook:  The Real and the Ideal--A Fifteenth-Century View of Life",
+            "description": "<i>The Medieval Housebook:  The Real and the Ideal--A Fifteenth-Century View of Life</i>. Frick Collection, New York, NY (organizer) (May 17-July 11, 1999).",
+            "opening_date": "1999-05-17T00:00:00"
+          },
+          {
+            "id": 204986,
+            "title": "Treasures on Paper from the Collection of the Cleveland Museum of Art",
+            "description": "<i>Treasures on Paper from the Collection of the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 9-June 8, 2014).",
+            "opening_date": "2014-03-09T00:00:00"
+          },
+          {
+            "id": 202597,
+            "title": "Imagining the Garden",
+            "description": "<i>Imagining the Garden</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 24, 2015-March 6, 2016).",
+            "opening_date": "2015-10-24T00:00:00"
+          },
+          {
+            "id": 220969,
+            "title": "A Feast for the Senses: Art and Experience in Medieval Europe",
+            "description": "<i>A Feast for the Senses: Art and Experience in Medieval Europe</i>. John and Mable Ringling Museum of Art, Sarasota, FL (organizer) (February 4-April 30, 2017).",
+            "opening_date": "2017-02-04T00:00:00"
+          },
+          {
+            "id": 437915,
+            "title": "Love Gardens / Forbidden Fruit",
+            "description": "<i>Love Gardens / Forbidden Fruit</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 2-October 29, 2023).",
+            "opening_date": "2023-07-02T04:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Cleveland, OH: The Cleveland Museum of Art, Prints 1400-1800, cat. no. 24.",
+            "opening_date": null
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Count Maltzan, Militsch (Lugt supp. 3024a, not stamped)",
+          "citations": [],
+          "footnotes": null,
+          "date": "?-c.1948/50",
+          "sortorder": 1
+        },
+        {
+          "description": "Dr. Otto Schäfer, Schweinfurt (Lugt 5881, stamped, verso)",
+          "citations": [],
+          "footnotes": null,
+          "date": "c. 1960",
+          "sortorder": 3
+        },
+        {
+          "description": "his auction, Galerie Kornfeld, Bern, no. 207, under lot 19",
+          "citations": [],
+          "footnotes": null,
+          "date": "June, 1992",
+          "sortorder": 4
+        },
+        {
+          "description": "with Helmut H. Rumbler, Frankfurt",
+          "citations": [],
+          "footnotes": null,
+          "date": "1993",
+          "sortorder": 5
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Master ES’s action-packed scene presents a love garden before a landscape with knights playing jousting games. Love gardens were locales for displaying chaste love, but the behavior here, such as touching and wine drinking between couples at the table, indicates that their love is rather more physical. A traveling poet at the door brings musical enticements, and a man with a fool’s cap in the foreground signifies lust. The many birds throughout the scene refer to coupling, since “birding” was a euphemism for the sex act.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60759709"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1993.161-the-garden-of-love-l"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Husband, Timothy. <em>The Medieval Housebook &amp; the Art of Illustration</em>. New York: Frick Collection, 1999.",
+          "page_number": "p. 56, fig. 20",
+          "url": null
+        },
+        {
+          "citation": "\"1993 Annual Report.\" <em>The Bulletin of the Cleveland Museum of Art</em> 81, no. 6 (1994): 143-218.",
+          "page_number": "Reproduced: p. 165",
+          "url": "https://www.jstor.org/stable/25161457"
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+          "page_number": "Mentioned and reproduced: P. 346-347",
+          "url": ""
+        },
+        {
+          "citation": "Bagnoli, Martina, ed. <em>A Feast for the Senses: Art and Experience in Medieval Europe</em>. Baltimore: The Walters Art Museum, 2016.",
+          "page_number": "Reproduced: pp. 249-250, cat. # 118",
+          "url": null
+        },
+        {
+          "citation": "Peters, Emily J. \"Love Gardens/Forbidden Fruit: Nature and landscape before 1600.\" <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>63, no. 2 (2023): 12-13.",
+          "page_number": "Reproduced and Mentioned: P. 12",
+          "url": "https://archive.org/details/CMAMM2023-02/page/12/mode/2up"
+        },
+        {
+          "citation": "Schmidt, Frank. <em>Prostitution Im Bild: Zur Visuellen Konstruktion von Bordelldarstellungen in Der FrüHen Neuzeit.</em> 1. Auflage. Regensburg: Schnell &amp; Steiner, 2025.",
+          "page_number": "MEntioned and reproduced: p. 126-127, abb. 65",
+          "url": ""
+        }
+      ],
+      "catalogue_raisonne": "Lehrs 215",
+      "url": "https://clevelandart.org/art/1993.161",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1993.161/1993.161_web.jpg",
+          "width": "625",
+          "height": "900",
+          "filesize": "300110",
+          "filename": "1993.161_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1993.161/1993.161_print.jpg",
+          "width": "2362",
+          "height": "3400",
+          "filesize": "2968781",
+          "filename": "1993.161_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1993.161/1993.161_full.tif",
+          "width": "5221",
+          "height": "7514",
+          "filesize": "117726340",
+          "filename": "1993.161_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2006-08-04T19:55:45",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1993.161/1993.161_alt0_web.jpg",
+            "width": "622",
+            "height": "893",
+            "filesize": "524243"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1993.161/1993.161_alt0_print.jpg",
+            "width": "2369",
+            "height": "3400",
+            "filesize": "6592054"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1993.161/1993.161_alt0_full.tif",
+            "width": "3504",
+            "height": "5028",
+            "filesize": "52888632"
+          }
+        },
+        {
+          "date_created": "2005-12-01T16:21:10",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1993.161/1993.161_alt1_web.jpg",
+            "width": "630",
+            "height": "893",
+            "filesize": "517464"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1993.161/1993.161_alt1_print.jpg",
+            "width": "2397",
+            "height": "3400",
+            "filesize": "6627298"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1993.161/1993.161_alt1_full.tif",
+            "width": "3525",
+            "height": "5000",
+            "filesize": "52893016"
+          }
+        }
+      ],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 157012,
+      "creators": [
+        {
+          "id": 22906,
+          "description": "Master ES (German, active 1450–67)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "active ca. 1450-1467",
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1993-12-06T00:00:00",
+      "sortable_date": 1460,
+      "date_added_to_oa": null,
+      "date_text": "c. 1465",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:04:47.967000"
+    },
+    {
+      "id": 164657,
+      "accession_number": "2006.148.b",
+      "share_license_status": "CC0",
+      "tombstone": "Illuminated folio from a Gulistan (Rose Garden) of Sa'di (c. 1213–1291), about 1475–1500; border: about 1550. Calligraphy by Sultan 'Ali al-Mashadi (Iranian, 1430–1520). Gum tempera, ink, gold, and silver on paper; overall: 30 x 19 cm (11 13/16 x 7 1/2 in.); text area: 16.1 x 9.6 cm (6 5/16 x 3 3/4 in.). The Cleveland Museum of Art, Gift of William Kelly Simpson in memory of his wife Marilyn M. Simpson and her grandparents Mr. and Mrs. John D. Rockefeller Jr., 2006.148.b",
+      "current_location": null,
+      "title": "Illuminated folio from a Gulistan (Rose Garden) of Sa'di (c. 1213–1291)",
+      "creation_date": "about 1475–1500; border: about 1550",
+      "creation_date_earliest": 1465,
+      "creation_date_latest": 1560,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Iran"
+      ],
+      "technique": "Gum tempera, ink, gold, and silver on paper",
+      "support_materials": [],
+      "department": "Islamic Art",
+      "collection": "Islamic Art",
+      "type": "Manuscript",
+      "measurements": "Overall: 30 x 19 cm (11 13/16 x 7 1/2 in.); Text area: 16.1 x 9.6 cm (6 5/16 x 3 3/4 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.3,
+          "width": 0.19
+        },
+        "text area": {
+          "height": 0.161,
+          "width": 0.096
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 535998,
+            "title": "Nature Supernatural",
+            "description": "<i>Nature Supernatural</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 22, 2023-March 3, 2024).",
+            "opening_date": "2023-09-22T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "William Kelly Simpson [1928–2017], Katonah, NY, given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–2006",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "2006–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The silver blooms and streams of water have tarnished and darkened over time.",
+      "description": "In the border surrounding the Persian poetical text, deer and a lion coexist peacefully in a forest. This imagery may reference the rule of a righteous king. <br><br>The text is from the <em>Gulistan</em>, one of the most celebrated works of Persian literature, completed around 1258. <em>Gulistan</em> means “Rose Garden” in Persian; just as a rose garden is a collection of flowers, the contents are a collection of anecdotes. This page is from the section “On the Conduct of Kings.”",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60754501"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2006.148.b-illuminated-folio-ve",
+          "https://archive.org/details/clevelandart-2006.148.b-illuminated-folio-fr"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Canby, Sheila R. <em>The Golden Age of Persian Art: 1501-1722.</em> London: British Museum, 2008.",
+          "page_number": "Mentioned: pp. 58–59.",
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/2006.148.b",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2006.148.b/2006.148.b_web.jpg",
+          "width": "581",
+          "height": "900",
+          "filesize": "220597",
+          "filename": "2006.148.b_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2006.148.b/2006.148.b_print.jpg",
+          "width": "2196",
+          "height": "3400",
+          "filesize": "2396555",
+          "filename": "2006.148.b_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2006.148.b/2006.148.b_full.tif",
+          "width": "4718",
+          "height": "7306",
+          "filesize": "103439596",
+          "filename": "2006.148.b_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2010-09-29T19:17:22",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2006.148.b/2006.148.b_alt0_web.jpg",
+            "width": "572",
+            "height": "893",
+            "filesize": "454911"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2006.148.b/2006.148.b_alt0_print.jpg",
+            "width": "2179",
+            "height": "3400",
+            "filesize": "6807009"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2006.148.b/2006.148.b_alt0_full.tif",
+            "width": "4210",
+            "height": "6567",
+            "filesize": "82970164"
+          }
+        },
+        {
+          "date_created": "2006-09-07T16:36:06",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2006.148.b/2006.148.b_alt1_web.jpg",
+            "width": "574",
+            "height": "893",
+            "filesize": "396406"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2006.148.b/2006.148.b_alt1_print.jpg",
+            "width": "2184",
+            "height": "3400",
+            "filesize": "5011104"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2006.148.b/2006.148.b_alt1_full.tif",
+            "width": "3518",
+            "height": "5476",
+            "filesize": "57824504"
+          }
+        },
+        {
+          "date_created": "2018-07-11T10:46:25",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2006.148.b/2006.148.b_alt2_web.jpg",
+            "width": "555",
+            "height": "900",
+            "filesize": "213991"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2006.148.b/2006.148.b_alt2_print.jpg",
+            "width": "2095",
+            "height": "3400",
+            "filesize": "2110707"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2006.148.b/2006.148.b_alt2_full.tif",
+            "width": "4332",
+            "height": "7029",
+            "filesize": "91380116"
+          }
+        }
+      ],
+      "creditline": "Gift of William Kelly Simpson in memory of his wife Marilyn M. Simpson and her grandparents Mr. and Mrs. John D. Rockefeller Jr.",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 164657,
+      "creators": [
+        {
+          "id": 59126,
+          "description": "Sultan 'Ali al-Mashadi (Iranian, 1430–1520)",
+          "extent": "calligraphy by",
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1430",
+          "death_year": "1520",
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2006-09-05T00:00:00",
+      "sortable_date": 1465,
+      "date_added_to_oa": null,
+      "date_text": "about 1475–1500; border: about 1550",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2006.148",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Illuminated Folio from the Gulistan of Sadi (verso)",
+        "Illuminated Folio (verso) from a Gulistan (Rose Garden) of Sa'di (c. 1213-1291)"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:58.605000"
+    },
+    {
+      "id": 155858,
+      "accession_number": "1991.161",
+      "share_license_status": "Copyrighted",
+      "tombstone": "The Magic Garden, c. 1950s. Josef Sudek (Czech, 1896–1976). Gelatin silver print; image: 12.6 x 16.9 cm (4 15/16 x 6 5/8 in.); paper: 17.7 x 23.9 cm (6 15/16 x 9 7/16 in.); matted: 35.6 x 45.7 cm (14 x 18 in.). The Cleveland Museum of Art, Andrew R. and Martha Holden Jennings Fund, 1991.161",
+      "current_location": null,
+      "title": "The Magic Garden",
+      "creation_date": "c. 1950s",
+      "creation_date_earliest": 1950,
+      "creation_date_latest": 1959,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Czechoslovakia, 20th century"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Czech",
+      "type": "Photograph",
+      "measurements": "Image: 12.6 x 16.9 cm (4 15/16 x 6 5/8 in.); Paper: 17.7 x 23.9 cm (6 15/16 x 9 7/16 in.); Matted: 35.6 x 45.7 cm (14 x 18 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.126,
+          "width": 0.169
+        },
+        "paper": {
+          "height": 0.177,
+          "width": 0.239
+        },
+        "matted": {
+          "height": 0.356,
+          "width": 0.457
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"42\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 311875,
+            "title": "Legacy of Light: Master Photographs from the Cleveland Museum of Art",
+            "description": "<i>Legacy of Light: Master Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 24, 1996-February 2, 1997).",
+            "opening_date": "1996-11-24T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, November 20,1996 - February 2, 1997: \"Legacy of Light: Master Photographs from the Cleveland Museum of Art.\"",
+            "opening_date": "1997-02-02T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "This lyrical image comes from one of Sudek's most inventive bodies of work—photographs of gardens. During World War II, he began this exploration by photographing his own small garden through a misty window pane; later, he added the gardens of his friends. From 1945 to 1960, Sudek photographed the architect Otto Rothmayer's garden, calling the series <em>The Magic Garden</em>. In this example, Sudek orchestrated a complex composition featuring chairs (one of his favorite motifs) and three large rocks. With transforming skill, he was able to humanize these inanimate objects, giving them distinctive personalities.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79944387"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 349",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1991.161",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Andrew R. and Martha Holden Jennings Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 155858,
+      "creators": [
+        {
+          "id": 979,
+          "description": "Josef Sudek (Czech, 1896–1976)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Josef Sudek Czechoslovakian, b. Austria-Hungary, 1896-1976\r\n\r\nOne of the best known Czechoslovakian photographers of the 20th century, Josef Sudek was born in Kolín nad Labem, a small town near Prague. In his youth he was apprenticed to a bookbinder but, following the loss of his right arm during World War I, took up photography as a profession. Sudek became a member of Prague's Bohemian Amateur Photography Association in 1921 and the following year entered the State School of Graphic Arts in Prague, where he studied photography (1922-24). In 1924 Sudek and his friend, photographer Jaromír Funke, joined Adolf Schneeberger in founding the Czech Photographic Society ( sa).\r\n\tSudek worked in Prague all his life, opening a studio there in the 1920s. Among his earliest photographs were a series of soft-focus views of the final stages of construction of Saint Vitus Cathedral. Over the next 50 years, he photographed familiar surroundings, producing hundreds of images of the streets and buildings of Prague and objects in his garden and studio, including a series of photographs taken through his studio window. He also made many landscape pictures, photographing in the great Mioní Forest Preserve. He also was successful as an advertising and commercial photographer.\r\n\tBeginning in the 1920s, Sudek took part in many exhibitions; his work has also been featured in several one-person shows, including retrospectives at George Eastman House, Rochester (1974), the International Center of Photography, New York (1977), and the Philadelphia Museum of Art (1990). He was the first photographer honored with the title Artist of Merit (1961) by the Czech government, which also awarded him the Order of Work (1966). M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1896",
+          "death_year": "1976",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1991-12-16T00:00:00",
+      "sortable_date": 1950,
+      "date_added_to_oa": null,
+      "date_text": "c. 1950s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:34.665000"
+    },
+    {
+      "id": 164400,
+      "accession_number": "2005.466",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Hollyhock Garden, c. 1914–20. Gustave Baumann (American, born Germany, 1881–1971). Tempera over graphite on brown paper; image: 23.5 x 28.7 cm (9 1/4 x 11 5/16 in.); with borders: 27.2 x 31.8 cm (10 11/16 x 12 1/2 in.); sheet: 29.7 x 36.2 cm (11 11/16 x 14 1/4 in.). The Cleveland Museum of Art, Gift of Ann Baumann, 2005.466. © Ann Baumann Trust",
+      "current_location": null,
+      "title": "Hollyhock Garden",
+      "creation_date": "c. 1914–20",
+      "creation_date_earliest": 1909,
+      "creation_date_latest": 1925,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "tempera over graphite on brown paper",
+      "support_materials": [
+        {
+          "description": "brown paper",
+          "watermarks": []
+        }
+      ],
+      "department": "Drawings",
+      "collection": "DR - American 20th Century",
+      "type": "Drawing",
+      "measurements": "Image: 23.5 x 28.7 cm (9 1/4 x 11 5/16 in.); with borders: 27.2 x 31.8 cm (10 11/16 x 12 1/2 in.); Sheet: 29.7 x 36.2 cm (11 11/16 x 14 1/4 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.297,
+          "width": 0.362
+        },
+        "image": {
+          "height": 0.235,
+          "width": 0.287
+        },
+        "with borders": {
+          "height": 0.272,
+          "width": 0.318
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Ann Baumann Trust",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 202597,
+            "title": "Imagining the Garden",
+            "description": "<i>Imagining the Garden</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 24, 2015-March 6, 2016).",
+            "opening_date": "2015-10-24T00:00:00"
+          },
+          {
+            "id": 324227,
+            "title": "Gustave Baumann: Colorful Cuts",
+            "description": "<i>Gustave Baumann: Colorful Cuts</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 20, 2020-June 27, 2021).",
+            "opening_date": "2020-12-20T05:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Ann Baumann, Santa Rosa, CA",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "February 27, 2006",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Baumann began <em>Hollyhock Garden</em> around 1914 when living in Brown County, Indiana. After settling in Santa Fe, he reworked the scene in about 1919, adding Southwestern touches, such as transforming the wooden Indiana farmhouse with a shingle roof into adobe buildings with tile roofs. He must have referenced <em>Hollyhock Garden</em> in 1927 when making the color woodcut <em>Hoosier Garden,</em> since there are many correspondences between them, including the picket fence with its profusion of yellow and orange flowers and the porch chair, which lurks ghostlike beneath a thin layer of paint in the drawing.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79991944"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2005.466",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Ann Baumann",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 164400,
+      "creators": [
+        {
+          "id": 42672,
+          "description": "Gustave Baumann (American, born Germany, 1881–1971)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1881",
+          "death_year": "1971",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2006-02-27T00:00:00",
+      "sortable_date": 1909,
+      "date_added_to_oa": null,
+      "date_text": "c. 1914–20",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:44.660000"
+    },
+    {
+      "id": 534879,
+      "accession_number": "2023.33",
+      "share_license_status": "Copyrighted",
+      "tombstone": "The Garden at Harberton (Tierra del Fuego), 1922. Rockwell Kent (American, 1882–1971). Pen and ink on paper; sheet: 17.1 x 19.1 cm (6 3/4 x 7 1/2 in.). The Cleveland Museum of Art, Gift from Gwen Fate and Kevin Henegar, 2023.33",
+      "current_location": null,
+      "title": "The Garden at Harberton (Tierra del Fuego)",
+      "creation_date": "1922",
+      "creation_date_earliest": 1922,
+      "creation_date_latest": 1922,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "pen and ink on paper",
+      "support_materials": [],
+      "department": "Drawings",
+      "collection": "DR - American 20th Century",
+      "type": "Drawing",
+      "measurements": "Sheet: 17.1 x 19.1 cm (6 3/4 x 7 1/2 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.171,
+          "width": 0.191
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "During his extensive travels to wilderness areas, Rockwell Kent visited Alaska, Greenland, Canada, Latin America, Europe, and the Straits of Magellan.",
+      "description": "Rockwell Kent was an adventurer as well as a transcendentalist and mystic in the tradition of Henry David Thoreau and Ralph Waldo Emerson. He traveled to many wildernesses, finding inspiration in their stark beauty and austerity. This drawing depicts a seaside garden in Tierra del Fuego, at the tip of South America, where Kent stayed in 1922 and 1923. The drawing was used as an illustration for the book Voyaging written and illustrated by the artist (Putnam &amp; Sons, 1924).",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q118129892"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2023.33",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift from Gwen Fate and Kevin Henegar",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 534879,
+      "creators": [
+        {
+          "id": 14219,
+          "description": "Rockwell Kent (American, 1882–1971)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1882",
+          "death_year": "1971",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2023-03-06T05:00:00Z",
+      "sortable_date": 1922,
+      "date_added_to_oa": null,
+      "date_text": "1922",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:11.621000"
+    },
+    {
+      "id": 170718,
+      "accession_number": "2013.240",
+      "share_license_status": "CC0",
+      "tombstone": "Steps in a Garden, 1860. William Henry Millais (British, 1828–1899). Watercolor and gouache with scratch-away technique to create highlights on sturdy-weight wove paper mounted to same by artist with color tests in margins of mount; sheet: 33.8 x 26 cm (13 5/16 x 10 1/4 in.); secondary support: 39 x 32.4 cm (15 3/8 x 12 3/4 in.). The Cleveland Museum of Art, Gift in memory of Helen Borowitz, 2013.240",
+      "current_location": null,
+      "title": "Steps in a Garden",
+      "creation_date": "1860",
+      "creation_date_earliest": 1860,
+      "creation_date_latest": 1860,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "watercolor and gouache with scratch-away technique to create highlights on sturdy-weight wove paper mounted to same by artist with color tests in margins of mount",
+      "support_materials": [
+        {
+          "description": "sturdy-weight, moderately textured, wove paper",
+          "watermarks": []
+        }
+      ],
+      "department": "Drawings",
+      "collection": "DR - British",
+      "type": "Drawing",
+      "measurements": "Sheet: 33.8 x 26 cm (13 5/16 x 10 1/4 in.); Secondary Support: 39 x 32.4 cm (15 3/8 x 12 3/4 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.338,
+          "width": 0.26
+        },
+        "secondary support": {
+          "height": 0.39,
+          "width": 0.324
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "initialed, in orange paint over purple paint, at lower left: WHM; inscribed, in purple paint, at lower left: 1860",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 200485,
+            "title": "British Drawings from the Cleveland Museum of Art ",
+            "description": "<i>British Drawings from the Cleveland Museum of Art </i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 10-May 26, 2013).",
+            "opening_date": "2013-02-10T00:00:00"
+          },
+          {
+            "id": 202597,
+            "title": "Imagining the Garden",
+            "description": "<i>Imagining the Garden</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 24, 2015-March 6, 2016).",
+            "opening_date": "2015-10-24T00:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "D. Parkinson",
+          "citations": [],
+          "footnotes": null,
+          "date": "?-?",
+          "sortorder": 1
+        },
+        {
+          "description": "(sale, Sotheby's, London, December 6, 1977, no. 36)",
+          "citations": [],
+          "footnotes": null,
+          "date": "1977",
+          "sortorder": 2
+        },
+        {
+          "description": "(Maas Gallery, London)",
+          "citations": [],
+          "footnotes": null,
+          "date": "after 1977-?",
+          "sortorder": 3
+        },
+        {
+          "description": "Helen and Albert Borowitz, Cleveland, OH, given to the Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "?-2013",
+          "sortorder": 4
+        },
+        {
+          "description": "Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2013-",
+          "sortorder": 5
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "William Henry Millais's brother John Everett was a founder of the Pre-Raphaelite brotherhood and encouraged the older artist to pursue landscape as a subject.",
+      "description": "William Henry Millais was closely associated with the founding members of the Pre-Raphaelite Brotherhood. He sketched extensively from nature in the early 1850s. Here, Millais painted a sequestered landscape of rough-hewn steps ascending a shady slope. A smattering of light pierces a dense canopy of trees, allowing little to flourish except for the foxgloves that adorn the foreground. Ivy growing on the hillside, a decaying stump, and moss-covered steps suggest the passage of time.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80079804"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2013.240-steps-in-a-garden"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Lemonedes, Heather. <em>British Drawings: The Cleveland Museum of Art. </em>Exh. Cat. Cleveland, OH: Cleveland Museum of Art, 2013.",
+          "page_number": "Mentioned: pp. 112-3, 147, no. 37; Reproduced: p. 113",
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/2013.240",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2013.240/2013.240_web.jpg",
+          "width": "713",
+          "height": "900",
+          "filesize": "258063",
+          "filename": "2013.240_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2013.240/2013.240_print.jpg",
+          "width": "2693",
+          "height": "3400",
+          "filesize": "2523416",
+          "filename": "2013.240_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2013.240/2013.240_full.tif",
+          "width": "4156",
+          "height": "5248",
+          "filesize": "65463476",
+          "filename": "2013.240_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Gift in memory of Helen Borowitz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 170718,
+      "creators": [
+        {
+          "id": 60590,
+          "description": "William Henry Millais (British, 1828–1899)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1828",
+          "death_year": "1899",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2013-12-02T00:00:00",
+      "sortable_date": 1860,
+      "date_added_to_oa": null,
+      "date_text": "1860",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-04-10 11:44:47.920000"
+    },
+    {
+      "id": 164652,
+      "accession_number": "2006.147",
+      "share_license_status": "CC0",
+      "tombstone": "Illuminated Folio from a Gulistan (Rose Garden) of Sa'di (c. 1213–1291), calligraphy: c. 1475–1500; border: c. 1550. Calligraphy by Sultan 'Ali al-Mashadi (Iranian, 1430–1520). Gum tempera, ink, gold, and silver on paper. The Cleveland Museum of Art, Gift of William Kelly Simpson in memory of his wife Marilyn M. Simpson and her grandparents Mr. and Mrs. John D. Rockefeller Jr., 2006.147",
+      "current_location": null,
+      "title": "Illuminated Folio from a Gulistan (Rose Garden) of Sa'di (c. 1213–1291)",
+      "creation_date": "calligraphy: c. 1475–1500; border: c. 1550",
+      "creation_date_earliest": 1465,
+      "creation_date_latest": 1560,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Iran"
+      ],
+      "technique": "Gum tempera, ink, gold, and silver on paper",
+      "support_materials": [],
+      "department": "Islamic Art",
+      "collection": "Islamic Art",
+      "type": "Manuscript",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "William Kelly Simpson [1928–2017], Katonah, NY, given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2006",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "2006–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The book’s name means “rose garden” in Persian; just as a rose garden is a collection of flowers, the contents are a collection of anecdotes.",
+      "description": "The border scene is set in a magical forest bursting with blossoms. At the top, a winged lion chases a winged deer, who is caught in the bottom border. The imagery of a lion biting down on its prey dates from the Achaemenid period in Iran (550–330 BCE) and references the valor of the king. A fox scurries off to the right. <br><br>The verse is written in the Persian language using <em>nastaliq</em> script. Sultan ‘Ali Mashadi was widely renowned for perfecting the nastaliq script, and his calligraphy was a model for many followers across the Islamic world.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79992476"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2006.147-illuminated-folio-fr"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Canby, Sheila R. The Golden Age of Persian Art: 1501-1722. London: British Museum, 2008.",
+          "page_number": "58-59",
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/2006.147",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2006.147/2006.147_web.jpg",
+          "width": "568",
+          "height": "900",
+          "filesize": "255661",
+          "filename": "2006.147_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2006.147/2006.147_print.jpg",
+          "width": "2146",
+          "height": "3400",
+          "filesize": "2785781",
+          "filename": "2006.147_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2006.147/2006.147_full.tif",
+          "width": "4146",
+          "height": "6568",
+          "filesize": "81722492",
+          "filename": "2006.147_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Gift of William Kelly Simpson in memory of his wife Marilyn M. Simpson and her grandparents Mr. and Mrs. John D. Rockefeller Jr.",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 164652,
+      "creators": [
+        {
+          "id": 59126,
+          "description": "Sultan 'Ali al-Mashadi (Iranian, 1430–1520)",
+          "extent": "calligraphy by",
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1430",
+          "death_year": "1520",
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2006-09-05T00:00:00",
+      "sortable_date": 1465,
+      "date_added_to_oa": null,
+      "date_text": "calligraphy: c. 1475–1500; border: c. 1550",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "cover",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Illuminated Folio from the Gulistan of Sadi"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:04:30.134000"
+    },
+    {
+      "id": 372002,
+      "accession_number": "2020.291",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Garden Gazebo, Paris, 1935. Ilse Bing (American, 1899–1998). Gelatin silver print; image: 28.3 x 22.4 cm (11 1/8 x 8 13/16 in.); paper: 28.3 x 22.4 cm (11 1/8 x 8 13/16 in.); mounted: 42 x 34.5 cm (16 9/16 x 13 9/16 in.). The Cleveland Museum of Art, Gift of Michael Mattis and Judith Hochberg, 2020.291. © Estate of Ilse Bing",
+      "current_location": null,
+      "title": "Garden Gazebo, Paris",
+      "creation_date": "1935",
+      "creation_date_earliest": 1935,
+      "creation_date_latest": 1935,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 28.3 x 22.4 cm (11 1/8 x 8 13/16 in.); Paper: 28.3 x 22.4 cm (11 1/8 x 8 13/16 in.); Mounted: 42 x 34.5 cm (16 9/16 x 13 9/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.283,
+          "width": 0.224
+        },
+        "paper": {
+          "height": 0.283,
+          "width": 0.224
+        },
+        "mounted": {
+          "height": 0.42,
+          "width": 0.345
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Estate of Ilse Bing",
+      "inscriptions": [
+        {
+          "inscription": "Written in white in lower left, recto: “ILSE BING/1935”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Commercially imprinted throughout verso: “Agfa Brovira”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in black ink on recto of mount: “fur Konrad/[Illegible] 1935/Paris Ilse (signed)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Estate of the Artist",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "Michael Mattis and Judith Hochberg, Scarsdale, NY",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 7, 2020",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Ilse Bing, born and raised in Frankfurt Germany, fell in love with Paris.",
+      "description": "Bing moved to Paris in 1930 determined to succeed as a professional photographer. “The moment I put my foot on the Paris pavement,” she said, “I knew it was my atmosphere. . . . I breathed in art, and felt myself unfolding.” She photographed the nightlife, amusements, and unique character of her adopted city including its gardens and parks.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117243225"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2020.291",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Michael Mattis and Judith Hochberg",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 372002,
+      "creators": [
+        {
+          "id": 291349,
+          "description": "Ilse Bing (American, 1899–1998)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "American and German photographer, born 1899 or 1900, died 1998",
+          "name_in_original_language": null,
+          "birth_year": "1899",
+          "death_year": "1998",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2020-12-07T00:00:00-05:00",
+      "sortable_date": 1935,
+      "date_added_to_oa": null,
+      "date_text": "1935",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:08.689000"
+    },
+    {
+      "id": 120812,
+      "accession_number": "1941.539",
+      "share_license_status": "CC0",
+      "tombstone": "Album des Peintres-Graveurs: The Tuileries Garden, 1896. Édouard Vuillard (French, 1868–1940). Color lithograph; image: 28.4 x 42.9 cm (11 3/16 x 16 7/8 in.); sheet: 42.8 x 55.7 cm (16 7/8 x 21 15/16 in.). The Cleveland Museum of Art, Mr. and Mrs. Lewis B. Williams Collection, 1941.539",
+      "current_location": null,
+      "title": "The Tuileries Garden",
+      "series": "Album des Peintres-Graveurs",
+      "creation_date": "1896",
+      "creation_date_earliest": 1896,
+      "creation_date_latest": 1896,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 19th-20th century"
+      ],
+      "technique": "color lithograph",
+      "support_materials": [],
+      "department": "Prints",
+      "collection": "PR - Lithograph",
+      "type": "Print",
+      "measurements": "Image: 28.4 x 42.9 cm (11 3/16 x 16 7/8 in.); Sheet: 42.8 x 55.7 cm (16 7/8 x 21 15/16 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.428,
+          "width": 0.557
+        },
+        "image": {
+          "height": 0.284,
+          "width": 0.429
+        }
+      },
+      "state_of_the_work": "II/II",
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 329533,
+            "title": "Private Lives: Home and Family in the Art of the Nabis, Paris, 1889–1900",
+            "description": "<i>Private Lives: Home and Family in the Art of the Nabis, Paris, 1889–1900</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (co-organizer) (July 1-September 19, 2021).",
+            "opening_date": "2021-07-01T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "An American guidebook, published in 1928, noted, “Paris loves trees and children. One cannot think for two minutes of either subject without finding the other equally present to mind.” This lithograph portraying adults and children traversing a path in Paris’s most celebrated garden memorializes this association of the city’s parks with children.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80016441"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1941.539-the-tuileries-garden"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "<em>Catalogue of an exhibition of the art of lithography: commemorating the sesquicentennial of its invention, 1798-1948</em>. [Cleveland]: The Cleveland Museum of Art, November 11, 1948-January 2, 1949. Published as: Le Jardin des Tuileries.",
+          "page_number": "Mentioned: p. 69; Reproduced: Plate XLII",
+          "url": "https://archive.org/details/Lithography/page/n121"
+        }
+      ],
+      "catalogue_raisonne": "Roger-Marx 28",
+      "url": "https://clevelandart.org/art/1941.539",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1941.539/1941.539_web.jpg",
+          "width": "1263",
+          "height": "884",
+          "filesize": "747069",
+          "filename": "1941.539_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1941.539/1941.539_print.jpg",
+          "width": "3400",
+          "height": "2380",
+          "filesize": "5146436",
+          "filename": "1941.539_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1941.539/1941.539_full.tif",
+          "width": "5476",
+          "height": "3834",
+          "filesize": "63016940",
+          "filename": "1941.539_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Mr. and Mrs. Lewis B. Williams Collection",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 120812,
+      "creators": [
+        {
+          "id": 1833,
+          "description": "Édouard Vuillard (French, 1868–1940)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "After attending the Lycée Condorcet, Édouard Vuillard entered the studio of history painter Diogène Maillart (1840-1926). In 1886 he enrolled at the Académie Julian, where he was taught by Tony Robert-Fleury (1837-1911) and Bouguereau (q.v.). The following year he was accepted into the École des Beaux-Arts and was briefly in the atelier of Gérôme (q.v.). At this time he also studied seventeenth-century Dutch painting and the works of Chardin (1699-1779). By 1889 Vuillard was persuaded by his friend painter and theorist Maurice Denis (1870-1943) to join the newly formed group of artists known as the Nabis. The Nabis based many of their ideas on synthetism, first developed by Gauguin (q.v.) and Émile Bernard (1868-1941), in which the artist was to work not from nature but from memory. Vuillard's initial synthetist works reveal a preoccupation with pattern and bright colors, denying the three-dimensionality of the object. By 1892, however, his colors were more subdued, reflecting his desire to mimic the unusual lighting effects that he had seen in symbolist theater. Vuillard's first major commissions date from this time, including nine panels for the dining room of Alexandre Natanson and four decorative panels for the library of Dr. Henri Vaquez. In 1898 Vuillard visited Venice and Florence, and the following year he and Bonnard (q.v.), a fellow member of the Nabis, made an excursion to London. Later they went to Milan and Venice and eventually to Spain. Vuillard also made trips to Brittany and Normandy. His first public commission came in 1912, when he was asked to paint panels for the foyer of the Comédie des Champs-Elysées in Paris. During that period he moved beyond the synthetism of the Nabis and returned to a more traditional perspective. At the same time he was accepting commissions for portraits. In 1936 he was chosen to paint a mural at the Palais des Nations in Geneva and was subsequently elected to the Institut de France.",
+          "name_in_original_language": null,
+          "birth_year": "1868",
+          "death_year": "1940",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 291938,
+          "description": "Ambroise Vollard (French, 1867–1939)",
+          "extent": "published by",
+          "qualifier": null,
+          "role": "publisher",
+          "biography": "French art dealer and publisher, 1867-1939",
+          "name_in_original_language": null,
+          "birth_year": "1867",
+          "death_year": "1939",
+          "use_in_caption": false,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1941-12-05T00:00:00",
+      "sortable_date": 1896,
+      "date_added_to_oa": null,
+      "date_text": "1896",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Le Jardin des Tuileries"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:15.678000"
+    },
+    {
+      "id": 130457,
+      "accession_number": "1953.212",
+      "share_license_status": "CC0",
+      "tombstone": "Under the Trees (from \"The Public Gardens\"), 1894. Édouard Vuillard (French, 1868–1940). Distemper on fabric; framed: 229.9 x 113 x 11.4 cm (90 1/2 x 44 1/2 x 4 1/2 in.); unframed: 214.2 x 96.3 cm (84 5/16 x 37 15/16 in.). The Cleveland Museum of Art, Gift of the Hanna Fund, 1953.212",
+      "current_location": "223 20th Century Avant-Garde",
+      "title": "Under the Trees (from \"The Public Gardens\")",
+      "creation_date": "1894",
+      "creation_date_earliest": 1894,
+      "creation_date_latest": 1894,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "distemper on fabric",
+      "support_materials": [],
+      "department": "Modern European Painting and Sculpture",
+      "collection": "Mod Euro - Painting 1800-1960",
+      "type": "Painting",
+      "measurements": "Framed: 229.9 x 113 x 11.4 cm (90 1/2 x 44 1/2 x 4 1/2 in.); Unframed: 214.2 x 96.3 cm (84 5/16 x 37 15/16 in.)",
+      "dimensions": {
+        "framed": {
+          "height": 2.299,
+          "width": 1.13,
+          "depth": 0.114
+        },
+        "unframed": {
+          "height": 2.142,
+          "width": 0.963
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Signed lower right: E. Vuillard 94\r\n",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 300318,
+            "title": "Work of Edouard Vuillard",
+            "description": "<i>Work of Edouard Vuillard</i>. The Cleveland Museum of Art, Cleveland, OH (January 27-March 14, 1954).",
+            "opening_date": "1954-01-27T05:00:00"
+          },
+          {
+            "id": 301477,
+            "title": "In Memoriam: Leonard C. Hanna, Jr.",
+            "description": "<i>In Memoriam: Leonard C. Hanna, Jr.</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 4-April 7, 1958).",
+            "opening_date": "1958-03-04T05:00:00"
+          },
+          {
+            "id": 302007,
+            "title": "Paths of Abstract Art",
+            "description": "<i>Paths of Abstract Art</i>. The Cleveland Museum of Art, Cleveland, OH (October 5-November 13, 1960).",
+            "opening_date": "1960-10-05T04:00:00"
+          },
+          {
+            "id": 191838,
+            "title": "Object in Focus:  Under the Trees (Sous les arbres) by Edouard Vuillard",
+            "description": "<i>Object in Focus:  Under the Trees (Sous les arbres) by Edouard Vuillard</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 29-November 29, 1998).",
+            "opening_date": "1998-09-29T00:00:00"
+          },
+          {
+            "id": 216734,
+            "title": "Beyond the Easel: Decorative Painting by Bonnard, Vuillard, Denis, Roussel, 1890-1930",
+            "description": "<i>Beyond the Easel: Decorative Painting by Bonnard, Vuillard, Denis, Roussel, 1890-1930</i>. The Art Institute of Chicago, Chicago, IL (organizer) (February 21-May 16, 2001); The Metropolitan Museum of Art, New York, NY (June 18-September 9, 2001).",
+            "opening_date": "2001-02-21T00:00:00"
+          },
+          {
+            "id": 177023,
+            "title": "Edouard Vuillard",
+            "description": "<i>Edouard Vuillard</i>. National Gallery of Art, Landover, MD (organizer) (January 19-April 20, 2003); Montréal Museum of Fine Arts, Montreal, Quebec, Canada (May 15-August 24, 2003).",
+            "opening_date": "2003-01-19T00:00:00"
+          },
+          {
+            "id": 182153,
+            "title": "Monet to Dalí: Modern Masters from the Cleveland Museum of Art",
+            "description": "<i>Monet to Dalí: Modern Masters from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 21, 2007-January 13, 2008).",
+            "opening_date": "2006-05-27T00:00:00"
+          },
+          {
+            "id": 329533,
+            "title": "Private Lives: Home and Family in the Art of the Nabis, Paris, 1889–1900",
+            "description": "<i>Private Lives: Home and Family in the Art of the Nabis, Paris, 1889–1900</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (co-organizer) (July 1-September 19, 2021).",
+            "opening_date": "2021-07-01T04:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Paris, Bernheim-Jeune. Vuillard (1906), no. 26 (according to Jacques Salomon, who is preparing a catalogue raisonné).",
+            "opening_date": "1906-01-01T00:00:00"
+          },
+          {
+            "description": "Paris, Galerie des Beaux-Arts. Les étapes de l'art contemporain II: Gauguin, ses amis, L'École de Pont-Aven et l'Académie Julian (1934), no. 165 (according to Salomon, unpub.).",
+            "opening_date": "1934-01-01T00:00:00"
+          },
+          {
+            "description": "Paris, Les Cadres. Peintres de la Revue blanche (1936), no. 79 (according to Salomon, unpub.).",
+            "opening_date": "1936-01-01T00:00:00"
+          },
+          {
+            "description": "Paris, Musée des Arts Décoratifs. Exposition É. Vuillard (1938), no. 34b, Sous les arbres, 214 x 97 cm, à Henri Blum (repr.).",
+            "opening_date": "1938-01-01T00:00:00"
+          },
+          {
+            "description": "cma; New York, Museum of Modern Art. Édouard Vuillard (1954), 20, 34 (repr.), 101.",
+            "opening_date": "1954-01-01T00:00:00"
+          },
+          {
+            "description": "cma. Paths of Abstract Art (1960), no. 10, pl. II, 9 (repr.).",
+            "opening_date": "1960-01-01T00:00:00"
+          },
+          {
+            "description": "Toronto, Art Gallery of Ontario; San Francisco, California Palace of the Legion of Honor; Art Institute of Chicago. Édouard Vuillard 1868-1940 (1971-72), 39 (repr.), 49-50, 225.",
+            "opening_date": "1940-01-01T00:00:00"
+          },
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; September 29 - November 29, 1998.  \"Object in Focus:  Under the Trees (Sous les arbres) by Edouard Vuillard.\"",
+            "opening_date": "1998-09-29T00:00:00"
+          },
+          {
+            "description": "The Art Institute of Chicago (2/21-5/27/01);  NY: The Metropolitan Museum of Art (6/18 - 9/9/01); \"Beyond the Easel: Decorative Painting by Bonnard, Vuillard, Denis, Roussel, 1890-1930\"exh. cat. no. 33, pp. 120-121.",
+            "opening_date": "2001-09-09T00:00:00"
+          },
+          {
+            "description": "The National Gallery of Art, Washington, DC (1/19/2003-4/20/2003), Museum of Fine Arts, Montreal (5/15/2003-8/24/2003): \"Edouard Vuillard\", exh.cat.no. 118, p. 172-173.",
+            "opening_date": "2003-01-19T00:00:00"
+          },
+          {
+            "description": "CMA (organizer). Cleveland Museum of Art, Oct. 21, 2007- January 13, 2008:  \"Modern Masters from the Cleveland Museum of Art\"",
+            "opening_date": "2007-10-21T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Alexandre Natanson [1867-1936], Paris",
+          "citations": [],
+          "footnotes": [
+            "<div><!--block-->This painting is one of nine canvases that Alexandre Natanson, director of <em>La Revue blanche, </em>commissioned from Vuillard in 1893 for his home in the Avenue du Bois de Boulogne.&nbsp; The decorative cycle, entitled <em>Jardins publics </em>(<em>Public Gardens</em>) was dismantled when the Natanson family moved to the Avenue des Champs-Elysées, where it was reinstalled in 1908.&nbsp; Natanson’s collection was sold at auction in 1929, and the cycle was dispersed: five paintings are now in the Musée d’Orsay; the pendant to the CMA painting is at the Musées Royaux des Beaux-Arts de Belgique; one panel is in the collection of the Houston Museum of Fine Arts; and the current location of the ninth panel is unknown</div>"
+          ],
+          "date": "1894-1929",
+          "sortorder": 1
+        },
+        {
+          "description": "(Natanson sale, Hôtel Drouot, Paris, May 16, 1929, lot 122, sold to Georges Bénard)",
+          "citations": [],
+          "footnotes": [],
+          "date": "1929",
+          "sortorder": 2
+        },
+        {
+          "description": "Georges Bénard, Paris",
+          "citations": [],
+          "footnotes": [
+            ""
+          ],
+          "date": "1929-1933",
+          "sortorder": 3
+        },
+        {
+          "description": "(Bénard sale, Hôtel Drouot, Paris, June 9, 1933, lot 90, sold to Henri Blum)",
+          "citations": [],
+          "footnotes": [
+            "<div><!--block-->The Cleveland painting was sold together with <em>La promenade </em>(no. 89)<em>, </em>also from the <em>Jardins public</em> cycle, to Henri Blum.&nbsp; Modigliani's <em>Portrait of a Woman </em>(CMA 1951.358) also appeared in the Bénard sale (no. 67).</div>"
+          ],
+          "date": "1933",
+          "sortorder": 4
+        },
+        {
+          "description": "Henri Blum, Paris",
+          "citations": [],
+          "footnotes": [
+            "<div><!--block-->Blum, a collector of Impressonist works who was active in Paris throughout the 1930s and 1940s, lent the CMA painting to a 1938 Vuillard exhibition at the Musée des Arts Décoratifs.</div>"
+          ],
+          "date": "1933-",
+          "sortorder": 5
+        },
+        {
+          "description": "(César de Hauke, New York, sold to Knoedler & Co.)",
+          "citations": [],
+          "footnotes": [
+            "<div><!--block-->This sale may have been brokered by Parisian dealer, Paul Brame.&nbsp; Galerie Hector Brame, at which Paul Brame worked, appears in the painting’s provenance in the Salamon/Cogeval Vuillard catalogue raisonné.&nbsp; However, according to the gallery, there is no reference to the painting in their stock books.&nbsp; Paul Brame and César de Hauke were close acquaintances and often made purchases in conjunction with one another. &nbsp; The Knoedler inventory card, which makes no mention of Brame, does not specify the date de Hauke sold the painting (stock no. A5278) to Knoedler, but CMA records indicate the transaction took place in May 1953.&nbsp;</div>"
+          ],
+          "date": "Until 1953",
+          "sortorder": 6
+        },
+        {
+          "description": "(Knoedler & Co., New York, sold to the Cleveland Museum of Art)",
+          "citations": [],
+          "footnotes": [],
+          "date": "1953",
+          "sortorder": 7
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "1953-",
+          "sortorder": 8
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Vuillard's social circle included actors and directors. He often contributed to their theatrical pursuits by designing costumes, programs, and set pieces. In this panel from a nine-part series, a patterned landscape recalls scenery for the stage.",
+      "description": "This painting is from a nine-panel decorative series showing children playing in two of Paris’s most spacious parks: the Tuileries Gardens and the Bois de Boulogne. It depicts a game of hide-and-seek in which a girl conceals herself behind a tree. The stillness of the women resting on green chairs at the right is countered by children running at the left. Rather than a realistic rendering of the subject, Édouard Vuillard arranged the composition in bands of colorful, decorative patterns so that the painting seems like a tapestry.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60516343"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1953.212-under-the-trees-from"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "d'Argencourt, Louise, Roger Diederen, and Alisa Luxenberg. <em>European Paintings of the 19th Century</em>. Cleveland: Cleveland Museum of Art, 1999.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Salomon, Antoine, Guy Cogeval, and Mathias Chivot. <em>Vuillard, the Inexhaustible Glance: Critical Catalogue of Paintings and Pastels</em>. Milan: Skira, 2003.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Salomon, Jacques. <em>Vuillard</em>. [Paris]: A. Michel, 1945.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Salomon, Antoine, Guy Cogeval, and Mathias Chivot. <em>Vuillard, the Inexhaustible Glance: Critical Catalogue of Paintings and Pastels</em>. Milan: Skira, 2003.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Salomon, Antoine, Guy Cogeval, and Mathias Chivot. <em>Vuillard, the Inexhaustible Glance: Critical Catalogue of Paintings and Pastels</em>. Milan: Skira, 2003.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "<em>Exposition E. Vuillard: mai-juillet 1938</em>. [Paris]: Musée des arts décoratifs, 1938.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Salomon, Antoine, Guy Cogeval, and Mathias Chivot. <em>Vuillard, the Inexhaustible Glance: Critical Catalogue of Paintings and Pastels</em>. Milan: Skira, 2003.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Salomon, Antoine, Guy Cogeval, and Mathias Chivot. <em>Vuillard, the Inexhaustible Glance: Critical Catalogue of Paintings and Pastels</em>. Milan: Skira, 2003.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Édouard Vuillard, Series IV Inventory Cards, M. Knoedler &amp; Co. records, box 140, Getty Research Institute.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Sylvie Brame, email to Victoria Sears Goldman, Jan. 29, 2015, in CMA curatorial file.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Sylvie Brame, email to Victoria Sears Goldman, Jan. 30, 2015, in CMA curatorial file.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Salomon, Antoine, Guy Cogeval, and Mathias Chivot. <em>Vuillard, the Inexhaustible Glance: Critical Catalogue of Paintings and Pastels</em>. Milan: Skira, 2003.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Édouard Vuillard, Series IV Inventory Cards, M. Knoedler &amp; Co. records, box 166, Getty Research Institute.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Hôtel Drouot. <em>Tableaux modernes, aquarelles, pastels, dessins, lithographies</em>. May 16, 1929.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Hôtel Drouot. <em>Tableaux modernes, aquarelles, gouaches, pastels. </em>June 9, 1933<em>.</em>",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Francis, Henry. \"Edouard Vuillard.\" <em>The Bulletin of the Cleveland Museum of Art </em>41, no. 1 (January 1954): 6-7.",
+          "page_number": "Reproduced: p. 2; Mentioned: p. 6",
+          "url": "https://www.jstor.org/stable/25141927"
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+          "page_number": "Mentioned and Reproduced: cat. no. 514",
+          "url": "https://archive.org/details/CMAHandbook1958/page/n95"
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+          "page_number": "Reproduced: p. 182",
+          "url": "https://archive.org/details/CMAHandbook1966/page/n206"
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+          "page_number": "Reproduced: p. 182",
+          "url": "https://archive.org/details/CMAHandbook1969/page/n206"
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+          "page_number": "Reproduced: p. 225",
+          "url": "https://archive.org/details/CMAHandbook1978/page/n245"
+        },
+        {
+          "citation": "Robinson, William H. \"Vuillard's <em>Under the Trees</em> from the Nabi Cycle <em>The Public Gardens</em>.\" <em>The Bulletin of the Cleveland Museum of Art</em> 79, no. 4 (1992): 111-27.",
+          "page_number": "Reproduced: cover, p. 112, 119; Mentioned: p. 111-27",
+          "url": "https://www.jstor.org/stable/25161356"
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>Cleveland Art: The Cleveland Museum of Art Members Magazine</em>. Vol. 38 no. 08, October 1998",
+          "page_number": "Mentioned & reproduced: p. 2",
+          "url": "https://archive.org/details/CMAMM1998-08/page/n1"
+        },
+        {
+          "citation": "Argencourt, Louise d', and Roger Diederen. <em>Catalogue of Paintings</em>. <em>Pt. 4. European Paintings of the 19th Century</em>. Cleveland: Cleveland Museum of Art, 1974.",
+          "page_number": "Mentioned and reproduced: P. 626-630, Vol. II, no. 219",
+          "url": ""
+        },
+        {
+          "citation": "Salomon, Antoine, Guy Cogeval, and Mathias Chivot. <em>Vuillard: The Inexhaustible Glance: Critical Catalogue of Paintings and Pastels.</em> Milan: Skira, 2003.",
+          "page_number": "Mentioned and reproduced: vol. 1, p. 394-396",
+          "url": null
+        },
+        {
+          "citation": "Cahn, Isabelle. \"The Nabis: Decorative Painting and the New Sensibility.\" In J<em>apanese Connections: The Birth of Modern Deco</em>r, pp. 44-55. Isabelle Cahn, ed. Beirut: Kaph Books 2018.",
+          "page_number": "Mentioned: p. 51; Reproduced: p. 53",
+          "url": null
+        },
+        {
+          "citation": "Brown, Heather Lemonedes. “The Nabi City.” In <em>Private Lives: Home and Family in the Art of the Nabis, Paris, 1889-1900</em>. Mary Weaver Chapin and Heather Lemonedes Brown, 222-261. Cleveland: Cleveland Museum of Art, 2021.",
+          "page_number": "Mentioned: P. 225-226; Reproduced: P. 242, no. 154",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1953.212",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1953.212/1953.212_web.jpg",
+          "width": "407",
+          "height": "900",
+          "filesize": "253047",
+          "filename": "1953.212_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1953.212/1953.212_print.jpg",
+          "width": "1538",
+          "height": "3400",
+          "filesize": "2042618",
+          "filename": "1953.212_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1953.212/1953.212_full.tif",
+          "width": "6302",
+          "height": "13936",
+          "filesize": "263499396",
+          "filename": "1953.212_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2008-02-25T14:50:09",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1953.212/1953.212_alt0_web.jpg",
+            "width": "398",
+            "height": "893",
+            "filesize": "303672"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1953.212/1953.212_alt0_print.jpg",
+            "width": "1514",
+            "height": "3400",
+            "filesize": "3982770"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1953.212/1953.212_alt0_full.tif",
+            "width": "2693",
+            "height": "6049",
+            "filesize": "48905216"
+          }
+        },
+        {
+          "date_created": "2021-01-08T09:52:28",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1953.212/1953.212_alt1_web.jpg",
+            "width": "453",
+            "height": "900",
+            "filesize": "153394"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1953.212/1953.212_alt1_print.jpg",
+            "width": "1713",
+            "height": "3400",
+            "filesize": "1004536"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1953.212/1953.212_alt1_full.tif",
+            "width": "7082",
+            "height": "14058",
+            "filesize": "298700764"
+          }
+        },
+        {
+          "date_created": "2021-01-06T16:48:35",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1953.212/1953.212_alt2_web.jpg",
+            "width": "494",
+            "height": "900",
+            "filesize": "262377"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1953.212/1953.212_alt2_print.jpg",
+            "width": "1865",
+            "height": "3400",
+            "filesize": "2235151"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1953.212/1953.212_alt2_full.tif",
+            "width": "7579",
+            "height": "13820",
+            "filesize": "314251488"
+          }
+        }
+      ],
+      "creditline": "Gift of the Hanna Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": "Michael J. Horvitz Family Gallery",
+      "athena_id": 130457,
+      "creators": [
+        {
+          "id": 1833,
+          "description": "Édouard Vuillard (French, 1868–1940)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "After attending the Lycée Condorcet, Édouard Vuillard entered the studio of history painter Diogène Maillart (1840-1926). In 1886 he enrolled at the Académie Julian, where he was taught by Tony Robert-Fleury (1837-1911) and Bouguereau (q.v.). The following year he was accepted into the École des Beaux-Arts and was briefly in the atelier of Gérôme (q.v.). At this time he also studied seventeenth-century Dutch painting and the works of Chardin (1699-1779). By 1889 Vuillard was persuaded by his friend painter and theorist Maurice Denis (1870-1943) to join the newly formed group of artists known as the Nabis. The Nabis based many of their ideas on synthetism, first developed by Gauguin (q.v.) and Émile Bernard (1868-1941), in which the artist was to work not from nature but from memory. Vuillard's initial synthetist works reveal a preoccupation with pattern and bright colors, denying the three-dimensionality of the object. By 1892, however, his colors were more subdued, reflecting his desire to mimic the unusual lighting effects that he had seen in symbolist theater. Vuillard's first major commissions date from this time, including nine panels for the dining room of Alexandre Natanson and four decorative panels for the library of Dr. Henri Vaquez. In 1898 Vuillard visited Venice and Florence, and the following year he and Bonnard (q.v.), a fellow member of the Nabis, made an excursion to London. Later they went to Milan and Venice and eventually to Spain. Vuillard also made trips to Brittany and Normandy. His first public commission came in 1912, when he was asked to paint panels for the foyer of the Comédie des Champs-Elysées in Paris. During that period he moved beyond the synthetism of the Nabis and returned to a more traditional perspective. At the same time he was accepting commissions for portraits. In 1936 he was chosen to paint a mural at the Palais des Nations in Geneva and was subsequently elected to the Institut de France.",
+          "name_in_original_language": null,
+          "birth_year": "1868",
+          "death_year": "1940",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1953-06-17T00:00:00",
+      "sortable_date": 1894,
+      "date_added_to_oa": null,
+      "date_text": "1894",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": true,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:21.705000"
+    },
+    {
+      "id": 142315,
+      "accession_number": "1966.143",
+      "share_license_status": "CC0",
+      "tombstone": "Ravana addresses Sita in the garden of Lanka, from Chapters 53 and 54 of the Aranya Kanda (Book of the Forest) of a Ramayana (Rama’s Journey), c. 1725. Northern India, Pahari kingdoms. Gum tempera, gold, and silver on paper; painting: 55.5 x 79 cm (21 7/8 x 31 1/8 in.); overall: 56.3 x 81 cm (22 3/16 x 31 7/8 in.). The Cleveland Museum of Art, Gift of George P. Bickford, 1966.143",
+      "current_location": null,
+      "title": "Ravana addresses Sita in the garden of Lanka, from Chapters 53 and 54 of the Aranya Kanda (Book of the Forest) of a Ramayana (Rama’s Journey)",
+      "creation_date": "c. 1725",
+      "creation_date_earliest": 1720,
+      "creation_date_latest": 1730,
+      "artists_tags": [],
+      "culture": [
+        "Northern India, Pahari kingdoms"
+      ],
+      "technique": "Gum tempera, gold, and silver on paper",
+      "support_materials": [],
+      "department": "Indian and Southeast Asian Art",
+      "collection": "Indian Art",
+      "type": "Painting",
+      "measurements": "Painting: 55.5 x 79 cm (21 7/8 x 31 1/8 in.); Overall: 56.3 x 81 cm (22 3/16 x 31 7/8 in.)",
+      "dimensions": {
+        "painting": {
+          "height": 0.555,
+          "width": 0.79
+        },
+        "overall": {
+          "height": 0.563,
+          "width": 0.81
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 222298,
+            "title": "The Rama Epic: Hero, Heroine, Ally, Foe",
+            "description": "<i>The Rama Epic: Hero, Heroine, Ally, Foe</i>. Asian Art Museum of San Francisco, San Francisco, CA (organizer) (October 21, 2016-January 15, 2017).",
+            "opening_date": "2016-10-21T04:00:00"
+          },
+          {
+            "id": 293147,
+            "title": "Indian Gallery 242 Rotation – April-November 2017",
+            "description": "<i>Indian Gallery 242 Rotation – April-November 2017</i>. The Cleveland Museum of Art (organizer) (April 10-November 6, 2017).",
+            "opening_date": "2017-04-10T04:00:00"
+          },
+          {
+            "id": 457592,
+            "title": "Imagining Rama’s Journey",
+            "description": "<i>Imagining Rama’s Journey</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 10-September 17, 2023).",
+            "opening_date": "2023-03-09T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "<em>Rajput Painting</em>. Asia House, New York, NY (December 3, 1960-January 22, 1961).",
+            "opening_date": "1960-12-03T05:00:00Z"
+          },
+          {
+            "description": "<em>Hindu and Muslim Art of India</em>. Duke University Museum of Art, Durham, NC (February 20-April 20, 1985); Dixon Gallery and Gardens, Memphis, TN (May 1-June 1, 1985); J.B. Speed Museum, Louisville, KY (July 10-August 30, 1985).",
+            "opening_date": "1985-02-20T05:00:00Z"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Raja Raghunath Singh of Guler",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "Ananda K. Coomaraswamy [1877–1947]",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "George P. Bickford [1901–1991] and Clara Louise Gehring Bickford [1903–1985], Cleveland Heights, OH, given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–1966",
+          "sortorder": 3
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "1966–",
+          "sortorder": 4
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Ravana’s wives take the forms of beautiful women and fearsome demonesses.",
+      "description": "The viewer is cut off from Lanka by the surrounding sea and the city’s golden walls in this expansive composition probably intended for courtly display This choice of perspective cleverly emphasizes the captivity of the Sita, faithful wife of the hero Rama. She kneels beneath an <em>ashoka</em> tree, guarded by demonesses. The princess’s abductor, the 10-headed and 20-armed demon lord of Lanka, Ravana, appears twice in the image. In the palace, he consults his council of minions. At the right, he hears Sita’s refusal to marry him. Ravana neither harms her, nor sets her free.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60469558"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1966.143-ravana-addresses-sit"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Jain-Neubauer, Jutta. <em>The Ramayana in Pahari Miniature Painting</em>. Ahmedabad: LD Institute of Indology, 1981.",
+          "page_number": "Reproduced: no. 5, plate XI, fig. 22, pp. 38-39.",
+          "url": ""
+        },
+        {
+          "citation": "Gilbert, Rita, and William McCarter. <em>Living with Art</em>. New York: Alfred A Knopf, Inc., 1988. 2nd edition.",
+          "page_number": "Reproduced: fig. 66, p. 60.",
+          "url": ""
+        },
+        {
+          "citation": "Diane de Selliers, ed., <em>Rāmāyaṇa</em>. Volume V. Paris, 2011.",
+          "page_number": "Reproduced: p. 59.",
+          "url": ""
+        },
+        {
+          "citation": "Lee, Sherman E. <em>A History of Far Eastern Art. </em>New York: H. N. Abrams, 1994. 5th edition.",
+          "page_number": "Reproduced: p. 215, color plate 24.",
+          "url": ""
+        },
+        {
+          "citation": "Lee, Sherman E. and George Montgomery. <em>Rajput Painting; with an introductory essay and catalogue notes</em>. New York: Asia House, 1960.",
+          "page_number": "Reproduced: cat. no. 73A, pp. 76-77",
+          "url": null
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+          "page_number": "Reproduced: p. 239",
+          "url": "https://archive.org/details/CMAHandbook1966/page/n263"
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+          "page_number": "Reproduced: p. 239",
+          "url": "https://archive.org/details/CMAHandbook1969/page/n263"
+        },
+        {
+          "citation": "Archer, W. G. <em>Indian Paintings from the Punjab Hills; A Survey and History of Pahari Miniature Painting</em>. London: Sotheby Parke Bernet, 1973.",
+          "page_number": "Mentioned: 1: 146",
+          "url": null
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+          "page_number": "Reproduced: p. 309",
+          "url": "https://archive.org/details/CMAHandbook1978/page/n329"
+        },
+        {
+          "citation": "Leach, Linda York. <em>Indian Miniature Paintings and Drawings</em>. Cleveland, OH: Cleveland Museum of Art in cooperation with Indiana University Press, 1986.",
+          "page_number": "Reproduced: cat. no. 113",
+          "url": null
+        },
+        {
+          "citation": "Cunningham, Michael R., Stanislaw J. Czuma, Anne E. Wardwell, and J. Keith Wilson. <em>Masterworks of Asian Art</em>. Cleveland, OH: The Cleveland Museum of Art, 1998.",
+          "page_number": "Reproduced:  pp. 172-173",
+          "url": null
+        },
+        {
+          "citation": "Takac Panza, Jane \"Mr. Bickford's Asian Adventures\", Cleveland Museum of Art. <em>Cleveland Art: The Cleveland Museum of Art Members Magazine</em>. Vol. 46 no. 05, May/June 2006",
+          "page_number": "Mentioned & reproduced: p. 11",
+          "url": "https://archive.org/details/CMAMM2006-05/page/10"
+        },
+        {
+          "citation": "Brommer, Gerald F. <em>Discovering Art History</em>. Worcester, MA: Davis Publications, 2007.",
+          "page_number": "Reproduced: fig. 4-8",
+          "url": null
+        },
+        {
+          "citation": "Goswamy, B. N.<em> Manaku of Guler: The Life and Work of Another Great Indian Painter from a Small Hill State.</em> New Delhi: Artibus Asiae Publishers [with] Niyogi Books, 2017.",
+          "page_number": "Reproduced: p. 67, cat. C5",
+          "url": null
+        },
+        {
+          "citation": "Dixit, Rita. \"Tracing Rama's Footsteps: Through Lanka's Landscape.\" <em>Asian Art: the Newspaper for Collectors, Dealers, Museums and Galleries</em> 24, i. 4 (March 2021): 12–13.",
+          "page_number": "Reproduced: p. 12",
+          "url": ""
+        },
+        {
+          "citation": "Biardeau, Madeleine, and Porcher, Marie-Claude. <em>Rāmāyaṇa: Illustré par les Miniatures Indiennes du XVIe au XIXe Siècle. </em>Pairs: Diane de Selliers, 2024.",
+          "page_number": "Mentioned and Reproduced: p. 246-247.",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1966.143",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1966.143/1966.143_web.jpg",
+          "width": "900",
+          "height": "641",
+          "filesize": "336991",
+          "filename": "1966.143_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1966.143/1966.143_print.jpg",
+          "width": "3400",
+          "height": "2420",
+          "filesize": "3625333",
+          "filename": "1966.143_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1966.143/1966.143_full.tif",
+          "width": "15919",
+          "height": "11331",
+          "filesize": "541172876",
+          "filename": "1966.143_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2010-05-07T18:34:46",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1966.143/1966.143_alt0_web.jpg",
+            "width": "1252",
+            "height": "893",
+            "filesize": "972056"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1966.143/1966.143_alt0_print.jpg",
+            "width": "3400",
+            "height": "2425",
+            "filesize": "7517748"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1966.143/1966.143_alt0_full.tif",
+            "width": "6292",
+            "height": "4489",
+            "filesize": "84764716"
+          }
+        },
+        {
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1966.143/1966.143_alt1_web.jpg",
+            "width": "1260",
+            "height": "893",
+            "filesize": "1051453"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1966.143/1966.143_alt1_print.jpg",
+            "width": "2048",
+            "height": "1452",
+            "filesize": "2798828"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1966.143/1966.143_alt1_full.tif",
+            "width": "2048",
+            "height": "1452",
+            "filesize": "8924172"
+          }
+        },
+        {
+          "date_created": "2010-05-07T18:41:56",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1966.143/1966.143_alt2_web.jpg",
+            "width": "1142",
+            "height": "893",
+            "filesize": "943008"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1966.143/1966.143_alt2_print.jpg",
+            "width": "3400",
+            "height": "2659",
+            "filesize": "8019528"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1966.143/1966.143_alt2_full.tif",
+            "width": "6332",
+            "height": "4952",
+            "filesize": "94099796"
+          }
+        },
+        {
+          "date_created": "2010-05-07T18:48:12",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1966.143/1966.143_alt3_web.jpg",
+            "width": "661",
+            "height": "893",
+            "filesize": "579991"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1966.143/1966.143_alt3_print.jpg",
+            "width": "2515",
+            "height": "3400",
+            "filesize": "8704736"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1966.143/1966.143_alt3_full.tif",
+            "width": "4729",
+            "height": "6391",
+            "filesize": "90701628"
+          }
+        }
+      ],
+      "creditline": "Gift of George P. Bickford",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 142315,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1966-05-25T00:00:00",
+      "sortable_date": 1720,
+      "date_added_to_oa": null,
+      "date_text": "c. 1725",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": "In this large painting on paper, a subdued Sita is depicted in a lush garden surrounded by her captors, a golden castle wall, and a moat. Prior to entering the CMA collection, the painting had incurred several losses to the image whereby the surface layers—paint and paper—were skinned away. In 1984, losses at the perimeter of the composition were structurally repaired and partially retouched for better visual integration, but noticeable losses remained in the spikes on the castle wall and grassy lawn. The conspicuous location of the loss in front of the kneeling Sita and in line with her downward gaze has caused viewers to wonder if something relating to the narrative—and the object of Sita’s attention—had been purposely effaced. With the advantage of being able to inspect the painting closely, there was no question that the location of the loss was accidental and its character entirely consistent with the other major structural damages scattered in the painting, all likely caused by something becoming stuck to the surface and then roughly pulled away. To prevent misinterpretation, a structural and cosmetic conservation treatment was designed to restore visual continuity to the grassy lawn as much as possible. Treatment entailed the following steps: 1) cleaning the area of loss to remove accumulated surface dirt, 2) building up the substrate to receive a toned paper insert that when precisely positioned and adhered would lie flush with the surface, and 3) further disguising the pre-toned insert with inpainting. As is often the case with inpainting, visually tying the repair into the surrounding original material was most challenging where the surrounding material was also altered. This discontinuity is apparent above the insert where the green had been altered to have a bluish cast and below the insert where the green had perhaps shifted to a darker, brown-tinged hue.",
+      "has_conservation_images": true,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Sita in the Garden of Lanka with Ravana and His Demons. The Siege of the Lanka Sequence from the Ramayana",
+        "Sita in the Garden of Lanka, From the Ramayana epic of Valmiki"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:46.265000"
+    },
+    {
+      "id": 119455,
+      "accession_number": "1940.340.1",
+      "share_license_status": "CC0",
+      "tombstone": "Christ in the Garden of Gethsemane, 1522–26. Everhard Rensig (German), or Gerhard Remisch (German). Pot-metal and white glass, silver stain and sanguine; overall: 73.7 x 71.8 cm (29 x 28 1/4 in.). The Cleveland Museum of Art, Gift of S. Livingstone Mather, Constance Mather Bishop, Philip R. Mather, Katherine Hoyt Cross, and Katherine Mather McLean in accordance with the wishes of Samuel Mather, 1940.340.1",
+      "current_location": "111 German and Austrian Gothic",
+      "title": "Christ in the Garden of Gethsemane",
+      "creation_date": "1522–26",
+      "creation_date_earliest": 1522,
+      "creation_date_latest": 1526,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Germany, Cologne, 16th century"
+      ],
+      "technique": "pot-metal and white glass, silver stain and sanguine",
+      "support_materials": [],
+      "department": "Medieval Art",
+      "collection": "MED - Renaissance",
+      "type": "Glass",
+      "measurements": "Overall: 73.7 x 71.8 cm (29 x 28 1/4 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.737,
+          "width": 0.718
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 231527,
+            "title": "Splendour and Glory of the Middle Ages: Cologne's Masterpieces from the World's Great Collections",
+            "description": "<i>Splendour and Glory of the Middle Ages: Cologne's Masterpieces from the World's Great Collections</i>. Museum Schnütgen, Cologne, Germany (organizer) (November 4, 2011-February 26, 2012).",
+            "opening_date": "2011-11-04T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Museum Schnutgen, Cologne (11/4/2011 - 2/26/2012):  \"Splendour and Glory of the Middle Ages: Cologne's Masterpieces from the World's Great Collections\", fig. 165, p. 401-402.",
+            "opening_date": "2011-11-04T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Samuel Mather, Cleveland, Ohio.",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "These two stained glass panels originally belonged to an extensive program of Old and New Testament subjects that originally decorated the cloister of the Cistercian Abbey of Mariawald, near Cologne, Germany. The original placement of glass at Mariawald involved windows composed of two openings. Each comprised three large glass panels plus a smaller tracery panel. Two scenes in each window represented Old Testament subjects (below) and the New Testament (above). Above the biblical narrative panels were smaller messenger panels depicting images of prophets with scrolls. At the base of each window were donor and patron saint panels. In this way, the Old Testament was shown to prefigure the events of the New. These two panels depicting scenes of Christ’s Passion were originally located in the north corner of the east cloister gallery with the Kiss of Judas on the left, and Christ in Gethsemane on the right. Mariawald was founded in 1480 and closed in 1802 when the stained glass windows were removed. Other panels from the series are preserved in the Victoria and Albert Museum, London. Recent scholarship has attributed the glass to the Rhenish glass painters Everhard Rensig or Gerhard Remisch.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60759146"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1940.340.1-christ-in-the-garden"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Milliken. William. \"Objects from the Samuel Mather Collection.\" <em>The Bulletin of the Cleveland Museum of Art </em>28, no. 3 (March 1941): 36-40.",
+          "page_number": "Mentioned: p. 39",
+          "url": "https://www.jstor.org/stable/25140911"
+        }
+      ],
+      "url": "https://clevelandart.org/art/1940.340.1",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1940.340.1/1940.340.1_web.jpg",
+          "width": "802",
+          "height": "893",
+          "filesize": "633356",
+          "filename": "1940.340.1_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1940.340.1/1940.340.1_print.jpg",
+          "width": "3055",
+          "height": "3400",
+          "filesize": "7794293",
+          "filename": "1940.340.1_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1940.340.1/1940.340.1_full.tif",
+          "width": "5394",
+          "height": "6003",
+          "filesize": "97178908",
+          "filename": "1940.340.1_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2007-02-06T18:00:30",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1940.340.1/1940.340.1_alt0_web.jpg",
+            "width": "813",
+            "height": "893",
+            "filesize": "574777"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1940.340.1/1940.340.1_alt0_print.jpg",
+            "width": "3095",
+            "height": "3400",
+            "filesize": "7296323"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1940.340.1/1940.340.1_alt0_full.tif",
+            "width": "5402",
+            "height": "5934",
+            "filesize": "96200972"
+          }
+        }
+      ],
+      "creditline": "Gift of S. Livingstone Mather, Constance Mather Bishop, Philip R. Mather, Katherine Hoyt Cross, and Katherine Mather McLean in accordance with the wishes of Samuel Mather",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 119455,
+      "creators": [
+        {
+          "id": 63194,
+          "description": "Everhard Rensig (German)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 63197,
+          "description": "Gerhard Remisch (German)",
+          "extent": null,
+          "qualifier": "or",
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1940-07-12T00:00:00",
+      "sortable_date": 1522,
+      "date_added_to_oa": null,
+      "date_text": "1522–26",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "1940.340",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:52.131000"
+    },
+    {
+      "id": 615498,
+      "accession_number": "2023.139",
+      "share_license_status": "Copyrighted",
+      "tombstone": "University Circle: Cleveland Botanical Garden, Western Reserve Herb Society Garden, 2007, printed 2008. Garie Waltzer (American, 1947-). Inkjet print; image: 33 x 33 cm (13 x 13 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, 2023.139",
+      "current_location": null,
+      "title": "Cleveland Botanical Garden, Western Reserve Herb Society Garden",
+      "series": "University Circle",
+      "creation_date": "2007, printed 2008",
+      "creation_date_earliest": 2007,
+      "creation_date_latest": 2007,
+      "artists_tags": [
+        "female",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "inkjet print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 33 x 33 cm (13 x 13 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.33,
+          "width": 0.33
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Garie Waltzer (the artist) [1947–], Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation Collection, Cleveland, OH, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007–23",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 11, 2023–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Cleveland’s University Circle neighborhood, which encompasses around 550 acres, contains numerous institutions and businesses that employ 30,000 people.",
+      "description": "Cleveland artist Garie Waltzer was commissioned to photograph University Circle for the Gund Foundation Annual Report in 2007. Her densely toned black-and-white photographs, many shot from elevated vantage points and employing deep vistas, reveal the Circle’s underlying structure: a graceful interweaving of nature and architecture united by elegantly drawn circulation patterns to produce a harmonious convergence of place and populace.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q123115893"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "George Gund Foundation, and Garie Waltzer. The George Gund Foundation: 2007 Annual Report. Cleveland: George Gund Foundation, 2007.",
+          "page_number": null,
+          "url": "https://gundfoundation.org/wp-content/uploads/2019/11/Gund-Annual-Report-2007.pdf"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2023.139",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The George Gund Foundation Collection in honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 615498,
+      "creators": [
+        {
+          "id": 54764,
+          "description": "Garie Waltzer (American, 1947-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2023-09-11T04:00:00Z",
+      "sortable_date": 2007,
+      "date_added_to_oa": null,
+      "date_text": "2007, printed 2008",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:22.899000"
+    },
+    {
+      "id": 140288,
+      "accession_number": "1964.257",
+      "share_license_status": "CC0",
+      "tombstone": "Dish with Figures in a Chinese Garden (唐庭人物図皿), 1700s. Japan, Edo period (1615–1868). Porcelain with underglaze blue and overglaze color enamel and gold, with iron oxide rim (Arita ware); height: 3.2 cm (1 1/4 in.); diameter: 21 cm (8 1/4 in.). The Cleveland Museum of Art, Severance and Greta Millikin Collection, 1964.257",
+      "current_location": null,
+      "title": "Dish with Figures in a Chinese Garden",
+      "title_in_original_language": "唐庭人物図皿",
+      "creation_date": "1700s",
+      "creation_date_earliest": 1700,
+      "creation_date_latest": 1799,
+      "artists_tags": [],
+      "culture": [
+        "Japan, Edo period (1615–1868)"
+      ],
+      "technique": "Porcelain with underglaze blue and overglaze color enamel and gold, with iron oxide rim (Arita ware)",
+      "support_materials": [],
+      "department": "Japanese Art",
+      "collection": "Japanese Art",
+      "type": "Ceramic",
+      "measurements": "height: 3.2 cm (1 1/4 in.); Diameter: 21 cm (8 1/4 in.)",
+      "dimensions": {
+        "diameter": {
+          "width": 0.21
+        },
+        "height": {
+          "height": 0.032
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "長憶湖江南三月裏、鷓鴣啼処百花香",
+          "inscription_translation": "I always remember the spring (latter part of the third month) in Jiangnan. Where the partridges sing; how fragrant the countless flowers!",
+          "inscription_remark": "The poem is from The Gateless Gate (Wuwen kuan in Chinese and Mumonkan in Japanese), a text compiled by the Chinese Chan (Zen) master Wumen Huihai (1183–1260).",
+          "sortorder": 1
+        },
+        {
+          "inscription": "大明嘉靖年製",
+          "inscription_translation": "Apocryphal inscription in the footring reading \"Da Ming Jiajing nianzhi\" (Made in the Great Ming dynasty, Jiajing reign, 1522–66)",
+          "inscription_remark": null,
+          "sortorder": 2
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 445746,
+            "title": "200 Years of Japanese Porcelain",
+            "description": "<i>200 Years of Japanese Porcelain</i>. Saint Louis Art Museum, St. Louis, MO (organizer) (October 9-November 15, 1970); The Nelson-Atkins Museum of Art, Kansas City, MO (December 3-27, 1970).",
+            "opening_date": "1970-10-09T04:00:00"
+          },
+          {
+            "id": 310300,
+            "title": "The Severance and Greta Millikin Collection",
+            "description": "<i>The Severance and Greta Millikin Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 5-September 2, 1990).",
+            "opening_date": "1990-07-05T04:00:00"
+          },
+          {
+            "id": 197104,
+            "title": "The Lure of Painted Poetry: Japanese and Korean Art",
+            "description": "<i>The Lure of Painted Poetry: Japanese and Korean Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 15-August 21, 2011).",
+            "opening_date": "2011-03-27T00:00:00"
+          },
+          {
+            "id": 450266,
+            "title": "To the River's South in Japanese Painting",
+            "description": "<i>To the River's South in Japanese Painting</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 15, 2023-June 2, 2024).",
+            "opening_date": "2023-12-15T05:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Harry C. Nail, Jr. [1909–1990], Palo Alto, CA, sold to Severance and Greta Millikin)",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1960",
+          "sortorder": null
+        },
+        {
+          "description": "Severance A. [1895–1985] and Greta [Marguerite Steckerl] Millikin [1903–1989], Cleveland, OH, given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "1960–1964",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1964–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "This dish is inscribed with a poem from <em>The Gateless Gate</em>, a text compiled by Chinese Chan (Zen) master Wumen Huikai (1183–1260). The verse reads, “I always remember the spring in Jiangnan. Where the partridges sing; how fragrant the countless flowers!”",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80038299"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1964.257-dish-with-figures-in"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Cleveland, Richard S. <em>200 Years of Japanese Porcelain; [Exhibition]</em>. St. Louis: City Art Museum of St. Louis, 1970.",
+          "page_number": "Reproduced: p. 158, pl. 49",
+          "url": ""
+        },
+        {
+          "citation": "<em>Catalogue of the Severance and Greta Millikin Collection</em>. Cleveland, OH: Cleveland Museum of Art, 1990.",
+          "page_number": "Mentioned: cat. no. 111, p. 80",
+          "url": ""
+        },
+        {
+          "citation": "Sŏn, Sŭng-hye. <em>The Lure of Painted Poetry: Japanese and Korean Art</em>. Cleveland, OH: Cleveland Museum of Art, 2011.",
+          "page_number": "Mentioned and reproduced: p. 23, no. 12",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1964.257",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1964.257/1964.257_web.jpg",
+          "width": "952",
+          "height": "893",
+          "filesize": "640779",
+          "filename": "1964.257_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1964.257/1964.257_print.jpg",
+          "width": "3400",
+          "height": "3189",
+          "filesize": "8072594",
+          "filename": "1964.257_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1964.257/1964.257_full.tif",
+          "width": "4883",
+          "height": "4580",
+          "filesize": "67123564",
+          "filename": "1964.257_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2010-10-13T19:05:32",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1964.257/1964.257_alt0_web.jpg",
+            "width": "900",
+            "height": "861",
+            "filesize": "224530"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1964.257/1964.257_alt0_print.jpg",
+            "width": "3400",
+            "height": "3251",
+            "filesize": "1733074"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1964.257/1964.257_alt0_full.tif",
+            "width": "4761",
+            "height": "4552",
+            "filesize": "65042768"
+          }
+        }
+      ],
+      "creditline": "Severance and Greta Millikin Collection",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 140288,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1964-06-09T00:00:00",
+      "sortable_date": 1700,
+      "date_added_to_oa": null,
+      "date_text": "1700s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Dish with Chinese Figures in a Garden: Ko Imari Type",
+        "Dish with Figures in a Garden"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:16.846000"
+    },
+    {
+      "id": 164655,
+      "accession_number": "2006.148",
+      "share_license_status": "CC0",
+      "tombstone": "Illuminated Folio from a Gulistan (Rose Garden) of Sa'di (c. 1213–1291), c. 1475–1500; border: c. 1550. Style of Sultan Muhammad (Iranian), style of Sultan 'Ali al-Mashadi (Iranian, 1430–1520). Gum tempera, ink, gold, and silver on paper. The Cleveland Museum of Art, Gift of William Kelly Simpson in memory of his wife Marilyn M. Simpson and her grandparents Mr. and Mrs. John D. Rockefeller Jr., 2006.148",
+      "current_location": null,
+      "title": "Illuminated Folio from a Gulistan (Rose Garden) of Sa'di (c. 1213–1291)",
+      "creation_date": "c. 1475–1500; border: c. 1550",
+      "creation_date_earliest": 1465,
+      "creation_date_latest": 1560,
+      "artists_tags": [
+        "gender unknown",
+        "male"
+      ],
+      "culture": [
+        "Iran, Tabriz, Safavid period (1501-1722)"
+      ],
+      "technique": "Gum tempera, ink, gold, and silver on paper",
+      "support_materials": [],
+      "department": "Islamic Art",
+      "collection": "Islamic Art",
+      "type": "Manuscript",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": [
+          {
+            "description": "<a href=\"https://athena.clevelandart.org/Entity/Edit/294015\"><em>Arts of Iran (Islamic art rotation)</em>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 30, 2018-October 28, 2019).</a> (2006.148.1 only),",
+            "opening_date": "2018-10-30T04:00:00Z"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "William Kelly Simpson [1928–2017], Katonah, NY, given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–2006",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "2006–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Written in both prose and verse, the <em>Gulistan </em>was used for centuries as a primer for schoolchildren in greater Iran, India, and Turkey.",
+      "description": "In the border surrounding the Persian poetical text, deer and a lion coexist peacefully in a forest. This imagery may reference the rule of a righteous king. <br><br>The text is from the <em>Gulistan</em>, one of the most celebrated works of Persian literature, completed around 1258. <em>Gulistan</em> means “Rose Garden” in Persian; just as a rose garden is a collection of flowers, the contents are a collection of anecdotes. This page is from the section “On the Conduct of Kings.”",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60762180"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2006.148-illuminated-folio-fr"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Canby, Sheila R. <em>The Golden Age of Persian Art: 1501-1722. </em>London: British Museum, 2008.",
+          "page_number": "Mentioned: pp. 58-59.",
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/2006.148",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2006.148/2006.148_web.jpg",
+          "width": "575",
+          "height": "900",
+          "filesize": "290660",
+          "filename": "2006.148_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2006.148/2006.148_print.jpg",
+          "width": "2174",
+          "height": "3400",
+          "filesize": "3112192",
+          "filename": "2006.148_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2006.148/2006.148_full.tif",
+          "width": "4193",
+          "height": "6558",
+          "filesize": "82523940",
+          "filename": "2006.148_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Gift of William Kelly Simpson in memory of his wife Marilyn M. Simpson and her grandparents Mr. and Mrs. John D. Rockefeller Jr.",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 164655,
+      "creators": [
+        {
+          "id": 59129,
+          "description": "Sultan Muhammad (Iranian)",
+          "extent": null,
+          "qualifier": "style of",
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 289594,
+          "description": "Sultan 'Ali al-Mashadi (Iranian, 1430–1520)",
+          "extent": null,
+          "qualifier": "style of",
+          "role": "calligrapher",
+          "biography": "Persian calligrapher, active ca. 1453-1519, died 1520",
+          "name_in_original_language": null,
+          "birth_year": "1430",
+          "death_year": "1520",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2006-09-05T00:00:00",
+      "sortable_date": 1465,
+      "date_added_to_oa": null,
+      "date_text": "c. 1475–1500; border: c. 1550",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "cover",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Illuminated Folio from the Gulistan of Sadi"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:59.883000"
+    },
+    {
+      "id": 157339,
+      "accession_number": "1994.201",
+      "share_license_status": "CC0",
+      "tombstone": "The Tiber, Tuileries Garden, Paris, 1859. Charles Nègre (French, 1820–1880). Albumen print from wet collodion negative; image: 36.5 x 44.6 cm (14 3/8 x 17 9/16 in.); matted: 55.9 x 66 cm (22 x 26 in.). The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund, 1994.201",
+      "current_location": null,
+      "title": "The Tiber, Tuileries Garden, Paris",
+      "creation_date": "1859",
+      "creation_date_earliest": 1859,
+      "creation_date_latest": 1859,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "albumen print from wet collodion negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "Photography",
+      "type": "Photograph",
+      "measurements": "Image: 36.5 x 44.6 cm (14 3/8 x 17 9/16 in.); Matted: 55.9 x 66 cm (22 x 26 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.365,
+          "width": 0.446
+        },
+        "matted": {
+          "height": 0.559,
+          "width": 0.66
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \" 4/21/81 LM  FH80.655\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 311875,
+            "title": "Legacy of Light: Master Photographs from the Cleveland Museum of Art",
+            "description": "<i>Legacy of Light: Master Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 24, 1996-February 2, 1997).",
+            "opening_date": "1996-11-24T05:00:00"
+          },
+          {
+            "id": 178867,
+            "title": "Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art",
+            "description": "<i>Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 26-June 16, 2005).",
+            "opening_date": "2005-02-26T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, November 20,1996 - February 2, 1997: \"Legacy of Light: Master Photographs from the Cleveland Museum of Art.\"",
+            "opening_date": "1997-02-02T00:00:00"
+          },
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; February 26 - June 16, 2005 . \"Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art\".",
+            "opening_date": "2005-02-26T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Charles Nègre, a history painter by training, was a pioneering 19th-century French photographer. In 1859 he received government support to produce a series of fifty images of statuary in Paris's Tuileries Gardens. Although the project was never completed, Nègre did create a group of large-format glass negatives. This photograph represents one of a small number of unique prints from those negatives. The Tiber, a late 17th-century stone sculpture of the river god Tiber, is one of the garden's four water sculptures depicting water deities.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79973469"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1994.201-the-tiber-tuileries"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, “New Acquisitions Enter the Cleveland Museum of Art’s Permanent Collection,” February 14, 1995, Cleveland Museum of Art Archives.",
+          "page_number": null,
+          "url": "https://archive.org/details/cmapr3939/page/n1"
+        },
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 254",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1994.201",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1994.201/1994.201_web.jpg",
+          "width": "1138",
+          "height": "893",
+          "filesize": "714142",
+          "filename": "1994.201_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1994.201/1994.201_print.jpg",
+          "width": "3400",
+          "height": "2668",
+          "filesize": "5379330",
+          "filename": "1994.201_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1994.201/1994.201_full.tif",
+          "width": "5000",
+          "height": "3923",
+          "filesize": "58880540",
+          "filename": "1994.201_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Leonard C. Hanna Jr. Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 157339,
+      "creators": [
+        {
+          "id": 730,
+          "description": "Charles Nègre (French, 1820–1880)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Charles Nègre French, 1820-1880\r\n\r\nA key figure in early French photography, Charles Nègre provides a link to photography's roots in painting and other visual arts. Nègre (born in Grasse) was a successful painter who had studied with Paul Delaroche, Michel Drolling, and Jean-Dominique Ingres. Beginning in 1843 he exhibited his work in various salons, winning high awards in 1851-52. His paintings were praised and purchased by, among others, Napoléon III.\r\n\tLike many other 19th-century artists, Nègre initially began making photographs to aid his painting. In 1844 he produced several daguerreotypes before later switching to calotypes. He soon developed a personal style, using the textured quality of the paper negative to subordinate detail to overall effect in his images, an approach he continued in various media throughout his career. Among Nègre's innovative subjects were street scenes that combined an intimacy of vision with the immediacy of urban life, presented with a painter's attention to composition. Many of these were presented in an 1851 exhibition of the Société heliographique. A founding member of the Société française de photographie, he was also a consummate architectural photographer, receiving numerous government commissions.\r\n\tNègre's technical innovations, especially in the photogravure process, a subject on which he was an acknowledged authority, contributed to the development of photography. He never gave up his painting, however, and became a drawing master at the Lycée Impérial in Nice after moving there in 1863 for health reasons. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1820",
+          "death_year": "1880",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1994-12-06T00:00:00",
+      "sortable_date": 1859,
+      "date_added_to_oa": null,
+      "date_text": "1859",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 16:32:41.147000"
+    },
+    {
+      "id": 120228,
+      "accession_number": "1940.989",
+      "share_license_status": "CC0",
+      "tombstone": "The Snowy Garden, 1854. Utagawa Hiroshige (Japanese, 1797–1858), and Utagawa Kunisada (Japanese, 1786–1865). Triptych of color woodblock prints, ink and color on paper; sheet: 35.6 x 75 cm (14 x 29 1/2 in.). The Cleveland Museum of Art, Bequest of James Parmelee, 1940.989",
+      "current_location": null,
+      "title": "The Snowy Garden",
+      "creation_date": "1854",
+      "creation_date_earliest": 1854,
+      "creation_date_latest": 1854,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Japan, Edo period (1615–1868)"
+      ],
+      "technique": "Triptych of color woodblock prints, ink and color on paper",
+      "support_materials": [],
+      "department": "Japanese Art",
+      "collection": "Japanese Art",
+      "type": "Print",
+      "measurements": "Sheet: 35.6 x 75 cm (14 x 29 1/2 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.356,
+          "width": 0.75
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Artists' Signatures: Toyokuni ga (right and left panel); sekkei oju Hiroshige hitsu (center panel).\nArtist's Seal: Ichiyrusai (center panel).",
+          "inscription_translation": null,
+          "inscription_remark": "The word sekkei before Hiroshige's signature means \"the snow view.\"",
+          "sortorder": 1
+        },
+        {
+          "inscription": "Publisher: Moriya Jisuke (Moriji, Ba 2, emblem).\nCensorship seal: aratame.",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": 2
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 295386,
+            "title": "Japanese Gallery 235 Rotation",
+            "description": "<i>Japanese Gallery 235 Rotation</i>. The Cleveland Museum of Art (March 27-July 10, 2017).",
+            "opening_date": "2017-03-27T04:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "<em>Later Japanese Art Rotation (Gallery 113)</em>. The Cleveland Museum of Art, Cleveland, OH (December 4, 2003-March 18, 2004).",
+            "opening_date": "2003-12-04T05:00:00Z"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "James Parmelee [1855–1931], Cleveland, OH and Washington, DC, bequest to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1940",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1940–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "These prints depict an episode from <em>A Rustic Genji</em>, a Japanese graphic novel based on the 11th-century classic <em>The Tale of Genji</em>. Three maidservants are making a giant snow rabbit while the protagonist of A Rustic Genji, Ashikaga Jiro Mitsuuji, stands in the snow with a woman who is possibly his lover. Stylistic hallmarks tell us that Utagawa Kunisada was responsible for the figures and the giant snow rabbit and Utagawa Hiroshige designed the background landscape. This collaboration—both artists signed the prints—on a <em>Genji</em>-related work targeted a broader audience by capitalizing on each artist’s individual strengths.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80015667"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1940.989-the-snowy-garden"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Milliken, William M., Henry S. Francis, Howard Hollis, Gertrude Underhill, Silvia A. Wunderlich, and Nell G. Sill. “The Bequest of James Parmelee.” <em>The Bulletin of the Cleveland Museum of Art</em> 28, no. 2 (February 1941): 15–31.",
+          "page_number": "",
+          "url": "https://www.jstor.org/stable/25140904"
+        },
+        {
+          "citation": "Baatsch, Henri-Alexis, and Hiroshige Andō. <em>Hiroshige.</em> London: Thames &amp; Hudson, 2025.",
+          "page_number": "Reproduced: pp. 212–213; Mentioned: p. 222",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1940.989",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1940.989/1940.989_web.jpg",
+          "width": "900",
+          "height": "440",
+          "filesize": "190349",
+          "filename": "1940.989_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1940.989/1940.989_print.jpg",
+          "width": "3400",
+          "height": "1664",
+          "filesize": "2061716",
+          "filename": "1940.989_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1940.989/1940.989_full.tif",
+          "width": "7805",
+          "height": "3820",
+          "filesize": "89475660",
+          "filename": "1940.989_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Bequest of James Parmelee",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 120228,
+      "creators": [
+        {
+          "id": 50381,
+          "description": "Utagawa Hiroshige (Japanese, 1797–1858)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "歌川 広重",
+          "birth_year": "1797",
+          "death_year": "1858",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 30882,
+          "description": "Utagawa Kunisada (Japanese, 1786–1865)",
+          "extent": null,
+          "qualifier": "and",
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "歌川 国貞",
+          "birth_year": "1786",
+          "death_year": "1865",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1940-10-30T00:00:00",
+      "sortable_date": 1854,
+      "date_added_to_oa": null,
+      "date_text": "1854",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "The Snowy Garden (from the series Prince Genji of the East)"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-04-01 14:04:20.173000"
+    },
+    {
+      "id": 150950,
+      "accession_number": "1982.355",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Flower Garden, 1963. Sadao Watanabe (Japanese, 1913–1996). Dyed paper stencil. The Cleveland Museum of Art, Gift of Mr. and Mrs. William E. Ward, 1982.355",
+      "current_location": null,
+      "title": "Flower Garden",
+      "creation_date": "1963",
+      "creation_date_earliest": 1963,
+      "creation_date_latest": 1963,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Japan"
+      ],
+      "technique": "dyed paper stencil",
+      "support_materials": [],
+      "department": "Prints",
+      "collection": "PR - Stencil (pouchoir)",
+      "type": "Print",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 309669,
+            "title": "The Year in Review for 1983",
+            "description": "<i>The Year in Review for 1983</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 22-April 8, 1984).",
+            "opening_date": "1984-02-22T05:00:00"
+          },
+          {
+            "id": 310104,
+            "title": "A Tradition Transformed: Japanese Prints, 1947-1987",
+            "description": "<i>A Tradition Transformed: Japanese Prints, 1947-1987</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 9-April 24, 1988).",
+            "opening_date": "1988-02-09T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA Bulletin, LXXI (February 1984), p. 76, no. 212",
+            "opening_date": "1984-02-01T00:00:00"
+          },
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; December 12, 2004- April 10, 2005. \"Visions of Japan: Prints and Paintings from Cleveland Collections\".",
+            "opening_date": "2004-12-12T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Mr. and Mrs. William E. Ward, Solon",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Watanabe is associated with the Japanese folk art movement\r\nthat admired traditional crafts, like stencil, for their\r\nunpretentiousness. Here, Watanabe employed wrinkled\r\nhandmade paper, commonly used for book covers and\r\nendpapers, to add texture to the broad areas of flat color and\r\nto emphasize the rough, handcrafted quality of his prints.\r\nThe unsophisticated, folk-like images allude to early Japanese\r\nBuddhist prints, in which black lines, rich color contrasts,\r\nand simple naïve forms are paramount. Being a Christian,\r\nWatanabe often chose religious themes from the Bible.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79933998"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1982.355",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Mr. and Mrs. William E. Ward",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 150950,
+      "creators": [
+        {
+          "id": 34350,
+          "description": "Sadao Watanabe (Japanese, 1913–1996)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1913",
+          "death_year": "1996",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1983-03-07T00:00:00",
+      "sortable_date": 1963,
+      "date_added_to_oa": null,
+      "date_text": "1963",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:07.091000"
+    },
+    {
+      "id": 164656,
+      "accession_number": "2006.148.a",
+      "share_license_status": "CC0",
+      "tombstone": "Illuminated Folio (recto) from a Gulistan (Rose Garden) of Sa'di (c. 1213–1291), c. 1475–1500; border:  c. 1550. Calligraphy by Sultan 'Ali al-Mashadi (Iranian, 1430–1520). Gum tempera, ink, gold, and silver on paper; overall: 30 x 19 cm (11 13/16 x 7 1/2 in.); text area: 16.1 x 9.6 cm (6 5/16 x 3 3/4 in.). The Cleveland Museum of Art, Gift of William Kelly Simpson in memory of his wife Marilyn M. Simpson and her grandparents Mr. and Mrs. John D. Rockefeller Jr., 2006.148.a",
+      "current_location": null,
+      "title": "Illuminated Folio (recto) from a Gulistan (Rose Garden) of Sa'di (c. 1213–1291)",
+      "creation_date": "c. 1475–1500; border:  c. 1550",
+      "creation_date_earliest": 1465,
+      "creation_date_latest": 1560,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Afghanistan, Herat, Timurid period (1370–1501)"
+      ],
+      "technique": "Gum tempera, ink, gold, and silver on paper",
+      "support_materials": [],
+      "department": "Islamic Art",
+      "collection": "Islamic Art",
+      "type": "Manuscript",
+      "measurements": "Overall: 30 x 19 cm (11 13/16 x 7 1/2 in.); Text area: 16.1 x 9.6 cm (6 5/16 x 3 3/4 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.3,
+          "width": 0.19
+        },
+        "text area": {
+          "height": 0.161,
+          "width": 0.096
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 294015,
+            "title": "Arts of Iran (Islamic art rotation)",
+            "description": "<i>Arts of Iran (Islamic art rotation)</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 30, 2018-October 28, 2019).",
+            "opening_date": "2018-10-30T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "William Kelly Simpson [1928–2017], Katonah, NY, given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–2006",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "2006–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The exquisite border was painted in gold and silver that has tarnished over time.",
+      "description": "In the border surrounding the Persian poetical text, deer and a lion coexist peacefully in a forest. This imagery may reference the rule of a righteous king. <br><br>The text is from the <em>Gulistan</em>, one of the most celebrated works of Persian literature, completed around 1258. <em>Gulistan</em> means “Rose Garden” in Persian; just as a rose garden is a collection of flowers, the contents are a collection of anecdotes. This page is from the section “On the Conduct of Kings.”",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60779696"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2006.148.a-illuminated-folio-re"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Canby, Sheila R. <em>The Golden Age of Persian Art: 1501-1722.</em> London: British Museum, 2008.",
+          "page_number": "Mentioned: pp. 58–59.",
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/2006.148.a",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2006.148.a/2006.148.a_web.jpg",
+          "width": "571",
+          "height": "893",
+          "filesize": "548973",
+          "filename": "2006.148.a_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2006.148.a/2006.148.a_print.jpg",
+          "width": "2173",
+          "height": "3400",
+          "filesize": "7909692",
+          "filename": "2006.148.a_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2006.148.a/2006.148.a_full.tif",
+          "width": "4193",
+          "height": "6558",
+          "filesize": "82525788",
+          "filename": "2006.148.a_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2006-09-07T17:26:38",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2006.148.a/2006.148.a_alt0_web.jpg",
+            "width": "587",
+            "height": "893",
+            "filesize": "466774"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2006.148.a/2006.148.a_alt0_print.jpg",
+            "width": "2234",
+            "height": "3400",
+            "filesize": "5563323"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2006.148.a/2006.148.a_alt0_full.tif",
+            "width": "3600",
+            "height": "5480",
+            "filesize": "59216476"
+          }
+        }
+      ],
+      "creditline": "Gift of William Kelly Simpson in memory of his wife Marilyn M. Simpson and her grandparents Mr. and Mrs. John D. Rockefeller Jr.",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 164656,
+      "creators": [
+        {
+          "id": 59126,
+          "description": "Sultan 'Ali al-Mashadi (Iranian, 1430–1520)",
+          "extent": "calligraphy by",
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1430",
+          "death_year": "1520",
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2006-09-05T00:00:00",
+      "sortable_date": 1465,
+      "date_added_to_oa": null,
+      "date_text": "c. 1475–1500; border:  c. 1550",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2006.148",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Illuminated Folio from the Gulistan of Sadi (recto)"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:01.056000"
+    },
+    {
+      "id": 317681,
+      "accession_number": "2018.770",
+      "share_license_status": "Copyrighted",
+      "tombstone": "USA. NYC. Garden Cafeteria: Untitled (50249), 1973. Bruce Davidson (American, b. 1933). Gelatin silver print; paper: 50.8 x 40.6 cm (20 x 16 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.770. © Bruce Davidson/Magnum Photos",
+      "current_location": null,
+      "title": "Untitled (50249)",
+      "series": "USA. NYC. Garden Cafeteria",
+      "creation_date": "1973",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 50.8 x 40.6 cm (20 x 16 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.508,
+          "width": 0.406
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Bruce Davidson/Magnum Photos",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Many of the clients who frequented this restaurant on New York’s Lower East Side were Holocaust survivors.",
+      "description": "Davidson encountered the Garden Cafeteria in the early 1970s while making a film on Polish-born American author Isaac Bashevis Singer, who was a regular customer. Its clientele, mostly Jews who immigrated after World War II, appealed to Davidson because his own family were Jews who had emigrated from Poland. He spent hours with his sitters, learning their histories before empathetically clicking the shutter.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876535"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.770",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317681,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:28.657000"
+    }
+  ]
+}

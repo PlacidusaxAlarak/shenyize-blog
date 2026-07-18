@@ -1,0 +1,116 @@
+{
+  "data": {
+    "id": 163333,
+    "accession_number": "2004.154",
+    "share_license_status": "Copyrighted",
+    "tombstone": "New Mexico Landscape #8, 1980. Art Sinsabaugh (American, 1924–1983). Gelatin silver print; image: 29.8 x 49.7 cm (11 3/4 x 19 9/16 in.); paper: 40.5 x 50.5 cm (15 15/16 x 19 7/8 in.); matted: 55.9 x 71.1 cm (22 x 28 in.). The Cleveland Museum of Art, Gift of Mark Schwartz and Bettina Katz, 2004.154. ©2004, Katherine Anne Sinsabaugh and Elisabeth Sinsabaugh de la Cova",
+    "current_location": null,
+    "title": "New Mexico Landscape #8",
+    "creation_date": "1980",
+    "creation_date_earliest": 1980,
+    "creation_date_latest": 1980,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "gelatin silver print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1900-1950",
+    "type": "Photograph",
+    "measurements": "Image: 29.8 x 49.7 cm (11 3/4 x 19 9/16 in.); Paper: 40.5 x 50.5 cm (15 15/16 x 19 7/8 in.); Matted: 55.9 x 71.1 cm (22 x 28 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.298,
+        "width": 0.497
+      },
+      "paper": {
+        "height": 0.405,
+        "width": 0.505
+      },
+      "matted": {
+        "height": 0.559,
+        "width": 0.711
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": "©2004, Katherine Anne Sinsabaugh and Elisabeth Sinsabaugh de la Cova",
+    "inscriptions": [
+      {
+        "inscription": "inscribed on verso in pencil \"N.M.8\" ans \"Geri & Aaron\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 199873,
+          "title": "Contemporary Landscape Photography",
+          "description": "<i>Contemporary Landscape Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 26-August 14, 2011).",
+          "opening_date": "2011-03-26T00:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "One of the most insightful photographers of his generation, Sinsabaugh used a 12-by-20-inch banquet camera to make lyrical, sun-filled landscapes like this one, taken in New Mexico. He used this bulky camera to emphasize the breadth of space he was trying to understand and reveal.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79989212"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2004.154",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Mark Schwartz and Bettina Katz",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 163333,
+    "creators": [
+      {
+        "id": 909,
+        "description": "Art Sinsabaugh (American, 1924–1983)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "Art Sinsabaugh American, 1924-1983\r\n\r\nArthur Reeder Sinsabaugh (born in Irvington, New Jersey) made his reputation as a landscape photographer and was known for his extensive application of the banquet camera, a device that enabled use of 12 x 20-inch sheet film to produce long, horizontal scenes. His trademark subjects were the prairies and plateaus of Illinois and Indiana (1960-70), but he also photographed throughout Arizona, New Mexico, Utah, Colorado, and Texas (1980-81).\r\n\tAlthough Sinsabaugh was a Junior Photographer for the War Department during high school, his formal training came from Harry Callahan, Aaron Siskind, and László Moholy-Nagy at the Institute of Design, Illinois Institute of Technology (B.S., 1949; M.S., 1967). He later taught there as an instructor in photography (1951-59) before moving to the University of Illinois, Urbana-Champaign. Sinsabaugh was a founding member of the Society for Photographic Education and the recipient of fellowships from the John Simon Guggenheim Memorial Foundation (1969) and the National Endowment for the Arts (1976). He was elected a Nettie Maries Jones Fellow in 1983. Since 1978 Sinsabaugh's archives have been housed in the Indiana University Art Museum. A.W.",
+        "name_in_original_language": null,
+        "birth_year": "1924",
+        "death_year": "1983",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2005-02-28T00:00:00",
+    "sortable_date": 1980,
+    "date_added_to_oa": null,
+    "date_text": "1980",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:05:02.930000"
+  }
+}

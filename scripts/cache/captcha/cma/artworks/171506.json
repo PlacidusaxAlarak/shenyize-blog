@@ -1,0 +1,160 @@
+{
+  "data": {
+    "id": 171506,
+    "accession_number": "2014.3",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Chinese Hand Laundry, 1984. Martin Wong (American, 1946–1999). Acrylic on canvas; overall: 121.9 x 175.2 cm (48 x 69 in.). The Cleveland Museum of Art, Purchased with funds donated by Scott Mueller, 2014.3. Courtesy of the Estate of Martin Wong and P.P.O.W Gallery, New York",
+    "current_location": null,
+    "title": "Chinese Hand Laundry",
+    "creation_date": "1984",
+    "creation_date_earliest": 1984,
+    "creation_date_latest": 1984,
+    "artists_tags": [
+      "Asian American",
+      "male",
+      "LGBTQ+ (after 1900)"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "acrylic on canvas",
+    "support_materials": [],
+    "department": "Contemporary Art",
+    "collection": "CONTEMP - Painting",
+    "type": "Painting",
+    "measurements": "Overall: 121.9 x 175.2 cm (48 x 69 in.)",
+    "dimensions": {
+      "overall": {
+        "height": 1.219,
+        "width": 1.752
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": "Courtesy of the Estate of Martin Wong and P.P.O.W Gallery, New York",
+    "inscriptions": [
+      {
+        "inscription": "\"Chinese Hand Laundry 347 East Fifth Street Manhatten Martin Wong 1984\" inscribed on verso",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 383281,
+          "title": "Stories from Storage",
+          "description": "<i>Stories from Storage</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 7-May 16, 2021).",
+          "opening_date": "2021-02-06T05:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Rosenman collection",
+        "citations": [],
+        "footnotes": [],
+        "date": "1984–2014",
+        "sortorder": null
+      },
+      {
+        "description": "Rosenman collection, sold to P.P.O.W. Gallery, NY, NY",
+        "citations": [],
+        "footnotes": null,
+        "date": "2014",
+        "sortorder": 2
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "2014–",
+        "sortorder": 3
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "This artwork is made from three canvases that the artist joined together.",
+    "description": "The son of Chinese immigrants and a resident of New York’s Lower East Side in the 1980s, Wong was interested in and sensitive to the life and struggles of American citizens who were often disenfranchised by local and national government. Based on a now-destroyed storefront on East Fifth Street, Chinese Hand Laundry serves as a reminder of the complex and ongoing issues of immigration in American politics and society.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q60482424"
+      ],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "Metropolitan Museum of Art. <em>Notable acquisitions. Vol. 7. (1984-1985)</em> New York, NY:  Metropolitan Museum of Art, 1985",
+        "page_number": "",
+        "url": ""
+      },
+      {
+        "citation": "Wong, Martin, Marcia Tucker, and Amy Scholder. <em>Sweet Oblivion: The Urban Landscape of Martin Wong</em>. New York: Rizzoli, 1998.",
+        "page_number": "",
+        "url": ""
+      },
+      {
+        "citation": "Whitney Museum of American Art, and Maxwell Lincoln Anderson. <em>American Visionaries: Selections from the Whitney Museum of American Art</em>. New York: Whitney Museum of American Art, 2001.",
+        "page_number": "",
+        "url": ""
+      },
+      {
+        "citation": "Kim, Elaine H., Margo Machida, and Sharon Mizota. <em>Fresh Talk, Daring Gazes: Conversations on Asian American Art</em>. Berkeley: University of California Press, 2003.",
+        "page_number": "",
+        "url": ""
+      },
+      {
+        "citation": "Fellah, Nadiah Rivera. “Urban Isolation.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>61, no. 1 (Winter 2021): 9.",
+        "page_number": "Reproduced and Mentioned: P. 9.",
+        "url": ""
+      }
+    ],
+    "url": "https://clevelandart.org/art/2014.3",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Purchased with funds donated by Scott Mueller",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 171506,
+    "creators": [
+      {
+        "id": 64586,
+        "description": "Martin Wong (American, 1946–1999)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1946",
+        "death_year": "1999",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2014-03-03T00:00:00",
+    "sortable_date": 1984,
+    "date_added_to_oa": null,
+    "date_text": "1984",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [
+      "Chinesehand Laundry"
+    ],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:08:59.761000"
+  }
+}

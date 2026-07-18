@@ -1,0 +1,146 @@
+{
+  "data": {
+    "id": 372006,
+    "accession_number": "2020.295",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Cheval de Marly, Paris, 1934, printed 1988. Ilse Bing (American, 1899–1998). Gelatin silver print; image: 26.1 x 34 cm (10 1/4 x 13 3/8 in.); paper: 27.8 x 35.4 cm (10 15/16 x 13 15/16 in.). The Cleveland Museum of Art, Gift of Michael Mattis and Judith Hochberg, 2020.295. © Estate of Ilse Bing",
+    "current_location": null,
+    "title": "Cheval de Marly, Paris",
+    "creation_date": "1934, printed 1988",
+    "creation_date_earliest": 1934,
+    "creation_date_latest": 1934,
+    "artists_tags": [
+      "female"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "gelatin silver print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1900-1950",
+    "type": "Photograph",
+    "measurements": "Image: 26.1 x 34 cm (10 1/4 x 13 3/8 in.); Paper: 27.8 x 35.4 cm (10 15/16 x 13 15/16 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.261,
+        "width": 0.34
+      },
+      "paper": {
+        "height": 0.278,
+        "width": 0.354
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": "© Estate of Ilse Bing",
+    "inscriptions": [
+      {
+        "inscription": "Written in black ink, lower left, recto: “ILSE BING/1934”",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      },
+      {
+        "inscription": "Written in pencil on verso: “ILSE/BING/1934/PARIS/Cheval de Marly/pr 1988”",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      },
+      {
+        "inscription": "Written in pencil on verso: “IBMB-322.5 3500”",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 370361,
+          "title": "Ilse Bing: Queen of the Leica",
+          "description": "<i>Ilse Bing: Queen of the Leica</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 6-October 11, 2020).",
+          "opening_date": "2020-03-06T05:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Estate of the Artist",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": 1
+      },
+      {
+        "description": "Michael Mattis and Judith Hochberg, Scarsdale, NY",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": 2
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "December 7, 2020",
+        "sortorder": 3
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "Ilse Bing used a technique called solarization to produce dreamlike, supernatural scenes.",
+    "description": "Bing employed it for night views of Paris to impart what she described as “a surrealistic atmosphere.” The technique involves briefly re-exposing a partially developed negative or print to light, which caused positive and negative values to reverse in some, but not all, areas of the image. This sculpture, <em>Mercury Mounted on Pegasus, </em>1702, stands in the Tuileries Garden in the center of Paris.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q117243267"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2020.295",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Michael Mattis and Judith Hochberg",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 372006,
+    "creators": [
+      {
+        "id": 291349,
+        "description": "Ilse Bing (American, 1899–1998)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "American and German photographer, born 1899 or 1900, died 1998",
+        "name_in_original_language": null,
+        "birth_year": "1899",
+        "death_year": "1998",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2020-12-07T00:00:00-05:00",
+    "sortable_date": 1934,
+    "date_added_to_oa": null,
+    "date_text": "1934, printed 1988",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:06:27.405000"
+  }
+}

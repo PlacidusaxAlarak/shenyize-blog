@@ -1,0 +1,125 @@
+{
+  "data": {
+    "id": 168182,
+    "accession_number": "2009.78",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Title Unknown, 1928. Yves Tanguy (French, 1900–1955). Oil on canvas; framed: 105.4 x 93.3 x 2.3 cm (41 1/2 x 36 3/4 x 7/8 in.); unframed: 80 x 65.4 cm (31 1/2 x 25 3/4 in.). The Cleveland Museum of Art, John L. Severance Fund, 2009.78. © Estate of Yves Tanguy / Artists Rights Society (ARS), New York",
+    "current_location": "225 German Expressionism & Surrealism",
+    "title": "Title Unknown",
+    "creation_date": "1928",
+    "creation_date_earliest": 1928,
+    "creation_date_latest": 1928,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "France, 20th century"
+    ],
+    "technique": "oil on canvas",
+    "support_materials": [],
+    "department": "Modern European Painting and Sculpture",
+    "collection": "Mod Euro - Painting 1800-1960",
+    "type": "Painting",
+    "measurements": "Framed: 105.4 x 93.3 x 2.3 cm (41 1/2 x 36 3/4 x 7/8 in.); Unframed: 80 x 65.4 cm (31 1/2 x 25 3/4 in.)",
+    "dimensions": {
+      "framed": {
+        "height": 1.054,
+        "width": 0.933,
+        "depth": 0.023
+      },
+      "unframed": {
+        "height": 0.8,
+        "width": 0.654
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": "© Estate of Yves Tanguy / Artists Rights Society (ARS), New York",
+    "inscriptions": [
+      {
+        "inscription": "signed and dated, lower right: \"Yves Tanguy 28\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Henri Seyrig; private collection",
+        "citations": [],
+        "footnotes": [],
+        "date": null,
+        "sortorder": 1
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "This painting is an example of a Surrealist \"dreamscape,\" a landscape with dreamlike or nightmarish qualities.",
+    "description": "One of the most influential members of the Surrealist movement, Yves Tanguy painted this composition only four years after the movement was founded and two years after he developed his mature style. The composition depicts a series of mysterious forms floating in a dark, dreamlike landscape. Although the objects could indicate rocks, plants, internal organs, or menacing creatures, Tanguy deliberately ensures that the forms remain mysterious. The setting may suggest the ocean floor or a lunar landscape; it, like the objects that seem to animate the scene, is left up to the viewer to interpret according to their own imagination.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q60480572"
+      ],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "Robinson, William H. \"Dreamscape.\" <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 49, no. 10 (December 2009): 3-5.",
+        "page_number": "Mentioned and reproduced: p. 3-5",
+        "url": "https://archive.org/details/CMAMM2009-10/page/2/mode/2up"
+      },
+      {
+        "citation": "Mann, Griffith C. \"Acquisitions 2009.\" <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 50, no. 2 (March/April 2010): 12-27.",
+        "page_number": "Mentioned and reproduced: p. 15",
+        "url": "https://archive.org/details/CMAMM2010-02/page/n11/mode/2up"
+      }
+    ],
+    "url": "https://clevelandart.org/art/2009.78",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "John L. Severance Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 168182,
+    "creators": [
+      {
+        "id": 12379,
+        "description": "Yves Tanguy (French, 1900–1955)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1900",
+        "death_year": "1955",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2009-06-08T00:00:00",
+    "sortable_date": 1928,
+    "date_added_to_oa": null,
+    "date_text": "1928",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:09:56.920000"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "data": {
+    "id": 168709,
+    "accession_number": "2010.417",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Upton Pyne, January 14, 2001, 2001. Jem Southam (British, 1950-). Chromogenic dye coupler print; image: 68.3 x 86.5 cm (26 7/8 x 34 1/16 in.); mounted: 91.3 x 107.8 cm (35 15/16 x 42 7/16 in.); paper: 91.3 x 107.8 cm (35 15/16 x 42 7/16 in.). The Cleveland Museum of Art, Gift of William and Margaret Lipscomb in honor of Tom Hinson, 2010.417. © Jem Southam.  Courtesy Charles Isaacs Photographs and Robert Mann Gallery, New York",
+    "current_location": null,
+    "title": "Upton Pyne, January 14, 2001",
+    "creation_date": "2001",
+    "creation_date_earliest": 2001,
+    "creation_date_latest": 2001,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "England, 21st century"
+    ],
+    "technique": "chromogenic dye coupler print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - British 20th Century",
+    "type": "Photograph",
+    "measurements": "Image: 68.3 x 86.5 cm (26 7/8 x 34 1/16 in.); Mounted: 91.3 x 107.8 cm (35 15/16 x 42 7/16 in.); Paper: 91.3 x 107.8 cm (35 15/16 x 42 7/16 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.683,
+        "width": 0.865
+      },
+      "mounted": {
+        "height": 0.913,
+        "width": 1.078
+      },
+      "paper": {
+        "height": 0.913,
+        "width": 1.078
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": "© Jem Southam.  Courtesy Charles Isaacs Photographs and Robert Mann Gallery, New York",
+    "inscriptions": [
+      {
+        "inscription": "Written in pencil on verso of mount: \"1569c\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 199873,
+          "title": "Contemporary Landscape Photography",
+          "description": "<i>Contemporary Landscape Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 26-August 14, 2011).",
+          "opening_date": "2011-03-26T00:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Charles Isaacs, New York; William Lipscomb, Cleveland; Cleveland Museum of Art",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": null
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "From 1996 to 2003, Southam photographed the ongoing evolution of a small pond near his home in Cornwall, documenting each successive tenant’s attempts at improvements to the property. First a tree-lined bucolic nature retreat, then a stereotypical suburban garden complete with swing set and plastic lawn ornaments, the pond represents for Southam a microcosmic vision of the ever-shifting balance between human intervention and natural transformation.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q80075010"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2010.417",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of William and Margaret Lipscomb in honor of Tom Hinson",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 168709,
+    "creators": [
+      {
+        "id": 49946,
+        "description": "Jem Southam (British, 1950-)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1950",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2010-11-29T00:00:00",
+    "sortable_date": 2001,
+    "date_added_to_oa": null,
+    "date_text": "2001",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": "1",
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:05:51.923000"
+  }
+}

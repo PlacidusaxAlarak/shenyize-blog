@@ -1,0 +1,118 @@
+{
+  "data": {
+    "id": 168563,
+    "accession_number": "2010.29",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Old Covered Bridge, 1941. Mabel A. Hewit (American, 1903–1984). Lithograph; sheet: 27.2 x 29.1 cm (10 11/16 x 11 7/16 in.); image: 19.7 x 24.1 cm (7 3/4 x 9 1/2 in.). The Cleveland Museum of Art, Gift of Mr. and Mrs. William Jurey in memory of Mabel A. Hewit, 2010.29. © Mabel A. Hewit",
+    "current_location": null,
+    "title": "Old Covered Bridge",
+    "creation_date": "1941",
+    "creation_date_earliest": 1941,
+    "creation_date_latest": 1941,
+    "artists_tags": [
+      "May Show",
+      "female"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "lithograph",
+    "support_materials": [
+      {
+        "description": "wove paper\r\n",
+        "watermarks": []
+      }
+    ],
+    "department": "Prints",
+    "collection": "PR - Lithograph",
+    "type": "Print",
+    "measurements": "Sheet: 27.2 x 29.1 cm (10 11/16 x 11 7/16 in.); Image: 19.7 x 24.1 cm (7 3/4 x 9 1/2 in.)",
+    "dimensions": {
+      "sheet": {
+        "height": 0.272,
+        "width": 0.291
+      },
+      "image": {
+        "height": 0.197,
+        "width": 0.241
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": "© Mabel A. Hewit",
+    "inscriptions": [
+      {
+        "inscription": "lower margin, in graphite:  \"Old Covered Bridge  Aug 1941  2/12  Mabel A. Hewit 2/12\"\r\n\r\n",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 178739,
+          "title": "Midwest Modern: The Color Woodcuts of Mabel Hewit",
+          "description": "<i>Midwest Modern: The Color Woodcuts of Mabel Hewit</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 26-October 24, 2010).",
+          "opening_date": "2010-06-26T04:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "Each summer between 1937 and 1954 at Ox-Bow, Hewit made numerous black-and-white lithographs in editions ranging from 10 to 16, exhibiting them widely. In 1938 she became director of the print gallery in a local department store, Halle Brothers Company, and although she switched to the department of interior decoration in 1940, she showed her lithographs in the store every fall from 1938 to at least 1942, always receiving a positive review in the local press.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q80074620"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2010.29",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Mr. and Mrs. William Jurey in memory of Mabel A. Hewit",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 168563,
+    "creators": [
+      {
+        "id": 42681,
+        "description": "Mabel A. Hewit (American, 1903–1984)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "Biographical information exists in the Cleveland Museum of Art Archives.",
+        "name_in_original_language": null,
+        "birth_year": "1903",
+        "death_year": "1984",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2010-03-01T00:00:00",
+    "sortable_date": 1941,
+    "date_added_to_oa": null,
+    "date_text": "1941",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:03:06.355000"
+  }
+}

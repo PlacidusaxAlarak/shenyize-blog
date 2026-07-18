@@ -1,0 +1,2967 @@
+{
+  "info": {
+    "total": 74,
+    "parameters": {
+      "skip": 20,
+      "limit": 20,
+      "q": "architecture photograph",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,gallery,classification_type,department,collection",
+      "search": "architecture photograph"
+    }
+  },
+  "data": [
+    {
+      "id": 156107,
+      "accession_number": "1991.40",
+      "share_license_status": "CC0",
+      "tombstone": "Arch in Farmyard, Swansea, 1845. Calvert Richard Jones (British, 1804–1877). Salted paper print from calotype negative, gold-toned; image: 23.2 x 18.7 cm (9 1/8 x 7 3/8 in.); matted: 50.8 x 40.6 cm (20 x 16 in.). The Cleveland Museum of Art, Andrew R. and Martha Holden Jennings Fund, 1991.40",
+      "current_location": null,
+      "title": "Arch in Farmyard, Swansea",
+      "creation_date": "1845",
+      "creation_date_earliest": 1845,
+      "creation_date_latest": 1845,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "salted paper print from calotype negative, gold-toned",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 23.2 x 18.7 cm (9 1/8 x 7 3/8 in.); Matted: 50.8 x 40.6 cm (20 x 16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.232,
+          "width": 0.187
+        },
+        "matted": {
+          "height": 0.508,
+          "width": 0.406
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"10726-CIWS\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 311440,
+            "title": "Notable Acquisitions",
+            "description": "<i>Notable Acquisitions</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 7-September 15, 1991).",
+            "opening_date": "1991-06-07T04:00:00"
+          },
+          {
+            "id": 311875,
+            "title": "Legacy of Light: Master Photographs from the Cleveland Museum of Art",
+            "description": "<i>Legacy of Light: Master Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 24, 1996-February 2, 1997).",
+            "opening_date": "1996-11-24T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, June 7 - September, 1991: \"Notable Acquisitions,\" CMA Bulletin, 78 (June 1991), p. 90, repr.",
+            "opening_date": "1991-06-01T00:00:00"
+          },
+          {
+            "description": "CMA, November 20,1996 - February 2, 1997: \"Legacy of Light: Master Photographs from the Cleveland Museum of Art.\"",
+            "opening_date": "1997-02-02T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Educated as a mathematician, musician, and clergyman, Jones was an accomplished daguerreotypist before he was introduced to the calotype by William Henry Fox Talbot in 1845. Jones's pictures were taken primarily in Wales, England, Ireland, and the Mediterranean and often depicted complex compositions of ruins, landscape, and rustic architecture. To provide a sense of scale and human presence, he almost always included figures in his architectural views (here a lone individual leans against the archway). In this photograph Jones also alluded to the inevitable passage of time by contrasting the monumental arch in the foreground with the ruined arch in the distance.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79945085"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1991.40-arch-in-farmyard-swa"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Hinson, Tom E. \"Notable Acquisitions.\" <em>The Bulletin of the Cleveland Museum of Art</em> 78, no. 3 (1991): 63-147.",
+          "page_number": "Reproduced and Mentioned: p. 90",
+          "url": "https://www.jstor.org/stable/25161319"
+        },
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 204",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1991.40",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1991.40/1991.40_web.jpg",
+          "width": "723",
+          "height": "893",
+          "filesize": "558193",
+          "filename": "1991.40_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1991.40/1991.40_print.jpg",
+          "width": "2754",
+          "height": "3400",
+          "filesize": "6548522",
+          "filename": "1991.40_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1991.40/1991.40_full.tif",
+          "width": "4392",
+          "height": "5423",
+          "filesize": "71487768",
+          "filename": "1991.40_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2006-10-24T17:08:09",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1991.40/1991.40_alt0_web.jpg",
+            "width": "728",
+            "height": "893",
+            "filesize": "549457"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1991.40/1991.40_alt0_print.jpg",
+            "width": "2773",
+            "height": "3400",
+            "filesize": "6236656"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1991.40/1991.40_alt0_full.tif",
+            "width": "3876",
+            "height": "4752",
+            "filesize": "55290724"
+          }
+        }
+      ],
+      "creditline": "Andrew R. and Martha Holden Jennings Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 156107,
+      "creators": [
+        {
+          "id": 512,
+          "description": "Calvert Richard Jones (British, 1804–1877)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Reverend Calvert Richard Jones, Jr. British, b. Wales, 1804-1877\r\n\r\nCalvert Jones was part of the circle of Welsh amateur photographers that emerged around John Dillwyn Llewelyn and were strongly influenced by William Henry Fox Talbot. Educated at Oriel College, Oxford, Jones returned to Wales in 1829 after his ordination to serve as rector of Loughor near his native town of Swansea. A man of varied interests, including mathematics, music, and painting, he was introduced to photography by Welsh members of Talbot's family.\r\n\tIn 1845, after lessons and practical experience in calotyping with Talbot in Britain, Jones embarked on a trip to Malta and Italy, during which he produced a number of views. On his return, he sent 22 small calotypes and 102 larger ones to Talbot, who sold them on commission. Jones's training in art, especially marine painting, lends his images considerable confidence of composition, tone, and scale. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1804",
+          "death_year": "1877",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1991-04-29T00:00:00",
+      "sortable_date": 1845,
+      "date_added_to_oa": null,
+      "date_text": "1845",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:52.593000"
+    },
+    {
+      "id": 159150,
+      "accession_number": "1995.34",
+      "share_license_status": "CC0",
+      "tombstone": "View of Luxor, 1854. John Beasley Greene (American, 1832–1856). Salted paper print from waxed paper negative; image: 23 x 30.5 cm (9 1/16 x 12 in.); matted: 50.8 x 61 cm (20 x 24 in.). The Cleveland Museum of Art, The A. W. Ellenberger, Sr., Endowment Fund, 1995.34",
+      "current_location": null,
+      "title": "View of Luxor",
+      "creation_date": "1854",
+      "creation_date_earliest": 1854,
+      "creation_date_latest": 1854,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "salted paper print from waxed paper negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 23 x 30.5 cm (9 1/16 x 12 in.); Matted: 50.8 x 61 cm (20 x 24 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.23,
+          "width": 0.305
+        },
+        "matted": {
+          "height": 0.508,
+          "width": 0.61
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written on negative: \"43\", \"J.B. Greene\"; written in pencil on recto: \"Vue de Luxor\"; \"7 [underlined]\"; \"43\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 311875,
+            "title": "Legacy of Light: Master Photographs from the Cleveland Museum of Art",
+            "description": "<i>Legacy of Light: Master Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 24, 1996-February 2, 1997).",
+            "opening_date": "1996-11-24T05:00:00"
+          },
+          {
+            "id": 202979,
+            "title": "Pyramids & Sphinxes: Views of Egypt",
+            "description": "<i>Pyramids & Sphinxes: Views of Egypt</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 6-May 24, 2016).",
+            "opening_date": "2016-02-06T00:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "On the first of three trips to Egypt, John Beasley Greene created some 200 photographs. His work rarely documented favorite tourist sites in a conventionally descriptive manner; rather, he concentrated on poetic landscapes and archaeologically significant monuments. In this haunting photograph of Luxor, Greene's ability to depict expansive pictorial space is clearly evident. By surrounding the low, blocklike forms of the site's architecture with large vistas of vacant desert and sky, he emphasized a feeling of isolation and abandonment.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79978307"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1995.34-view-of-luxor"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 190",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1995.34",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1995.34/1995.34_web.jpg",
+          "width": "1178",
+          "height": "893",
+          "filesize": "614939",
+          "filename": "1995.34_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1995.34/1995.34_print.jpg",
+          "width": "3400",
+          "height": "2577",
+          "filesize": "5053167",
+          "filename": "1995.34_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1995.34/1995.34_full.tif",
+          "width": "5344",
+          "height": "4050",
+          "filesize": "64958304",
+          "filename": "1995.34_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "The A. W. Ellenberger, Sr., Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 159150,
+      "creators": [
+        {
+          "id": 439,
+          "description": "John Beasley Greene (American, 1832–1856)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "John Beasley Greene American, b. France, 1832-1856\r\n\r\nJohn Beasley Greene was born in France to American parents; his father, John Bulkley Greene, was a Boston banker working in Le Havre and then Paris. The younger Greene was a founding member of the Société française de photographie and joined the Société asiatique. He combined an early interest in archaeology and photography, working in Egypt, the Middle East, and North Africa in the brief period from 1853 until his premature death in 1856. During this time, Greene produced a body of work using the waxed paper process, outstanding in its aesthetic and technical merits and unusual in its clearly personal approach. Frequently spare and almost minimalist to a modern eye, his work emphasizes abstract form, tempered by the visual textures of his negatives and paper.\r\n\tIn 1854 Blanquart-Évrard published some 94 of Greene's prints in Le Nil. Monuments et paysages. Explorations photographiques. Although similar in subject to that of Maxime Du Camp and Félix Teynard, Greene's work remains unique—depicting poetic landscapes of the Nile and the distant desert inhabited by ancient monuments. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1832",
+          "death_year": "1856",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1995-06-07T00:00:00",
+      "sortable_date": 1854,
+      "date_added_to_oa": null,
+      "date_text": "1854",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:29.774000"
+    },
+    {
+      "id": 85878,
+      "accession_number": "2018.254",
+      "share_license_status": "Copyrighted",
+      "tombstone": "The Autonomous Spiral, 1949 (printed before 1979). Clarence John Laughlin (American, 1905–1985). Gelatin silver print; image: 34.1 x 26.9 cm (13 7/16 x 10 9/16 in.); paper: 34.1 x 26.9 cm (13 7/16 x 10 9/16 in.); mounted: 43.3 x 35.5 cm (17 1/16 x 14 in.). The Cleveland Museum of Art, Gift of Tom E. Hinson and Diana S. Tittle, 2018.254",
+      "current_location": null,
+      "title": "The Autonomous Spiral",
+      "creation_date": "1949 (printed before 1979)",
+      "creation_date_earliest": 1949,
+      "creation_date_latest": 1949,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "Photography",
+      "type": "Photograph",
+      "measurements": "Image: 34.1 x 26.9 cm (13 7/16 x 10 9/16 in.); Paper: 34.1 x 26.9 cm (13 7/16 x 10 9/16 in.); Mounted: 43.3 x 35.5 cm (17 1/16 x 14 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.341,
+          "width": 0.269
+        },
+        "paper": {
+          "height": 0.341,
+          "width": 0.269
+        },
+        "mounted": {
+          "height": 0.433,
+          "width": 0.355
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in black ink on recto of mount: “The Autonomous Spiral: 1949 Clarence John Laughlin (signed)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "The New Gallery of Contemporary Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "June 1981",
+          "sortorder": 1
+        },
+        {
+          "description": "Tom E. Hinson, Truth or Consequences, NM",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "the Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "September 4, 2018",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The spiral staircase is a common feature of Creole architecture found throughout Louisiana.",
+      "description": "Laughlin’s depiction of a staircase transcends architectural documentation to become both a geometric exploration and a dream-like, surreal vision. He gives us a vertiginous view looking up rather than down, warping space through the use of light and shadow and the flattened perspective imposed by his choice of lens.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79471907"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.254",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Tom E. Hinson and Diana S. Tittle",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 85878,
+      "creators": [
+        {
+          "id": 65850,
+          "description": "Clarence John Laughlin (American, 1905–1985)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1905",
+          "death_year": "1985",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-09-04T00:00:00-04:00",
+      "sortable_date": 1949,
+      "date_added_to_oa": null,
+      "date_text": "1949 (printed before 1979)",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:40.117000"
+    },
+    {
+      "id": 161796,
+      "accession_number": "2001.132",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Nuit St. Georges #8, 1998. Bert Teunissen (Netherlandish, b. 1959). Inkjet print, Iris; image: 51.7 x 99.7 cm (20 3/8 x 39 1/4 in.); paper: 88.9 x 120 cm (35 x 47 1/4 in.). The Cleveland Museum of Art, Gift of Friends of Photography, 2001.132. © Bert Teunissen, Courtesy Yossi Milo Gallery, NYC.",
+      "current_location": null,
+      "title": "Nuit St. Georges #8",
+      "creation_date": "1998",
+      "creation_date_earliest": 1998,
+      "creation_date_latest": 1998,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Netherlands"
+      ],
+      "technique": "inkjet print, Iris",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 20th Century",
+      "type": "Photograph",
+      "measurements": "Image: 51.7 x 99.7 cm (20 3/8 x 39 1/4 in.); Paper: 88.9 x 120 cm (35 x 47 1/4 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.517,
+          "width": 0.997
+        },
+        "paper": {
+          "height": 0.889,
+          "width": 1.2
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Bert Teunissen, Courtesy Yossi Milo Gallery, NYC.",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 184611,
+            "title": "Gifts from the CMA Friends of Photography",
+            "description": "<i>Gifts from the CMA Friends of Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 7, 2002-April 23, 2003).",
+            "opening_date": "2002-12-07T00:00:00"
+          },
+          {
+            "id": 183983,
+            "title": "Drawn, Exposed and Impressed",
+            "description": "<i>Drawn, Exposed and Impressed</i>. MOCA Cleveland, OH (January 20-May 7, 2006).",
+            "opening_date": "2006-01-20T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; December 7, 2002 -  April 23, 2003.  \"Gifts from the CMA Friends of Photography.\"",
+            "opening_date": "2002-12-07T00:00:00"
+          },
+          {
+            "description": "MOCA Cleveland (1/20/2006 - 5/7/2006):  \"Drawn, Exposed, and Impressed: Recent Works on Paper from the Cleveland Museum of Art,\" no catalogue.",
+            "opening_date": "2006-01-20T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Since the late 1990s, Dutch photographer Bert Teunissen has created a group of solemn, softly lit portraits of elderly men and women in their antiquated homes. For the artist, his subjects evoke distant memories of his childhood and are living relics of a simpler time. Golden light from an unseen window illuminates the architecture and rich furnishings of the room in this photograph. The highlights and tightly controlled composition suggest the work of such Dutch masters as Vermeer and Pieter de Hooch. The owner of a well-known vineyard in France, this obviously affluent sitter appears at ease in front of the camera. ",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79985007"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2001.132",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Friends of Photography",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 161796,
+      "creators": [
+        {
+          "id": 41339,
+          "description": "Bert Teunissen (Netherlandish, b. 1959)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1959",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2001-12-03T00:00:00",
+      "sortable_date": 1998,
+      "date_added_to_oa": null,
+      "date_text": "1998",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": "3",
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:47.577000"
+    },
+    {
+      "id": 159479,
+      "accession_number": "1996.253",
+      "share_license_status": "CC0",
+      "tombstone": "Amiens, Northern Façade of the Transept, 1852. Henri Le Secq (French, 1818–1882). Salted paper print from calotype negative; image: 32.3 x 23.2 cm (12 11/16 x 9 1/8 in.); matted: 61 x 50.8 cm (24 x 20 in.). The Cleveland Museum of Art, Andrew R. and Martha Holden Jennings Fund, 1996.253",
+      "current_location": null,
+      "title": "Amiens, Northern Façade of the Transept",
+      "creation_date": "1852",
+      "creation_date_earliest": 1852,
+      "creation_date_latest": 1852,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "salted paper print from calotype negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - French 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 32.3 x 23.2 cm (12 11/16 x 9 1/8 in.); Matted: 61 x 50.8 cm (24 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.323,
+          "width": 0.232
+        },
+        "matted": {
+          "height": 0.61,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in negative: \"H. LeSecq. Amiens. / 1852\"; written in pencil on verso of mount: \"n.°200N\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 178867,
+            "title": "Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art",
+            "description": "<i>Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 26-June 16, 2005).",
+            "opening_date": "2005-02-26T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; February 26 - June 16, 2005 . \"Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art\".",
+            "opening_date": "2005-02-26T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "A pioneering French photographer, Le Secq is best known for his elaborate photographic studies of French architecture. His extensive photographic portrait of Amiens began in 1850 and continued for several years. This detail of the cathedral’s exterior beautifully describes his skill at expressively interpreting historic architecture. The photograph not only displays Le Secq’s preference and talent for isolating fragments of buildings, but even more impressively attests to his ability to capture the play of light and shade over stone sculpture. He deftly used raking light to infuse vitality and plasticity to the centrally positioned carved figure and the architectural elements surrounding it. The lowered frontal camera position stresses an order and formality that Le Secq believed was inherent in Gothic cathedrals.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79979109"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1996.253-amiens-northern-faca"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, “Rare Korean Screen Painting, Important Baroque Drawing, Sheeler Drawing Join the Museum Collection,” October 10, 1996, Cleveland Museum of Art Archives.",
+          "page_number": null,
+          "url": "https://archive.org/details/cmapr4074"
+        }
+      ],
+      "url": "https://clevelandart.org/art/1996.253",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1996.253/1996.253_web.jpg",
+          "width": "633",
+          "height": "893",
+          "filesize": "405613",
+          "filename": "1996.253_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1996.253/1996.253_print.jpg",
+          "width": "2411",
+          "height": "3400",
+          "filesize": "5294186",
+          "filename": "1996.253_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1996.253/1996.253_full.tif",
+          "width": "4464",
+          "height": "6295",
+          "filesize": "84333592",
+          "filename": "1996.253_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Andrew R. and Martha Holden Jennings Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 159479,
+      "creators": [
+        {
+          "id": 1617,
+          "description": "Henri Le Secq (French, 1818–1882)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1818",
+          "death_year": "1882",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1996-09-16T00:00:00",
+      "sortable_date": 1852,
+      "date_added_to_oa": null,
+      "date_text": "1852",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:05.122000"
+    },
+    {
+      "id": 449062,
+      "accession_number": "2021.231",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Institute of Design, Student Independent 3: Untitled (Looking into a Structure), c. 1960. Robert Tanner (American, b. 1937). Gelatin silver print; image: 23.5 x 18.4 cm (9 1/4 x 7 1/4 in.); mounted: 36.2 x 28.3 cm (14 1/4 x 11 1/8 in.). The Cleveland Museum of Art, Gift of Carl and Joan Schneider, 2021.231",
+      "current_location": null,
+      "title": "Untitled (Looking into a Structure)",
+      "series": "Institute of Design, Student Independent 3",
+      "creation_date": "c. 1960",
+      "creation_date_earliest": 1955,
+      "creation_date_latest": 1965,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 23.5 x 18.4 cm (9 1/4 x 7 1/4 in.); Mounted: 36.2 x 28.3 cm (14 1/4 x 11 1/8 in.)",
+      "dimensions": {
+        "mounted": {
+          "height": 0.362,
+          "width": 0.283
+        },
+        "image": {
+          "height": 0.235,
+          "width": 0.184
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Carl and Joan Schneider, Whitmore Lake, MI",
+          "citations": [],
+          "footnotes": [],
+          "date": "?-2021",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 6, 2021",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "From 1946 through the 1970s, the photography department at Chicago’s Institute of Design was one of the most important and avant-garde photography programs in America.",
+      "description": "TheInstitute of Design, which was founded in 1937 in Chicago by Laszlo Moholy-Nagy to continue the principles of the German Bauhaus, offered an experimental atmosphere that encouraged exploration of the interconnectedness of art, design, and architecture and of the various art media. Starting in the 1950s, in order to draw attention to their work, the photography students banded together to publish portfolios.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q119997028"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2021.231",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Carl and Joan Schneider",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 449062,
+      "creators": [
+        {
+          "id": 449060,
+          "description": "Robert Tanner (American, b. 1937)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1937",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2021-12-06T00:00:00-05:00",
+      "sortable_date": 1955,
+      "date_added_to_oa": null,
+      "date_text": "c. 1960",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:13.822000"
+    },
+    {
+      "id": 370130,
+      "accession_number": "2019.262",
+      "share_license_status": "Copyrighted",
+      "tombstone": "New York Windows 1, 1947, printed 1981. Aaron Siskind (American, 1903–1991). Gelatin silver print; image: 32.9 x 25.4 cm (12 15/16 x 10 in.); paper: 35.3 x 27.9 cm (13 7/8 x 11 in.). The Cleveland Museum of Art, Gift of George and Joan Violin, 2019.262",
+      "current_location": null,
+      "title": "New York Windows 1",
+      "creation_date": "1947, printed 1981",
+      "creation_date_earliest": 1947,
+      "creation_date_latest": 1947,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 32.9 x 25.4 cm (12 15/16 x 10 in.); Paper: 35.3 x 27.9 cm (13 7/8 x 11 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.329,
+          "width": 0.254
+        },
+        "paper": {
+          "height": 0.353,
+          "width": 0.279
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “(arrow pointing up)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “New York 1 1947/Aaron Siskind (signed)/(9/81)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “Windows/NYC 1 47”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “17”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “ASFD1103-SP”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “PF133098”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “10.032”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(G.W. Einstein, Inc., New York, NY)",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "George and Joan Violin",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 3, 2019",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Aaron Siskind taught high school English in New York City for 23 years before he took up photography.",
+      "description": "Siskind found motifs in the city or in nature that, when detached from their context through close-up, enter into a dialogue with contemporary avant-garde painting, especially Abstract Expressionism. Whether capturing fragments of nature, architecture, or the urban environment, Siskind created images that explored abstraction, symbolism, gesture, and texture.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q84279373"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2019.262",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George and Joan Violin",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 370130,
+      "creators": [
+        {
+          "id": 912,
+          "description": "Aaron Siskind (American, 1903–1991)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Aaron Siskind American, 1903-1991 Born in New York City, Aaron Siskind inspired many photographers through the example of his own work and his instruction at the Institute of Design, Illinois Institute of Technology, and at the Rhode Island School of Design. Graduating from City College of New York in 1926, Siskind taught English in the city's public schools for 23 years. He took up photography as a hobby in 1930 and two years later learned to process and print his own images. Around this time he joined the Photo League, an organization of socially concerned photographers who promoted documentary photography. Siskind headed the league's project focusing on Harlem (Harlem Document) and also produced his own series Tabernacle City, Bucks County and The Most Crowded Block in the World. In the early 1940s, Siskind's work gradually shifted from a social documentary approach to a more abstract and personal style. During summers on Martha's Vineyard and in Gloucester, Massachusetts, he began photographing natural objects close up, eliminating deep, naturalistic space and concentrating on the primacy of the flat, two-dimensional surface of the photograph. As a result of his experiments, he came to be interested in the photograph as a physical object in its own right, rather than as a reflection of the outside world. In 1947 Siskind exhibited his new work at the Egan Gallery in New York, where the paintings of the abstract expressionists were shown. He became friends with painter Franz Kline and other members of his circle and through their support published his first book, Aaron Siskind: Photographs (1959). In the 1950s Siskind also began to establish himself as a photography teacher. He gained his first experience as a part-time instructor at Trenton College (1949-51), then taught during the summer of 1951 at Black Mountain College in North Carolina. There he worked with Harry Callahan, who invited him to join the staff of the Institute of Design in Chicago. Siskind taught at the institute from 1951-71, when he left to join the Rhode Island School of Design where Callahan now headed the department of photography. Siskind continued to teach at the school until his retirement in 1976. Over the years Siskind remained interested in exploring the formal and abstract qualities of photography, becoming known for his closeup, abstracted views of rocks, peeling paint, bits of graffiti, torn signs, and other objects. He exhibited widely, and in 1982 his photographs were featured in a major retrospective, Aaron Siskind: Fifty Years, organized by the Center for Creative Photography, Tucson. M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1903",
+          "death_year": "1991",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-12-02T00:00:00-05:00",
+      "sortable_date": 1947,
+      "date_added_to_oa": null,
+      "date_text": "1947, printed 1981",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:38.643000"
+    },
+    {
+      "id": 370131,
+      "accession_number": "2019.263",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Veracruz 272, 1973, printed 1980s. Aaron Siskind (American, 1903–1991). Gelatin silver print; image: 19.1 x 18 cm (7 1/2 x 7 1/16 in.); paper: 25.2 x 20.2 cm (9 15/16 x 7 15/16 in.). The Cleveland Museum of Art, Gift of George and Joan Violin, 2019.263",
+      "current_location": null,
+      "title": "Veracruz 272",
+      "creation_date": "1973, printed 1980s",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 19.1 x 18 cm (7 1/2 x 7 1/16 in.); Paper: 25.2 x 20.2 cm (9 15/16 x 7 15/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.191,
+          "width": 0.18
+        },
+        "paper": {
+          "height": 0.252,
+          "width": 0.202
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in black ink on recto: “V.C. 272 1973 Aaron Siskind (signed)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “VC 272-‘73/5”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “5”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “PF133086”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “ASF 15526”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Commercially imprinted throughout verso: “Agfa”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(G.W. Einstein, Inc., New York, NY)",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "George and Joan Violin",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 3, 2019",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Aaron Siskind taught high school English in New York City for 23 years before he took up photography.",
+      "description": "Siskind found motifs in the city or in nature that, when detached from their context through close-up, enter into a dialogue with contemporary avant-garde painting, especially Abstract Expressionism. Whether capturing fragments of nature, architecture, or the urban environment, Siskind created images that explored abstraction, symbolism, gesture, and texture.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q84279393"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2019.263",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George and Joan Violin",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 370131,
+      "creators": [
+        {
+          "id": 912,
+          "description": "Aaron Siskind (American, 1903–1991)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Aaron Siskind American, 1903-1991 Born in New York City, Aaron Siskind inspired many photographers through the example of his own work and his instruction at the Institute of Design, Illinois Institute of Technology, and at the Rhode Island School of Design. Graduating from City College of New York in 1926, Siskind taught English in the city's public schools for 23 years. He took up photography as a hobby in 1930 and two years later learned to process and print his own images. Around this time he joined the Photo League, an organization of socially concerned photographers who promoted documentary photography. Siskind headed the league's project focusing on Harlem (Harlem Document) and also produced his own series Tabernacle City, Bucks County and The Most Crowded Block in the World. In the early 1940s, Siskind's work gradually shifted from a social documentary approach to a more abstract and personal style. During summers on Martha's Vineyard and in Gloucester, Massachusetts, he began photographing natural objects close up, eliminating deep, naturalistic space and concentrating on the primacy of the flat, two-dimensional surface of the photograph. As a result of his experiments, he came to be interested in the photograph as a physical object in its own right, rather than as a reflection of the outside world. In 1947 Siskind exhibited his new work at the Egan Gallery in New York, where the paintings of the abstract expressionists were shown. He became friends with painter Franz Kline and other members of his circle and through their support published his first book, Aaron Siskind: Photographs (1959). In the 1950s Siskind also began to establish himself as a photography teacher. He gained his first experience as a part-time instructor at Trenton College (1949-51), then taught during the summer of 1951 at Black Mountain College in North Carolina. There he worked with Harry Callahan, who invited him to join the staff of the Institute of Design in Chicago. Siskind taught at the institute from 1951-71, when he left to join the Rhode Island School of Design where Callahan now headed the department of photography. Siskind continued to teach at the school until his retirement in 1976. Over the years Siskind remained interested in exploring the formal and abstract qualities of photography, becoming known for his closeup, abstracted views of rocks, peeling paint, bits of graffiti, torn signs, and other objects. He exhibited widely, and in 1982 his photographs were featured in a major retrospective, Aaron Siskind: Fifty Years, organized by the Center for Creative Photography, Tucson. M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1903",
+          "death_year": "1991",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-12-02T00:00:00-05:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973, printed 1980s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:04:50.794000"
+    },
+    {
+      "id": 449063,
+      "accession_number": "2021.230",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Institute of Design, Student Independent 3: Untitled (Side of Building), c. 1960. Robert Tanner (American, b. 1937). Gelatin silver print; image: 15.9 x 23.5 cm (6 1/4 x 9 1/4 in.); mounted: 36.2 x 28.3 cm (14 1/4 x 11 1/8 in.). The Cleveland Museum of Art, Gift of Carl and Joan Schneider, 2021.230",
+      "current_location": null,
+      "title": "Untitled (Side of Building)",
+      "series": "Institute of Design, Student Independent 3",
+      "creation_date": "c. 1960",
+      "creation_date_earliest": 1955,
+      "creation_date_latest": 1965,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 15.9 x 23.5 cm (6 1/4 x 9 1/4 in.); Mounted: 36.2 x 28.3 cm (14 1/4 x 11 1/8 in.)",
+      "dimensions": {
+        "mounted": {
+          "height": 0.362,
+          "width": 0.283
+        },
+        "image": {
+          "height": 0.159,
+          "width": 0.235
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Carl and Joan Schneider, Whitmore Lake, MI",
+          "citations": [],
+          "footnotes": [],
+          "date": "?-2021",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 6, 2021",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "From 1946 through the 1970s, the photography department at Chicago’s Institute of Design was one of the most important and avant-garde photography programs in America.",
+      "description": "TheInstitute of Design, which was founded in 1937 in Chicago by Laszlo Moholy-Nagy to continue the principles of the German Bauhaus, offered an experimental atmosphere that encouraged exploration of the interconnectedness of art, design, and architecture and of the various art media. Starting in the 1950s, in order to draw attention to their work, the photography students banded together to publish portfolios.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q119997029"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2021.230",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Carl and Joan Schneider",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 449063,
+      "creators": [
+        {
+          "id": 449060,
+          "description": "Robert Tanner (American, b. 1937)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1937",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2021-12-06T00:00:00-05:00",
+      "sortable_date": 1955,
+      "date_added_to_oa": null,
+      "date_text": "c. 1960",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:58.237000"
+    },
+    {
+      "id": 449077,
+      "accession_number": "2021.233",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Institute of Design, Student Independent 3: Untitled (Man Reflected in Window), c. 1960. Don Seiden (American, 1927–2019). Gelatin silver print; image: 21 x 19.1 cm (8 1/4 x 7 1/2 in.); mounted: 36.2 x 28.3 cm (14 1/4 x 11 1/8 in.). The Cleveland Museum of Art, Gift of Carl and Joan Schneider, 2021.233",
+      "current_location": null,
+      "title": "Untitled (Man Reflected in Window)",
+      "series": "Institute of Design, Student Independent 3",
+      "creation_date": "c. 1960",
+      "creation_date_earliest": 1955,
+      "creation_date_latest": 1965,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 21 x 19.1 cm (8 1/4 x 7 1/2 in.); Mounted: 36.2 x 28.3 cm (14 1/4 x 11 1/8 in.)",
+      "dimensions": {
+        "mounted": {
+          "height": 0.362,
+          "width": 0.283
+        },
+        "image": {
+          "height": 0.21,
+          "width": 0.191
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Carl and Joan Schneider, Whitmore Lake, MI",
+          "citations": [],
+          "footnotes": [],
+          "date": "?-2021",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 6, 2021",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "From 1946 through the 1970s, the photography department at Chicago’s Institute of Design was one of the most important and avant-garde photography programs in America.",
+      "description": "TheInstitute of Design, which was founded in 1937 in Chicago by Laszlo Moholy-Nagy to continue the principles of the German Bauhaus, offered an experimental atmosphere that encouraged exploration of the interconnectedness of art, design, and architecture and of the various art media. Starting in the 1950s, in order to draw attention to their work, the photography students banded together to publish portfolios.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q119997036"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2021.233",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Carl and Joan Schneider",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 449077,
+      "creators": [
+        {
+          "id": 449072,
+          "description": "Don Seiden (American, 1927–2019)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1927",
+          "death_year": "2019",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2021-12-06T00:00:00-05:00",
+      "sortable_date": 1955,
+      "date_added_to_oa": null,
+      "date_text": "c. 1960",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:00.656000"
+    },
+    {
+      "id": 384299,
+      "accession_number": "2020.213",
+      "share_license_status": "CC0",
+      "tombstone": "South Façade of the Quadrangle of the Nayak Darbar Hall, Thanjavur, 1858. Captain Linnaeus Tripe (British, 1822–1902). Albumenized salt print; image: 27.7 x 34.2 cm (10 7/8 x 13 7/16 in.); image with black margin: 27.7 x 36.1 cm (10 7/8 x 14 3/16 in.); paper: 27.7 x 36.1 cm (10 7/8 x 14 3/16 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 2020.213",
+      "current_location": null,
+      "title": "South Façade of the Quadrangle of the Nayak Darbar Hall, Thanjavur",
+      "creation_date": "1858",
+      "creation_date_earliest": 1858,
+      "creation_date_latest": 1858,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "albumenized salt print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 27.7 x 34.2 cm (10 7/8 x 13 7/16 in.); Image with black margin: 27.7 x 36.1 cm (10 7/8 x 14 3/16 in.); Paper: 27.7 x 36.1 cm (10 7/8 x 14 3/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.277,
+          "width": 0.342
+        },
+        "image with black margin": {
+          "height": 0.277,
+          "width": 0.361
+        },
+        "paper": {
+          "height": 0.277,
+          "width": 0.361
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Private Collection, United Kingdom",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 3
+        },
+        {
+          "description": "(Prahlad Bubbar Indian and Islamic Art, London, United Kingdom)",
+          "citations": [],
+          "footnotes": null,
+          "date": "2020",
+          "sortorder": 4
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 14, 2020",
+          "sortorder": 5
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This assembly hall is an important example of the Islamic influences brought by the Nayaks to South Indian architecture in the 1600s.",
+      "description": "Early box cameras had no shutter; the photographer just removed and replaced the lens cap, guessing at how long to leave it off. Linnaeus Tripe’s mastery of light and exposure here is incredible. The print allows us to read the decoration that is in shadow as well as that in full sunlight.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117244781"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2020.213-south-facade-of-the"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Dewan, Janet, and Linnaeus Tripe. The Photographs of Linnaeus Tripe: A Catalogue Raisonné. Toronto: Art Gallery of Ontario, 2003.",
+          "page_number": "CR6-202",
+          "url": null
+        }
+      ],
+      "catalogue_raisonne": "CR6-202",
+      "url": "https://clevelandart.org/art/2020.213",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.213/2020.213_web.jpg",
+          "width": "900",
+          "height": "726",
+          "filesize": "334366",
+          "filename": "2020.213_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.213/2020.213_print.jpg",
+          "width": "3400",
+          "height": "2743",
+          "filesize": "3790426",
+          "filename": "2020.213_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.213/2020.213_full.tif",
+          "width": "7808",
+          "height": "6300",
+          "filesize": "147601164",
+          "filename": "2020.213_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2020-08-13T17:26:13",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2020.213/2020.213_alt0_web.jpg",
+            "width": "900",
+            "height": "686",
+            "filesize": "200495"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2020.213/2020.213_alt0_print.jpg",
+            "width": "3400",
+            "height": "2593",
+            "filesize": "2512585"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2020.213/2020.213_alt0_full.tif",
+            "width": "8068",
+            "height": "6153",
+            "filesize": "148953008"
+          }
+        }
+      ],
+      "creditline": "Purchase from the J. H. Wade Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 384299,
+      "creators": [
+        {
+          "id": 1026,
+          "description": "Captain Linnaeus Tripe (British, 1822–1902)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Captain Linnaeus Tripe British, 1822-1902\r\n\r\nBorn in Davenport, Linnaeus Tripe was an officer in the 12th Regiment Native Infantry at Bangalore who learned photography while on furlough in England between 1851-54. In 1855 he was appointed photographer to a British mission in Burma, where he produced more than 120 views subsequently published by the Madras Photographic Society in Bangalore (1857). For four years, beginning in 1856, he was government photographer to the Madras presidency. Six volumes with more than 100 images of various cities in Madras (now Tamil Nadu) were later published.\r\n\tLike other expeditionary photographers, Tripe documented the landscape, culture, and architecture he encountered. His particular views are valued not only for their factual content, but also for Tripe's soft, almost romantic interpretation of his subjects. Rising through the military ranks during his career, Tripe retired to England as an honorary major general in 1875. He continued to photograph for his own pleasure. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1822",
+          "death_year": "1902",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2020-09-14T00:00:00-04:00",
+      "sortable_date": 1858,
+      "date_added_to_oa": null,
+      "date_text": "1858",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Tanjore. Place [of the Rajah], south façade of quadrangle"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:00.250000"
+    },
+    {
+      "id": 449070,
+      "accession_number": "2021.232",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Institute of Design, Student Independent 3: Untitled (Woman), c. 1960. Joseph D. Jachna (American, 1935–1953). Gelatin silver print; image: 36.2 x 28.3 cm (14 1/4 x 11 1/8 in.). The Cleveland Museum of Art, Gift of Carl and Joan Schneider, 2021.232",
+      "current_location": null,
+      "title": "Untitled (Woman)",
+      "series": "Institute of Design, Student Independent 3",
+      "creation_date": "c. 1960",
+      "creation_date_earliest": 1955,
+      "creation_date_latest": 1965,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 36.2 x 28.3 cm (14 1/4 x 11 1/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.362,
+          "width": 0.283
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Carl and Joan Schneider, Whitmore Lake, MI",
+          "citations": [],
+          "footnotes": [],
+          "date": "?-2021",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 6, 2021",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "From 1946 through the 1970s, the photography department at Chicago’s Institute of Design was one of the most important and avant-garde photography programs in America.",
+      "description": "TheInstitute of Design, which was founded in 1937 in Chicago by Laszlo Moholy-Nagy to continue the principles of the German Bauhaus, offered an experimental atmosphere that encouraged exploration of the interconnectedness of art, design, and architecture and of the various art media. Starting in the 1950s, in order to draw attention to their work, the photography students banded together to publish portfolios.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q119997033"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2021.232",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Carl and Joan Schneider",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 449070,
+      "creators": [
+        {
+          "id": 503,
+          "description": "Joseph D. Jachna (American, 1935–1953)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Joseph D. Jachna American, 1935-\r\n\r\nSimple, formal abstraction and technical precision characterize the black-and-white photography of Joseph David Jachna, who studied in Chicago with both Aaron Siskind and Harry Callahan during their tenure at the Institute of Design, Illinois Institute of Technology. Like Kenneth Josephson, his colleague at the institute, Jachna's early work raises conceptual questions regarding the self-reflexive nature of photographic representation. His studies of hands holding mirrors that both reflect and obscure their geographic backdrops typify his concerns regarding the imprint of humans on nature. It is an imposition he sees as ultimately transitory, like the staged photographic moments themselves.\r\n\tJachna got his start in photography working part-time for various commercial establishments in his native Chicago during the 1950s. He attended iit (B.S. in art education, 1958; M.S. in photography, 1961), teaching there after graduation and in 1969 joining the faculty at the University of Illinois, Chicago. Jachna has received a Ferguson Foundation Grant from the Friends of Photography (1973), the Silver Circle Award for Teaching from the University of Illinois, Chicago (1974), and fellowships from the National Endowment for the Arts (1976) and the John Simon Guggenheim Memorial Foundation (1980). His work has been shown in one-person exhibitions at the Art Institute of Chicago (1961), the University of Illinois, Chicago (1965, 1977), Nikon Photo Salon, Tokyo (1974), Chicago Center for Contemporary Photography (1980), Chicago State University (1985), and the University of Minnesota, Duluth (1986). He lives in Oak Lawn, Illinois. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1935",
+          "death_year": "1953",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2021-12-06T00:00:00-05:00",
+      "sortable_date": 1955,
+      "date_added_to_oa": null,
+      "date_text": "c. 1960",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:04:34.662000"
+    },
+    {
+      "id": 325432,
+      "accession_number": "2019.56",
+      "share_license_status": "CC0",
+      "tombstone": "Nowshera, Kashmir (number 1000), 1864. Samuel Bourne (British, 1834–1912). Albumen print from wet collodion negative; image: 24 x 29.5 cm (9 7/16 x 11 5/8 in.); paper: 24 x 29.5 cm (9 7/16 x 11 5/8 in.); primary mount: 27.5 x 33.8 cm (10 13/16 x 13 5/16 in.); secondary mount: 40.9 x 50.5 cm (16 1/8 x 19 7/8 in.). The Cleveland Museum of Art, Photography Discretionary Fund, 2019.56",
+      "current_location": null,
+      "title": "Nowshera, Kashmir (number 1000)",
+      "creation_date": "1864",
+      "creation_date_earliest": 1864,
+      "creation_date_latest": 1864,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "albumen print from wet collodion negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 24 x 29.5 cm (9 7/16 x 11 5/8 in.); Paper: 24 x 29.5 cm (9 7/16 x 11 5/8 in.); Primary mount: 27.5 x 33.8 cm (10 13/16 x 13 5/16 in.); Secondary mount: 40.9 x 50.5 cm (16 1/8 x 19 7/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.24,
+          "width": 0.295
+        },
+        "paper": {
+          "height": 0.24,
+          "width": 0.295
+        },
+        "primary mount": {
+          "height": 0.275,
+          "width": 0.338
+        },
+        "secondary mount": {
+          "height": 0.409,
+          "width": 0.505
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in black ink on recto in lower left: “Bourne”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Daniella Dangoor, London, England)",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "March 4, 2019",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Bourne, a banker who was also a passionate amateur photographer in England, became a professional photographer when he arrived in India in 1863.",
+      "description": "The Buniyar Temple in Navashera is an exceptionally well-preserved example of Kashmiri architecture, durable because it is made of granite rather than the more common limestone. It is believed to date back to the 8th century. For another view taken on the same day by the same artist, search for 1994.186 and glimpse the temple’s roof over the wall surrounding the area.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79875955"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2019.56-nowshera-kashmir-num"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2019.56",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.56/2019.56_web.jpg",
+          "width": "900",
+          "height": "733",
+          "filesize": "252973",
+          "filename": "2019.56_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.56/2019.56_print.jpg",
+          "width": "3400",
+          "height": "2769",
+          "filesize": "2804271",
+          "filename": "2019.56_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.56/2019.56_full.tif",
+          "width": "12125",
+          "height": "9875",
+          "filesize": "359231012",
+          "filename": "2019.56_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Photography Discretionary Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 325432,
+      "creators": [
+        {
+          "id": 265,
+          "description": "Samuel Bourne (British, 1834–1912)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Samuel Bourne British, 1834 - 1912 Born in Nottingham, Samuel Bourne first began taking photographs as an amateur in 1851. Four years later, he gave up his career in banking to become a professional photographer. In 1862 he embarked for India, where for the next several years he made three photographic expeditions into the Himalayas. He also formed a partnership in Simla with Charles Shepherd -- a publishing enterprise to reproduce photographic views. Until his return to England in 1870, Bourne continued to work in India and the Far East and to expand the province of Bourne &amp; Shepherd, opening a second branch in Calcutta. By the time of his departure he had produced some 1,500 negatives of such places as Benares, Darjeeling, and Tibet, largely of landscape and architecture for the public market. Bourne was known for the care with which he conceived and executed his work. His images, though plentiful, were highly prized and remain so today. Many are still available from the firm Bourne &amp; Shepherd, which has survived for more than 125 years. After returning to England, he established a business in cotton doubling, manufacturing thread for lacemaking and weaving machines, raised a family, and took up again the life of an amateur photographer and watercolorist. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1834",
+          "death_year": "1912",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-03-04T00:00:00-05:00",
+      "sortable_date": 1864,
+      "date_added_to_oa": null,
+      "date_text": "1864",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:58.728000"
+    },
+    {
+      "id": 370129,
+      "accession_number": "2019.261",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Jalapa (Homage to Franz Kline) 6, 1973, printed later. Aaron Siskind (American, 1903–1991). Gelatin silver print; image: 25.5 x 24.6 cm (10 1/16 x 9 11/16 in.); paper: 35.5 x 27.6 cm (14 x 10 7/8 in.). The Cleveland Museum of Art, Gift of George and Joan Violin, 2019.261",
+      "current_location": null,
+      "title": "Jalapa (Homage to Franz Kline) 6",
+      "creation_date": "1973, printed later",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 25.5 x 24.6 cm (10 1/16 x 9 11/16 in.); Paper: 35.5 x 27.6 cm (14 x 10 7/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.255,
+          "width": 0.246
+        },
+        "paper": {
+          "height": 0.355,
+          "width": 0.276
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in black ink on recto: “Aaron Siskind (signed)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “Jalapa 6 1973/Aaron Siskind (signed)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “Jalapa 6 ‘73/4”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “62”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “PF133143”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “ASF 14704”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(G.W. Einstein, Inc., New York, NY)",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "George and Joan Violin",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 3, 2019",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Aaron Siskind taught high school English in New York City for 23 years before he took up photography.",
+      "description": "Siskind found motifs in the city or in nature that, when detached from their context through close-up, enter into a dialogue with contemporary avant-garde painting, especially Abstract Expressionism. Whether capturing fragments of nature, architecture, or the urban environment, Siskind created images that explored abstraction, symbolism, gesture, and texture.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q84279354"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2019.261",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George and Joan Violin",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 370129,
+      "creators": [
+        {
+          "id": 912,
+          "description": "Aaron Siskind (American, 1903–1991)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Aaron Siskind American, 1903-1991 Born in New York City, Aaron Siskind inspired many photographers through the example of his own work and his instruction at the Institute of Design, Illinois Institute of Technology, and at the Rhode Island School of Design. Graduating from City College of New York in 1926, Siskind taught English in the city's public schools for 23 years. He took up photography as a hobby in 1930 and two years later learned to process and print his own images. Around this time he joined the Photo League, an organization of socially concerned photographers who promoted documentary photography. Siskind headed the league's project focusing on Harlem (Harlem Document) and also produced his own series Tabernacle City, Bucks County and The Most Crowded Block in the World. In the early 1940s, Siskind's work gradually shifted from a social documentary approach to a more abstract and personal style. During summers on Martha's Vineyard and in Gloucester, Massachusetts, he began photographing natural objects close up, eliminating deep, naturalistic space and concentrating on the primacy of the flat, two-dimensional surface of the photograph. As a result of his experiments, he came to be interested in the photograph as a physical object in its own right, rather than as a reflection of the outside world. In 1947 Siskind exhibited his new work at the Egan Gallery in New York, where the paintings of the abstract expressionists were shown. He became friends with painter Franz Kline and other members of his circle and through their support published his first book, Aaron Siskind: Photographs (1959). In the 1950s Siskind also began to establish himself as a photography teacher. He gained his first experience as a part-time instructor at Trenton College (1949-51), then taught during the summer of 1951 at Black Mountain College in North Carolina. There he worked with Harry Callahan, who invited him to join the staff of the Institute of Design in Chicago. Siskind taught at the institute from 1951-71, when he left to join the Rhode Island School of Design where Callahan now headed the department of photography. Siskind continued to teach at the school until his retirement in 1976. Over the years Siskind remained interested in exploring the formal and abstract qualities of photography, becoming known for his closeup, abstracted views of rocks, peeling paint, bits of graffiti, torn signs, and other objects. He exhibited widely, and in 1982 his photographs were featured in a major retrospective, Aaron Siskind: Fifty Years, organized by the Center for Creative Photography, Tucson. M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1903",
+          "death_year": "1991",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-12-02T00:00:00-05:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973, printed later",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:58.576000"
+    },
+    {
+      "id": 151844,
+      "accession_number": "1984.17",
+      "share_license_status": "CC0",
+      "tombstone": "Fountain of Notre-Dame at Saint-Brieuc, Brittany, c. 1853. Louis-Rémy Robert (French, 1811–1882). Salted paper print from calotype negative; image: 32.2 x 26.1 cm (12 11/16 x 10 1/4 in.); paper: 34.6 x 26.8 cm (13 5/8 x 10 9/16 in.); matted: 50.8 x 40.6 cm (20 x 16 in.). The Cleveland Museum of Art, John L. Severance Fund, 1984.17",
+      "current_location": null,
+      "title": "Fountain of Notre-Dame at Saint-Brieuc, Brittany",
+      "creation_date": "c. 1853",
+      "creation_date_earliest": 1848,
+      "creation_date_latest": 1858,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "salted paper print from calotype negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - French 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 32.2 x 26.1 cm (12 11/16 x 10 1/4 in.); Paper: 34.6 x 26.8 cm (13 5/8 x 10 9/16 in.); Matted: 50.8 x 40.6 cm (20 x 16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.322,
+          "width": 0.261
+        },
+        "paper": {
+          "height": 0.346,
+          "width": 0.268
+        },
+        "matted": {
+          "height": 0.508,
+          "width": 0.406
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": "believed to be a unique print",
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"PM Diéterle\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 309849,
+            "title": "Year in Review for 1984",
+            "description": "<i>Year in Review for 1984</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 3-May 5, 1985).",
+            "opening_date": "1985-04-03T05:00:00"
+          },
+          {
+            "id": 311444,
+            "title": "Object Lessons: Cleveland Creates an Art Museum",
+            "description": "<i>Object Lessons: Cleveland Creates an Art Museum</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 7-September 8, 1991).",
+            "opening_date": "1991-06-07T04:00:00"
+          },
+          {
+            "id": 178867,
+            "title": "Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art",
+            "description": "<i>Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 26-June 16, 2005).",
+            "opening_date": "2005-02-26T00:00:00"
+          },
+          {
+            "id": 197576,
+            "title": "France at the Dawn of Photography",
+            "description": "<i>France at the Dawn of Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 4, 2009-January 24, 2010).",
+            "opening_date": "2009-10-04T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA 1985:  \"Year in Review 1984,\" Bulletin, 72 (April 1985), p. 202, no. 65, repr. p. 184.",
+            "opening_date": "1985-04-01T00:00:00"
+          },
+          {
+            "description": "CMA 1990:  The World Seen Anew:  English and French Photographs of the 1850s, June 29-August 26, 1990, no cat.",
+            "opening_date": "1990-06-29T00:00:00"
+          },
+          {
+            "description": "CMA 1991:  Object Lessons:  Cleveland Creates an Art Museum, June 7-September 8, 1991.",
+            "opening_date": "1991-06-07T00:00:00"
+          },
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; February 26 - June 16, 2005 . \"Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art\".",
+            "opening_date": "2005-02-26T00:00:00"
+          },
+          {
+            "description": "The Cleveland Museum of Art (10/04/2009 - 01/24/2010); \"France at the Dawn of Photography\"",
+            "opening_date": "2009-10-04T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Jules-Pierre-Michel Diéterle family",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        },
+        {
+          "description": "André Jammes",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        },
+        {
+          "description": "Jules-Pierre-Michel Diéterle family; André Jammes",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "In the early 1850s, Robert made a series of photographs that would be copied in lithography by Emile van Marcke, an accomplished artist who worked at the Sèvres factory with Robert at this time. Robert’s photographic journey captured seven sites—all featuring medieval architecture—in a small section along the northern coast of Brittany. For this picturesque view, he included the entire building, a small 15th-century Gothic pavilion erected over the fountain of Notre-Dame of Saint-Brieuc and whose square façade was positioned on a slight diagonal. Robert provided a sense of place by including a portion of the 19th-century chapel behind it, as well as flanking trees and a path leading out of the composition. For this reason, he may have also added a seated woman, dressed in traditional Breton costume, under the frontal arch. Due to the required length of exposure, the movement of the trees was recorded which, along with broad areas of bright light and dark shadows, provides a strong sense of atmosphere.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60757991"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1984.17-fountain-of-notre-da"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Turner, Evan H. “The Year in Review for 1984.” <em>The Bulletin of the Cleveland Museum of Art</em> 72, no. 2 (April 1985): 163–207.",
+          "page_number": "Mentioned: p. 202, no. 65; Reproduced: p. 184",
+          "url": "http://www.jstor.org/stable/25159897"
+        },
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 275",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1984.17",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1984.17/1984.17_web.jpg",
+          "width": "725",
+          "height": "893",
+          "filesize": "488911",
+          "filename": "1984.17_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1984.17/1984.17_print.jpg",
+          "width": "2761",
+          "height": "3400",
+          "filesize": "6090099",
+          "filename": "1984.17_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1984.17/1984.17_full.tif",
+          "width": "4248",
+          "height": "5231",
+          "filesize": "66695976",
+          "filename": "1984.17_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 151844,
+      "creators": [
+        {
+          "id": 826,
+          "description": "Louis-Rémy Robert (French, 1811–1882)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Louis-Rémy Robert French, 1811-1882\r\n\r\nBorn in Paris, Louis-Rémy Robert was trained by his father as a painter on porcelain and glass, eventually succeeding him as chief in charge of the workshops of painters and gilders at the Manufacture de Sèvres. He developed an active interest in photography, probably due in part to his friendship with Henri-Victor Regnault, who was appointed director at Sèvres in 1852, and whom Robert succeeded in 1871.\r\n\tRobert's views are frequently more traditional and classically inclined than those of Regnault. His well-known series on the architecture, gardens, and art of Versailles, published by Louis-Désire Blanquart-Évrard as Souvenirs de Versailles (1853), reflects an appreciation of the heritage in French culture and design, traditions with which Robert was familiar, on a smaller scale, through his background in porcelain and glass decoration.\r\n\tRobert was also a technical innovator, a friend of the printers Blanquart-Évrard and Alphonse Louis Poitevin, and served as a judge for the competition originated by the Duc de Luynes to further research into the longevity of photographic prints. A member of the Société française de photographie, Robert exhibited his work in Paris, Brussels, and London between 1855-62 and lectured on photography at the École des Ponts et Chausées from 1858-72. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1811",
+          "death_year": "1882",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1984-03-26T00:00:00",
+      "sortable_date": 1848,
+      "date_added_to_oa": null,
+      "date_text": "c. 1853",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:22.721000"
+    },
+    {
+      "id": 370124,
+      "accession_number": "2019.259",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Chicago 35, 1949. Aaron Siskind (American, 1903–1991). Gelatin silver print; image: 19.6 x 34.1 cm (7 11/16 x 13 7/16 in.). The Cleveland Museum of Art, Gift of George and Joan Violin, 2019.259",
+      "current_location": null,
+      "title": "Chicago 35",
+      "creation_date": "1949",
+      "creation_date_earliest": 1949,
+      "creation_date_latest": 1949,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 19.6 x 34.1 cm (7 11/16 x 13 7/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.196,
+          "width": 0.341
+        },
+        "paper": {
+          "height": 0.225,
+          "width": 0.352
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “Chicago 35 1949/Aaron Siskind (signed)/Ch 35 ‘49/K4”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “12/56”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “PF133108”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “28047”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(G.W. Einstein, Inc., New York, NY)",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "George and Joan Violin",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 3, 2019",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Aaron Siskind taught high school English in New York City for 23 years before he took up photography.",
+      "description": "Siskind found motifs in the city or in nature that, when detached from their context through close-up, enter into a dialogue with contemporary avant-garde painting, especially abstract expressionism.  Whether capturing fragments of nature, architecture, or the urban environment, Siskind created images that explored abstraction, symbolism, gesture, and texture.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q84279321"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2019.259",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George and Joan Violin",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 370124,
+      "creators": [
+        {
+          "id": 912,
+          "description": "Aaron Siskind (American, 1903–1991)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Aaron Siskind American, 1903-1991 Born in New York City, Aaron Siskind inspired many photographers through the example of his own work and his instruction at the Institute of Design, Illinois Institute of Technology, and at the Rhode Island School of Design. Graduating from City College of New York in 1926, Siskind taught English in the city's public schools for 23 years. He took up photography as a hobby in 1930 and two years later learned to process and print his own images. Around this time he joined the Photo League, an organization of socially concerned photographers who promoted documentary photography. Siskind headed the league's project focusing on Harlem (Harlem Document) and also produced his own series Tabernacle City, Bucks County and The Most Crowded Block in the World. In the early 1940s, Siskind's work gradually shifted from a social documentary approach to a more abstract and personal style. During summers on Martha's Vineyard and in Gloucester, Massachusetts, he began photographing natural objects close up, eliminating deep, naturalistic space and concentrating on the primacy of the flat, two-dimensional surface of the photograph. As a result of his experiments, he came to be interested in the photograph as a physical object in its own right, rather than as a reflection of the outside world. In 1947 Siskind exhibited his new work at the Egan Gallery in New York, where the paintings of the abstract expressionists were shown. He became friends with painter Franz Kline and other members of his circle and through their support published his first book, Aaron Siskind: Photographs (1959). In the 1950s Siskind also began to establish himself as a photography teacher. He gained his first experience as a part-time instructor at Trenton College (1949-51), then taught during the summer of 1951 at Black Mountain College in North Carolina. There he worked with Harry Callahan, who invited him to join the staff of the Institute of Design in Chicago. Siskind taught at the institute from 1951-71, when he left to join the Rhode Island School of Design where Callahan now headed the department of photography. Siskind continued to teach at the school until his retirement in 1976. Over the years Siskind remained interested in exploring the formal and abstract qualities of photography, becoming known for his closeup, abstracted views of rocks, peeling paint, bits of graffiti, torn signs, and other objects. He exhibited widely, and in 1982 his photographs were featured in a major retrospective, Aaron Siskind: Fifty Years, organized by the Center for Creative Photography, Tucson. M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1903",
+          "death_year": "1991",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-12-02T00:00:00-05:00",
+      "sortable_date": 1949,
+      "date_added_to_oa": null,
+      "date_text": "1949",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:23.222000"
+    },
+    {
+      "id": 449068,
+      "accession_number": "2021.229",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Institute of Design, Student Independent 3: Untitled (Wall), c. 1960. Chuck Swedlund (American, b. 1935). Gelatin silver print; image: 19.1 x 19.1 cm (7 1/2 x 7 1/2 in.); mounted: 36.2 x 28.3 cm (14 1/4 x 11 1/8 in.). The Cleveland Museum of Art, Gift of Carl and Joan Schneider, 2021.229",
+      "current_location": null,
+      "title": "Untitled (Wall)",
+      "series": "Institute of Design, Student Independent 3",
+      "creation_date": "c. 1960",
+      "creation_date_earliest": 1955,
+      "creation_date_latest": 1965,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 19.1 x 19.1 cm (7 1/2 x 7 1/2 in.); Mounted: 36.2 x 28.3 cm (14 1/4 x 11 1/8 in.)",
+      "dimensions": {
+        "mounted": {
+          "height": 0.362,
+          "width": 0.283
+        },
+        "image": {
+          "height": 0.191,
+          "width": 0.191
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Carl and Joan Schneider, Whitmore Lake, MI",
+          "citations": [],
+          "footnotes": [],
+          "date": "?-2021",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 6, 2021",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "From 1946 through the 1970s, the photography department at Chicago’s Institute of Design was one of the most important and avant-garde photography programs in America.",
+      "description": "TheInstitute of Design, which was founded in 1937 in Chicago by Laszlo Moholy-Nagy to continue the principles of the German Bauhaus, offered an experimental atmosphere that encouraged exploration of the interconnectedness of art, design, and architecture and of the various art media. Starting in the 1950s, in order to draw attention to their work, the photography students banded together to publish portfolios.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q119997031"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2021.229",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Carl and Joan Schneider",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 449068,
+      "creators": [
+        {
+          "id": 449065,
+          "description": "Chuck Swedlund (American, b. 1935)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1935",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2021-12-06T00:00:00-05:00",
+      "sortable_date": 1955,
+      "date_added_to_oa": null,
+      "date_text": "c. 1960",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:21.441000"
+    },
+    {
+      "id": 680649,
+      "accession_number": "2024.79",
+      "share_license_status": "CC0",
+      "tombstone": "Futtypore Sikri—Two of the Marbled Screens in the Tomb of Sheik Selim Chisti, 1866. Samuel Bourne (British, 1834–1912). Albumen print; paper: 23.9 x 29.4 cm (9 7/16 x 11 9/16 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 2024.79",
+      "current_location": null,
+      "title": "Futtypore Sikri—Two of the Marbled Screens in the Tomb of Sheik Selim Chisti",
+      "creation_date": "1866",
+      "creation_date_earliest": 1866,
+      "creation_date_latest": 1866,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "India"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Paper: 23.9 x 29.4 cm (9 7/16 x 11 9/16 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.239,
+          "width": 0.294
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Inscription at bottom right: \"Bourne 1266\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Embossed mark at center right edge corresponding to “watermark” on the left edge of verso, RJK Ri… No 72 (?).",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Graphite inscription on verso: \"1266\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Purchased on the London art market by Prahlad Bubbar Ltd., London, England",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007",
+          "sortorder": 1
+        },
+        {
+          "description": "(Prahlad Bubbar Ltd., London, sold to The Cleveland Museum of Art, Cleveland, OH)",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007–2024",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 9, 2024–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Carved marble screens provided not just decoration but also light and air to interiors, while keeping out sun glare and prying eyes.",
+      "description": "These elaborate screens decorate the mausoleum of the Sufi saint Salim Chisti (1478-1572). The building, considered one of the finest examples of Mughal architecture in India, was built in 1580-1581 by the Emperor Akbar to honor the saint, whose prayers he believed had guaranteed the birth of male heirs to the throne.",
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.79",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.79/2024.79_web.jpg",
+          "width": "900",
+          "height": "725",
+          "filesize": "384308",
+          "filename": "2024.79_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.79/2024.79_print.jpg",
+          "width": "3400",
+          "height": "2740",
+          "filesize": "4402528",
+          "filename": "2024.79_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.79/2024.79_full.tif",
+          "width": "10055",
+          "height": "8104",
+          "filesize": "244490512",
+          "filename": "2024.79_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-08-27T15:08:42",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.79/2024.79_alt0_web.jpg",
+            "width": "900",
+            "height": "735",
+            "filesize": "152060"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.79/2024.79_alt0_print.jpg",
+            "width": "3400",
+            "height": "2777",
+            "filesize": "3288049"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.79/2024.79_alt0_full.tif",
+            "width": "10625",
+            "height": "8677",
+            "filesize": "276607844"
+          }
+        },
+        {
+          "date_created": "2024-08-27T15:07:33",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.79/2024.79_alt1_web.jpg",
+            "width": "900",
+            "height": "735",
+            "filesize": "371628"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.79/2024.79_alt1_print.jpg",
+            "width": "3400",
+            "height": "2777",
+            "filesize": "4297744"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.79/2024.79_alt1_full.tif",
+            "width": "10625",
+            "height": "8677",
+            "filesize": "276612568"
+          }
+        }
+      ],
+      "creditline": "Purchase from the J. H. Wade Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 680649,
+      "creators": [
+        {
+          "id": 265,
+          "description": "Samuel Bourne (British, 1834–1912)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Samuel Bourne British, 1834 - 1912 Born in Nottingham, Samuel Bourne first began taking photographs as an amateur in 1851. Four years later, he gave up his career in banking to become a professional photographer. In 1862 he embarked for India, where for the next several years he made three photographic expeditions into the Himalayas. He also formed a partnership in Simla with Charles Shepherd -- a publishing enterprise to reproduce photographic views. Until his return to England in 1870, Bourne continued to work in India and the Far East and to expand the province of Bourne &amp; Shepherd, opening a second branch in Calcutta. By the time of his departure he had produced some 1,500 negatives of such places as Benares, Darjeeling, and Tibet, largely of landscape and architecture for the public market. Bourne was known for the care with which he conceived and executed his work. His images, though plentiful, were highly prized and remain so today. Many are still available from the firm Bourne &amp; Shepherd, which has survived for more than 125 years. After returning to England, he established a business in cotton doubling, manufacturing thread for lacemaking and weaving machines, raised a family, and took up again the life of an amateur photographer and watercolorist. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1834",
+          "death_year": "1912",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-09-09T00:00:00-04:00",
+      "sortable_date": 1866,
+      "date_added_to_oa": null,
+      "date_text": "1866",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:52.194000"
+    },
+    {
+      "id": 370132,
+      "accession_number": "2019.264",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Veracruz 180, 1973, printed 1985. Aaron Siskind (American, 1903–1991). Gelatin silver print; image: 22 x 23.8 cm (8 11/16 x 9 3/8 in.); paper: 35.2 x 27.7 cm (13 7/8 x 10 7/8 in.). The Cleveland Museum of Art, Gift of George and Joan Violin, 2019.264",
+      "current_location": null,
+      "title": "Veracruz 180",
+      "creation_date": "1973, printed 1985",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 22 x 23.8 cm (8 11/16 x 9 3/8 in.); Paper: 35.2 x 27.7 cm (13 7/8 x 10 7/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.22,
+          "width": 0.238
+        },
+        "paper": {
+          "height": 0.352,
+          "width": 0.277
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “Vera Cruz 180 1973/Aaron Siskind (signed)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “2/85 (circled)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"VC 180 1/72/B4 (illegible writing)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “43”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “PF133124”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “ASF 14646”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Commercially imprinted throughout verso: “Agfa”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(G.W. Einstein, Inc., New York, NY)",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "George and Joan Violin",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 3, 2019",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Aaron Siskind taught high school English in New York City for 23 years before he took up photography.",
+      "description": "Siskind found motifs in the city or in nature that, when detached from their context through close-up, enter into a dialogue with contemporary avant-garde painting, especially Abstract Expressionism. Whether capturing fragments of nature, architecture, or the urban environment, Siskind created images that explored abstraction, symbolism, gesture, and texture.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q84279411"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2019.264",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George and Joan Violin",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 370132,
+      "creators": [
+        {
+          "id": 912,
+          "description": "Aaron Siskind (American, 1903–1991)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Aaron Siskind American, 1903-1991 Born in New York City, Aaron Siskind inspired many photographers through the example of his own work and his instruction at the Institute of Design, Illinois Institute of Technology, and at the Rhode Island School of Design. Graduating from City College of New York in 1926, Siskind taught English in the city's public schools for 23 years. He took up photography as a hobby in 1930 and two years later learned to process and print his own images. Around this time he joined the Photo League, an organization of socially concerned photographers who promoted documentary photography. Siskind headed the league's project focusing on Harlem (Harlem Document) and also produced his own series Tabernacle City, Bucks County and The Most Crowded Block in the World. In the early 1940s, Siskind's work gradually shifted from a social documentary approach to a more abstract and personal style. During summers on Martha's Vineyard and in Gloucester, Massachusetts, he began photographing natural objects close up, eliminating deep, naturalistic space and concentrating on the primacy of the flat, two-dimensional surface of the photograph. As a result of his experiments, he came to be interested in the photograph as a physical object in its own right, rather than as a reflection of the outside world. In 1947 Siskind exhibited his new work at the Egan Gallery in New York, where the paintings of the abstract expressionists were shown. He became friends with painter Franz Kline and other members of his circle and through their support published his first book, Aaron Siskind: Photographs (1959). In the 1950s Siskind also began to establish himself as a photography teacher. He gained his first experience as a part-time instructor at Trenton College (1949-51), then taught during the summer of 1951 at Black Mountain College in North Carolina. There he worked with Harry Callahan, who invited him to join the staff of the Institute of Design in Chicago. Siskind taught at the institute from 1951-71, when he left to join the Rhode Island School of Design where Callahan now headed the department of photography. Siskind continued to teach at the school until his retirement in 1976. Over the years Siskind remained interested in exploring the formal and abstract qualities of photography, becoming known for his closeup, abstracted views of rocks, peeling paint, bits of graffiti, torn signs, and other objects. He exhibited widely, and in 1982 his photographs were featured in a major retrospective, Aaron Siskind: Fifty Years, organized by the Center for Creative Photography, Tucson. M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1903",
+          "death_year": "1991",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-12-02T00:00:00-05:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973, printed 1985",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:51.109000"
+    },
+    {
+      "id": 370133,
+      "accession_number": "2019.265",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Veracruz 253, 1973, printed later. Aaron Siskind (American, 1903–1991). Gelatin silver print; image: 24.2 x 24.2 cm (9 1/2 x 9 1/2 in.); paper: 35.5 x 27.8 cm (14 x 10 15/16 in.). The Cleveland Museum of Art, Gift of George and Joan Violin, 2019.265",
+      "current_location": null,
+      "title": "Veracruz 253",
+      "creation_date": "1973, printed later",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 24.2 x 24.2 cm (9 1/2 x 9 1/2 in.); Paper: 35.5 x 27.8 cm (14 x 10 15/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.242,
+          "width": 0.242
+        },
+        "paper": {
+          "height": 0.355,
+          "width": 0.278
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in black ink on recto: “Vera Cruz 253 1973 Aaron Siskind (signed)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “VC 253 (illegible writing)/B4”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “44”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “PF133125”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “ASF 14685”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Commercially imprinted throughout verso: “Agfa”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(G.W. Einstein, Inc., New York, NY)",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "George and Joan Violin",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 2, 2019",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Aaron Siskind taught high school English in New York City for 23 years before he took up photography.",
+      "description": "Siskind found motifs in the city or in nature that, when detached from their context through close-up, enter into a dialogue with contemporary avant-garde painting, especially Abstract Expressionism. Whether capturing fragments of nature, architecture, or the urban environment, Siskind created images that explored abstraction, symbolism, gesture, and texture.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q84279429"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2019.265",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George and Joan Violin",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 370133,
+      "creators": [
+        {
+          "id": 912,
+          "description": "Aaron Siskind (American, 1903–1991)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Aaron Siskind American, 1903-1991 Born in New York City, Aaron Siskind inspired many photographers through the example of his own work and his instruction at the Institute of Design, Illinois Institute of Technology, and at the Rhode Island School of Design. Graduating from City College of New York in 1926, Siskind taught English in the city's public schools for 23 years. He took up photography as a hobby in 1930 and two years later learned to process and print his own images. Around this time he joined the Photo League, an organization of socially concerned photographers who promoted documentary photography. Siskind headed the league's project focusing on Harlem (Harlem Document) and also produced his own series Tabernacle City, Bucks County and The Most Crowded Block in the World. In the early 1940s, Siskind's work gradually shifted from a social documentary approach to a more abstract and personal style. During summers on Martha's Vineyard and in Gloucester, Massachusetts, he began photographing natural objects close up, eliminating deep, naturalistic space and concentrating on the primacy of the flat, two-dimensional surface of the photograph. As a result of his experiments, he came to be interested in the photograph as a physical object in its own right, rather than as a reflection of the outside world. In 1947 Siskind exhibited his new work at the Egan Gallery in New York, where the paintings of the abstract expressionists were shown. He became friends with painter Franz Kline and other members of his circle and through their support published his first book, Aaron Siskind: Photographs (1959). In the 1950s Siskind also began to establish himself as a photography teacher. He gained his first experience as a part-time instructor at Trenton College (1949-51), then taught during the summer of 1951 at Black Mountain College in North Carolina. There he worked with Harry Callahan, who invited him to join the staff of the Institute of Design in Chicago. Siskind taught at the institute from 1951-71, when he left to join the Rhode Island School of Design where Callahan now headed the department of photography. Siskind continued to teach at the school until his retirement in 1976. Over the years Siskind remained interested in exploring the formal and abstract qualities of photography, becoming known for his closeup, abstracted views of rocks, peeling paint, bits of graffiti, torn signs, and other objects. He exhibited widely, and in 1982 his photographs were featured in a major retrospective, Aaron Siskind: Fifty Years, organized by the Center for Creative Photography, Tucson. M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1903",
+          "death_year": "1991",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-12-02T00:00:00-05:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973, printed later",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:33.725000"
+    }
+  ]
+}

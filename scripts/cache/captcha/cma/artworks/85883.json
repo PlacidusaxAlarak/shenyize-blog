@@ -1,0 +1,133 @@
+{
+  "data": {
+    "id": 85883,
+    "accession_number": "2018.255",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Holden Street, North Adams, Massachusetts, 1974 (printed before 1979). Stephen Shore (American, b. 1947). Chromogenic print ; image: 20.2 x 25.3 cm (7 15/16 x 9 15/16 in.); paper: 20.2 x 25.3 cm (7 15/16 x 9 15/16 in.). The Cleveland Museum of Art, Gift of Tom E. Hinson and Diana S. Tittle, 2018.255",
+    "current_location": null,
+    "title": "Holden Street, North Adams, Massachusetts",
+    "creation_date": "1974 (printed before 1979)",
+    "creation_date_earliest": 1974,
+    "creation_date_latest": 1974,
+    "artists_tags": [
+      "male",
+      "Jewish artists"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "Chromogenic print ",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "Photography",
+    "type": "Photograph",
+    "measurements": "Image: 20.2 x 25.3 cm (7 15/16 x 9 15/16 in.); Paper: 20.2 x 25.3 cm (7 15/16 x 9 15/16 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.202,
+        "width": 0.253
+      },
+      "paper": {
+        "height": 0.202,
+        "width": 0.253
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Written in black marker on verso: “I 9/50 STEPHEN SHORE”",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      },
+      {
+        "inscription": "Imprinted in paper on verso: “THIS PAPER/MANUFACTURED/BY KODAK”",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Light Gallery, New York, NY",
+        "citations": [],
+        "footnotes": [],
+        "date": null,
+        "sortorder": 1
+      },
+      {
+        "description": "Tom E. Hinson, Truth or Consequences, NM",
+        "citations": [],
+        "footnotes": [],
+        "date": "March 1979-September 2018",
+        "sortorder": 2
+      },
+      {
+        "description": "the Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": [],
+        "date": "September 4, 2018",
+        "sortorder": 3
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "Shore’s photographic career began at age 14 when three of his photographs were purchased by the Museum of Modern Art, New York.",
+    "description": "This picture, according to Shore, is both a formal exploration of “how to convert the experience of a complex three-dimensional space into a flat, bounded medium” and a “cultural exploration” of the boundary between a New England industrial town and the countryside that surrounds it.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79471910"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2018.255",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Tom E. Hinson and Diana S. Tittle",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 85883,
+    "creators": [
+      {
+        "id": 65853,
+        "description": "Stephen Shore (American, b. 1947)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1947",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2018-09-04T00:00:00-04:00",
+    "sortable_date": 1974,
+    "date_added_to_oa": null,
+    "date_text": "1974 (printed before 1979)",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:02:04.062000"
+  }
+}

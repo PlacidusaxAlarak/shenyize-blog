@@ -1,0 +1,156 @@
+{
+  "data": {
+    "id": 165622,
+    "accession_number": "2007.54",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Angkor-Thom, c. 1930s. Georges Hugnet (French, 1906–1974). Photomechanical reproduction, collage; image: 13.1 x 10 cm (5 3/16 x 3 15/16 in.). The Cleveland Museum of Art, John L. Severance Fund, 2007.54. © 2013 Artists Rights Society (ARS), New York / ADAGP, Paris",
+    "current_location": null,
+    "title": "Angkor-Thom",
+    "creation_date": "c. 1930s",
+    "creation_date_earliest": 1930,
+    "creation_date_latest": 1939,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "France, 20th century"
+    ],
+    "technique": "photomechanical reproduction, collage",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - French 20th Century",
+    "type": "Photograph",
+    "measurements": "Image: 13.1 x 10 cm (5 3/16 x 3 15/16 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.131,
+        "width": 0.1
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": "© 2013 Artists Rights Society (ARS), New York / ADAGP, Paris",
+    "inscriptions": [
+      {
+        "inscription": "signed on recto",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 335808,
+          "title": "Georges Hugnet Collages",
+          "description": "<i>Georges Hugnet Collages</i>. Galerie 14/16 Verneuil, (November 13, 2003-January 31, 2004).",
+          "opening_date": "2003-11-13T05:00:00"
+        },
+        {
+          "id": 203169,
+          "title": "Forbidden Games: Surrealist and Modernist Photography",
+          "description": "<i>Forbidden Games: Surrealist and Modernist Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 19, 2014-January 11, 2015).",
+          "opening_date": "2014-10-19T00:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Ferro Collection",
+        "citations": [],
+        "footnotes": [],
+        "date": null,
+        "sortorder": 1
+      },
+      {
+        "description": "(Florent Jeanniard, Paris)",
+        "citations": [],
+        "footnotes": [],
+        "date": null,
+        "sortorder": 2
+      },
+      {
+        "description": "David Raymond [b.1979], New York, NY",
+        "citations": [],
+        "footnotes": [],
+        "date": "2007",
+        "sortorder": 3
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": [],
+        "date": null,
+        "sortorder": 4
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "A full-scale replica of the temple of Angkor Wat at the 1931 International Colonial Exposition of Paris sparked popular interest in architecture in Cambodia, which was then a French protectorate. Hugnet transformed a gallery announcement for a 1926 exhibition of drawings of Cambodian ruins into a satirical portrait by merely gluing four tiny bits of printed paper onto the image of the temple. The Surrealists staged two public protests against the Colonial Exposition; Hugnet’s collage may have been a more intimate form of commentary.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79994898"
+      ],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "Cleveland Museum of Art, Tom E. Hinson, Ian Walker, and Lisa Kurzner. Forbidden Games: Surrealist and Modernist Photography : the David Raymond Collection in the Cleveland Museum of Art. 2014.",
+        "page_number": "cat. no. 83, p. 128",
+        "url": null
+      },
+      {
+        "citation": "Hugnet, Georges, Timothy Baum, François Buot, and Sam Stourdzé. Georges Hugnet: collages. Paris: L. Scheer, 2003.",
+        "page_number": "p.145",
+        "url": null
+      }
+    ],
+    "url": "https://clevelandart.org/art/2007.54",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "John L. Severance Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 165622,
+    "creators": [
+      {
+        "id": 55035,
+        "description": "Georges Hugnet (French, 1906–1974)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1906",
+        "death_year": "1974",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2007-02-26T00:00:00",
+    "sortable_date": 1930,
+    "date_added_to_oa": null,
+    "date_text": "c. 1930s",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [
+      "Angkor Wat"
+    ],
+    "is_highlight": false,
+    "updated_at": "2026-03-26 23:59:49.270000"
+  }
+}

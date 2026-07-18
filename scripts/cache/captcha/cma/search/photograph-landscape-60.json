@@ -1,0 +1,3064 @@
+{
+  "info": {
+    "total": 338,
+    "parameters": {
+      "skip": 60,
+      "limit": 20,
+      "q": "photograph landscape",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,gallery,classification_type,department,collection",
+      "search": "photograph landscape"
+    }
+  },
+  "data": [
+    {
+      "id": 667884,
+      "accession_number": "2024.6.a",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: Ameer (Shere Ali), 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.a",
+      "current_location": null,
+      "title": "Ameer (Shere Ali)",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448743"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.a",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.a/2024.6.a_web.jpg",
+          "width": "719",
+          "height": "900",
+          "filesize": "231028",
+          "filename": "2024.6.a_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.a/2024.6.a_print.jpg",
+          "width": "2715",
+          "height": "3400",
+          "filesize": "2835947",
+          "filename": "2024.6.a_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.a/2024.6.a_full.tif",
+          "width": "4314",
+          "height": "5403",
+          "filesize": "69956758",
+          "filename": "2024.6.a_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-25T12:23:53",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.a/2024.6.a_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "117750"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.a/2024.6.a_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "1679935"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.a/2024.6.a_alt0_full.tif",
+            "width": "14204",
+            "height": "9353",
+            "filesize": "398578734"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667884,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:17.195000"
+    },
+    {
+      "id": 667936,
+      "accession_number": "2024.6.ll",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: The Kabul River, Jellalabad, Scene of the Disaster, 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.ll",
+      "current_location": null,
+      "title": "The Kabul River, Jellalabad, Scene of the Disaster",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448811"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.ll",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.ll/2024.6.ll_web.jpg",
+          "width": "900",
+          "height": "354",
+          "filesize": "101258",
+          "filename": "2024.6.ll_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.ll/2024.6.ll_print.jpg",
+          "width": "3400",
+          "height": "1339",
+          "filesize": "1472332",
+          "filename": "2024.6.ll_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.ll/2024.6.ll_full.tif",
+          "width": "6756",
+          "height": "2661",
+          "filesize": "53961022",
+          "filename": "2024.6.ll_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-25T15:12:07",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.ll/2024.6.ll_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "114021"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.ll/2024.6.ll_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "1772959"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.ll/2024.6.ll_alt0_full.tif",
+            "width": "14204",
+            "height": "9353",
+            "filesize": "398578602"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667936,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:03.764000"
+    },
+    {
+      "id": 667952,
+      "accession_number": "2024.6.qq",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: The 44th Hill, Looking Towards Jugdalluck, 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.qq",
+      "current_location": null,
+      "title": "The 44th Hill, Looking Towards Jugdalluck",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448821"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.qq",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.qq/2024.6.qq_web.jpg",
+          "width": "900",
+          "height": "583",
+          "filesize": "210594",
+          "filename": "2024.6.qq_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.qq/2024.6.qq_print.jpg",
+          "width": "3400",
+          "height": "2202",
+          "filesize": "2664864",
+          "filename": "2024.6.qq_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.qq/2024.6.qq_full.tif",
+          "width": "7434",
+          "height": "4815",
+          "filesize": "107414030",
+          "filename": "2024.6.qq_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-27T11:52:33",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.qq/2024.6.qq_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "141600"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.qq/2024.6.qq_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "2008800"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.qq/2024.6.qq_alt0_full.tif",
+            "width": "14204",
+            "height": "9352",
+            "filesize": "398536418"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667952,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:16.958000"
+    },
+    {
+      "id": 92759,
+      "accession_number": "2019.68",
+      "share_license_status": "CC0",
+      "tombstone": "Krishna's Butter Ball, Mahabalipuram, c. 1900s. Unidentified Photographer. Gelatin silver print, toned, on collodion printing-out paper; image: 15.3 x 10.8 cm (6 x 4 1/4 in.); paper: 15.3 x 10.8 cm (6 x 4 1/4 in.). The Cleveland Museum of Art, Gift of Barbara Tannenbaum and Mark Soppeland, 2019.68",
+      "current_location": null,
+      "title": "Krishna's Butter Ball, Mahabalipuram",
+      "creation_date": "c. 1900s",
+      "creation_date_earliest": 1900,
+      "creation_date_latest": 1950,
+      "artists_tags": [
+        "gender unknown"
+      ],
+      "culture": [
+        "early 20th century"
+      ],
+      "technique": "Gelatin silver print, toned, on collodion printing-out paper",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 20th Century",
+      "type": "Photograph",
+      "measurements": "Image: 15.3 x 10.8 cm (6 x 4 1/4 in.); Paper: 15.3 x 10.8 cm (6 x 4 1/4 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.153,
+          "width": 0.108
+        },
+        "image": {
+          "height": 0.153,
+          "width": 0.108
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 379162,
+            "title": "Life and Exploits of Krishna in Indian Paintings",
+            "description": "<i>Life and Exploits of Krishna in Indian Paintings</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 1, 2021-February 6, 2022).",
+            "opening_date": "2021-09-01T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Pump Park Vintage Photography, Ltd.,  Downpatrick, United Kingdom)",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2015",
+          "sortorder": 1
+        },
+        {
+          "description": "Barbara L. Tannenbaum, Beachwood, OH, given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "2015–2019",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "March 4, 2019–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "It was popular during the early 1900s to tone silver gelatin photographs with gold to give them a warm glow.",
+      "description": "Mahabalipuram is a site on India’s southeastern coast where numerous rock-cut temples and sculptures were carved during the early 600s. The site includes a remarkable, naturally occurring boulder that became known popularly as Krishna’s Butter Ball, thereby merging a geological phenomenon with sacred narrative. If baby Krishna could crawl while holding this monolith as effortlessly in his hand as a ball of butter, he must be a magnificently powerful god. <br><br>Colonial-era tourists enjoy their excursion to the site with no indication that they recognized its sanctity. Photographs such as this would have been sent back to Britain for viewers to marvel at the landscape of India.",
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2019.68-krishna-s-butter-bal"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2019.68",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.68/2019.68_web.jpg",
+          "width": "632",
+          "height": "900",
+          "filesize": "285845",
+          "filename": "2019.68_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.68/2019.68_print.jpg",
+          "width": "2388",
+          "height": "3400",
+          "filesize": "2241909",
+          "filename": "2019.68_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.68/2019.68_full.tif",
+          "width": "6432",
+          "height": "9158",
+          "filesize": "176740876",
+          "filename": "2019.68_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Gift of Barbara Tannenbaum and Mark Soppeland",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 92759,
+      "creators": [
+        {
+          "id": 30876,
+          "description": "Unidentified Photographer",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "death_year": "1899",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-03-04T00:00:00-05:00",
+      "sortable_date": 1900,
+      "date_added_to_oa": null,
+      "date_text": "c. 1900s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:48.608000"
+    },
+    {
+      "id": 667962,
+      "accession_number": "2024.6.bbb",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: Landi Kotal, The Camp, Looking South, 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.bbb",
+      "current_location": null,
+      "title": "Landi Kotal, The Camp, Looking South",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448840"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.bbb",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.bbb/2024.6.bbb_web.jpg",
+          "width": "900",
+          "height": "525",
+          "filesize": "218408",
+          "filename": "2024.6.bbb_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.bbb/2024.6.bbb_print.jpg",
+          "width": "3400",
+          "height": "1983",
+          "filesize": "2887351",
+          "filename": "2024.6.bbb_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.bbb/2024.6.bbb_full.tif",
+          "width": "7409",
+          "height": "4322",
+          "filesize": "96095634",
+          "filename": "2024.6.bbb_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-27T12:16:44",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.bbb/2024.6.bbb_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "147305"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.bbb/2024.6.bbb_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "2159315"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.bbb/2024.6.bbb_alt0_full.tif",
+            "width": "14204",
+            "height": "9353",
+            "filesize": "398579390"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667962,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:09.231000"
+    },
+    {
+      "id": 667964,
+      "accession_number": "2024.6.ddd",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: Untitled (Group of Men), 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.ddd",
+      "current_location": null,
+      "title": "Untitled (Group of Men)",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448844"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.ddd",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.ddd/2024.6.ddd_web.jpg",
+          "width": "900",
+          "height": "765",
+          "filesize": "236038",
+          "filename": "2024.6.ddd_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.ddd/2024.6.ddd_print.jpg",
+          "width": "3400",
+          "height": "2890",
+          "filesize": "3278032",
+          "filename": "2024.6.ddd_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.ddd/2024.6.ddd_full.tif",
+          "width": "5363",
+          "height": "4558",
+          "filesize": "73364838",
+          "filename": "2024.6.ddd_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-27T12:20:17",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.ddd/2024.6.ddd_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "128338"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.ddd/2024.6.ddd_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "1893623"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.ddd/2024.6.ddd_alt0_full.tif",
+            "width": "14204",
+            "height": "9353",
+            "filesize": "398578830"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667964,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:51.615000"
+    },
+    {
+      "id": 667928,
+      "accession_number": "2024.6.ee",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: The Descent from Khurd Khyber, Looking Towards Bassaule, 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.ee",
+      "current_location": null,
+      "title": "The Descent from Khurd Khyber, Looking Towards Bassaule",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448799"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.ee",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.ee/2024.6.ee_web.jpg",
+          "width": "900",
+          "height": "699",
+          "filesize": "234400",
+          "filename": "2024.6.ee_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.ee/2024.6.ee_print.jpg",
+          "width": "3400",
+          "height": "2640",
+          "filesize": "3425518",
+          "filename": "2024.6.ee_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.ee/2024.6.ee_full.tif",
+          "width": "6895",
+          "height": "5353",
+          "filesize": "110757030",
+          "filename": "2024.6.ee_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-25T14:59:47",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.ee/2024.6.ee_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "138725"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.ee/2024.6.ee_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "2064352"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.ee/2024.6.ee_alt0_full.tif",
+            "width": "14204",
+            "height": "9353",
+            "filesize": "398579182"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667928,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:09.694000"
+    },
+    {
+      "id": 667932,
+      "accession_number": "2024.6.ii",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: View in the Large Garden, Jellalabad, 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.ii",
+      "current_location": null,
+      "title": "View in the Large Garden, Jellalabad",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448807"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.ii",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.ii/2024.6.ii_web.jpg",
+          "width": "900",
+          "height": "750",
+          "filesize": "303472",
+          "filename": "2024.6.ii_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.ii/2024.6.ii_print.jpg",
+          "width": "3400",
+          "height": "2835",
+          "filesize": "3942178",
+          "filename": "2024.6.ii_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.ii/2024.6.ii_full.tif",
+          "width": "6084",
+          "height": "5073",
+          "filesize": "92625190",
+          "filename": "2024.6.ii_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-25T15:07:40",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.ii/2024.6.ii_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "144600"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.ii/2024.6.ii_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "2088851"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.ii/2024.6.ii_alt0_full.tif",
+            "width": "14204",
+            "height": "9353",
+            "filesize": "398579398"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667932,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:33.335000"
+    },
+    {
+      "id": 667959,
+      "accession_number": "2024.6.xx",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: Upper Bala Hissar, from West, 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.xx",
+      "current_location": null,
+      "title": "Upper Bala Hissar, from West",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448835"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.xx",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.xx/2024.6.xx_web.jpg",
+          "width": "900",
+          "height": "572",
+          "filesize": "247859",
+          "filename": "2024.6.xx_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.xx/2024.6.xx_print.jpg",
+          "width": "3400",
+          "height": "2160",
+          "filesize": "3004106",
+          "filename": "2024.6.xx_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.xx/2024.6.xx_full.tif",
+          "width": "7438",
+          "height": "4726",
+          "filesize": "105487490",
+          "filename": "2024.6.xx_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-27T12:06:32",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.xx/2024.6.xx_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "153078"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.xx/2024.6.xx_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "2108103"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.xx/2024.6.xx_alt0_full.tif",
+            "width": "14204",
+            "height": "9353",
+            "filesize": "398579530"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667959,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:50.662000"
+    },
+    {
+      "id": 667934,
+      "accession_number": "2024.6.kk",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: Jellalabad, Pipers Hill, 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.kk",
+      "current_location": null,
+      "title": "Jellalabad, Pipers Hill",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448810"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.kk",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.kk/2024.6.kk_web.jpg",
+          "width": "900",
+          "height": "596",
+          "filesize": "231886",
+          "filename": "2024.6.kk_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.kk/2024.6.kk_print.jpg",
+          "width": "3400",
+          "height": "2250",
+          "filesize": "2933772",
+          "filename": "2024.6.kk_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.kk/2024.6.kk_full.tif",
+          "width": "7094",
+          "height": "4695",
+          "filesize": "99950450",
+          "filename": "2024.6.kk_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-25T15:10:25",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.kk/2024.6.kk_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "147193"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.kk/2024.6.kk_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "2025083"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.kk/2024.6.kk_alt0_full.tif",
+            "width": "14204",
+            "height": "9353",
+            "filesize": "398579398"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667934,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:13.192000"
+    },
+    {
+      "id": 667937,
+      "accession_number": "2024.6.mm",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: Safed Sang Camp from 51st Camp, 1878–80. John Burke (Irish, 1845–1915). Albumen print, panorama. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.mm",
+      "current_location": null,
+      "title": "Safed Sang Camp from 51st Camp",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print, panorama",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448813"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.mm",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.mm/2024.6.mm_web.jpg",
+          "width": "900",
+          "height": "137",
+          "filesize": "70253",
+          "filename": "2024.6.mm_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.mm/2024.6.mm_print.jpg",
+          "width": "3400",
+          "height": "519",
+          "filesize": "656089",
+          "filename": "2024.6.mm_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.mm/2024.6.mm_full.tif",
+          "width": "7628",
+          "height": "1165",
+          "filesize": "26687550",
+          "filename": "2024.6.mm_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-25T15:21:01",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.mm/2024.6.mm_alt0_web.jpg",
+            "width": "900",
+            "height": "273",
+            "filesize": "114163"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.mm/2024.6.mm_alt0_print.jpg",
+            "width": "3400",
+            "height": "1030",
+            "filesize": "1344802"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.mm/2024.6.mm_alt0_full.tif",
+            "width": "7454",
+            "height": "2259",
+            "filesize": "50543854"
+          }
+        },
+        {
+          "date_created": "2024-11-25T15:21:01",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.mm/2024.6.mm_alt1_web.jpg",
+            "width": "900",
+            "height": "598",
+            "filesize": "128849"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.mm/2024.6.mm_alt1_print.jpg",
+            "width": "3400",
+            "height": "2258",
+            "filesize": "1945208"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.mm/2024.6.mm_alt1_full.tif",
+            "width": "14204",
+            "height": "9433",
+            "filesize": "401987882"
+          }
+        },
+        {
+          "date_created": "2024-11-27T14:28:20",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.mm/2024.6.mm_alt2_web.jpg",
+            "width": "900",
+            "height": "279",
+            "filesize": "102220"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.mm/2024.6.mm_alt2_print.jpg",
+            "width": "3400",
+            "height": "1053",
+            "filesize": "1245326"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.mm/2024.6.mm_alt2_full.tif",
+            "width": "7332",
+            "height": "2270",
+            "filesize": "49959446"
+          }
+        },
+        {
+          "date_created": "2024-11-27T14:28:20",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.mm/2024.6.mm_alt3_web.jpg",
+            "width": "900",
+            "height": "598",
+            "filesize": "113739"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.mm/2024.6.mm_alt3_print.jpg",
+            "width": "3400",
+            "height": "2258",
+            "filesize": "1677730"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.mm/2024.6.mm_alt3_full.tif",
+            "width": "14204",
+            "height": "9432",
+            "filesize": "401945334"
+          }
+        },
+        {
+          "date_created": "2024-11-27T14:42:54",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.mm/2024.6.mm_alt4_web.jpg",
+            "width": "900",
+            "height": "319",
+            "filesize": "81496"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.mm/2024.6.mm_alt4_print.jpg",
+            "width": "3400",
+            "height": "1206",
+            "filesize": "869597"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.mm/2024.6.mm_alt4_full.tif",
+            "width": "14204",
+            "height": "5039",
+            "filesize": "214750370"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667937,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:14.194000"
+    },
+    {
+      "id": 667911,
+      "accession_number": "2024.6.v",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: Landi Kotal Pass, 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.v",
+      "current_location": null,
+      "title": "Landi Kotal Pass",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448781"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.v",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.v/2024.6.v_web.jpg",
+          "width": "900",
+          "height": "681",
+          "filesize": "321001",
+          "filename": "2024.6.v_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.v/2024.6.v_print.jpg",
+          "width": "3400",
+          "height": "2571",
+          "filesize": "3802173",
+          "filename": "2024.6.v_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.v/2024.6.v_full.tif",
+          "width": "6615",
+          "height": "5003",
+          "filesize": "99317094",
+          "filename": "2024.6.v_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-25T14:28:42",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.v/2024.6.v_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "153406"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.v/2024.6.v_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "2227572"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.v/2024.6.v_alt0_full.tif",
+            "width": "14204",
+            "height": "9353",
+            "filesize": "398579262"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667911,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:09.927000"
+    },
+    {
+      "id": 153623,
+      "accession_number": "1987.151",
+      "share_license_status": "Copyrighted",
+      "tombstone": "The Inferno--Grand Canyon, 1919. Karl F. Struss (American, 1886–1981). Palladium print; image: 11.5 x 9.2 cm (4 1/2 x 3 5/8 in.); matted: 45.7 x 35.6 cm (18 x 14 in.). The Cleveland Museum of Art, Gift of Mrs. R. Henry Norweb and Mrs. R. Henry Norweb Jr. in memory of Kenyon C. Bolton, 1987.151",
+      "current_location": null,
+      "title": "The Inferno--Grand Canyon",
+      "creation_date": "1919",
+      "creation_date_earliest": 1919,
+      "creation_date_latest": 1919,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "palladium print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 11.5 x 9.2 cm (4 1/2 x 3 5/8 in.); Matted: 45.7 x 35.6 cm (18 x 14 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.115,
+          "width": 0.092
+        },
+        "matted": {
+          "height": 0.457,
+          "width": 0.356
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on print: \"Karl Struss [signed]\"; in pencil on mount: \"Karl Struss [signed]\"; \"5 [circled]\"; in pencil on verso: \" 'The Inferno-Grand Canyon' / Palladio print / $5 / 22195 / [an undistinguishable mark]\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 310231,
+            "title": "The Year in Review for 1987",
+            "description": "<i>The Year in Review for 1987</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 24-April 17, 1988).",
+            "opening_date": "1988-02-24T05:00:00"
+          },
+          {
+            "id": 311875,
+            "title": "Legacy of Light: Master Photographs from the Cleveland Museum of Art",
+            "description": "<i>Legacy of Light: Master Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 24, 1996-February 2, 1997).",
+            "opening_date": "1996-11-24T05:00:00"
+          },
+          {
+            "id": 185373,
+            "title": "American Space:  Landscape Photography 1900-1950",
+            "description": "<i>American Space:  Landscape Photography 1900-1950</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 6-May 23, 2001).",
+            "opening_date": "2001-01-06T00:00:00"
+          },
+          {
+            "id": 202729,
+            "title": "Shadows and Dreams: Pictorialist Photography in America",
+            "description": "<i>Shadows and Dreams: Pictorialist Photography in America</i>. The Cleveland Museum of Art (organizer) (September 5, 2015-January 17, 2016).",
+            "opening_date": "2015-09-05T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, February 24 - April 17, 1988: \"Year in Review 1987,\" CMA Bulletin, 75 (February 1988), p. 67, no. 87.",
+            "opening_date": "1988-02-24T00:00:00"
+          },
+          {
+            "description": "CMA, November 20,1996 - February 2, 1997: \"Legacy of Light: Master Photographs from the Cleveland Museum of Art.\"",
+            "opening_date": "1997-02-02T00:00:00"
+          },
+          {
+            "description": "CMA, January 3 - May 23, 2001: \"American Space: Landscape Photography, 1900-1950.\"",
+            "opening_date": "2001-01-03T00:00:00"
+          },
+          {
+            "description": "The Cleveland Museum of Art (9/5/2015 - 1/17/2016); \"Pictorialist Photography\"",
+            "opening_date": "2015-09-05T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "During the first two decades of the 20th century, Struss was one of the most important photographers working with Pictorialism. After closing his commercial studio in New York in 1919, he moved to Hollywood, where he later became a successful cinematographer. It was on the trip west that Struss visited the Grand Canyon, encountering light, color, and spatial effects surpassing anything he had ever experienced. Immediately inspired, he produced landscape images that were unlike any of his previous work. This photograph's visual complexity and the rich tonal range provided by the palladium process justly recorded the grandeur of the view, providing an immense sense of space and distance. Carefully composed to take advantage of strong light and shadow patterns, he turned geological formations into bold, interlocking abstract forms.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60781098"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 347",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1987.151",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Mrs. R. Henry Norweb and Mrs. R. Henry Norweb Jr. in memory of Kenyon C. Bolton",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 153623,
+      "creators": [
+        {
+          "id": 970,
+          "description": "Karl F. Struss (American, 1886–1981)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Karl F. Struss American, 1886-1981\r\n\r\nBorn and raised in New York City, Karl Fischer Struss was an important early pictorialist and a cofounder of the Pictorial Photographers of America. He was also a member of the Photo-Secession, publishing his works in Camera Work (April 1912), and a photographer for publications such as Vogue, Vanity Fair, and Harper's Bazaar.\r\n\tA student of Clarence H. White, Struss was influenced by both White and Alvin Langdon Coburn. He developed his own style, however, an elegant synthesis of random qualities with formal composition. Struss experimented with various technical processes. He developed multiple platinum printing to enhance the depth of shadows and in 1909 designed the Struss Pictorial lens, which entered commercial production in 1915.\r\n\tShortly after the First World War, Struss moved to Hollywood, where he became a successful cinematographer. He worked first for Cecil B. De Mille and later freelanced for both independent and major studios until his retirement in 1970. Among his film credits are Ben Hur (1926), Dr. Jekyll and Mr. Hyde (1932), and the Chaplin classics The Great Dictator (1940) and Limelight (1952). In 1928 Struss received an Academy Award for his work on De Mille's film Sunrise. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1886",
+          "death_year": "1981",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1987-11-18T00:00:00",
+      "sortable_date": 1919,
+      "date_added_to_oa": null,
+      "date_text": "1919",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:47.717000"
+    },
+    {
+      "id": 667885,
+      "accession_number": "2024.6.b",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: The Amir Yakub Khan, General Daod Shah, Habeebula Moustafi, Major Cavagnari, Mr. Jenkyns, 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.b",
+      "current_location": null,
+      "title": "The Amir Yakub Khan, General Daod Shah, Habeebula Moustafi, Major Cavagnari, Mr. Jenkyns",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448745"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.b",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.b/2024.6.b_web.jpg",
+          "width": "900",
+          "height": "566",
+          "filesize": "186521",
+          "filename": "2024.6.b_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.b/2024.6.b_print.jpg",
+          "width": "3400",
+          "height": "2140",
+          "filesize": "2644552",
+          "filename": "2024.6.b_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.b/2024.6.b_full.tif",
+          "width": "7515",
+          "height": "4731",
+          "filesize": "106691646",
+          "filename": "2024.6.b_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-25T12:34:56",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.b/2024.6.b_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "127860"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.b/2024.6.b_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "1798278"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.b/2024.6.b_alt0_full.tif",
+            "width": "14204",
+            "height": "9353",
+            "filesize": "398579354"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667885,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:36.369000"
+    },
+    {
+      "id": 667891,
+      "accession_number": "2024.6.h",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: Shadi Bagiar, Entrance to Khyber Pass, 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.h",
+      "current_location": null,
+      "title": "Shadi Bagiar, Entrance to Khyber Pass",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448757"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.h",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.h/2024.6.h_web.jpg",
+          "width": "900",
+          "height": "705",
+          "filesize": "246827",
+          "filename": "2024.6.h_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.h/2024.6.h_print.jpg",
+          "width": "3400",
+          "height": "2664",
+          "filesize": "3463985",
+          "filename": "2024.6.h_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.h/2024.6.h_full.tif",
+          "width": "7032",
+          "height": "5509",
+          "filesize": "116248258",
+          "filename": "2024.6.h_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-25T13:55:03",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.h/2024.6.h_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "138605"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.h/2024.6.h_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "2057840"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.h/2024.6.h_alt0_full.tif",
+            "width": "14204",
+            "height": "9353",
+            "filesize": "398579150"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667891,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:13.183000"
+    },
+    {
+      "id": 667906,
+      "accession_number": "2024.6.q",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: End of the Defile, Looking Back at Ali Musjid, 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.q",
+      "current_location": null,
+      "title": "End of the Defile, Looking Back at Ali Musjid",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448773"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.q",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.q/2024.6.q_web.jpg",
+          "width": "900",
+          "height": "718",
+          "filesize": "285408",
+          "filename": "2024.6.q_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.q/2024.6.q_print.jpg",
+          "width": "3400",
+          "height": "2712",
+          "filesize": "3616561",
+          "filename": "2024.6.q_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.q/2024.6.q_full.tif",
+          "width": "6846",
+          "height": "5461",
+          "filesize": "112190286",
+          "filename": "2024.6.q_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-25T14:18:54",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.q/2024.6.q_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "152595"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.q/2024.6.q_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "2097327"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.q/2024.6.q_alt0_full.tif",
+            "width": "14204",
+            "height": "9353",
+            "filesize": "398579774"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667906,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:54.172000"
+    },
+    {
+      "id": 667893,
+      "accession_number": "2024.6.j",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: Khyber Chiefs with Captain Tucker, 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.j",
+      "current_location": null,
+      "title": "Khyber Chiefs with Captain Tucker",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448761"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.j",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.j/2024.6.j_web.jpg",
+          "width": "900",
+          "height": "723",
+          "filesize": "304315",
+          "filename": "2024.6.j_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.j/2024.6.j_print.jpg",
+          "width": "3400",
+          "height": "2732",
+          "filesize": "3508864",
+          "filename": "2024.6.j_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.j/2024.6.j_full.tif",
+          "width": "6463",
+          "height": "5194",
+          "filesize": "100740190",
+          "filename": "2024.6.j_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-25T14:01:51",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.j/2024.6.j_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "151290"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.j/2024.6.j_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "2025218"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.j/2024.6.j_alt0_full.tif",
+            "width": "14204",
+            "height": "9353",
+            "filesize": "398579570"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667893,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:28.863000"
+    },
+    {
+      "id": 667899,
+      "accession_number": "2024.6.l",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: Shergai Heights, Looking Towards Ali Musjid, 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.l",
+      "current_location": null,
+      "title": "Shergai Heights, Looking Towards Ali Musjid",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448764"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.l",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.l/2024.6.l_web.jpg",
+          "width": "900",
+          "height": "526",
+          "filesize": "184617",
+          "filename": "2024.6.l_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.l/2024.6.l_print.jpg",
+          "width": "3400",
+          "height": "1987",
+          "filesize": "2327397",
+          "filename": "2024.6.l_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.l/2024.6.l_full.tif",
+          "width": "7396",
+          "height": "4322",
+          "filesize": "95926346",
+          "filename": "2024.6.l_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-25T14:07:55",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.l/2024.6.l_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "133137"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.l/2024.6.l_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "1880418"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.l/2024.6.l_alt0_full.tif",
+            "width": "14204",
+            "height": "9353",
+            "filesize": "398579142"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667899,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:38.753000"
+    },
+    {
+      "id": 667954,
+      "accession_number": "2024.6.ss",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: Entrance to Jugdalluck, 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.ss",
+      "current_location": null,
+      "title": "Entrance to Jugdalluck",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448825"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.ss",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.ss/2024.6.ss_web.jpg",
+          "width": "900",
+          "height": "723",
+          "filesize": "368990",
+          "filename": "2024.6.ss_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.ss/2024.6.ss_print.jpg",
+          "width": "3400",
+          "height": "2731",
+          "filesize": "4069206",
+          "filename": "2024.6.ss_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.ss/2024.6.ss_full.tif",
+          "width": "7139",
+          "height": "5735",
+          "filesize": "122861090",
+          "filename": "2024.6.ss_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-27T11:56:38",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.ss/2024.6.ss_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "182448"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.ss/2024.6.ss_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "2398185"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.ss/2024.6.ss_alt0_full.tif",
+            "width": "14204",
+            "height": "9352",
+            "filesize": "398537666"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667954,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:05:58.293000"
+    },
+    {
+      "id": 667961,
+      "accession_number": "2024.6.zz",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: Ali Keyl, Pewar Kotal, 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.zz",
+      "current_location": null,
+      "title": "Ali Keyl, Pewar Kotal",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448839"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.zz",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.zz/2024.6.zz_web.jpg",
+          "width": "900",
+          "height": "665",
+          "filesize": "231237",
+          "filename": "2024.6.zz_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.zz/2024.6.zz_print.jpg",
+          "width": "3400",
+          "height": "2514",
+          "filesize": "3045554",
+          "filename": "2024.6.zz_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.zz/2024.6.zz_full.tif",
+          "width": "7053",
+          "height": "5215",
+          "filesize": "110374590",
+          "filename": "2024.6.zz_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-27T12:10:20",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.zz/2024.6.zz_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "140265"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.zz/2024.6.zz_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "2068637"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.zz/2024.6.zz_alt0_full.tif",
+            "width": "14204",
+            "height": "9353",
+            "filesize": "398579122"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667961,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:17.705000"
+    }
+  ]
+}

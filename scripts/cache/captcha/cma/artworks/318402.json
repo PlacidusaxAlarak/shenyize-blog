@@ -1,0 +1,142 @@
+{
+  "data": {
+    "id": 318402,
+    "accession_number": "2018.912",
+    "share_license_status": "Copyrighted",
+    "tombstone": "France. Paris in Winter: Untitled, 1962. Bruce Davidson (American, b. 1933). Gelatin silver print; image: 23.6 x 34.9 cm (9 5/16 x 13 3/4 in.); paper: 23.6 x 34.9 cm (9 5/16 x 13 3/4 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.912",
+    "current_location": null,
+    "title": "Untitled",
+    "series": "France. Paris in Winter",
+    "creation_date": "1962",
+    "creation_date_earliest": 1962,
+    "creation_date_latest": 1962,
+    "artists_tags": [
+      "male",
+      "Jewish artists"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "gelatin silver print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1951-Present",
+    "type": "Photograph",
+    "measurements": "Image: 23.6 x 34.9 cm (9 5/16 x 13 3/4 in.); Paper: 23.6 x 34.9 cm (9 5/16 x 13 3/4 in.)",
+    "dimensions": {
+      "paper": {
+        "height": 0.236,
+        "width": 0.349
+      },
+      "image": {
+        "height": 0.236,
+        "width": 0.349
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Written in red ink on verso: \"D2c\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      },
+      {
+        "inscription": "Stamped in blue ink on verso: \"MAGNUM/PHOTO LIBRARY PRINT/NEW YORK./PRINT REF:/LOG REF: 12415 [written in pencil] 13973 [written in pencil]/TO BE RETURNED.\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      },
+      {
+        "inscription": "Written in pencil on verso: \"Bruce Davidson (signed)\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      },
+      {
+        "inscription": "Written in pencil on verso: \"62-6-14/3\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      },
+      {
+        "inscription": "Stamped in black ink on verso: \"Photograph By/Bruce Davidson/© 1963 MAGNUM PHOTOS/15 West 47th Street, N.Y.C. 36\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      },
+      {
+        "inscription": "Written in red ink on verso: \"Paris in Winter\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      },
+      {
+        "inscription": "Written in pencil on verso: \"Paris-Luxembourg Garden\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": null,
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79876957"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2018.912",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of an anonymous donor",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 318402,
+    "creators": [
+      {
+        "id": 64191,
+        "description": "Bruce Davidson (American, b. 1933)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1933",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2018-12-03T00:00:00-05:00",
+    "sortable_date": 1962,
+    "date_added_to_oa": null,
+    "date_text": "1962",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:08:19.743000"
+  }
+}

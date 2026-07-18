@@ -1,0 +1,119 @@
+{
+  "data": {
+    "id": 161796,
+    "accession_number": "2001.132",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Nuit St. Georges #8, 1998. Bert Teunissen (Netherlandish, b. 1959). Inkjet print, Iris; image: 51.7 x 99.7 cm (20 3/8 x 39 1/4 in.); paper: 88.9 x 120 cm (35 x 47 1/4 in.). The Cleveland Museum of Art, Gift of Friends of Photography, 2001.132. © Bert Teunissen, Courtesy Yossi Milo Gallery, NYC.",
+    "current_location": null,
+    "title": "Nuit St. Georges #8",
+    "creation_date": "1998",
+    "creation_date_earliest": 1998,
+    "creation_date_latest": 1998,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "Netherlands"
+    ],
+    "technique": "inkjet print, Iris",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - Misc. 20th Century",
+    "type": "Photograph",
+    "measurements": "Image: 51.7 x 99.7 cm (20 3/8 x 39 1/4 in.); Paper: 88.9 x 120 cm (35 x 47 1/4 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.517,
+        "width": 0.997
+      },
+      "paper": {
+        "height": 0.889,
+        "width": 1.2
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": "© Bert Teunissen, Courtesy Yossi Milo Gallery, NYC.",
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 184611,
+          "title": "Gifts from the CMA Friends of Photography",
+          "description": "<i>Gifts from the CMA Friends of Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 7, 2002-April 23, 2003).",
+          "opening_date": "2002-12-07T00:00:00"
+        },
+        {
+          "id": 183983,
+          "title": "Drawn, Exposed and Impressed",
+          "description": "<i>Drawn, Exposed and Impressed</i>. MOCA Cleveland, OH (January 20-May 7, 2006).",
+          "opening_date": "2006-01-20T00:00:00"
+        }
+      ],
+      "legacy": [
+        {
+          "description": "Cleveland, Ohio:  The Cleveland Museum of Art; December 7, 2002 -  April 23, 2003.  \"Gifts from the CMA Friends of Photography.\"",
+          "opening_date": "2002-12-07T00:00:00"
+        },
+        {
+          "description": "MOCA Cleveland (1/20/2006 - 5/7/2006):  \"Drawn, Exposed, and Impressed: Recent Works on Paper from the Cleveland Museum of Art,\" no catalogue.",
+          "opening_date": "2006-01-20T00:00:00"
+        }
+      ]
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "Since the late 1990s, Dutch photographer Bert Teunissen has created a group of solemn, softly lit portraits of elderly men and women in their antiquated homes. For the artist, his subjects evoke distant memories of his childhood and are living relics of a simpler time. Golden light from an unseen window illuminates the architecture and rich furnishings of the room in this photograph. The highlights and tightly controlled composition suggest the work of such Dutch masters as Vermeer and Pieter de Hooch. The owner of a well-known vineyard in France, this obviously affluent sitter appears at ease in front of the camera. ",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79985007"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2001.132",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Friends of Photography",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 161796,
+    "creators": [
+      {
+        "id": 41339,
+        "description": "Bert Teunissen (Netherlandish, b. 1959)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1959",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2001-12-03T00:00:00",
+    "sortable_date": 1998,
+    "date_added_to_oa": null,
+    "date_text": "1998",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": "3",
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:02:47.577000"
+  }
+}

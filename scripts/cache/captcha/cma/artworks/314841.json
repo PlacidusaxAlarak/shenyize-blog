@@ -1,0 +1,133 @@
+{
+  "data": {
+    "id": 314841,
+    "accession_number": "2018.235",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Urban Gardening: Ohio City Farm, 2013. Greg Miller (American, b. 1967). Gelatin silver print; image: 26.7 x 33.4 cm (10 1/2 x 13 1/8 in.); paper: 27.9 x 35.6 cm (11 x 14 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, 2018.235",
+    "current_location": null,
+    "title": "Ohio City Farm",
+    "series": "Urban Gardening",
+    "creation_date": "2013",
+    "creation_date_earliest": 2013,
+    "creation_date_latest": 2013,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "gelatin silver print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1951-Present",
+    "type": "Photograph",
+    "measurements": "Image: 26.7 x 33.4 cm (10 1/2 x 13 1/8 in.); Paper: 27.9 x 35.6 cm (11 x 14 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.267,
+        "width": 0.334
+      },
+      "paper": {
+        "height": 0.279,
+        "width": 0.356
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Written in black ink on verso: “Ohio City Farm, 2013 (2013.0584) Greg Miller (signed)”",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Greg Miller",
+        "citations": [],
+        "footnotes": [],
+        "date": "2013",
+        "sortorder": 1
+      },
+      {
+        "description": "The George Gund Foundation, Cleveland, OH",
+        "citations": [],
+        "footnotes": [],
+        "date": "2013",
+        "sortorder": 2
+      },
+      {
+        "description": "the Cleveland Museum of Art",
+        "citations": [],
+        "footnotes": [],
+        "date": "September 4, 2018",
+        "sortorder": 3
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "Ohio City Farm, at six acres, is one of the largest contiguous urban farms in the country.",
+    "description": "Ohio City Farm is located just across the river from downtown Cleveland. It operates a farm stand and sells through a CSA subscription program managed by Refugee Response and hosts an educational and training program for low-income, public housing residents.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79874339"
+      ],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "<em>The George Gund Foundation 2013 Annual Report</em>",
+        "page_number": null,
+        "url": "https://gundfoundation.org/news-publications/annual-reports/photography-portfolios/2013-urban-farming/"
+      }
+    ],
+    "url": "https://clevelandart.org/art/2018.235",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "The George Gund Foundation Collection in honor of David Bergholz",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 314841,
+    "creators": [
+      {
+        "id": 314828,
+        "description": "Greg Miller (American, b. 1967)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1967",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2018-09-04T00:00:00-04:00",
+    "sortable_date": 2013,
+    "date_added_to_oa": null,
+    "date_text": "2013",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:04:09.731000"
+  }
+}

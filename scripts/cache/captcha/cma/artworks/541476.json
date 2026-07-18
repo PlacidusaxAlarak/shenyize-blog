@@ -1,0 +1,113 @@
+{
+  "data": {
+    "id": 541476,
+    "accession_number": "2023.96",
+    "share_license_status": "Copyrighted",
+    "tombstone": "One and Three Persons (with Two Contexts - One Chaotic), 1994–2012. John Baldessari (American, 1931–2020). 14 color screenprint; sheet: 121.9 x 94 cm (48 x 37 in.). The Cleveland Museum of Art, Gift of Linda and Jack Lissauer, M.D., 2023.96",
+    "current_location": null,
+    "title": "One and Three Persons (with Two Contexts - One Chaotic)",
+    "creation_date": "1994–2012",
+    "creation_date_earliest": 1994,
+    "creation_date_latest": 2012,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "14 color screenprint",
+    "support_materials": [],
+    "department": "Prints",
+    "collection": "PR - Screenprint",
+    "type": "Print",
+    "measurements": "Sheet: 121.9 x 94 cm (48 x 37 in.)",
+    "dimensions": {
+      "sheet": {
+        "height": 1.219,
+        "width": 0.94
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": "Edition of 48",
+    "copyright": null,
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 541557,
+          "title": "New Narratives: Contemporary Works on Paper",
+          "description": "<i>New Narratives: Contemporary Works on Paper</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 19, 2023-April 14, 2024).",
+          "opening_date": "2023-11-19T05:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "Pioneering Conceptual artist John Baldessari worked in a plethora of media including sculpture, printmaking, photography, painting, film, performance, installation, and books.",
+    "description": "John Baldessari was known for incorporating appropriated imagery into his various artworks, including into his printmaking practice. Here he used found photographs of architecture and architectural rubble juxtaposed with outlined figures to create strange or even ominous undertones. His continuing interest in formal qualities, such as dimensionality, is highlighted by his use of the irregularly shaped sheet of paper, white cut-outs and silhouettes.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q122828793"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2023.96",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Linda and Jack Lissauer, M.D.",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 541476,
+    "creators": [
+      {
+        "id": 22195,
+        "description": "John Baldessari (American, 1931–2020)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1931",
+        "death_year": "2020",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      },
+      {
+        "id": 68096,
+        "description": "Gemini G.E.L., Los Angeles",
+        "extent": "published by",
+        "qualifier": null,
+        "role": "publisher",
+        "biography": null,
+        "name_in_original_language": null,
+        "use_in_caption": false,
+        "include_extent": false,
+        "weight": 2
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2023-06-05T04:00:00Z",
+    "sortable_date": 1994,
+    "date_added_to_oa": null,
+    "date_text": "1994–2012",
+    "collapse_artists": true,
+    "on_loan": false,
+    "recently_acquired": true,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-26 23:59:14.424000"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "data": {
+    "id": 296766,
+    "accession_number": "2017.83",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Group in Front of Fence, Pitt Street, Lower East Side, NY, 1938, printed later. Walter Rosenblum (American, 1919–2006). Gelatin silver print, toned; image: 17.9 x 23.1 cm (7 1/16 x 9 1/8 in.); paper: 19.5 x 25.1 cm (7 11/16 x 9 7/8 in.). The Cleveland Museum of Art, Gift of the Rosenblum Family, 2017.83. © Walter Rosenblum",
+    "current_location": null,
+    "title": "Group in Front of Fence, Pitt Street, Lower East Side, NY",
+    "creation_date": "1938, printed later",
+    "creation_date_earliest": 1938,
+    "creation_date_latest": 1938,
+    "artists_tags": [
+      "male",
+      "Jewish artists"
+    ],
+    "culture": [
+      "United States"
+    ],
+    "technique": "gelatin silver print, toned",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1900-1950",
+    "type": "Photograph",
+    "measurements": "Image: 17.9 x 23.1 cm (7 1/16 x 9 1/8 in.); Paper: 19.5 x 25.1 cm (7 11/16 x 9 7/8 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.179,
+        "width": 0.231
+      },
+      "paper": {
+        "height": 0.195,
+        "width": 0.251
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": "© Walter Rosenblum",
+    "inscriptions": [
+      {
+        "inscription": "Written in black ink on verso: “Group in Front of Fence/Pitt St. N.Y. 1938”\nWritten in black ink on verso: “Walter Rosenblum (signed)”\nWritten in pencil on verso: “ACMS WR0032.26”",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 299125,
+          "title": "From Riches to Rags: American Photography in the Depression",
+          "description": "<i>From Riches to Rags: American Photography in the Depression</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 13-December 31, 2017).",
+          "opening_date": "2017-08-13T04:00:00"
+        },
+        {
+          "id": 393871,
+          "title": "A New York Minute: Street Photography, 1920–1950",
+          "description": "<i>A New York Minute: Street Photography, 1920–1950</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 11-November 7, 2021).",
+          "opening_date": "2021-07-10T04:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "Taken at the height of the Depression when he was 19, this image shows a world Rosenblum knew intimately. One of five children of immigrant parents, he grew up in a three-room cold-water flat in one of the tenement buildings that filled New York’s Lower East Side. Because apartments were crowded, much of life was lived on the street, providing ample material for his camera.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79872501"
+      ],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "Tannenbaum, Barabara. “Acquisition Highlights: Photography.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 58, no. 2 (March/April 2018): 16-17.",
+        "page_number": "Reproduced and Mentioned: P. 16",
+        "url": "https://archive.org/details/CMAMM2018-02/page/n7/mode/2up"
+      },
+      {
+        "citation": "Tannenbaum, Barbara. “A New York Minute: Take a look at street photography between 1920 and 1950.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>61, no. 2 (Spring 2021): 24-26.",
+        "page_number": "Reproduced: P. 25",
+        "url": "https://archive.org/details/CMAMM2021-02/page/24/mode/2up"
+      }
+    ],
+    "url": "https://clevelandart.org/art/2017.83",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of the Rosenblum Family",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 296766,
+    "creators": [
+      {
+        "id": 8820,
+        "description": "Walter Rosenblum (American, 1919–2006)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1919",
+        "death_year": "2006",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2017-06-05T00:00:00-04:00",
+    "sortable_date": 1938,
+    "date_added_to_oa": null,
+    "date_text": "1938, printed later",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:10:30.523000"
+  }
+}

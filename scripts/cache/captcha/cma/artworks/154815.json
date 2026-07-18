@@ -1,0 +1,128 @@
+{
+  "data": {
+    "id": 154815,
+    "accession_number": "1989.397",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Brooklyn Bridge, c. 1920s. Herbert J. Seligmann (American, 1891–1984). Gelatin silver print; image: 10.1 x 7.5 cm (4 x 2 15/16 in.); paper: 10.8 x 8.2 cm (4 1/4 x 3 1/4 in.); matted: 30.6 x 25.4 cm (12 1/16 x 10 in.). The Cleveland Museum of Art, John L. Severance Fund, 1989.397",
+    "current_location": null,
+    "title": "Brooklyn Bridge",
+    "creation_date": "c. 1920s",
+    "creation_date_earliest": 1920,
+    "creation_date_latest": 1929,
+    "artists_tags": [
+      "male",
+      "Jewish artists"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "gelatin silver print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1900-1950",
+    "type": "Photograph",
+    "measurements": "Image: 10.1 x 7.5 cm (4 x 2 15/16 in.); Paper: 10.8 x 8.2 cm (4 1/4 x 3 1/4 in.); Matted: 30.6 x 25.4 cm (12 1/16 x 10 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.101,
+        "width": 0.075
+      },
+      "paper": {
+        "height": 0.108,
+        "width": 0.082
+      },
+      "matted": {
+        "height": 0.306,
+        "width": 0.254
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Written in pencil on verso: \"Seligman [sic] B-LORE....[?]\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 310333,
+          "title": "The Year in Review for 1989",
+          "description": "<i>The Year in Review for 1989</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 6-April 15, 1990).",
+          "opening_date": "1990-02-06T05:00:00"
+        }
+      ],
+      "legacy": [
+        {
+          "description": "CMA, Feb. 6 - April 15, 1990: \"Year in Review 1989,\" CMA Bulletin, 77 (Feb. 1990), p. 68, no. 54.",
+          "opening_date": "1990-02-06T00:00:00"
+        }
+      ]
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": null,
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79942440"
+      ],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+        "page_number": "Reproduced: P. 317",
+        "url": ""
+      }
+    ],
+    "url": "https://clevelandart.org/art/1989.397",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "John L. Severance Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 154815,
+    "creators": [
+      {
+        "id": 877,
+        "description": "Herbert J. Seligmann (American, 1891–1984)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "Herbert J. Seligmann American, 1891-1984 Born in New York City, Herbert J. Seligmann was an author and journalist who wrote about his association with Alfred Stieglitz during the 1920s in his book Alfred Stieglitz Talking. Seligmann graduated from Harvard University (1912) and from 1914 until the early 1940s worked for the New Republic, the New York Evening Post, the New York Globe, and the New York Tribune. In addition to Alfred Stieglitz Talking (1966), which recounted conversations heard while at Stieglitz's Intimate Gallery during the years 1925-31, Seligmann's publications included The Negro Faces America (1924), Race Against Man (1939), and The Letters of John Marin (1931). Interested in architectural and industrial subjects, Seligmann used the abstract qualities inherent in the scenes he photographed to create complex patterns in his images. M.M.",
+        "name_in_original_language": null,
+        "birth_year": "1891",
+        "death_year": "1984",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1990-01-29T00:00:00",
+    "sortable_date": 1920,
+    "date_added_to_oa": null,
+    "date_text": "c. 1920s",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:02:46.135000"
+  }
+}

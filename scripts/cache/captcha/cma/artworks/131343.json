@@ -1,0 +1,153 @@
+{
+  "data": {
+    "id": 131343,
+    "accession_number": "1954.13.3",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Functional Architecture: Shadows, No. 1, c. 1950. Francisco Dosamantes (Mexican, 1911–1986), printed by José Sanchez (Mexican, active 20th century), published by Taller de Gráfica Popular (Mexican, 1937-). Lithograph; sheet: 29.7 x 15 cm (11 11/16 x 5 7/8 in.). The Cleveland Museum of Art, Gift of Francisco Dosamantes, 1954.13.3. © Francisco Dosamantes",
+    "current_location": null,
+    "title": "Shadows, No. 1",
+    "series": "Functional Architecture",
+    "creation_date": "c. 1950",
+    "creation_date_earliest": 1945,
+    "creation_date_latest": 1955,
+    "artists_tags": [
+      "male",
+      "Latine and Hispanic Artists",
+      "gender unknown"
+    ],
+    "culture": [
+      "Mexico, 20th century"
+    ],
+    "technique": "lithograph",
+    "support_materials": [],
+    "department": "Prints",
+    "collection": "PR - Lithograph",
+    "type": "Print",
+    "measurements": "Sheet: 29.7 x 15 cm (11 11/16 x 5 7/8 in.)",
+    "dimensions": {
+      "sheet": {
+        "height": 0.297,
+        "width": 0.15
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": "edition of 55",
+    "copyright": "© Francisco Dosamantes",
+    "inscriptions": [
+      {
+        "inscription": "signed and inscribed in pencil: 29/55 F. Dosamantes",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 373919,
+          "title": "A Graphic Revolution: Prints and Drawings in Latin America",
+          "description": "<i>A Graphic Revolution: Prints and Drawings in Latin America</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 14-August 2, 2020).",
+          "opening_date": "2020-03-08T05:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Francisco Dosamantes [1911-1986], given to the Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "about 1950-1954",
+        "sortorder": 1
+      },
+      {
+        "description": "Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "1954-",
+        "sortorder": 2
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [
+      "1954.15"
+    ],
+    "did_you_know": "Francisco Dosamantes offered the portfolio to which this print belongs as a gift to the Cleveland Museum of Art shortly after it was published in acknowledgement of the museum's growing collection of Mexican art.",
+    "description": "These prints belong to a series in which Francisco Dosamantes juxtaposed Mexico’s rural, indigenous culture with its rapidly industrializing cities. Both artworks depict stark white silhouettes of working-class men against abandoned farmland, suggesting that such figures were being gradually phased out of modern society. Dosamantes intended the series as a political statement on the loss of Mexico’s native culture, as collectivity gave way to urban alienation.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q80022549"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/1954.13.3",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Francisco Dosamantes",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 131343,
+    "creators": [
+      {
+        "id": 28003,
+        "description": "Francisco Dosamantes (Mexican, 1911–1986)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1911",
+        "death_year": "1986",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      },
+      {
+        "id": 373368,
+        "description": "José Sanchez (Mexican, active 20th century)",
+        "extent": "printed by",
+        "qualifier": null,
+        "role": "printer",
+        "biography": null,
+        "name_in_original_language": null,
+        "use_in_caption": true,
+        "include_extent": true,
+        "weight": 2
+      },
+      {
+        "id": 287272,
+        "description": "Taller de Gráfica Popular (Mexican, 1937-)",
+        "extent": "published by",
+        "qualifier": null,
+        "role": "publisher",
+        "biography": "Mexican printmaking workshop, established 1937",
+        "name_in_original_language": null,
+        "birth_year": "1937",
+        "use_in_caption": true,
+        "include_extent": true,
+        "weight": 3
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1954-02-04T00:00:00",
+    "sortable_date": 1945,
+    "date_added_to_oa": null,
+    "date_text": "c. 1950",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "component",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": "1954.13",
+    "is_nazi_era_provenance": false,
+    "impression": "29",
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:06:05.028000"
+  }
+}

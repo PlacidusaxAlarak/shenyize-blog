@@ -1,0 +1,139 @@
+{
+  "data": {
+    "id": 144603,
+    "accession_number": "1969.243",
+    "share_license_status": "CC0",
+    "tombstone": "Old Man Before the Log Bridge, 1819. Johann Christoph Erhard (German, 1795–1822). Etching. The Cleveland Museum of Art, Mr. and Mrs. Charles G. Prasse Collection, 1969.243",
+    "current_location": null,
+    "title": "Old Man Before the Log Bridge",
+    "creation_date": "1819",
+    "creation_date_earliest": 1819,
+    "creation_date_latest": 1819,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "Germany, 19th century"
+    ],
+    "technique": "etching",
+    "support_materials": [],
+    "department": "Prints",
+    "collection": "PR - Etching",
+    "type": "Print",
+    "dimensions": {},
+    "state_of_the_work": "II/III",
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 301313,
+          "title": "Year in Review: 1969",
+          "description": "<i>Year in Review: 1969</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 27-February 22, 1970).",
+          "opening_date": "1970-01-27T05:00:00"
+        },
+        {
+          "id": 309881,
+          "title": "Leona E. Prasse, Connoisseur and Curator",
+          "description": "<i>Leona E. Prasse, Connoisseur and Curator</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 28-August 25, 1985).",
+          "opening_date": "1985-05-28T04:00:00"
+        },
+        {
+          "id": 178036,
+          "title": "Nature Sublime: Landscapes from the 19th Century",
+          "description": "<i>Nature Sublime: Landscapes from the 19th Century</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 15-November 14, 2004).",
+          "opening_date": "2004-08-15T00:00:00"
+        }
+      ],
+      "legacy": [
+        {
+          "description": "Cleveland, Ohio: The Cleveland Museum of Art; 8/15/04-11/14/04. \"Nature Sublime: Landscapes from the 19th Century\".  No exhibition catalogue.",
+          "opening_date": "2004-08-15T00:00:00"
+        }
+      ]
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "This print comes from a series of four etchings known as the \"Salzburg landscapes with large figures.\" Johann Erhard used the setting of the figures in the landscape to hint at wider concerns. This composition of an elderly man approaching a bridge may be read as a metaphor for crossing the boundary between life and death. In Erhard’s oeuvre, the beauty of the landscape gives no assurance of a carefree way of life. His pessimistic outlook can be linked to his mental collapse and suicide in 1822.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79922010"
+      ],
+      "internet_archive": [
+        "https://archive.org/details/clevelandart-1969.243-the-old-man-before-t",
+        "https://archive.org/details/clevelandart-1969.243-old-man-before-the-l"
+      ]
+    },
+    "citations": [],
+    "catalogue_raisonne": "Apell 92",
+    "url": "https://clevelandart.org/art/1969.243",
+    "images": {
+      "annotation": null,
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.243/1969.243_web.jpg",
+        "width": "1263",
+        "height": "857",
+        "filesize": "1042258",
+        "filename": "1969.243_web.jpg"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.243/1969.243_print.jpg",
+        "width": "3400",
+        "height": "2307",
+        "filesize": "6995525",
+        "filename": "1969.243_print.jpg"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.243/1969.243_full.tif",
+        "width": "5730",
+        "height": "3888",
+        "filesize": "66868780",
+        "filename": "1969.243_full.tif"
+      }
+    },
+    "alternate_images": [],
+    "creditline": "Mr. and Mrs. Charles G. Prasse Collection",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 144603,
+    "creators": [
+      {
+        "id": 25719,
+        "description": "Johann Christoph Erhard (German, 1795–1822)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1795",
+        "death_year": "1822",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1969-12-13T00:00:00",
+    "sortable_date": 1819,
+    "date_added_to_oa": null,
+    "date_text": "1819",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:01:19.932000"
+  }
+}

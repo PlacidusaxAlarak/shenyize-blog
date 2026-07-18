@@ -1,0 +1,2917 @@
+{
+  "info": {
+    "total": 509,
+    "parameters": {
+      "skip": 0,
+      "limit": 20,
+      "q": "street photograph",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,gallery,classification_type,department,collection",
+      "search": "street photograph"
+    }
+  },
+  "data": [
+    {
+      "id": 455642,
+      "accession_number": "2022.78",
+      "share_license_status": "CC0",
+      "tombstone": "Street Life in London: Street Advertising, 1876–77. John Thomson (British, 1837–1921). Woodburytype. The Cleveland Museum of Art, Gift of Sharon & Del Zogg in honor of Wendy Watriss and Frederick C. Baldwin (1929-2021), co-founders of Fotofest, Houston, Texas, 2022.78",
+      "current_location": null,
+      "title": "Street Advertising",
+      "series": "Street Life in London",
+      "creation_date": "1876–77",
+      "creation_date_earliest": 1876,
+      "creation_date_latest": 1877,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "woodburytype",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(John Cleary Gallery, Houston, TX)",
+          "citations": [],
+          "footnotes": [],
+          "date": "2006",
+          "sortorder": 1
+        },
+        {
+          "description": "Del Zogg, Concord, NC, given to The Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": [],
+          "date": "2006-2022",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "June 6, 2022-",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Mme. Tussaud’s wax museum in London was founded in 1835.",
+      "description": "The poster being pasted up by the two men in the late 1870s is an ad for Mme. Tussaud’s London, a museum of wax figures that is still in business today. The image was part of John Thomson’s publication <em>Street Life in London</em>, a group of essays and photographsthat was one of the first published compilations of social documentary photographs. It holds a place of honor in the histories of photography, the book, ethnology, and sociology.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117247275"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2022.78-street-advertising"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2022.78",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.78/2022.78_web.jpg",
+          "width": "701",
+          "height": "900",
+          "filesize": "307444",
+          "filename": "2022.78_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.78/2022.78_print.jpg",
+          "width": "2649",
+          "height": "3400",
+          "filesize": "2783827",
+          "filename": "2022.78_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.78/2022.78_full.tif",
+          "width": "6963",
+          "height": "8938",
+          "filesize": "186739920",
+          "filename": "2022.78_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2022-07-08T15:24:36",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2022.78/2022.78_alt0_web.jpg",
+            "width": "706",
+            "height": "900",
+            "filesize": "220177"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2022.78/2022.78_alt0_print.jpg",
+            "width": "2668",
+            "height": "3400",
+            "filesize": "2873531"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2022.78/2022.78_alt0_full.tif",
+            "width": "9632",
+            "height": "12276",
+            "filesize": "354756916"
+          }
+        },
+        {
+          "date_created": "2022-07-08T15:24:51",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2022.78/2022.78_alt1_web.jpg",
+            "width": "706",
+            "height": "900",
+            "filesize": "181350"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2022.78/2022.78_alt1_print.jpg",
+            "width": "2668",
+            "height": "3400",
+            "filesize": "2718090"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2022.78/2022.78_alt1_full.tif",
+            "width": "9632",
+            "height": "12276",
+            "filesize": "354754712"
+          }
+        }
+      ],
+      "creditline": "Gift of Sharon & Del Zogg in honor of Wendy Watriss and Frederick C. Baldwin (1929-2021), co-founders of Fotofest, Houston, Texas",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 455642,
+      "creators": [
+        {
+          "id": 1011,
+          "description": "John Thomson (British, 1837–1921)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "John Thomson British, b. Scotland, 1837-1921\r\n\r\nJohn Thomson studied chemistry at the University of Edinburgh in his native city. While best known for his views of street life in London, Thomson spent his early photographic career in the Far East. Between 1863-73, based at a studio in Singapore, he photographed India, Ceylon (now Sri Lanka), Thailand, Cambodia, and Vietnam. He spent two years photographing China, an ambitious project for which he traveled more than 5,500 miles.\r\n\tReturning to England, Thomson used his experiences, and his 2,000 negatives, to write and publish Illustrations of China and Its People (1873-74), a monumental four-volume work containing 200 collotype illustrations with descriptive text. In 1877 he collaborated with journalist Adolph Smith to publish Street Life in London, one of the first books to combine text with photographic illustrations (36 Woodburytype plates of London's poor) to document sociological case histories.\r\n\tIn 1886 Thomson was appointed instructor of photography to the Royal Geographic Society, where he was a Fellow until his death. He became official photographer to Queen Victoria in 1881 and in 1910 received the same appointment under King George V. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1837",
+          "death_year": "1921",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2022-06-06T00:00:00-04:00",
+      "sortable_date": 1876,
+      "date_added_to_oa": null,
+      "date_text": "1876–77",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:55.798000"
+    },
+    {
+      "id": 372007,
+      "accession_number": "2020.296",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Street Fair Photographer, Paris, 1935, printed 1994. Ilse Bing (American, 1899–1998). Gelatin silver print; image: 25.3 x 31.8 cm (9 15/16 x 12 1/2 in.); paper: 27.8 x 35.2 cm (10 15/16 x 13 7/8 in.). The Cleveland Museum of Art, Gift of Michael Mattis and Judith Hochberg, 2020.296. © Estate of Ilse Bing",
+      "current_location": null,
+      "title": "Street Fair Photographer, Paris",
+      "creation_date": "1935, printed 1994",
+      "creation_date_earliest": 1935,
+      "creation_date_latest": 1935,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 25.3 x 31.8 cm (9 15/16 x 12 1/2 in.); Paper: 27.8 x 35.2 cm (10 15/16 x 13 7/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.253,
+          "width": 0.318
+        },
+        "paper": {
+          "height": 0.278,
+          "width": 0.352
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Estate of Ilse Bing",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “ILSE/BING/1935/94”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “IBMB-358.6 3500”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Estate of the Artist",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "Michael Mattis and Judith Hochberg, Scarsdale, NY",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 7, 2020",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Some street fairs in Paris date back to the Middle Ages.",
+      "description": "Street fairs were popular entertainment in cities in the days before television. Here, Bing photographs not the rides but a fellow photographer, who made his living taking portraits of the fair goers in days when many people did not own a camera.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117243274"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2020.296",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Michael Mattis and Judith Hochberg",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 372007,
+      "creators": [
+        {
+          "id": 291349,
+          "description": "Ilse Bing (American, 1899–1998)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "American and German photographer, born 1899 or 1900, died 1998",
+          "name_in_original_language": null,
+          "birth_year": "1899",
+          "death_year": "1998",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2020-12-07T00:00:00-05:00",
+      "sortable_date": 1935,
+      "date_added_to_oa": null,
+      "date_text": "1935, printed 1994",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:04:46.295000"
+    },
+    {
+      "id": 165149,
+      "accession_number": "2007.150",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Gypsy Palmist, 1934. Dora Maar (French, 1907–1997). Gelatin silver print, ferrotyped; image: 26.8 x 24 cm (10 9/16 x 9 7/16 in.); paper: 30.3 x 24 cm (11 15/16 x 9 7/16 in.). The Cleveland Museum of Art, John L. Severance Fund, 2007.150. © 2013 Artists Rights Society (ARS), New York / ADAGP, Paris",
+      "current_location": null,
+      "title": "Gypsy Palmist",
+      "creation_date": "1934",
+      "creation_date_earliest": 1934,
+      "creation_date_latest": 1934,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "France, 20th century"
+      ],
+      "technique": "gelatin silver print, ferrotyped",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - French 20th Century",
+      "type": "Photograph",
+      "measurements": "Image: 26.8 x 24 cm (10 9/16 x 9 7/16 in.); Paper: 30.3 x 24 cm (11 15/16 x 9 7/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.268,
+          "width": 0.24
+        },
+        "paper": {
+          "height": 0.303,
+          "width": 0.24
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© 2013 Artists Rights Society (ARS), New York / ADAGP, Paris",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 335822,
+            "title": "Dora Maar: Photographer",
+            "description": "<i>Dora Maar: Photographer</i>. Dorsky Gallery (April 25-June 28, 2004).",
+            "opening_date": "2004-04-25T04:00:00"
+          },
+          {
+            "id": 335775,
+            "title": "Accommodations of Desire: Surrealist Works on Paper Collected by Julien Levy",
+            "description": "<i>Accommodations of Desire: Surrealist Works on Paper Collected by Julien Levy</i>. Palmer Museum of Art (September 14-December 5, 2004); McMullen Museum of Art, Boston College, MA (January 16-March 27, 2005); Crocker Art Museum, Sacaramento, CA (July 9-September 11, 2005); Portland Museum of Art (January 1-March 19, 2006).",
+            "opening_date": "2004-09-14T04:00:00"
+          },
+          {
+            "id": 203169,
+            "title": "Forbidden Games: Surrealist and Modernist Photography",
+            "description": "<i>Forbidden Games: Surrealist and Modernist Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 19, 2014-January 11, 2015).",
+            "opening_date": "2014-10-19T00:00:00"
+          },
+          {
+            "id": 383281,
+            "title": "Stories from Storage",
+            "description": "<i>Stories from Storage</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 7-May 16, 2021).",
+            "opening_date": "2021-02-06T05:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "The artist's estate, Paris",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "(PIASA, Paris, Nov. 19, 1999, no. 33, sold to Michael Mattis)",
+          "citations": [],
+          "footnotes": null,
+          "date": "November 19, 1999",
+          "sortorder": 2
+        },
+        {
+          "description": "Michael Mattis [b.1960-1], New York, NY",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 3
+        },
+        {
+          "description": "David Raymond  [b.1979], New York, NY",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 4
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007-",
+          "sortorder": 5
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Dora Maar used a lightweight, handheld Rolleiflex camera, which allowed her to photograph street scenes quickly.",
+      "description": "In 1934 Dora Maar traveled to London where she photographed street life, documenting the harsh reality of those trying to survive during the Great Depression, but also finding some lighter, surreal scenes like this one. From the street below, she captured the strangely disembodied head and hands in the palm reader’s window at a skewed angle that emphasizes the uncanny sight.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60819998"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E. Hinson, Ian Walker, and Lisa Kurzner. Forbidden Games: Surrealist and Modernist Photography : the David Raymond Collection in the Cleveland Museum of Art. 2014.",
+          "page_number": "Reproduced: p. 112, no. 70; mentioned: pp. 223-224.",
+          "url": null
+        },
+        {
+          "citation": "Schaffner, Ingrid, Julien Levy, and Colin Westerbeck. Accommodations of Desire: Surrealist Works on Paper Collected by Julien Levy. Pasadena, Calif: Curatorial Assistance, Inc, 2004.",
+          "page_number": "Mentioned: pp. 123.",
+          "url": null
+        },
+        {
+          "citation": "Maar, Dora. Dora Maar: Photographer. Long Island City, NY: Dorsky Gallery, 2004.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Hinson, Tom E., \"Photo Surrealism\", Cleveland Museum of Art. <em>Cleveland Art: The Cleveland Museum of Art Members Magazine</em>. Vol. 48 no. 3, March 2008",
+          "page_number": "mentioned & reproduced: p. 8",
+          "url": "https://archive.org/details/CMAMM2008-03/page/8/"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2007.150",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 165149,
+      "creators": [
+        {
+          "id": 11223,
+          "description": "Dora Maar (French, 1907–1997)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1907",
+          "death_year": "1997",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2007-02-26T00:00:00",
+      "sortable_date": 1934,
+      "date_added_to_oa": null,
+      "date_text": "1934",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:33.827000"
+    },
+    {
+      "id": 524233,
+      "accession_number": "2023.61",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Horatio [Street], 1948. Ruth Orkin (American, 1921–1985). Gelatin silver print; image: 24.8 x 16.5 cm (9 3/4 x 6 1/2 in.). The Cleveland Museum of Art, Gift of Mary Engel/Ruth Orkin Photo Archive, 2023.61",
+      "current_location": null,
+      "title": "Horatio [Street]",
+      "creation_date": "1948",
+      "creation_date_earliest": 1948,
+      "creation_date_latest": 1948,
+      "artists_tags": [
+        "female",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 24.8 x 16.5 cm (9 3/4 x 6 1/2 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.248,
+          "width": 0.165
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Orkin/Engle Film & Photo Archive, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "?-2022",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 5, 2022-",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The view from above was a hallmark of modernist photography that worked out well for urban photojournalism.",
+      "description": "Shooting from an upper story window, Ruth Orkin captures the diversity of a New York City crowd, presumably on Horatio Street given the work’s title. There are men in uniforms, work clothes, and business suits, while the women wear wool coats, some also sporting a brooch or a hat. People gaze in various directions, their attention drawn to different occurrences and sights. This group of strangers is brought together for just one moment, soon to be dispersed into the ebb and flow of the city streets.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q122583517"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2023.61",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Mary Engel/Ruth Orkin Photo Archive",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 524233,
+      "creators": [
+        {
+          "id": 316533,
+          "description": "Ruth Orkin (American, 1921–1985)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "American photographer, 1921-1985",
+          "name_in_original_language": null,
+          "birth_year": "1921",
+          "death_year": "1985",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2023-06-05T04:00:00Z",
+      "sortable_date": 1948,
+      "date_added_to_oa": null,
+      "date_text": "1948",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:38.205000"
+    },
+    {
+      "id": 154895,
+      "accession_number": "1989.461",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Emma Street, Lakeland, Florida, 1982. Nicholas Nixon (American, 1947-). Gelatin silver print; image: 19.5 x 24.5 cm (7 11/16 x 9 5/8 in.); paper: 20.3 x 25.3 cm (8 x 9 15/16 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, Gift of Museum members in 1989, 1989.461",
+      "current_location": null,
+      "title": "Emma Street, Lakeland, Florida",
+      "creation_date": "1982",
+      "creation_date_earliest": 1982,
+      "creation_date_latest": 1982,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 19.5 x 24.5 cm (7 11/16 x 9 5/8 in.); Paper: 20.3 x 25.3 cm (8 x 9 15/16 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.195,
+          "width": 0.245
+        },
+        "paper": {
+          "height": 0.203,
+          "width": 0.253
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"NN16199\"; \"Emma Street Lakeland, Florida 1982 14/50 Nicholas Nixon [signed]\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 184340,
+            "title": "Looking at Children:  Photographs from the Permanent Collection",
+            "description": "<i>Looking at Children:  Photographs from the Permanent Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 20-December 4, 2002).",
+            "opening_date": "2002-07-20T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, Feb. 6 - April 15, 1990: \"Year in Review 1989,\" CMA Bulletin, 77 (Feb. 1990), p. 72, no. 122 (not exhibited).",
+            "opening_date": "1990-02-06T00:00:00"
+          },
+          {
+            "description": "CMA, Nov. 18, 1992 - Jan. 3, 1993: \"Contemporary American Photographers,\" CMA Bulletin, 79 (Nov. 1992), p. 341, no. 56, repr. p. 339.",
+            "opening_date": "1992-11-18T00:00:00"
+          },
+          {
+            "description": "CMA, July 20 - December 4, 2002; \"Looking at Children\".  No catalog",
+            "opening_date": "2002-07-20T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Nicholas Nixon began his career in the late 1960s, photographing architectural views and cityscapes before turning to portraiture. During the late 1970s and early 1980s, he recorded working-class and impoverished Americans in urban and rural locations. In this visually complex image of several generations, Nixon positions the subjects and photographs them up close to decrease the sense of deep space, allowing the subjects to dominate the composition. Although physically close, the eyes of the figures are diverted from one another and the camera, and they appear emotionally distant and in their own separate worlds. The photograph avoids sentimentality while providing a social documentation and a study of human interaction.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79942633"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Hinson, Tom E. \"Contemporary American Photographs: An Exhibition.\" <em>The Bulletin of the Cleveland Museum of Art</em> 79, no. 9 (1992): 306-51.",
+          "page_number": "Reproduced & Mentioned: p. 338-39",
+          "url": "https://www.jstor.org/stable/25161375"
+        },
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 256",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1989.461",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Museum members in 1989",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 154895,
+      "creators": [
+        {
+          "id": 739,
+          "description": "Nicholas Nixon (American, 1947-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Nicholas Nixon American, 1947-\r\n\r\nThe photographs of Nicholas Nixon reflect the amalgamation of a number of stylistic and humanitarian influences. Like many documentary photographers who came on the scene in the late 1960s, Nixon (born in Detroit) began making 35mm snapshots in the manner of Cartier-Bresson's \"decisive moment.\" He was a vista volunteer in St. Louis (1969-70) and taught high school in Minneapolis (1970-71), experiences that would influence his later portraiture.\r\n\tIn 1975 curator Bill Jenkins of George Eastman House, Rochester, included Nixon's architectural views in his influential New Topographics exhibition along with the work of nine other emerging photographers whose subjects addressed the \"man-altered landscape.\" Nixon pursued this theme throughout the mid-1970s, photographing the modern city skyline with the sort of utopian idealism previously reserved for the type of heroic landscapes perfected by Ansel Adams. In 1976 he had his first solo exhibition at the Museum of Modern Art, New York. During this time he also began using a large-format camera to make powerful, honest portraits of his wife, Bebe, and her three sisters. This ongoing series, included in its nascence by John Szarkowski in his 1978 Mirrors and Windows exhibition at the Museum of Modern Art, New York, is among Nixon's most recognized achievements.\r\n\tNixon collaborated with his wife on a book project, People with aids (1991), and continues to explore themes of family, childhood, and education, recently completing a series on his son Sam's sixth-grade class, titled Room 306. He holds a B.A. in American literature from the University of Michigan (1969) and an M.F.A. from the University of New Mexico (1974). His awards include fellowships from the National Endowment for the Arts (1976, 1979) and the John Simon Guggenheim Memorial Foundation (1977). Nixon lives in Cambridge, where he teaches at the Massachusetts College of Art. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1990-01-29T00:00:00",
+      "sortable_date": 1982,
+      "date_added_to_oa": null,
+      "date_text": "1982",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": "14",
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:04:25.770000"
+    },
+    {
+      "id": 523594,
+      "accession_number": "2022.341",
+      "share_license_status": "CC0",
+      "tombstone": "A Commercial Street in Guangzhou, c. 1880. Lai Fong (Afong Studio) (Chinese, c. 1839–1890). Albumen print; sheet: 29 x 22.5 cm (11 7/16 x 8 7/8 in.). The Cleveland Museum of Art, Gift of Michael F. Resch, 2022.341",
+      "current_location": null,
+      "title": "A Commercial Street in Guangzhou",
+      "creation_date": "c. 1880",
+      "creation_date_earliest": 1875,
+      "creation_date_latest": 1885,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "China"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "measurements": "Sheet: 29 x 22.5 cm (11 7/16 x 8 7/8 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.29,
+          "width": 0.225
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Michael Resch, Gates Mills, OH, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "?-2022",
+          "sortorder": 1
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Lai Fong’s studio, Afong Studio, was the most successful in China in the late 1800s, selling well to both Chinese and non-Chinese customers.",
+      "description": "Guangzhou, formerly known as Canton, is located on the Pearl River and has for centuries been a center of trade and commerce. The photographer emphasizes the energy and bustle of this street of shops and businesses through the blurred figure in motion at bottom left. Other men peer out to watch the photographer—not a common sight in those days—as he captures their image on film.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117842952"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2022.341-a-commercial-street"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2022.341",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.341/2022.341_web.jpg",
+          "width": "656",
+          "height": "900",
+          "filesize": "257297",
+          "filename": "2022.341_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.341/2022.341_print.jpg",
+          "width": "2477",
+          "height": "3400",
+          "filesize": "2601412",
+          "filename": "2022.341_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.341/2022.341_full.tif",
+          "width": "7363",
+          "height": "10105",
+          "filesize": "223241064",
+          "filename": "2022.341_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Gift of Michael F. Resch",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 523594,
+      "creators": [
+        {
+          "id": 394835,
+          "description": "Lai Fong (Afong Studio) (Chinese, c. 1839–1890)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1839",
+          "death_year": "1890",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2022-12-05T05:00:00Z",
+      "sortable_date": 1875,
+      "date_added_to_oa": null,
+      "date_text": "c. 1880",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:35.533000"
+    },
+    {
+      "id": 166334,
+      "accession_number": "2008.173",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Blind Street Peddler, Barcelona, 1933. Dora Maar (French, 1907–1997). Gelatin silver print; image: 39.3 x 29.3 cm (15 1/2 x 11 9/16 in.); mounted: 41.2 x 31.2 cm (16 1/4 x 12 5/16 in.). The Cleveland Museum of Art, Gift of David Raymond, 2008.173. © 2013 Artists Rights Society (ARS), New York / ADAGP, Paris",
+      "current_location": null,
+      "title": "Blind Street Peddler, Barcelona",
+      "creation_date": "1933",
+      "creation_date_earliest": 1933,
+      "creation_date_latest": 1933,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "France, 20th century"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "Photography",
+      "type": "Photograph",
+      "measurements": "Image: 39.3 x 29.3 cm (15 1/2 x 11 9/16 in.); Mounted: 41.2 x 31.2 cm (16 1/4 x 12 5/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.393,
+          "width": 0.293
+        },
+        "mounted": {
+          "height": 0.412,
+          "width": 0.312
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© 2013 Artists Rights Society (ARS), New York / ADAGP, Paris",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"Dora Maar (signed)\r\n\r\n",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Dora Maar estate stamp on verso of mount: \"DM/1998\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 336234,
+            "title": "Dora Maar, Fotógrafa",
+            "description": "<i>Dora Maar, Fotógrafa</i>. Centro Cultura Bancaixi (January 1-March 31, 1995).",
+            "opening_date": "1995-01-01T05:00:00"
+          },
+          {
+            "id": 335981,
+            "title": "Dora Maar: Bataille, Picasso, et les Surréalistes",
+            "description": "<i>Dora Maar: Bataille, Picasso, et les Surréalistes</i>. Haus der Kunst, Munich, Mùnich, Germany (October 13, 2001-January 6, 2002); Centre de la Vieille Charité, Marseille, France (February 7-April 30, 2002); Centre d’Art Tecla Sala, L’Hospitalet, Spain (May 21-July 15, 2002).",
+            "opening_date": "2001-10-13T04:00:00"
+          },
+          {
+            "id": 335822,
+            "title": "Dora Maar: Photographer",
+            "description": "<i>Dora Maar: Photographer</i>. Dorsky Gallery (April 25-June 28, 2004).",
+            "opening_date": "2004-04-25T04:00:00"
+          },
+          {
+            "id": 335775,
+            "title": "Accommodations of Desire: Surrealist Works on Paper Collected by Julien Levy",
+            "description": "<i>Accommodations of Desire: Surrealist Works on Paper Collected by Julien Levy</i>. Palmer Museum of Art (September 14-December 5, 2004); McMullen Museum of Art, Boston College, MA (January 16-March 27, 2005); Crocker Art Museum, Sacaramento, CA (July 9-September 11, 2005); Portland Museum of Art (January 1-March 19, 2006).",
+            "opening_date": "2004-09-14T04:00:00"
+          },
+          {
+            "id": 203169,
+            "title": "Forbidden Games: Surrealist and Modernist Photography",
+            "description": "<i>Forbidden Games: Surrealist and Modernist Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 19, 2014-January 11, 2015).",
+            "opening_date": "2014-10-19T00:00:00"
+          },
+          {
+            "id": 317519,
+            "title": "Dora Maar",
+            "description": "<i>Dora Maar</i>. Centre national d'art et de culture Georges Pompidou, Paris, France (organizer) (June 5-July 28, 2019); Tate Modern (November 19, 2019-March 15, 2020).",
+            "opening_date": "2019-06-05T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "The artist's estate, Paris",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "(PIASA, Paris, Nov. 20, 1998, no. 83, sold to Galerie Michele Chomette)",
+          "citations": [],
+          "footnotes": [],
+          "date": "November 20, 1998",
+          "sortorder": 2
+        },
+        {
+          "description": "(Galerie Michele Chomette, Paris)",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 3
+        },
+        {
+          "description": "David Raymond [b.1979], New York, NY",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 4
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "2008-",
+          "sortorder": 5
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Vision and its opposite, blindness, were important themes for 20th-century avant-garde artists,especially the Surrealists. Maar’s image demonstrates social concern for those reduced to begging to survive, but she also appreciated the irony and oddity of photographing someone who could not see.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60781025"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E. Hinson, Ian Walker, and Lisa Kurzner. Forbidden Games: Surrealist and Modernist Photography : the David Raymond Collection in the Cleveland Museum of Art. 2014.",
+          "page_number": "Mentioned: p. 101; reproduced: p. 103; Mentioned: pp. 223.",
+          "url": null
+        },
+        {
+          "citation": "Maar, Dora. Dora Maar: Bataille, Picasso et les surréalistes. [Marseille]: Musées de Marseille, 2000.",
+          "page_number": "Reproduced: p. 58, no. 34; mentioned: pp. 264.",
+          "url": null
+        },
+        {
+          "citation": "Maar, Dora, and Victoria Combalía Dexeus. Dora Maar: Haus der Kunst München, 13. Oktober 2001-6. Januar 2002 ; Musées de Marseille, Centre de la Vieille Charité, 20. Januar-4. Mai 2002 ; Centre Cultural Tecla Sala, L'Hospitalet Barcelona, 15. Mai- 15. Juli 2002. München: Haus der Kunst München, 2001.",
+          "page_number": "Reproduced: p. 72, no. 35; mentioned: pp. 320.",
+          "url": null
+        },
+        {
+          "citation": "Maar, Dora. Dora Maar: Photographer. Long Island City, NY: Dorsky Gallery, 2004.",
+          "page_number": "Reproduced: pg. 2.",
+          "url": null
+        },
+        {
+          "citation": "Schaffner, Ingrid, Julien Levy, and Colin Westerbeck. Accommodations of Desire: Surrealist Works on Paper Collected by Julien Levy. Pasadena, Calif: Curatorial Assistance, Inc, 2004.",
+          "page_number": "Mentioned: p. 123.",
+          "url": null
+        },
+        {
+          "citation": "Combalia, Victoria. \"Dora Maar, Street Photographer: Barcelona and London.\" In Dora Maar, 52-76. Eds., Damarice Amao, Amanda Maddox, and Karolina Ziebinska-Lewandowska. Exh. Cat. Los Angeles: The J. Paul Getty Museum, 2019.",
+          "page_number": "Mentioned: p. 54; Reproduced: p. 57, Plate 59.",
+          "url": ""
+        },
+        {
+          "citation": "Maar, Dora, and Antoine Ullmann. Dora Maar. 2019, 11.",
+          "page_number": "Reproduced: p. 11",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/2008.173",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of David Raymond",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 166334,
+      "creators": [
+        {
+          "id": 11223,
+          "description": "Dora Maar (French, 1907–1997)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1907",
+          "death_year": "1997",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2008-12-08T00:00:00",
+      "sortable_date": 1933,
+      "date_added_to_oa": null,
+      "date_text": "1933",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:05:57.088000"
+    },
+    {
+      "id": 169409,
+      "accession_number": "2011.258",
+      "share_license_status": "Copyrighted",
+      "tombstone": "The Destruction of Lower Manhattan: 185 West Street at Chambers Street, 1966–67. Danny Lyon (American, 1942-). Gelatin silver print; image: 25.1 x 32.5 cm (9 7/8 x 12 13/16 in.); paper: 27.7 x 35.5 cm (10 7/8 x 14 in.); matted: 45.7 x 55.9 cm (18 x 22 in.). The Cleveland Museum of Art, Gift of George Stephanopoulos, 2011.258",
+      "current_location": null,
+      "title": "185 West Street at Chambers Street",
+      "series": "The Destruction of Lower Manhattan",
+      "creation_date": "1966–67",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1967,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 25.1 x 32.5 cm (9 7/8 x 12 13/16 in.); Paper: 27.7 x 35.5 cm (10 7/8 x 14 in.); Matted: 45.7 x 55.9 cm (18 x 22 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.251,
+          "width": 0.325
+        },
+        "paper": {
+          "height": 0.277,
+          "width": 0.355
+        },
+        "matted": {
+          "height": 0.457,
+          "width": 0.559
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Signed, titled and dated on verso\r\nartist's \"Bleak Beauty\" stamp also on verso",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 306442,
+            "title": "Danny Lyon: The Destruction of Lower Manhattan",
+            "description": "<i>Danny Lyon: The Destruction of Lower Manhattan</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 19-October 7, 2018).",
+            "opening_date": "2018-05-19T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "George Stephanopoulos",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Originally below sea level, the area that became West, Greenwich, and Washington Streets was built up through the continuous dumping of dirt and refuse. West Street occupies two and a half miles of Hudson River front; by 1900 the street had become one of the busiest in America. 327, 329, and 331 Washington Street, pictured in the middle of the top row, were constructed in the early 1800s as Federal-style townhouses, then commercialized when the area became the city’s produce market in 1812. Although slated for demolition in the mid-1960s, the structures were restored to their original character and are now homes.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80076679"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2011.258",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George Stephanopoulos",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 169409,
+      "creators": [
+        {
+          "id": 601,
+          "description": "Danny Lyon (American, 1942-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Danny Lyon American, 1942- Danny Lyon (born in Brooklyn) came to attention in the 1960s as a social documentary photographer whose sympathies with his subjects often grew from personal involvement in their causes. While studying history at the University of Chicago (B.A., 1963), he joined the Student Non-Violent Coordinating Committee and served as the group's photographer. Since 1967 he has been an associate for the magnum photo agency and made extensive photo essays in the late 1960s-70s on the civil rights movement (The Movement, 1964), the Chicago Outlaws Motorcycle Club, of which he was a member (The Bikeriders, 1968), the demolition of historic 19th-century buildings in New York City (The Destruction of Lower Manhattan, 1969), and Texas prisons (Conversations with the Dead, 1971). For that series, Lyon included with his black-and-white photographs excerpts from handwritten letters, drawings, police reports, and telegrams. In 1977 the U.S. Justice Department used his images in a landmark legal case (Ruiz vs. Estelle) to improve conditions in prisons throughout Texas. Since the 1980s, Lyon has traveled to Colombia to photograph street children and prostitutes (The Paper Negative, 1980) and to Haiti to cover the events leading up to the collapse of the Duvalier regime in 1986. His own family has also become a continued subject of his work. Parallel to his photography, Lyon has made numerous films that are shown regularly in universities across the United States: Social Sciences 127 (1969), Llanito (1971), El Mojado (1973), Los Niños Abandonados (1975), Dear Mark (1975-80), Little Boy (1977), Willie (1986-87), and Media Man (c. 1993). He has published his own works since 1988 under the imprint Bleak Beauty Books, in collaboration with his wife, Nancy Lyon, and Michael Hausman. Lyon has also taught nonfiction film at the State University of New York at Buffalo (1986) and at Columbia University (1987-90). Among his honors are fellowships from the John Simon Guggenheim Memorial Foundation (1969, 1979) and the Rockefeller Foundation (1990). He has had one-person exhibitions at the Art Institute of Chicago (1966, 1969), the Newport Harbor Art Museum in California (1973), and the Philadelphia Museum of Art (1982). In 1991 a retrospective, Danny Lyon Photo Film, with accompanying catalogue, traveled internationally. Lyon lives in Clintondale, New York. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1942",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2011-12-05T00:00:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–67",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:18.756000"
+    },
+    {
+      "id": 159645,
+      "accession_number": "1996.359",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Street Scene in Columbus, Ohio, 1938. Ben Shahn (American, 1898–1969). Gelatin silver print; image: 16.2 x 24.2 cm (6 3/8 x 9 1/2 in.); paper: 20.6 x 25.3 cm (8 1/8 x 9 15/16 in.); matted: 35.6 x 45.7 cm (14 x 18 in.). The Cleveland Museum of Art, John L. Severance Fund, 1996.359. ©  Estate of Ben Shahn / Licensed by VAGA at Artists Rights Society (ARS), NY",
+      "current_location": null,
+      "title": "Street Scene in Columbus, Ohio",
+      "creation_date": "1938",
+      "creation_date_earliest": 1938,
+      "creation_date_latest": 1938,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 16.2 x 24.2 cm (6 3/8 x 9 1/2 in.); Paper: 20.6 x 25.3 cm (8 1/8 x 9 15/16 in.); Matted: 35.6 x 45.7 cm (14 x 18 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.162,
+          "width": 0.242
+        },
+        "paper": {
+          "height": 0.206,
+          "width": 0.253
+        },
+        "matted": {
+          "height": 0.356,
+          "width": 0.457
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "©  Estate of Ben Shahn / Licensed by VAGA at Artists Rights Society (ARS), NY",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"August 1939 / Street Scene in Columbus OH\"; \"6583 M[?]\"; in black felt pen: \"B19\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 194095,
+            "title": "Icons of American Photography: A Century of Photographs from the Cleveland Museum of Art",
+            "description": "<i>Icons of American Photography: A Century of Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 24-September 16, 2007).",
+            "opening_date": "2007-06-24T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "The Cleveland Museum of Art (6/24/07 - 9/16/07); \"Icons of American Photography: A Century of Photographs from the Cleveland Museum of Art\", no exhibition catalogue.",
+            "opening_date": "2007-06-24T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "The Fogg Art Museum, Cambridge, MA",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Active as a photographer in the mid-1930s, Ben Shahn learned photography from Walker Evans with whom he shared a studio in New York in 1929. Between 1935 and 1938, Shahn worked for the Farm Security Administration documenting the life of rural America during the Depression. In a direct and straightforward style, Shahn recorded the farmlands, mining towns, and main streets of America such as in <em>Street Scene in Columbus, Ohio</em>. Using a Leica camera with a right-angle viewfinder, Shahn was able to record his subjects unaware which added a powerful spontaneity to his photographs. The combination of the frontality of the subject matter, the flatness of space, and image text creates a strong graphic quality in the photographs reminiscent of his prints and paintings.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79979585"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1996.359",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 159645,
+      "creators": [
+        {
+          "id": 4127,
+          "description": "Ben Shahn (American, 1898–1969)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1898",
+          "death_year": "1969",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1996-12-02T00:00:00",
+      "sortable_date": 1938,
+      "date_added_to_oa": null,
+      "date_text": "1938",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:58.828000"
+    },
+    {
+      "id": 169410,
+      "accession_number": "2011.259",
+      "share_license_status": "Copyrighted",
+      "tombstone": "The Destruction of Lower Manhattan: West Street at Warren Street, 1966–67. Danny Lyon (American, 1942-). Gelatin silver print; image: 23.3 x 29.7 cm (9 3/16 x 11 11/16 in.); paper: 27.7 x 35.4 cm (10 7/8 x 13 15/16 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, Gift of George Stephanopoulos, 2011.259",
+      "current_location": null,
+      "title": "West Street at Warren Street",
+      "series": "The Destruction of Lower Manhattan",
+      "creation_date": "1966–67",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1967,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 23.3 x 29.7 cm (9 3/16 x 11 11/16 in.); Paper: 27.7 x 35.4 cm (10 7/8 x 13 15/16 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.233,
+          "width": 0.297
+        },
+        "paper": {
+          "height": 0.277,
+          "width": 0.354
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Signed, titled and dated on verso\r\nartist's \"Bleak Beauty\" stamp also on verso",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 306442,
+            "title": "Danny Lyon: The Destruction of Lower Manhattan",
+            "description": "<i>Danny Lyon: The Destruction of Lower Manhattan</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 19-October 7, 2018).",
+            "opening_date": "2018-05-19T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "George Stephanopoulos",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Originally below sea level, the area that became West, Greenwich, and Washington Streets was built up through the continuous dumping of dirt and refuse. West Street occupies two and a half miles of Hudson River front; by 1900 the street had become one of the busiest in America. 327, 329, and 331 Washington Street, pictured in the middle of the top row, were constructed in the early 1800s as Federal-style townhouses, then commercialized when the area became the city’s produce market in 1812. Although slated for demolition in the mid-1960s, the structures were restored to their original character and are now homes.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80076681"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2011.259",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George Stephanopoulos",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 169410,
+      "creators": [
+        {
+          "id": 601,
+          "description": "Danny Lyon (American, 1942-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Danny Lyon American, 1942- Danny Lyon (born in Brooklyn) came to attention in the 1960s as a social documentary photographer whose sympathies with his subjects often grew from personal involvement in their causes. While studying history at the University of Chicago (B.A., 1963), he joined the Student Non-Violent Coordinating Committee and served as the group's photographer. Since 1967 he has been an associate for the magnum photo agency and made extensive photo essays in the late 1960s-70s on the civil rights movement (The Movement, 1964), the Chicago Outlaws Motorcycle Club, of which he was a member (The Bikeriders, 1968), the demolition of historic 19th-century buildings in New York City (The Destruction of Lower Manhattan, 1969), and Texas prisons (Conversations with the Dead, 1971). For that series, Lyon included with his black-and-white photographs excerpts from handwritten letters, drawings, police reports, and telegrams. In 1977 the U.S. Justice Department used his images in a landmark legal case (Ruiz vs. Estelle) to improve conditions in prisons throughout Texas. Since the 1980s, Lyon has traveled to Colombia to photograph street children and prostitutes (The Paper Negative, 1980) and to Haiti to cover the events leading up to the collapse of the Duvalier regime in 1986. His own family has also become a continued subject of his work. Parallel to his photography, Lyon has made numerous films that are shown regularly in universities across the United States: Social Sciences 127 (1969), Llanito (1971), El Mojado (1973), Los Niños Abandonados (1975), Dear Mark (1975-80), Little Boy (1977), Willie (1986-87), and Media Man (c. 1993). He has published his own works since 1988 under the imprint Bleak Beauty Books, in collaboration with his wife, Nancy Lyon, and Michael Hausman. Lyon has also taught nonfiction film at the State University of New York at Buffalo (1986) and at Columbia University (1987-90). Among his honors are fellowships from the John Simon Guggenheim Memorial Foundation (1969, 1979) and the Rockefeller Foundation (1990). He has had one-person exhibitions at the Art Institute of Chicago (1966, 1969), the Newport Harbor Art Museum in California (1973), and the Philadelphia Museum of Art (1982). In 1991 a retrospective, Danny Lyon Photo Film, with accompanying catalogue, traveled internationally. Lyon lives in Clintondale, New York. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1942",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2011-12-05T00:00:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–67",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:24.135000"
+    },
+    {
+      "id": 154894,
+      "accession_number": "1989.460",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Chestnut Street, Louisville, 1982. Nicholas Nixon (American, 1947-). Gelatin silver print; image: 19.5 x 24.6 cm (7 11/16 x 9 11/16 in.); paper: 20.3 x 25.2 cm (8 x 9 15/16 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, Gift of Museum members in 1989, 1989.460",
+      "current_location": null,
+      "title": "Chestnut Street, Louisville",
+      "creation_date": "1982",
+      "creation_date_earliest": 1982,
+      "creation_date_latest": 1982,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 19.5 x 24.6 cm (7 11/16 x 9 11/16 in.); Paper: 20.3 x 25.2 cm (8 x 9 15/16 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.195,
+          "width": 0.246
+        },
+        "paper": {
+          "height": 0.203,
+          "width": 0.252
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"Chestnut St., Louisville 1982 22/50 Nicholas Nixon [signed]\"; \"NN18474\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 184340,
+            "title": "Looking at Children:  Photographs from the Permanent Collection",
+            "description": "<i>Looking at Children:  Photographs from the Permanent Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 20-December 4, 2002).",
+            "opening_date": "2002-07-20T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, Feb. 6 - April 15, 1990: \"Year in Review 1989,\" CMA Bulletin, 77 (Feb. 1990), p. 72, no. 121 (not exhibited).",
+            "opening_date": "1990-02-06T00:00:00"
+          },
+          {
+            "description": "CMA, Nov. 18, 1992 - Jan. 3, 1993: \"Contemporary American Photographers,\" CMA Bulletin, 79 (Nov. 1992), p. 351, no. 55.",
+            "opening_date": "1992-11-18T00:00:00"
+          },
+          {
+            "description": "CMA, July 20 - December 4, 2002; \"Looking at Children\".  No catalog",
+            "opening_date": "2002-07-20T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "In this photograph from his series of working class and impoverished Americans, Nicholas Nixon employs numerous vertical lines that separate space and provide stability to the composition. Standing in front of a scaly tree trunk, two brothers are linked together in what could be an embrace or restraining body lock. The younger boy's pleading eyes and lack of affectionate response seem to indicate that he is not a willing participant in the action. Details such as grime and worn clothing suggest that these are energetic boys who have been hard at play.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79942630"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Hinson, Tom E. “Contemporary American Photographs: An Exhibition.” <em>The Bulletin of the Cleveland Museum of Art</em> 79, no. 9 (November 1992): 306–351.",
+          "page_number": "Mentioned: p. 339, 351, no. 55",
+          "url": "http://www.jstor.org/stable/25161375"
+        },
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 256",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1989.460",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Museum members in 1989",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 154894,
+      "creators": [
+        {
+          "id": 739,
+          "description": "Nicholas Nixon (American, 1947-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Nicholas Nixon American, 1947-\r\n\r\nThe photographs of Nicholas Nixon reflect the amalgamation of a number of stylistic and humanitarian influences. Like many documentary photographers who came on the scene in the late 1960s, Nixon (born in Detroit) began making 35mm snapshots in the manner of Cartier-Bresson's \"decisive moment.\" He was a vista volunteer in St. Louis (1969-70) and taught high school in Minneapolis (1970-71), experiences that would influence his later portraiture.\r\n\tIn 1975 curator Bill Jenkins of George Eastman House, Rochester, included Nixon's architectural views in his influential New Topographics exhibition along with the work of nine other emerging photographers whose subjects addressed the \"man-altered landscape.\" Nixon pursued this theme throughout the mid-1970s, photographing the modern city skyline with the sort of utopian idealism previously reserved for the type of heroic landscapes perfected by Ansel Adams. In 1976 he had his first solo exhibition at the Museum of Modern Art, New York. During this time he also began using a large-format camera to make powerful, honest portraits of his wife, Bebe, and her three sisters. This ongoing series, included in its nascence by John Szarkowski in his 1978 Mirrors and Windows exhibition at the Museum of Modern Art, New York, is among Nixon's most recognized achievements.\r\n\tNixon collaborated with his wife on a book project, People with aids (1991), and continues to explore themes of family, childhood, and education, recently completing a series on his son Sam's sixth-grade class, titled Room 306. He holds a B.A. in American literature from the University of Michigan (1969) and an M.F.A. from the University of New Mexico (1974). His awards include fellowships from the National Endowment for the Arts (1976, 1979) and the John Simon Guggenheim Memorial Foundation (1977). Nixon lives in Cambridge, where he teaches at the Massachusetts College of Art. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1990-01-29T00:00:00",
+      "sortable_date": 1982,
+      "date_added_to_oa": null,
+      "date_text": "1982",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": "22",
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:48.655000"
+    },
+    {
+      "id": 325422,
+      "accession_number": "2019.51",
+      "share_license_status": "CC0",
+      "tombstone": "Street Life in London: An Old Clothes Shop, Seven Dials, 1877. John Thomson (Scottish, 1837–1921). Woodburytype; image: 11.5 x 9 cm (4 1/2 x 3 9/16 in.); paper: 11.5 x 9 cm (4 1/2 x 3 9/16 in.); mounted: 27.1 x 20.8 cm (10 11/16 x 8 3/16 in.). The Cleveland Museum of Art, Photography Discretionary Fund, 2019.51",
+      "current_location": null,
+      "title": "An Old Clothes Shop, Seven Dials",
+      "series": "Street Life in London",
+      "creation_date": "1877",
+      "creation_date_earliest": 1877,
+      "creation_date_latest": 1877,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "woodburytype",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 11.5 x 9 cm (4 1/2 x 3 9/16 in.); Paper: 11.5 x 9 cm (4 1/2 x 3 9/16 in.); Mounted: 27.1 x 20.8 cm (10 11/16 x 8 3/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.115,
+          "width": 0.09
+        },
+        "paper": {
+          "height": 0.115,
+          "width": 0.09
+        },
+        "mounted": {
+          "height": 0.271,
+          "width": 0.208
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Stamped in red ink on recto of mount: “AN OLD CLOTHES SHOP, SEVEN DIALS.”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 455214,
+            "title": "Photographs in Ink",
+            "description": "<i>Photographs in Ink</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 20, 2022-April 2, 2023).",
+            "opening_date": "2022-11-19T05:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Antiquariat Dr. Jens Mattow, Berlin, Germany)",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "March 4, 2019",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "When this photo was taken, Seven Dials, a London neighborhood linking Covent Garden to Soho, was a slum that housed shops that bought and sold used clothing and furniture.",
+      "description": "According to John Thomson’s collaborator, journalist Adolphe Smith, the dealers in this neighborhood were sources of last resort for those trying to sell items that had already been rejected by pawnbrokers. They were also where “the majority of those individuals who earn a promiscuous livelihood in the streets of London succeed in clothing themselves for a minimum outlay.”",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79875944"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2019.51-an-old-clothes-shop"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2019.51",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.51/2019.51_web.jpg",
+          "width": "711",
+          "height": "900",
+          "filesize": "270197",
+          "filename": "2019.51_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.51/2019.51_print.jpg",
+          "width": "2687",
+          "height": "3400",
+          "filesize": "2548499",
+          "filename": "2019.51_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.51/2019.51_full.tif",
+          "width": "7782",
+          "height": "9848",
+          "filesize": "229940840",
+          "filename": "2019.51_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2019-11-19T15:46:37",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2019.51/2019.51_alt0_web.jpg",
+            "width": "700",
+            "height": "900",
+            "filesize": "214047"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2019.51/2019.51_alt0_print.jpg",
+            "width": "2643",
+            "height": "3400",
+            "filesize": "2994214"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2019.51/2019.51_alt0_full.tif",
+            "width": "8936",
+            "height": "11496",
+            "filesize": "308211560"
+          }
+        }
+      ],
+      "creditline": "Photography Discretionary Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 325422,
+      "creators": [
+        {
+          "id": 20005,
+          "description": "John Thomson (Scottish, 1837–1921)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "John Thomson British, b. Scotland, 1837-1921 John Thomson studied chemistry at the University of Edinburgh in his native city. While best known for his views of street life in London, Thomson spent his early photographic career in the Far East. Between 1863-73, based at a studio in Singapore, he photographed India, Ceylon (now Sri Lanka), Thailand, Cambodia, and Vietnam. He spent two years photographing China, an ambitious project for which he traveled more than 5,500 miles. Returning to England, Thomson used his experiences, and his 2,000 negatives, to write and publish Illustrations of China and Its People (1873-74), a monumental four-volume work containing 200 collotype illustrations with descriptive text. In 1877 he collaborated with journalist Adolph Smith to publish Street Life in London, one of the first books to combine text with photographic illustrations (36 Woodburytype plates of London's poor) to document sociological case histories. In 1886 Thomson was appointed instructor of photography to the Royal Geographic Society, where he was a Fellow until his death. He became official photographer to Queen Victoria in 1881 and in 1910 received the same appointment under King George V. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1837",
+          "death_year": "1921",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-03-04T00:00:00-05:00",
+      "sortable_date": 1877,
+      "date_added_to_oa": null,
+      "date_text": "1877",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:24.858000"
+    },
+    {
+      "id": 325421,
+      "accession_number": "2019.50",
+      "share_license_status": "CC0",
+      "tombstone": "Street Life in London: Recruiting Sergeants at Westminster, 1877. John Thomson (Scottish, 1837–1921). Woodburytype; image: 11 x 8.7 cm (4 5/16 x 3 7/16 in.); paper: 11 x 8.7 cm (4 5/16 x 3 7/16 in.); mounted: 27 x 20.7 cm (10 5/8 x 8 1/8 in.). The Cleveland Museum of Art, Photography Discretionary Fund, 2019.50",
+      "current_location": null,
+      "title": "Recruiting Sergeants at Westminster",
+      "series": "Street Life in London",
+      "creation_date": "1877",
+      "creation_date_earliest": 1877,
+      "creation_date_latest": 1877,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "woodburytype",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 11 x 8.7 cm (4 5/16 x 3 7/16 in.); Paper: 11 x 8.7 cm (4 5/16 x 3 7/16 in.); Mounted: 27 x 20.7 cm (10 5/8 x 8 1/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.11,
+          "width": 0.087
+        },
+        "paper": {
+          "height": 0.11,
+          "width": 0.087
+        },
+        "mounted": {
+          "height": 0.27,
+          "width": 0.207
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Stamped in red ink on recto of mount: “RECRUITING SERGEANTS AT WESTMINSTER.”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Antiquariat Dr. Jens Mattow, Berlin, Germany)",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "March 4, 2019",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The hub of army recruitment in London in the late 19th century was this street corner, the site of the Mitre and Dove, a pub with a name that ironically invoked the church and peace.",
+      "description": "The sergeants, who held these posts for many years, were paid by the recruit, receiving a little over £1 for each person who ended up serving in the army. Out of that, the recruiters had to pay expenses, including giving each enlistee a shilling (1/20th of a pound) and paying “bringers” who supplied them with likely prospects. In 1875, 3,605 approved recruits were enlisted from London.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79875942"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2019.50-recruiting-sergeants"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2019.50",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.50/2019.50_web.jpg",
+          "width": "710",
+          "height": "900",
+          "filesize": "262053",
+          "filename": "2019.50_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.50/2019.50_print.jpg",
+          "width": "2683",
+          "height": "3400",
+          "filesize": "2849428",
+          "filename": "2019.50_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.50/2019.50_full.tif",
+          "width": "7531",
+          "height": "9543",
+          "filesize": "215634296",
+          "filename": "2019.50_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2019-11-19T15:48:38",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2019.50/2019.50_alt0_web.jpg",
+            "width": "700",
+            "height": "900",
+            "filesize": "209282"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2019.50/2019.50_alt0_print.jpg",
+            "width": "2643",
+            "height": "3400",
+            "filesize": "2931922"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2019.50/2019.50_alt0_full.tif",
+            "width": "8937",
+            "height": "11496",
+            "filesize": "308246128"
+          }
+        }
+      ],
+      "creditline": "Photography Discretionary Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 325421,
+      "creators": [
+        {
+          "id": 20005,
+          "description": "John Thomson (Scottish, 1837–1921)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "John Thomson British, b. Scotland, 1837-1921 John Thomson studied chemistry at the University of Edinburgh in his native city. While best known for his views of street life in London, Thomson spent his early photographic career in the Far East. Between 1863-73, based at a studio in Singapore, he photographed India, Ceylon (now Sri Lanka), Thailand, Cambodia, and Vietnam. He spent two years photographing China, an ambitious project for which he traveled more than 5,500 miles. Returning to England, Thomson used his experiences, and his 2,000 negatives, to write and publish Illustrations of China and Its People (1873-74), a monumental four-volume work containing 200 collotype illustrations with descriptive text. In 1877 he collaborated with journalist Adolph Smith to publish Street Life in London, one of the first books to combine text with photographic illustrations (36 Woodburytype plates of London's poor) to document sociological case histories. In 1886 Thomson was appointed instructor of photography to the Royal Geographic Society, where he was a Fellow until his death. He became official photographer to Queen Victoria in 1881 and in 1910 received the same appointment under King George V. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1837",
+          "death_year": "1921",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-03-04T00:00:00-05:00",
+      "sortable_date": 1877,
+      "date_added_to_oa": null,
+      "date_text": "1877",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:15.569000"
+    },
+    {
+      "id": 169398,
+      "accession_number": "2011.248",
+      "share_license_status": "Copyrighted",
+      "tombstone": "The Destruction of Lower Manhattan: Washington Street, View North from Chambers Street, 1966–67. Danny Lyon (American, 1942-). Gelatin silver print; image: 23 x 29.2 cm (9 1/16 x 11 1/2 in.); paper: 27.7 x 35.4 cm (10 7/8 x 13 15/16 in.); matted: 45.7 x 55.9 cm (18 x 22 in.). The Cleveland Museum of Art, Gift of George Stephanopoulos, 2011.248",
+      "current_location": null,
+      "title": "Washington Street, View North from Chambers Street",
+      "series": "The Destruction of Lower Manhattan",
+      "creation_date": "1966–67",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1967,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 23 x 29.2 cm (9 1/16 x 11 1/2 in.); Paper: 27.7 x 35.4 cm (10 7/8 x 13 15/16 in.); Matted: 45.7 x 55.9 cm (18 x 22 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.23,
+          "width": 0.292
+        },
+        "paper": {
+          "height": 0.277,
+          "width": 0.354
+        },
+        "matted": {
+          "height": 0.457,
+          "width": 0.559
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Signed, titled and dated on verso\r\nartist's \"Bleak Beauty\" stamp also on verso",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 306442,
+            "title": "Danny Lyon: The Destruction of Lower Manhattan",
+            "description": "<i>Danny Lyon: The Destruction of Lower Manhattan</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 19-October 7, 2018).",
+            "opening_date": "2018-05-19T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "George Stephanopoulos",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Originally below sea level, the area that became West, Greenwich, and Washington Streets was built up through the continuous dumping of dirt and refuse. West Street occupies two and a half miles of Hudson River front; by 1900 the street had become one of the busiest in America. 327, 329, and 331 Washington Street, pictured in the middle of the top row, were constructed in the early 1800s as Federal-style townhouses, then commercialized when the area became the city’s produce market in 1812. Although slated for demolition in the mid-1960s, the structures were restored to their original character and are now homes.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80076651"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2011.248",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George Stephanopoulos",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 169398,
+      "creators": [
+        {
+          "id": 601,
+          "description": "Danny Lyon (American, 1942-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Danny Lyon American, 1942- Danny Lyon (born in Brooklyn) came to attention in the 1960s as a social documentary photographer whose sympathies with his subjects often grew from personal involvement in their causes. While studying history at the University of Chicago (B.A., 1963), he joined the Student Non-Violent Coordinating Committee and served as the group's photographer. Since 1967 he has been an associate for the magnum photo agency and made extensive photo essays in the late 1960s-70s on the civil rights movement (The Movement, 1964), the Chicago Outlaws Motorcycle Club, of which he was a member (The Bikeriders, 1968), the demolition of historic 19th-century buildings in New York City (The Destruction of Lower Manhattan, 1969), and Texas prisons (Conversations with the Dead, 1971). For that series, Lyon included with his black-and-white photographs excerpts from handwritten letters, drawings, police reports, and telegrams. In 1977 the U.S. Justice Department used his images in a landmark legal case (Ruiz vs. Estelle) to improve conditions in prisons throughout Texas. Since the 1980s, Lyon has traveled to Colombia to photograph street children and prostitutes (The Paper Negative, 1980) and to Haiti to cover the events leading up to the collapse of the Duvalier regime in 1986. His own family has also become a continued subject of his work. Parallel to his photography, Lyon has made numerous films that are shown regularly in universities across the United States: Social Sciences 127 (1969), Llanito (1971), El Mojado (1973), Los Niños Abandonados (1975), Dear Mark (1975-80), Little Boy (1977), Willie (1986-87), and Media Man (c. 1993). He has published his own works since 1988 under the imprint Bleak Beauty Books, in collaboration with his wife, Nancy Lyon, and Michael Hausman. Lyon has also taught nonfiction film at the State University of New York at Buffalo (1986) and at Columbia University (1987-90). Among his honors are fellowships from the John Simon Guggenheim Memorial Foundation (1969, 1979) and the Rockefeller Foundation (1990). He has had one-person exhibitions at the Art Institute of Chicago (1966, 1969), the Newport Harbor Art Museum in California (1973), and the Philadelphia Museum of Art (1982). In 1991 a retrospective, Danny Lyon Photo Film, with accompanying catalogue, traveled internationally. Lyon lives in Clintondale, New York. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1942",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2011-12-05T00:00:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–67",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:26.968000"
+    },
+    {
+      "id": 702249,
+      "accession_number": "2025.254",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Wagon on Street, 1930s. Ellen Auerbach (American, 1906–2004). Gelatin silver print. The Cleveland Museum of Art, GIft of the Estate of Joan Dowling, 2025.254",
+      "current_location": null,
+      "title": "Wagon on Street",
+      "creation_date": "1930s",
+      "creation_date_earliest": 1930,
+      "creation_date_latest": 1939,
+      "artists_tags": [
+        "female",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "In the 1930s, animal-drawn carts were common sites in Palestine (now Israel).",
+      "description": "Seen from above, this old wagon suggests the work and manual labor needed to maintain the city. Ellen Auerbach uses the elements she saw in the street to create a delicately balanced composition of rectangles, subtly contrasted by the circles of the two wheels.",
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2025.254",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "GIft of the Estate of Joan Dowling",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 702249,
+      "creators": [
+        {
+          "id": 523130,
+          "description": "Ellen Auerbach (American, 1906–2004)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "American photographer born in Germany, 1906",
+          "name_in_original_language": null,
+          "birth_year": "1906",
+          "death_year": "2004",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2025-12-08T05:00:00Z",
+      "sortable_date": 1930,
+      "date_added_to_oa": null,
+      "date_text": "1930s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:31.922000"
+    },
+    {
+      "id": 325423,
+      "accession_number": "2019.52",
+      "share_license_status": "CC0",
+      "tombstone": "Street Life in London: Sufferers from the Floods, 1877. John Thomson (Scottish, 1837–1921). Woodburytype; image: 11.5 x 9 cm (4 1/2 x 3 9/16 in.); paper: 11.5 x 9 cm (4 1/2 x 3 9/16 in.); mounted: 27 x 20.7 cm (10 5/8 x 8 1/8 in.). The Cleveland Museum of Art, Photography Discretionary Fund, 2019.52",
+      "current_location": null,
+      "title": "Sufferers from the Floods",
+      "series": "Street Life in London",
+      "creation_date": "1877",
+      "creation_date_earliest": 1877,
+      "creation_date_latest": 1877,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "woodburytype",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 11.5 x 9 cm (4 1/2 x 3 9/16 in.); Paper: 11.5 x 9 cm (4 1/2 x 3 9/16 in.); Mounted: 27 x 20.7 cm (10 5/8 x 8 1/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.115,
+          "width": 0.09
+        },
+        "paper": {
+          "height": 0.115,
+          "width": 0.09
+        },
+        "mounted": {
+          "height": 0.27,
+          "width": 0.207
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Stamped in red ink on recto of mount: “SUFFERERS FROM THE FLOODS.”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Antiquariat Dr. Jens Mattow, Berlin, Germany)",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "March 4, 2019",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Annual tidal overflow of the Thames River flooded less prosperous areas of London, leaving behind “a trail of misery . . . and a damp, noxious, fever-breeding atmosphere.”",
+      "description": "Smith and Thomson decided to photograph the once-prosperous Rowletts in front of the rag shop that they owned and lived in to show that the floods caused long-term financial losses and health problems that drove even the middle class into poverty. The woman with the baby lived in the house next door; her entire family suffered constant colds and rheumatism from the persistent dampness.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79875946"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2019.52-sufferers-from-the-f"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2019.52",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.52/2019.52_web.jpg",
+          "width": "710",
+          "height": "900",
+          "filesize": "214367",
+          "filename": "2019.52_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.52/2019.52_print.jpg",
+          "width": "2681",
+          "height": "3400",
+          "filesize": "2164982",
+          "filename": "2019.52_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.52/2019.52_full.tif",
+          "width": "7761",
+          "height": "9841",
+          "filesize": "229155328",
+          "filename": "2019.52_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2019-11-19T15:53:05",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2019.52/2019.52_alt0_web.jpg",
+            "width": "700",
+            "height": "900",
+            "filesize": "207196"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2019.52/2019.52_alt0_print.jpg",
+            "width": "2643",
+            "height": "3400",
+            "filesize": "3085231"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2019.52/2019.52_alt0_full.tif",
+            "width": "8937",
+            "height": "11496",
+            "filesize": "308245696"
+          }
+        }
+      ],
+      "creditline": "Photography Discretionary Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 325423,
+      "creators": [
+        {
+          "id": 20005,
+          "description": "John Thomson (Scottish, 1837–1921)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "John Thomson British, b. Scotland, 1837-1921 John Thomson studied chemistry at the University of Edinburgh in his native city. While best known for his views of street life in London, Thomson spent his early photographic career in the Far East. Between 1863-73, based at a studio in Singapore, he photographed India, Ceylon (now Sri Lanka), Thailand, Cambodia, and Vietnam. He spent two years photographing China, an ambitious project for which he traveled more than 5,500 miles. Returning to England, Thomson used his experiences, and his 2,000 negatives, to write and publish Illustrations of China and Its People (1873-74), a monumental four-volume work containing 200 collotype illustrations with descriptive text. In 1877 he collaborated with journalist Adolph Smith to publish Street Life in London, one of the first books to combine text with photographic illustrations (36 Woodburytype plates of London's poor) to document sociological case histories. In 1886 Thomson was appointed instructor of photography to the Royal Geographic Society, where he was a Fellow until his death. He became official photographer to Queen Victoria in 1881 and in 1910 received the same appointment under King George V. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1837",
+          "death_year": "1921",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-03-04T00:00:00-05:00",
+      "sortable_date": 1877,
+      "date_added_to_oa": null,
+      "date_text": "1877",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:06.248000"
+    },
+    {
+      "id": 85883,
+      "accession_number": "2018.255",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Holden Street, North Adams, Massachusetts, 1974 (printed before 1979). Stephen Shore (American, b. 1947). Chromogenic print ; image: 20.2 x 25.3 cm (7 15/16 x 9 15/16 in.); paper: 20.2 x 25.3 cm (7 15/16 x 9 15/16 in.). The Cleveland Museum of Art, Gift of Tom E. Hinson and Diana S. Tittle, 2018.255",
+      "current_location": null,
+      "title": "Holden Street, North Adams, Massachusetts",
+      "creation_date": "1974 (printed before 1979)",
+      "creation_date_earliest": 1974,
+      "creation_date_latest": 1974,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "Chromogenic print ",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "Photography",
+      "type": "Photograph",
+      "measurements": "Image: 20.2 x 25.3 cm (7 15/16 x 9 15/16 in.); Paper: 20.2 x 25.3 cm (7 15/16 x 9 15/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.202,
+          "width": 0.253
+        },
+        "paper": {
+          "height": 0.202,
+          "width": 0.253
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in black marker on verso: “I 9/50 STEPHEN SHORE”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Imprinted in paper on verso: “THIS PAPER/MANUFACTURED/BY KODAK”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Light Gallery, New York, NY",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "Tom E. Hinson, Truth or Consequences, NM",
+          "citations": [],
+          "footnotes": [],
+          "date": "March 1979-September 2018",
+          "sortorder": 2
+        },
+        {
+          "description": "the Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "September 4, 2018",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Shore’s photographic career began at age 14 when three of his photographs were purchased by the Museum of Modern Art, New York.",
+      "description": "This picture, according to Shore, is both a formal exploration of “how to convert the experience of a complex three-dimensional space into a flat, bounded medium” and a “cultural exploration” of the boundary between a New England industrial town and the countryside that surrounds it.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79471910"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.255",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Tom E. Hinson and Diana S. Tittle",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 85883,
+      "creators": [
+        {
+          "id": 65853,
+          "description": "Stephen Shore (American, b. 1947)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-09-04T00:00:00-04:00",
+      "sortable_date": 1974,
+      "date_added_to_oa": null,
+      "date_text": "1974 (printed before 1979)",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:04.062000"
+    },
+    {
+      "id": 325467,
+      "accession_number": "2019.29",
+      "share_license_status": "Copyrighted",
+      "tombstone": "New York Street Scene, 1911. Karl F. Struss (American, 1886–1981). Platinum print; image: 8.7 x 11 cm (3 7/16 x 4 5/16 in.); paper: 8.7 x 11 cm (3 7/16 x 4 5/16 in.); primary mount: 9.2 x 11.6 cm (3 5/8 x 4 9/16 in.); secondary mount: 10.5 x 12.7 cm (4 1/8 x 5 in.). The Cleveland Museum of Art, Gift of Diann G. Mann and Thomas A. Mann, 2019.29",
+      "current_location": null,
+      "title": "New York Street Scene",
+      "creation_date": "1911",
+      "creation_date_earliest": 1911,
+      "creation_date_latest": 1911,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "platinum print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 8.7 x 11 cm (3 7/16 x 4 5/16 in.); Paper: 8.7 x 11 cm (3 7/16 x 4 5/16 in.); Primary mount: 9.2 x 11.6 cm (3 5/8 x 4 9/16 in.); Secondary mount: 10.5 x 12.7 cm (4 1/8 x 5 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.087,
+          "width": 0.11
+        },
+        "paper": {
+          "height": 0.087,
+          "width": 0.11
+        },
+        "primary mount": {
+          "height": 0.092,
+          "width": 0.116
+        },
+        "secondary mount": {
+          "height": 0.105,
+          "width": 0.127
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on recto of secondary mount in lower left: “1911”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Stamped in black ink on verso of secondary mount: “KARL STRUSS/ARTIST PHOTOGRAPHER/HOLLYWOOD, CALIFORNIA”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso of secondary mount: “SW/83”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso of secondary mount: “8”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Thomas A. and Diann G. Mann, Palm Beach Gardens, FL",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "the Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "March 4, 2019",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This elevated train station on the Sixth Avenue Line was demolished in 1939, replaced by an underground line.",
+      "description": "A successful photographer, Struss was also an inventor and entrepeneur. He developed and manufactured the Struss pictorial lens, which allowed focus to be varied from a soft atmospheric quality to sharp focus. It may not be coincidental that this foggy cityscape evokes a film noir mood. Moving to Hollywood after World War I, Struss became an innovative cinematographer and won the first Academy Award given for that profession.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79875985"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Christie, Manson &amp; Woods International Inc. An American Journey: The Diann G. and Thomas A. Mann Collection of Photographic Masterworks. 2018.",
+          "page_number": null,
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/2019.29",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Diann G. Mann and Thomas A. Mann",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 325467,
+      "creators": [
+        {
+          "id": 970,
+          "description": "Karl F. Struss (American, 1886–1981)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Karl F. Struss American, 1886-1981\r\n\r\nBorn and raised in New York City, Karl Fischer Struss was an important early pictorialist and a cofounder of the Pictorial Photographers of America. He was also a member of the Photo-Secession, publishing his works in Camera Work (April 1912), and a photographer for publications such as Vogue, Vanity Fair, and Harper's Bazaar.\r\n\tA student of Clarence H. White, Struss was influenced by both White and Alvin Langdon Coburn. He developed his own style, however, an elegant synthesis of random qualities with formal composition. Struss experimented with various technical processes. He developed multiple platinum printing to enhance the depth of shadows and in 1909 designed the Struss Pictorial lens, which entered commercial production in 1915.\r\n\tShortly after the First World War, Struss moved to Hollywood, where he became a successful cinematographer. He worked first for Cecil B. De Mille and later freelanced for both independent and major studios until his retirement in 1970. Among his film credits are Ben Hur (1926), Dr. Jekyll and Mr. Hyde (1932), and the Chaplin classics The Great Dictator (1940) and Limelight (1952). In 1928 Struss received an Academy Award for his work on De Mille's film Sunrise. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1886",
+          "death_year": "1981",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-03-04T00:00:00-05:00",
+      "sortable_date": 1911,
+      "date_added_to_oa": null,
+      "date_text": "1911",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:18.293000"
+    },
+    {
+      "id": 317917,
+      "accession_number": "2018.865",
+      "share_license_status": "Copyrighted",
+      "tombstone": "East 100th Street: Untitled, 1966–1968. Bruce Davidson (American, b. 1933). Gelatin silver print; image: 26.7 x 34.1 cm (10 1/2 x 13 7/16 in.); paper: 28 x 35.4 cm (11 x 13 15/16 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.865",
+      "current_location": null,
+      "title": "Untitled",
+      "series": "East 100th Street",
+      "creation_date": "1966–1968",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1968,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 26.7 x 34.1 cm (10 1/2 x 13 7/16 in.); Paper: 28 x 35.4 cm (11 x 13 15/16 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.28,
+          "width": 0.354
+        },
+        "image": {
+          "height": 0.267,
+          "width": 0.341
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in blue ink on verso: \"NYC\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Imprinted in black ink on verso, and framed by black ink box: \"Photograph by/ Bruce Davidson/ © MAGNUM PHOTOS, INC./ 15 West 46th Street, N.Y.C. 10036\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Typed on white adhesive in black ink on verso: \"N.Y.C. EAST 100 STREET #1\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"Bruce Davidson(signed)\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Imprinted in blue in on verso: \"(faded blue box)\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"27005(strikethrough)\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"28844(strikethrough)\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"66-46-392 /6\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"25818(strikethrough)\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"37886\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"158a\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"TS 41 00/3\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in red ink on verso: \"9-16\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"71603\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Davidson’s photographs of Spanish Harlem were used as evidence of squalid housing conditions in claims against New York City.",
+      "description": "Davidson spent two years photographing in Spanish Harlem, attempting to integrate himself into the daily lives of its residents. In the past he had used a 35mm camera, but here he turned to a large-format, 4 x 5-inch camera, which requires a tripod and slows down the act of photographing, making the session more of a shared experience, a give and take.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876814"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.865",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317917,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–1968",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:56.131000"
+    },
+    {
+      "id": 169402,
+      "accession_number": "2011.251",
+      "share_license_status": "Copyrighted",
+      "tombstone": "The Destruction of Lower Manhattan: 258 Washington Street at the Northwest Corner of Murray Street, 1966–67. Danny Lyon (American, 1942-). Gelatin silver print; image: 25 x 24.8 cm (9 13/16 x 9 3/4 in.); paper: 35.5 x 27.7 cm (14 x 10 7/8 in.). The Cleveland Museum of Art, Gift of George Stephanopoulos, 2011.251",
+      "current_location": null,
+      "title": "258 Washington Street at the Northwest Corner of Murray Street",
+      "series": "The Destruction of Lower Manhattan",
+      "creation_date": "1966–67",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1967,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 25 x 24.8 cm (9 13/16 x 9 3/4 in.); Paper: 35.5 x 27.7 cm (14 x 10 7/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.25,
+          "width": 0.248
+        },
+        "paper": {
+          "height": 0.355,
+          "width": 0.277
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Signed, titled and dated on verso\r\nartist's \"Bleak Beauty\" stamp also on verso",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 306442,
+            "title": "Danny Lyon: The Destruction of Lower Manhattan",
+            "description": "<i>Danny Lyon: The Destruction of Lower Manhattan</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 19-October 7, 2018).",
+            "opening_date": "2018-05-19T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "George Stephanopoulos",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "In 1970 the New York Landmarks Preservation Commission awarded landmark status to the building at 258 Washington Street, built in 1848 by architect-engineer James Bogardus (1800–1874). “It forms a part of the first complete cast-iron building front ever erected in the United States, . . . [which] employed a novel system of assembly and erection and . . . was a forerunner of the multi-story steel-framed office building of today.” Landmark status did not prevent its demolition. However, its front consisted of prefabricated units that could be taken apart, moved, and reassembled elsewhere. The historic facade was disassembled at a cost of $80,000 and put in storage in 1971. Four years later, it was stolen by thieves who sold it for scrap.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80076661"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Tannenbaum, Barbara. “A Song of Destruction: Danny Lyon's photographic eulogy to Lower Manhattan.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>58, no. 3 (May/June 2018): 12-13.",
+          "page_number": "Reproduced: P. 13; Mentioned: P. 12",
+          "url": "https://archive.org/details/CMAMM2018-03/page/n5/mode/2up"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2011.251",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George Stephanopoulos",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 169402,
+      "creators": [
+        {
+          "id": 601,
+          "description": "Danny Lyon (American, 1942-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Danny Lyon American, 1942- Danny Lyon (born in Brooklyn) came to attention in the 1960s as a social documentary photographer whose sympathies with his subjects often grew from personal involvement in their causes. While studying history at the University of Chicago (B.A., 1963), he joined the Student Non-Violent Coordinating Committee and served as the group's photographer. Since 1967 he has been an associate for the magnum photo agency and made extensive photo essays in the late 1960s-70s on the civil rights movement (The Movement, 1964), the Chicago Outlaws Motorcycle Club, of which he was a member (The Bikeriders, 1968), the demolition of historic 19th-century buildings in New York City (The Destruction of Lower Manhattan, 1969), and Texas prisons (Conversations with the Dead, 1971). For that series, Lyon included with his black-and-white photographs excerpts from handwritten letters, drawings, police reports, and telegrams. In 1977 the U.S. Justice Department used his images in a landmark legal case (Ruiz vs. Estelle) to improve conditions in prisons throughout Texas. Since the 1980s, Lyon has traveled to Colombia to photograph street children and prostitutes (The Paper Negative, 1980) and to Haiti to cover the events leading up to the collapse of the Duvalier regime in 1986. His own family has also become a continued subject of his work. Parallel to his photography, Lyon has made numerous films that are shown regularly in universities across the United States: Social Sciences 127 (1969), Llanito (1971), El Mojado (1973), Los Niños Abandonados (1975), Dear Mark (1975-80), Little Boy (1977), Willie (1986-87), and Media Man (c. 1993). He has published his own works since 1988 under the imprint Bleak Beauty Books, in collaboration with his wife, Nancy Lyon, and Michael Hausman. Lyon has also taught nonfiction film at the State University of New York at Buffalo (1986) and at Columbia University (1987-90). Among his honors are fellowships from the John Simon Guggenheim Memorial Foundation (1969, 1979) and the Rockefeller Foundation (1990). He has had one-person exhibitions at the Art Institute of Chicago (1966, 1969), the Newport Harbor Art Museum in California (1973), and the Philadelphia Museum of Art (1982). In 1991 a retrospective, Danny Lyon Photo Film, with accompanying catalogue, traveled internationally. Lyon lives in Clintondale, New York. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1942",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2011-12-05T00:00:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–67",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:45.789000"
+    }
+  ]
+}

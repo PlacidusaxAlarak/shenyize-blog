@@ -1,0 +1,113 @@
+{
+  "data": {
+    "id": 163081,
+    "accession_number": "2003.9",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Untitled #2421, 1999. Todd Hido (American, b. 1968). Chromogenic process color print; image: 96.5 x 76 cm (38 x 29 15/16 in.); mounted: 96.5 x 76.2 cm (38 x 30 in.); matted: 96.5 x 76.2 cm (38 x 30 in.). The Cleveland Museum of Art, Norman O. Stone and Ella A. Stone Memorial Fund, 2003.9",
+    "current_location": null,
+    "title": "Untitled #2421",
+    "creation_date": "1999",
+    "creation_date_earliest": 1999,
+    "creation_date_latest": 1999,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "chromogenic process color print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1951-Present",
+    "type": "Photograph",
+    "measurements": "Image: 96.5 x 76 cm (38 x 29 15/16 in.); Mounted: 96.5 x 76.2 cm (38 x 30 in.); Matted: 96.5 x 76.2 cm (38 x 30 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.965,
+        "width": 0.76
+      },
+      "mounted": {
+        "height": 0.965,
+        "width": 0.762
+      },
+      "matted": {
+        "height": 0.965,
+        "width": 0.762
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": "10",
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "written in black marker on verso of mount: \"Todd Hido/ #2421 3/9 1999\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [],
+      "legacy": [
+        {
+          "description": "Cleveland, Ohio:  The Cleveland Museum of Art;  July 20, 2002- September 25, 2002.  \"House Hunting:  Photographs \".  No catalogue.",
+          "opening_date": "2002-07-20T00:00:00"
+        }
+      ]
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "House Hunting: Photographs by Todd Hido\r\nA native of Kent, Ohio, Todd Hido (born 1968) examined the prosaic qualities of suburban domestic architecture in highly detailed and luminous color photographs. These haunting images were created through long exposures relying only on the available light. Based in San Francisco, Hido has traveled extensively over the past five years to record-at night and in varying climatic conditions-houses whose glowing windows are the only indication of habitation. This exhibition juxtaposes such pictures with shots of rooms in recently foreclosed properties that the evicted tenants had to leave quickly. Devoid of people, his evocative photographs deal with issues of absence and abandonment and isolation and anonymity.\r\nOhio Prints\r\nAlthough he now resides in San Francisco, when creating this body of work Todd Hido frequently returned to Ohio to capture his home state in vivid color photographs. Over half of the images in this exhibition feature either the exteriors of houses or an interior of a house in Ohio: Untitled #1952, Untitled #2308, Untitled #2421, Untitled #2423-A, Untitled #2424-A, Untitled #2424-B, Untitled #2431, Untitled #2479-A, and Untitled #2840.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79988548"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2003.9",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Norman O. Stone and Ella A. Stone Memorial Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 163081,
+    "creators": [
+      {
+        "id": 42068,
+        "description": "Todd Hido (American, b. 1968)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1968",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2003-03-03T00:00:00",
+    "sortable_date": 1999,
+    "date_added_to_oa": null,
+    "date_text": "1999",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:06:55.741000"
+  }
+}

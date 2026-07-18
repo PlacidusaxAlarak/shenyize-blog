@@ -1,0 +1,130 @@
+{
+  "data": {
+    "id": 696993,
+    "accession_number": "2025.464",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Brooklyn Bridge, NY, 1947, printed later. Arthur Leipzig (American, 1918–2014). Gelatin silver print; image: 35.6 x 34.3 cm (14 x 13 1/2 in.); paper: 42.9 x 35.5 cm (16 7/8 x 14 in.). The Cleveland Museum of Art, Gift of George Stephanopoulos, 2025.464. © Arthur Leipzig",
+    "current_location": null,
+    "title": "Brooklyn Bridge, NY",
+    "creation_date": "1947, printed later",
+    "creation_date_earliest": 1947,
+    "creation_date_latest": 1947,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "gelatin silver print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1900-1950",
+    "type": "Photograph",
+    "measurements": "Image: 35.6 x 34.3 cm (14 x 13 1/2 in.); Paper: 42.9 x 35.5 cm (16 7/8 x 14 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.356,
+        "width": 0.343
+      },
+      "paper": {
+        "height": 0.429,
+        "width": 0.355
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": "edition of 5",
+    "copyright": "© Arthur Leipzig",
+    "inscriptions": [
+      {
+        "inscription": "Written in pencil on verso: \"AL-NY-158.H.5\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      },
+      {
+        "inscription": "Stamped in black ink on verso: \"An Arthur Leipzig Photo ©/378 Glen Avenue/Sea Cliff, N.Y. 11579/516-676-6016\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      },
+      {
+        "inscription": "Written in pencil on verso: \"Arthur Leipzig (signed)\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "George Stephanopoulos [1961–], New York, NY, given to The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "?–2025",
+        "sortorder": 1
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "December 8, 2025–",
+        "sortorder": 2
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": null,
+    "external_resources": {
+      "wikidata": [],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2025.464",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of George Stephanopoulos",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 696993,
+    "creators": [
+      {
+        "id": 696911,
+        "description": "Arthur Leipzig (American, 1918–2014)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "American photographer, born 1918",
+        "name_in_original_language": null,
+        "birth_year": "1918",
+        "death_year": "2014",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2025-12-08T05:00:00Z",
+    "sortable_date": 1947,
+    "date_added_to_oa": null,
+    "date_text": "1947, printed later",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": true,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 16:32:54.436000"
+  }
+}

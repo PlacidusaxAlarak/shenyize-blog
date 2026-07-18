@@ -1,0 +1,129 @@
+{
+  "data": {
+    "id": 448323,
+    "accession_number": "2021.199",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Waves in the Sand, 1967. Toni Schneiders (German, 1920–2006). Gelatin silver print; framed: 30.1 x 25.2 cm (11 7/8 x 9 15/16 in.). The Cleveland Museum of Art, Gift of Evan Mirapaul, 2021.199",
+    "current_location": null,
+    "title": "Waves in the Sand",
+    "creation_date": "1967",
+    "creation_date_earliest": 1967,
+    "creation_date_latest": 1967,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "Germany"
+    ],
+    "technique": "gelatin silver print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - German 20th Century",
+    "type": "Photograph",
+    "measurements": "Framed: 30.1 x 25.2 cm (11 7/8 x 9 15/16 in.)",
+    "dimensions": {
+      "framed": {
+        "height": 0.301,
+        "width": 0.252
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Toni Schneiders (the artist) [1920-2006]",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": 1
+      },
+      {
+        "description": "(Grisebach GmbH, Photographie, Berlin, Germany), sold to Evan Mirapaul, Pittsburgh, PA",
+        "citations": [],
+        "footnotes": null,
+        "date": "November 30, 2006",
+        "sortorder": 2
+      },
+      {
+        "description": "Evan Mirapaul, Pittsburgh, PA, given to The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "2006–21",
+        "sortorder": 3
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "December 6, 2021-",
+        "sortorder": 4
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "This simple but elegant abstracted landscape was shot in Jutland, Denmark.",
+    "description": "Toni Schneiders was part of the Subjective Photography movement in Germany. While its members produced straight photographs that depicted the external world, their goal was to create images that elicited subjective interpretation and emphasized emotional and intellectual reactions over factual information. “If I succeed in making visible only a little of the magic of light and a touch of poetry in my pictures, this is luck enough for me,” said Schneiders.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q117247023"
+      ],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "Schmoll gen. Eisenwerth, J. A., and Ulrich Pohlmann. Toni Schneiders Photographien 1946-1980 : Fotomuseum im Münchner Stadtmuseum, [14. Juli bis 3. Oktober 1999, Stadtmuseum in Lindau, 15. Mai bis 18. Juni 2000]. München: Schirmer/Mosel, 1999.",
+        "page_number": "p. 106, pl. 34",
+        "url": ""
+      }
+    ],
+    "url": "https://clevelandart.org/art/2021.199",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Evan Mirapaul",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 448323,
+    "creators": [
+      {
+        "id": 448320,
+        "description": "Toni Schneiders (German, 1920–2006)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "German photographer, 1920-2006",
+        "name_in_original_language": null,
+        "birth_year": "1920",
+        "death_year": "2006",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2021-12-06T00:00:00-05:00",
+    "sortable_date": 1967,
+    "date_added_to_oa": null,
+    "date_text": "1967",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:03:21.677000"
+  }
+}

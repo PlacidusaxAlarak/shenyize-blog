@@ -1,0 +1,108 @@
+{
+  "data": {
+    "id": 169174,
+    "accession_number": "2011.1",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Stairs, 2010. Monika Sosnowska (Polish, b. 1972). Steel, paint; overall: 294.6 x 165.1 x 88.9 cm (116 x 65 x 35 in.). The Cleveland Museum of Art, Gift of Scott C. Mueller and Margaret Fulton Mueller and Sundry Art-Contemporary Fund, 2011.1",
+    "current_location": null,
+    "title": "Stairs",
+    "creation_date": "2010",
+    "creation_date_earliest": 2010,
+    "creation_date_latest": 2010,
+    "artists_tags": [
+      "female"
+    ],
+    "culture": [
+      "Poland, 21st century"
+    ],
+    "technique": "steel, paint",
+    "support_materials": [],
+    "department": "Contemporary Art",
+    "collection": "CONTEMP - Sculpture",
+    "type": "Mixed Media",
+    "measurements": "Overall: 294.6 x 165.1 x 88.9 cm (116 x 65 x 35 in.)",
+    "dimensions": {
+      "overall": {
+        "height": 2.946,
+        "width": 1.651,
+        "depth": 0.889
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Artist; Hauser & Wirth, New York; The Cleveland Museum of Art",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": null
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "Sosnowska says of her art, “In my works there’s no trace of the artist’s hand.”",
+    "description": "Sosnowska is interested in modernism's fascination with utopian ideals, examples of which in Eastern Europe are now in ruins. <em>Stairs</em>, made during the artist's first residency in the United States, is an exact copy of fire-escape stairs seen in New York City. The newly rendered stairs were carefully bent with the use of forklifts, then painted with enamel oil-based paint, providing it with both sculptural elegance and uncanniness. <em>Stairs</em> uses the language of architecture to explore and analyze the ways in which form and function can be used to express a range of ideals, locations, and histories.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q80076092"
+      ],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+        "page_number": "Mentioned and reproduced: P. 126",
+        "url": ""
+      }
+    ],
+    "url": "https://clevelandart.org/art/2011.1",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Scott C. Mueller and Margaret Fulton Mueller and Sundry Art-Contemporary Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 169174,
+    "creators": [
+      {
+        "id": 60778,
+        "description": "Monika Sosnowska (Polish, b. 1972)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1972",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2011-03-07T00:00:00",
+    "sortable_date": 2010,
+    "date_added_to_oa": null,
+    "date_text": "2010",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:01:00.659000"
+  }
+}

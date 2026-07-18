@@ -1,0 +1,129 @@
+{
+  "data": {
+    "id": 540568,
+    "accession_number": "2024.21",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Iowa: House with Melting Roof, Pomeroy, Ohio, 1971. Nancy Rexroth (American, 1946-). Gelatin silver print; image: 10.3 x 10.5 cm (4 1/16 x 4 1/8 in.); paper: 20 x 25.4 cm (7 7/8 x 10 in.); matted: 43.2 x 35.6 cm (17 x 14 in.); framed: 44.8 x 37.1 x 3.2 cm (17 5/8 x 14 5/8 x 1 1/4 in.). The Cleveland Museum of Art, Gift of Sharon & Del Zogg, 2024.21",
+    "current_location": null,
+    "title": "House with Melting Roof, Pomeroy, Ohio",
+    "series": "Iowa",
+    "creation_date": "1971",
+    "creation_date_earliest": 1971,
+    "creation_date_latest": 1971,
+    "artists_tags": [
+      "female"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "gelatin silver print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1951-Present",
+    "type": "Photograph",
+    "measurements": "Image: 10.3 x 10.5 cm (4 1/16 x 4 1/8 in.); Paper: 20 x 25.4 cm (7 7/8 x 10 in.); Matted: 43.2 x 35.6 cm (17 x 14 in.); Framed: 44.8 x 37.1 x 3.2 cm (17 5/8 x 14 5/8 x 1 1/4 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.103,
+        "width": 0.105
+      },
+      "paper": {
+        "height": 0.2,
+        "width": 0.254
+      },
+      "matted": {
+        "height": 0.432,
+        "width": 0.356
+      },
+      "framed": {
+        "height": 0.448,
+        "width": 0.371,
+        "depth": 0.032
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Nancy Rexroth (the artist) [1946–], sold to Del Zogg, Concord, NC",
+        "citations": [],
+        "footnotes": null,
+        "date": "1971–2000",
+        "sortorder": 1
+      },
+      {
+        "description": "Del Zogg, Concord, NC, given to The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "2000–24",
+        "sortorder": 2
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "February 26, 2024–",
+        "sortorder": 3
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "Nancy Rexroth took this image with a plastic toy camera, the Diana, which imparts a dreamy look to its photographs.",
+    "description": "The Diana camera tends to vignette the scenes, darkening their edges, and offers a uniformly soft focus. In the 1970s, Ohio artist Nancy Rexroth used it to photograph the humble frame houses, rural landscapes, and homey interiors of southeastern Ohio. She sought subjective, rather than, objective or documentary images. Her goal, she said, was to portray “my own private landscape, a state of mind.”",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q126084611"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2024.21",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Sharon & Del Zogg",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 540568,
+    "creators": [
+      {
+        "id": 51196,
+        "description": "Nancy Rexroth (American, 1946-)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1946",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2024-02-26T05:00:00Z",
+    "sortable_date": 1971,
+    "date_added_to_oa": null,
+    "date_text": "1971",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": true,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:04:54.214000"
+  }
+}

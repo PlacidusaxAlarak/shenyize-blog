@@ -1,0 +1,2840 @@
+{
+  "info": {
+    "total": 114,
+    "parameters": {
+      "skip": 0,
+      "limit": 20,
+      "q": "bridge photograph",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,gallery,classification_type,department,collection",
+      "search": "bridge photograph"
+    }
+  },
+  "data": [
+    {
+      "id": 165274,
+      "accession_number": "2007.20",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Hudson River Bridge, spring 1930. Berenice Abbott (American, 1898–1991). Gelatin silver print; image: 23.7 x 17.3 cm (9 5/16 x 6 13/16 in.). The Cleveland Museum of Art, John L. Severance Fund, 2007.20. © Berenice Abbott/Getty Images",
+      "current_location": null,
+      "title": "Hudson River Bridge",
+      "creation_date": "spring 1930",
+      "creation_date_earliest": 1930,
+      "creation_date_latest": 1930,
+      "artists_tags": [
+        "female",
+        "LGBTQ+ (after 1900)"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 23.7 x 17.3 cm (9 5/16 x 6 13/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.237,
+          "width": 0.173
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Berenice Abbott/Getty Images",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"Hudson River Bridge\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"Berenice Abbott (signed)\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Black stamp on verso:  \"Courtesy of Julian Levy Gallery\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Purple stamp on verso:  \"Photo/Berenice/Abbott/1.W.67th St. NYC\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 335775,
+            "title": "Accommodations of Desire: Surrealist Works on Paper Collected by Julien Levy",
+            "description": "<i>Accommodations of Desire: Surrealist Works on Paper Collected by Julien Levy</i>. Palmer Museum of Art (September 14-December 5, 2004); McMullen Museum of Art, Boston College, MA (January 16-March 27, 2005); Crocker Art Museum, Sacaramento, CA (July 9-September 11, 2005); Portland Museum of Art (January 1-March 19, 2006).",
+            "opening_date": "2004-09-14T04:00:00"
+          },
+          {
+            "id": 203169,
+            "title": "Forbidden Games: Surrealist and Modernist Photography",
+            "description": "<i>Forbidden Games: Surrealist and Modernist Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 19, 2014-January 11, 2015).",
+            "opening_date": "2014-10-19T00:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "The artist, New York, NY",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "(Julien Levy Gallery, New York, NY)",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "(Sothebys, New York, NY, Oct. 7, 1998)",
+          "citations": [],
+          "footnotes": [],
+          "date": "1998-10-7",
+          "sortorder": 3
+        },
+        {
+          "description": "David Raymond [b. 1979], New York, NY",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 4
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 5
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Abbot was commissioned to photograph the construction of Manhattan’s George Washington Bridge for an article in <em>Architectural Record</em>. She drew attention to the industrial structure’s abstract, aesthetic qualities and its height through her choice of camera angle.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79993999"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E. Hinson, Ian Walker, and Lisa Kurzner. Forbidden Games: Surrealist and Modernist Photography : the David Raymond Collection in the Cleveland Museum of Art. 2014.",
+          "page_number": "cat. no. 120, p. 168.",
+          "url": null
+        },
+        {
+          "citation": "Fellah, Nadiah Rivera, William Griswold, Natalie Scenters-Zapico, and Cleveland Museum of Art. <em>Picturing the Border</em>. Cleveland: The Cleveland Museum of Art, 2024.",
+          "page_number": "Mentioned and reproduced: p. 63, fig. 12",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/2007.20",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 165274,
+      "creators": [
+        {
+          "id": 11,
+          "description": "Berenice Abbott (American, 1898–1991)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Berenice Abbott American, 1898-1991 Berenice Abbott was one of the most accomplished documentary photographers of the 20th century. The Springfield, Ohio, native also achieved recognition for her critical role in preserving and promoting the work of French photographer Eugène Atget. Abbott learned photography during the 1920s while serving as an assistant in Man Ray's Paris studio. In 1926 she opened her own portrait studio, photographing many of the artists and intellectuals then living in Paris, including Atget and James Joyce. Following Atget's death in 1927, Abbott was instrumental in preserving his prints and negatives and in bringing his work to public attention through exhibitions and publications. In 1929, the year that Abbott returned to the United States, her photographs were included in the important exhibition Film und Foto in Stuttgart. Once back in the U.S., Abbott opened a portrait studio in New York City and undertook an ambitious project to document the city's rapidly changing landscape. In 1935 she received assistance from the wpa Federal Arts Project, and two years later images from her study were exhibited at the Museum of the City of New York. In 1939 her photographs were featured in Changing New York, a book with accompanying text by critic Elizabeth McCausland. It was also during the 1930s that Abbott began teaching at the New School for Social Research, a position she held until 1958. In the 1940s Abbott published a manual of photographic instruction, A Guide to Better Photography (1941), as well as a book of photographs taken from 1947-48, Greenwich Village Today and Yesterday (1949). Her photographic subject matter broadened to include scientific phenomena, particularly physical and chemical reactions, an interest she pursued throughout the 1950s. American landscapes, however, continued to be a source of inspiration. In 1954 Abbott traveled U.S. Route 1 from Florida to Maine, photographing small towns encountered along the way. Throughout her long career, Abbott's work was exhibited widely, beginning with a 1926 Paris show at the avant-garde gallery Au Sacre du Printemps. Over the years she participated in numerous group exhibitions as well as in one-person shows at the Museum of Modern Art, New York (1970), the Museum of Photographic Arts, San Diego (1984), and the New York Public Library (1989). M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1898",
+          "death_year": "1991",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2007-02-26T00:00:00",
+      "sortable_date": 1930,
+      "date_added_to_oa": null,
+      "date_text": "spring 1930",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:54.871000"
+    },
+    {
+      "id": 159327,
+      "accession_number": "1996.12",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Brooklyn Bridge, 1980. Kenneth Snelson (American, 1927–2016). Gelatin silver print; image: 39.4 x 231.9 cm (15 1/2 x 91 5/16 in.); paper: 50.5 x 243.2 cm (19 7/8 x 95 3/4 in.). The Cleveland Museum of Art, Wishing Well Fund, 1996.12",
+      "current_location": null,
+      "title": "Brooklyn Bridge",
+      "creation_date": "1980",
+      "creation_date_earliest": 1980,
+      "creation_date_latest": 1980,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 39.4 x 231.9 cm (15 1/2 x 91 5/16 in.); Paper: 50.5 x 243.2 cm (19 7/8 x 95 3/4 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.394,
+          "width": 2.319
+        },
+        "paper": {
+          "height": 0.505,
+          "width": 2.432
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in black felt pen on recto: \"K. Snelson 1980 5/15\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 311875,
+            "title": "Legacy of Light: Master Photographs from the Cleveland Museum of Art",
+            "description": "<i>Legacy of Light: Master Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 24, 1996-February 2, 1997).",
+            "opening_date": "1996-11-24T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, November 20,1996 - February 2, 1997: \"Legacy of Light: Master Photographs from the Cleveland Museum of Art.\"",
+            "opening_date": "1997-02-02T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "This sweeping photograph of New York's Brooklyn Bridge and East River is from a series of panoramas that grew from Kenneth Snelson's desire to see in all directions at once, a feat impossible for the human eye. Using an antique, turn-of-the-century Kodak Cirkut camera, in 1980 Snelson made a number of monumental photographs of New York City landmarks. Mounted on a tripod, a small motor rotated the entire camera while the film was driven at the same speed in the opposite direction past an opening. This enabled exposures of 360° or more. Taking about 40 seconds to make its complete circuit, the camera produced vast negatives about sixteen inches high and nearly eight feet long, which were then contact-printed. This compelling composition is difficult to decipher since the straight lines that angle away from the camera appear curved in the flattened image. The freeways shown on both sides of the photograph are actually a single roadway.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79978747"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 326",
+          "url": ""
+        },
+        {
+          "citation": "Cleveland Museum of Art, “The Cleveland Museum of Art Acquires Major Works,” March 18, 1996, Cleveland Museum of Art Archives.",
+          "page_number": null,
+          "url": "https://archive.org/details/cmapr4027"
+        }
+      ],
+      "url": "https://clevelandart.org/art/1996.12",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Wishing Well Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 159327,
+      "creators": [
+        {
+          "id": 921,
+          "description": "Kenneth Snelson (American, 1927–2016)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Kenneth Snelson American, 1927- Photographer Kenneth Snelson is perhaps better known for his large-scale outdoor sculptures made of tubular steel and cable. Piqued by his father's trade in high-quality German cameras, his interest in photography began as a child. After studying at the University of Oregon (1946-48), Black Mountain College in North Carolina (where his teachers included Josef Albers, Buckminster Fuller, and Willem de Kooning, 1948-49), and the Institute of Design, Illinois Institute of Technology (1950), Snelson studied with Fernand Léger at the Académie Montmartre in Paris (1951). Upon his return, he worked as a cinematographer in order to pay for his sculpture. He began creating panoramic photographs in 1975 with the purchase of a Wide-Lux camera that allowed a 140 view. In 1983 he began using a Cirkut 16 camera, which produced negatives 40 centimeters x 3 meters in size and allowed a 360 view. Born in Pendleton, Oregon, Snelson has taught at Cooper Union, Pratt Institute, and the School of the Visual Arts in New York, and at Southern Illinois University and Yale University. He has received awards from the New York State Council on the Arts (1971), the National Endowment for the Arts (1974, 1975), a Deutsches Akademishes Austauschdienst (daad) Fellowship, Berlin (1975), the American Institute of Architects Medal (1981), an honorary doctorate from Rensselaer Polytechnic Institute (1985), and the American Institute of Arts and Letters Award (1987).",
+          "name_in_original_language": null,
+          "birth_year": "1927",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1996-03-04T00:00:00",
+      "sortable_date": 1980,
+      "date_added_to_oa": null,
+      "date_text": "1980",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": "5",
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:46.637000"
+    },
+    {
+      "id": 447663,
+      "accession_number": "2021.192",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Cuyahoga Valley National Park: Station Road Bridge, 2005. Geoffrey James (British, 1942-). Gelatin silver print; image: 19.8 x 48.2 cm (7 13/16 x 19 in.); paper: 25.5 x 50.5 cm (10 1/16 x 19 7/8 in.). The Cleveland Museum of Art, Gift of the George Gund Foundation Collection in Honor of David Bergholz, 2021.192",
+      "current_location": null,
+      "title": "Station Road Bridge",
+      "series": "Cuyahoga Valley National Park",
+      "creation_date": "2005",
+      "creation_date_earliest": 2005,
+      "creation_date_latest": 2005,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 19.8 x 48.2 cm (7 13/16 x 19 in.); Paper: 25.5 x 50.5 cm (10 1/16 x 19 7/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.198,
+          "width": 0.482
+        },
+        "paper": {
+          "height": 0.255,
+          "width": 0.505
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “Trestle Bridge, Cuyahoga NP 1/10 Geoffrey James (signed)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Geoffrey James (the artist) [1942-], Toronto, Ontario, Canada",
+          "citations": [],
+          "footnotes": null,
+          "date": "2005",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation Collection, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2005-2021",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 6, 2021",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The Cuyahoga Valley National Park, which runs between Akron and Cleveland, is land that has been occupied by humans for over 1,200 years.",
+      "description": "In his views of the Cuyahoga Valley National Park, landscape photographer Geoffrey James shows us natural beauty, but also reminders of the impact of humans on the land such as fragments of the abandoned locks of the Ohio &amp; Erie Canal and modern bridges. James described the park as “a great democratic open space. . . like no other national park I have seen.”",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117246979"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "<em>George Gund Foundation2005 Annual Report: The Cuyahoga Valley National Park</em>, Cleveland: George Gund Foundation, 2005.",
+          "page_number": "",
+          "url": "https://gundfoundation.org/portfolios/cuyahoga-valley-national-park/"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2021.192",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of the George Gund Foundation Collection in Honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 447663,
+      "creators": [
+        {
+          "id": 509,
+          "description": "Geoffrey James (British, 1942-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Geoffrey James British, b. Wales, 1942- The garden panoramas for which Geoffrey James is best known depict utopian spaces that, since the height of their grandeur in centuries past, have fallen into decay and neglect. He uses a large-format camera fitted with a curved film plane to allow the dramatic curves of his architectural and natural subjects to speak most effectively. The resulting monochromatic panoramas are three times longer than they are high, which allows for multiple vantage points and the play of perspective. James's most obvious historical precedent is Eugène Atget, whose extensive series of Parisian gardens speak with a similar technical vocabulary. James (born in St. Asaph) was educated at Wellington College in Crowthorne, Berkshire, and at Wadham College, Oxford, where he studied modern history (B.A., 1962; M.A., 1964). He taught himself photography in 1965, then moved to Canada, working for several years as contributing editor of Time magazine in Montreal (1967-75), as head of the Visual Arts Section of the Canada Council, Ottawa (1975-82), and on various independent freelance projects. James has also taught at the University of Ottawa (1982-84) and has received a fellowship from the Graham Foundation in Fine Arts (1984) and an artist-in-residency from the Centre International de Recherche de Création et d'Animation, Villeneuve-les-Avignon, France (1985). A retrospective of his work, Genius Loci, was organized by the Canadian Museum of Contemporary Photography (1986). His publications include Transparent Things: The Artist's Use of Photography (1977), The Legacy of Atget (coauthor, 1977), Visions: Essays on Contemporary Canadian Art (coeditor, 1977), Entrances and Exits (1984), I Giardini Italiani (1985), Genius Loci (1986), and Morbid Symptoms (1987). James lives in Toronto. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1942",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2021-12-06T05:00:00Z",
+      "sortable_date": 2005,
+      "date_added_to_oa": null,
+      "date_text": "2005",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:17.071000"
+    },
+    {
+      "id": 157319,
+      "accession_number": "1994.185",
+      "share_license_status": "CC0",
+      "tombstone": "Bridge of Shops, Srinagar, Kashmir, 1864. Samuel Bourne (British, 1834–1912). Albumen print from wet collodion negative; image: 23.6 x 29.1 cm (9 5/16 x 11 7/16 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, John L. Severance Fund, 1994.185",
+      "current_location": null,
+      "title": "Bridge of Shops, Srinagar, Kashmir",
+      "creation_date": "1864",
+      "creation_date_earliest": 1864,
+      "creation_date_latest": 1864,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "albumen print from wet collodion negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 23.6 x 29.1 cm (9 5/16 x 11 7/16 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.236,
+          "width": 0.291
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"788\"; \"$900\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 184303,
+            "title": "Travel Photography: Early Images of India",
+            "description": "<i>Travel Photography: Early Images of India</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 2-July 17, 2002).",
+            "opening_date": "2002-03-02T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, September 13 - November 27, 1994:  \"Recent Acquisitions:  Prints, Drawings, Photographs,\" no exhibition catalogue.",
+            "opening_date": "1994-09-13T00:00:00"
+          },
+          {
+            "description": "CMA, March 2 - July 17, 2002; \"Travel Photography: Images of India,\" no exhibition catalogue.",
+            "opening_date": "2002-03-02T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Taking up photography in his teens, Samuel Bourne soon achieved recognition for both his superb technical skills and keen aesthetic talents. When he sailed to India in late 1862, he left a banking career to pursue his passion for photography . He hoped to use his camera throughout the country and to write about his experiences for the British Journal of Photography. This charming photograph of a bridge filled with small huts demonstrates his creative ability to organize the random environment. His lively use of light and shade clearly defines the elements of architecture and landscape. The photographer allowed a favorite, early interest in water to dominate this picturesque image of Jaipur, which was founded in 1727 by Maharajah Jai Singh II. By the beginning of the 21st century, this small town had developed into a commercial city with a population of well over two million.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79973427"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1994.185-bridge-of-shops-srin"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 106",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1994.185",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1994.185/1994.185_web.jpg",
+          "width": "1101",
+          "height": "893",
+          "filesize": "554750",
+          "filename": "1994.185_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1994.185/1994.185_print.jpg",
+          "width": "3400",
+          "height": "2758",
+          "filesize": "5013263",
+          "filename": "1994.185_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1994.185/1994.185_full.tif",
+          "width": "5555",
+          "height": "4506",
+          "filesize": "75124444",
+          "filename": "1994.185_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 157319,
+      "creators": [
+        {
+          "id": 265,
+          "description": "Samuel Bourne (British, 1834–1912)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Samuel Bourne British, 1834 - 1912 Born in Nottingham, Samuel Bourne first began taking photographs as an amateur in 1851. Four years later, he gave up his career in banking to become a professional photographer. In 1862 he embarked for India, where for the next several years he made three photographic expeditions into the Himalayas. He also formed a partnership in Simla with Charles Shepherd -- a publishing enterprise to reproduce photographic views. Until his return to England in 1870, Bourne continued to work in India and the Far East and to expand the province of Bourne &amp; Shepherd, opening a second branch in Calcutta. By the time of his departure he had produced some 1,500 negatives of such places as Benares, Darjeeling, and Tibet, largely of landscape and architecture for the public market. Bourne was known for the care with which he conceived and executed his work. His images, though plentiful, were highly prized and remain so today. Many are still available from the firm Bourne &amp; Shepherd, which has survived for more than 125 years. After returning to England, he established a business in cotton doubling, manufacturing thread for lacemaking and weaving machines, raised a family, and took up again the life of an amateur photographer and watercolorist. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1834",
+          "death_year": "1912",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1994-09-07T00:00:00",
+      "sortable_date": 1864,
+      "date_added_to_oa": null,
+      "date_text": "1864",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "The Bridge at Jaipur, India"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:56.577000"
+    },
+    {
+      "id": 153597,
+      "accession_number": "1987.130",
+      "share_license_status": "CC0",
+      "tombstone": "The Bridge of Palalda (near Amelieles-Bains) , 1851–1852. Gustave Le Gray (French, 1820–1884). Salted paper print from waxed paper negative; image: 23.8 x 32.7 cm (9 3/8 x 12 7/8 in.); matted: 50.8 x 61 cm (20 x 24 in.). The Cleveland Museum of Art, John L. Severance Fund, 1987.130",
+      "current_location": null,
+      "title": "The Bridge of Palalda (near Amelieles-Bains) ",
+      "creation_date": "1851–1852",
+      "creation_date_earliest": 1851,
+      "creation_date_latest": 1852,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "salted paper print from waxed paper negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - French 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 23.8 x 32.7 cm (9 3/8 x 12 7/8 in.); Matted: 50.8 x 61 cm (20 x 24 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.238,
+          "width": 0.327
+        },
+        "matted": {
+          "height": 0.508,
+          "width": 0.61
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on recto of mount: \"Gustave LeGray c. 1851\"; in pencil on verso: \"Le Gray\"; \"g [in center of a triangle - monogram ?]\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 310231,
+            "title": "The Year in Review for 1987",
+            "description": "<i>The Year in Review for 1987</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 24-April 17, 1988).",
+            "opening_date": "1988-02-24T05:00:00"
+          },
+          {
+            "id": 178867,
+            "title": "Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art",
+            "description": "<i>Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 26-June 16, 2005).",
+            "opening_date": "2005-02-26T00:00:00"
+          },
+          {
+            "id": 197576,
+            "title": "France at the Dawn of Photography",
+            "description": "<i>France at the Dawn of Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 4, 2009-January 24, 2010).",
+            "opening_date": "2009-10-04T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, February 24 - April 17, 1988: \"Year in Review 1987,\" CMA Bulletin, 75 (February 1988), p. 67, no. 65.",
+            "opening_date": "1988-02-24T00:00:00"
+          },
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; February 26 - June 16, 2005 . \"Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art\".",
+            "opening_date": "2005-02-26T00:00:00"
+          },
+          {
+            "description": "The Cleveland Museum of Art (10/04/2009 - 01/24/2010); \"France at the Dawn of Photography\"",
+            "opening_date": "2009-10-04T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "From July through September 1851, Le Gray and his friend O. Mestral traveled throughout southwest France for the Historic Monuments Commission to document ancient, particularly medieval, monuments of historical importance or in urgent need of or undergoing restoration. This rare, beautifully toned photograph by Le Gray is one of three known positive prints of different subjects that were completely outside the commission’s prescribed program. This picturesque image was taken from the left bank of the Tech River, situated below the old town of Palalda, now a part of Amelie-les-Bains in Pyrenees-Orientales. With his keen eye for artistic compositions, Le Gray stressed the rugged landscape over a detailed, close-up rendering of the ancient bridge. The foreshortened, sheer cliff seems to blend into the structure, resulting in visual uncertainty and spatial tension.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79939521"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1987.130-the-bridge-of-palald"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 221",
+          "url": ""
+        },
+        {
+          "citation": "Hinson, Tom E. \"The Monet of Photography.\" <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 45, no. 4 (April 2005): 6-8.",
+          "page_number": "Mentioned and reproduced: p. 6",
+          "url": "https://archive.org/details/CMAMM2005-04/page/6/mode/2up"
+        }
+      ],
+      "url": "https://clevelandart.org/art/1987.130",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1987.130/1987.130_web.jpg",
+          "width": "900",
+          "height": "658",
+          "filesize": "306217",
+          "filename": "1987.130_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1987.130/1987.130_print.jpg",
+          "width": "3400",
+          "height": "2484",
+          "filesize": "2234326",
+          "filename": "1987.130_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1987.130/1987.130_full.tif",
+          "width": "6537",
+          "height": "4776",
+          "filesize": "93687824",
+          "filename": "1987.130_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1987.130/1987.130_alt0_web.jpg",
+            "width": "1218",
+            "height": "893",
+            "filesize": "877277"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1987.130/1987.130_alt0_print.jpg",
+            "width": "3400",
+            "height": "2493",
+            "filesize": "5194185"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1987.130/1987.130_alt0_full.tif",
+            "width": "5000",
+            "height": "3666",
+            "filesize": "55019508"
+          }
+        },
+        {
+          "date_created": "2005-01-24T17:54:08",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1987.130/1987.130_alt1_web.jpg",
+            "width": "1218",
+            "height": "893",
+            "filesize": "868294"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1987.130/1987.130_alt1_print.jpg",
+            "width": "3400",
+            "height": "2493",
+            "filesize": "5254908"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1987.130/1987.130_alt1_full.tif",
+            "width": "5000",
+            "height": "3666",
+            "filesize": "55014356"
+          }
+        }
+      ],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 153597,
+      "creators": [
+        {
+          "id": 568,
+          "description": "Gustave Le Gray (French, 1820–1884)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Gustave Le Gray French, 1820-1884\r\n\r\nA master both technically and aesthetically, Gustave Le Gray (born in Villiers-le-Bel) was one of the most important figures in 19th-century French photography, bringing to the medium artistic integrity and visual imagination. Le Gray, trained as a painter, was exhibiting his work in the Paris Salons in the late 1840s and early 1850s when he became interested in photography. Along with Henri Le Secq and Charles Nègre, he was a student of Paul Delaroche, a painter of considerable reputation and ability who was one of the first to grasp the importance of photography.\r\n\tIn 1851 Le Gray announced his invention of a waxed paper negative, a significant improvement over earlier paper methods that was later adopted by Louis de Clercq, Dr. August Jakob Lorent, and others. That same year the Commission des Monuments historiques named him as one of five photographers of the Mission héliographique, for which he produced well-known studies of army maneuvers at Chalons. Le Gray also worked with François Arago, the scientist and champion of Louis-Jacques-Mandé Daguerre, and later proposed a new method of toning prints, among other innovations.\r\n\tLe Gray was perhaps most admired for the effects he achieved with water and sky. To capture the subtle qualities of cloud patterns in some of his seascapes, he employed two negatives to produce the final image. His commissioned studies of historic monuments are classic examples of early architectural photography. In the early 1850s he worked in the Barbizon tradition at Fontainebleau and, in 1860, documented the uprising against François II in Palermo. He was a founding member of the Société héliographique and the Société française de photographie. Despite his influence and artistic success, Le Gray left Paris in 1865 to become a professor of design at the École Polytechnique in Cairo. He died in Egypt. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1820",
+          "death_year": "1884",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1987-09-21T00:00:00",
+      "sortable_date": 1851,
+      "date_added_to_oa": null,
+      "date_text": "1851–1852",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 16:32:39.408000"
+    },
+    {
+      "id": 667938,
+      "accession_number": "2024.6.nn",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: Safed Sang River and Old Bridge, 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.nn",
+      "current_location": null,
+      "title": "Safed Sang River and Old Bridge",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448816"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.nn",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.nn/2024.6.nn_web.jpg",
+          "width": "900",
+          "height": "610",
+          "filesize": "261413",
+          "filename": "2024.6.nn_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.nn/2024.6.nn_print.jpg",
+          "width": "3400",
+          "height": "2303",
+          "filesize": "3276731",
+          "filename": "2024.6.nn_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.nn/2024.6.nn_full.tif",
+          "width": "7179",
+          "height": "4862",
+          "filesize": "104744018",
+          "filename": "2024.6.nn_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-27T11:43:49",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.nn/2024.6.nn_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "150898"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.nn/2024.6.nn_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "2239028"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.nn/2024.6.nn_alt0_full.tif",
+            "width": "14204",
+            "height": "9353",
+            "filesize": "398579238"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667938,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:45.680000"
+    },
+    {
+      "id": 155585,
+      "accession_number": "1990.33",
+      "share_license_status": "CC0",
+      "tombstone": "The Miners' Bridge, on the Llugwy, North Wales, 1857. Roger Fenton (British, 1819–1869). Albumen print from wet collodion negative; image: 36.7 x 42.9 cm (14 7/16 x 16 7/8 in.); matted: 55.9 x 71.1 cm (22 x 28 in.). The Cleveland Museum of Art, Andrew R. and Martha Holden Jennings Fund, 1990.33",
+      "current_location": null,
+      "title": "The Miners' Bridge, on the Llugwy, North Wales",
+      "creation_date": "1857",
+      "creation_date_earliest": 1857,
+      "creation_date_latest": 1857,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "albumen print from wet collodion negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "Photography",
+      "type": "Photograph",
+      "measurements": "Image: 36.7 x 42.9 cm (14 7/16 x 16 7/8 in.); Matted: 55.9 x 71.1 cm (22 x 28 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.367,
+          "width": 0.429
+        },
+        "matted": {
+          "height": 0.559,
+          "width": 0.711
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"BOB MINERS\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 311440,
+            "title": "Notable Acquisitions",
+            "description": "<i>Notable Acquisitions</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 7-September 15, 1991).",
+            "opening_date": "1991-06-07T04:00:00"
+          },
+          {
+            "id": 311875,
+            "title": "Legacy of Light: Master Photographs from the Cleveland Museum of Art",
+            "description": "<i>Legacy of Light: Master Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 24, 1996-February 2, 1997).",
+            "opening_date": "1996-11-24T05:00:00"
+          },
+          {
+            "id": 186948,
+            "title": "Pioneers of Landscape Photography from the Museum's Collection",
+            "description": "<i>Pioneers of Landscape Photography from the Museum's Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 12, 2000-January 3, 2001).",
+            "opening_date": "2000-08-12T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Arts Council of Britain, Hayward Gallery, London, Feb. 10- April 17, 1983: \"Landscape in Britain: 1850-1950,\" Exhibition catalogue p. 61. (Also exhibited at Bristol City Museum and Art Gallery, April 30 - June 4, 1983; Stoke-on-Trent City Museum &amp; Art Gallery, June 11 - July 16, 1983; Mappin Art Gallery, Sheffield, July 23 - Aug. 28, 1983.)",
+            "opening_date": "1983-02-10T00:00:00"
+          },
+          {
+            "description": "CMA, June 7 - Sept. 15, 1991: \"Notable Acquisitions,\" CMA Bulletin, 78 (June 1991), p. 93, repr. p. 93.",
+            "opening_date": "1991-06-07T00:00:00"
+          },
+          {
+            "description": "CMA, November 20,1996 - February 2, 1997: \"Legacy of Light: Master Photographs from the Cleveland Museum of Art,\" see Catalogue of Photography, pp. 22-23.",
+            "opening_date": "1997-02-02T00:00:00"
+          },
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; August 12, 2000 - January 3, 2001.  \"Pioneers of Landscape Photography from the Museum's Collection.\"",
+            "opening_date": "2000-08-12T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Roger Fenton was a versatile and prolific artist who abruptly ended his brief, 12-year career as a professional photographer to return to the practice of law. Nevertheless, his architectural and landscape photographs have brought him recognition as the greatest British photographer of the 1850s. In this picturesque scene, Fenton focused on a single figure ascending a precarious wooden bridge that hangs suspended between two craggy surfaces. He often included people in his photographs to indicate scale and to enliven the composition. Fenton's wet collodion negative rendered the texture of the riverbed in minute detail, transforming the dark tones of the rocks and the random pattern of the light-colored lichens into a lively, abstract design. The slow speed of the negative, relative to the swift movement of the stream, turned the rushing water into a dense, white cloud.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60781247"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1990.33-the-miners-bridge-on"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Hinson, Tom E. \"Notable Acquisitions.\" <em>The Bulletin of the Cleveland Museum of Art</em> 78, no. 3 (1991): 63-147.",
+          "page_number": "Reproduced and Mentioned: p. 93",
+          "url": "https://www.jstor.org/stable/25161319"
+        },
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Mentioned and reproduced: P. 22-23, 155",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1990.33",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1990.33/1990.33_web.jpg",
+          "width": "1048",
+          "height": "893",
+          "filesize": "770193",
+          "filename": "1990.33_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1990.33/1990.33_print.jpg",
+          "width": "3400",
+          "height": "2896",
+          "filesize": "6358833",
+          "filename": "1990.33_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1990.33/1990.33_full.tif",
+          "width": "5000",
+          "height": "4259",
+          "filesize": "63920668",
+          "filename": "1990.33_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Andrew R. and Martha Holden Jennings Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 155585,
+      "creators": [
+        {
+          "id": 125,
+          "description": "Roger Fenton (British, 1819–1869)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Roger Fenton British, 1819-1869\r\n\r\nDespite the relative brevity of his career, Roger Fenton stands among the most important and accomplished British photographers. Born in Heywood, Lancashire, to a wealthy family, Fenton graduated from University College in London and in 1844 may have studied painting in the Paris studio of Paul Delaroche, along with several other important future photographers. After returning to England, he spent four years earning a degree as a solicitor, continued to paint, and developed an interest in photography before joining a London law firm in 1851.\r\n\tFenton's paintings were shown annually in London at the Royal Academy from 1849–51. After helping to found the Calotype Club (1847), in 1852 he published an article that advocated establishment of a British photographic organization modeled after the Société héliographique in France. His argument, combined with the lifting of the use restrictions on William Henry Fox Talbot's patent for the calotype, led to formation of the London Photographic Society; Fenton served as its first honorary secretary. In December 1852, an early exhibition of the new society included 39 of his views. Soon afterward, he accompanied his friend Charles Vignoles to Russia to photograph the construction of a bridge at Kiev. Traveling to the Crimea in 1855, Fenton was the first photographer to make a sustained sequence of war views. He also accepted commissions to document the collections of the British Museum and to photograph the royal family at Buckingham and Windsor castles.\r\n\tAmong Fenton's best work are his photographs of landscapes and architecture. His still lifes are exceptional. His views -- whether of great expanses of garden and lawn, of Balaklava, or of fishermen at a local stream -- have an artistic consistency, grandeur of vision, and command of technique comparable only to the work of Édouard Baldus in France and Carleton E. Watkins in America. In 1862, judging the quality of photography to have declined, Fenton sold all his equipment at auction and returned to the law. His negatives were bought by Francis Frith, whose publishing concern continued to print them in various formats for the next hundred years. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1819",
+          "death_year": "1869",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1990-09-06T00:00:00",
+      "sortable_date": 1857,
+      "date_added_to_oa": null,
+      "date_text": "1857",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:01.039000"
+    },
+    {
+      "id": 667888,
+      "accession_number": "2024.6.e",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: The Bridge of Boats and Fort from Khairabad, 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.e",
+      "current_location": null,
+      "title": "The Bridge of Boats and Fort from Khairabad",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448751"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.e",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.e/2024.6.e_web.jpg",
+          "width": "900",
+          "height": "539",
+          "filesize": "215544",
+          "filename": "2024.6.e_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.e/2024.6.e_print.jpg",
+          "width": "3400",
+          "height": "2037",
+          "filesize": "2754282",
+          "filename": "2024.6.e_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.e/2024.6.e_full.tif",
+          "width": "7588",
+          "height": "4545",
+          "filesize": "103493318",
+          "filename": "2024.6.e_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-25T12:46:27",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.e/2024.6.e_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "138272"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.e/2024.6.e_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "1939493"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.e/2024.6.e_alt0_full.tif",
+            "width": "14204",
+            "height": "9353",
+            "filesize": "398579398"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667888,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:53.917000"
+    },
+    {
+      "id": 697943,
+      "accession_number": "2025.264",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Bridge, c. 1927–29. Margaret Bourke-White (American, 1904–1971). Gelatin silver print; image: 9.5 x 7.6 cm (3 3/4 x 3 in.). The Cleveland Museum of Art, Gift of Diana S. Tittle in memory of Tom E. Hinson, 2025.264",
+      "current_location": null,
+      "title": "Bridge",
+      "creation_date": "c. 1927–29",
+      "creation_date_earliest": 1922,
+      "creation_date_latest": 1934,
+      "artists_tags": [
+        "May Show",
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 9.5 x 7.6 cm (3 3/4 x 3 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.095,
+          "width": 0.076
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(New Gallery of Contemporary Art, Cleveland, OH), sold to Tom E. Hinson, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1970s",
+          "sortorder": 1
+        },
+        {
+          "description": "Collection of Tom Hinson and Diana Tittle, Truth or Consequences, NM and Tucson, AZ, given to the Cleveland Museum of Art, Cleveland, OH, December 8, 2025",
+          "citations": [],
+          "footnotes": null,
+          "date": "mid 1970s-2025",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 8, 2025–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The Terminal Tower was the tallest building in North America outside of New York City from 1927-1964.",
+      "description": "Margaret Bourke-White, the visual poet of Industrial Cleveland, juxtaposes a pale Terminal Tower rising in the distant mist with the dark, lacy geometry of a bridge’s ironwork in this 1927-29 view. The artist sent small scale prints like this to her friends as holiday cards, evoking through composition the grandeur and spirit of this rising city.",
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2025.264",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Diana S. Tittle in memory of Tom E. Hinson",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 697943,
+      "creators": [
+        {
+          "id": 262,
+          "description": "Margaret Bourke-White (American, 1904–1971)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Margaret Bourke-White American, 1904-1971 Margaret Bourke-White was a preeminent photojournalist who gained fame for her striking images published in Fortune and Life magazines in the 1930s-50s. In 1922, while at Columbia University Teachers College in her native New York City, Bourke-White studied photography with Clarence White. She attended several other colleges before graduating from Cornell University (1927), then moved to Cleveland. The city's industrial landscape was influential in the development of Bourke-White's photographic style. One of her images from this period, Romance of Steel, was a first-place winner in the Cleveland Museum of Art's 1928 May Show, a regional juried exhibition. The following year Bourke-White moved back to New York to work for Henry Luce's new business magazine, Fortune. In 1934 she was sent by the magazine to cover the drought in the Midwest, an assignment she credited with awakening her social conscience. Three years later she collaborated with writer Erskine Caldwell on You Have Seen Their Faces, an acclaimed study of the plight of rural Southerners during the Great Depression. Bourke-White's long association with Life began in 1936 when she joined the magazine as one of its first staff photographers. When it premiered on November 23, 1936, her photographs of Fort Peck Dam in Montana were featured on the cover and in the lead story. During her career, Bourke-White covered many major world events: the Great Depression, World War II, the partitioning of India, and the Korean War. She continued to photograph throughout the 1950s, publishing her images in magazines and in a number of books, including Eyes on Russia (1931), North of the Danube, with Erskine Caldwell (1939), Say, Is This the U.S.A.?, with Erskine Caldwell (1941), Shooting the Russian War (1942), Dear Fatherland, Rest Quietly (1946), Halfway to Freedom: A Report on the New India (1949), and Portrait of Myself (her autobiography, 1963). M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1904",
+          "death_year": "1971",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2025-12-08T05:00:00Z",
+      "sortable_date": 1922,
+      "date_added_to_oa": null,
+      "date_text": "c. 1927–29",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:04.279000"
+    },
+    {
+      "id": 162877,
+      "accession_number": "2003.361",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Terminal Tower, 1928. Margaret Bourke-White (American, 1904–1971). Gelatin silver print; overall: 49.4 x 37.2 cm (19 7/16 x 14 5/8 in.); matted: 76.2 x 61 cm (30 x 24 in.). The Cleveland Museum of Art, Gift of Huntington Bank, 2003.361. ©  Estate of Margaret Bourke-White / Licensed by VAGA at Artists Rights Society (ARS), NY",
+      "current_location": null,
+      "title": "Terminal Tower",
+      "creation_date": "1928",
+      "creation_date_earliest": 1928,
+      "creation_date_latest": 1928,
+      "artists_tags": [
+        "May Show",
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Overall: 49.4 x 37.2 cm (19 7/16 x 14 5/8 in.); Matted: 76.2 x 61 cm (30 x 24 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.494,
+          "width": 0.372
+        },
+        "matted": {
+          "height": 0.762,
+          "width": 0.61
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "©  Estate of Margaret Bourke-White / Licensed by VAGA at Artists Rights Society (ARS), NY",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 177916,
+            "title": "Burchfield to Schreckengost: Cleveland Art of the Jazz Age",
+            "description": "<i>Burchfield to Schreckengost: Cleveland Art of the Jazz Age</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 28-July 18, 2004).",
+            "opening_date": "2004-03-28T00:00:00"
+          },
+          {
+            "id": 194095,
+            "title": "Icons of American Photography: A Century of Photographs from the Cleveland Museum of Art",
+            "description": "<i>Icons of American Photography: A Century of Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 24-September 16, 2007); Frick Art and Historical Center, Pittsburgh, PA (October 3, 2009-January 3, 2010).",
+            "opening_date": "2007-06-24T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; March 28 - July 18, 2004. \"Burchfield to Schreckengost: Cleveland Art of the Jazz Age\", no exhibition catalogue.",
+            "opening_date": "2004-03-28T00:00:00"
+          },
+          {
+            "description": "The Cleveland Museum of Art (6/24/07 - 9/16/07) and the Frick Art and Historical Center, Pittburgh, PA (10/3/2009 - 1/3/2010); \"Icons of American Photography: A Century of Photographs from the Cleveland Museum of Art\", no exhibition catalogue.",
+            "opening_date": "2007-06-24T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Huntington National Bank, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "March 1, 2004",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This is the largest known print of Margaret Bourke-White’s iconic photograph of Cleveland.",
+      "description": "Bourke-White made numerous photographs of the newly completed Terminal Tower, at that time the second tallest building in America. Here she places it at the apex of a visual pyramid, as if ascending from a smoky pit, flanked by the Detroit-Superior Bridge and smokestacks in the Flats. The tower symbolizes Cleveland’s industrial power and meteoric rise from a small settlement to a modern, progressive city.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79988052"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Robinson, William H., Kathleen McKeever, \"And All That Jazz\", Cleveland Museum of Art. <em>Cleveland Art: The Cleveland Museum of Art Members Magazine</em>. Vol. 44 no. 05, May 2004",
+          "page_number": "Mentioned & reproduced: p. 7",
+          "url": "https://archive.org/details/CMAMM2004-05/page/n5"
+        },
+        {
+          "citation": "Hinson, Tom. \"Iconic Images.\" <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>47, no. 6 (July/August 2007): 3-6.",
+          "page_number": "Reproduced: p. 3; Mentioned: p. 5",
+          "url": "https://archive.org/details/CMAMM2007-06/page/2/mode/2up"
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+          "page_number": "Mentioned and reproduced: P. 310-311; Reproduced: P. 302-303",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/2003.361",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Huntington Bank",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 162877,
+      "creators": [
+        {
+          "id": 262,
+          "description": "Margaret Bourke-White (American, 1904–1971)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Margaret Bourke-White American, 1904-1971 Margaret Bourke-White was a preeminent photojournalist who gained fame for her striking images published in Fortune and Life magazines in the 1930s-50s. In 1922, while at Columbia University Teachers College in her native New York City, Bourke-White studied photography with Clarence White. She attended several other colleges before graduating from Cornell University (1927), then moved to Cleveland. The city's industrial landscape was influential in the development of Bourke-White's photographic style. One of her images from this period, Romance of Steel, was a first-place winner in the Cleveland Museum of Art's 1928 May Show, a regional juried exhibition. The following year Bourke-White moved back to New York to work for Henry Luce's new business magazine, Fortune. In 1934 she was sent by the magazine to cover the drought in the Midwest, an assignment she credited with awakening her social conscience. Three years later she collaborated with writer Erskine Caldwell on You Have Seen Their Faces, an acclaimed study of the plight of rural Southerners during the Great Depression. Bourke-White's long association with Life began in 1936 when she joined the magazine as one of its first staff photographers. When it premiered on November 23, 1936, her photographs of Fort Peck Dam in Montana were featured on the cover and in the lead story. During her career, Bourke-White covered many major world events: the Great Depression, World War II, the partitioning of India, and the Korean War. She continued to photograph throughout the 1950s, publishing her images in magazines and in a number of books, including Eyes on Russia (1931), North of the Danube, with Erskine Caldwell (1939), Say, Is This the U.S.A.?, with Erskine Caldwell (1941), Shooting the Russian War (1942), Dear Fatherland, Rest Quietly (1946), Halfway to Freedom: A Report on the New India (1949), and Portrait of Myself (her autobiography, 1963). M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1904",
+          "death_year": "1971",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2004-03-01T00:00:00",
+      "sortable_date": 1928,
+      "date_added_to_oa": null,
+      "date_text": "1928",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": true,
+      "updated_at": "2026-03-27 00:00:37.341000"
+    },
+    {
+      "id": 667887,
+      "accession_number": "2024.6.d",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: Fort Attock with Bridge of Boats and Khairabad, 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.d",
+      "current_location": null,
+      "title": "Fort Attock with Bridge of Boats and Khairabad",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448749"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.d",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.d/2024.6.d_web.jpg",
+          "width": "900",
+          "height": "598",
+          "filesize": "200718",
+          "filename": "2024.6.d_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.d/2024.6.d_print.jpg",
+          "width": "3400",
+          "height": "2258",
+          "filesize": "2917011",
+          "filename": "2024.6.d_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.d/2024.6.d_full.tif",
+          "width": "7387",
+          "height": "4905",
+          "filesize": "108729830",
+          "filename": "2024.6.d_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-25T12:43:10",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.d/2024.6.d_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "124477"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.d/2024.6.d_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "1797475"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.d/2024.6.d_alt0_full.tif",
+            "width": "14204",
+            "height": "9353",
+            "filesize": "398579066"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667887,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:04:56.522000"
+    },
+    {
+      "id": 162579,
+      "accession_number": "2003.201",
+      "share_license_status": "Copyrighted",
+      "tombstone": "From Chippewa Road Bridge, 1991. Lois Conner (American, b. 1951). Platinum print; image: 16.6 x 42 cm (6 9/16 x 16 9/16 in.); matted: 35.6 x 58.4 cm (14 x 23 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, The Cleveland Museum of Art, 2003.201",
+      "current_location": null,
+      "title": "From Chippewa Road Bridge",
+      "creation_date": "1991",
+      "creation_date_earliest": 1991,
+      "creation_date_latest": 1991,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "platinum print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 16.6 x 42 cm (6 9/16 x 16 9/16 in.); Matted: 35.6 x 58.4 cm (14 x 23 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.166,
+          "width": 0.42
+        },
+        "matted": {
+          "height": 0.356,
+          "width": 0.584
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 185916,
+            "title": "A City Seen: Photographs from The George Gund Foundation Collection",
+            "description": "<i>A City Seen: Photographs from The George Gund Foundation Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 17, 2002-January 26, 2003).",
+            "opening_date": "2002-11-17T00:00:00"
+          },
+          {
+            "id": 199873,
+            "title": "Contemporary Landscape Photography",
+            "description": "<i>Contemporary Landscape Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 26-August 14, 2011).",
+            "opening_date": "2011-03-26T00:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "The George Gund Foundation Collection",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "In 1991 Conner was commissioned by the George Gund Foundation to create a new body of work surveying the Cuyahoga River for the foundation’s annual report. From the elevated vantage point of the Chippewa Road Bridge in Brecksville, Ohio, she created with her antique 7-by-17-inch view camera a sweeping panorama of the Cuyahoga River Valley bathed in a distinctive glow. A narrow towpath follows the twisting waterbed as it winds through a densely wooded landscape. The pathway was originally part of the Ohio and Erie Canal but now provides recreational opportunities for this scenic natural environment. The combination of her large negative and the platinum printing process produced an image with limitless depth of field, subtly graduated shades of gray, and extraordinary depiction of details.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79987250"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Friedlander, Lee, and John Szarkowski. <em>A City Seen: Photographs from the George Gund Foundation Collection</em>. [Cleveland, Ohio]: The Cleveland Museum of Art, 2002.",
+          "page_number": "p. 46",
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/2003.201",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The George Gund Foundation Collection in honor of David Bergholz, The Cleveland Museum of Art",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 162579,
+      "creators": [
+        {
+          "id": 42873,
+          "description": "Lois Conner (American, b. 1951)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1951",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2003-09-02T00:00:00",
+      "sortable_date": 1991,
+      "date_added_to_oa": null,
+      "date_text": "1991",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:38.297000"
+    },
+    {
+      "id": 156000,
+      "accession_number": "1991.283",
+      "share_license_status": "CC0",
+      "tombstone": "Alexander Gardner's Photographic Sketchbook of the War: Military Bridge, Across the Chickahominy, Virginia, 1862. David B. Woodbury (American, 1866). Albumen print, gold toned, from wet collodion negative; image: 17.7 x 23 cm (6 15/16 x 9 1/16 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, John L. Severance Fund, 1991.283",
+      "current_location": null,
+      "title": "Military Bridge, Across the Chickahominy, Virginia",
+      "series": "Alexander Gardner's Photographic Sketchbook of the War",
+      "creation_date": "1862",
+      "creation_date_earliest": 1862,
+      "creation_date_latest": 1862,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "albumen print, gold toned, from wet collodion negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 17.7 x 23 cm (6 15/16 x 9 1/16 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.177,
+          "width": 0.23
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on recto: \"23\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 311875,
+            "title": "Legacy of Light: Master Photographs from the Cleveland Museum of Art",
+            "description": "<i>Legacy of Light: Master Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 24, 1996-February 2, 1997).",
+            "opening_date": "1996-11-24T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, November 20,1996 - February 2, 1997: \"Legacy of Light: Master Photographs from the Cleveland Museum of Art.\"",
+            "opening_date": "1997-02-02T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "(Charles Isaacs Photographs, Inc., New York, NY)",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "February 24, 1992",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "In this complex composition, David B. Woodbury merged the documentation of an event with his desire to record an impressive landscape. The image depicts a precarious, yet essential military log bridge that traverses a swamp created by the accumulated waters of the Chickahominy River, located southeast of Richmond, Virginia. Constructed under difficult physical conditions, the structure was later destroyed by floodwaters caused by heavy rains. The workers involved with the structure's construction are positioned in a single line so that each person is identifiable; however, reduced to diminutive size by the camera's distant viewpoint, the workers appear to be dominated by their natural environment. This image appeared in the first volume of a two-volume set of 100 Civil War photographs published between 1865–66 by Alexander Gardner (1821–1882), who printed the negatives and compiled the album, which included work by a number of other photographers.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79944779"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1991.283-military-bridge-acro"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 399",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1991.283",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1991.283/1991.283_web.jpg",
+          "width": "1155",
+          "height": "893",
+          "filesize": "829629",
+          "filename": "1991.283_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1991.283/1991.283_print.jpg",
+          "width": "3400",
+          "height": "2629",
+          "filesize": "5911799",
+          "filename": "1991.283_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1991.283/1991.283_full.tif",
+          "width": "5843",
+          "height": "4518",
+          "filesize": "79230912",
+          "filename": "1991.283_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 156000,
+      "creators": [
+        {
+          "id": 1106,
+          "description": "David B. Woodbury (American, 1866)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "David B. Woodbury American, d. 1866\r\n\r\nDavid Woodbury was one of the many lesser known photographers of the American Civil War. Employed by Mathew Brady, he is known to have photographed in Virginia. Woodbury later worked for Alexander Gardner, and one of his views appears in Gardner's famous volume Photographic Sketchbook of the Civil War (1866). T.W.F.",
+          "name_in_original_language": null,
+          "death_year": "1866",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1992-02-24T00:00:00",
+      "sortable_date": 1862,
+      "date_added_to_oa": null,
+      "date_text": "1862",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:56.422000"
+    },
+    {
+      "id": 684387,
+      "accession_number": "2024.149",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Construction: Worker on a Bridge Cantilever, c. 1960–2000. Sophie Rivera (American, 1938–2021). Gelatin silver print; image: 22.2 x 35.2 cm (8 3/4 x 13 7/8 in.); sheet: 27.6 x 35.6 cm (10 7/8 x 14 in.). The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.149",
+      "current_location": null,
+      "title": "Worker on a Bridge Cantilever",
+      "series": "Construction",
+      "creation_date": "c. 1960–2000",
+      "creation_date_earliest": 1960,
+      "creation_date_latest": 2000,
+      "artists_tags": [
+        "female",
+        "Latine and Hispanic Artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 22.2 x 35.2 cm (8 3/4 x 13 7/8 in.); Sheet: 27.6 x 35.6 cm (10 7/8 x 14 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.222,
+          "width": 0.352
+        },
+        "sheet": {
+          "height": 0.276,
+          "width": 0.356
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Estate of Martin Hurwitz, Sophie Rivera Collection, sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–2024",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 9, 2024–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "There are a number of above-ground subway stations in the Morningside Heights neighborhood of Manhattan.",
+      "description": "Sophie Rivera lived near one of the city’s above-ground subway stations and she frequently photographed the men rebuilding the line’s infrastructure. Here she captured a worker mid-leap, echoing the famous and influential idea of a photograph capturing a “decisive moment,” an idea described by French photographer Henri Cartier-Bresson.",
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.149",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 684387,
+      "creators": [
+        {
+          "id": 684383,
+          "description": "Sophie Rivera (American, 1938–2021)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1938",
+          "death_year": "2021",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-12-09T00:00:00-05:00",
+      "sortable_date": 1960,
+      "date_added_to_oa": null,
+      "date_text": "c. 1960–2000",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:16.233000"
+    },
+    {
+      "id": 306834,
+      "accession_number": "2017.250",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Snake, Harvard Avenue Bridge, 2013. Jeffrey Whetstone (American, b. 1968). Gelatin silver print; image: 25.3 x 35.5 cm (9 15/16 x 14 in.); paper: 30.2 x 40.5 cm (11 7/8 x 15 15/16 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, 2017.250",
+      "current_location": null,
+      "title": "Snake, Harvard Avenue Bridge",
+      "creation_date": "2013",
+      "creation_date_earliest": 2013,
+      "creation_date_latest": 2013,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 25.3 x 35.5 cm (9 15/16 x 14 in.); Paper: 30.2 x 40.5 cm (11 7/8 x 15 15/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.253,
+          "width": 0.355
+        },
+        "paper": {
+          "height": 0.302,
+          "width": 0.405
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “Snake, Harvard Avenue Bridge Jeff Whetstone (signed) 2013”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Jeff Whetstone was commissioned to photograph the Cuyahoga River for the 2012 George Gund Foundation Annual Report. The luminous, formally poetic, and instructive photographs he created reflect the river’s dual role as recreational and industrial resource. In some photos, nature is dominant and uplifting; in others, the river seems entirely at the mercy of human whim and desire.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79873263"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2017.250",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The George Gund Foundation Collection in honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 306834,
+      "creators": [
+        {
+          "id": 306823,
+          "description": "Jeffrey Whetstone (American, b. 1968)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1968",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 0
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2017-12-04T00:00:00-05:00",
+      "sortable_date": 2013,
+      "date_added_to_oa": null,
+      "date_text": "2013",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:03.311000"
+    },
+    {
+      "id": 664307,
+      "accession_number": "2023.121.15.2",
+      "share_license_status": "CC0",
+      "tombstone": "Staff of Messrs. Glover & Co., Sindh Bridge (verso), c. 1882–87. Raja Deen Dayal (Indian, 1844–1905). Albumen print; image: 18.3 x 27.3 cm (7 3/16 x 10 3/4 in.). The Cleveland Museum of Art, John L. Severance Fund, 2023.121.15.2",
+      "current_location": null,
+      "title": "Staff of Messrs. Glover & Co., Sindh Bridge (verso)",
+      "creation_date": "c. 1882–87",
+      "creation_date_earliest": 1877,
+      "creation_date_latest": 1892,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "India"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 18.3 x 27.3 cm (7 3/16 x 10 3/4 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.183,
+          "width": 0.273
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Private Collection, England",
+          "citations": [],
+          "footnotes": null,
+          "date": "1960s–2015",
+          "sortorder": 1
+        },
+        {
+          "description": "(Prahlad Bubbar, Ltd., London, England), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2015–23",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 11, 2023–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Raja Deen Dayal is regarded now, and was considered during his lifetime, to be India’s most important 19th-century photographer.",
+      "description": "These photographs are part of an album, now disassembled, of around 105 photographs taken in India between 1885 and summer 1887 that provide glimpses into the lives of the British colonial elite and royal and upper-class Indians. The museum holds another group of 37 pictures from this album (2016.266), which was probably commissioned by a British civil servant visiting or working in India around 1888 as a personal souvenir of his experiences there.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q123115940"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2023.121.15.2-staff-of-messrs-glov"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2023.121.15.2",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2023.121.15.2/2023.121.15.2_web.jpg",
+          "width": "900",
+          "height": "629",
+          "filesize": "337797",
+          "filename": "2023.121.15.2_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2023.121.15.2/2023.121.15.2_print.jpg",
+          "width": "3400",
+          "height": "2376",
+          "filesize": "3036047",
+          "filename": "2023.121.15.2_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2023.121.15.2/2023.121.15.2_full.tif",
+          "width": "7798",
+          "height": "5450",
+          "filesize": "127530380",
+          "filename": "2023.121.15.2_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2023-09-01T12:07:57",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2023.121.15.2/2023.121.15.2_alt0_web.jpg",
+            "width": "900",
+            "height": "744",
+            "filesize": "335303"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2023.121.15.2/2023.121.15.2_alt0_print.jpg",
+            "width": "3400",
+            "height": "2809",
+            "filesize": "3581726"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2023.121.15.2/2023.121.15.2_alt0_full.tif",
+            "width": "9377",
+            "height": "7747",
+            "filesize": "217963672"
+          }
+        }
+      ],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 664307,
+      "creators": [
+        {
+          "id": 290400,
+          "description": "Raja Deen Dayal (Indian, 1844–1905)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1844",
+          "death_year": "1905",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2023-09-11T04:00:00Z",
+      "sortable_date": 1877,
+      "date_added_to_oa": null,
+      "date_text": "c. 1882–87",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2023.121",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:06.735000"
+    },
+    {
+      "id": 169886,
+      "accession_number": "2012.13",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Les Femmes Du Maroc: La Grande Odalisque, 2008. Lalla Essaydi (Moroccan, b. 1956). Chromogenic print mounted to aluminum with a UV protective laminate; overall: 76.2 x 101.6 cm (30 x 40 in.). The Cleveland Museum of Art, The Severance and Greta Millikin Purchase Fund, 2012.13. © Lalla Essaydi",
+      "current_location": null,
+      "title": "Les Femmes Du Maroc: La Grande Odalisque",
+      "creation_date": "2008",
+      "creation_date_earliest": 2008,
+      "creation_date_latest": 2008,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "Morocco"
+      ],
+      "technique": "chromogenic print mounted to aluminum with a UV protective laminate",
+      "support_materials": [],
+      "department": "Islamic Art",
+      "collection": "Islamic Art",
+      "type": "Photograph",
+      "measurements": "Overall: 76.2 x 101.6 cm (30 x 40 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.762,
+          "width": 1.016
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Lalla Essaydi",
+      "inscriptions": [
+        {
+          "inscription": "Label on the mount, verso.  The labels are at the center bottom and read as follows:\r\n\r\nEDWYNN HOUK GALLERY\r\n\r\nLalla Essaydi (Moroccan, b. 1956):\r\n\r\nLES FEMMES DU MAROC:  LA GRANDE ODALISQUE, 2008\r\n\r\nChromogenic print mounted to aluminum and protected with Mactac luster laminate, 30 x 40 inches.  Printed under the direct supervision of the photographer.  Print number 4 from an edition of 15.  Signed on artist's label on mount, verso.  Illustrated:  Lalla Essaydi:  Les Femmes du Maroc (New York (Power House Books and Edwynn Houk Gallery, 2009) p. 27; Chika Okeke-Agulu and Okwui Enwezor:  Contemporary African Art Since 1980 (New York:  Damiani, 2009). [LE.LFMgrande.3040.4]\r\n\r\nAt the bottom in small type:\r\n\r\n745 Fifth Avenue  New York  NY  10151    Tel  212 750 7070   Fax 212 688 4848\r\n",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 381119,
+            "title": "Islamic art rotation",
+            "description": "<i>Islamic art rotation</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 16, 2015-December 19, 2016).",
+            "opening_date": "2015-12-16T05:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Lalla Essaydi, New York, NY",
+          "citations": [],
+          "footnotes": null,
+          "date": "2008–?",
+          "sortorder": 1
+        },
+        {
+          "description": "(Edwynn Houk Gallery, New York, NY, sold to the Cleveland Museum of Art)",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2012",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "2012–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Lalla Essaydi's photographs provide a bridge from historic Islamic art into the contemporary Islamic world.",
+      "description": "Adapted from the renowned French neoclassical painting<em> La Grande Odalisque</em> by Jean-Auguste-Dominique Ingres (1780–1867), this photograph belongs to a series that reflects the complex female identities in the Muslim world. Inspired by her journal, Essaydi swathed the woman’s body with Arabic text using henna—associated with special celebratory events such as puberty, marriage, and bearing a first child when the feet and hands are decorated during female festivities. Similarly in Iran, paintings of stories in illustrated manuscripts were frequently adapted from established compositions from the 1300s through the 1600s.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80077748"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Enwezor, Okwui, and Chika Okeke-Agulu. <em>Contemporary African Art Since 1980</em>. Bologna: Damiani, 2009.",
+          "page_number": "",
+          "url": ""
+        },
+        {
+          "citation": "Essaydi, Lalla, and Fatima Mernissi. <em>Les Femmes Du Maroc</em>. Brooklyn, NY: PowerHouse Books, 2009.",
+          "page_number": "p. 27",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/2012.13",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The Severance and Greta Millikin Purchase Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 169886,
+      "creators": [
+        {
+          "id": 61982,
+          "description": "Lalla Essaydi (Moroccan, b. 1956)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Lalla Essaydi grew up in Morocco and has lived in Saudi Arabia and New York City. She received her MFA from the School of the Museum of Fine Arts/Tufts University in 2003. Her photographs have been widely collected and exhibited. Her works are intended to reflect the complex female identities in the Muslim world, and they provide a bridge from historic Islamic art into contemporary society.",
+          "name_in_original_language": null,
+          "birth_year": "1956",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2012-03-05T00:00:00",
+      "sortable_date": 2008,
+      "date_added_to_oa": null,
+      "date_text": "2008",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:50.503000"
+    },
+    {
+      "id": 668051,
+      "accession_number": "2024.5.4",
+      "share_license_status": "CC0",
+      "tombstone": "Photographs of Northern India: Simla. The Mall near Combermere Bridge, 1863–70. Samuel Bourne (British, 1834–1912). Albumen print. The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund, 2024.5.4",
+      "current_location": null,
+      "title": "Simla. The Mall near Combermere Bridge",
+      "series": "Photographs of Northern India",
+      "creation_date": "1863–70",
+      "creation_date_earliest": 1863,
+      "creation_date_latest": 1870,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Samuel Bourne, the author of most the images in this album, was a banker in England before he moved to India to become a professional photographer.",
+      "description": "The 50 images in this album, all taken in the 1860s, move from the hill towns of the Himalayas down to cities including Lahore (now in Pakistan), Delhi, Lucknow, Agra, Benares (now Varansi), and Calcutta (now Kolkata). Architectural studies of major monuments offer valuable historical records of what sites such as the Taj Mahal and the imperial mosque of the Mughal emperors in Delhi looked like before 20th-century restorations.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448850"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2024.5.4-simla-the-mall-near"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.5.4",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.5.4/2024.5.4_web.jpg",
+          "width": "900",
+          "height": "737",
+          "filesize": "436955",
+          "filename": "2024.5.4_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.5.4/2024.5.4_print.jpg",
+          "width": "3400",
+          "height": "2783",
+          "filesize": "4277302",
+          "filename": "2024.5.4_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.5.4/2024.5.4_full.tif",
+          "width": "6618",
+          "height": "5417",
+          "filesize": "107586710",
+          "filename": "2024.5.4_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-03-14T13:41:33",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5.4/2024.5.4_alt0_web.jpg",
+            "width": "900",
+            "height": "703",
+            "filesize": "255796"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5.4/2024.5.4_alt0_print.jpg",
+            "width": "3400",
+            "height": "2654",
+            "filesize": "2642926"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.5.4/2024.5.4_alt0_full.tif",
+            "width": "11648",
+            "height": "9092",
+            "filesize": "317744324"
+          }
+        }
+      ],
+      "creditline": "Severance and Greta Millikin Purchase Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 668051,
+      "creators": [
+        {
+          "id": 265,
+          "description": "Samuel Bourne (British, 1834–1912)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Samuel Bourne British, 1834 - 1912 Born in Nottingham, Samuel Bourne first began taking photographs as an amateur in 1851. Four years later, he gave up his career in banking to become a professional photographer. In 1862 he embarked for India, where for the next several years he made three photographic expeditions into the Himalayas. He also formed a partnership in Simla with Charles Shepherd -- a publishing enterprise to reproduce photographic views. Until his return to England in 1870, Bourne continued to work in India and the Far East and to expand the province of Bourne &amp; Shepherd, opening a second branch in Calcutta. By the time of his departure he had produced some 1,500 negatives of such places as Benares, Darjeeling, and Tibet, largely of landscape and architecture for the public market. Bourne was known for the care with which he conceived and executed his work. His images, though plentiful, were highly prized and remain so today. Many are still available from the firm Bourne &amp; Shepherd, which has survived for more than 125 years. After returning to England, he established a business in cotton doubling, manufacturing thread for lacemaking and weaving machines, raised a family, and took up again the life of an amateur photographer and watercolorist. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1834",
+          "death_year": "1912",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1863,
+      "date_added_to_oa": null,
+      "date_text": "1863–70",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.5",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:07.069000"
+    },
+    {
+      "id": 317694,
+      "accession_number": "2018.780",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Central Park: Man, Gapstow Bridge, 1992. Bruce Davidson (American, b. 1933). Iris print; image: 37.3 x 89 cm (14 11/16 x 35 1/16 in.); paper: 52.8 x 104.9 cm (20 13/16 x 41 5/16 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.780. © Bruce Davidson/Magnum Photos",
+      "current_location": null,
+      "title": "Man, Gapstow Bridge",
+      "series": "Central Park",
+      "creation_date": "1992",
+      "creation_date_earliest": 1992,
+      "creation_date_latest": 1992,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "iris print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 37.3 x 89 cm (14 11/16 x 35 1/16 in.); Paper: 52.8 x 104.9 cm (20 13/16 x 41 5/16 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.528,
+          "width": 1.049
+        },
+        "image": {
+          "height": 0.373,
+          "width": 0.89
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Bruce Davidson/Magnum Photos",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on recto: \"Bruce Davidson 01 19/100\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"47736 (9)\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Bruce Davidson was the Central Park Conservancy’s first artist in residence.",
+      "description": "From 1992 to 1994, Davidson made daily visits to New York’s Central Park, attempting to portray it in all seasons and times of day. His photographs capture not just flora, fauna, and humans, but also the park’s democratizing character: there people of all races, social classes, sexual orientations, and ages mixed freely and openly. The images also explore the relationship between the urban world and nature.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876568"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.780",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317694,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1992,
+      "date_added_to_oa": null,
+      "date_text": "1992",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:45.587000"
+    },
+    {
+      "id": 306827,
+      "accession_number": "2017.243",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Trout Fisher under Aurora Road Bridge, 2013. Jeffrey Whetstone (American, b. 1968). Gelatin silver print; image: 25.3 x 35.5 cm (9 15/16 x 14 in.); paper: 30.3 x 40.5 cm (11 15/16 x 15 15/16 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, 2017.243",
+      "current_location": null,
+      "title": "Trout Fisher under Aurora Road Bridge",
+      "creation_date": "2013",
+      "creation_date_earliest": 2013,
+      "creation_date_latest": 2013,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 25.3 x 35.5 cm (9 15/16 x 14 in.); Paper: 30.3 x 40.5 cm (11 15/16 x 15 15/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.253,
+          "width": 0.355
+        },
+        "paper": {
+          "height": 0.303,
+          "width": 0.405
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “Trout Fisher under Aurora Road Bridge Jeff Whetstone (signed) 2013”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Jeff Whetstone was commissioned to photograph the Cuyahoga River for the 2012 George Gund Foundation Annual Report. The luminous, formally poetic, and instructive photographs he created reflect the river’s dual role as recreational and industrial resource. In some photos, nature is dominant and uplifting; in others, the river seems entirely at the mercy of human whim and desire.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79873245"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2017.243",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The George Gund Foundation Collection in honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 306827,
+      "creators": [
+        {
+          "id": 306823,
+          "description": "Jeffrey Whetstone (American, b. 1968)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1968",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 0
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2017-12-04T00:00:00-05:00",
+      "sortable_date": 2013,
+      "date_added_to_oa": null,
+      "date_text": "2013",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:35.165000"
+    }
+  ]
+}

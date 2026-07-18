@@ -1,0 +1,96 @@
+{
+  "data": {
+    "id": 110244,
+    "accession_number": "1928.87",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Street in Blois, France\r\n, 1927. John Taylor Arms (American, 1887–1953). Etching. The Cleveland Museum of Art, Gift of The Print Club of Cleveland, 1928.87. Courtesy of John Taylor Arms/© Suzanne Arms Hawkins",
+    "current_location": null,
+    "title": "Street in Blois, France\r\n",
+    "creation_date": "1927",
+    "creation_date_earliest": 1927,
+    "creation_date_latest": 1927,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "etching",
+    "support_materials": [],
+    "department": "Prints",
+    "collection": "PR - Etching",
+    "type": "Print",
+    "dimensions": {},
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": "Courtesy of John Taylor Arms/© Suzanne Arms Hawkins",
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 200686,
+          "title": "Modern Gothic: The Etchings of John Taylor Arms",
+          "description": "<i>Modern Gothic: The Etchings of John Taylor Arms</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 9-September 30, 2012).",
+          "opening_date": "2012-06-09T00:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "Arms was invited to Cleveland to lecture about the process of making an etching. He evangelically promoted printmaking in the many demonstration talks he gave beginning in 1920 and by participating in many other activities. He came to Cleveland in December 1927, and produced Street in Blois (Sketch) in front of an audience of 90 print club members. A good friend and fellow etcher, Samuel Chamberlain, described one of Arms’s demonstrations, “This is an amazing performance in which he follows all the steps of making a plate—grounding the copper surface, needling the picture (casually drawing with both hands), biting in acid and pulling a finished proof––and in one tense sitting, while carrying on a stentorian monologue and apparently not stopping for breath.”",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q80002562"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "catalogue_raisonne": "Fletcher, 204",
+    "url": "https://clevelandart.org/art/1928.87",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of The Print Club of Cleveland",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 110244,
+    "creators": [
+      {
+        "id": 29993,
+        "description": "John Taylor Arms (American, 1887–1953)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1887",
+        "death_year": "1953",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1928-05-31T00:00:00",
+    "sortable_date": 1927,
+    "date_added_to_oa": null,
+    "date_text": "1927",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:09:07.884000"
+  }
+}

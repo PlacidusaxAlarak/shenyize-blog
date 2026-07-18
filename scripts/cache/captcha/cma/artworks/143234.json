@@ -1,0 +1,407 @@
+{
+  "data": {
+    "id": 143234,
+    "accession_number": "1967.19",
+    "share_license_status": "CC0",
+    "tombstone": "Landscape with a Windmill\r\n, 1646. Jacob van Ruisdael (Dutch, 1628/29–1682). Oil on wood; framed: 69 x 88.5 x 4 cm (27 3/16 x 34 13/16 x 1 9/16 in.); unframed: 49.5 x 68.5 cm (19 1/2 x 26 15/16 in.). The Cleveland Museum of Art, Mr. and Mrs. William H. Marlatt Fund, 1967.19",
+    "current_location": "213 Dutch Painting",
+    "title": "Landscape with a Windmill\r\n",
+    "creation_date": "1646",
+    "creation_date_earliest": 1646,
+    "creation_date_latest": 1646,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "Netherlands"
+    ],
+    "technique": "oil on wood",
+    "support_materials": [],
+    "department": "European Painting and Sculpture",
+    "collection": "P - Netherlandish-Dutch",
+    "type": "Painting",
+    "measurements": "Framed: 69 x 88.5 x 4 cm (27 3/16 x 34 13/16 x 1 9/16 in.); Unframed: 49.5 x 68.5 cm (19 1/2 x 26 15/16 in.)",
+    "dimensions": {
+      "framed": {
+        "height": 0.69,
+        "width": 0.885,
+        "depth": 0.04
+      },
+      "unframed": {
+        "height": 0.495,
+        "width": 0.685
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Signed lower right: \"JvR 1646 [JvR in monogram]\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 301129,
+          "title": "Year in Review: 1967",
+          "description": "<i>Year in Review: 1967</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 29-December 31, 1967).",
+          "opening_date": "1967-11-29T05:00:00"
+        },
+        {
+          "id": 222452,
+          "title": "Master of Landscape: Jacob van Ruisdael's Paintings, Drawings and Etchings",
+          "description": "<i>Master of Landscape: Jacob van Ruisdael's Paintings, Drawings and Etchings</i>. Los Angeles County Museum of Art, Los Angeles, CA (June 26-September 18, 2005); Royal Academy of Arts, London, United Kingdom of Great Britain and Northern Ireland (organizer) (February 25-June 4, 2006).",
+          "opening_date": "2005-06-26T00:00:00"
+        },
+        {
+          "id": 220230,
+          "title": "The Discovery of Landscape:  Netherlandish Landscape Painting of the 16th and 17th Centuries",
+          "description": "<i>The Discovery of Landscape:  Netherlandish Landscape Painting of the 16th and 17th Centuries</i>. Staatsgalerie Stuttgart, D-70184 Stuttgart, Germany (organizer) (October 15, 2005-February 5, 2006).",
+          "opening_date": "2005-10-15T00:00:00"
+        }
+      ],
+      "legacy": [
+        {
+          "description": "Manchester, City Art Gallery, 1964-66 (on extended loan).",
+          "opening_date": "1964-01-01T00:00:00"
+        }
+      ]
+    },
+    "provenance": [
+      {
+        "description": "Sir Francis Cook;",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": null
+      },
+      {
+        "description": "Sir Frederick Cook;",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": null
+      },
+      {
+        "description": "Sir Herbert Cook, Doughty House, Richmond;",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": null
+      },
+      {
+        "description": "Sir Francis Cook, Le Coin, Jersey, Channel Islands;",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": null
+      },
+      {
+        "description": "Trustees of the Cook Collection (sale: Christie's, London, November 15, 1966, no. 55, listed as Follower of Ruisdael);",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": null
+      },
+      {
+        "description": "[F. Kleinberger & Co., New York], sold to the Cleveland Museum of Art, 1967.",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": null
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "Look closely at the field across from the windmill: white linens are naturally bleached in the sun, a process that would have taken several months.",
+    "description": "Even this early work by Jacob van Ruisdael—painted while he was still a teenager—shows his unique approach to landscape that made the simplest motifs seem grand and heroic. Dark forms are massed in the foreground, creating a stark contrast to the expansive, sunlit plain at left.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q20801653"
+      ],
+      "internet_archive": [
+        "https://archive.org/details/clevelandart-1967.19-landscape-with-a-win"
+      ]
+    },
+    "citations": [
+      {
+        "citation": "Hofstede de Groot, C. P. <em>A Catalogue Raisonné of the Works of the Most Eminent Dutch Painters of the Seventeenth Century</em>. London, United Kingdom: Macmillan and Co, 1908.",
+        "page_number": "Reproduced: p. 62, no. 180;, vol. 4",
+        "url": null
+      },
+      {
+        "citation": "Cook, Francis, Tancred Borenius, J. O. Kronig, Maurice W. Brockwell, and Herbert Frederick Cook. <em>A Catalogue of the Paintings at Doughty House, Richmond, &amp; Elsewhere in the Collection of Sir Frederick Cook, Bt., Visconde De Monserrate</em>. London, United Kingdom: W. Heinemann, 1913.",
+        "page_number": "Reproduced: p. 94, no. 350",
+        "url": null
+      },
+      {
+        "citation": "Rosenberg, Jakob. <em>Jacob van Ruisdael</em>. Berlin, Germany: B. Cassirer, 1928.",
+        "page_number": "Reproduced: p. 79, no. 119",
+        "url": null
+      },
+      {
+        "citation": "Simon, Kurt Erich. <em>Jacob van Ruisdael; eine Darstellung seiner Entwicklung</em>. Berlin, Germany: Würfel Verlag, 1930.",
+        "page_number": "Reproduced: p. 21-22, no. 28",
+        "url": null
+      },
+      {
+        "citation": "Cook, Francis, Maurice W. Brockwell, and Herbert Frederick Cook. <em>Abridged Catalogue of the Pictures at Doughty House, Richmond, Surrey, in the Collection of Sir Herbert Cook, Bart</em>. London, United Kingdom: W. Heinemann, 1932.",
+        "page_number": "Reproduced: p. 40, no. 350",
+        "url": null
+      },
+      {
+        "citation": "\"Year in Review.\" <em>The Bulletin of the Cleveland Museum of Art</em> 54, no. 10 (1967): 302-46.",
+        "page_number": "Referenced: no. 66, p. 343, Reproduced: p. 315",
+        "url": "http://www.jstor.org/stable/25152183."
+      },
+      {
+        "citation": "Stsechow, Wolfgang. \"Ruisdael in the Cleveland Museum.\" The Bulletin of The Cleveland Museum of Art LV, no. 10 (October, 1968): 250-261.",
+        "page_number": "Reproduced: p. 256-257; Mentioned: p. 250, 252",
+        "url": null
+      },
+      {
+        "citation": "Ballegeer, J. P. \"Aus der Arbeit der Museen, Amerika.\" <em>Pantheon</em> II (1968): 138.",
+        "page_number": "Mentioned: p. 138",
+        "url": null
+      },
+      {
+        "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+        "page_number": "Reproduced: p. 125",
+        "url": "https://archive.org/details/CMAHandbook1969/page/n149"
+      },
+      {
+        "citation": "Johnson, Mark M. \"An Introduction to Lanscape Painting.\" <em>Arts and Activities</em> 82 (November 1977): 34-39.",
+        "page_number": "Reproduced: p. 36",
+        "url": null
+      },
+      {
+        "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+        "page_number": "Reproduced: p. 160",
+        "url": "https://archive.org/details/CMAHandbook1978/page/n180"
+      },
+      {
+        "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Catalogue of Paintings, Part 3: European Paintings of the 16th, 17th, and 18th Centuries</em>. Cleveland, OH: The Cleveland Museum of Art, 1982.",
+        "page_number": "Mentioned: p. 266; Reproduced: p. 267",
+        "url": null
+      },
+      {
+        "citation": "Sutton, Peter C. <em>A Guide to Dutch Art in America</em>. Washington, D.C.: Netherlands-American Amity Trust, 1986.",
+        "page_number": "Reproduced: p. 69, fig. 95",
+        "url": null
+      },
+      {
+        "citation": "Walford, E. John. <em>Jacob Van Ruisdael and the Perception of Landscape</em>. New Haven, CT: Yale University Press, 1991.",
+        "page_number": "Reproduced: p. 55, fig. 34; p. 56, fig. 34 (detail)",
+        "url": null
+      },
+      {
+        "citation": "\"1992 Annual Report.\" <em>The Bulletin of the Cleveland Museum of Art</em> 80, no. 6 (1993): 215-95.",
+        "page_number": "Mentioned: p. 238",
+        "url": "https://www.jstor.org/stable/25161418"
+      },
+      {
+        "citation": "Kretzschmar, Sabine, \"Carefully Observed Terrain\", Cleveland Museum of Art. <em>Cleveland Art: The Cleveland Museum of Art Members Magazine</em>. Vol. 36 no. 08, October 1996",
+        "page_number": "Mentioned & reproduced: p. 6-7",
+        "url": "https://archive.org/details/CMAMM1996-08/page/6"
+      },
+      {
+        "citation": "Slive, Seymour. <em>Jacob Van Ruisdael: A Complete Catalogue of His Paintings, Drawings, and Etchings</em>. New Haven, CT: Yale University Press, 2001.",
+        "page_number": "Reproduced: p. 145, fig. 127",
+        "url": null
+      },
+      {
+        "citation": "Sitt, Martina. P. Biesboer, and Karsten Müller. <em>Jacob van Ruisdael: die Revolution der Landschaft</em>. Zwolle, Netherlands: Waanders, 2002.",
+        "page_number": "Reproduced: p. 73, no. 12",
+        "url": null
+      },
+      {
+        "citation": "Keyes, George S. <em>Masters of Dutch Painting: Detroit Institute of Arts</em>. Detroit, MI: Detroit Institute of Arts, in association with D Giles Ltd., London, 2004.",
+        "page_number": "Reproduced: p. 210, fig. 1",
+        "url": null
+      },
+      {
+        "citation": "Slive, Seymour. <em>Jacob Van Ruisdael: Master of Landscape</em>. London, United Kingdom: Royal Academy of Arts, 2005.",
+        "page_number": "Reproduced: p. 40, no. 2",
+        "url": null
+      },
+      {
+        "citation": "Wiemann, Elsbeth, Jenny Gaschke, and Mona Stocker. <em>Die Entdeckung der Landschaft: Meisterwerke der Niederländischen Kunst des 16. und 17. Jahrhunderts</em>. Köln, Germany: DuMont, 2005.",
+        "page_number": "Reproduced: p. 150, no. 54",
+        "url": null
+      },
+      {
+        "citation": "Bleker, E. J., Rembrandt Harmenszoon van Rijn, and A. A. H. Bleker-Poot. <em>Rembrandt en de Blekerfamilie</em>. Lochem, Netherlands: Silverborgh B.V., 2005.",
+        "page_number": "Reproduced: p. 692, EB 606",
+        "url": null
+      },
+      {
+        "citation": "Donley, Gregory M., \"World Travelers\", Cleveland Museum of Art. <em>Cleveland Art: The Cleveland Museum of Art Members Magazine</em>. Vol. 46 no. 01, January 2006",
+        "page_number": "Mentioned & reproduced: p. 9",
+        "url": "https://archive.org/details/CMAMM2006-01/page/8"
+      },
+      {
+        "citation": "Harris, Ann Sutherland. <em>Seventeenth-Century Art &amp; Architecture</em>. London, United Kingdom: Laurence King Publishing Ltd., 2008.",
+        "page_number": "Reproduced: p. 381, fig. 5.68",
+        "url": null
+      },
+      {
+        "citation": "Slive, Seymour. <em>Jacob Van Ruisdael: Windmills and Water Mills</em>. Los Angeles, CA: J. Paul Getty Museum, 2011.",
+        "page_number": "Reproduced: p. 10, fig. 6",
+        "url": null
+      },
+      {
+        "citation": "Arikawa, Haruo. \"Dutch Landscapes Revisited.\" <em>Zurich studies in the history of art</em> 19 (2012): 269-323.",
+        "page_number": "Reproduced: p. 277, fig. 8",
+        "url": null
+      },
+      {
+        "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+        "page_number": "Mentioned and reproduced: P. 187",
+        "url": ""
+      },
+      {
+        "citation": "White, Christopher. <em>Dutch Pictures in the Collection of Her Majesty the Queen.</em> London: Royal Collection Trust, 2015.",
+        "page_number": "Mentioned and Reproduced: p. 335, fig. 44",
+        "url": null
+      }
+    ],
+    "url": "https://clevelandart.org/art/1967.19",
+    "images": {
+      "annotation": null,
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.19/1967.19_web.jpg",
+        "width": "1239",
+        "height": "893",
+        "filesize": "799015",
+        "filename": "1967.19_web.jpg"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.19/1967.19_print.jpg",
+        "width": "3400",
+        "height": "2451",
+        "filesize": "6401827",
+        "filename": "1967.19_print.jpg"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1967.19/1967.19_full.tif",
+        "width": "6096",
+        "height": "4395",
+        "filesize": "80410892",
+        "filename": "1967.19_full.tif"
+      }
+    },
+    "alternate_images": [
+      {
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1967.19/1967.19_alt0_web.jpg",
+          "width": "1237",
+          "height": "893",
+          "filesize": "768662"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1967.19/1967.19_alt0_print.jpg",
+          "width": "3400",
+          "height": "2454",
+          "filesize": "5533775"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1967.19/1967.19_alt0_full.tif",
+          "width": "4886",
+          "height": "3527",
+          "filesize": "51714248"
+        }
+      },
+      {
+        "date_created": "2009-05-11T18:38:18",
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1967.19/1967.19_alt1_web.jpg",
+          "width": "1147",
+          "height": "893",
+          "filesize": "673766"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1967.19/1967.19_alt1_print.jpg",
+          "width": "3400",
+          "height": "2646",
+          "filesize": "6298200"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1967.19/1967.19_alt1_full.tif",
+          "width": "5326",
+          "height": "4145",
+          "filesize": "66261472"
+        }
+      },
+      {
+        "date_created": "2009-05-11T18:33:59",
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1967.19/1967.19_alt2_web.jpg",
+          "width": "1137",
+          "height": "893",
+          "filesize": "733594"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1967.19/1967.19_alt2_print.jpg",
+          "width": "3400",
+          "height": "2670",
+          "filesize": "6946857"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1967.19/1967.19_alt2_full.tif",
+          "width": "5266",
+          "height": "4135",
+          "filesize": "65357960"
+        }
+      }
+    ],
+    "creditline": "Mr. and Mrs. William H. Marlatt Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": "The Harold C. Schott Foundation Gallery",
+    "athena_id": 143234,
+    "creators": [
+      {
+        "id": 2676,
+        "description": "Jacob van Ruisdael (Dutch, 1628/29–1682)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1628",
+        "death_year": "1682",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1967-01-30T00:00:00",
+    "sortable_date": 1646,
+    "date_added_to_oa": null,
+    "date_text": "1646",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [
+      "A Windmill near Fields"
+    ],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:04:45.330000"
+  }
+}

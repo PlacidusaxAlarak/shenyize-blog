@@ -1,0 +1,835 @@
+{
+  "data": {
+    "id": 149112,
+    "accession_number": "1977.43",
+    "share_license_status": "CC0",
+    "tombstone": "Church Street El, 1920. Charles Sheeler (American, 1883–1965). Oil on canvas; framed: 60 x 67.5 x 6 cm (23 5/8 x 26 9/16 x 2 3/8 in.); unframed: 41 x 48.5 cm (16 1/8 x 19 1/8 in.). The Cleveland Museum of Art, Mr. and Mrs. William H. Marlatt Fund, 1977.43",
+    "current_location": "226A American Modern",
+    "title": "Church Street El",
+    "creation_date": "1920",
+    "creation_date_earliest": 1920,
+    "creation_date_latest": 1920,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "oil on canvas",
+    "support_materials": [],
+    "department": "American Painting and Sculpture",
+    "collection": "American - Painting",
+    "type": "Painting",
+    "measurements": "Framed: 60 x 67.5 x 6 cm (23 5/8 x 26 9/16 x 2 3/8 in.); Unframed: 41 x 48.5 cm (16 1/8 x 19 1/8 in.)",
+    "dimensions": {
+      "framed": {
+        "height": 0.6,
+        "width": 0.675,
+        "depth": 0.06
+      },
+      "unframed": {
+        "height": 0.41,
+        "width": 0.485
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Signed lower right: \"Sheeler 1920\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 302666,
+          "title": "Year in Review: 1977",
+          "description": "<i>Year in Review: 1977</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 28, 1977-January 22, 1978).",
+          "opening_date": "1977-12-28T05:00:00"
+        },
+        {
+          "id": 442371,
+          "title": "American Realism, 1920 - 1940",
+          "description": "<i>American Realism, 1920 - 1940</i>. Academy of Fine Arts, Berlin, Berlin 1000, Germany (organizer) (November 9-December 28, 1980).",
+          "opening_date": "1980-11-09T05:00:00"
+        },
+        {
+          "id": 310243,
+          "title": "The Precisionist Aesthetic in American Art",
+          "description": "<i>The Precisionist Aesthetic in American Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 24-April 9, 1989).",
+          "opening_date": "1989-01-24T05:00:00"
+        },
+        {
+          "id": 205796,
+          "title": "Mad for Modernism: Earl Horter and His Collection",
+          "description": "<i>Mad for Modernism: Earl Horter and His Collection</i>. Philadelphia Museum of Art (organizer) (March 7-May 16, 1999).",
+          "opening_date": "1999-03-07T00:00:00"
+        },
+        {
+          "id": 226121,
+          "title": "Der kühle Blick",
+          "description": "<i>Der kühle Blick</i>. Kunsthalle der Hypo-Kulturstiftung, Munich, Germany (organizer) (June 1-September 2, 2001).",
+          "opening_date": "2001-06-01T00:00:00"
+        },
+        {
+          "id": 177240,
+          "title": "Charles Sheeler: Mediums and Messages",
+          "description": "<i>Charles Sheeler: Mediums and Messages</i>. National Gallery of Art, Landover, MD (organizer) (May 7-September 4, 2006); The Art Institute of Chicago, Chicago, IL (October 15, 2006-January 7, 2007); Fine Arts Museums of San Francisco, de Young Museum, San Francisco, CA (February 10-May 6, 2007).",
+          "opening_date": "2006-05-07T00:00:00"
+        },
+        {
+          "id": 176614,
+          "title": "Youth and Beauty: Art of the American Twenties",
+          "description": "<i>Youth and Beauty: Art of the American Twenties</i>. The Brooklyn Museum, Brooklyn, NY (organizer) (October 28, 2011-January 22, 2012); The Dallas Museum of Art, Dallas, TX (February 24-May 27, 2012); The Cleveland Museum of Art, Cleveland, OH (July 1-September 16, 2012).",
+          "opening_date": "2011-10-28T00:00:00"
+        },
+        {
+          "id": 292179,
+          "title": "The Cult of the Machine: Precision in American Art",
+          "description": "<i>The Cult of the Machine: Precision in American Art</i>. Fine Arts Museums of San Francisco, de Young Museum, San Francisco, CA (March 24-August 12, 2018); The Dallas Museum of Art, Dallas, TX (September 16, 2018-January 6, 2019).",
+          "opening_date": "2018-03-24T04:00:00"
+        }
+      ],
+      "legacy": [
+        {
+          "description": "New York, Whitney Studio Galleries, Exhibition of Selected Works by Charles Sheeler (1 March-31 March 1924).",
+          "opening_date": "1924-03-01T00:00:00"
+        },
+        {
+          "description": "Cleveland, Cleveland Museum of Art, The Precisionist Aesthetic in American Art (24 January-9 April 1989)",
+          "opening_date": "1989-01-24T00:00:00"
+        },
+        {
+          "description": "Philadelphia, The Philadelphia Museum of Art, Mad for Modernism: Earl Horter and His Collection, (7 March-16 May 1999), plate 78, p. 122, also included two footnotes concerning Sheeler and his relationship to Horter (p. 61), and pp. 173, 180-181, 184.",
+          "opening_date": "1999-03-07T00:00:00"
+        },
+        {
+          "description": "New York, Whitney Museum of American Art, The American Century: Art &amp; Culture 1900-1950 (23 April-22 August 1999), cat. no. 273, illus. p. 148.",
+          "opening_date": "1999-04-23T00:00:00"
+        },
+        {
+          "description": "Munich, Kunsthalle der Hypo-Kulturstiftung, Der kühle Blick: Realismus der Zwanzigerjahre in Europa und Amerika (1 June-2 September 2001), illus. p. 311.",
+          "opening_date": "2001-06-01T00:00:00"
+        },
+        {
+          "description": "National Gallery of Art (5/7/2006-9/4/2006), Art Institute of Chicago (10/15/2006-1/7/2007), Fine Arts Museums of San Francisco, MH de Young Museum (2/10/2007-5/6/2007): \"Charles Sheeler: Mediums and Messages\"",
+          "opening_date": "2006-05-07T00:00:00"
+        },
+        {
+          "description": "Brooklyn Museum of Art (10/28/2011 - 1/22/2012), Dallas Museum of Art (2/24/2012 - 5/27/2012), and Cleveland Museum of Art (7/1/2012 - 9/16/2012): \"Youth and Beauty: Art of the American Twenties\", Fig. 105, p. 143.",
+          "opening_date": "2011-10-28T00:00:00"
+        },
+        {
+          "description": "<em>The Collection of Earl Horter.</em> Pennsylvania Museum of Art, Philadelphia, PA (February 17-1-March 13, 1934).",
+          "opening_date": "1934-03-13T00:00:00"
+        },
+        {
+          "description": "<em>Modern Paintings from the Collection of Mr. Earl Horter of Philadelphia</em>. The Arts Club of Chicago, Chicago, IL (April 3 - April 26, 1934); no. 57",
+          "opening_date": "1934-04-03T00:00:00"
+        },
+        {
+          "description": "<em>Charles Sheeler: Paintings, Drawings, Photographs</em>. Museum of Modern Art. New York, NY (1939), no. 11, listed p. 46.",
+          "opening_date": "1939-01-01T00:00:00"
+        },
+        {
+          "description": "<em>Charles Sheeler.</em> National Collection of Fine Arts, Smithsonian Institution, Washington, DC (October 10-November 24 ,1968); Philadelphia Museum of Art, Philadelphia, PA (January 10-February 16, 1969); Whitney Museum of American Art, New York, NY (March 11-April 27,1969); no. 24, illus. p. 39,",
+          "opening_date": "1969-01-10T00:00:00"
+        },
+        {
+          "description": "mentioned briefly in essays by both Martin Friedman (\"The Art of Charles Sheeler: Americana in a Vacuum\") p. 40, and Bartlett Hayes (\"Reminiscence\") p. 70.",
+          "opening_date": null
+        },
+        {
+          "description": "Berlin, Academy of Fine Arts, America: Traum und Depression 1920-1940, (1980), pp. 109-137, illus. p. 89, pl. 8, cat. no. 292.",
+          "opening_date": "1980-01-01T00:00:00"
+        },
+        {
+          "description": "San Francisco, San Francisco Museum of Modern Art, Images of America: Precisionist Painting and Modern Photography, (9 September-7 November 1982); traveled to Saint Louis, The Saint Louis Art Museum (6 December 1982-30 January 1983); Baltimore, The Baltimore Museum of Art (28 February-25 April 1983); Des Moines, Des Moines Art Center (23 May-17 July 1983); Cleveland, The Cleveland Museum of Art (15 August-9 October 1983), no. 92, plate 18 (also reproduced on cover),",
+          "opening_date": "1982-09-09T00:00:00"
+        },
+        {
+          "description": "included essay by Karen Tsujimoto entitled \"Charles Sheeler: Precisionist Painter and Modern Photographer,\" (pp. 73-85, 172-173) which discusses the CMA painting.",
+          "opening_date": null
+        },
+        {
+          "description": "Boston, Museum of Fine Arts, Charles Sheeler: Paintings and Drawings, (13 October 1987- 3 January 1988); traveled to New York, Whitney Museum of American Art (28 January-17 April 1988); Dallas, Dallas Museum of Art (15 May-10 July 1988), no. 16, p. 80,",
+          "opening_date": "1988-01-28T00:00:00"
+        },
+        {
+          "description": "also included parts from essay by Carol Troyen and Erica E. Hirshler, \"From the Eyes Inward: Paintings and Drawings by Charles Sheeler,\" (pp. 9-11, 36-37), which point out the fact that the CMA painting was derived from Manhatta.",
+          "opening_date": null
+        }
+      ]
+    },
+    "provenance": [
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, Ohio",
+        "citations": [],
+        "footnotes": [],
+        "date": "1977-",
+        "sortorder": 1
+      },
+      {
+        "description": "(Robert Schoelkopf Gallery, New York, NY, sold to the Cleveland Museum of Art)",
+        "citations": [],
+        "footnotes": [],
+        "date": "-1977",
+        "sortorder": 2
+      },
+      {
+        "description": "(Harold Diamond, New York, NY) 1",
+        "citations": [],
+        "footnotes": [
+          "<div><!--block-->1 According to Andy Schoelkopf, Harold Diamond acquired the painting from Mrs. Horter, but because Diamond had little experience in selling Sheeler's works, he consigned the painting to Robert Schoelkopf to sell.&nbsp; Diamond most likely never&nbsp; owned the painting. Schoelkopf sold the painting rather quickly after a visit from Sherman Lee, who happened to see the painting soon after it was received from Diamond.&nbsp;</div>"
+        ],
+        "date": "?",
+        "sortorder": 3
+      },
+      {
+        "description": "Elizabeth Lentz Horter [1900-1985], South Langhorne, PA",
+        "citations": [],
+        "footnotes": [],
+        "date": "Probably 1940-at least 1969",
+        "sortorder": 4
+      },
+      {
+        "description": "Earl Horter [1880-1940], Philadelphia, PA 1",
+        "citations": [],
+        "footnotes": [
+          "<div><!--block-->1Horter's ownership of this painting by 1934 is confirmed by an exhibition of his collection at the Philadelphia Museum of Art in that year.</div>"
+        ],
+        "date": "By 1930-probably 1940",
+        "sortorder": 5
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "Sheeler and his good friend, the poet William Carlos Williams, patronized speakeasies together during Prohibition.",
+    "description": "Capturing the soaring heights of New York City, this painting is a dramatic bird's-eye view of Broadway and Wall Street, showing a conglomeration of buildings at left and center, and the Church Street elevated train at right. Sheeler based his composition on an image from the short movie <em>Manhatta</em> (1920-21), which he made with the photographer Paul Strand. One of the first avant-garde American films, <em>Manhatta</em> celebrates the dynamic metropolis through a series of carefully composed shots of Lower Manhattan. As typical with Sheeler's work, the artist simplified forms and eliminated textures in <em>Church Street El</em> to concentrate on rhythmic interplay of shapes and color, and patterns of light and shadow.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q60473381"
+      ],
+      "internet_archive": [
+        "https://archive.org/details/clevelandart-1977.43-church-street-el"
+      ]
+    },
+    "citations": [
+      {
+        "citation": "Robert Schoelkopf Gallery, expect notice, April 27, 1977, in CMA curatorial file.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Andy Schoelkopf, telephone conversation with Victoria Sears Goldman, April 16, 2013.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Shoemaker, Innis H., Christa Clarke, and William S. Wierzbowski. <em>Mad for Modernism: Earl Horter and His Collection</em>. 1999.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Cleveland Museum of Art, David Franklin, and C. Griffith Mann. <em>Treasures of the Cleveland Museum of Art.</em> Cleveland, OH, London: Cleveland Museum of Art ; in association with Scala Publishers, 2012.",
+        "page_number": "Mentioned p. 304; reproduced p. 305.",
+        "url": ""
+      },
+      {
+        "citation": "Miller, Angela L., Janet Catherine Berlo, Bryan Jay Wolf, Jennifer L. Roberts, Margaretta M. Lovell, David M. Lubin. <em>American Encounters : Art, History, and Cultural Identity. </em>St. Louis, Missouri: Washington University Libraries, 2008.",
+        "page_number": "Mentioned, p. 456; reproduced, p. 457.",
+        "url": ""
+      },
+      {
+        "citation": "\"Above the Turmoil of New York, a Painting by Charles Sheeler-Photograph.\" <em>Vanity Fair</em> 16, no. 2 (April 1921).",
+        "page_number": "Reproduced: p. 47",
+        "url": null
+      },
+      {
+        "citation": "\"Manhattan: The Proud and Passionate City- Photographs.\" <em>Vanity Fair</em> 18, no. 2 (April 1922).",
+        "page_number": "Reproduced: p. 51",
+        "url": null
+      },
+      {
+        "citation": "Watson, Forbes. \"Charles Sheeler.\" <em>The Arts</em> 3, no. 5 (May 1923).",
+        "page_number": "Reproduced: p. 344",
+        "url": null
+      },
+      {
+        "citation": "Rourke, Constance. <em>Charles Sheeler: Artist in the American Tradition</em>. New York: Harcourt, Brace and Company, 1938.",
+        "page_number": "Mentioned: p. 89, 91, 94, 96, 106, 147, 180, 187; Reproduced: p. 53",
+        "url": null
+      },
+      {
+        "citation": "Devree, Howard. \"Exhibition Reviews: Sheeler Complete.\" <em>Magazine of Art </em>32, no. 11 (November 1939).",
+        "page_number": "Mentioned: p. 644-645; Reproduced: p. 645",
+        "url": null
+      },
+      {
+        "citation": "Brown, Milton W. \"Cubist-Realism: An American Style.\" <em>Marsyas </em>3 (1943-1945).",
+        "page_number": "Mentioned: p. 150; Reproduced: no. 5",
+        "url": null
+      },
+      {
+        "citation": "Seeley, Carol. \"On the Nature of Abstract Painting in America.\" <em>Magazine of Art</em> 43, no. 5 (May 1950).",
+        "page_number": "Reproduced: p. 167",
+        "url": null
+      },
+      {
+        "citation": "Hayes, Jr., Bartlett H. \"An Appreciation.\" In <em>Charles Sheeler: A Retrospective Exhibition. </em>Los Angeles: The Galleries, 1954.",
+        "page_number": "Mentioned: p. 9",
+        "url": null
+      },
+      {
+        "citation": "Wight, Frederick S. \"Charles Sheeler.\" In <em>Charles Sheeler: A Retrospective Exhibition. </em>Los Angeles: The Galleries, 1954.",
+        "page_number": "Mentioned: p. 25, 27, 36",
+        "url": null
+      },
+      {
+        "citation": "Wight, Frederick S. \"Charles Sheeler.\" <em>Art in America</em> 42, no. 3 (October 1954).",
+        "page_number": "Mentioned: p. 195",
+        "url": null
+      },
+      {
+        "citation": "Brown, Milton. <em>American Painting From the Armory Show to the Depression. </em>Princeton: Princeton University Press, 1955.",
+        "page_number": "Mentioned: p. 118; Reproduced: p. 120",
+        "url": null
+      },
+      {
+        "citation": "Chanin, A.L. \"Sheeler: Purist Brush and Camera Eye.\" <em>ARTnews </em>54, no. 4 (June 1955).",
+        "page_number": "Mentioned: p. 71-72",
+        "url": null
+      },
+      {
+        "citation": "Wight, Frederick S. \"Charles Sheeler.\" In <em>New Art in America: Fifty Painters of the 20th Century,</em> edited by John I. H. Baur. New York: A. Praeger Publishers, 1957.",
+        "page_number": "Reproduced: p. 97",
+        "url": null
+      },
+      {
+        "citation": "Cohen, George Michael. \"Charles Sheeler.\" <em>American Artist </em>23, no. 1 (January 1959).",
+        "page_number": "Mentioned: p. 34 ; Reproduced: p. 35",
+        "url": null
+      },
+      {
+        "citation": "Craven, George M. \"Sheeler at Seventy-Five.\"<em> College Art Journal </em>18, no. 2 (Winter 1959).",
+        "page_number": "Reproduced: p. 137; Mentioned: p. 138",
+        "url": null
+      },
+      {
+        "citation": "Larkin, Oliver W. <em>Art and Life in America.</em> New York: Holt, Rinehart and Winston, 1960.",
+        "page_number": "Mentioned: p. 389; Reproduced: p. 387",
+        "url": null
+      },
+      {
+        "citation": "Raoul, Rosine. \"Letter From New York: The Armory Show and its Decade.\" <em>Apollo</em> (April 1963).",
+        "page_number": "Mentioned: p. 335; Reproduced: p. 334, no. 3",
+        "url": null
+      },
+      {
+        "citation": "Baur, John I. H. <em>Revolution and Tradition in Modern American Art. </em>Cambridge: Harvard University Press, 1966.",
+        "page_number": "Reproduced: no. 73",
+        "url": null
+      },
+      {
+        "citation": "The National Collection of Fine Arts. <em>Charles Sheeler</em>. Washington, D.C.: The Smithsonian Institution Press, 1968.",
+        "page_number": "Mentioned: p. 15, 155; Reproduced: p. 39, no. 24",
+        "url": null
+      },
+      {
+        "citation": "Friedman, Martin. \"The Art of Charles Sheeler: Americana in a Vacuum.\" In <em>Charles Sheeler. </em>Washington, D.C.: The Smithsonian Institution Press, 1968.",
+        "page_number": "Mentioned: p. 40",
+        "url": null
+      },
+      {
+        "citation": "Hayes, Bartlett. \"Reminiscence.\" In <em>Charles Sheeler.</em> Washington, D.C.: The Smithsonian Institution Press, 1968.",
+        "page_number": "Mentioned: p. 70",
+        "url": null
+      },
+      {
+        "citation": "Davidson, Abraham A. \"Charles Sheeler: Paintings and Photographs at the Whitney.\" <em>Arts Magazine </em>43, no. 5 (March 1969).",
+        "page_number": "Mentioned: p. 40",
+        "url": null
+      },
+      {
+        "citation": "Jaffe, Irma B. \"The Forming of the Avant-Garde, 1900-30. \" In <em>The Genius of American Painting</em>, edited by John Wilmerding. New York: William Morrow and Company, Inc., 1973.",
+        "page_number": "Mentioned: p. 238,  Reproduced: p. 239",
+        "url": null
+      },
+      {
+        "citation": "Davidson, Abraham A. <em>The Story of American Painting</em>. New York: Harry N. Abrams, 1974.",
+        "page_number": "Reproduced: p. 132, no. 119; Mentioned: p. 132, 133",
+        "url": null
+      },
+      {
+        "citation": "Friedman, Martin. <em>Charles Sheeler</em>. New York: Watson-Guptill Publications, 1975.",
+        "page_number": "Mentioned: p. 36; Reproduced: p. 56",
+        "url": null
+      },
+      {
+        "citation": "Heller, Nancy, and Julia Williams. \"Charles Sheeler: American Industry as Landscape.\" <em>American Artist</em> 40, no. 402 (January 1976).",
+        "page_number": "Mentioned p. 62",
+        "url": null
+      },
+      {
+        "citation": "Driscoll, John Paul. \"Books in Review: Martin Friedman, Charles Sheeler.\" <em>Art Journal</em> 36, no. 1 (Fall 1976).",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Arnason, H.H. <em>History of Modern Art: Painting, Sculpture, Architecture</em>. New York: Harry N. Abrams, Inc., 1977.",
+        "page_number": "Mentioned: p. 428; Reproduced: p. 428, no. 689",
+        "url": null
+      },
+      {
+        "citation": "Lee, Sherman E. \"The Year in Review.\" <em>The Bulletin of the Cleveland Museum of Art </em>65, no. 1 (January 1978).",
+        "page_number": "Mentioned: p. 4",
+        "url": null
+      },
+      {
+        "citation": "<em>Midwest Art History Society Newsletter, </em>October, 1978.",
+        "page_number": "Reproduced: no. 5",
+        "url": null
+      },
+      {
+        "citation": "Schulz, Bernhard. \"Made in America: Tecnik und Dingwelt in Prazisionismus.\" In <em>Amerika Traum und Depression 1920/40</em>. Berlin: Die Gesellschaft, 1980.",
+        "page_number": "Reproduced: p. 89; Mentioned: p. 116, 534",
+        "url": null
+      },
+      {
+        "citation": "Fillen-Yeh, Susan. \"Charles Sheeler: Industry, Fashion, and the Vanguard.\" <em>Arts Magazine</em> 54, no. 6 (February 1980).",
+        "page_number": "Reproduced: p. 157, no. 13; Mentioned: p. 157",
+        "url": null
+      },
+      {
+        "citation": "Fillin-Yeh, Susan. \"Charles Sheeler and the Machine Age.\" PhD diss., The City University of New York, 1981.",
+        "page_number": "Mentioned: p. xiv, 152 note 58, 153, 206, 210-211, 249 note 18; Reproduced: p. 332, no. 80",
+        "url": null
+      },
+      {
+        "citation": "Stewart, Patrick Leonard. \"Charles Sheeler, William Carlos Williams, and the Development of the Precisionist Aesthetic, 1917-1931.\" PhD diss., University of Delaware, 1981.",
+        "page_number": "Mentioned: p. 33; Reproduced: p. 190, no. 8",
+        "url": null
+      },
+      {
+        "citation": "Tsujimoto, Karen. <em>Images of Precisionist Painting: America and Modern Photography</em>. Seattle: University of Washington Press, 1982.",
+        "page_number": "Mentioned: p. 74, 79, 80; Reproduced: no. 18",
+        "url": null
+      },
+      {
+        "citation": "Menton, Seymour. <em>Magic Realism Rediscovered, 1918-1981</em>. Philadelphia: Art Alliance Press, 1982.",
+        "page_number": "Mentioned: p. 78-79",
+        "url": null
+      },
+      {
+        "citation": "Albright, Thomas. \"Precisionism's Ambivalent Modernism.\" <em>ARTnews</em> 82, no. 1 (January 1983).",
+        "page_number": "Mentioned p. 88; Reproduced: p. 87",
+        "url": null
+      },
+      {
+        "citation": "Ricciotti, Dominic. \"The Revolution in Urban Transport: Max Weber and Italian Futurism.\" <em>The American Art Journal</em> 16 (Winter 1984).",
+        "page_number": "Mentioned: p. 61; Reproduced: 61, no. 13",
+        "url": null
+      },
+      {
+        "citation": "Haskell, Barbara. <em>Ralston Crawford</em>. New York: Whitney Museum of American Art, 1985.",
+        "page_number": "Mentioned: p. 14; Reproduced: p. 15, no. 4",
+        "url": null
+      },
+      {
+        "citation": "Maroney, Jr., James H. <em>The Elite and Popular Appeal of the Art of Charles Sheeler. </em>New York: James Maroney, Inc., 1986.",
+        "page_number": "Mentioned: p. 11",
+        "url": null
+      },
+      {
+        "citation": "Wilson, Richard Guy, Dianne H. Pilgrim, and Dickran Tashjian. <em>The Machine Age in America 1918-1941</em>. New York: Harry N. Abrams, 1986.",
+        "page_number": "Mentioned: p. 219; Reproduced: p. 219",
+        "url": null
+      },
+      {
+        "citation": "Wheat, Ellen Harkins. <em>Jacob Lawrence: American Painter.</em> Seattle: Seattle Art Museum, 1986.",
+        "page_number": "Reproduced: p. 45, no. 24",
+        "url": null
+      },
+      {
+        "citation": "Schleier, Merrill. <em>The Skyscraper in American Art, 1890-1931. </em>New York: Da Capo Press, 1986.",
+        "page_number": "Mentioned: p. 80",
+        "url": null
+      },
+      {
+        "citation": "Tichi, Cecelia. <em>Shifting Gears: Technology, Literature, Culture in Modernist America.</em> Charlotte: The University of North Carolina Press, 1987.",
+        "page_number": "Reproduced: p. 253",
+        "url": null
+      },
+      {
+        "citation": "Stern, Robert A.M., Gregory Gilmart, and Thomas Messins. <em>New York 1930: Architecture and Urbanism Between the Two World Wars</em>. New York: Rizzoli International Publications, Inc., 1987.",
+        "page_number": "Reproduced: p. 53",
+        "url": null
+      },
+      {
+        "citation": "Baker, John. <em>Henry Lee McFee and Formalist Realism in American Still Life 1923-1936</em>. Cranbury: Associated University Presses, 1987.",
+        "page_number": "Mentioned: p. 99; Reproduced: p. 99, no. 126",
+        "url": null
+      },
+      {
+        "citation": "Hammer, Martin. \"Exhibition Reviews: New York, Whitney Museum, Charles Sheeler.\" <em>The Burlington Magazine</em> 130, no. 1019 (Feb 1988).",
+        "page_number": "Mentioned: p. 164; Reproduced: p. 164, no. 107",
+        "url": null
+      },
+      {
+        "citation": "Lubowsky, Susan. <em>George Ault.</em> New York: Whitney Museum of American Art, 1988.",
+        "page_number": "Mentioned: p. 14; Reproduced: p. 14, no. 9",
+        "url": null
+      },
+      {
+        "citation": "Ricciotti, Dominic. \"City Railways/Modernist Visions.\" In <em>The Railroad in American Art: Representations of Technological Change</em>. Japan: Toppan Printing Company, 1988.",
+        "page_number": "Mentioned: p. 139-140, 143; Reproduced: p. 139, no. 106",
+        "url": null
+      },
+      {
+        "citation": "Fillin- Yeh, Susan. \"Charles Sheeler's Rolling Power.\" In <em>The Railroad in American Art: Representations of Technological Change</em>, edited by Susan Danly and Leo Marx. Japan: Toppan Printing Company, 1988.",
+        "page_number": "Mentioned: p. 158",
+        "url": null
+      },
+      {
+        "citation": "Henry, Steven P. \"Exhibition: Charles Sheeler: Prints, Drawings, Photographs.\" <em>Dallas Museum of Art Bulletin</em> (Spring/Summer 1988).",
+        "page_number": "Mentioned: p. 17; Reproduced: p. 16",
+        "url": null
+      },
+      {
+        "citation": "Lynton, Norbert. <em>The Story of Modern Art</em>. Oxford: Phaidon, 1989.",
+        "page_number": "Mentioned: p. 162-163; Reproduced: p. 164",
+        "url": null
+      },
+      {
+        "citation": "Lucie-Smith, Edward. <em>Art Deco Painting</em>. Oxford: Phaidon, 1990.",
+        "page_number": "Reproduced: p. 21, no. 11",
+        "url": null
+      },
+      {
+        "citation": "Cleveland Museum of Art. <em>Handbook of The Cleveland Museum of Art. </em>Cleveland: Cleveland Museum of Art, 1991.",
+        "page_number": "Reproduced: p. 146",
+        "url": "https://archive.org/details/CMAHandbook1991"
+      },
+      {
+        "citation": "Hinson, Tom E. <em>Sixty-Five Works from the Cleveland Museum of Art. </em>Cleveland: Cleveland Museum of Art, 1991.",
+        "page_number": "Mentioned: p. 38; Reproduced: p. 37",
+        "url": null
+      },
+      {
+        "citation": "Lucic, Karen. <em>Charles Sheeler and the Cult of the Machine</em>. London: Reaktion Books, 1991.",
+        "page_number": "Mentioned: p. 59-71; Reproduced: no. 33",
+        "url": null
+      },
+      {
+        "citation": "Harnsberger, R. Scott, and David L. Henderson. <em>Ten Precisionist Artists: Annotated Bibliographies.</em> Westport: Greenwood Press, 1992.",
+        "page_number": "Mentioned: p. 250, note 1080",
+        "url": null
+      },
+      {
+        "citation": "Chong, Alan. <em>European and American Painting in The Cleveland Museum of Art: A Summary Catalogue,</em> Cleveland: Cleveland Museum of Art, 1993.",
+        "page_number": "Reproduced: p. 222",
+        "url": null
+      },
+      {
+        "citation": "Schmied, Wieland. \"Precisionsit View and American Scene: The 1920s.\" In <em>American Art in the 20th Century: Painting and Sculpture 1913-1993</em>, edited by Christos M. Joachimides and Norman Rosenthal. New York: Prestel, 1993.",
+        "page_number": "Mentioned: 471; Reproduced: p. 55, no. 8",
+        "url": null
+      },
+      {
+        "citation": "Benke, Britta. <em>Georgia O'Keeffe 1887-1986: Blumen in der Wüste</em> Köln: Benedikt Taschen Verlag, 1994.",
+        "page_number": "Mentioned: p. 52; Reproduced: p. 52",
+        "url": null
+      },
+      {
+        "citation": "Stavitsky, Gail. \"Reordering Reality: Precisionist Directions in American Art, 1915-1941.\" In <em>Precisionism in America 1915-1941: Reordering Reality. </em>New York: Harry N. Abrams, Inc., 1994.",
+        "page_number": "Mentioned: p. 33, 35; Reproduced: p. 17, no. 5",
+        "url": null
+      },
+      {
+        "citation": "Handy, Ellen. \"The Idea and the Fact: Painting, Photography, Film, Precisionists, and the Real World.\" In <em>Precisionism in America 1915-1941: Reordering Reality. </em>New York: Harry N. Abrams, Inc., 1994.",
+        "page_number": "Mentioned: p. 42-45",
+        "url": null
+      },
+      {
+        "citation": "Honour, Hugh, and John Fleming. <em>A World History of Art. </em>4th ed. London: Laurence King Publishing, 1995.",
+        "page_number": "Mentioned: p. 751; Reproduced: p. 752",
+        "url": null
+      },
+      {
+        "citation": "Turner, Evan H. Foreward to <em>Catalogue of Photography,</em> Tom E. Hinson. Cleveland: Cleveland Museum of Art, 1996.",
+        "page_number": "Mentioned: p. XI",
+        "url": null
+      },
+      {
+        "citation": "Hughes, Robert. <em>American Visions: The Epic History of Art in America. </em>New York: Alfred A. Knopf, Inc., 1997.",
+        "page_number": "Mentioned: p. 383; Reproduced: p. 384, no. 228",
+        "url": null
+      },
+      {
+        "citation": "Arnason, H.H., and Marla F. Prather. <em>History of Modern Art.</em> New York: Harry N. Abrams, 1998.",
+        "page_number": "Mentioned:  p. 419; Reproduced: p. 411, no. 216",
+        "url": null
+      },
+      {
+        "citation": "Shoemaker, Innis Howe, Christa Clarke, and William Wierzbowski. <em>Mad for Modernism: Earl Horter and His Collection</em>. Philadelphia: Philadelphia Museum of Art, 1999.",
+        "page_number": "Mentioned: p. 36, 173, 184; Reproduced: p. 122, no. 78",
+        "url": null
+      },
+      {
+        "citation": "Haskell, Barbara. <em>The American Century: Art &amp; Culture 1900-1950</em>. New York: Whitney Museum of Art, 1999.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Brettell, Richard R. <em>Modern Art 1851-1929: Capitalism and Representation. </em>Oxford: Oxford Unviersity Press, 1999.",
+        "page_number": "Reproduced: p. 43",
+        "url": null
+      },
+      {
+        "citation": "May, Sally Ruth. <em>Knockouts: A Pocket Guide. </em>Cleveland: Cleveland Museum of Art, 2001.",
+        "page_number": "Mentioned: p. 58, 118",
+        "url": null
+      },
+      {
+        "citation": "Baldacci, Paolo, Jean Clair, Hajo Duchting, Claudia Gian Ferrari, Magdalena Holzhey, Christiane Lange, Gerd Roos, and Wieland Schmied. <em>Der kuhle Blick: Realismus der zwanziger Jahre</em>. New York: Prestel, 2001.",
+        "page_number": "Mentioned: p. 310; Reproduced: p. 311",
+        "url": null
+      },
+      {
+        "citation": "Honour, Hugh, and John Fleming. <em>A World History of Art. </em>6th ed<em>. </em>London: Laurence King Publishing, 2002.",
+        "page_number": "Mentioned: p. 815",
+        "url": null
+      },
+      {
+        "citation": "Haas, Karen E. \"Charles Sheeler and Film.\" <em>Magazine Antiques. </em>Nov 2002.",
+        "page_number": "Mentioned: p. 122-129; Reproduced: p. 126, pl XI.",
+        "url": null
+      },
+      {
+        "citation": "Cameron, Dan.<em> Living Inside the Grid.</em> New York: New Museum of Contemporary Art, 2003.",
+        "page_number": "Reproduced: p. 19",
+        "url": null
+      },
+      {
+        "citation": "Fontbona, Francesc. <em>El Modernisme. </em>Barcelona: Edicions l'isard, 2003.",
+        "page_number": "Reproduced: p. 168",
+        "url": null
+      },
+      {
+        "citation": "Solans, Piedad. \"Cosmolgias de la Ciudad.\" In La Ciudad Collage: La Coleccion del IVAM<em>, </em>edited by Institut Valencia d'Art Modern. Valencia: IVAM, 2004.",
+        "page_number": "Reproduced: p. 41, no. 8",
+        "url": null
+      },
+      {
+        "citation": "Charles, Brock. <em>Charles Sheeler: Across Media.</em> Washington, DC: National Gallery of Art, 2006.",
+        "page_number": "Mentioned: p. 31, 48, 50-52, 116; Reproduced: p. 60",
+        "url": null
+      },
+      {
+        "citation": "Weber, Bruce. <em>Paintings of New York, 1800-1850</em>. San Francisco: Pomegranate, 2005.",
+        "page_number": "Reproduced: p. 107",
+        "url": null
+      },
+      {
+        "citation": "Honour, Hugh, and John Fleming. <em>A World History of Art. </em>7th ed<em>. </em>London: Laurence King Publishing, Ltd., 2005.",
+        "page_number": "Reproduced: p. 805, fig. 20.11",
+        "url": null
+      },
+      {
+        "citation": "Brock, Charles. \"Charles Sheeler: Across Media.\" <em>American Art Review</em> 18, no. 3 (May-June 2006).",
+        "page_number": "Mentioned: p. 165",
+        "url": null
+      },
+      {
+        "citation": "Adams, Henry.<em> What's American about American Art? A Gallery Tour in the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2008.",
+        "page_number": "Mentioned: p. 12, 129; Reproduced: p. 12, 128",
+        "url": null
+      },
+      {
+        "citation": "Miller, Angela L., Janet C. Berlo, Bryan J. Wolf, and Jennifer L. Roberts. <em>American Encounters: Art, History and Cultural Identity. </em>Upper Saddle River: Pearson Education, Inc, 2012.",
+        "page_number": "Reproduced: p. 14.7",
+        "url": null
+      },
+      {
+        "citation": "Arnason, H.H. <em>History of Modern Art: Painting, Sculpture, Architecture, Photography. </em>6th ed. Upper Saddle River: Prentice Hall, 2010.",
+        "page_number": "Mentioned: p. 376-377; Reproduced: p. 37",
+        "url": null
+      },
+      {
+        "citation": "Carbone, Theresa A., ed. <em>Youth and Beauty: Art of the American Twenties. </em>New York: Skira Rizzolli Publications in association with the Brooklyn Museum, 2011.",
+        "page_number": "Mentioned: p. 141-142  Reproduced: p. 143, no. 105",
+        "url": null
+      },
+      {
+        "citation": "Franklin, David, and C. Griffith Mann. <em>Treasures from the Cleveland Museum of Art</em>. Cleveland: The Cleveland Museum of Art; London: Scala Publishers Ltd, 2012.",
+        "page_number": "Mentioned: p. 304; Reproduced: p. 305",
+        "url": null
+      },
+      {
+        "citation": "Troyen, Carol, and Jorge Santis. \"Red-Hot American Painters: The Ashcan School.\" In <em>Return to the Ashcan</em>. Fort Lauderdale: Museum of Art, 2012.",
+        "page_number": "Reproduced: p. 26, no. 3",
+        "url": null
+      },
+      {
+        "citation": "Jensen, Kirsten M. \"Painting Manhatta: Modernism, Urban Planning, and New York, 1920-1940.\" In<em> Industrial Sublime: Modernism and the Transformation of New York's Rivers, 1900-1940.</em> Yonkers: Hudson River Museum in association with Empire State Editions, 2013.",
+        "page_number": "Reproduced: p. 74, fig. 32.",
+        "url": null
+      },
+      {
+        "citation": "Bering, Kunibert, and Rolf Niehoff. <em>Bildkompetenz: eine kunstdidaktische Perspektive</em>. Oberhausen, Germany: Athena, 2013.",
+        "page_number": "Reproduced: p. 139",
+        "url": null
+      },
+      {
+        "citation": "Arnason, H. H. and Elizabeth Mansfield. <em>History of Modern Art: Painting, Sculpture, Architecture, Photography. </em>Boston: Pearson, 2013.",
+        "page_number": "Mentioned & Reproduced: pp.352-353",
+        "url": null
+      },
+      {
+        "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+        "page_number": "Mentioned and reproduced: P. 56",
+        "url": ""
+      },
+      {
+        "citation": "Hiller, Susan. \"O'Keeffe as I see her, 1993.\" In <em>Georgia O'Keeffe</em>, edited by Tanya Barson. London: Tate Publishing, 2016.",
+        "page_number": "Mentioned: p. 230",
+        "url": null
+      },
+      {
+        "citation": "Maroney, Jr., James H. <em>Fresh Perspectives on Grant Wood, Charles Sheeler, and George Durrie. </em>Leicester, VT: Gala Books, Ltd, 2019.",
+        "page_number": "Mentioned: p. 151-154, 170 ; Reproduced: p. 151",
+        "url": null
+      },
+      {
+        "citation": "Maroney, James H. <em>Fresh Perspectives on Grant Wood, Charles Sheeler, and George H. Durrie</em>. Leicester, VT: Gala Books, Ltd., 2019.",
+        "page_number": "Reproduced: p. 151",
+        "url": null
+      },
+      {
+        "citation": "Troyen, Carol. \"To Truly Represent Our Age.\" In<em> The Immaculates: Paintings, Photographs and Prints, </em>Menconi &amp; Schoelkopf Fine Art, 6-19. New York, NY: Menconi + Schoelkopf, 2020.",
+        "page_number": "Mentioned and reproduced: p. 8-9, fig. 5",
+        "url": ""
+      },
+      {
+        "citation": "“Recommendations from Our Curators.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>61, no. 2 (Spring 2021): 31.",
+        "page_number": "Reproduced and Mentioned: P. 31.",
+        "url": ""
+      }
+    ],
+    "url": "https://clevelandart.org/art/1977.43",
+    "images": {
+      "annotation": null,
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.43/1977.43_web.jpg",
+        "width": "1069",
+        "height": "893",
+        "filesize": "602527",
+        "filename": "1977.43_web.jpg"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.43/1977.43_print.jpg",
+        "width": "3400",
+        "height": "2841",
+        "filesize": "5386734",
+        "filename": "1977.43_print.jpg"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1977.43/1977.43_full.tif",
+        "width": "4446",
+        "height": "3715",
+        "filesize": "49578716",
+        "filename": "1977.43_full.tif"
+      }
+    },
+    "alternate_images": [
+      {
+        "date_created": "2009-08-18T13:23:05",
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1977.43/1977.43_alt0_web.jpg",
+          "width": "900",
+          "height": "780",
+          "filesize": "226350"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1977.43/1977.43_alt0_print.jpg",
+          "width": "3400",
+          "height": "2946",
+          "filesize": "1564031"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1977.43/1977.43_alt0_full.tif",
+          "width": "3921",
+          "height": "3397",
+          "filesize": "40001524"
+        }
+      },
+      {
+        "date_created": "2009-08-18T13:23:05",
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1977.43/1977.43_alt1_web.jpg",
+          "width": "1031",
+          "height": "893",
+          "filesize": "466627"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1977.43/1977.43_alt1_print.jpg",
+          "width": "3400",
+          "height": "2946",
+          "filesize": "4871552"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1977.43/1977.43_alt1_full.tif",
+          "width": "3921",
+          "height": "3397",
+          "filesize": "40001524"
+        }
+      }
+    ],
+    "creditline": "Mr. and Mrs. William H. Marlatt Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": "Dr. Robert B. Benyo Trust Gallery",
+    "athena_id": 149112,
+    "creators": [
+      {
+        "id": 889,
+        "description": "Charles Sheeler (American, 1883–1965)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "Charles Sheeler American, 1883-1965\r\n\r\nPhiladelphia-born Charles Sheeler was a well-known precisionist painter and photographer. After studying at the School of Industrial Art in Philadelphia (1900-3), he spent the next three years as a student of painter William Merritt Chase at the Pennsylvania Academy of Fine Arts. Around 1910 he took up photography as a way to support himself.\r\n\tSheeler began as an architectural photographer, documenting buildings for Philadelphia architects, but was soon taking pictures of paintings and other works of art. He continued to paint (in 1913 a group of his works were exhibited in the famous Armory Show in New York) and to photograph, often using his photographs as the basis for paintings. In 1917 his photographs were included in a three-person show along with Paul Strand and Morton Schamberg at Marius de Zayas's Modern Gallery in New York.\r\n\tTwo years later Sheeler moved to New York and in 1920 collaborated with Paul Strand on the avant-garde film Manhatta (originally titled New York the Magnificent). In 1923 he began working as a staff photographer for Condé Nast publications. Four years later he received his most important commercial commission when Ford Motor Company hired him to photograph its River Rouge plant. A powerful series of images celebrating American industry resulted and were widely published. They also served as an inspiration for a number of his paintings.\r\n\tIn 1939 a small group of Sheeler's photographs were included in a retrospective of his work organized by the Museum of Modern Art, New York. Over the next decade he worked as staff photographer for the Metropolitan Museum of Art and focused primarily on painting in his own work, especially during the late 1940s and 1950s. In 1959, after suffering a stroke, Sheeler stopped painting and photographing; he died six years later from a second stroke. M.M.",
+        "name_in_original_language": null,
+        "birth_year": "1883",
+        "death_year": "1965",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1977-05-10T00:00:00",
+    "sortable_date": 1920,
+    "date_added_to_oa": null,
+    "date_text": "1920",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": true,
+    "updated_at": "2026-03-27 00:04:31.863000"
+  }
+}

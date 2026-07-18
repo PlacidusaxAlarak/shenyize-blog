@@ -1,0 +1,116 @@
+{
+  "data": {
+    "id": 146319,
+    "accession_number": "1972.1088",
+    "share_license_status": "Copyrighted",
+    "tombstone": "A Canal in Venice, Italy, c. 1900–1920. Edward Crosby Doughty (American, 1877–1952). Gelatin silver print; image: 19.5 x 24 cm (7 11/16 x 9 7/16 in.); mounted: 29.1 x 32.6 cm (11 7/16 x 12 13/16 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, Gift of Mrs. Edd A. Ruggles, 1972.1088",
+    "current_location": null,
+    "title": "A Canal in Venice, Italy",
+    "creation_date": "c. 1900–1920",
+    "creation_date_earliest": 1900,
+    "creation_date_latest": 1920,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "gelatin silver print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1900-1950",
+    "type": "Photograph",
+    "measurements": "Image: 19.5 x 24 cm (7 11/16 x 9 7/16 in.); Mounted: 29.1 x 32.6 cm (11 7/16 x 12 13/16 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.195,
+        "width": 0.24
+      },
+      "mounted": {
+        "height": 0.291,
+        "width": 0.326
+      },
+      "matted": {
+        "height": 0.406,
+        "width": 0.508
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "lower right in pencil on mount paper: E. Crosby Doughty\r\nlower left: E.C.D.\r\nverso in pencil: A Canal in Venice, Italy",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 202729,
+          "title": "Shadows and Dreams: Pictorialist Photography in America",
+          "description": "<i>Shadows and Dreams: Pictorialist Photography in America</i>. The Cleveland Museum of Art (organizer) (September 5, 2015-January 17, 2016).",
+          "opening_date": "2015-09-05T00:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "Edward Crosby Doughty was trained as an architect but became a photographer specializing in architectural, landscape, and garden images.",
+    "description": "Doughty printed this image on translucent tissue. The light bouncing through the tissue and off the paper mount enhances the luminosity of water and sky. In keeping with the approach of Stieglitz and other Pictorialists, Doughty captures the beauty of the mundane. Rather than photographing popular tourist sites such as the Grand Canal, he turns his camera toward a more banal part of the city, with laundry drying in the breeze above docked boats.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79924713"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/1972.1088",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Mrs. Edd A. Ruggles",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 146319,
+    "creators": [
+      {
+        "id": 29762,
+        "description": "Edward Crosby Doughty (American, 1877–1952)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1877",
+        "death_year": "1952",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1972-12-05T00:00:00",
+    "sortable_date": 1900,
+    "date_added_to_oa": null,
+    "date_text": "c. 1900–1920",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:05:02.704000"
+  }
+}

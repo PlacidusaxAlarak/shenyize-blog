@@ -1,0 +1,136 @@
+{
+  "data": {
+    "id": 161297,
+    "accession_number": "1999.7",
+    "share_license_status": "CC0",
+    "tombstone": "Plaster Cast from the Depaulis Collection, c. 1854–55. Henri Le Secq (French, 1818–1882). Salted paper print from waxed paper negative; image: 34.8 x 25.4 cm (13 11/16 x 10 in.); matted: 55.9 x 45.7 cm (22 x 18 in.). The Cleveland Museum of Art, Andrew R. and Martha Holden Jennings Fund, 1999.7",
+    "current_location": null,
+    "title": "Plaster Cast from the Depaulis Collection",
+    "creation_date": "c. 1854–55",
+    "creation_date_earliest": 1854,
+    "creation_date_latest": 1855,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "France, 19th century"
+    ],
+    "technique": "salted paper print from waxed paper negative",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - French 19th Century",
+    "type": "Photograph",
+    "measurements": "Image: 34.8 x 25.4 cm (13 11/16 x 10 in.); Matted: 55.9 x 45.7 cm (22 x 18 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.348,
+        "width": 0.254
+      },
+      "matted": {
+        "height": 0.559,
+        "width": 0.457
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "written in negative on recto: \"Collection/ de Mr/ Depaulis.\" \"h. Le Secq.\" (underlined)",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "Henri Le Secq was one of the most gifted early photographers to record architecture and sculpture. This stunning image is from a small, rare group of photographs of the collection of Alexis-Joseph Depaulis (1792–1867), a French engraver and collector of historic paintings, drawings, prints, and sculptures, as well as casts of ancient and modern objects. The depicted work is a plaster cast made from an early 19th-century neoclassical funerary sculpture created by an uniden-tified artist, probably French. Le Secq's exceptional talent for capturing the broad effects of light and shadow animates the figures in this complex sculpture, giving them physical presence. Indeed, the shadows are deep and diffused because of the texture of the paper negative and the lengthy exposure time.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79983896"
+      ],
+      "internet_archive": [
+        "https://archive.org/details/clevelandart-1999.7-plaster-cast-from-th"
+      ]
+    },
+    "citations": [
+      {
+        "citation": "Cleveland Museum of Art, “Major Benin Bronze Plaque, Rembrandt Print, Other Works of Art Enter CMA Collection,” March 12, 1999, Cleveland Museum of Art Archives.",
+        "page_number": null,
+        "url": "https://archive.org/details/cmapr4240"
+      }
+    ],
+    "url": "https://clevelandart.org/art/1999.7",
+    "images": {
+      "annotation": null,
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.7/1999.7_web.jpg",
+        "width": "661",
+        "height": "893",
+        "filesize": "417618",
+        "filename": "1999.7_web.jpg"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.7/1999.7_print.jpg",
+        "width": "2516",
+        "height": "3400",
+        "filesize": "5679598",
+        "filename": "1999.7_print.jpg"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.7/1999.7_full.tif",
+        "width": "4304",
+        "height": "5816",
+        "filesize": "75128756",
+        "filename": "1999.7_full.tif"
+      }
+    },
+    "alternate_images": [],
+    "creditline": "Andrew R. and Martha Holden Jennings Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 161297,
+    "creators": [
+      {
+        "id": 1617,
+        "description": "Henri Le Secq (French, 1818–1882)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1818",
+        "death_year": "1882",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1999-03-01T00:00:00",
+    "sortable_date": 1854,
+    "date_added_to_oa": null,
+    "date_text": "c. 1854–55",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:05:31.861000"
+  }
+}

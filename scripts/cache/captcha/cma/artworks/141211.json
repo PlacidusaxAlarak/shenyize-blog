@@ -1,0 +1,138 @@
+{
+  "data": {
+    "id": 141211,
+    "accession_number": "1964.449",
+    "share_license_status": "Copyrighted",
+    "tombstone": "The Garden at Tradate: Autumn, 1964. Gianfranco Ferroni (Italian, 1927–2001). Oil and pencil on canvas. The Cleveland Museum of Art, Contemporary Collection of The Cleveland Museum of Art, 1964.449",
+    "current_location": null,
+    "title": "The Garden at Tradate: Autumn",
+    "creation_date": "1964",
+    "creation_date_earliest": 1964,
+    "creation_date_latest": 1964,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "Italy, 20th century"
+    ],
+    "technique": "oil and pencil on canvas",
+    "support_materials": [],
+    "department": "Contemporary Art",
+    "collection": "CONTEMP - Painting",
+    "type": "Painting",
+    "dimensions": {},
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Signed lower left: Ferroni 64",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 300794,
+          "title": "Year in Review: 1965",
+          "description": "<i>Year in Review: 1965</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 27-November 14, 1965).",
+          "opening_date": "1965-10-27T04:00:00"
+        },
+        {
+          "id": 301294,
+          "title": "Works from the Contemporary Collection",
+          "description": "<i>Works from the Contemporary Collection</i>. The Cleveland Museum of Art, Cleveland, OH (July 1-October 15, 1969).",
+          "opening_date": "1969-07-01T04:00:00"
+        },
+        {
+          "id": 309861,
+          "title": "Contemporary Art and Textiles Collection",
+          "description": "<i>Contemporary Art and Textiles Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 13-August 26, 1984).",
+          "opening_date": "1984-07-13T04:00:00"
+        }
+      ],
+      "legacy": [
+        {
+          "description": "\"La Biennale di Venezia,\" 1964, cat. no. 16",
+          "opening_date": "1964-01-01T00:00:00"
+        },
+        {
+          "description": "\"Contemporary Art,\" Cleveland Museum of Art, Upper Special Exhibition Gallery (Nov. 3 - Dec. 12, 1982).",
+          "opening_date": "1982-11-03T00:00:00"
+        },
+        {
+          "description": "\"Contemporary Collection,\" Cleveland Museum of Art (Aug. 17 - Nov. 6, 1983).",
+          "opening_date": "1983-08-17T00:00:00"
+        }
+      ]
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "As a teenager, Ferroni lived in Tradate during World War II and later etched and painted its gardens.",
+    "description": "In <em>The Garden at Tradate: Autumn</em>, Gianfranco Ferroni collages fragmented images into a surreal environment. Trees, chairs, and faces overlap and tangle on the sparse canvas. These motifs appear untethered by space and perspective, evoking a sense of dreaminess. Based on a copperplate etching, the painting retains the crisp lines of a print. In his art, Ferroni explores childhood memory and the unconscious through crafting distorted landscapes.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q60469422"
+      ],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "<em>XXXII Biennale internazionale d'arte Venezia 20 Giugno 18 Ottobre 1964</em>.",
+        "page_number": "Cat 16.",
+        "url": ""
+      },
+      {
+        "citation": "Lee, Sherman E. “Year in Review.” The Bulletin of the Cleveland Museum of Art 52, no. 9 (1965): 124–57.",
+        "page_number": "p. 157, reproduced p. 142, no. 167.",
+        "url": "http://www.jstor.org/stable/25152069"
+      }
+    ],
+    "url": "https://clevelandart.org/art/1964.449",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Contemporary Collection of The Cleveland Museum of Art",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 141211,
+    "creators": [
+      {
+        "id": 3441,
+        "description": "Gianfranco Ferroni (Italian, 1927–2001)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1927",
+        "death_year": "2001",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1964-12-19T00:00:00",
+    "sortable_date": 1964,
+    "date_added_to_oa": null,
+    "date_text": "1964",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:00:39.469000"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "data": {
+    "id": 167678,
+    "accession_number": "2009.355",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Hell: The Street , 1919. Max Beckmann (German, 1884–1950). Lithograph; sheet: 83.2 x 65.2 cm (32 3/4 x 25 11/16 in.). The Cleveland Museum of Art, Norman O. Stone and Ella A. Stone Memorial Fund, 2009.355",
+    "current_location": null,
+    "title": "Hell: The Street ",
+    "creation_date": "1919",
+    "creation_date_earliest": 1919,
+    "creation_date_latest": 1919,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "Germany, 20th century"
+    ],
+    "technique": "lithograph",
+    "support_materials": [
+      {
+        "description": "imitation Japan paper",
+        "watermarks": []
+      }
+    ],
+    "department": "Prints",
+    "collection": "PR - Lithograph",
+    "type": "Print",
+    "measurements": "Sheet: 83.2 x 65.2 cm (32 3/4 x 25 11/16 in.)",
+    "dimensions": {
+      "sheet": {
+        "height": 0.832,
+        "width": 0.652
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "In pencil, lower left: \"45/75 Die Strasse\" \r\nlower right: \"Beckmann\"\r\n",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 299699,
+          "title": "Graphic Discontent: German Expressionism on Paper",
+          "description": "<i>Graphic Discontent: German Expressionism on Paper</i>. The Cleveland Museum of Art (organizer) (January 14-May 27, 2018).",
+          "opening_date": "2018-01-14T05:00:00"
+        },
+        {
+          "id": 681561,
+          "title": "Degenerate! Hitler’s War on Modern Art",
+          "description": "<i>Degenerate! Hitler’s War on Modern Art</i>. Maltz Museum of Jewish Heritage, Beachwood, OH (organizer) (October 29, 2024-April 20, 2025).",
+          "opening_date": "2024-10-29T04:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "After World War I, Max Beckmann produced a portfolio of lithographs under the title <em>Die Holle</em> (<em>Hell</em>). Its publication coincided with civil unrest including heavy street fighting during the so-called November Riots of 1918 that followed Germany’s defeat. Here, the caricatured faces and cropped, overpacked, and stage-like composition portray the ideologues, the war-maimed, the famished, and the deranged. One of Beckmann’s contemporaries, the art historian Paul Schmidt, wrote that it signaled the artist’s new role as a prophet. This aligned with Beckmann’s self-stated aim to expose the “ghastly cry of the poor disillusioned people.”",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q80072479"
+      ],
+      "internet_archive": [
+        "https://archive.org/details/clevelandart-2009.355-hell-the-street"
+      ]
+    },
+    "citations": [
+      {
+        "citation": "Peters, Emily J. \"Graphic Discontent: The German Expressionists strove for spontaneity and unexpected results.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 58. no. 1 (January/February 2018): Cover, 5-7, 22.",
+        "page_number": "Reproduced: P. 7; Mentioned: P. 6, 7",
+        "url": "https://archive.org/details/CMAMM2018-01/page/n3/mode/2up"
+      }
+    ],
+    "url": "https://clevelandart.org/art/2009.355",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Norman O. Stone and Ella A. Stone Memorial Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 167678,
+    "creators": [
+      {
+        "id": 25607,
+        "description": "Max Beckmann (German, 1884–1950)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1884",
+        "death_year": "1950",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2009-11-30T00:00:00",
+    "sortable_date": 1919,
+    "date_added_to_oa": null,
+    "date_text": "1919",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:10:22.244000"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "data": {
+    "id": 615495,
+    "accession_number": "2023.136",
+    "share_license_status": "Copyrighted",
+    "tombstone": "University Circle: Fine Arts Garden #4, Cleveland Museum of Art, 2007, printed 2008. Garie Waltzer (American, 1947-). Inkjet print; image: 33 x 33 cm (13 x 13 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, 2023.136",
+    "current_location": null,
+    "title": "Fine Arts Garden #4, Cleveland Museum of Art",
+    "series": "University Circle",
+    "creation_date": "2007, printed 2008",
+    "creation_date_earliest": 2007,
+    "creation_date_latest": 2007,
+    "artists_tags": [
+      "female",
+      "Jewish artists"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "inkjet print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1951-Present",
+    "type": "Photograph",
+    "measurements": "Image: 33 x 33 cm (13 x 13 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.33,
+        "width": 0.33
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Garie Waltzer (the artist) [1947–], Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "2007",
+        "sortorder": 1
+      },
+      {
+        "description": "The George Gund Foundation Collection, Cleveland, OH, given to The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "2007–23",
+        "sortorder": 2
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "September 11, 2023–",
+        "sortorder": 3
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "Cleveland’s University Circle neighborhood, which encompasses around 550 acres, contains numerous institutions and businesses that employ 30,000 people.",
+    "description": "Cleveland artist Garie Waltzer was commissioned to photograph University Circle for the Gund Foundation Annual Report in 2007. Her densely toned black-and-white photographs, many shot from elevated vantage points and employing deep vistas, reveal the Circle’s underlying structure: a graceful interweaving of nature and architecture united by elegantly drawn circulation patterns to produce a harmonious convergence of place and populace.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q123115888"
+      ],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "George Gund Foundation, and Garie Waltzer. The George Gund Foundation: 2007 Annual Report. Cleveland: George Gund Foundation, 2007.",
+        "page_number": null,
+        "url": "https://gundfoundation.org/wp-content/uploads/2019/11/Gund-Annual-Report-2007.pdf"
+      }
+    ],
+    "url": "https://clevelandart.org/art/2023.136",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "The George Gund Foundation Collection in honor of David Bergholz",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 615495,
+    "creators": [
+      {
+        "id": 54764,
+        "description": "Garie Waltzer (American, 1947-)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1947",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2023-09-11T04:00:00Z",
+    "sortable_date": 2007,
+    "date_added_to_oa": null,
+    "date_text": "2007, printed 2008",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": true,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:07:30.886000"
+  }
+}

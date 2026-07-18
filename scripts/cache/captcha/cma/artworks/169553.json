@@ -1,0 +1,106 @@
+{
+  "data": {
+    "id": 169553,
+    "accession_number": "2011.377",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Group of People on Bridge, 1909. Karl F. Struss (American, 1886–1981). Gelatin silver print; paper: 7 x 9.6 cm (2 3/4 x 3 3/4 in.); matted: 30.5 x 35.6 cm (12 x 14 in.). The Cleveland Museum of Art, Gift of Dr. Stephen Nicholas, 2011.377",
+    "current_location": null,
+    "title": "Group of People on Bridge",
+    "creation_date": "1909",
+    "creation_date_earliest": 1909,
+    "creation_date_latest": 1909,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "gelatin silver print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "Photography",
+    "type": "Photograph",
+    "measurements": "Paper: 7 x 9.6 cm (2 3/4 x 3 3/4 in.); Matted: 30.5 x 35.6 cm (12 x 14 in.)",
+    "dimensions": {
+      "paper": {
+        "height": 0.07,
+        "width": 0.096
+      },
+      "matted": {
+        "height": 0.305,
+        "width": 0.356
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Dr. Stephen Nicholas",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": null
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": null,
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q80077007"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2011.377",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Dr. Stephen Nicholas",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 169553,
+    "creators": [
+      {
+        "id": 970,
+        "description": "Karl F. Struss (American, 1886–1981)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "Karl F. Struss American, 1886-1981\r\n\r\nBorn and raised in New York City, Karl Fischer Struss was an important early pictorialist and a cofounder of the Pictorial Photographers of America. He was also a member of the Photo-Secession, publishing his works in Camera Work (April 1912), and a photographer for publications such as Vogue, Vanity Fair, and Harper's Bazaar.\r\n\tA student of Clarence H. White, Struss was influenced by both White and Alvin Langdon Coburn. He developed his own style, however, an elegant synthesis of random qualities with formal composition. Struss experimented with various technical processes. He developed multiple platinum printing to enhance the depth of shadows and in 1909 designed the Struss Pictorial lens, which entered commercial production in 1915.\r\n\tShortly after the First World War, Struss moved to Hollywood, where he became a successful cinematographer. He worked first for Cecil B. De Mille and later freelanced for both independent and major studios until his retirement in 1970. Among his film credits are Ben Hur (1926), Dr. Jekyll and Mr. Hyde (1932), and the Chaplin classics The Great Dictator (1940) and Limelight (1952). In 1928 Struss received an Academy Award for his work on De Mille's film Sunrise. T.W.F.",
+        "name_in_original_language": null,
+        "birth_year": "1886",
+        "death_year": "1981",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2011-12-05T00:00:00",
+    "sortable_date": 1909,
+    "date_added_to_oa": null,
+    "date_text": "1909",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:09:50.041000"
+  }
+}

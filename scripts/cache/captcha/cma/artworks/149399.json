@@ -1,0 +1,490 @@
+{
+  "data": {
+    "id": 149399,
+    "accession_number": "1978.54",
+    "share_license_status": "CC0",
+    "tombstone": "François Tronchin, 1757. Jean-Etienne Liotard (Swiss, 1702–1789). Pastel on parchment; unframed: 38 x 46.3 cm (14 15/16 x 18 1/4 in.). The Cleveland Museum of Art, John L. Severance Fund, 1978.54",
+    "current_location": null,
+    "title": "François Tronchin",
+    "creation_date": "1757",
+    "creation_date_earliest": 1757,
+    "creation_date_latest": 1757,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "Switzerland"
+    ],
+    "technique": "pastel on parchment",
+    "support_materials": [
+      {
+        "description": "parchment",
+        "watermarks": []
+      }
+    ],
+    "department": "Drawings",
+    "collection": "DR - Swiss",
+    "type": "Drawing",
+    "measurements": "Unframed: 38 x 46.3 cm (14 15/16 x 18 1/4 in.)",
+    "dimensions": {
+      "unframed": {
+        "height": 0.38,
+        "width": 0.463
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "signed and dated, in black crayon, at lower right: par. J.E. Liotard / 1757",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      },
+      {
+        "inscription": "on verso, in red: TH / 51; mark of the Tronchin family",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 304286,
+          "title": "Year in Review: 1978",
+          "description": "<i>Year in Review: 1978</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 13-March 18, 1979).",
+          "opening_date": "1979-02-13T05:00:00"
+        },
+        {
+          "id": 309658,
+          "title": "Portraiture: The Image of the Individual",
+          "description": "<i>Portraiture: The Image of the Individual</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 22, 1983-January 22, 1984).",
+          "opening_date": "1983-11-22T05:00:00"
+        },
+        {
+          "id": 192019,
+          "title": "Master Drawings from the Cleveland Museum of Art",
+          "description": "<i>Master Drawings from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 27-October 17, 2000).",
+          "opening_date": "2000-08-27T00:00:00"
+        },
+        {
+          "id": 204986,
+          "title": "Treasures on Paper from the Collection of the Cleveland Museum of Art",
+          "description": "<i>Treasures on Paper from the Collection of the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 9-June 8, 2014).",
+          "opening_date": "2014-03-09T00:00:00"
+        },
+        {
+          "id": 665048,
+          "title": "Imagination in the Age of Reason",
+          "description": "<i>Imagination in the Age of Reason</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 28, 2024-March 2, 2025).",
+          "opening_date": "2024-09-28T04:00:00"
+        }
+      ],
+      "legacy": [
+        {
+          "description": "<em>De Genève à l'Ermitage: les collections de François Tronchin. </em>Musée Rath, Geneva (June 21 - September 15, 1974).",
+          "opening_date": "1974-06-21T00:00:00"
+        },
+        {
+          "description": "<em>Exposition Jean Etienne Liotard, Johann Heinrich Füssli</em>. Musée de l'Orangerie, Paris (April - June 1948).",
+          "opening_date": "1948-04-01T00:00:00"
+        },
+        {
+          "description": "<em>Exposition d'oeuvres de Jean Etienne Liotard. </em>Musée d'art et d'histoire, Geneva (May 1 - 31, 1925).",
+          "opening_date": "1925-05-01T00:00:00"
+        },
+        {
+          "description": "<em>Exposition Jean-Etienne Liotard</em>. Société des arts, Geneva (1886).",
+          "opening_date": null
+        }
+      ]
+    },
+    "provenance": [
+      {
+        "description": "François Tronchin [1704-1798], Geneva, by descent to Jean-Louis Robert Tronchin",
+        "citations": [],
+        "footnotes": null,
+        "date": "1757-1798",
+        "sortorder": 1
+      },
+      {
+        "description": "Jean-Louis Robert Tronchin [1763-\n?], Geneva, by descent to Armand Henri Tronchin",
+        "citations": [],
+        "footnotes": null,
+        "date": "1798-?",
+        "sortorder": 2
+      },
+      {
+        "description": "Armand Henri Tronchin [1794-1865], Bessinge, Sweden, by descent to Louis-Rémy-Nosky Tronchin",
+        "citations": [],
+        "footnotes": null,
+        "date": "?-after 1865",
+        "sortorder": 3
+      },
+      {
+        "description": "Louis-Rémy-Nosky Tronchin [1825-1873], Geneva, by descent to Henry Tonchin",
+        "citations": [],
+        "footnotes": null,
+        "date": "after 1865-after 1873",
+        "sortorder": 4
+      },
+      {
+        "description": "Henry Tronchin [1853-1891], by descent to Robert Tronchin",
+        "citations": [],
+        "footnotes": null,
+        "date": "after 1873-after 1891",
+        "sortorder": 5
+      },
+      {
+        "description": "Robert Tronchin [1883-?], by descent to Christiane Tronchin, Marquise de Hillerin, Paris",
+        "citations": [],
+        "footnotes": null,
+        "date": "by 1925-by 1948",
+        "sortorder": 6
+      },
+      {
+        "description": "Christiane Tronchin, Marquise de Hillerin, Paris, sold as part of the Tronchin collcetion to Xavier Givaudan",
+        "citations": [],
+        "footnotes": null,
+        "date": "by 1948-1950",
+        "sortorder": 7
+      },
+      {
+        "description": "Xavier Givaudan, Geneva, by descent to André Givaudan",
+        "citations": [],
+        "footnotes": null,
+        "date": "1950-by 1973",
+        "sortorder": 8
+      },
+      {
+        "description": "André Givaudan, Geneva",
+        "citations": [],
+        "footnotes": null,
+        "date": "by 1973-after 1974",
+        "sortorder": 9
+      },
+      {
+        "description": "(Léon Givaudan, Paris, sold to the Cleveland Museum of Art, Cleveland, OH)",
+        "citations": [],
+        "footnotes": null,
+        "date": "after 1974-1978",
+        "sortorder": 10
+      },
+      {
+        "description": "Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "1978-",
+        "sortorder": 11
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "Jean-Etienne Liotard created portraits of eight other members of the Tronchin family around the same time as this pastel.",
+    "description": "This pastel drawing depicts François Tronchin, a prominent figure in his native Geneva and an impassioned patron of the arts. The table before Tronchin features a book, mathematical instruments, and papers that indicate his interests in architecture and music. Rembrandt's <em>Lady in Bed</em>, a painting that the Dutch master created around 1645 (today in the collection of the Scottish National Gallery) and the most highly prized painting in Tronchin's collection, rests on an easel nearby. Liotard considered the portrait of Tronchin among his finest works, and the meticulous rendering of the sitter's powdered wig, transparent flesh, and lace cuffs suggest the skill he had developed in pastel at this time.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q60780789"
+      ],
+      "internet_archive": [
+        "https://archive.org/details/clevelandart-1978.54-francois-tronchin"
+      ]
+    },
+    "citations": [
+      {
+        "citation": "Moücke, Francesco. \"Liotard.\" In <em>Serie di ritratti degli eccellenti pittori: dipinti di propria mano che esistono nell'Imperial galleria di Firenze</em>, 273-76. Florence: Moücke, 1762.",
+        "page_number": "Mentioned.",
+        "url": null
+      },
+      {
+        "citation": "Tronchin, François. <em>Catalogue des tableaux du cabinet de M. Tronchin, conseiller d'Etat </em>à <em>Genève</em>. Geneva: Tronchin, 1765.",
+        "page_number": "Mentioned: p. 50",
+        "url": "https://books.google.com/books?id=TXm0qodKB5cC&newbks=1&newbks_redir=0&dq=catalogue%20des%20tableaux%20de%20mon%20cabinet&pg=PP5#v=onepage&q&f=false"
+      },
+      {
+        "citation": "Liotard, Jean-Etienne. <em>Traité des principes et des règles de la peinture </em>[1781] Repr. Geneva: Pierre Cailler, 1945.",
+        "page_number": "Mentioned: pp. 108-9",
+        "url": "http://doc.rero.ch/record/208704/files/BAA_IA_21.pdf"
+      },
+      {
+        "citation": "Sinner, Johann Rudolph. <em>Voyage historique et littéraire dans la suisse occidentale</em>. Neuchâtel: Imprimerie de la Société typographique, 1781.",
+        "page_number": "Mentioned: p. 42",
+        "url": null
+      },
+      {
+        "citation": "<em>Exposition Jean-Etienne Liotard</em>. Exh. Cat. Geneva: Société des arts, 1886.",
+        "page_number": "Mentioned: p. 7, no. 36",
+        "url": null
+      },
+      {
+        "citation": "Giron, C. \"L'Exposition Liotard.\" <em>Journal de Genève</em> (May 12, 1886).",
+        "page_number": "Mentioned: n.p.",
+        "url": null
+      },
+      {
+        "citation": "Tronchin, Henry. <em>Le Conseiller François Tronchin et ses amis Voltaire, Diderot, Grimm. </em>Paris: Plon, 1895.<strong><br></strong>",
+        "page_number": "Mentioned: p. 258",
+        "url": "https://hdl.handle.net/2027/umn.319510021301824"
+      },
+      {
+        "citation": "Humbert, Édouard, Alphonse Revilliod, and J.W.R. Tilanus. <em>La Vie et les oeuvres de Jean Etienne Liotard, étude biographique et iconographique</em>. Amsterdam: C.M. Van Gogh, 1897.",
+        "page_number": "Mentioned: pp. 129-30, no. 78; Reproduced: p. 129",
+        "url": "https://archive.org/details/lavieetlesoeuvre00humbuoft/page/n10/mode/2up"
+      },
+      {
+        "citation": "Baud-Bovy, Daniel. \"Le Mouvemeent d'art en suisse, peintres genevois (XVIIIe siècle et commencement du XIXe), premier article.\" <em>Gazette des beaux-arts, </em>no. 542 (August 1902): 101-113.",
+        "page_number": "Mentioned: p. 105",
+        "url": null
+      },
+      {
+        "citation": "Crosnier, Jules. <em>Nos Anciens et leurs oeuvres</em>. Geneva: Léon Bovy, 1908.",
+        "page_number": "Mentioned: p. 104; Reproduced: n.p.",
+        "url": null
+      },
+      {
+        "citation": "Vaillat, Léandre. \"Liotard.\" <em>Les Arts</em> 10 (October 1911): 1-32.",
+        "page_number": "Mentioned: p. 24",
+        "url": null
+      },
+      {
+        "citation": "Clouzot, Henri. \"Les Pastels de Genève.\" <em>La Renaissance de l'art français et des industries de luxe</em> 3 (1920): 158-165.",
+        "page_number": "Mentioned: p. 164",
+        "url": null
+      },
+      {
+        "citation": "\"Catalogue des oeuvres de Liotard exposés au Musée d'Art et d'Histoire, du 1er au 31 mai 1925.\" <em>Pages d'art, revue mensuelle suisse illustrée</em> (January 1925).",
+        "page_number": "Mentioned: p. 103",
+        "url": null
+      },
+      {
+        "citation": "Gielly, Louis. \"Les pastels de J.-É. Liotard à Genève,\" <em>Revue de l'art ancien et moderne </em>(1926).",
+        "page_number": "Mentioned: pp. 256, 271",
+        "url": null
+      },
+      {
+        "citation": "Gielly, Louis Jules. <em>L'école genevoise de peinture</em>. Geneva: Sonor, 1935.",
+        "page_number": "Mentioned: pp. 46, 207",
+        "url": null
+      },
+      {
+        "citation": "Ratouis de Limay, Paul. <em>Le Pastel en France au XVIIIème siècle</em>. Paris: Baudinière, 1946.",
+        "page_number": "Mentioned: p. 133",
+        "url": null
+      },
+      {
+        "citation": "<em>Exposition Jean Etienne Liotard, Johann Heinrich Füssli</em>. Exh. Cat. Paris: Musée de l'Orangerie, 1948.",
+        "page_number": "Mentioned: pp. 13, 25, no. 14",
+        "url": null
+      },
+      {
+        "citation": "Benisovich, Michel N. \"Les collections de tableaux du conseiller François Tronchin et le musée de l'Ermitage.\" <em>Geneva</em> 1 (1953): 25-51.",
+        "page_number": "Mentioned and reproduced: p. 40, no. 80, fig. 13",
+        "url": null
+      },
+      {
+        "citation": "Fosca, François. \"Un peintre genevois du XVIIIe siècle: Jean-Etienne Liotard.\" <em>Jardin des arts</em> 27 (1957): 164-169.",
+        "page_number": "Mentioned: p. 168; Reproduced: p. 166",
+        "url": null
+      },
+      {
+        "citation": "Adair, Virginia and Lee. <em>Eighteenth Century Pastel Portraits</em>. London: John Gifford Ltd, 1971.",
+        "page_number": "Mentioned: p. 73",
+        "url": null
+      },
+      {
+        "citation": "<em>De Genève à l'Ermitage: les collections de François Tronchin. </em>Exh. Cat. Geneva: Musée Rath, 1974.<em><br></em>",
+        "page_number": "Mentioned: pp. 175-78, no. 347; Reproduced: p. 177",
+        "url": null
+      },
+      {
+        "citation": "Lee, Sherman E. “The Year in Review for 1978.” <em>The Bulletin of the Cleveland Museum of Art</em> 66, no. 1 (January 1979): 3–47.",
+        "page_number": "Reproduced: p. 23; Mentioned: p. 43, no. 36",
+        "url": "http://www.jstor.org/stable/25159613"
+      },
+      {
+        "citation": "The Cleveland Museum of Art<em>. The Cleveland Museum of Art Catalogue of Paintings, Part 3: European Paintings of the 16th, 17th, and 18th Centuries</em>. Cleveland, OH: The Cleveland Museum of Art, 1982.",
+        "page_number": "Reproduced: p. 520; Mentioned: p. 521-522",
+        "url": null
+      },
+      {
+        "citation": "Georgel, Pierre and Anne-Marie Lecoq. <em>La peinture dans la peinture</em>. Exh. Cat. Dijon: Musée des Beaux-Arts, 1982.",
+        "page_number": "Mentioned and reproduced: p. 161",
+        "url": null
+      },
+      {
+        "citation": "Duffin, Ross. <em>Répertoire international d'iconographie musicale/International Repertory of Music Iconography Inventory of Music Iconography</em>. New York: Research Center for Music Iconography, 1991.",
+        "page_number": "Mentioned: vol. 8, p. 11, no. 213",
+        "url": null
+      },
+      {
+        "citation": "Brown, Christopher, Jan Kelch, and Pieter J. J. van Thiel. <em>Rembrandt: The Master and His Workshop</em>. Exh. Cat. London: National Gallery, 1991.",
+        "page_number": "Mentioned and reproduced: p. 230",
+        "url": null
+      },
+      {
+        "citation": "Herdt, Anne de. <em>Dessins de Liotard: suivi du catalogue de l'oeuvre dessiné</em>. Paris: Réunion des musées nationaux, 1992.",
+        "page_number": "Reproduced: p. 182",
+        "url": null
+      },
+      {
+        "citation": "<em>L'Age d'or flamand et hollandais: collections de Catherine II, Musée de l'Ermitage, Saint-Pétersbourg. </em>Exh. Cat. Dijon: Musée des Beaux-Arts, 1993.",
+        "page_number": "Mentioned and reproduced: p. 47",
+        "url": null
+      },
+      {
+        "citation": "Apgar, Garry, and Jean Huber. <em>L’art Singulier de Jean Huber : Voir Voltaire</em>. Paris: A. Biro, 1995.",
+        "page_number": "Mentioned: p. 168; reproduced: p. 166, no. 140",
+        "url": ""
+      },
+      {
+        "citation": "Kathke, Petra. <em>Porträt und Accessoire: eine Bildnisform im 16. Jahrhundert</em>. Berlin: D. Reimer, 1997.",
+        "page_number": "Mentioned: p. 303; Reproduced: fig. 154",
+        "url": null
+      },
+      {
+        "citation": "DeGrazia, Diane and Carter E. Foster. <em>Master Drawings from the Cleveland Museum of Art.</em> Exh. Cat. Cleveland: Cleveland Museum of Art, 2000.",
+        "page_number": "Mentioned: pp. 12-13; Reproduced: p. 13",
+        "url": null
+      },
+      {
+        "citation": "Koos, Marianne. \"'Malerei ohne Pockenspuren': Oberfläche im Werk von Jean-Etienne Liotard.\"<em>Zeitschrift für Kunstgeschichte </em>4, no. 70 (2007): 545-72.",
+        "page_number": "Mentioned: pp. 563-70; Reproduced: p. 564",
+        "url": null
+      },
+      {
+        "citation": "Roethlisberger, Marcel and Renée Loche. <em>Liotard: catalogue, sources et correspondance</em>. Doornspijk: Davaco, 2008.",
+        "page_number": "Mentioned: vol. 1, pp. 503-506, no. 349; Reproduced: vol. 2, fig. 499",
+        "url": null
+      },
+      {
+        "citation": "Bark, Julianna M. \"Liotard, History Painting, and Mimesis.\" <em>Cantor Arts Center Journal</em> 6 (2008-9): 19-25.",
+        "page_number": "Mentioned and reproduced: p. 22",
+        "url": null
+      },
+      {
+        "citation": "Lorenzo, Andrea di. \"Sotto segno di Correggio. Due progetti per soffitti illusionistici: Una proposta per il Giovane Primaticcio.\" <em>Nuovi Studi</em> 14, no. 15 (2009): 153-64.",
+        "page_number": "Mentioned: p. 154; Reproduced: fig. 175",
+        "url": null
+      },
+      {
+        "citation": "Buyssens, Danielle. <em>La question de l'art à Genève, du cosmopolitisme des lumières au romantisme des nationalité</em>s. Ph.D. diss. Université de Lille 3, 2011.",
+        "page_number": "Reproduced: pl. V",
+        "url": null
+      },
+      {
+        "citation": "Blumle, Claudia. \"Das Bild als Vorhang.\" In<em> Hinter dem Vorhang: Verhüllung und Enthüllung seit der Renaissance - von Tizian bis Christo</em>. Oakar Bätschmann, et.al. Munich: Hirmer, 2016.",
+        "page_number": "Reproduced: p. 33",
+        "url": null
+      },
+      {
+        "citation": "Wetering, Ernst van de, Murray Pearson, Carin van Nes, and Rembrandt Harmenszoon van Rijn. Rembrandt's Paintings Revisited - a Complete Survey : a Reprint of A Corpus of Rembrandt Paintings VI. 2017.",
+        "page_number": "Reproduced and mentioned; vol. 2 p. 585, fig. 3",
+        "url": ""
+      },
+      {
+        "citation": "Guichard, Charlotte.<em> La griffe du peintre: la valeur de l'art (1730-1820)</em>. <br>Paris: Éditions du Seuil, 2018.",
+        "page_number": "Reproduced: pp. 6-8, fig. 1; Mentioned: p. 9",
+        "url": null
+      },
+      {
+        "citation": "Salmon, Xavier. Pastels in the Musée Du Louvre: 17th and 18th Centuries. 2018.",
+        "page_number": "p. 210",
+        "url": null
+      },
+      {
+        "citation": "Grijzenhout, F., and Jean-Etienne Liotard.<em> Liotard in Nederland</em>. Utrecht: Kwadraat, 1985.",
+        "page_number": "Reproduced: p. 63.",
+        "url": null
+      },
+      {
+        "citation": "Guichard, Charlotte. \"Signatures, Authorship and Autographie in Eighteenth-Century French Painting.\" <em>Art History </em>41, no. 2 (April 2018): 266-291.",
+        "page_number": "Mentioned and reproduced: pp. 272-273, fig. 3 & 4",
+        "url": null
+      },
+      {
+        "citation": "Oberli, Matthias. Mit Pinsel, Palette und Perücke: Barocke Malerei in der Schweiz. Basel : Schwabe Verlag, Schwabe Verlagsgruppe AG, 2021.",
+        "page_number": "Mentioned and reproduced: p. 38-39, Abb. 21",
+        "url": ""
+      },
+      {
+        "citation": "Kruse, Jillian. “Imagination in the Age of Reason: Prints and drawings showcase imagination's power.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>65, no. 3 (2024): 6-7.",
+        "page_number": "Reproduced: p. 6; Mentioned: p. 7",
+        "url": "https://archive.org/details/CMAMM-2024-03"
+      },
+      {
+        "citation": "Black, Emily, and Philippe Clerc. <em>Collection Du Crest: Artistes de L’Ecole Genevoise</em>. Genève: Éditions Notari, 2025.",
+        "page_number": "Mentioned and reproduced: p. 26, fig. 8",
+        "url": ""
+      }
+    ],
+    "catalogue_raisonne": "Roethlisberger 349",
+    "url": "https://clevelandart.org/art/1978.54",
+    "images": {
+      "annotation": null,
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1978.54/1978.54_web.jpg",
+        "width": "1076",
+        "height": "893",
+        "filesize": "638452",
+        "filename": "1978.54_web.jpg"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1978.54/1978.54_print.jpg",
+        "width": "3400",
+        "height": "2822",
+        "filesize": "6845996",
+        "filename": "1978.54_print.jpg"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1978.54/1978.54_full.tif",
+        "width": "5463",
+        "height": "4535",
+        "filesize": "74352688",
+        "filename": "1978.54_full.tif"
+      }
+    },
+    "alternate_images": [],
+    "creditline": "John L. Severance Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 149399,
+    "creators": [
+      {
+        "id": 12028,
+        "description": "Jean-Etienne Liotard (Swiss, 1702–1789)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1702",
+        "death_year": "1789",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1978-08-10T00:00:00",
+    "sortable_date": 1757,
+    "date_added_to_oa": null,
+    "date_text": "1757",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": true,
+    "updated_at": "2026-03-27 00:03:29.759000"
+  }
+}

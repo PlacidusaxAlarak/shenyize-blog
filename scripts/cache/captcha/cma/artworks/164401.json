@@ -1,0 +1,131 @@
+{
+  "data": {
+    "id": 164401,
+    "accession_number": "2005.467",
+    "share_license_status": "Copyrighted",
+    "tombstone": "House and Garden, 1917. Gustave Baumann (American, born Germany, 1881–1971). Watercolor over graphite; image: 23.9 x 28.2 cm (9 7/16 x 11 1/8 in.); sheet: 29.8 x 32.6 cm (11 3/4 x 12 13/16 in.). The Cleveland Museum of Art, Gift of Ann Baumann, 2005.467. © Ann Baumann Trust",
+    "current_location": null,
+    "title": "House and Garden",
+    "creation_date": "1917",
+    "creation_date_earliest": 1917,
+    "creation_date_latest": 1917,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "watercolor over graphite",
+    "support_materials": [
+      {
+        "description": "antique laid paper (Bergisch Gladbach?)",
+        "watermarks": []
+      }
+    ],
+    "department": "Drawings",
+    "collection": "DR - American 20th Century",
+    "type": "Drawing",
+    "measurements": "Image: 23.9 x 28.2 cm (9 7/16 x 11 1/8 in.); Sheet: 29.8 x 32.6 cm (11 3/4 x 12 13/16 in.)",
+    "dimensions": {
+      "sheet": {
+        "height": 0.298,
+        "width": 0.326
+      },
+      "image": {
+        "height": 0.239,
+        "width": 0.282
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": "© Ann Baumann Trust",
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 202597,
+          "title": "Imagining the Garden",
+          "description": "<i>Imagining the Garden</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 24, 2015-March 6, 2016).",
+          "opening_date": "2015-10-24T00:00:00"
+        },
+        {
+          "id": 324227,
+          "title": "Gustave Baumann: Colorful Cuts",
+          "description": "<i>Gustave Baumann: Colorful Cuts</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 20, 2020-June 27, 2021).",
+          "opening_date": "2020-12-20T05:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Ann Bauman, Santa Rosa, CA",
+        "citations": [],
+        "footnotes": [],
+        "date": null,
+        "sortorder": 1
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": [],
+        "date": "February 27, 2006",
+        "sortorder": 2
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "Baumann, filled with wanderlust, left Brown County, Indiana, in early 1917 and headed east. He spent the year traveling and working in Wyoming, New York; New York City; Boston; and Provincetown, Massachusetts, where this watercolor was made. Notice how the artist tested colors and made a preliminary sketch of the man pulling the wagon in the upper right margin.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79991947"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2005.467",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Ann Baumann",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 164401,
+    "creators": [
+      {
+        "id": 42672,
+        "description": "Gustave Baumann (American, born Germany, 1881–1971)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1881",
+        "death_year": "1971",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2006-02-27T00:00:00",
+    "sortable_date": 1917,
+    "date_added_to_oa": null,
+    "date_text": "1917",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:05:28.375000"
+  }
+}

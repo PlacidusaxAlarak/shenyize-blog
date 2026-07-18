@@ -1,0 +1,124 @@
+{
+  "data": {
+    "id": 162579,
+    "accession_number": "2003.201",
+    "share_license_status": "Copyrighted",
+    "tombstone": "From Chippewa Road Bridge, 1991. Lois Conner (American, b. 1951). Platinum print; image: 16.6 x 42 cm (6 9/16 x 16 9/16 in.); matted: 35.6 x 58.4 cm (14 x 23 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, The Cleveland Museum of Art, 2003.201",
+    "current_location": null,
+    "title": "From Chippewa Road Bridge",
+    "creation_date": "1991",
+    "creation_date_earliest": 1991,
+    "creation_date_latest": 1991,
+    "artists_tags": [
+      "female"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "platinum print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1951-Present",
+    "type": "Photograph",
+    "measurements": "Image: 16.6 x 42 cm (6 9/16 x 16 9/16 in.); Matted: 35.6 x 58.4 cm (14 x 23 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.166,
+        "width": 0.42
+      },
+      "matted": {
+        "height": 0.356,
+        "width": 0.584
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 185916,
+          "title": "A City Seen: Photographs from The George Gund Foundation Collection",
+          "description": "<i>A City Seen: Photographs from The George Gund Foundation Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 17, 2002-January 26, 2003).",
+          "opening_date": "2002-11-17T00:00:00"
+        },
+        {
+          "id": 199873,
+          "title": "Contemporary Landscape Photography",
+          "description": "<i>Contemporary Landscape Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 26-August 14, 2011).",
+          "opening_date": "2011-03-26T00:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "The George Gund Foundation Collection",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": null
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "In 1991 Conner was commissioned by the George Gund Foundation to create a new body of work surveying the Cuyahoga River for the foundation’s annual report. From the elevated vantage point of the Chippewa Road Bridge in Brecksville, Ohio, she created with her antique 7-by-17-inch view camera a sweeping panorama of the Cuyahoga River Valley bathed in a distinctive glow. A narrow towpath follows the twisting waterbed as it winds through a densely wooded landscape. The pathway was originally part of the Ohio and Erie Canal but now provides recreational opportunities for this scenic natural environment. The combination of her large negative and the platinum printing process produced an image with limitless depth of field, subtly graduated shades of gray, and extraordinary depiction of details.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79987250"
+      ],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "Friedlander, Lee, and John Szarkowski. <em>A City Seen: Photographs from the George Gund Foundation Collection</em>. [Cleveland, Ohio]: The Cleveland Museum of Art, 2002.",
+        "page_number": "p. 46",
+        "url": null
+      }
+    ],
+    "url": "https://clevelandart.org/art/2003.201",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "The George Gund Foundation Collection in honor of David Bergholz, The Cleveland Museum of Art",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 162579,
+    "creators": [
+      {
+        "id": 42873,
+        "description": "Lois Conner (American, b. 1951)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1951",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2003-09-02T00:00:00",
+    "sortable_date": 1991,
+    "date_added_to_oa": null,
+    "date_text": "1991",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:01:38.297000"
+  }
+}

@@ -1,0 +1,3489 @@
+{
+  "info": {
+    "total": 560,
+    "parameters": {
+      "skip": 0,
+      "limit": 20,
+      "q": "bridge",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,department,gallery,classification_type,collection",
+      "search": "bridge"
+    }
+  },
+  "data": [
+    {
+      "id": 103244,
+      "accession_number": "1921.318",
+      "share_license_status": "CC0",
+      "tombstone": "Sudden Shower over Shin-Ōhashi Bridge and Atake, from One Hundred Famous Views of Edo, 1857. Utagawa Hiroshige (Japanese, 1797–1858). Color woodblock print; 35.3 x 23.2 cm (13 7/8 x 9 1/8 in.). The Cleveland Museum of Art, Gift from J. H. Wade, 1921.318",
+      "current_location": null,
+      "title": "Sudden Shower over Shin-Ōhashi Bridge and Atake, from One Hundred Famous Views of Edo",
+      "creation_date": "1857",
+      "creation_date_earliest": 1857,
+      "creation_date_latest": 1857,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Japan, Edo period (1615–1868)"
+      ],
+      "technique": "color woodblock print",
+      "support_materials": [],
+      "department": "Japanese Art",
+      "collection": "Japanese Art",
+      "type": "Print",
+      "measurements": "35.3 x 23.2 cm (13 7/8 x 9 1/8 in.)",
+      "dimensions": {
+        "No Extent Specified": {
+          "height": 0.353,
+          "width": 0.232
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Signature: Hiroshige ga\r\nPublisher: Uoya Eikichi (Uoei, Shitaya)\r\nCensorship Seal: aratame",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 357023,
+            "title": "Japanese Prints from the Museum Collection",
+            "description": "<i>Japanese Prints from the Museum Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 5-October 28, 1934).",
+            "opening_date": "1934-09-05T04:00:00"
+          },
+          {
+            "id": 301675,
+            "title": "The Art of Printmaking",
+            "description": "<i>The Art of Printmaking</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 17, 1959-January 2, 1960).",
+            "opening_date": "1959-11-17T05:00:00"
+          },
+          {
+            "id": 304431,
+            "title": "Japanese Woodblock Prints: Themes and Techniques",
+            "description": "<i>Japanese Woodblock Prints: Themes and Techniques</i>. The Cleveland Museum of Art (organizer) (September 3-October 19, 1980).",
+            "opening_date": "1980-09-03T04:00:00"
+          },
+          {
+            "id": 304542,
+            "title": "Promenades, Pageants, Processions, and Pilgrimages",
+            "description": "<i>Promenades, Pageants, Processions, and Pilgrimages</i>. The Cleveland Museum of Art (organizer) (August 25, 1981-January 3, 1982).",
+            "opening_date": "1981-08-25T04:00:00"
+          },
+          {
+            "id": 304561,
+            "title": "Visions of Landscape: East and West",
+            "description": "<i>Visions of Landscape: East and West</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 17-March 21, 1982).",
+            "opening_date": "1982-02-17T05:00:00"
+          },
+          {
+            "id": 309857,
+            "title": "Transformations in Japanese Printmaking",
+            "description": "<i>Transformations in Japanese Printmaking</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 25-December 30, 1984).",
+            "opening_date": "1984-09-25T04:00:00"
+          },
+          {
+            "id": 310122,
+            "title": "The View from Afar: Whistler and the Japanese Print",
+            "description": "<i>The View from Afar: Whistler and the Japanese Print</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 9-October 16, 1988).",
+            "opening_date": "1988-08-09T04:00:00"
+          },
+          {
+            "id": 178454,
+            "title": "Visions of Japan: Prints and Paintings from Cleveland Collections",
+            "description": "<i>Visions of Japan: Prints and Paintings from Cleveland Collections</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 12, 2004-April 10, 2005).",
+            "opening_date": "2004-12-12T00:00:00"
+          },
+          {
+            "id": 698362,
+            "title": "Highlights of Japanese Art",
+            "description": "<i>Highlights of Japanese Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 7, 2025-June 14, 2026).",
+            "opening_date": "2025-12-07T05:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Carl William Schraubstadter [1862–1947], New York, NY",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1921",
+          "sortorder": 1
+        },
+        {
+          "description": "(American Art Association, February 11, 1921 sale, lot 664)",
+          "citations": [],
+          "footnotes": null,
+          "date": "February 11, 1921",
+          "sortorder": 2
+        },
+        {
+          "description": "(Yamanaka and Company, New York, NY, sold to the Cleveland Museum of Art)",
+          "citations": [],
+          "footnotes": null,
+          "date": "1921",
+          "sortorder": 3
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1921–",
+          "sortorder": 4
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The Ohashi Bridge was one of 300 bridges that crossed the Sumida River.",
+      "description": "Published two years after the great earthquake and fire of 1855, this print design illustrates the newly rebuilt Great Bridge over the Sumida River in Edo (now Tokyo). The design shows Utagawa Hiroshige’s skill in capturing atmospheric conditions. People try to protect themselves from sudden sheets of rain as they cross the bridge in opposite directions. The Atake neighborhood is seen in the distance.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60780869"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1921.318-sudden-shower-over-s"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1921.318",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.318/1921.318_web.jpg",
+          "width": "605",
+          "height": "900",
+          "filesize": "263389",
+          "filename": "1921.318_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.318/1921.318_print.jpg",
+          "width": "2285",
+          "height": "3400",
+          "filesize": "3633906",
+          "filename": "1921.318_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.318/1921.318_full.tif",
+          "width": "7726",
+          "height": "11497",
+          "filesize": "266508340",
+          "filename": "1921.318_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1921.318/1921.318_alt0_web.jpg",
+            "width": "592",
+            "height": "893",
+            "filesize": "451647"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1921.318/1921.318_alt0_print.jpg",
+            "width": "2255",
+            "height": "3400",
+            "filesize": "5916594"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1921.318/1921.318_alt0_full.tif",
+            "width": "3316",
+            "height": "5000",
+            "filesize": "49769460"
+          }
+        },
+        {
+          "date_created": "2014-07-07T15:05:26",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1921.318/1921.318_alt1_web.jpg",
+            "width": "591",
+            "height": "900",
+            "filesize": "212256"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1921.318/1921.318_alt1_print.jpg",
+            "width": "2233",
+            "height": "3400",
+            "filesize": "2286615"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1921.318/1921.318_alt1_full.tif",
+            "width": "4771",
+            "height": "7264",
+            "filesize": "103999088"
+          }
+        }
+      ],
+      "creditline": "Gift from J. H. Wade",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 103244,
+      "creators": [
+        {
+          "id": 50381,
+          "description": "Utagawa Hiroshige (Japanese, 1797–1858)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "歌川 広重",
+          "birth_year": "1797",
+          "death_year": "1858",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1921-03-17T00:00:00",
+      "sortable_date": 1857,
+      "date_added_to_oa": null,
+      "date_text": "1857",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Sudden Rain at Atake and Ohashi (from the series 100 Views of Famous Places in Edo)",
+        "名所江戸百景　大はしあたけのゆうだち",
+        "Sudden Shower over Shin-Ōhashi Bridge and Atake, from the series One Hundred Famous Views of Edo"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:52.494000"
+    },
+    {
+      "id": 122925,
+      "accession_number": "1943.181",
+      "share_license_status": "CC0",
+      "tombstone": "Wine Ewer, 1815. Paul Storr (British, 1771–1844), Rundell, Bridge and Rundell (British, 1797–1834). Silver gilt; overall: 30.5 x 15.6 cm (12 x 6 1/8 in.). The Cleveland Museum of Art, The Thomas S. Grasselli Memorial Collection, 1943.181",
+      "current_location": "203A British Painting and Decorative Arts",
+      "title": "Wine Ewer",
+      "creation_date": "1815",
+      "creation_date_earliest": 1815,
+      "creation_date_latest": 1815,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, London, 19th century"
+      ],
+      "technique": "silver gilt",
+      "support_materials": [],
+      "department": "Decorative Art and Design",
+      "collection": "Decorative Arts",
+      "type": "Silver",
+      "measurements": "Overall: 30.5 x 15.6 cm (12 x 6 1/8 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.305,
+          "width": 0.156
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 311637,
+            "title": "All That Glitters: Great Silver Vessels in Cleveland's Collection",
+            "description": "<i>All That Glitters: Great Silver Vessels in Cleveland's Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 23, 1994-January 8, 1995).",
+            "opening_date": "1994-11-23T05:00:00"
+          },
+          {
+            "id": 306699,
+            "title": "British Gallery Reinstallation  (June 2020)",
+            "description": "<i>British Gallery Reinstallation  (June 2020)</i>. The Cleveland Museum of Art (organizer).",
+            "opening_date": "2020-06-30T04:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "No legacy exhibitions.",
+            "opening_date": null
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Mr. Thomas S. [1874-1942] and Mrs. Emilie Schmidt [1877-1953] Grasselli, Shaker Heights, OH, given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": [],
+          "date": "before 1943",
+          "sortorder": null
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "1943-",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The vine-leaf border along the top of this ewer was inspired by Roman silver from antiquity and popularized by Paul Storr in the 1800s.",
+      "description": "Silver was firmly established as a symbol of wealth, status, and power by the 1800s. Throughout history, styles largely followed the taste of the reigning monarch and thus reflected the political and social alliances that underpinned the aristocracy in Britain. The frieze of scrolls surrounding the handle, the acanthus leaf supporting the lip, and the dolphin heads framing the hinge on this ewer are characteristic of a bolder expression of classical taste favored during the Regency period (1811–20).",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60781265"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1943.181-wine-ewer"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "No existing citations",
+          "page_number": null,
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/1943.181",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.181/1943.181_web.jpg",
+          "width": "690",
+          "height": "893",
+          "filesize": "315820",
+          "filename": "1943.181_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.181/1943.181_print.jpg",
+          "width": "2627",
+          "height": "3400",
+          "filesize": "4701760",
+          "filename": "1943.181_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.181/1943.181_full.tif",
+          "width": "4020",
+          "height": "5202",
+          "filesize": "62767820",
+          "filename": "1943.181_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2008-05-05T19:34:45",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1943.181/1943.181_alt0_web.jpg",
+            "width": "690",
+            "height": "893",
+            "filesize": "293087"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1943.181/1943.181_alt0_print.jpg",
+            "width": "2627",
+            "height": "3400",
+            "filesize": "4508420"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1943.181/1943.181_alt0_full.tif",
+            "width": "3911",
+            "height": "5061",
+            "filesize": "59412088"
+          }
+        },
+        {
+          "date_created": "2008-05-06T13:15:01",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1943.181/1943.181_alt1_web.jpg",
+            "width": "669",
+            "height": "893",
+            "filesize": "321384"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1943.181/1943.181_alt1_print.jpg",
+            "width": "2546",
+            "height": "3400",
+            "filesize": "3954297"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1943.181/1943.181_alt1_full.tif",
+            "width": "4118",
+            "height": "5500",
+            "filesize": "67980592"
+          }
+        }
+      ],
+      "creditline": "The Thomas S. Grasselli Memorial Collection",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 122925,
+      "creators": [
+        {
+          "id": 8523,
+          "description": "Paul Storr (British, 1771–1844)",
+          "extent": null,
+          "qualifier": null,
+          "role": "fabricated by",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1771",
+          "death_year": "1844",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 390259,
+          "description": "Rundell, Bridge and Rundell (British, 1797–1834)",
+          "extent": null,
+          "qualifier": null,
+          "role": "retailer",
+          "biography": "Philip Rundell (1746–1827) and John Bridge (bapt. 1755–1834) of Rundell &amp; Bridge received the royal warrant in 1797. The firm was responsible for the Crown Jewels used at the coronations of George IV (1762–1830), William IV (1765–1837) and Queen Victoria (1819–1901), as well as for a wide range of banqueting plate and jewelry now in the Royal Collection. Although Philip Rundell and John Bridge were both named in the royal warrant of 1797, it was Bridge who acted as Royal Goldsmith until his death in 1834. His nephew John Bridge succeeded him and served in this position until the firm went into dissolution in 1843. From 1804, the firm was known as Rundell, Bridge and Rundell, and from 1834, Rundell, Bridge &amp; Co.",
+          "name_in_original_language": null,
+          "birth_year": "1797",
+          "death_year": "1834",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1943-04-26T00:00:00",
+      "sortable_date": 1815,
+      "date_added_to_oa": null,
+      "date_text": "1815",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Ewer"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:02.323000"
+    },
+    {
+      "id": 120878,
+      "accession_number": "1941.598",
+      "share_license_status": "CC0",
+      "tombstone": "Decanter Stand, 1814. Paul Storr (British, 1771–1844), Rundell, Bridge and Rundell (British, 1797–1834). Silver gilt; diameter: 8.3 x 13.7 cm (3 1/4 x 5 3/8 in.). The Cleveland Museum of Art, Gift of Mrs. Otto Miller, 1941.598",
+      "current_location": null,
+      "title": "Decanter Stand",
+      "creation_date": "1814",
+      "creation_date_earliest": 1814,
+      "creation_date_latest": 1814,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, London, 19th century"
+      ],
+      "technique": "silver gilt",
+      "support_materials": [],
+      "department": "Decorative Art and Design",
+      "collection": "Decorative Arts",
+      "type": "Silver",
+      "measurements": "Diameter: 8.3 x 13.7 cm (3 1/4 x 5 3/8 in.)",
+      "dimensions": {
+        "diameter": {
+          "height": 0.083,
+          "width": 0.137
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Engraved on rim of base: \"RUNDELL BRIDGE ET RUNDELL AURIFICES REGIS ET PRINCIPIS WALLIAE REGENTIS BRITANNIAS.\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 701687,
+            "title": "Exhibition of French, English, and American Silver in Honor of Russell A. Plimpton",
+            "description": "<i>Exhibition of French, English, and American Silver in Honor of Russell A. Plimpton</i>. Minneapolis Institute of Art, Minneapolis, MN (organizer) (June 10-July 15, 1956).",
+            "opening_date": "1956-06-10T04:00:00"
+          },
+          {
+            "id": 445505,
+            "title": "Paul Storr: Silver in American Collections",
+            "description": "<i>Paul Storr: Silver in American Collections</i>. Indianapolis Museum of Art, Indianapolis, IN (organizer) (February 7-March 12, 1972); Dayton Art Institute, Dayton, OH (March 24-April 30, 1972).",
+            "opening_date": "1972-02-07T05:00:00"
+          },
+          {
+            "id": 311637,
+            "title": "All That Glitters: Great Silver Vessels in Cleveland's Collection",
+            "description": "<i>All That Glitters: Great Silver Vessels in Cleveland's Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 23, 1994-January 8, 1995).",
+            "opening_date": "1994-11-23T05:00:00"
+          },
+          {
+            "id": 683420,
+            "title": "In Vino Veritas (In Wine, Truth)",
+            "description": "<i>In Vino Veritas (In Wine, Truth)</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 7, 2025-January 11, 2026).",
+            "opening_date": "2025-09-07T04:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "No legacy exhibitions.",
+            "opening_date": null
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Mrs. Otto Miller [Elizabeth Clark Tyler, 1875-1951], Cleveland Heights, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1941-",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Bacchanal motifs of grapes and consumption echo this object’s function as a stand for a wine decanter.",
+      "description": "Decanter stands served as coasters for glass wine bottles in order to protect the extremely expensive and fragile linen tablecloths they sat upon. This example contains depictions of large grape vines and youthful figures that evoke the Roman god of wine, Bacchus (or Dionysus in Greek mythology). One of the young boys grasps an empty drinking vessel while the other leans against a panther, the frequent companion of Bacchus.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60780811"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1941.598-decanter-stand"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Foote, Helen S. \"Paul De Lamerie and Paul Storr, English Silversmiths.\" <em>The Bulletin of the Cleveland Museum of Art </em>29, no. 8 (October 1942): 121-23.",
+          "page_number": "Mentioned: pp. 122-3; reproduced: p. 120",
+          "url": "www.jstor.org/stable/25141010"
+        }
+      ],
+      "url": "https://clevelandart.org/art/1941.598",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1941.598/1941.598_web.jpg",
+          "width": "1156",
+          "height": "893",
+          "filesize": "560921",
+          "filename": "1941.598_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1941.598/1941.598_print.jpg",
+          "width": "3400",
+          "height": "2627",
+          "filesize": "5236006",
+          "filename": "1941.598_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1941.598/1941.598_full.tif",
+          "width": "4734",
+          "height": "3658",
+          "filesize": "51983188",
+          "filename": "1941.598_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2008-05-07T18:12:25",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1941.598/1941.598_alt0_web.jpg",
+            "width": "1156",
+            "height": "893",
+            "filesize": "771601"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1941.598/1941.598_alt0_print.jpg",
+            "width": "3400",
+            "height": "2627",
+            "filesize": "5705686"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1941.598/1941.598_alt0_full.tif",
+            "width": "4892",
+            "height": "3780",
+            "filesize": "55510068"
+          }
+        }
+      ],
+      "creditline": "Gift of Mrs. Otto Miller",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 120878,
+      "creators": [
+        {
+          "id": 8523,
+          "description": "Paul Storr (British, 1771–1844)",
+          "extent": null,
+          "qualifier": null,
+          "role": "fabricated by",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1771",
+          "death_year": "1844",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 390259,
+          "description": "Rundell, Bridge and Rundell (British, 1797–1834)",
+          "extent": null,
+          "qualifier": null,
+          "role": "retailer",
+          "biography": "Philip Rundell (1746–1827) and John Bridge (bapt. 1755–1834) of Rundell &amp; Bridge received the royal warrant in 1797. The firm was responsible for the Crown Jewels used at the coronations of George IV (1762–1830), William IV (1765–1837) and Queen Victoria (1819–1901), as well as for a wide range of banqueting plate and jewelry now in the Royal Collection. Although Philip Rundell and John Bridge were both named in the royal warrant of 1797, it was Bridge who acted as Royal Goldsmith until his death in 1834. His nephew John Bridge succeeded him and served in this position until the firm went into dissolution in 1843. From 1804, the firm was known as Rundell, Bridge and Rundell, and from 1834, Rundell, Bridge &amp; Co.",
+          "name_in_original_language": null,
+          "birth_year": "1797",
+          "death_year": "1834",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1941-12-29T00:00:00",
+      "sortable_date": 1814,
+      "date_added_to_oa": null,
+      "date_text": "1814",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:06.175000"
+    },
+    {
+      "id": 108615,
+      "accession_number": "1926.308",
+      "share_license_status": "Copyrighted",
+      "tombstone": "The High Level Bridge, Cleveland, 1926. Rudolph Ruzicka (American, born Bohemia, 1883–1978). Color woodcut; image: 17.9 x 12.9 cm (7 1/16 x 5 1/16 in.); sheet: 26 x 19.4 cm (10 1/4 x 7 5/8 in.). The Cleveland Museum of Art, Gift of The Print Club of Cleveland, 1926.308",
+      "current_location": null,
+      "title": "The High Level Bridge, Cleveland",
+      "creation_date": "1926",
+      "creation_date_earliest": 1926,
+      "creation_date_latest": 1926,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "color woodcut",
+      "support_materials": [],
+      "department": "Prints",
+      "collection": "PR - Woodcut",
+      "type": "Print",
+      "measurements": "Image: 17.9 x 12.9 cm (7 1/16 x 5 1/16 in.); Sheet: 26 x 19.4 cm (10 1/4 x 7 5/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.179,
+          "width": 0.129
+        },
+        "sheet": {
+          "height": 0.26,
+          "width": 0.194
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 356916,
+            "title": "Prints of Industrial Subjects",
+            "description": "<i>Prints of Industrial Subjects</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 12, 1934-January 15, 1935).",
+            "opening_date": "1934-12-12T05:00:00"
+          },
+          {
+            "id": 344811,
+            "title": "Print Club Publications: Past Fifteen Years",
+            "description": "<i>Print Club Publications: Past Fifteen Years</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 9-March 20, 1938).",
+            "opening_date": "1938-02-09T05:00:00"
+          },
+          {
+            "id": 301677,
+            "title": "Presentation Prints of the Print Club of Cleveland: 40th Anniversary Exhibition of the Print Club of Cleveland",
+            "description": "<i>Presentation Prints of the Print Club of Cleveland: 40th Anniversary Exhibition of the Print Club of Cleveland</i>. The Cleveland Museum of Art, Cleveland, OH (October 13-December 2, 1959).",
+            "opening_date": "1959-10-13T04:00:00"
+          },
+          {
+            "id": 301359,
+            "title": "The Print Club of Cleveland, 1919 - 1969: Fifty Years in Review",
+            "description": "<i>The Print Club of Cleveland, 1919 - 1969: Fifty Years in Review</i>. The Cleveland Museum of Art, Cleveland, OH (January 14-March 31, 1970).",
+            "opening_date": "1970-01-14T05:00:00"
+          },
+          {
+            "id": 310243,
+            "title": "The Precisionist Aesthetic in American Art",
+            "description": "<i>The Precisionist Aesthetic in American Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 24-April 9, 1989).",
+            "opening_date": "1989-01-24T05:00:00"
+          },
+          {
+            "id": 311649,
+            "title": "The Print Club of Cleveland: Publication Prints 1924-1994",
+            "description": "<i>The Print Club of Cleveland: Publication Prints 1924-1994</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 9-June 26, 1994).",
+            "opening_date": "1994-03-09T05:00:00"
+          },
+          {
+            "id": 311873,
+            "title": "Transformations in Cleveland Art, 1796-1946",
+            "description": "<i>Transformations in Cleveland Art, 1796-1946</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 19-July 21, 1996).",
+            "opening_date": "1996-05-19T04:00:00"
+          },
+          {
+            "id": 177916,
+            "title": "Burchfield to Schreckengost: Cleveland Art of the Jazz Age",
+            "description": "<i>Burchfield to Schreckengost: Cleveland Art of the Jazz Age</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 28-July 18, 2004).",
+            "opening_date": "2004-03-28T00:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [
+        {
+          "id": 117629,
+          "description": "The High Level Bridge, Cleveland, 1926. Rudolph Ruzicka (American, born Bohemia, 1883–1978). Pencil and crayon. The Cleveland Museum of Art, Gift of the Artist, 1938.282",
+          "relationship": "based on"
+        }
+      ],
+      "former_accession_numbers": [],
+      "did_you_know": "In addition to working as a printmaker, Ruzicka produced many book illustrations.",
+      "description": "Ruzicka produced this color woodcut, commissioned by the Print Club of Cleveland, from a pencil and crayon sketch. It depicts the “High Level” or Detroit-Superior Bridge, an engineering marvel completed in 1918, having an upper deck for vehicular traffic and a lower deck (now closed) for electric streetcars. The High Level Bridge was the first span across the Cuyahoga River tall enough to allow boats to pass without raising or lowering elements and stopping car traffic. Many artists were attracted by both the bridge’s modern structure and its symbolic meaning as the link between the city’s east and west sides.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80000143"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Robinson, William H., et. al. <em>Transformations in Cleveland Art, 1796-1946: Community and Diversity in Early Modern America</em>. Cleveland, Ohio: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced and Mentioned: p. 118",
+          "url": null
+        },
+        {
+          "citation": "Engelbrecht, Theresa Moir. \"Inter-Collected: The Shared History of the Print Club and Museum Collection.\" <em>Art in Print, </em>7, no. 2 (July-August 2017): 30-33.",
+          "page_number": "Reproduced; p. 33",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1926.308",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of The Print Club of Cleveland",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 108615,
+      "creators": [
+        {
+          "id": 32473,
+          "description": "Rudolph Ruzicka (American, born Bohemia, 1883–1978)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Born in Bohemia, Rudolph Ruzicka immigrated with his family to Chicago in 1894. At the age of 14, he left school to become a wood-engraving apprentice at the Franklin Engraving Company in Chicago. He attended evening classes at the Art Institute of Chicago as well as weekend drawing classes at Hull House, 1897–1900. He moved to New York to work as a commericial printmaker in 1903. He had solo exhibitions in Cleveland at Korner &amp; Wood Galleries (1913) and the Cleveland Museum of Art (1917). He traveled to Cleveland and sketched the city after receiving a commission to create work for the Cleveland Print Club in 1927. He moved to Boston during the late 1940s and over the subsequent decades added book illustration to his career achievements. Ruzicka died in Hanover, New Hampshire. <br>\"Transformations in Cleveland Art\" (CMA, 1996), p. 235",
+          "name_in_original_language": null,
+          "birth_year": "1883",
+          "death_year": "1978",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1926-07-07T00:00:00",
+      "sortable_date": 1926,
+      "date_added_to_oa": null,
+      "date_text": "1926",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:05:13.853000"
+    },
+    {
+      "id": 151515,
+      "accession_number": "1983.67",
+      "share_license_status": "Copyrighted",
+      "tombstone": "The Houses of Parliament from Westminster Bridge, 1906. André Derain (French, 1880–1954). Oil on canvas; framed: 106 x 124.5 x 10 cm (41 3/4 x 49 x 3 15/16 in.); unframed: 73.6 x 92 cm (29 x 36 1/4 in.). The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund, 1983.67. © Artists Rights Society (ARS), New York / ADAGP, Paris",
+      "current_location": "223 20th Century Avant-Garde",
+      "title": "The Houses of Parliament from Westminster Bridge",
+      "creation_date": "1906",
+      "creation_date_earliest": 1906,
+      "creation_date_latest": 1906,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 20th century"
+      ],
+      "technique": "oil on canvas",
+      "support_materials": [],
+      "department": "Modern European Painting and Sculpture",
+      "collection": "Mod Euro - Painting 1800-1960",
+      "type": "Painting",
+      "measurements": "Framed: 106 x 124.5 x 10 cm (41 3/4 x 49 x 3 15/16 in.); Unframed: 73.6 x 92 cm (29 x 36 1/4 in.)",
+      "dimensions": {
+        "framed": {
+          "height": 1.06,
+          "width": 1.245,
+          "depth": 0.1
+        },
+        "unframed": {
+          "height": 0.736,
+          "width": 0.92
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Artists Rights Society (ARS), New York / ADAGP, Paris",
+      "inscriptions": [
+        {
+          "inscription": "Signed lower left: \"a derain / '06\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 411173,
+            "title": "Andre Derain Retrospective",
+            "description": "<i>Andre Derain Retrospective</i>. Musée d'Art Moderne de la Ville de Paris (organizer) (November 8, 1994-March 15, 1995).",
+            "opening_date": "1994-11-08T05:00:00"
+          },
+          {
+            "id": 223638,
+            "title": "Claude Monet and Modernist London",
+            "description": "<i>Claude Monet and Modernist London</i>. Museum of Fine Arts, St. Petersburg, Florida, St. Petersburg, FL (organizer) (January 16-April 17, 2005).",
+            "opening_date": "2005-01-16T00:00:00"
+          },
+          {
+            "id": 182153,
+            "title": "Monet to Dalí: Modern Masters from the Cleveland Museum of Art",
+            "description": "<i>Monet to Dalí: Modern Masters from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 21, 2007-January 13, 2008).",
+            "opening_date": "2006-05-27T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Museum of Fine Arts, St. Petersburg, Florida (1/16/2005 - 4/17/2005): \"Claude Monet and Modernist London\" ex. cat. no. 7 , p. 62.",
+            "opening_date": "2005-01-16T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "(A. Vollard, Paris); H. Gonzalez, Mexico City; Van der Velde coll., Le Havre; (London sale 1978); (E. V. Thaw)",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "André Derain painted this view of parliament over a century ago, but you can still stand on Westminster Bridge and see the same vista.",
+      "description": "This painting is from a series of 30 London views painted by André Derain between 1906 and 1907. It exemplifies the artist’s Fauve style—characterized by intense, vivid color and energetic brushwork— that Derain developed with his friend Henri Matisse in the summer of 1905 while visiting Collioure, a fishing village in the South of France. Nicknamed the Fauves (“wild beasts”) by contemporary critics, the artists aimed for the liberation of color from reality, using it instead for compositional and expressive purposes.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60475233"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Turner, Evan H. “Year in Review for 1983.” <em>The Bulletin of the Cleveland Museum of Art</em> 71, no. 2 (February 1984): 38–79.",
+          "page_number": "Mentioned: p. 71, no. 75; Reproduced: p. 49",
+          "url": "http://www.jstor.org/stable/25159848"
+        }
+      ],
+      "url": "https://clevelandart.org/art/1983.67",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Leonard C. Hanna Jr. Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": "Michael J. Horvitz Family Gallery",
+      "athena_id": 151515,
+      "creators": [
+        {
+          "id": 2115,
+          "description": "André Derain (French, 1880–1954)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1880",
+          "death_year": "1954",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1983-05-09T00:00:00",
+      "sortable_date": 1906,
+      "date_added_to_oa": null,
+      "date_text": "1906",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": true,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:26.102000"
+    },
+    {
+      "id": 120879,
+      "accession_number": "1941.599",
+      "share_license_status": "CC0",
+      "tombstone": "Decanter Stand, 1814. Paul Storr (British, 1771–1844), Rundell, Bridge and Rundell (British, 1797–1834). Silver; diameter: 8.5 x 13.7 cm (3 3/8 x 5 3/8 in.). The Cleveland Museum of Art, Gift of Mrs. Otto Miller, 1941.599",
+      "current_location": null,
+      "title": "Decanter Stand",
+      "creation_date": "1814",
+      "creation_date_earliest": 1814,
+      "creation_date_latest": 1814,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, London, 19th century"
+      ],
+      "technique": "silver",
+      "support_materials": [],
+      "department": "Decorative Art and Design",
+      "collection": "Decorative Arts",
+      "type": "Silver",
+      "measurements": "Diameter: 8.5 x 13.7 cm (3 3/8 x 5 3/8 in.)",
+      "dimensions": {
+        "diameter": {
+          "height": 0.085,
+          "width": 0.137
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Engraved on rim of base: \"RUNDELL BRIDGE ET RUNDELL AURIFICES REGIS ET PRINCIPIS WALLIAE REGENTIS BRITANNIAS.\" Engraved on base of interior: Unidentifiable crest with bird over other animal.",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Scratched on rim of base: \"6625\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 311898,
+            "title": "35th Anniversary Exhibition",
+            "description": "<i>35th Anniversary Exhibition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 20-September 30, 1951).",
+            "opening_date": "1951-06-20T04:00:00"
+          },
+          {
+            "id": 701687,
+            "title": "Exhibition of French, English, and American Silver in Honor of Russell A. Plimpton",
+            "description": "<i>Exhibition of French, English, and American Silver in Honor of Russell A. Plimpton</i>. Minneapolis Institute of Art, Minneapolis, MN (organizer) (June 10-July 15, 1956).",
+            "opening_date": "1956-06-10T04:00:00"
+          },
+          {
+            "id": 445505,
+            "title": "Paul Storr: Silver in American Collections",
+            "description": "<i>Paul Storr: Silver in American Collections</i>. Indianapolis Museum of Art, Indianapolis, IN (organizer) (February 7-March 12, 1972); Dayton Art Institute, Dayton, OH (March 24-April 30, 1972).",
+            "opening_date": "1972-02-07T05:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Mrs. Otto Miller, Cleveland Heights, Ohio.",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Bacchanal motifs of grapes and consumption echo this object’s function as a stand for a wine decanter.",
+      "description": "Decanter stands served as coasters for glass wine bottles in order to protect the extremely expensive and fragile linen tablecloths they sat upon. This example contains depictions of large grape vines and youthful figures that evoke the Roman god of wine, Bacchus (or Dionysus in Greek mythology). One of the young boys grasps an empty drinking vessel while the other leans against a panther, the frequent companion of Bacchus.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80016540"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1941.599-decanter-stand"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Foote, Helen S. \"Paul De Lamerie and Paul Storr, English Silversmiths.\"<em> The Bulletin of the Cleveland Museum of Art </em>29, no. 8 (October 1942): 121-23.",
+          "page_number": "Mentioned: pp. 122-3; reproduced: p. 120",
+          "url": "www.jstor.org/stable/25141010"
+        }
+      ],
+      "url": "https://clevelandart.org/art/1941.599",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1941.599/1941.599_web.jpg",
+          "width": "900",
+          "height": "698",
+          "filesize": "193606",
+          "filename": "1941.599_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1941.599/1941.599_print.jpg",
+          "width": "3400",
+          "height": "2638",
+          "filesize": "1516534",
+          "filename": "1941.599_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1941.599/1941.599_full.tif",
+          "width": "5654",
+          "height": "4387",
+          "filesize": "74437340",
+          "filename": "1941.599_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2019-07-25T20:08:45",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1941.599/1941.599_alt0_web.jpg",
+            "width": "900",
+            "height": "721",
+            "filesize": "197509"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1941.599/1941.599_alt0_print.jpg",
+            "width": "3400",
+            "height": "2725",
+            "filesize": "1583841"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1941.599/1941.599_alt0_full.tif",
+            "width": "5468",
+            "height": "4382",
+            "filesize": "71907408"
+          }
+        },
+        {
+          "date_created": "2019-07-25T20:11:12",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1941.599/1941.599_alt1_web.jpg",
+            "width": "900",
+            "height": "835",
+            "filesize": "282056"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1941.599/1941.599_alt1_print.jpg",
+            "width": "3400",
+            "height": "3153",
+            "filesize": "2637626"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1941.599/1941.599_alt1_full.tif",
+            "width": "4149",
+            "height": "3847",
+            "filesize": "47910580"
+          }
+        },
+        {
+          "date_created": "2019-07-25T20:12:56",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1941.599/1941.599_alt2_web.jpg",
+            "width": "894",
+            "height": "900",
+            "filesize": "332407"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1941.599/1941.599_alt2_print.jpg",
+            "width": "3377",
+            "height": "3400",
+            "filesize": "3336819"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1941.599/1941.599_alt2_full.tif",
+            "width": "3765",
+            "height": "3791",
+            "filesize": "42846120"
+          }
+        },
+        {
+          "date_created": "2019-07-25T20:15:43",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1941.599/1941.599_alt3_web.jpg",
+            "width": "900",
+            "height": "551",
+            "filesize": "309356"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1941.599/1941.599_alt3_print.jpg",
+            "width": "1422",
+            "height": "870",
+            "filesize": "613514"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1941.599/1941.599_alt3_full.tif",
+            "width": "1422",
+            "height": "870",
+            "filesize": "3738640"
+          }
+        },
+        {
+          "date_created": "2019-07-25T20:28:53",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1941.599/1941.599_alt4_web.jpg",
+            "width": "900",
+            "height": "246",
+            "filesize": "180011"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1941.599/1941.599_alt4_print.jpg",
+            "width": "3400",
+            "height": "929",
+            "filesize": "1322007"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1941.599/1941.599_alt4_full.tif",
+            "width": "4319",
+            "height": "1180",
+            "filesize": "15313704"
+          }
+        }
+      ],
+      "creditline": "Gift of Mrs. Otto Miller",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 120879,
+      "creators": [
+        {
+          "id": 8523,
+          "description": "Paul Storr (British, 1771–1844)",
+          "extent": null,
+          "qualifier": null,
+          "role": "fabricated by",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1771",
+          "death_year": "1844",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 390259,
+          "description": "Rundell, Bridge and Rundell (British, 1797–1834)",
+          "extent": null,
+          "qualifier": null,
+          "role": "retailer",
+          "biography": "Philip Rundell (1746–1827) and John Bridge (bapt. 1755–1834) of Rundell &amp; Bridge received the royal warrant in 1797. The firm was responsible for the Crown Jewels used at the coronations of George IV (1762–1830), William IV (1765–1837) and Queen Victoria (1819–1901), as well as for a wide range of banqueting plate and jewelry now in the Royal Collection. Although Philip Rundell and John Bridge were both named in the royal warrant of 1797, it was Bridge who acted as Royal Goldsmith until his death in 1834. His nephew John Bridge succeeded him and served in this position until the firm went into dissolution in 1843. From 1804, the firm was known as Rundell, Bridge and Rundell, and from 1834, Rundell, Bridge &amp; Co.",
+          "name_in_original_language": null,
+          "birth_year": "1797",
+          "death_year": "1834",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1941-12-29T00:00:00",
+      "sortable_date": 1814,
+      "date_added_to_oa": null,
+      "date_text": "1814",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:08.462000"
+    },
+    {
+      "id": 103360,
+      "accession_number": "1921.413",
+      "share_license_status": "CC0",
+      "tombstone": "The Monkey Bridge (月夜猿橋), early 1830s. Katsushika Taito II (Japanese, active c. 1810–50s). Color woodblock print; 26 x 23.5 cm (10 1/4 x 9 1/4 in.). The Cleveland Museum of Art, Gift from J. H. Wade, 1921.413",
+      "current_location": null,
+      "title": "The Monkey Bridge",
+      "title_in_original_language": "猿橋",
+      "creation_date": "early 1830s",
+      "creation_date_earliest": 1830,
+      "creation_date_latest": 1834,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Japan, Edo period (1615–1868)"
+      ],
+      "technique": "color woodblock print",
+      "support_materials": [],
+      "department": "Japanese Art",
+      "collection": "Japanese Art",
+      "type": "Print",
+      "measurements": "26 x 23.5 cm (10 1/4 x 9 1/4 in.)",
+      "dimensions": {
+        "No Extent Specified": {
+          "height": 0.26,
+          "width": 0.235
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Signature: Katsushika Taito 葛飾戴斗\nArtist Seal: Katsushika no in 葛飾の印",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Collector's seal: ぶろんど, \"burondo\" (Blondeau)",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 316637,
+            "title": "Japanese Gallery 235 Rotation",
+            "description": "<i>Japanese Gallery 235 Rotation</i>. The Cleveland Museum of Art (organizer) (October 30, 2018-January 6, 2019).",
+            "opening_date": "2018-10-30T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Paul Blondeau, Jacquin Collection, through 1921",
+          "citations": [],
+          "footnotes": null,
+          "date": "through 1921",
+          "sortorder": 1
+        },
+        {
+          "description": "(Walpole Galleries, New York, NY, sale January 22, 1921, lot 524)",
+          "citations": [],
+          "footnotes": null,
+          "date": "January 22, 1921",
+          "sortorder": 2
+        },
+        {
+          "description": "(Yamanaka & Co., New York, NY, 1921. Sold to the Cleveland Museum of Art)",
+          "citations": [],
+          "footnotes": null,
+          "date": "January 22-March 17, 1921",
+          "sortorder": 3
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, Ohio, 1921-present",
+          "citations": [],
+          "footnotes": null,
+          "date": "3/17/1921-present",
+          "sortorder": 4
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Taito II, who studied with Hokusai, created this image of the Monkey Bridge in Kai Province, west of Tokyo. By depicting the moon beneath the narrow bridge, he emphasized the height of the gorge.<br><br>Before it was given to the museum by one of its founders, Jeptha H. Wade, this print was trimmed. Uncut versions of the same scene include a section with a poetic inscription designed to look like a rubbing from a stone stele, or commemorative marker, often erected in scenic locations. Ink was also applied differently to produce varying effects in other impressions.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79506692"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1921.413-the-monkey-bridge"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Walpole Galleries (New York, N.Y.), and Frederick William Gookin. Rare and Valuable Japanese Color Prints ; the Noted Collection Formed by a Distinguished French Connoisseur of Paris ...: Exhibition and Unrestricted Sale at Delmonico's ... the Week of January 17th to 22nd, 1921 ... Sale Thursday, Friday and Saturday Evening. New York: Walpole Galleries, 1921.",
+          "page_number": "p. 166, cat. no. 524",
+          "url": "https://library.si.edu/digital-library/book/rarevaluablejapa00walp"
+        }
+      ],
+      "url": "https://clevelandart.org/art/1921.413",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.413/1921.413_web.jpg",
+          "width": "821",
+          "height": "900",
+          "filesize": "284768",
+          "filename": "1921.413_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.413/1921.413_print.jpg",
+          "width": "3101",
+          "height": "3400",
+          "filesize": "4215280",
+          "filename": "1921.413_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.413/1921.413_full.tif",
+          "width": "5606",
+          "height": "6147",
+          "filesize": "103411280",
+          "filename": "1921.413_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Gift from J. H. Wade",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 103360,
+      "creators": [
+        {
+          "id": 35357,
+          "description": "Katsushika Taito II (Japanese, active c. 1810–50s)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "葛飾戴斗",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1921-03-17T00:00:00",
+      "sortable_date": 1830,
+      "date_added_to_oa": null,
+      "date_text": "early 1830s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Monkey Bridge in Moonlight",
+        "The Monkey Bridge in Kai Province"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:05:38.479000"
+    },
+    {
+      "id": 106968,
+      "accession_number": "1924.971",
+      "share_license_status": "CC0",
+      "tombstone": "Meguro Drum Bridge and Sunset Hill, from One Hundred Views of Famous Places in Edo (名所江戸百景　目黒太鼓橋夕日の岡), 1857. Utagawa Hiroshige (Japanese, 1797–1858). Color woodblock print; sheet: 23.2 x 36.1 cm (9 1/8 x 14 3/16 in.). The Cleveland Museum of Art, Gift of Mrs. Francis F. Prentiss for the Dudley P. Allen Collection, 1924.971",
+      "current_location": "235A Japanese",
+      "title": "Meguro Drum Bridge and Sunset Hill, from One Hundred Views of Famous Places in Edo",
+      "title_in_original_language": "名所江戸百景　目黒太鼓橋夕日の岡",
+      "creation_date": "1857",
+      "creation_date_earliest": 1857,
+      "creation_date_latest": 1857,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Japan, Edo period (1615–1868)"
+      ],
+      "technique": "color woodblock print",
+      "support_materials": [],
+      "department": "Japanese Art",
+      "collection": "Japanese Art",
+      "type": "Print",
+      "measurements": "Sheet: 23.2 x 36.1 cm (9 1/8 x 14 3/16 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.232,
+          "width": 0.361
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Signature: Hiroshige ga.\nPublisher: Uoya Eikichi (trimmed).\nCensorship Seal: aratame (trimmed).",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": 1
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 357023,
+            "title": "Japanese Prints from the Museum Collection",
+            "description": "<i>Japanese Prints from the Museum Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 5-October 28, 1934).",
+            "opening_date": "1934-09-05T04:00:00"
+          },
+          {
+            "id": 698362,
+            "title": "Highlights of Japanese Art",
+            "description": "<i>Highlights of Japanese Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 7, 2025-June 14, 2026).",
+            "opening_date": "2025-12-07T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "<em>Later Japanese Art Rotation (Gallery 113)</em>. The Cleveland Museum of Art, Cleveland, OH (December 4, 2003-March 18, 2004).",
+            "opening_date": "2003-12-04T05:00:00Z"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Mrs. Francis F. [Elisabeth Severance Allen] Prentiss [1865–1944], Cleveland, OH, bequest to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1924",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1924–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "The arched stone bridge over the Meguro River in Edo (now Tokyo) was known as the Drum Bridge for its resemblance to the rounded profile of a drum. This print shows people shielding themselves from the snow with hats and umbrellas as they cross it. In the foreground on the lower right, behind the artist’s signature, is the roof of a shop called Shōgatsu-ya that served <em>shiruko mochi</em>—a sweet red-bean soup with rice cakes that is a winter treat. Sunset Hill lies on the other side of the bridge and was once known for its red maple leaves in autumn.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79894105"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1924.971-picture-of-twilight"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1924.971",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1924.971/1924.971_web.jpg",
+          "width": "587",
+          "height": "900",
+          "filesize": "298673",
+          "filename": "1924.971_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1924.971/1924.971_print.jpg",
+          "width": "2216",
+          "height": "3400",
+          "filesize": "3635993",
+          "filename": "1924.971_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1924.971/1924.971_full.tif",
+          "width": "7332",
+          "height": "11250",
+          "filesize": "247487152",
+          "filename": "1924.971_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2014-07-16T10:10:21",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1924.971/1924.971_alt0_web.jpg",
+            "width": "586",
+            "height": "900",
+            "filesize": "240881"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1924.971/1924.971_alt0_print.jpg",
+            "width": "2212",
+            "height": "3400",
+            "filesize": "2897698"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1924.971/1924.971_alt0_full.tif",
+            "width": "4885",
+            "height": "7507",
+            "filesize": "110045888"
+          }
+        }
+      ],
+      "creditline": "Gift of Mrs. Francis F. Prentiss for the Dudley P. Allen Collection",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 106968,
+      "creators": [
+        {
+          "id": 50381,
+          "description": "Utagawa Hiroshige (Japanese, 1797–1858)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "歌川 広重",
+          "birth_year": "1797",
+          "death_year": "1858",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1924-11-26T00:00:00",
+      "sortable_date": 1857,
+      "date_added_to_oa": null,
+      "date_text": "1857",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Picture of Twilight at the Drum Bridge in Meguro (from the series 100 Views of Famous Places in Edo)"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-04-01 14:33:37.849000"
+    },
+    {
+      "id": 447663,
+      "accession_number": "2021.192",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Cuyahoga Valley National Park: Station Road Bridge, 2005. Geoffrey James (British, 1942-). Gelatin silver print; image: 19.8 x 48.2 cm (7 13/16 x 19 in.); paper: 25.5 x 50.5 cm (10 1/16 x 19 7/8 in.). The Cleveland Museum of Art, Gift of the George Gund Foundation Collection in Honor of David Bergholz, 2021.192",
+      "current_location": null,
+      "title": "Station Road Bridge",
+      "series": "Cuyahoga Valley National Park",
+      "creation_date": "2005",
+      "creation_date_earliest": 2005,
+      "creation_date_latest": 2005,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 19.8 x 48.2 cm (7 13/16 x 19 in.); Paper: 25.5 x 50.5 cm (10 1/16 x 19 7/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.198,
+          "width": 0.482
+        },
+        "paper": {
+          "height": 0.255,
+          "width": 0.505
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “Trestle Bridge, Cuyahoga NP 1/10 Geoffrey James (signed)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Geoffrey James (the artist) [1942-], Toronto, Ontario, Canada",
+          "citations": [],
+          "footnotes": null,
+          "date": "2005",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation Collection, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2005-2021",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 6, 2021",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The Cuyahoga Valley National Park, which runs between Akron and Cleveland, is land that has been occupied by humans for over 1,200 years.",
+      "description": "In his views of the Cuyahoga Valley National Park, landscape photographer Geoffrey James shows us natural beauty, but also reminders of the impact of humans on the land such as fragments of the abandoned locks of the Ohio &amp; Erie Canal and modern bridges. James described the park as “a great democratic open space. . . like no other national park I have seen.”",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117246979"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "<em>George Gund Foundation2005 Annual Report: The Cuyahoga Valley National Park</em>, Cleveland: George Gund Foundation, 2005.",
+          "page_number": "",
+          "url": "https://gundfoundation.org/portfolios/cuyahoga-valley-national-park/"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2021.192",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of the George Gund Foundation Collection in Honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 447663,
+      "creators": [
+        {
+          "id": 509,
+          "description": "Geoffrey James (British, 1942-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Geoffrey James British, b. Wales, 1942- The garden panoramas for which Geoffrey James is best known depict utopian spaces that, since the height of their grandeur in centuries past, have fallen into decay and neglect. He uses a large-format camera fitted with a curved film plane to allow the dramatic curves of his architectural and natural subjects to speak most effectively. The resulting monochromatic panoramas are three times longer than they are high, which allows for multiple vantage points and the play of perspective. James's most obvious historical precedent is Eugène Atget, whose extensive series of Parisian gardens speak with a similar technical vocabulary. James (born in St. Asaph) was educated at Wellington College in Crowthorne, Berkshire, and at Wadham College, Oxford, where he studied modern history (B.A., 1962; M.A., 1964). He taught himself photography in 1965, then moved to Canada, working for several years as contributing editor of Time magazine in Montreal (1967-75), as head of the Visual Arts Section of the Canada Council, Ottawa (1975-82), and on various independent freelance projects. James has also taught at the University of Ottawa (1982-84) and has received a fellowship from the Graham Foundation in Fine Arts (1984) and an artist-in-residency from the Centre International de Recherche de Création et d'Animation, Villeneuve-les-Avignon, France (1985). A retrospective of his work, Genius Loci, was organized by the Canadian Museum of Contemporary Photography (1986). His publications include Transparent Things: The Artist's Use of Photography (1977), The Legacy of Atget (coauthor, 1977), Visions: Essays on Contemporary Canadian Art (coeditor, 1977), Entrances and Exits (1984), I Giardini Italiani (1985), Genius Loci (1986), and Morbid Symptoms (1987). James lives in Toronto. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1942",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2021-12-06T05:00:00Z",
+      "sortable_date": 2005,
+      "date_added_to_oa": null,
+      "date_text": "2005",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:17.071000"
+    },
+    {
+      "id": 117529,
+      "accession_number": "1938.194",
+      "share_license_status": "Copyrighted",
+      "tombstone": "The Bridge, c. 1937. Mabel A. Hewit (American, 1903–1984). Block printing on silk; overall: 127 x 84.5 cm (50 x 33 1/4 in.). The Cleveland Museum of Art, Educational Purchase Fund, 1938.194. © Mabel A. Hewit",
+      "current_location": null,
+      "title": "The Bridge",
+      "creation_date": "c. 1937",
+      "creation_date_earliest": 1932,
+      "creation_date_latest": 1942,
+      "artists_tags": [
+        "May Show",
+        "female"
+      ],
+      "culture": [
+        "America, Ohio, Cleveland"
+      ],
+      "technique": "block printing on silk",
+      "support_materials": [],
+      "department": "Textiles",
+      "collection": "Textiles",
+      "type": "Textile",
+      "measurements": "Overall: 127 x 84.5 cm (50 x 33 1/4 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 1.27,
+          "width": 0.845
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Mabel A. Hewit",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 382029,
+            "title": "The May Show: 20th Annual Exhibition of Works by Cleveland Artists and Craftsmen",
+            "description": "<i>The May Show: 20th Annual Exhibition of Works by Cleveland Artists and Craftsmen</i>. The Cleveland Museum of Art (organizer) (May 4-June 12, 1938).",
+            "opening_date": "1938-05-04T04:00:00"
+          },
+          {
+            "id": 178739,
+            "title": "Midwest Modern: The Color Woodcuts of Mabel Hewit",
+            "description": "<i>Midwest Modern: The Color Woodcuts of Mabel Hewit</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 26-October 24, 2010).",
+            "opening_date": "2010-06-26T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "purchased from the 20th Annual Exibition of Work by Cleveland Artists and Craftsmen",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Motifs like the bridge are here decorated with patterns that animate this textile, meant for home decoration or clothing. The trees and shrubs have metamorphosed into fanciful, geometric plant forms reflecting the Art Deco style popular in the 1920s and 1930s. When Hewit printed loom widths of cotton or silk, she carved the blocks in the traditional manner, cutting away the excess wood, leaving the image in relief. <em>The Bridge</em> is a clever design that illustrates Hewit’s sophisticated use of the precise process of printing a block repeatedly in horizontal rows on a large piece of fabric. While the block contains all the elements of the design, the design is only complete after the block has been printed seven times—to the left and right of the original imprint but twice above and below it. The design is staggered on alternate rows, and only through these adjacencies do the motifs become whole.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80012056"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Mabel Hewit scrapbooks. Cleveland Museum of Art Archives.",
+          "page_number": null,
+          "url": "http://library.clevelandart.org/mabel-hewit-scrapbooks"
+        },
+        {
+          "citation": "Mabel A. Hewit Entry Card to 1938 May Show. Cleveland Museum of Art May Show Records, Cleveland Museum of Art Archives.",
+          "page_number": null,
+          "url": "https://archive.org/details/CMAMS04720/"
+        },
+        {
+          "citation": "Artist biographical file for Mabel Hewit. Cleveland Museum of Art May Show Records, Cleveland Museum of Art Archives.",
+          "page_number": null,
+          "url": "https://archive.org/details/MSB0857"
+        }
+      ],
+      "url": "https://clevelandart.org/art/1938.194",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Educational Purchase Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 117529,
+      "creators": [
+        {
+          "id": 42681,
+          "description": "Mabel A. Hewit (American, 1903–1984)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Biographical information exists in the Cleveland Museum of Art Archives.",
+          "name_in_original_language": null,
+          "birth_year": "1903",
+          "death_year": "1984",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1938-06-03T00:00:00",
+      "sortable_date": 1932,
+      "date_added_to_oa": null,
+      "date_text": "c. 1937",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:04:12.830000"
+    },
+    {
+      "id": 165274,
+      "accession_number": "2007.20",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Hudson River Bridge, spring 1930. Berenice Abbott (American, 1898–1991). Gelatin silver print; image: 23.7 x 17.3 cm (9 5/16 x 6 13/16 in.). The Cleveland Museum of Art, John L. Severance Fund, 2007.20. © Berenice Abbott/Getty Images",
+      "current_location": null,
+      "title": "Hudson River Bridge",
+      "creation_date": "spring 1930",
+      "creation_date_earliest": 1930,
+      "creation_date_latest": 1930,
+      "artists_tags": [
+        "female",
+        "LGBTQ+ (after 1900)"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 23.7 x 17.3 cm (9 5/16 x 6 13/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.237,
+          "width": 0.173
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Berenice Abbott/Getty Images",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"Hudson River Bridge\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"Berenice Abbott (signed)\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Black stamp on verso:  \"Courtesy of Julian Levy Gallery\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Purple stamp on verso:  \"Photo/Berenice/Abbott/1.W.67th St. NYC\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 335775,
+            "title": "Accommodations of Desire: Surrealist Works on Paper Collected by Julien Levy",
+            "description": "<i>Accommodations of Desire: Surrealist Works on Paper Collected by Julien Levy</i>. Palmer Museum of Art (September 14-December 5, 2004); McMullen Museum of Art, Boston College, MA (January 16-March 27, 2005); Crocker Art Museum, Sacaramento, CA (July 9-September 11, 2005); Portland Museum of Art (January 1-March 19, 2006).",
+            "opening_date": "2004-09-14T04:00:00"
+          },
+          {
+            "id": 203169,
+            "title": "Forbidden Games: Surrealist and Modernist Photography",
+            "description": "<i>Forbidden Games: Surrealist and Modernist Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 19, 2014-January 11, 2015).",
+            "opening_date": "2014-10-19T00:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "The artist, New York, NY",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "(Julien Levy Gallery, New York, NY)",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "(Sothebys, New York, NY, Oct. 7, 1998)",
+          "citations": [],
+          "footnotes": [],
+          "date": "1998-10-7",
+          "sortorder": 3
+        },
+        {
+          "description": "David Raymond [b. 1979], New York, NY",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 4
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 5
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Abbot was commissioned to photograph the construction of Manhattan’s George Washington Bridge for an article in <em>Architectural Record</em>. She drew attention to the industrial structure’s abstract, aesthetic qualities and its height through her choice of camera angle.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79993999"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E. Hinson, Ian Walker, and Lisa Kurzner. Forbidden Games: Surrealist and Modernist Photography : the David Raymond Collection in the Cleveland Museum of Art. 2014.",
+          "page_number": "cat. no. 120, p. 168.",
+          "url": null
+        },
+        {
+          "citation": "Fellah, Nadiah Rivera, William Griswold, Natalie Scenters-Zapico, and Cleveland Museum of Art. <em>Picturing the Border</em>. Cleveland: The Cleveland Museum of Art, 2024.",
+          "page_number": "Mentioned and reproduced: p. 63, fig. 12",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/2007.20",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 165274,
+      "creators": [
+        {
+          "id": 11,
+          "description": "Berenice Abbott (American, 1898–1991)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Berenice Abbott American, 1898-1991 Berenice Abbott was one of the most accomplished documentary photographers of the 20th century. The Springfield, Ohio, native also achieved recognition for her critical role in preserving and promoting the work of French photographer Eugène Atget. Abbott learned photography during the 1920s while serving as an assistant in Man Ray's Paris studio. In 1926 she opened her own portrait studio, photographing many of the artists and intellectuals then living in Paris, including Atget and James Joyce. Following Atget's death in 1927, Abbott was instrumental in preserving his prints and negatives and in bringing his work to public attention through exhibitions and publications. In 1929, the year that Abbott returned to the United States, her photographs were included in the important exhibition Film und Foto in Stuttgart. Once back in the U.S., Abbott opened a portrait studio in New York City and undertook an ambitious project to document the city's rapidly changing landscape. In 1935 she received assistance from the wpa Federal Arts Project, and two years later images from her study were exhibited at the Museum of the City of New York. In 1939 her photographs were featured in Changing New York, a book with accompanying text by critic Elizabeth McCausland. It was also during the 1930s that Abbott began teaching at the New School for Social Research, a position she held until 1958. In the 1940s Abbott published a manual of photographic instruction, A Guide to Better Photography (1941), as well as a book of photographs taken from 1947-48, Greenwich Village Today and Yesterday (1949). Her photographic subject matter broadened to include scientific phenomena, particularly physical and chemical reactions, an interest she pursued throughout the 1950s. American landscapes, however, continued to be a source of inspiration. In 1954 Abbott traveled U.S. Route 1 from Florida to Maine, photographing small towns encountered along the way. Throughout her long career, Abbott's work was exhibited widely, beginning with a 1926 Paris show at the avant-garde gallery Au Sacre du Printemps. Over the years she participated in numerous group exhibitions as well as in one-person shows at the Museum of Modern Art, New York (1970), the Museum of Photographic Arts, San Diego (1984), and the New York Public Library (1989). M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1898",
+          "death_year": "1991",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2007-02-26T00:00:00",
+      "sortable_date": 1930,
+      "date_added_to_oa": null,
+      "date_text": "spring 1930",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:54.871000"
+    },
+    {
+      "id": 157319,
+      "accession_number": "1994.185",
+      "share_license_status": "CC0",
+      "tombstone": "Bridge of Shops, Srinagar, Kashmir, 1864. Samuel Bourne (British, 1834–1912). Albumen print from wet collodion negative; image: 23.6 x 29.1 cm (9 5/16 x 11 7/16 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, John L. Severance Fund, 1994.185",
+      "current_location": null,
+      "title": "Bridge of Shops, Srinagar, Kashmir",
+      "creation_date": "1864",
+      "creation_date_earliest": 1864,
+      "creation_date_latest": 1864,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "albumen print from wet collodion negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 23.6 x 29.1 cm (9 5/16 x 11 7/16 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.236,
+          "width": 0.291
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"788\"; \"$900\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 184303,
+            "title": "Travel Photography: Early Images of India",
+            "description": "<i>Travel Photography: Early Images of India</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 2-July 17, 2002).",
+            "opening_date": "2002-03-02T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, September 13 - November 27, 1994:  \"Recent Acquisitions:  Prints, Drawings, Photographs,\" no exhibition catalogue.",
+            "opening_date": "1994-09-13T00:00:00"
+          },
+          {
+            "description": "CMA, March 2 - July 17, 2002; \"Travel Photography: Images of India,\" no exhibition catalogue.",
+            "opening_date": "2002-03-02T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Taking up photography in his teens, Samuel Bourne soon achieved recognition for both his superb technical skills and keen aesthetic talents. When he sailed to India in late 1862, he left a banking career to pursue his passion for photography . He hoped to use his camera throughout the country and to write about his experiences for the British Journal of Photography. This charming photograph of a bridge filled with small huts demonstrates his creative ability to organize the random environment. His lively use of light and shade clearly defines the elements of architecture and landscape. The photographer allowed a favorite, early interest in water to dominate this picturesque image of Jaipur, which was founded in 1727 by Maharajah Jai Singh II. By the beginning of the 21st century, this small town had developed into a commercial city with a population of well over two million.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79973427"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1994.185-bridge-of-shops-srin"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 106",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1994.185",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1994.185/1994.185_web.jpg",
+          "width": "1101",
+          "height": "893",
+          "filesize": "554750",
+          "filename": "1994.185_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1994.185/1994.185_print.jpg",
+          "width": "3400",
+          "height": "2758",
+          "filesize": "5013263",
+          "filename": "1994.185_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1994.185/1994.185_full.tif",
+          "width": "5555",
+          "height": "4506",
+          "filesize": "75124444",
+          "filename": "1994.185_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 157319,
+      "creators": [
+        {
+          "id": 265,
+          "description": "Samuel Bourne (British, 1834–1912)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Samuel Bourne British, 1834 - 1912 Born in Nottingham, Samuel Bourne first began taking photographs as an amateur in 1851. Four years later, he gave up his career in banking to become a professional photographer. In 1862 he embarked for India, where for the next several years he made three photographic expeditions into the Himalayas. He also formed a partnership in Simla with Charles Shepherd -- a publishing enterprise to reproduce photographic views. Until his return to England in 1870, Bourne continued to work in India and the Far East and to expand the province of Bourne &amp; Shepherd, opening a second branch in Calcutta. By the time of his departure he had produced some 1,500 negatives of such places as Benares, Darjeeling, and Tibet, largely of landscape and architecture for the public market. Bourne was known for the care with which he conceived and executed his work. His images, though plentiful, were highly prized and remain so today. Many are still available from the firm Bourne &amp; Shepherd, which has survived for more than 125 years. After returning to England, he established a business in cotton doubling, manufacturing thread for lacemaking and weaving machines, raised a family, and took up again the life of an amateur photographer and watercolorist. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1834",
+          "death_year": "1912",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1994-09-07T00:00:00",
+      "sortable_date": 1864,
+      "date_added_to_oa": null,
+      "date_text": "1864",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "The Bridge at Jaipur, India"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:56.577000"
+    },
+    {
+      "id": 159327,
+      "accession_number": "1996.12",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Brooklyn Bridge, 1980. Kenneth Snelson (American, 1927–2016). Gelatin silver print; image: 39.4 x 231.9 cm (15 1/2 x 91 5/16 in.); paper: 50.5 x 243.2 cm (19 7/8 x 95 3/4 in.). The Cleveland Museum of Art, Wishing Well Fund, 1996.12",
+      "current_location": null,
+      "title": "Brooklyn Bridge",
+      "creation_date": "1980",
+      "creation_date_earliest": 1980,
+      "creation_date_latest": 1980,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 39.4 x 231.9 cm (15 1/2 x 91 5/16 in.); Paper: 50.5 x 243.2 cm (19 7/8 x 95 3/4 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.394,
+          "width": 2.319
+        },
+        "paper": {
+          "height": 0.505,
+          "width": 2.432
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in black felt pen on recto: \"K. Snelson 1980 5/15\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 311875,
+            "title": "Legacy of Light: Master Photographs from the Cleveland Museum of Art",
+            "description": "<i>Legacy of Light: Master Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 24, 1996-February 2, 1997).",
+            "opening_date": "1996-11-24T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, November 20,1996 - February 2, 1997: \"Legacy of Light: Master Photographs from the Cleveland Museum of Art.\"",
+            "opening_date": "1997-02-02T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "This sweeping photograph of New York's Brooklyn Bridge and East River is from a series of panoramas that grew from Kenneth Snelson's desire to see in all directions at once, a feat impossible for the human eye. Using an antique, turn-of-the-century Kodak Cirkut camera, in 1980 Snelson made a number of monumental photographs of New York City landmarks. Mounted on a tripod, a small motor rotated the entire camera while the film was driven at the same speed in the opposite direction past an opening. This enabled exposures of 360° or more. Taking about 40 seconds to make its complete circuit, the camera produced vast negatives about sixteen inches high and nearly eight feet long, which were then contact-printed. This compelling composition is difficult to decipher since the straight lines that angle away from the camera appear curved in the flattened image. The freeways shown on both sides of the photograph are actually a single roadway.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79978747"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 326",
+          "url": ""
+        },
+        {
+          "citation": "Cleveland Museum of Art, “The Cleveland Museum of Art Acquires Major Works,” March 18, 1996, Cleveland Museum of Art Archives.",
+          "page_number": null,
+          "url": "https://archive.org/details/cmapr4027"
+        }
+      ],
+      "url": "https://clevelandart.org/art/1996.12",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Wishing Well Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 159327,
+      "creators": [
+        {
+          "id": 921,
+          "description": "Kenneth Snelson (American, 1927–2016)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Kenneth Snelson American, 1927- Photographer Kenneth Snelson is perhaps better known for his large-scale outdoor sculptures made of tubular steel and cable. Piqued by his father's trade in high-quality German cameras, his interest in photography began as a child. After studying at the University of Oregon (1946-48), Black Mountain College in North Carolina (where his teachers included Josef Albers, Buckminster Fuller, and Willem de Kooning, 1948-49), and the Institute of Design, Illinois Institute of Technology (1950), Snelson studied with Fernand Léger at the Académie Montmartre in Paris (1951). Upon his return, he worked as a cinematographer in order to pay for his sculpture. He began creating panoramic photographs in 1975 with the purchase of a Wide-Lux camera that allowed a 140 view. In 1983 he began using a Cirkut 16 camera, which produced negatives 40 centimeters x 3 meters in size and allowed a 360 view. Born in Pendleton, Oregon, Snelson has taught at Cooper Union, Pratt Institute, and the School of the Visual Arts in New York, and at Southern Illinois University and Yale University. He has received awards from the New York State Council on the Arts (1971), the National Endowment for the Arts (1974, 1975), a Deutsches Akademishes Austauschdienst (daad) Fellowship, Berlin (1975), the American Institute of Architects Medal (1981), an honorary doctorate from Rensselaer Polytechnic Institute (1985), and the American Institute of Arts and Letters Award (1987).",
+          "name_in_original_language": null,
+          "birth_year": "1927",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1996-03-04T00:00:00",
+      "sortable_date": 1980,
+      "date_added_to_oa": null,
+      "date_text": "1980",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": "5",
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:46.637000"
+    },
+    {
+      "id": 697943,
+      "accession_number": "2025.264",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Bridge, c. 1927–29. Margaret Bourke-White (American, 1904–1971). Gelatin silver print; image: 9.5 x 7.6 cm (3 3/4 x 3 in.). The Cleveland Museum of Art, Gift of Diana S. Tittle in memory of Tom E. Hinson, 2025.264",
+      "current_location": null,
+      "title": "Bridge",
+      "creation_date": "c. 1927–29",
+      "creation_date_earliest": 1922,
+      "creation_date_latest": 1934,
+      "artists_tags": [
+        "May Show",
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 9.5 x 7.6 cm (3 3/4 x 3 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.095,
+          "width": 0.076
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(New Gallery of Contemporary Art, Cleveland, OH), sold to Tom E. Hinson, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1970s",
+          "sortorder": 1
+        },
+        {
+          "description": "Collection of Tom Hinson and Diana Tittle, Truth or Consequences, NM and Tucson, AZ, given to the Cleveland Museum of Art, Cleveland, OH, December 8, 2025",
+          "citations": [],
+          "footnotes": null,
+          "date": "mid 1970s-2025",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 8, 2025–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The Terminal Tower was the tallest building in North America outside of New York City from 1927-1964.",
+      "description": "Margaret Bourke-White, the visual poet of Industrial Cleveland, juxtaposes a pale Terminal Tower rising in the distant mist with the dark, lacy geometry of a bridge’s ironwork in this 1927-29 view. The artist sent small scale prints like this to her friends as holiday cards, evoking through composition the grandeur and spirit of this rising city.",
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2025.264",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Diana S. Tittle in memory of Tom E. Hinson",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 697943,
+      "creators": [
+        {
+          "id": 262,
+          "description": "Margaret Bourke-White (American, 1904–1971)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Margaret Bourke-White American, 1904-1971 Margaret Bourke-White was a preeminent photojournalist who gained fame for her striking images published in Fortune and Life magazines in the 1930s-50s. In 1922, while at Columbia University Teachers College in her native New York City, Bourke-White studied photography with Clarence White. She attended several other colleges before graduating from Cornell University (1927), then moved to Cleveland. The city's industrial landscape was influential in the development of Bourke-White's photographic style. One of her images from this period, Romance of Steel, was a first-place winner in the Cleveland Museum of Art's 1928 May Show, a regional juried exhibition. The following year Bourke-White moved back to New York to work for Henry Luce's new business magazine, Fortune. In 1934 she was sent by the magazine to cover the drought in the Midwest, an assignment she credited with awakening her social conscience. Three years later she collaborated with writer Erskine Caldwell on You Have Seen Their Faces, an acclaimed study of the plight of rural Southerners during the Great Depression. Bourke-White's long association with Life began in 1936 when she joined the magazine as one of its first staff photographers. When it premiered on November 23, 1936, her photographs of Fort Peck Dam in Montana were featured on the cover and in the lead story. During her career, Bourke-White covered many major world events: the Great Depression, World War II, the partitioning of India, and the Korean War. She continued to photograph throughout the 1950s, publishing her images in magazines and in a number of books, including Eyes on Russia (1931), North of the Danube, with Erskine Caldwell (1939), Say, Is This the U.S.A.?, with Erskine Caldwell (1941), Shooting the Russian War (1942), Dear Fatherland, Rest Quietly (1946), Halfway to Freedom: A Report on the New India (1949), and Portrait of Myself (her autobiography, 1963). M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1904",
+          "death_year": "1971",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2025-12-08T05:00:00Z",
+      "sortable_date": 1922,
+      "date_added_to_oa": null,
+      "date_text": "c. 1927–29",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:04.279000"
+    },
+    {
+      "id": 117629,
+      "accession_number": "1938.282",
+      "share_license_status": "Copyrighted",
+      "tombstone": "The High Level Bridge, Cleveland, 1926. Rudolph Ruzicka (American, born Bohemia, 1883–1978). Pencil and crayon. The Cleveland Museum of Art, Gift of the Artist, 1938.282",
+      "current_location": null,
+      "title": "The High Level Bridge, Cleveland",
+      "creation_date": "1926",
+      "creation_date_earliest": 1926,
+      "creation_date_latest": 1926,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "pencil and crayon",
+      "support_materials": [],
+      "department": "Drawings",
+      "collection": "DR - American 20th Century",
+      "type": "Drawing",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 301359,
+            "title": "The Print Club of Cleveland, 1919 - 1969: Fifty Years in Review",
+            "description": "<i>The Print Club of Cleveland, 1919 - 1969: Fifty Years in Review</i>. The Cleveland Museum of Art, Cleveland, OH (January 14-March 31, 1970).",
+            "opening_date": "1970-01-14T05:00:00"
+          },
+          {
+            "id": 310260,
+            "title": "American Cities: The Artist's View",
+            "description": "<i>American Cities: The Artist's View</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 17, 1989-January 7, 1990).",
+            "opening_date": "1989-10-17T04:00:00"
+          },
+          {
+            "id": 311649,
+            "title": "The Print Club of Cleveland: Publication Prints 1924-1994",
+            "description": "<i>The Print Club of Cleveland: Publication Prints 1924-1994</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 9-June 26, 1994).",
+            "opening_date": "1994-03-09T05:00:00"
+          },
+          {
+            "id": 177916,
+            "title": "Burchfield to Schreckengost: Cleveland Art of the Jazz Age",
+            "description": "<i>Burchfield to Schreckengost: Cleveland Art of the Jazz Age</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 28-July 18, 2004).",
+            "opening_date": "2004-03-28T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; March 28 - July 18, 2004. \"Burchfield to Schreckengost: Cleveland Art of the Jazz Age\", no exhibition catalogue.",
+            "opening_date": "2004-03-28T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [
+        {
+          "id": 108615,
+          "description": "The High Level Bridge, Cleveland, 1926. Rudolph Ruzicka (American, born Bohemia, 1883–1978). Color woodcut; image: 17.9 x 12.9 cm (7 1/16 x 5 1/16 in.); sheet: 26 x 19.4 cm (10 1/4 x 7 5/8 in.). The Cleveland Museum of Art, Gift of The Print Club of Cleveland, 1926.308",
+          "relationship": "study for"
+        }
+      ],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "In 1926, the Print Club of Cleveland commissioned Ruzicka to produce a work for its members. He spent several months sketching in the Flats before selecting the recently constructed “High Level” or Detroit-Superior Bridge as his subject. Obviously working outdoors in the Flats, Ruzicka rendered the scene with remarkably sure and precise drawing.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80012268"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1938.282",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of the Artist",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 117629,
+      "creators": [
+        {
+          "id": 32473,
+          "description": "Rudolph Ruzicka (American, born Bohemia, 1883–1978)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Born in Bohemia, Rudolph Ruzicka immigrated with his family to Chicago in 1894. At the age of 14, he left school to become a wood-engraving apprentice at the Franklin Engraving Company in Chicago. He attended evening classes at the Art Institute of Chicago as well as weekend drawing classes at Hull House, 1897–1900. He moved to New York to work as a commericial printmaker in 1903. He had solo exhibitions in Cleveland at Korner &amp; Wood Galleries (1913) and the Cleveland Museum of Art (1917). He traveled to Cleveland and sketched the city after receiving a commission to create work for the Cleveland Print Club in 1927. He moved to Boston during the late 1940s and over the subsequent decades added book illustration to his career achievements. Ruzicka died in Hanover, New Hampshire. <br>\"Transformations in Cleveland Art\" (CMA, 1996), p. 235",
+          "name_in_original_language": null,
+          "birth_year": "1883",
+          "death_year": "1978",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1938-06-03T00:00:00",
+      "sortable_date": 1926,
+      "date_added_to_oa": null,
+      "date_text": "1926",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:35.040000"
+    },
+    {
+      "id": 157316,
+      "accession_number": "1994.17",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Confrontation on the Bridge, 1975. Jacob Lawrence (American, 1917–2000). Screenprint; sheet: 49.5 x 66 cm (19 1/2 x 26 in.). The Cleveland Museum of Art, Anne Elizabeth Wilson Memorial Fund, 1994.17. ©  The Jacob and Gwendolyn Knight Lawrence Foundation, Seattle / Artists Rights Society (ARS), New York",
+      "current_location": null,
+      "title": "Confrontation on the Bridge",
+      "creation_date": "1975",
+      "creation_date_earliest": 1975,
+      "creation_date_latest": 1975,
+      "artists_tags": [
+        "Black American Artists",
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "screenprint",
+      "support_materials": [],
+      "department": "Prints",
+      "collection": "PR - Screenprint",
+      "type": "Print",
+      "measurements": "Sheet: 49.5 x 66 cm (19 1/2 x 26 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.495,
+          "width": 0.66
+        },
+        "mat size": {
+          "height": 0.654,
+          "width": 0.864
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "©  The Jacob and Gwendolyn Knight Lawrence Foundation, Seattle / Artists Rights Society (ARS), New York",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 204176,
+            "title": "Our Stories: African American Prints and Drawings",
+            "description": "<i>Our Stories: African American Prints and Drawings</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 24-May 18, 2014).",
+            "opening_date": "2014-01-24T00:00:00"
+          },
+          {
+            "id": 453007,
+            "title": "Julie Mehretu: Portals",
+            "description": "<i>Julie Mehretu: Portals</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 16-November 13, 2022).",
+            "opening_date": "2022-07-16T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "When Jacob Lawrence was commissioned to execute a print to celebrate the United States' bicentennial in 1976, he illustrated the March 7, 1965, march by unarmed protesters objecting to the denial of African Americans' right to vote. The march began in Selma, Alabama, but before the 600 protesters could reach the state capital in Montgomery, law enforcement officials attacked them with clubs and tear gas as they crossed the Edmund Pettus Bridge; Lawrence symbolized the malicious and brutal attack by including the vicious dog at the left edge of the scene. Two days later, with court protection, Martin Luther King Jr. led now 25,000 marchers to Montgomery. Outraged by the barbarity of the civil rights struggle, the U.S. Congress passed and President Lyndon Johnson signed the Voting Rights Act later that year. Lawrence's strong colors and compact composition relay the intensity and injustice of the violence inflicted on the peaceful protesters.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79973418"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "catalogue_raisonne": "Nesbett L75-2",
+      "url": "https://clevelandart.org/art/1994.17",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Anne Elizabeth Wilson Memorial Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 157316,
+      "creators": [
+        {
+          "id": 4050,
+          "description": "Jacob Lawrence (American, 1917–2000)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Jacob Lawrence (born 1917) has been a prominent artist since 1941 when, at age 24, he became the first African American to have a work in the permanent collection of the Museum of Modern Art in New York. His career, now spanning seven decades, has been devoted to documenting African-American life and history, from everyday scenes to the universal struggle for freedom, social justice, and human dignity. Moving to Harlem as a teenager in 1930, Lawrence was influenced by the artists, writers, and philosophers of the Harlem Renaissance-among them Romare Bearden, Langston Hughes, and W.E.B. DuBois-who fostered pride in African-American culture. Lawrence's subjects include the legendary abolitionist heroes Frederick Douglass, Harriet Tubman, and John Brown, and the story of the massive migration of African Americans from the rural South to the industrialized, urban North during the early decades of the 20th century. After thorough research, Lawrence chronicles the crucial events of each saga by creating a series of small paintings on paper in a modernist style of flat, brightly-colored forms.",
+          "name_in_original_language": null,
+          "birth_year": "1917",
+          "death_year": "2000",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1994-05-24T00:00:00",
+      "sortable_date": 1975,
+      "date_added_to_oa": null,
+      "date_text": "1975",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:48.550000"
+    },
+    {
+      "id": 153597,
+      "accession_number": "1987.130",
+      "share_license_status": "CC0",
+      "tombstone": "The Bridge of Palalda (near Amelieles-Bains) , 1851–1852. Gustave Le Gray (French, 1820–1884). Salted paper print from waxed paper negative; image: 23.8 x 32.7 cm (9 3/8 x 12 7/8 in.); matted: 50.8 x 61 cm (20 x 24 in.). The Cleveland Museum of Art, John L. Severance Fund, 1987.130",
+      "current_location": null,
+      "title": "The Bridge of Palalda (near Amelieles-Bains) ",
+      "creation_date": "1851–1852",
+      "creation_date_earliest": 1851,
+      "creation_date_latest": 1852,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "salted paper print from waxed paper negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - French 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 23.8 x 32.7 cm (9 3/8 x 12 7/8 in.); Matted: 50.8 x 61 cm (20 x 24 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.238,
+          "width": 0.327
+        },
+        "matted": {
+          "height": 0.508,
+          "width": 0.61
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on recto of mount: \"Gustave LeGray c. 1851\"; in pencil on verso: \"Le Gray\"; \"g [in center of a triangle - monogram ?]\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 310231,
+            "title": "The Year in Review for 1987",
+            "description": "<i>The Year in Review for 1987</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 24-April 17, 1988).",
+            "opening_date": "1988-02-24T05:00:00"
+          },
+          {
+            "id": 178867,
+            "title": "Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art",
+            "description": "<i>Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 26-June 16, 2005).",
+            "opening_date": "2005-02-26T00:00:00"
+          },
+          {
+            "id": 197576,
+            "title": "France at the Dawn of Photography",
+            "description": "<i>France at the Dawn of Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 4, 2009-January 24, 2010).",
+            "opening_date": "2009-10-04T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, February 24 - April 17, 1988: \"Year in Review 1987,\" CMA Bulletin, 75 (February 1988), p. 67, no. 65.",
+            "opening_date": "1988-02-24T00:00:00"
+          },
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; February 26 - June 16, 2005 . \"Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art\".",
+            "opening_date": "2005-02-26T00:00:00"
+          },
+          {
+            "description": "The Cleveland Museum of Art (10/04/2009 - 01/24/2010); \"France at the Dawn of Photography\"",
+            "opening_date": "2009-10-04T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "From July through September 1851, Le Gray and his friend O. Mestral traveled throughout southwest France for the Historic Monuments Commission to document ancient, particularly medieval, monuments of historical importance or in urgent need of or undergoing restoration. This rare, beautifully toned photograph by Le Gray is one of three known positive prints of different subjects that were completely outside the commission’s prescribed program. This picturesque image was taken from the left bank of the Tech River, situated below the old town of Palalda, now a part of Amelie-les-Bains in Pyrenees-Orientales. With his keen eye for artistic compositions, Le Gray stressed the rugged landscape over a detailed, close-up rendering of the ancient bridge. The foreshortened, sheer cliff seems to blend into the structure, resulting in visual uncertainty and spatial tension.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79939521"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1987.130-the-bridge-of-palald"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 221",
+          "url": ""
+        },
+        {
+          "citation": "Hinson, Tom E. \"The Monet of Photography.\" <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 45, no. 4 (April 2005): 6-8.",
+          "page_number": "Mentioned and reproduced: p. 6",
+          "url": "https://archive.org/details/CMAMM2005-04/page/6/mode/2up"
+        }
+      ],
+      "url": "https://clevelandart.org/art/1987.130",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1987.130/1987.130_web.jpg",
+          "width": "900",
+          "height": "658",
+          "filesize": "306217",
+          "filename": "1987.130_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1987.130/1987.130_print.jpg",
+          "width": "3400",
+          "height": "2484",
+          "filesize": "2234326",
+          "filename": "1987.130_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1987.130/1987.130_full.tif",
+          "width": "6537",
+          "height": "4776",
+          "filesize": "93687824",
+          "filename": "1987.130_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1987.130/1987.130_alt0_web.jpg",
+            "width": "1218",
+            "height": "893",
+            "filesize": "877277"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1987.130/1987.130_alt0_print.jpg",
+            "width": "3400",
+            "height": "2493",
+            "filesize": "5194185"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1987.130/1987.130_alt0_full.tif",
+            "width": "5000",
+            "height": "3666",
+            "filesize": "55019508"
+          }
+        },
+        {
+          "date_created": "2005-01-24T17:54:08",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1987.130/1987.130_alt1_web.jpg",
+            "width": "1218",
+            "height": "893",
+            "filesize": "868294"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1987.130/1987.130_alt1_print.jpg",
+            "width": "3400",
+            "height": "2493",
+            "filesize": "5254908"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1987.130/1987.130_alt1_full.tif",
+            "width": "5000",
+            "height": "3666",
+            "filesize": "55014356"
+          }
+        }
+      ],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 153597,
+      "creators": [
+        {
+          "id": 568,
+          "description": "Gustave Le Gray (French, 1820–1884)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Gustave Le Gray French, 1820-1884\r\n\r\nA master both technically and aesthetically, Gustave Le Gray (born in Villiers-le-Bel) was one of the most important figures in 19th-century French photography, bringing to the medium artistic integrity and visual imagination. Le Gray, trained as a painter, was exhibiting his work in the Paris Salons in the late 1840s and early 1850s when he became interested in photography. Along with Henri Le Secq and Charles Nègre, he was a student of Paul Delaroche, a painter of considerable reputation and ability who was one of the first to grasp the importance of photography.\r\n\tIn 1851 Le Gray announced his invention of a waxed paper negative, a significant improvement over earlier paper methods that was later adopted by Louis de Clercq, Dr. August Jakob Lorent, and others. That same year the Commission des Monuments historiques named him as one of five photographers of the Mission héliographique, for which he produced well-known studies of army maneuvers at Chalons. Le Gray also worked with François Arago, the scientist and champion of Louis-Jacques-Mandé Daguerre, and later proposed a new method of toning prints, among other innovations.\r\n\tLe Gray was perhaps most admired for the effects he achieved with water and sky. To capture the subtle qualities of cloud patterns in some of his seascapes, he employed two negatives to produce the final image. His commissioned studies of historic monuments are classic examples of early architectural photography. In the early 1850s he worked in the Barbizon tradition at Fontainebleau and, in 1860, documented the uprising against François II in Palermo. He was a founding member of the Société héliographique and the Société française de photographie. Despite his influence and artistic success, Le Gray left Paris in 1865 to become a professor of design at the École Polytechnique in Cairo. He died in Egypt. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1820",
+          "death_year": "1884",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1987-09-21T00:00:00",
+      "sortable_date": 1851,
+      "date_added_to_oa": null,
+      "date_text": "1851–1852",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 16:32:39.408000"
+    },
+    {
+      "id": 125930,
+      "accession_number": "1948.156.9",
+      "share_license_status": "CC0",
+      "tombstone": "Some Scenes of Parisian Life: Bridge, 1899. Pierre Bonnard (French, 1867–1947), Published by Ambroise Vollard; Printed by Auguste Clot. Lithograph; sheet: 40.9 x 53.3 cm (16 1/8 x 21 in.); image: 27 x 41 cm (10 5/8 x 16 1/8 in.). The Cleveland Museum of Art, Gift of the Hanna Fund, 1948.156.9",
+      "current_location": null,
+      "title": "Bridge",
+      "series": "Some Scenes of Parisian Life",
+      "creation_date": "1899",
+      "creation_date_earliest": 1899,
+      "creation_date_latest": 1899,
+      "artists_tags": [
+        "Nabis",
+        "male"
+      ],
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "lithograph",
+      "support_materials": [
+        {
+          "description": "cream (1) china paper",
+          "watermarks": []
+        }
+      ],
+      "department": "Prints",
+      "collection": "PR - Lithograph",
+      "type": "Print",
+      "measurements": "Sheet: 40.9 x 53.3 cm (16 1/8 x 21 in.); Image: 27 x 41 cm (10 5/8 x 16 1/8 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.409,
+          "width": 0.533
+        },
+        "image": {
+          "height": 0.27,
+          "width": 0.41
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": "100",
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 309882,
+            "title": "Prints by Toulouse-Lautrec and Bonnard",
+            "description": "<i>Prints by Toulouse-Lautrec and Bonnard</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 3, 1985-March 2, 1986).",
+            "opening_date": "1985-12-03T05:00:00"
+          },
+          {
+            "id": 329533,
+            "title": "Private Lives: Home and Family in the Art of the Nabis, Paris, 1889–1900",
+            "description": "<i>Private Lives: Home and Family in the Art of the Nabis, Paris, 1889–1900</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (co-organizer) (July 1-September 19, 2021); Portland Art Museum, Portland, OR (co-organizer) (October 23, 2021-January 23, 2022).",
+            "opening_date": "2021-07-01T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "The Art Institute of Chicago",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [
+        "1948.164"
+      ],
+      "did_you_know": null,
+      "description": "This suite of color lithographs collected Pierre Bonnard’s observations of city life, ranging from animated street scenes to distant observations glimpsed from the artist’s Montmartre studio window. Rather than memorializing the famous monuments of Paris, Bonnard preferred to depict small neighborhood scenes populated by urbanites shopping and strolling and by vendors selling their wares. The setting for one of the prints is the second-largest public park in Paris, the Bois de Boulogne, which was a popular place for families to relax, stroll, and enjoy carriage rides around the lakes. Two prints are nocturnal scenes in which gaslight emanating from shop windows is reflected on the wet streets, creating passages of bright yellow in the otherwise dark compositions. Bonnard’s favorite subjects, such as the Parisienne—a young, fashionable, modern woman—as well as children and dogs, appear repeatedly throughout the prints in the suite.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79905077"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1948.156.9-bridge"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Francis, Henry. \"The Art of Pierre Bonnard.\"<em> The Bulletin of the Cleveland Museum of Art </em>37, no. 1 (January 1950): 5-8.",
+          "page_number": "Mentioned: p. 5; Reproduced: p. 19",
+          "url": "https://www.jstor.org/stable/25141599"
+        },
+        {
+          "citation": "Brown, Heather Lemonedes. “The Nabi City.” In <em>Private Lives: Home and Family in the Art of the Nabis, Paris, 1889-1900</em>. Mary Weaver Chapin and Heather Lemonedes Brown, 222-261. Cleveland: Cleveland Museum of Art, 2021.",
+          "page_number": "Mentioned: P. 231; Reproduced: P. 253, no. 169",
+          "url": ""
+        }
+      ],
+      "catalogue_raisonne": "Bouvet 66",
+      "url": "https://clevelandart.org/art/1948.156.9",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1948.156.9/1948.156.9_web.jpg",
+          "width": "1263",
+          "height": "822",
+          "filesize": "797341",
+          "filename": "1948.156.9_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1948.156.9/1948.156.9_print.jpg",
+          "width": "3400",
+          "height": "2212",
+          "filesize": "5872975",
+          "filename": "1948.156.9_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1948.156.9/1948.156.9_full.tif",
+          "width": "5041",
+          "height": "3279",
+          "filesize": "49620476",
+          "filename": "1948.156.9_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Gift of the Hanna Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 125930,
+      "creators": [
+        {
+          "id": 1733,
+          "description": "Pierre Bonnard (French, 1867–1947)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Pierre Bonnard was a law student when he began his artistic training in 1887 at the Académie Julian in Paris, where he met Paul Sérusier (1864-1927) and the theorist and painter Maurice Denis (1870-1943). Both would be influential in his artistic career and become Bonnard's lifelong friends. In 1889, the year he obtained his law degree, he saw the exhibition at Café Volpini (see Gauguin, Woman in the Waves, no. 100) and was particularly impressed with Gauguin's work. Sérusier, after having returned from studying with Gauguin in Pont-Aven, decided to form his own artistic group called the Nabis (Hebrew: prophets). The founding members of the Nabis included Denis, who wrote the manifesto for the group, \"Définition du néo-traditionnisme\" (published in May 1890 in Art et critique), Bonnard, Paul Ranson (1864-1909), and Henri-Gabriel Ibels (1867-1936). Their first exhibition occurred in 1891, and they were later joined by Ker-Xavier Roussel (1867-1944) and Vuillard (q.v.). Based loosely on the synthetist goals established by Gauguin and Émile Bernard, the movement was created from Sérusier's vision of an artistic brotherhood dedicated to symbolism whereby a universal language could be expressed through symbols. The Nabis were opposed to the naturalism taught at academies by artists such as Bouguereau (q.v.) and wanted to move away from didactic and moral paintings toward a more decorative style characterized by simplified drawing, flat patches of color, and heavy set contours. Bonnard's works of the 1890s were influenced by the innovations of Gauguin as well as Japanese prints, which were easily accessible in nineteenth-century Paris. His paintings took on a decorative quality, mirroring his artistic expressions in other media such as stained glass, furniture, pottery, and painted screens. Bonnard's and Vuillard's domestic interior paintings of the 1890s were often described using the term intimisme. In 1891 Bonnard also experimented with other media, including poster designs and lithographs, which inspired his friend Henri de Toulouse-Lautrec (1864-1901), whom he had met through La revue blanche, a magazine that published the Nabis' work. Around 1900 the members of the Nabis began to drift apart. Between 1905 and 1910 Bonnard and Vuillard traveled to England, Belgium, Holland, Spain, and Italy, visiting many museums. Bonnard's art began to gravitate toward impressionism, but his colors were more expressive and his compositions more overtly structured; elements of the painted interiors such as doors, windows or pieces of furniture often provided a strong compositional framework. He also worked extensively with photographs. His late works were acclaimed by fellow Parisians like Henri Matisse (1869-1954) and Paul Signac (1863-1935). After 1920 Bonnard exhibited extensively and became an internationally renowned artist, receiving much recognition in the United States, where he traveled in 1926.",
+          "name_in_original_language": null,
+          "birth_year": "1867",
+          "death_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 69023,
+          "description": "Published by Ambroise Vollard; Printed by Auguste Clot",
+          "extent": null,
+          "qualifier": null,
+          "role": "published by",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1948-06-15T00:00:00",
+      "sortable_date": 1899,
+      "date_added_to_oa": null,
+      "date_text": "1899",
+      "collapse_artists": true,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "1948.156",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:32.332000"
+    },
+    {
+      "id": 149662,
+      "accession_number": "1979.54",
+      "share_license_status": "CC0",
+      "tombstone": "Rain-coming Pavilion by the Stone Bridge at Mt. Tiantai (天台石梁, 雨來亭圖), 1848. Dai Xi (Chinese, 1801–1860). Handscroll, ink on paper; image: 34.5 x 142.6 cm (13 9/16 x 56 1/8 in.). The Cleveland Museum of Art, Norman O. Stone and Ella A. Stone Memorial Fund, 1979.54",
+      "current_location": null,
+      "title": "Rain-coming Pavilion by the Stone Bridge at Mt. Tiantai",
+      "title_in_original_language": "天台石梁, 雨來亭圖",
+      "creation_date": "1848",
+      "creation_date_earliest": 1848,
+      "creation_date_latest": 1848,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "handscroll, ink on paper",
+      "support_materials": [],
+      "department": "Chinese Art",
+      "collection": "ASIAN - Handscroll",
+      "type": "Painting",
+      "measurements": "Image: 34.5 x 142.6 cm (13 9/16 x 56 1/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.345,
+          "width": 1.426
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Artist's inscription, signature, and 2 seals: \n\nPainting of Rain-Coming Pavilion by the Stone Bridge at Mount Tiantai. In the twenty-eighth year of the Daoguang era [1848], the third lunar month, requested by and painted for Pan Gongfu 潘功甫 [Pan Zengyi 潘曾沂], a senior family friend. [signed] Your junior, Dai Xi from Qiantang. \n[seal] Hebi jian Dai 何必見戴. \n[seal, lower right corner] Shih-ping yeh.",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Title on frontispiece and 3 seals of Ruan Yuan (1764-1849). 1 colophon and 10 additional seals: 1 colophon, dated 1838, and 8 seals of Pan Zengyi (1792-1853); 2 seals unidentified.",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Colophon by Pan Zengyi:\nThe T'anhua [a flower that blooms only momentarily in semi-tropical areas] Pavilion near Shiliang [the natural stone bridge] was built by the Grand Chancellor Jia. It lasted over seven hundred years. After it was destroyed this year, I happened to be there, so I suggested it be reconstructed. Among the six poems commemorating my visit, one reads:\n\nThe career of the Prime Minister may be as great as the rivers and lakes,/\nUnaware himself of the fact there is leaking./\nI had been all over the seventy-two peaks of P'eng-lai mountains/\nWhen the timely rain came to T'an-hua Pavilion.\n\n\tIt had not been raining for a long time there, then unexpectedly, the rain came simultaneously with my arrival; the old monk there asked me to change the name to Rain-Coming Pavilion, in order to record the joy. The hilly fields at Mt. Tiantai have suffered by droughts. If, from this year on, they have the timely rain to bring along bountiful harvests and make people happy - so may this pavilion be our witness.\n\tHsiao-fu shan-jen, Pan Zengyi recorded this on the first day of the twelfth lunar month in the wuxu year [1838]. Chiang Yung-ching copied respectfully on the first day of the sixth lunar month in the wushen year [1848].\n\ntrans. LYSL/WKH",
+          "inscription_translation": null,
+          "inscription_remark": "The notorious Grand Chancellor Jia Sidao 賈似道 (1213-1275) served during the reigns of Emperor Lizong and Emperor Duzong before the end of the Southern Song Dynasty.",
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 304412,
+            "title": "Year in Review: 1979",
+            "description": "<i>Year in Review: 1979</i>. The Cleveland Museum of Art (organizer) (February 13-March 9, 1980).",
+            "opening_date": "1980-02-13T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "<em>Eight Dynasties of Chinese Painting</em>. The Nelson-Atkins Museum of Art (November 7, 1980-January 4, 1981); The Cleveland Museum of Art (February 10-March 29, 1981); Tokyo National Museum (October 4-November 17, 1982).",
+            "opening_date": "1981-02-10T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Wan-go H. C. Weng 翁萬戈 [1918–2020], Lyme, NH, sold to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1979",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1979–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Dai Xi actively resisted the Taiping rebels and drowned himself after their 1860 capture of his hometown, Hangzhou. For this loyal deed, Dai was posthumously rewarded with a temple built in his name.",
+      "description": "The subject is not just Mount Tiantai in Zhejiang Province, the ancient seat of the most powerful Buddhist sect of Sui and Tang dynasties, but records a specific occasion in 1838 when an official visited Tiantai and began the reconstruction of a historic pavilion. As this coincided with the end of a long drought, the building was auspiciously renamed the Yulai (Rain-Coming 雨來) Pavilion. Ten years later, Dai Xi painted this handscroll to commemorate the occasion.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60474040"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1979.54-rain-coming-pavilion"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Lee, Sherman E. \"The Year in Review for 1979.\" <em>The Bulletin of the Cleveland Museum of Art</em> 67, no. 3 (1980): 58-99.",
+          "page_number": "Reproduced: cat. no. 122, p. 87",
+          "url": "https://www.jstor.org/stable/25159667"
+        },
+        {
+          "citation": "Ho, Wai-kam, Sherman E. Lee, Laurence Sickman, and Marc F. Wilson. <em>Eight Dynasties of Chinese Painting: The Collections of the Nelson Gallery-Atkins Museum, Kansas City, and the Cleveland Museum of Art</em>. Cleveland, OH: Cleveland Museum of Art, in cooperation with Indiana University Press, 1980.",
+          "page_number": "Reproduced: cat. no. 282, pp. 382-383",
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/1979.54",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.54/1979.54_web.jpg",
+          "width": "900",
+          "height": "101",
+          "filesize": "111936",
+          "filename": "1979.54_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.54/1979.54_print.jpg",
+          "width": "3400",
+          "height": "383",
+          "filesize": "350351",
+          "filename": "1979.54_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.54/1979.54_full.tif",
+          "width": "12000",
+          "height": "1350",
+          "filesize": "48621900",
+          "filename": "1979.54_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2004-04-14T12:39:50",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1979.54/1979.54_alt0_web.jpg",
+            "width": "1263",
+            "height": "430",
+            "filesize": "296726"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1979.54/1979.54_alt0_print.jpg",
+            "width": "3400",
+            "height": "1157",
+            "filesize": "2094684"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1979.54/1979.54_alt0_full.tif",
+            "width": "5000",
+            "height": "1702",
+            "filesize": "25551100"
+          }
+        },
+        {
+          "date_created": "2004-04-14T12:38:24",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1979.54/1979.54_alt1_web.jpg",
+            "width": "1263",
+            "height": "430",
+            "filesize": "327599"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1979.54/1979.54_alt1_print.jpg",
+            "width": "3400",
+            "height": "1157",
+            "filesize": "2260113"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1979.54/1979.54_alt1_full.tif",
+            "width": "5000",
+            "height": "1702",
+            "filesize": "25551100"
+          }
+        },
+        {
+          "date_created": "2004-04-14T12:36:23",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1979.54/1979.54_alt2_web.jpg",
+            "width": "1263",
+            "height": "434",
+            "filesize": "442972"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1979.54/1979.54_alt2_print.jpg",
+            "width": "3400",
+            "height": "1168",
+            "filesize": "3111461"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1979.54/1979.54_alt2_full.tif",
+            "width": "5000",
+            "height": "1718",
+            "filesize": "25791100"
+          }
+        },
+        {
+          "date_created": "2004-04-14T12:34:34",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1979.54/1979.54_alt3_web.jpg",
+            "width": "1263",
+            "height": "490",
+            "filesize": "337224"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1979.54/1979.54_alt3_print.jpg",
+            "width": "3400",
+            "height": "1320",
+            "filesize": "2509407"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1979.54/1979.54_alt3_full.tif",
+            "width": "5000",
+            "height": "1942",
+            "filesize": "29151100"
+          }
+        }
+      ],
+      "creditline": "Norman O. Stone and Ella A. Stone Memorial Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 149662,
+      "creators": [
+        {
+          "id": 31374,
+          "description": "Dai Xi (Chinese, 1801–1860)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "戴熙",
+          "birth_year": "1801",
+          "death_year": "1860",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1979-08-17T00:00:00",
+      "sortable_date": 1848,
+      "date_added_to_oa": null,
+      "date_text": "1848",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Rain-coming Pavilion by the Stone Bridge at Mt. T'ien-t'ai",
+        "T'ien-t'ai Shih-liang, Yü-lai-t'ing t'u"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:05:20.155000"
+    },
+    {
+      "id": 162579,
+      "accession_number": "2003.201",
+      "share_license_status": "Copyrighted",
+      "tombstone": "From Chippewa Road Bridge, 1991. Lois Conner (American, b. 1951). Platinum print; image: 16.6 x 42 cm (6 9/16 x 16 9/16 in.); matted: 35.6 x 58.4 cm (14 x 23 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, The Cleveland Museum of Art, 2003.201",
+      "current_location": null,
+      "title": "From Chippewa Road Bridge",
+      "creation_date": "1991",
+      "creation_date_earliest": 1991,
+      "creation_date_latest": 1991,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "platinum print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 16.6 x 42 cm (6 9/16 x 16 9/16 in.); Matted: 35.6 x 58.4 cm (14 x 23 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.166,
+          "width": 0.42
+        },
+        "matted": {
+          "height": 0.356,
+          "width": 0.584
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 185916,
+            "title": "A City Seen: Photographs from The George Gund Foundation Collection",
+            "description": "<i>A City Seen: Photographs from The George Gund Foundation Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 17, 2002-January 26, 2003).",
+            "opening_date": "2002-11-17T00:00:00"
+          },
+          {
+            "id": 199873,
+            "title": "Contemporary Landscape Photography",
+            "description": "<i>Contemporary Landscape Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 26-August 14, 2011).",
+            "opening_date": "2011-03-26T00:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "The George Gund Foundation Collection",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "In 1991 Conner was commissioned by the George Gund Foundation to create a new body of work surveying the Cuyahoga River for the foundation’s annual report. From the elevated vantage point of the Chippewa Road Bridge in Brecksville, Ohio, she created with her antique 7-by-17-inch view camera a sweeping panorama of the Cuyahoga River Valley bathed in a distinctive glow. A narrow towpath follows the twisting waterbed as it winds through a densely wooded landscape. The pathway was originally part of the Ohio and Erie Canal but now provides recreational opportunities for this scenic natural environment. The combination of her large negative and the platinum printing process produced an image with limitless depth of field, subtly graduated shades of gray, and extraordinary depiction of details.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79987250"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Friedlander, Lee, and John Szarkowski. <em>A City Seen: Photographs from the George Gund Foundation Collection</em>. [Cleveland, Ohio]: The Cleveland Museum of Art, 2002.",
+          "page_number": "p. 46",
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/2003.201",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The George Gund Foundation Collection in honor of David Bergholz, The Cleveland Museum of Art",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 162579,
+      "creators": [
+        {
+          "id": 42873,
+          "description": "Lois Conner (American, b. 1951)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1951",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2003-09-02T00:00:00",
+      "sortable_date": 1991,
+      "date_added_to_oa": null,
+      "date_text": "1991",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:38.297000"
+    }
+  ]
+}

@@ -1,0 +1,2663 @@
+{
+  "info": {
+    "total": 98,
+    "parameters": {
+      "skip": 0,
+      "limit": 20,
+      "q": "garden photograph",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,collection,department,classification_type,gallery",
+      "search": "garden photograph"
+    }
+  },
+  "data": [
+    {
+      "id": 325424,
+      "accession_number": "2019.53",
+      "share_license_status": "CC0",
+      "tombstone": "Street Life in London: Covent Garden Labourers, 1877. John Thomson (Scottish, 1837–1921). Woodburytype; image: 11.4 x 8.6 cm (4 1/2 x 3 3/8 in.); paper: 11.4 x 8.6 cm (4 1/2 x 3 3/8 in.); mounted: 27 x 20.7 cm (10 5/8 x 8 1/8 in.). The Cleveland Museum of Art, Photography Discretionary Fund, 2019.53",
+      "current_location": null,
+      "title": "Covent Garden Labourers",
+      "series": "Street Life in London",
+      "creation_date": "1877",
+      "creation_date_earliest": 1877,
+      "creation_date_latest": 1877,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "woodburytype",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 11.4 x 8.6 cm (4 1/2 x 3 3/8 in.); Paper: 11.4 x 8.6 cm (4 1/2 x 3 3/8 in.); Mounted: 27 x 20.7 cm (10 5/8 x 8 1/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.114,
+          "width": 0.086
+        },
+        "paper": {
+          "height": 0.114,
+          "width": 0.086
+        },
+        "mounted": {
+          "height": 0.27,
+          "width": 0.207
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Stamped in red ink on recto of mount: “COVENT GARDEN LABOURERS.”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 455214,
+            "title": "Photographs in Ink",
+            "description": "<i>Photographs in Ink</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 20, 2022-April 2, 2023).",
+            "opening_date": "2022-11-19T05:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Antiquariat Dr. Jens Mattow, Berlin, Germany)",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "March 4, 2019",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The wholesale flower market at Covent Garden contained over 500 stands that employed around 4,000 men as growers and deliverymen.",
+      "description": "Covent Garden workers, whose day started before 5 a.m., were divided into job-workers or odd-men—who were paid for each parcel they delivered and thus received little income in the off-seasons—and a much smaller group of salaried workers who were paid year-round to create arrangements and stock and help run the stalls.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79875949"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2019.53-covent-garden-labour"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2019.53",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.53/2019.53_web.jpg",
+          "width": "689",
+          "height": "900",
+          "filesize": "269062",
+          "filename": "2019.53_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.53/2019.53_print.jpg",
+          "width": "2602",
+          "height": "3400",
+          "filesize": "2457573",
+          "filename": "2019.53_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.53/2019.53_full.tif",
+          "width": "7532",
+          "height": "9841",
+          "filesize": "222396776",
+          "filename": "2019.53_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2019-11-19T15:54:37",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2019.53/2019.53_alt0_web.jpg",
+            "width": "700",
+            "height": "900",
+            "filesize": "216802"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2019.53/2019.53_alt0_print.jpg",
+            "width": "2643",
+            "height": "3400",
+            "filesize": "3090472"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2019.53/2019.53_alt0_full.tif",
+            "width": "8936",
+            "height": "11496",
+            "filesize": "308211636"
+          }
+        }
+      ],
+      "creditline": "Photography Discretionary Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 325424,
+      "creators": [
+        {
+          "id": 20005,
+          "description": "John Thomson (Scottish, 1837–1921)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "John Thomson British, b. Scotland, 1837-1921 John Thomson studied chemistry at the University of Edinburgh in his native city. While best known for his views of street life in London, Thomson spent his early photographic career in the Far East. Between 1863-73, based at a studio in Singapore, he photographed India, Ceylon (now Sri Lanka), Thailand, Cambodia, and Vietnam. He spent two years photographing China, an ambitious project for which he traveled more than 5,500 miles. Returning to England, Thomson used his experiences, and his 2,000 negatives, to write and publish Illustrations of China and Its People (1873-74), a monumental four-volume work containing 200 collotype illustrations with descriptive text. In 1877 he collaborated with journalist Adolph Smith to publish Street Life in London, one of the first books to combine text with photographic illustrations (36 Woodburytype plates of London's poor) to document sociological case histories. In 1886 Thomson was appointed instructor of photography to the Royal Geographic Society, where he was a Fellow until his death. He became official photographer to Queen Victoria in 1881 and in 1910 received the same appointment under King George V. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1837",
+          "death_year": "1921",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-03-04T00:00:00-05:00",
+      "sortable_date": 1877,
+      "date_added_to_oa": null,
+      "date_text": "1877",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:13.619000"
+    },
+    {
+      "id": 325420,
+      "accession_number": "2019.49",
+      "share_license_status": "CC0",
+      "tombstone": "Street Life in London: Covent Garden Flower Women, 1877. John Thomson (Scottish, 1837–1921). Woodburytype; image: 11 x 7.9 cm (4 5/16 x 3 1/8 in.); paper: 11 x 7.9 cm (4 5/16 x 3 1/8 in.); mounted: 27.1 x 20.8 cm (10 11/16 x 8 3/16 in.). The Cleveland Museum of Art, Photography Discretionary Fund, 2019.49",
+      "current_location": null,
+      "title": "Covent Garden Flower Women",
+      "series": "Street Life in London",
+      "creation_date": "1877",
+      "creation_date_earliest": 1877,
+      "creation_date_latest": 1877,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "woodburytype",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 11 x 7.9 cm (4 5/16 x 3 1/8 in.); Paper: 11 x 7.9 cm (4 5/16 x 3 1/8 in.); Mounted: 27.1 x 20.8 cm (10 11/16 x 8 3/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.11,
+          "width": 0.079
+        },
+        "paper": {
+          "height": 0.11,
+          "width": 0.079
+        },
+        "mounted": {
+          "height": 0.271,
+          "width": 0.208
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Stamped in red ink on recto of mount: “COVENT GARDEN FLOWER WOMEN.”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Antiquariat Dr. Jens Mattow, Berlin, Germany)",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "March 4, 2019",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "These are the real-life counterparts of Eliza Doolittle in the musical <em>My Fair Lady</em>, who started out selling flowers in Covent Garden.",
+      "description": "Thomson’s collaborator, reporter Adolphe Smith said that “The familiar sight of a poor woman holding a pale child in her arms and offering modest violets to the pedestrian, is pregnant with a poetry which rags, and dirt fail to obliterate.” The jobs, which were passed down between generations, required worked long hours and yielded a meager income.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79875941"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2019.49-covent-garden-flower"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2019.49",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.49/2019.49_web.jpg",
+          "width": "655",
+          "height": "900",
+          "filesize": "264834",
+          "filename": "2019.49_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.49/2019.49_print.jpg",
+          "width": "2476",
+          "height": "3400",
+          "filesize": "2699145",
+          "filename": "2019.49_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.49/2019.49_full.tif",
+          "width": "6862",
+          "height": "9421",
+          "filesize": "193970048",
+          "filename": "2019.49_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2019-11-19T15:51:00",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2019.49/2019.49_alt0_web.jpg",
+            "width": "700",
+            "height": "900",
+            "filesize": "212188"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2019.49/2019.49_alt0_print.jpg",
+            "width": "2643",
+            "height": "3400",
+            "filesize": "2993569"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2019.49/2019.49_alt0_full.tif",
+            "width": "8936",
+            "height": "11496",
+            "filesize": "308211464"
+          }
+        }
+      ],
+      "creditline": "Photography Discretionary Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 325420,
+      "creators": [
+        {
+          "id": 20005,
+          "description": "John Thomson (Scottish, 1837–1921)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "John Thomson British, b. Scotland, 1837-1921 John Thomson studied chemistry at the University of Edinburgh in his native city. While best known for his views of street life in London, Thomson spent his early photographic career in the Far East. Between 1863-73, based at a studio in Singapore, he photographed India, Ceylon (now Sri Lanka), Thailand, Cambodia, and Vietnam. He spent two years photographing China, an ambitious project for which he traveled more than 5,500 miles. Returning to England, Thomson used his experiences, and his 2,000 negatives, to write and publish Illustrations of China and Its People (1873-74), a monumental four-volume work containing 200 collotype illustrations with descriptive text. In 1877 he collaborated with journalist Adolph Smith to publish Street Life in London, one of the first books to combine text with photographic illustrations (36 Woodburytype plates of London's poor) to document sociological case histories. In 1886 Thomson was appointed instructor of photography to the Royal Geographic Society, where he was a Fellow until his death. He became official photographer to Queen Victoria in 1881 and in 1910 received the same appointment under King George V. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1837",
+          "death_year": "1921",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-03-04T00:00:00-05:00",
+      "sortable_date": 1877,
+      "date_added_to_oa": null,
+      "date_text": "1877",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:05:03.085000"
+    },
+    {
+      "id": 615498,
+      "accession_number": "2023.139",
+      "share_license_status": "Copyrighted",
+      "tombstone": "University Circle: Cleveland Botanical Garden, Western Reserve Herb Society Garden, 2007, printed 2008. Garie Waltzer (American, 1947-). Inkjet print; image: 33 x 33 cm (13 x 13 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, 2023.139",
+      "current_location": null,
+      "title": "Cleveland Botanical Garden, Western Reserve Herb Society Garden",
+      "series": "University Circle",
+      "creation_date": "2007, printed 2008",
+      "creation_date_earliest": 2007,
+      "creation_date_latest": 2007,
+      "artists_tags": [
+        "female",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "inkjet print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 33 x 33 cm (13 x 13 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.33,
+          "width": 0.33
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Garie Waltzer (the artist) [1947–], Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation Collection, Cleveland, OH, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007–23",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 11, 2023–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Cleveland’s University Circle neighborhood, which encompasses around 550 acres, contains numerous institutions and businesses that employ 30,000 people.",
+      "description": "Cleveland artist Garie Waltzer was commissioned to photograph University Circle for the Gund Foundation Annual Report in 2007. Her densely toned black-and-white photographs, many shot from elevated vantage points and employing deep vistas, reveal the Circle’s underlying structure: a graceful interweaving of nature and architecture united by elegantly drawn circulation patterns to produce a harmonious convergence of place and populace.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q123115893"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "George Gund Foundation, and Garie Waltzer. The George Gund Foundation: 2007 Annual Report. Cleveland: George Gund Foundation, 2007.",
+          "page_number": null,
+          "url": "https://gundfoundation.org/wp-content/uploads/2019/11/Gund-Annual-Report-2007.pdf"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2023.139",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The George Gund Foundation Collection in honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 615498,
+      "creators": [
+        {
+          "id": 54764,
+          "description": "Garie Waltzer (American, 1947-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2023-09-11T04:00:00Z",
+      "sortable_date": 2007,
+      "date_added_to_oa": null,
+      "date_text": "2007, printed 2008",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:22.899000"
+    },
+    {
+      "id": 155858,
+      "accession_number": "1991.161",
+      "share_license_status": "Copyrighted",
+      "tombstone": "The Magic Garden, c. 1950s. Josef Sudek (Czech, 1896–1976). Gelatin silver print; image: 12.6 x 16.9 cm (4 15/16 x 6 5/8 in.); paper: 17.7 x 23.9 cm (6 15/16 x 9 7/16 in.); matted: 35.6 x 45.7 cm (14 x 18 in.). The Cleveland Museum of Art, Andrew R. and Martha Holden Jennings Fund, 1991.161",
+      "current_location": null,
+      "title": "The Magic Garden",
+      "creation_date": "c. 1950s",
+      "creation_date_earliest": 1950,
+      "creation_date_latest": 1959,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Czechoslovakia, 20th century"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Czech",
+      "type": "Photograph",
+      "measurements": "Image: 12.6 x 16.9 cm (4 15/16 x 6 5/8 in.); Paper: 17.7 x 23.9 cm (6 15/16 x 9 7/16 in.); Matted: 35.6 x 45.7 cm (14 x 18 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.126,
+          "width": 0.169
+        },
+        "paper": {
+          "height": 0.177,
+          "width": 0.239
+        },
+        "matted": {
+          "height": 0.356,
+          "width": 0.457
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"42\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 311875,
+            "title": "Legacy of Light: Master Photographs from the Cleveland Museum of Art",
+            "description": "<i>Legacy of Light: Master Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 24, 1996-February 2, 1997).",
+            "opening_date": "1996-11-24T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, November 20,1996 - February 2, 1997: \"Legacy of Light: Master Photographs from the Cleveland Museum of Art.\"",
+            "opening_date": "1997-02-02T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "This lyrical image comes from one of Sudek's most inventive bodies of work—photographs of gardens. During World War II, he began this exploration by photographing his own small garden through a misty window pane; later, he added the gardens of his friends. From 1945 to 1960, Sudek photographed the architect Otto Rothmayer's garden, calling the series <em>The Magic Garden</em>. In this example, Sudek orchestrated a complex composition featuring chairs (one of his favorite motifs) and three large rocks. With transforming skill, he was able to humanize these inanimate objects, giving them distinctive personalities.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79944387"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 349",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1991.161",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Andrew R. and Martha Holden Jennings Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 155858,
+      "creators": [
+        {
+          "id": 979,
+          "description": "Josef Sudek (Czech, 1896–1976)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Josef Sudek Czechoslovakian, b. Austria-Hungary, 1896-1976\r\n\r\nOne of the best known Czechoslovakian photographers of the 20th century, Josef Sudek was born in Kolín nad Labem, a small town near Prague. In his youth he was apprenticed to a bookbinder but, following the loss of his right arm during World War I, took up photography as a profession. Sudek became a member of Prague's Bohemian Amateur Photography Association in 1921 and the following year entered the State School of Graphic Arts in Prague, where he studied photography (1922-24). In 1924 Sudek and his friend, photographer Jaromír Funke, joined Adolf Schneeberger in founding the Czech Photographic Society ( sa).\r\n\tSudek worked in Prague all his life, opening a studio there in the 1920s. Among his earliest photographs were a series of soft-focus views of the final stages of construction of Saint Vitus Cathedral. Over the next 50 years, he photographed familiar surroundings, producing hundreds of images of the streets and buildings of Prague and objects in his garden and studio, including a series of photographs taken through his studio window. He also made many landscape pictures, photographing in the great Mioní Forest Preserve. He also was successful as an advertising and commercial photographer.\r\n\tBeginning in the 1920s, Sudek took part in many exhibitions; his work has also been featured in several one-person shows, including retrospectives at George Eastman House, Rochester (1974), the International Center of Photography, New York (1977), and the Philadelphia Museum of Art (1990). He was the first photographer honored with the title Artist of Merit (1961) by the Czech government, which also awarded him the Order of Work (1966). M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1896",
+          "death_year": "1976",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1991-12-16T00:00:00",
+      "sortable_date": 1950,
+      "date_added_to_oa": null,
+      "date_text": "c. 1950s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:34.665000"
+    },
+    {
+      "id": 372002,
+      "accession_number": "2020.291",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Garden Gazebo, Paris, 1935. Ilse Bing (American, 1899–1998). Gelatin silver print; image: 28.3 x 22.4 cm (11 1/8 x 8 13/16 in.); paper: 28.3 x 22.4 cm (11 1/8 x 8 13/16 in.); mounted: 42 x 34.5 cm (16 9/16 x 13 9/16 in.). The Cleveland Museum of Art, Gift of Michael Mattis and Judith Hochberg, 2020.291. © Estate of Ilse Bing",
+      "current_location": null,
+      "title": "Garden Gazebo, Paris",
+      "creation_date": "1935",
+      "creation_date_earliest": 1935,
+      "creation_date_latest": 1935,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 28.3 x 22.4 cm (11 1/8 x 8 13/16 in.); Paper: 28.3 x 22.4 cm (11 1/8 x 8 13/16 in.); Mounted: 42 x 34.5 cm (16 9/16 x 13 9/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.283,
+          "width": 0.224
+        },
+        "paper": {
+          "height": 0.283,
+          "width": 0.224
+        },
+        "mounted": {
+          "height": 0.42,
+          "width": 0.345
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Estate of Ilse Bing",
+      "inscriptions": [
+        {
+          "inscription": "Written in white in lower left, recto: “ILSE BING/1935”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Commercially imprinted throughout verso: “Agfa Brovira”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in black ink on recto of mount: “fur Konrad/[Illegible] 1935/Paris Ilse (signed)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Estate of the Artist",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "Michael Mattis and Judith Hochberg, Scarsdale, NY",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 7, 2020",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Ilse Bing, born and raised in Frankfurt Germany, fell in love with Paris.",
+      "description": "Bing moved to Paris in 1930 determined to succeed as a professional photographer. “The moment I put my foot on the Paris pavement,” she said, “I knew it was my atmosphere. . . . I breathed in art, and felt myself unfolding.” She photographed the nightlife, amusements, and unique character of her adopted city including its gardens and parks.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117243225"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2020.291",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Michael Mattis and Judith Hochberg",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 372002,
+      "creators": [
+        {
+          "id": 291349,
+          "description": "Ilse Bing (American, 1899–1998)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "American and German photographer, born 1899 or 1900, died 1998",
+          "name_in_original_language": null,
+          "birth_year": "1899",
+          "death_year": "1998",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2020-12-07T00:00:00-05:00",
+      "sortable_date": 1935,
+      "date_added_to_oa": null,
+      "date_text": "1935",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:08.689000"
+    },
+    {
+      "id": 157339,
+      "accession_number": "1994.201",
+      "share_license_status": "CC0",
+      "tombstone": "The Tiber, Tuileries Garden, Paris, 1859. Charles Nègre (French, 1820–1880). Albumen print from wet collodion negative; image: 36.5 x 44.6 cm (14 3/8 x 17 9/16 in.); matted: 55.9 x 66 cm (22 x 26 in.). The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund, 1994.201",
+      "current_location": null,
+      "title": "The Tiber, Tuileries Garden, Paris",
+      "creation_date": "1859",
+      "creation_date_earliest": 1859,
+      "creation_date_latest": 1859,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "albumen print from wet collodion negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "Photography",
+      "type": "Photograph",
+      "measurements": "Image: 36.5 x 44.6 cm (14 3/8 x 17 9/16 in.); Matted: 55.9 x 66 cm (22 x 26 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.365,
+          "width": 0.446
+        },
+        "matted": {
+          "height": 0.559,
+          "width": 0.66
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \" 4/21/81 LM  FH80.655\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 311875,
+            "title": "Legacy of Light: Master Photographs from the Cleveland Museum of Art",
+            "description": "<i>Legacy of Light: Master Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 24, 1996-February 2, 1997).",
+            "opening_date": "1996-11-24T05:00:00"
+          },
+          {
+            "id": 178867,
+            "title": "Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art",
+            "description": "<i>Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 26-June 16, 2005).",
+            "opening_date": "2005-02-26T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, November 20,1996 - February 2, 1997: \"Legacy of Light: Master Photographs from the Cleveland Museum of Art.\"",
+            "opening_date": "1997-02-02T00:00:00"
+          },
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; February 26 - June 16, 2005 . \"Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art\".",
+            "opening_date": "2005-02-26T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Charles Nègre, a history painter by training, was a pioneering 19th-century French photographer. In 1859 he received government support to produce a series of fifty images of statuary in Paris's Tuileries Gardens. Although the project was never completed, Nègre did create a group of large-format glass negatives. This photograph represents one of a small number of unique prints from those negatives. The Tiber, a late 17th-century stone sculpture of the river god Tiber, is one of the garden's four water sculptures depicting water deities.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79973469"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1994.201-the-tiber-tuileries"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, “New Acquisitions Enter the Cleveland Museum of Art’s Permanent Collection,” February 14, 1995, Cleveland Museum of Art Archives.",
+          "page_number": null,
+          "url": "https://archive.org/details/cmapr3939/page/n1"
+        },
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 254",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1994.201",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1994.201/1994.201_web.jpg",
+          "width": "1138",
+          "height": "893",
+          "filesize": "714142",
+          "filename": "1994.201_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1994.201/1994.201_print.jpg",
+          "width": "3400",
+          "height": "2668",
+          "filesize": "5379330",
+          "filename": "1994.201_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1994.201/1994.201_full.tif",
+          "width": "5000",
+          "height": "3923",
+          "filesize": "58880540",
+          "filename": "1994.201_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Leonard C. Hanna Jr. Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 157339,
+      "creators": [
+        {
+          "id": 730,
+          "description": "Charles Nègre (French, 1820–1880)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Charles Nègre French, 1820-1880\r\n\r\nA key figure in early French photography, Charles Nègre provides a link to photography's roots in painting and other visual arts. Nègre (born in Grasse) was a successful painter who had studied with Paul Delaroche, Michel Drolling, and Jean-Dominique Ingres. Beginning in 1843 he exhibited his work in various salons, winning high awards in 1851-52. His paintings were praised and purchased by, among others, Napoléon III.\r\n\tLike many other 19th-century artists, Nègre initially began making photographs to aid his painting. In 1844 he produced several daguerreotypes before later switching to calotypes. He soon developed a personal style, using the textured quality of the paper negative to subordinate detail to overall effect in his images, an approach he continued in various media throughout his career. Among Nègre's innovative subjects were street scenes that combined an intimacy of vision with the immediacy of urban life, presented with a painter's attention to composition. Many of these were presented in an 1851 exhibition of the Société heliographique. A founding member of the Société française de photographie, he was also a consummate architectural photographer, receiving numerous government commissions.\r\n\tNègre's technical innovations, especially in the photogravure process, a subject on which he was an acknowledged authority, contributed to the development of photography. He never gave up his painting, however, and became a drawing master at the Lycée Impérial in Nice after moving there in 1863 for health reasons. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1820",
+          "death_year": "1880",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1994-12-06T00:00:00",
+      "sortable_date": 1859,
+      "date_added_to_oa": null,
+      "date_text": "1859",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 16:32:41.147000"
+    },
+    {
+      "id": 667932,
+      "accession_number": "2024.6.ii",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: View in the Large Garden, Jellalabad, 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.ii",
+      "current_location": null,
+      "title": "View in the Large Garden, Jellalabad",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448807"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.ii",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.ii/2024.6.ii_web.jpg",
+          "width": "900",
+          "height": "750",
+          "filesize": "303472",
+          "filename": "2024.6.ii_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.ii/2024.6.ii_print.jpg",
+          "width": "3400",
+          "height": "2835",
+          "filesize": "3942178",
+          "filename": "2024.6.ii_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.ii/2024.6.ii_full.tif",
+          "width": "6084",
+          "height": "5073",
+          "filesize": "92625190",
+          "filename": "2024.6.ii_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-25T15:07:40",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.ii/2024.6.ii_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "144600"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.ii/2024.6.ii_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "2088851"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.ii/2024.6.ii_alt0_full.tif",
+            "width": "14204",
+            "height": "9353",
+            "filesize": "398579398"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667932,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:33.335000"
+    },
+    {
+      "id": 615495,
+      "accession_number": "2023.136",
+      "share_license_status": "Copyrighted",
+      "tombstone": "University Circle: Fine Arts Garden #4, Cleveland Museum of Art, 2007, printed 2008. Garie Waltzer (American, 1947-). Inkjet print; image: 33 x 33 cm (13 x 13 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, 2023.136",
+      "current_location": null,
+      "title": "Fine Arts Garden #4, Cleveland Museum of Art",
+      "series": "University Circle",
+      "creation_date": "2007, printed 2008",
+      "creation_date_earliest": 2007,
+      "creation_date_latest": 2007,
+      "artists_tags": [
+        "female",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "inkjet print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 33 x 33 cm (13 x 13 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.33,
+          "width": 0.33
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Garie Waltzer (the artist) [1947–], Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation Collection, Cleveland, OH, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007–23",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 11, 2023–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Cleveland’s University Circle neighborhood, which encompasses around 550 acres, contains numerous institutions and businesses that employ 30,000 people.",
+      "description": "Cleveland artist Garie Waltzer was commissioned to photograph University Circle for the Gund Foundation Annual Report in 2007. Her densely toned black-and-white photographs, many shot from elevated vantage points and employing deep vistas, reveal the Circle’s underlying structure: a graceful interweaving of nature and architecture united by elegantly drawn circulation patterns to produce a harmonious convergence of place and populace.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q123115888"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "George Gund Foundation, and Garie Waltzer. The George Gund Foundation: 2007 Annual Report. Cleveland: George Gund Foundation, 2007.",
+          "page_number": null,
+          "url": "https://gundfoundation.org/wp-content/uploads/2019/11/Gund-Annual-Report-2007.pdf"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2023.136",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The George Gund Foundation Collection in honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 615495,
+      "creators": [
+        {
+          "id": 54764,
+          "description": "Garie Waltzer (American, 1947-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2023-09-11T04:00:00Z",
+      "sortable_date": 2007,
+      "date_added_to_oa": null,
+      "date_text": "2007, printed 2008",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:30.886000"
+    },
+    {
+      "id": 615500,
+      "accession_number": "2023.141",
+      "share_license_status": "Copyrighted",
+      "tombstone": "University Circle: Fine Arts Garden #3, Cleveland Museum of Art, 2007, printed 2008. Garie Waltzer (American, 1947-). Inkjet print; image: 33 x 33 cm (13 x 13 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, 2023.141",
+      "current_location": null,
+      "title": "Fine Arts Garden #3, Cleveland Museum of Art",
+      "series": "University Circle",
+      "creation_date": "2007, printed 2008",
+      "creation_date_earliest": 2007,
+      "creation_date_latest": 2007,
+      "artists_tags": [
+        "female",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "inkjet print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 33 x 33 cm (13 x 13 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.33,
+          "width": 0.33
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Garie Waltzer (the artist) [1947–], Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation Collection, Cleveland, OH, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007–23",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 11, 2023–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Cleveland’s University Circle neighborhood, which encompasses around 550 acres, contains numerous institutions and businesses that employ 30,000 people.",
+      "description": "Cleveland artist Garie Waltzer was commissioned to photograph University Circle for the Gund Foundation Annual Report in 2007. Her densely toned black-and-white photographs, many shot from elevated vantage points and employing deep vistas, reveal the Circle’s underlying structure: a graceful interweaving of nature and architecture united by elegantly drawn circulation patterns to produce a harmonious convergence of place and populace.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q123115896"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "George Gund Foundation, and Garie Waltzer. The George Gund Foundation: 2007 Annual Report. Cleveland: George Gund Foundation, 2007.",
+          "page_number": null,
+          "url": "https://gundfoundation.org/wp-content/uploads/2019/11/Gund-Annual-Report-2007.pdf"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2023.141",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The George Gund Foundation Collection in honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 615500,
+      "creators": [
+        {
+          "id": 54764,
+          "description": "Garie Waltzer (American, 1947-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2023-09-11T04:00:00Z",
+      "sortable_date": 2007,
+      "date_added_to_oa": null,
+      "date_text": "2007, printed 2008",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:21.999000"
+    },
+    {
+      "id": 670285,
+      "accession_number": "2024.9",
+      "share_license_status": "CC0",
+      "tombstone": "The d’Orléans Family during a Fête Champêtre at Orléans House, 1864. Camille Silvy (French, 1834–1910), manufactured by Lafon de Camarsac (French, 1821–1905). Enameled photograph in original metal frame; plate: 11.5 x 15.5 cm (4 1/2 x 6 1/8 in.); framed: 27 x 29 cm (10 5/8 x 11 7/16 in.). The Cleveland Museum of Art, Jo Hershey Selden Fund, 2024.9",
+      "current_location": null,
+      "title": "The d’Orléans Family during a Fête Champêtre at Orléans House",
+      "creation_date": "1864",
+      "creation_date_earliest": 1864,
+      "creation_date_latest": 1864,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France"
+      ],
+      "technique": "Enameled photograph in original metal frame",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - French 19th Century",
+      "type": "Photograph",
+      "measurements": "Plate: 11.5 x 15.5 cm (4 1/2 x 6 1/8 in.); Framed: 27 x 29 cm (10 5/8 x 11 7/16 in.)",
+      "dimensions": {
+        "plate": {
+          "height": 0.115,
+          "width": 0.155
+        },
+        "framed": {
+          "height": 0.27,
+          "width": 0.29
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Photographs fired onto enamel do not fade and look as fresh today as the day they came out of the kiln.",
+      "description": "The image celebrates the d’Orléans family, who abdicated the French throne during the Revolution of 1848 and settled in England. The setting for this group portrait is Orléans House in Twickenham, where the d’Orléans hosted numerous grand social events such as the garden party that occasioned this sitting.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125422485"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2024.9-the-dorleans-family"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.9",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.9/2024.9_web.jpg",
+          "width": "900",
+          "height": "845",
+          "filesize": "417056",
+          "filename": "2024.9_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.9/2024.9_print.jpg",
+          "width": "3400",
+          "height": "3192",
+          "filesize": "4572716",
+          "filename": "2024.9_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.9/2024.9_full.tif",
+          "width": "9420",
+          "height": "8844",
+          "filesize": "249967494",
+          "filename": "2024.9_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-05-07T11:06:53",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.9/2024.9_alt0_web.jpg",
+            "width": "900",
+            "height": "747",
+            "filesize": "266360"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.9/2024.9_alt0_print.jpg",
+            "width": "3400",
+            "height": "2821",
+            "filesize": "2251987"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.9/2024.9_alt0_full.tif",
+            "width": "11682",
+            "height": "9692",
+            "filesize": "339695194"
+          }
+        },
+        {
+          "date_created": "2024-05-07T11:16:58",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.9/2024.9_alt1_web.jpg",
+            "width": "900",
+            "height": "724",
+            "filesize": "229953"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.9/2024.9_alt1_print.jpg",
+            "width": "3400",
+            "height": "2735",
+            "filesize": "1831356"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.9/2024.9_alt1_full.tif",
+            "width": "12047",
+            "height": "9692",
+            "filesize": "350306882"
+          }
+        },
+        {
+          "date_created": "2024-05-07T13:26:51",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.9/2024.9_alt2_web.jpg",
+            "width": "900",
+            "height": "842",
+            "filesize": "342139"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.9/2024.9_alt2_print.jpg",
+            "width": "3400",
+            "height": "3182",
+            "filesize": "3938011"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.9/2024.9_alt2_full.tif",
+            "width": "11171",
+            "height": "10456",
+            "filesize": "350443510"
+          }
+        },
+        {
+          "date_created": "2024-05-08T14:31:51",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.9/2024.9_alt3_web.jpg",
+            "width": "900",
+            "height": "845",
+            "filesize": "416630"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.9/2024.9_alt3_print.jpg",
+            "width": "3400",
+            "height": "3192",
+            "filesize": "4568898"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.9/2024.9_alt3_full.tif",
+            "width": "9420",
+            "height": "8844",
+            "filesize": "249967458"
+          }
+        }
+      ],
+      "creditline": "Jo Hershey Selden Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 670285,
+      "creators": [
+        {
+          "id": 670279,
+          "description": "Camille Silvy (French, 1834–1910)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "French photographer, 1834-1910, active in London",
+          "name_in_original_language": null,
+          "birth_year": "1834",
+          "death_year": "1910",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 670283,
+          "description": "Lafon de Camarsac (French, 1821–1905)",
+          "extent": "manufactured by",
+          "qualifier": null,
+          "role": "enamelist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1821",
+          "death_year": "1905",
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 2
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1864,
+      "date_added_to_oa": null,
+      "date_text": "1864",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 16:32:51.915000"
+    },
+    {
+      "id": 615492,
+      "accession_number": "2023.133",
+      "share_license_status": "Copyrighted",
+      "tombstone": "University Circle: Fine Arts Garden, Snow, Cleveland Museum of Art, 2007, printed 2008. Garie Waltzer (American, 1947-). Inkjet print; image: 33 x 33 cm (13 x 13 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, 2023.133",
+      "current_location": null,
+      "title": "Fine Arts Garden, Snow, Cleveland Museum of Art",
+      "series": "University Circle",
+      "creation_date": "2007, printed 2008",
+      "creation_date_earliest": 2007,
+      "creation_date_latest": 2007,
+      "artists_tags": [
+        "female",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "inkjet print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 33 x 33 cm (13 x 13 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.33,
+          "width": 0.33
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Garie Waltzer (the artist) [1947–], Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation Collection, Cleveland, OH, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007–23",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 11, 2023–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Cleveland’s University Circle neighborhood, which encompasses around 550 acres, contains numerous institutions and businesses that employ 30,000 people.",
+      "description": "Cleveland artist Garie Waltzer was commissioned to photograph University Circle for the Gund Foundation Annual Report in 2007. Her densely toned black-and-white photographs, many shot from elevated vantage points and employing deep vistas, reveal the Circle’s underlying structure: a graceful interweaving of nature and architecture united by elegantly drawn circulation patterns to produce a harmonious convergence of place and populace.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q123115884"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "George Gund Foundation, and Garie Waltzer. The George Gund Foundation: 2007 Annual Report. Cleveland: George Gund Foundation, 2007.",
+          "page_number": "",
+          "url": "https://gundfoundation.org/wp-content/uploads/2019/11/Gund-Annual-Report-2007.pdf"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2023.133",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The George Gund Foundation Collection in honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 615492,
+      "creators": [
+        {
+          "id": 54764,
+          "description": "Garie Waltzer (American, 1947-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2023-09-11T04:00:00Z",
+      "sortable_date": 2007,
+      "date_added_to_oa": null,
+      "date_text": "2007, printed 2008",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:57.578000"
+    },
+    {
+      "id": 317681,
+      "accession_number": "2018.770",
+      "share_license_status": "Copyrighted",
+      "tombstone": "USA. NYC. Garden Cafeteria: Untitled (50249), 1973. Bruce Davidson (American, b. 1933). Gelatin silver print; paper: 50.8 x 40.6 cm (20 x 16 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.770. © Bruce Davidson/Magnum Photos",
+      "current_location": null,
+      "title": "Untitled (50249)",
+      "series": "USA. NYC. Garden Cafeteria",
+      "creation_date": "1973",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 50.8 x 40.6 cm (20 x 16 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.508,
+          "width": 0.406
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Bruce Davidson/Magnum Photos",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Many of the clients who frequented this restaurant on New York’s Lower East Side were Holocaust survivors.",
+      "description": "Davidson encountered the Garden Cafeteria in the early 1970s while making a film on Polish-born American author Isaac Bashevis Singer, who was a regular customer. Its clientele, mostly Jews who immigrated after World War II, appealed to Davidson because his own family were Jews who had emigrated from Poland. He spent hours with his sitters, learning their histories before empathetically clicking the shutter.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876535"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.770",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317681,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:28.657000"
+    },
+    {
+      "id": 317678,
+      "accession_number": "2018.767",
+      "share_license_status": "Copyrighted",
+      "tombstone": "USA. NYC. Garden Cafeteria: Untitled (50238), 1973. Bruce Davidson (American, b. 1933). Gelatin silver print; paper: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.767. © Bruce Davidson/Magnum Photos",
+      "current_location": null,
+      "title": "Untitled (50238)",
+      "series": "USA. NYC. Garden Cafeteria",
+      "creation_date": "1973",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Bruce Davidson/Magnum Photos",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Many of the customers who frequented this restaurant on New York’s Lower East Side were Holocaust survivors.",
+      "description": "Davidson encountered the Garden Cafeteria in the early 1970s while making a film on Polish-born American author Isaac Bashevis Singer, who was a regular customer. Its clientele, mostly Jews who immigrated after World War II, appealed to Davidson because his own family were Jews who had emigrated from Poland. He spent hours with his sitters, learning their histories before empathetically clicking the shutter.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876525"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.767",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317678,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:57.179000"
+    },
+    {
+      "id": 317671,
+      "accession_number": "2018.761",
+      "share_license_status": "Copyrighted",
+      "tombstone": "USA. NYC. Garden Cafeteria: Untitled, 1973. Bruce Davidson (American, b. 1933). Gelatin silver print; image: 75.9 x 76.4 cm (29 7/8 x 30 1/16 in.); paper: 93.3 x 94 cm (36 3/4 x 37 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.761. © Bruce Davidson/Magnum Photos",
+      "current_location": null,
+      "title": "Untitled",
+      "series": "USA. NYC. Garden Cafeteria",
+      "creation_date": "1973",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 75.9 x 76.4 cm (29 7/8 x 30 1/16 in.); Paper: 93.3 x 94 cm (36 3/4 x 37 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.933,
+          "width": 0.94
+        },
+        "image": {
+          "height": 0.759,
+          "width": 0.764
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Bruce Davidson/Magnum Photos",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Many of the clients who frequented this restaurant on New York’s Lower East Side were Holocaust survivors.",
+      "description": "Davidson encountered the Garden Cafeteria in the early 1970s while making a film on Polish-born American author Isaac Bashevis Singer, who was a regular customer. Its clientele, mostly Jews who immigrated after World War II, appealed to Davidson because his own family were Jews who had emigrated from Poland. He spent hours with his sitters, learning their histories before empathetically clicking the shutter.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876508"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.761",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317671,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:41.165000"
+    },
+    {
+      "id": 317677,
+      "accession_number": "2018.766",
+      "share_license_status": "Copyrighted",
+      "tombstone": "USA. NYC. Garden Cafeteria: Untitled (50226), 1973. Bruce Davidson (American, b. 1933). Gelatin silver print; paper: 50.8 x 40.6 cm (20 x 16 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.766. © Bruce Davidson/Magnum Photos",
+      "current_location": null,
+      "title": "Untitled (50226)",
+      "series": "USA. NYC. Garden Cafeteria",
+      "creation_date": "1973",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 50.8 x 40.6 cm (20 x 16 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.508,
+          "width": 0.406
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Bruce Davidson/Magnum Photos",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Many of the clients who frequented this restaurant on New York’s Lower East Side were Holocaust survivors.",
+      "description": "Davidson encountered the Garden Cafeteria in the early 1970s while making a film on Polish-born American author Isaac Bashevis Singer, who was a regular customer. Its clientele, mostly Jews who immigrated after World War II, appealed to Davidson because his own family were Jews who had emigrated from Poland. He spent hours with his sitters, learning their histories before empathetically clicking the shutter.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876520"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.766",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317677,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:31.636000"
+    },
+    {
+      "id": 615503,
+      "accession_number": "2023.144",
+      "share_license_status": "Copyrighted",
+      "tombstone": "University Circle: Fine Arts Garden #3, Cleveland Museum of Art, Overlooking Wade Lagoon, 2007, printed 2008. Garie Waltzer (American, 1947-). Inkjet print; image: 33 x 33 cm (13 x 13 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, 2023.144",
+      "current_location": null,
+      "title": "Fine Arts Garden #3, Cleveland Museum of Art, Overlooking Wade Lagoon",
+      "series": "University Circle",
+      "creation_date": "2007, printed 2008",
+      "creation_date_earliest": 2007,
+      "creation_date_latest": 2007,
+      "artists_tags": [
+        "female",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "inkjet print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 33 x 33 cm (13 x 13 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.33,
+          "width": 0.33
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Garie Waltzer (the artist) [1947–], Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007",
+          "sortorder": 1
+        },
+        {
+          "description": "The George Gund Foundation Collection, Cleveland, OH, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007–23",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 11, 2023–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Cleveland’s University Circle neighborhood, which encompasses around 550 acres, contains numerous institutions and businesses that employ 30,000 people.",
+      "description": "Cleveland artist Garie Waltzer was commissioned to photograph University Circle for the Gund Foundation Annual Report in 2007. Her densely toned black-and-white photographs, many shot from elevated vantage points and employing deep vistas, reveal the Circle’s underlying structure: a graceful interweaving of nature and architecture united by elegantly drawn circulation patterns to produce a harmonious convergence of place and populace.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q123115903"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "George Gund Foundation, and Garie Waltzer. The George Gund Foundation: 2007 Annual Report. Cleveland: George Gund Foundation, 2007.",
+          "page_number": null,
+          "url": "https://gundfoundation.org/wp-content/uploads/2019/11/Gund-Annual-Report-2007.pdf"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2023.144",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The George Gund Foundation Collection in honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 615503,
+      "creators": [
+        {
+          "id": 54764,
+          "description": "Garie Waltzer (American, 1947-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2023-09-11T04:00:00Z",
+      "sortable_date": 2007,
+      "date_added_to_oa": null,
+      "date_text": "2007, printed 2008",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:10.693000"
+    },
+    {
+      "id": 439500,
+      "accession_number": "2021.65",
+      "share_license_status": "CC0",
+      "tombstone": "Fontaine du Jardin du Luxembourg (grotte de Marie de Médécis), c. 1850. Charles Marville (French, 1813–1879). Salted paper print, Blanquart-Évrard process; image: 20 x 15.9 cm (7 7/8 x 6 1/4 in.); paper: 53.6 x 34.7 cm (21 1/8 x 13 11/16 in.). The Cleveland Museum of Art, Gift of Michael Mattis and Judith Hochberg, 2021.65",
+      "current_location": null,
+      "title": "Fontaine du Jardin du Luxembourg (grotte de Marie de Médécis)",
+      "creation_date": "c. 1850",
+      "creation_date_earliest": 1845,
+      "creation_date_latest": 1855,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France"
+      ],
+      "technique": "Salted paper print, Blanquart-Évrard process",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - French 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 20 x 15.9 cm (7 7/8 x 6 1/4 in.); Paper: 53.6 x 34.7 cm (21 1/8 x 13 11/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.2,
+          "width": 0.159
+        },
+        "paper": {
+          "height": 0.536,
+          "width": 0.347
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Imprinted on recto: \"Melanges Photographiques\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Imprinted on recto: \"Imprimerie Photographique de Blanquart-Evrard a Lille\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Imprinted on recto: \"36/Fontaine du Jardin du Luxembourg/(Grotte de Marie de Médicis)/Jacques de Brosse, 17em siecle\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"30/14\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"20.1 x 16/53.5x  34.5\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Michael Mattis and Judith Hochberg, Scarsdale, NY",
+          "citations": [],
+          "footnotes": null,
+          "date": "?-2021",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "June 7, 2021",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "In the 1620s, French queen Marie de’ Medici built an Italianate palace and gardens on Paris’s Left Bank.",
+      "description": "This fountain was part of those gardens. Charles Marville, who specialized in photographing landscapes, architecture, and urban views, made this photograph four decades after the fountain’s 1811 restoration, which added the white marble statue of Venus bathing. If you go to Paris now, you will see the 1864 restoration, which radically restructured it and moved it 100 feet to make way for a street.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q107378553"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2021.65-fontaine-du-jardin-d"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2021.65",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2021.65/2021.65_web.jpg",
+          "width": "744",
+          "height": "900",
+          "filesize": "278046",
+          "filename": "2021.65_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2021.65/2021.65_print.jpg",
+          "width": "2812",
+          "height": "3400",
+          "filesize": "3033506",
+          "filename": "2021.65_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2021.65/2021.65_full.tif",
+          "width": "6347",
+          "height": "7674",
+          "filesize": "146147174",
+          "filename": "2021.65_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2021-06-23T13:41:32",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.65/2021.65_alt0_web.jpg",
+            "width": "590",
+            "height": "900",
+            "filesize": "194450"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.65/2021.65_alt0_print.jpg",
+            "width": "2230",
+            "height": "3400",
+            "filesize": "1932595"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.65/2021.65_alt0_full.tif",
+            "width": "8269",
+            "height": "12609",
+            "filesize": "312816286"
+          }
+        },
+        {
+          "date_created": "2021-06-23T13:41:50",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.65/2021.65_alt1_web.jpg",
+            "width": "590",
+            "height": "900",
+            "filesize": "143806"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.65/2021.65_alt1_print.jpg",
+            "width": "2230",
+            "height": "3400",
+            "filesize": "1505619"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.65/2021.65_alt1_full.tif",
+            "width": "8269",
+            "height": "12610",
+            "filesize": "312839658"
+          }
+        }
+      ],
+      "creditline": "Gift of Michael Mattis and Judith Hochberg",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 439500,
+      "creators": [
+        {
+          "id": 635,
+          "description": "Charles Marville (French, 1813–1879)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "At the invitation of the city of Paris, photographer Charles Marville was among the first to document the ancient quarters of his birthplace. His views, taken in the late 1850s, were intended to record the many buildings and neighborhoods ultimately destroyed by Baron Georges-Eugène Haussmann's urban planning project that would create the boulevards and open spaces of modern Paris. While Marville's survey of the city, extensive and thorough in scope, prefigured other important efforts of its kind, it is distinguished by its emotional accessibility. His work beautifully reveals a Paris that has long disappeared. Originally trained as a painter and illustrator, Marville worked with both calotype and glass plate negatives. He photographed in France, Italy, Germany, and Algeria, becoming most well known for his architectural imagery but also producing acclaimed landscapes and studies of trees. Many of Marville's early views, often considered his best, were included in the albums of Louis-Désiré Blanquart-Évrard before the printer's establishment in Lille closed in 1855. Named official photographer of Paris in 1862, Marville also served as photographer to the Imperial Museum of the Louvre and to King Vittorio Emmanuelle of Italy. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1813",
+          "death_year": "1879",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2021-06-07T04:00:00Z",
+      "sortable_date": 1845,
+      "date_added_to_oa": null,
+      "date_text": "c. 1850",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 16:32:50.723000"
+    },
+    {
+      "id": 317673,
+      "accession_number": "2018.763",
+      "share_license_status": "Copyrighted",
+      "tombstone": "USA. NYC. Garden Cafeteria: Untitled (48384), 1973. Bruce Davidson (American, b. 1933). Gelatin silver print; paper: 27.9 x 35.6 cm (11 x 14 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.763. © Bruce Davidson/Magnum Photos",
+      "current_location": null,
+      "title": "Untitled (48384)",
+      "series": "USA. NYC. Garden Cafeteria",
+      "creation_date": "1973",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 27.9 x 35.6 cm (11 x 14 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.279,
+          "width": 0.356
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Bruce Davidson/Magnum Photos",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Many of the clients who frequented this restaurant on New York’s Lower East Side were Holocaust survivors.",
+      "description": "Davidson encountered the Garden Cafeteria in the early 1970s while making a film on Polish-born American author Isaac Bashevis Singer, who was a regular customer. Its clientele, mostly Jews who immigrated after World War II, appealed to Davidson because his own family were Jews who had emigrated from Poland. He spent hours with his sitters, learning their histories before empathetically clicking the shutter.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876513"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.763",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317673,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:23.552000"
+    },
+    {
+      "id": 518788,
+      "accession_number": "2022.117",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Monet's Pond at Giverny, c. 1989. Herbert Ascherman (American, b. 1947). Platinum print; image: 15.2 x 43.2 cm (6 x 17 in.). The Cleveland Museum of Art, Gift of Herbert Ascherman Jr., 2022.117",
+      "current_location": null,
+      "title": "Monet's Pond at Giverny",
+      "creation_date": "c. 1989",
+      "creation_date_earliest": 1984,
+      "creation_date_latest": 1994,
+      "artists_tags": [
+        "May Show",
+        "male",
+        "Jewish artists",
+        "Cleveland Institute of Art (faculty)"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "platinum print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 15.2 x 43.2 cm (6 x 17 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.152,
+          "width": 0.432
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Herbert Ascherman, Jr. [1947-] (the artist), Beachwood, OH, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1989-2022",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 12, 2022-",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "At his home in Giverny, France, Claude Monet created a Japanese-inspired water garden beginning in the 1890s.",
+      "description": "When photographing that garden in 1989, Cleveland artist Herbert Ascherman chose an elongated, vertical panoramic format. It evokes the Japanese scroll paintings that influenced the Impressionist painters, including Monet. To view other depictions of the garden at Giverny in the museum’s collection see Monet’s painting <em>Water Lilies (Agapanthus)</em>, c. 1915–26 (1960.81) and photographs by Sally Gall (1993.216) and Lynn Geesaman (2000.90).",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117247369"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2022.117",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Herbert Ascherman Jr.",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 518788,
+      "creators": [
+        {
+          "id": 51596,
+          "description": "Herbert Ascherman (American, b. 1947)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Biographical information exists in the Cleveland Museum of Art Archives.",
+          "name_in_original_language": null,
+          "birth_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 51193,
+          "description": "Sal Lopes (American, 1943-)",
+          "extent": "printed by",
+          "qualifier": null,
+          "role": "printer",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1943",
+          "use_in_caption": false,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2022-09-12T04:00:00Z",
+      "sortable_date": 1984,
+      "date_added_to_oa": null,
+      "date_text": "c. 1989",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:08.991000"
+    },
+    {
+      "id": 317683,
+      "accession_number": "2018.772",
+      "share_license_status": "Copyrighted",
+      "tombstone": "USA. NYC. Garden Cafeteria: Untitled (51235), 1973. Bruce Davidson (American, b. 1933). Gelatin silver print; paper: 61 x 50.8 cm (24 x 20 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.772. © Bruce Davidson/Magnum Photos",
+      "current_location": null,
+      "title": "Untitled (51235)",
+      "series": "USA. NYC. Garden Cafeteria",
+      "creation_date": "1973",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 61 x 50.8 cm (24 x 20 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.61,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Bruce Davidson/Magnum Photos",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Many of the clients who frequented this restaurant on New York’s Lower East Side were Holocaust survivors.",
+      "description": "Davidson encountered the Garden Cafeteria in the early 1970s while making a film on Polish-born American author Isaac Bashevis Singer, who was a regular customer. Its clientele, mostly Jews who immigrated after World War II, appealed to Davidson because his own family were Jews who had emigrated from Poland. He spent hours with his sitters, learning their histories before empathetically clicking the shutter.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876541"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.772",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317683,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:36.604000"
+    }
+  ]
+}

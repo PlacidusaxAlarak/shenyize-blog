@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": 160058,
+    "accession_number": "1997.35",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Harlem Street Dancers, 1939. Elizabeth Olds (American, 1896–1991). Woodcut; sheet: 30.9 x 46.4 cm (12 3/16 x 18 1/4 in.); image: 25.3 x 35.4 cm (9 15/16 x 13 15/16 in.). The Cleveland Museum of Art, John L. Severance Fund, 1997.35",
+    "current_location": null,
+    "title": "Harlem Street Dancers",
+    "creation_date": "1939",
+    "creation_date_earliest": 1939,
+    "creation_date_latest": 1939,
+    "artists_tags": [
+      "female"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "woodcut",
+    "support_materials": [],
+    "department": "Prints",
+    "collection": "PR - Woodcut",
+    "type": "Print",
+    "measurements": "Sheet: 30.9 x 46.4 cm (12 3/16 x 18 1/4 in.); Image: 25.3 x 35.4 cm (9 15/16 x 13 15/16 in.)",
+    "dimensions": {
+      "sheet": {
+        "height": 0.309,
+        "width": 0.464
+      },
+      "image": {
+        "height": 0.253,
+        "width": 0.354
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Inscribed in graphite below image : \"Harlem Street Dancers. Project Proof NY WPA Proof Elizabeth Olds 1939\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 441481,
+          "title": "Gallery One 2012",
+          "description": "<i>Gallery One 2012</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 12, 2012-March 5, 2017).",
+          "opening_date": "2012-12-12T05:00:00"
+        }
+      ],
+      "legacy": [
+        {
+          "description": "Gallery One rotation: April 21, 2015 - November 2, 2015.",
+          "opening_date": "2015-04-21T00:00:00"
+        }
+      ]
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "Do you hear the music? The swoop of these dancing feet sets the beat in this snapshot of city life. Elizabeth Olds wrote, \"Harlem was a bevy of activity in the afternoons and evenings,\" filled with singing and dancing New Yorkers. Some of the era's leading authors, choreographers, and intellectuals lived in this neighborhood during the 1920s and '30s. ",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79980649"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/1997.35",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "John L. Severance Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 160058,
+    "creators": [
+      {
+        "id": 6671,
+        "description": "Elizabeth Olds (American, 1896–1991)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1896",
+        "death_year": "1991",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1997-03-04T00:00:00",
+    "sortable_date": 1939,
+    "date_added_to_oa": null,
+    "date_text": "1939",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:04:30.745000"
+  }
+}

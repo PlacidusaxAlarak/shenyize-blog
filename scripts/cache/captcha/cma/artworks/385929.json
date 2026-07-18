@@ -1,0 +1,131 @@
+{
+  "data": {
+    "id": 385929,
+    "accession_number": "2020.236",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Untitled (Spring Street), 1971. Robin Bruch (American, 1948-). Acrylic on paper; sheet: 35 x 36 cm (13 3/4 x 14 3/16 in.); image: 35 x 36 cm (13 3/4 x 14 3/16 in.). The Cleveland Museum of Art, Gift of Fredericka Hunter and Ian Glennie, 2020.236",
+    "current_location": null,
+    "title": "Untitled (Spring Street)",
+    "creation_date": "1971",
+    "creation_date_earliest": 1971,
+    "creation_date_latest": 1971,
+    "artists_tags": [
+      "female"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "Acrylic on paper",
+    "support_materials": [],
+    "department": "Drawings",
+    "collection": "DR - American 20th Century",
+    "type": "Drawing",
+    "measurements": "Sheet: 35 x 36 cm (13 3/4 x 14 3/16 in.); Image: 35 x 36 cm (13 3/4 x 14 3/16 in.)",
+    "dimensions": {
+      "sheet": {
+        "height": 0.35,
+        "width": 0.36
+      },
+      "image": {
+        "height": 0.35,
+        "width": 0.36
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "inscribed, on verso, in graphite: Robin Bruch Spring St. NY ’71",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [],
+      "legacy": [
+        {
+          "description": "<em>Robin Bruch: Full Circle</em>. Texas Gallery, Houston, TX (October 19 – November 30, 2019).",
+          "opening_date": "2019-11-30T00:00:00"
+        }
+      ]
+    },
+    "provenance": [
+      {
+        "description": "Studio of the artist [1971-2019]",
+        "citations": [],
+        "footnotes": null,
+        "date": "1971-2019",
+        "sortorder": 1
+      },
+      {
+        "description": "(Texas Gallery, Houston, TX, given to the Cleveland Museum of Art)",
+        "citations": [],
+        "footnotes": null,
+        "date": "2019-2020",
+        "sortorder": 2
+      },
+      {
+        "description": "Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "2020-",
+        "sortorder": 3
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "Robin Bruch works primarily in the medium used for this drawing: paint on paper.",
+    "description": "Born in Cleveland, contemporary artist Robin Bruch was part of the vibrant and diverse artistic community that emerged in downtown New York City during the 1970s. This drawing dates from that period and features bold colors and simple geometric forms that evoke influences as diverse as Bruch’s teachers, the abstract painters Kenneth Noland and Larry Poons, to the early 20th-century Swedish artist and mystic Hilma af Klint, whose work was an early inspiration. Like many of Bruch’s drawings, the work’s title relates to a specific place, suggesting it was meant to evoke landscape.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q117244783"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2020.236",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Fredericka Hunter and Ian Glennie",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 385929,
+    "creators": [
+      {
+        "id": 385926,
+        "description": "Robin Bruch (American, 1948-)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "American painter, born 1948",
+        "name_in_original_language": null,
+        "birth_year": "1948",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2020-09-14T00:00:00-04:00",
+    "sortable_date": 1971,
+    "date_added_to_oa": null,
+    "date_text": "1971",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:03:46.197000"
+  }
+}

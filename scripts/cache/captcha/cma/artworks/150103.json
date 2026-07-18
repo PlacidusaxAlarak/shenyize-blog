@@ -1,0 +1,128 @@
+{
+  "data": {
+    "id": 150103,
+    "accession_number": "1980.305",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Song Without Words: Golden Gate Bridge (San Francisco), 1959. Minor White (American, 1908–1976). Gelatin silver print; image: 8.2 x 11.5 cm (3 1/4 x 4 1/2 in.); matted: 30.6 x 35.6 cm (12 1/16 x 14 in.). The Cleveland Museum of Art, Gift of Nicholas C. Hlobeczy in memory of his father and of his friend and teacher, Minor White, 1980.305. © 1982 Trustees of Princeton University",
+    "current_location": null,
+    "title": "Golden Gate Bridge (San Francisco)",
+    "series": "Song Without Words",
+    "creation_date": "1959",
+    "creation_date_earliest": 1959,
+    "creation_date_latest": 1959,
+    "artists_tags": [
+      "male",
+      "LGBTQ+ (after 1900)"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "gelatin silver print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1951-Present",
+    "type": "Photograph",
+    "measurements": "Image: 8.2 x 11.5 cm (3 1/4 x 4 1/2 in.); Matted: 30.6 x 35.6 cm (12 1/16 x 14 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.082,
+        "width": 0.115
+      },
+      "matted": {
+        "height": 0.306,
+        "width": 0.356
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": "© 1982 Trustees of Princeton University",
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 304521,
+          "title": "Year in Review: 1980",
+          "description": "<i>Year in Review: 1980</i>. The Cleveland Museum of Art (organizer) (June 24-July 19, 1981).",
+          "opening_date": "1981-06-24T04:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Nicholas C. Hlobeczy [1927-2007]",
+        "citations": [],
+        "footnotes": [],
+        "date": null,
+        "sortorder": 1
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": [],
+        "date": "March 9, 1981",
+        "sortorder": 2
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": null,
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79932221"
+      ],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+        "page_number": "Reproduced: P. 388",
+        "url": ""
+      }
+    ],
+    "url": "https://clevelandart.org/art/1980.305",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Nicholas C. Hlobeczy in memory of his father and of his friend and teacher, Minor White",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 150103,
+    "creators": [
+      {
+        "id": 1091,
+        "description": "Minor White (American, 1908–1976)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "Minor White American, 1908-1976 Minor Martin White (born in Minneapolis) was a photographer, poet, and teacher who worked in photographic sequences to achieve greater expressive power. Several years after graduating from the University of Minnesota with a major in botany and a minor in English, White moved to Portland where he joined the Oregon Camera Club. Interested in photography since his youth, he worked as an assistant in a photography studio at night and in 1938 served as a creative photographer for the Works Progress Administration. Following service in the U.S. Army Intelligence Corps (1942-45), White moved to New York where he studied art history with Meyer Shapiro at Columbia University (19450-46). In 1946 he met Alfred Stieglitz, whose ideas about photographic equivalents had a deep impact on his work. Like Stieglitz, White sought to express inner feelings and beliefs through his work. Around this time he began producing sequences of images that were arranged for their allusive or metaphorical meaning rather than for narrative content, a practice he continued throughout his career. In 1952 White helped found Aperture magazine, serving as its editor until l975. He took a position as curator of exhibitions at George Eastman House in Rochester in the early 1950s, working there until 1957. While at Eastman House he also served as editor for the museum's publication, Image. In 1955 White began teaching at the Rochester Institute of Technology, leaving in 1965 to join the faculty of the Massachusetts Institute of Technology. Over the years he became a well-respected and influential teacher, and continued to teach at mit until 1974. During the 1950s White became interested in mysticism, Eastern philosophy, and Gestalt psychology, all of which had an impact on his work and teaching. In 1962 he was a founding member of the Society for Photographic Education and in 1970 was awarded a fellowship by the John Simon Guggenheim Memorial Foundation. M.M.",
+        "name_in_original_language": null,
+        "birth_year": "1908",
+        "death_year": "1976",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1981-03-09T00:00:00",
+    "sortable_date": 1959,
+    "date_added_to_oa": null,
+    "date_text": "1959",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:08:44.806000"
+  }
+}

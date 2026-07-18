@@ -1,0 +1,2741 @@
+{
+  "info": {
+    "total": 536,
+    "parameters": {
+      "skip": 60,
+      "limit": 20,
+      "q": "city photograph",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,department,gallery,classification_type,collection",
+      "search": "city photograph"
+    }
+  },
+  "data": [
+    {
+      "id": 162373,
+      "accession_number": "2002.82.5",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Arthur Rothstein portfolio: Shoeshine Man, New York City, 1937. Arthur Rothstein (American, 1915–1985). Gelatin silver print; image: 30.8 x 22.8 cm (12 1/8 x 9 in.); paper: 35.7 x 27.7 cm (14 1/16 x 10 7/8 in.). The Cleveland Museum of Art, Gift of Alan and Monah L. Gettner, 2002.82.5",
+      "current_location": null,
+      "title": "Shoeshine Man, New York City",
+      "series": "Arthur Rothstein portfolio",
+      "creation_date": "1937",
+      "creation_date_earliest": 1937,
+      "creation_date_latest": 1937,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 30.8 x 22.8 cm (12 1/8 x 9 in.); Paper: 35.7 x 27.7 cm (14 1/16 x 10 7/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.308,
+          "width": 0.228
+        },
+        "paper": {
+          "height": 0.357,
+          "width": 0.277
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": "50 + II artist's proofs",
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "written in pencil on recto: \"Arthur Rothstein\" [signed]",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 299125,
+            "title": "From Riches to Rags: American Photography in the Depression",
+            "description": "<i>From Riches to Rags: American Photography in the Depression</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 13-December 31, 2017).",
+            "opening_date": "2017-08-13T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Rothstein worked for the Photo Unit of the Resettlement Administration, a federal agency later known as the Farm Security Administration. The agency was created to help fight rural poverty, but its small band of socially concerned photographers crisscrossed the country depicting the suffering of rural and urban populations. Their pictures were used to generate support for government aid programs. Shoeshine stands required little capital investment, making them good businesses for hard times, as long as there were enough affluent people to support the endeavor. This worker sits, ready to seize the opportunity (as mentioned in the sign above him) to serve a customer.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79986490"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2002.82.5",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Alan and Monah L. Gettner",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 162373,
+      "creators": [
+        {
+          "id": 6592,
+          "description": "Arthur Rothstein (American, 1915–1985)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1915",
+          "death_year": "1985",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2002-09-03T00:00:00",
+      "sortable_date": 1937,
+      "date_added_to_oa": null,
+      "date_text": "1937",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2002.82",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:05.296000"
+    },
+    {
+      "id": 325419,
+      "accession_number": "2019.48",
+      "share_license_status": "CC0",
+      "tombstone": "Street Life in London: London Nomades, 1877. John Thomson (Scottish, 1837–1921). Woodburytype; image: 10.8 x 8.6 cm (4 1/4 x 3 3/8 in.); paper: 10.8 x 8.6 cm (4 1/4 x 3 3/8 in.); mounted: 27.1 x 20.8 cm (10 11/16 x 8 3/16 in.). The Cleveland Museum of Art, Photography Discretionary Fund, 2019.48",
+      "current_location": null,
+      "title": "London Nomades",
+      "series": "Street Life in London",
+      "creation_date": "1877",
+      "creation_date_earliest": 1877,
+      "creation_date_latest": 1877,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "woodburytype",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 10.8 x 8.6 cm (4 1/4 x 3 3/8 in.); Paper: 10.8 x 8.6 cm (4 1/4 x 3 3/8 in.); Mounted: 27.1 x 20.8 cm (10 11/16 x 8 3/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.108,
+          "width": 0.086
+        },
+        "paper": {
+          "height": 0.108,
+          "width": 0.086
+        },
+        "mounted": {
+          "height": 0.271,
+          "width": 0.208
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Stamped in red ink on recto of mount: “LONDON NOMADES.”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Antiquariat Dr. Jens Mattow, Berlin, Germany)",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "March 4, 2019",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This wagon was owned by William Hampton, “a man of fair intelligence and good natural ability” who was, however, illiterate and had a “dread of education.”",
+      "description": "“In London there are a number of what may be termed, owing to their wandering, unsettled habits, nomadic tribes,” wrote John Thomson’s collaborator, reporter Adolphe Smith. Living in wagons, they moved around the city, working seasonal jobs or selling cheap wares at fairs and markets or door to door.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79875939"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2019.48-london-nomades"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2019.48",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.48/2019.48_web.jpg",
+          "width": "719",
+          "height": "900",
+          "filesize": "291596",
+          "filename": "2019.48_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.48/2019.48_print.jpg",
+          "width": "2717",
+          "height": "3400",
+          "filesize": "2847606",
+          "filename": "2019.48_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.48/2019.48_full.tif",
+          "width": "7426",
+          "height": "9293",
+          "filesize": "207059228",
+          "filename": "2019.48_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2019-11-19T15:52:13",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2019.48/2019.48_alt0_web.jpg",
+            "width": "700",
+            "height": "900",
+            "filesize": "215995"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2019.48/2019.48_alt0_print.jpg",
+            "width": "2643",
+            "height": "3400",
+            "filesize": "3055388"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2019.48/2019.48_alt0_full.tif",
+            "width": "8936",
+            "height": "11496",
+            "filesize": "308211632"
+          }
+        }
+      ],
+      "creditline": "Photography Discretionary Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 325419,
+      "creators": [
+        {
+          "id": 20005,
+          "description": "John Thomson (Scottish, 1837–1921)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "John Thomson British, b. Scotland, 1837-1921 John Thomson studied chemistry at the University of Edinburgh in his native city. While best known for his views of street life in London, Thomson spent his early photographic career in the Far East. Between 1863-73, based at a studio in Singapore, he photographed India, Ceylon (now Sri Lanka), Thailand, Cambodia, and Vietnam. He spent two years photographing China, an ambitious project for which he traveled more than 5,500 miles. Returning to England, Thomson used his experiences, and his 2,000 negatives, to write and publish Illustrations of China and Its People (1873-74), a monumental four-volume work containing 200 collotype illustrations with descriptive text. In 1877 he collaborated with journalist Adolph Smith to publish Street Life in London, one of the first books to combine text with photographic illustrations (36 Woodburytype plates of London's poor) to document sociological case histories. In 1886 Thomson was appointed instructor of photography to the Royal Geographic Society, where he was a Fellow until his death. He became official photographer to Queen Victoria in 1881 and in 1910 received the same appointment under King George V. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1837",
+          "death_year": "1921",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-03-04T00:00:00-05:00",
+      "sortable_date": 1877,
+      "date_added_to_oa": null,
+      "date_text": "1877",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:13.478000"
+    },
+    {
+      "id": 154803,
+      "accession_number": "1989.386",
+      "share_license_status": "Copyrighted",
+      "tombstone": "New York, the Elevated, and Me, 1936. Ilse Bing (American, 1899–1998). Gelatin silver print; image: 18.8 x 28.2 cm (7 3/8 x 11 1/8 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, John L. Severance Fund, 1989.386. © Estate of Ilse Bing",
+      "current_location": null,
+      "title": "New York, the Elevated, and Me",
+      "creation_date": "1936",
+      "creation_date_earliest": 1936,
+      "creation_date_latest": 1936,
+      "artists_tags": [
+        "female",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 18.8 x 28.2 cm (7 3/8 x 11 1/8 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.188,
+          "width": 0.282
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Estate of Ilse Bing",
+      "inscriptions": [
+        {
+          "inscription": "Written in white ink on recto: \"ILSE BING [signed]/1936\"; in pencil on verso: \"ILSE BING [signed]/1936\"; \"New York - The Elevated and Me\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 310333,
+            "title": "The Year in Review for 1989",
+            "description": "<i>The Year in Review for 1989</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 6-April 15, 1990).",
+            "opening_date": "1990-02-06T05:00:00"
+          },
+          {
+            "id": 189766,
+            "title": "Industry and Photography: Selections from the Permanent Collection",
+            "description": "<i>Industry and Photography: Selections from the Permanent Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 16, 1997-March 1, 1998).",
+            "opening_date": "1997-11-16T00:00:00"
+          },
+          {
+            "id": 194095,
+            "title": "Icons of American Photography: A Century of Photographs from the Cleveland Museum of Art",
+            "description": "<i>Icons of American Photography: A Century of Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 24-September 16, 2007).",
+            "opening_date": "2007-06-24T00:00:00"
+          },
+          {
+            "id": 370361,
+            "title": "Ilse Bing: Queen of the Leica",
+            "description": "<i>Ilse Bing: Queen of the Leica</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 6-October 11, 2020).",
+            "opening_date": "2020-03-06T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, Feb. 6 - April 15, 1990: \"Year in Review 1989,\" CMA Bulletin, 77 (Feb. 1990), p. 67, no. 24.",
+            "opening_date": "1990-02-06T00:00:00"
+          },
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; 11/16/97 - 3/1/98.  \"Industry and Photography:  Selections from the Permanent Collection.\"",
+            "opening_date": "1997-11-16T00:00:00"
+          },
+          {
+            "description": "The Cleveland Museum of Art (6/24/07 - 9/16/07); \"Icons of American Photography: A Century of Photographs from the Cleveland Museum of Art\", no exhibition catalogue.",
+            "opening_date": "2007-06-24T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "In 1936 one of Ilse Bing’s patrons arranged for her to spend almost two months in New York City. In this daytime view of Manhattan’s skyscrapers shot from an elevated train platform, a self-portrait is hidden in the glass cover of the coin-operated scale. Bing also photographed the skyline by night, declaring the city’s lighting “phosphorescent.” The scale of the metropolis made her feel, she recalled, like “an atom wandering in the universe.” Bing and her work were enthusiastically received there. She had a solo exhibition of her photographs and met with magazine editors at <em>Fortune</em>,<em> Time</em>, and <em>Life</em>, which was then still in the conceptual stages. Despite possible employment, she returned to Paris to be with her fiancé, pianist and musicologist Konrad Wolff.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79942402"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 97",
+          "url": ""
+        },
+        {
+          "citation": "\"In Perspective: Leica queen.\"<em> Art &amp; Antiques </em>43, no. 3 (March 2020): 30.",
+          "page_number": "Reproduced: p. 30; Mention: p. 30",
+          "url": null
+        },
+        {
+          "citation": "Tannenbaum, Barbara. “Queen of the Leica: Ilse Bing found freedom of expression in a small, lightweight camera.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>60, no. 2 (March/April 2020): 30-31.",
+          "page_number": "Reproduced: P. 31; Mentioned: P. 30.",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1989.386",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 154803,
+      "creators": [
+        {
+          "id": 235,
+          "description": "Ilse Bing (American, 1899–1998)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Ilse Bing (American, b. Germany, 1899-1998). Ilse Bing became interested in photography while pursuing a doctoral degree in art history at Frankfurt University. Around 1927-28 she began taking photographs to illustrate her dissertation and in 1930 decided to move to Paris to look for freelance assignments. Using the new 35mm Leica camera, she worked as a fashion, portrait, and architectural photographer, as well as a photojournalist. During her years in Paris she took part in numerous exhibitions, including the Museum of Modern Art's Photography 1839-1937 show in New York. In 1941 Bing and her husband immigrated to the United States, settling in New York City. In New York she began to work on a different scale, using the larger-format Rolleiflex camera as well as electronic flash. By 1957 she was working exclusively in color. Two years later Bing gave up photography to concentrate on painting and poetry.",
+          "name_in_original_language": null,
+          "birth_year": "1899",
+          "death_year": "1998",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1990-01-29T00:00:00",
+      "sortable_date": 1936,
+      "date_added_to_oa": null,
+      "date_text": "1936",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:34.968000"
+    },
+    {
+      "id": 317914,
+      "accession_number": "2018.862",
+      "share_license_status": "Copyrighted",
+      "tombstone": "East 100th Street: Untitled, 1966–1968. Bruce Davidson (American, b. 1933). Gelatin silver print; image: 95.9 x 75.8 cm (37 3/4 x 29 13/16 in.); paper: 103.1 x 79.2 cm (40 9/16 x 31 3/16 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.862",
+      "current_location": null,
+      "title": "Untitled",
+      "series": "East 100th Street",
+      "creation_date": "1966–1968",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1968,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 95.9 x 75.8 cm (37 3/4 x 29 13/16 in.); Paper: 103.1 x 79.2 cm (40 9/16 x 31 3/16 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 1.031,
+          "width": 0.792
+        },
+        "image": {
+          "height": 0.959,
+          "width": 0.758
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Davidson’s photographs of Spanish Harlem were used as evidence of squalid housing conditions in claims against New York City.",
+      "description": "Davidson spent two years photographing in Spanish Harlem, attempting to integrate himself into the daily lives of its residents. In the past he had used a 35mm camera, but here he turned to a large-format, 4 x 5-inch camera, which requires a tripod and slows down the act of photographing, making the session more of a shared experience, a give and take.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876802"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.862",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317914,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–1968",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:39.823000"
+    },
+    {
+      "id": 317928,
+      "accession_number": "2018.876",
+      "share_license_status": "Copyrighted",
+      "tombstone": "East 100th Street: Untitled, 1966–1968. Bruce Davidson (American, b. 1933). Gelatin silver print; paper: 27.9 x 35.2 cm (11 x 13 7/8 in.); image: 15.9 x 21.1 cm (6 1/4 x 8 5/16 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.876",
+      "current_location": null,
+      "title": "Untitled",
+      "series": "East 100th Street",
+      "creation_date": "1966–1968",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1968,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Paper: 27.9 x 35.2 cm (11 x 13 7/8 in.); Image: 15.9 x 21.1 cm (6 1/4 x 8 5/16 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.279,
+          "width": 0.352
+        },
+        "image": {
+          "height": 0.159,
+          "width": 0.211
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"Bruce Davidson\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"66-46-89/5\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Commercially imprinted throughout verso of paper: \"Agfa\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Davidson’s photographs of Spanish Harlem were used as evidence of squalid housing conditions in claims against New York City.",
+      "description": "Davidson spent two years photographing in Spanish Harlem, attempting to integrate himself into the daily lives of its residents. In the past he had used a 35mm camera, but here he turned to a large-format, 4 x 5-inch camera, which requires a tripod and slows down the act of photographing, making the session more of a shared experience, a give and take.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876849"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.876",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317928,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–1968",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:58.203000"
+    },
+    {
+      "id": 317929,
+      "accession_number": "2018.877",
+      "share_license_status": "Copyrighted",
+      "tombstone": "East 100th Street: Untitled, 1966–1968. Bruce Davidson (American, b. 1933). Gelatin silver print; image: 19.7 x 25 cm (7 3/4 x 9 13/16 in.); paper: 27.9 x 35.2 cm (11 x 13 7/8 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.877",
+      "current_location": null,
+      "title": "Untitled",
+      "series": "East 100th Street",
+      "creation_date": "1966–1968",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1968,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 19.7 x 25 cm (7 3/4 x 9 13/16 in.); Paper: 27.9 x 35.2 cm (11 x 13 7/8 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.279,
+          "width": 0.352
+        },
+        "image": {
+          "height": 0.197,
+          "width": 0.25
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"Bruce Davidson\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Stamped in black ink on verso: \"© Bruce Davidson-Magnum\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"66-46-481/3\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Davidson’s photographs of Spanish Harlem were used as evidence of squalid housing conditions in claims against New York City.",
+      "description": "Davidson spent two years photographing in Spanish Harlem, attempting to integrate himself into the daily lives of its residents. In the past he had used a 35mm camera, but here he turned to a large-format, 4 x 5-inch camera, which requires a tripod and slows down the act of photographing, making the session more of a shared experience, a give and take.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876852"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.877",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317929,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–1968",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:37.100000"
+    },
+    {
+      "id": 317934,
+      "accession_number": "2018.882",
+      "share_license_status": "Copyrighted",
+      "tombstone": "East 100th Street: Untitled, 1966–1968. Bruce Davidson (American, b. 1933). Gelatin silver print; image: 22.8 x 17.7 cm (9 x 6 15/16 in.); paper: 35.1 x 27.7 cm (13 13/16 x 10 7/8 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.882",
+      "current_location": null,
+      "title": "Untitled",
+      "series": "East 100th Street",
+      "creation_date": "1966–1968",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1968,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 22.8 x 17.7 cm (9 x 6 15/16 in.); Paper: 35.1 x 27.7 cm (13 13/16 x 10 7/8 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.351,
+          "width": 0.277
+        },
+        "image": {
+          "height": 0.228,
+          "width": 0.177
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in red pencil on verso: \"p 41 [circled] 9=5-1/2/9=1-1/2\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in white pencil on verso: \"Bruce Davidson [crossed out]/1968 Magnum Photos\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in black ink on white paper adhesive label on verso: \"Bruce Davidson\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in white pencil on verso: \"DAB-66-46-408/14\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Davidson’s photographs of Spanish Harlem were used as evidence of squalid housing conditions in claims against New York City.",
+      "description": "Davidson spent two years photographing in Spanish Harlem, attempting to integrate himself into the daily lives of its residents. In the past he had used a 35mm camera, but here he turned to a large-format, 4 x 5-inch camera, which requires a tripod and slows down the act of photographing, making the session more of a shared experience, a give and take.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876867"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.882",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317934,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–1968",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:25.590000"
+    },
+    {
+      "id": 154043,
+      "accession_number": "1988.162",
+      "share_license_status": "Copyrighted",
+      "tombstone": "New York City, Battery Park, c. 1963. Robert Frank (American, 1924–2019). Gelatin silver print; image: 23 x 34.6 cm (9 1/16 x 13 5/8 in.); paper: 28 x 35.4 cm (11 x 13 15/16 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, Gift of Mr. and Mrs. Thomas A. Mann, 1988.162. © Robert Frank",
+      "current_location": null,
+      "title": "New York City, Battery Park",
+      "creation_date": "c. 1963",
+      "creation_date_earliest": 1958,
+      "creation_date_latest": 1968,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 23 x 34.6 cm (9 1/16 x 13 5/8 in.); Paper: 28 x 35.4 cm (11 x 13 15/16 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.23,
+          "width": 0.346
+        },
+        "paper": {
+          "height": 0.28,
+          "width": 0.354
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Robert Frank",
+      "inscriptions": [
+        {
+          "inscription": "Written in black ink on recto: \"New York City 1963? Battery Park, Robert Frank [signed]\"; in blue ink on verso: \"JL [circled]\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 310246,
+            "title": "The Year in Review for 1988",
+            "description": "<i>The Year in Review for 1988</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 1-May 14, 1989).",
+            "opening_date": "1989-03-01T05:00:00"
+          },
+          {
+            "id": 380205,
+            "title": "Old Glory: The American Flag in Contemporary Art",
+            "description": "<i>Old Glory: The American Flag in Contemporary Art</i>. Phoenix Art Museum (organizer) (March 16-June 16, 1996).",
+            "opening_date": "1996-03-16T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, March 1 - May 14, 1989: \"Year in Review 1988,\" CMA Bulletin, 76 (February 1989), p. 70, no. 59, repr. p. 65.",
+            "opening_date": "1989-03-01T00:00:00"
+          },
+          {
+            "description": "Cleveland, Ohio, Cleveland Center for Contemporary Art, June 14 - August 14, 1994: \"Old Glory: The American Flag in Contemporary Art, catalogue p. 61, no. 18.",
+            "opening_date": "1994-06-14T00:00:00"
+          },
+          {
+            "description": "Phoenix, Arizona, Phoenix Art Museum, March 16 - June 30, 1996: \"Old Glory: The American Flag in Contemporary Art, catalogue p. 61, no. 18.",
+            "opening_date": "1996-03-16T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79940478"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "“The Year in Review for 1988.” <em>The Bulletin of the Cleveland Museum of Art</em> 76, no. 2 (February 1989): 30–75.",
+          "page_number": "Reproduced: p. 65; Mentioned: p. 70, no. 59",
+          "url": "http://www.jstor.org/stable/25160061"
+        },
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 170",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1988.162",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Mr. and Mrs. Thomas A. Mann",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 154043,
+      "creators": [
+        {
+          "id": 400,
+          "description": "Robert Frank (American, 1924–2019)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Robert Frank American, b. Switzerland, 1924-2019. Robert Louis Frank achieved fame for his controversial book, The Americans, which presented in a series of candid black-and-white photographs his observations of American life in the late 1950s. Born in Zurich, Frank began his photographic career as an apprentice with Hermann Eidenbenz in Basel (1940-41) and Michael Wolgensinger in Zurich (1942). After serving in the military in 1944, he worked for Gloria Films in Zurich as a still photographer and in 1946 moved to Paris to establish himself in commercial work. The following year he immigrated to New York City, where he met and was hired by Alexey Brodovitch, art director for Harper's Bazaar. Frank photographed for Brodovitch until 1951, when he began to work as a freelance photojournalist, taking assignments from magazines such as Life, McCall's, and Fortune. He also began exhibiting his pictures in group shows at the Museum of Modern Art, New York. In 1955 and 1956 Frank received back-to-back fellowships from the John Simon Guggenheim Memorial Foundation, which allowed him to travel across America taking photographs. Eighty-three of the images from his road trip appeared in The Americans. On his journey Frank took a subjective documentary approach to record commonplace aspects of American culture: lunch counters, drive-in movies, factories, parades, rodeos, parties. He also captured evidence of poverty, racism, and alienation, challenging the popular perception of a prosperous, harmonious postwar America. The book was first published in France as Les Américains (1958) and the following year appeared in the United States, with an introduction by Beat poet and writer Jack Kerouac. Frank then turned to filmmaking, collaborating with Kerouac and painter Alfred Leslie on Pull My Daisy (1959). The Sin of Jesus (1961), O.K. End Here (1963), Me and My Brother (1968), and Life-Raft Earth (1969) followed. Since 1969 Frank has lived in Cape Breton, Nova Scotia, producing photographs and film with a personal, autobiographical approach. His images have been included in many shows, including a recent one-artist traveling exhibition organized by the National Gallery of Art, Washington, D.C. (1994). M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1924",
+          "death_year": "2019",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1989-02-24T00:00:00",
+      "sortable_date": 1958,
+      "date_added_to_oa": null,
+      "date_text": "c. 1963",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:56.787000"
+    },
+    {
+      "id": 291354,
+      "accession_number": "2016.455",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Men Seated on Park Bench, New York City, 1936. Ilse Bing (American, 1899–1998). Vintage gelatin silver print; image: 28.2 x 24.9 cm (11 1/8 x 9 13/16 in.); paper: 28.2 x 24.9 cm (11 1/8 x 9 13/16 in.); mounted: 41.6 x 34.9 cm (16 3/8 x 13 3/4 in.). The Cleveland Museum of Art, Gift of George Stephanopoulos, 2016.455. © Estate of Ilse Bing",
+      "current_location": null,
+      "title": "Men Seated on Park Bench, New York City",
+      "creation_date": "1936",
+      "creation_date_earliest": 1936,
+      "creation_date_latest": 1936,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "vintage gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 28.2 x 24.9 cm (11 1/8 x 9 13/16 in.); Paper: 28.2 x 24.9 cm (11 1/8 x 9 13/16 in.); Mounted: 41.6 x 34.9 cm (16 3/8 x 13 3/4 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.282,
+          "width": 0.249
+        },
+        "paper": {
+          "height": 0.282,
+          "width": 0.249
+        },
+        "mounted": {
+          "height": 0.416,
+          "width": 0.349
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Estate of Ilse Bing",
+      "inscriptions": [
+        {
+          "inscription": "Commercially imprinted on verso of photograph: “Agfa-Brovira”\nWritten in pencil on verso of photograph: “IB238CNY 2/8/92”\nWritten in black ink on recto of photograph: “Ilse Bing/1936”\nWritten in pencil on verso of mount: “IB238CNY 2/8/92”\nWritten in pencil on verso of mount: “NY130”\nWritten in pencil on verso of mount: “BE023”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 370361,
+            "title": "Ilse Bing: Queen of the Leica",
+            "description": "<i>Ilse Bing: Queen of the Leica</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 6-October 11, 2020).",
+            "opening_date": "2020-03-06T05:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "France and the United States were still enduring the Great Depression in 1936. In the United States, while most of the major economic indicators had returned to the levels of the prosperous late 1920s, unemployment remained high. These men may be office workers on a break, enjoying a pleasant spring afternoon in the park, or among the many citizens who still could not find a job.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79870882"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2016.455",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George Stephanopoulos",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 291354,
+      "creators": [
+        {
+          "id": 291349,
+          "description": "Ilse Bing (American, 1899–1998)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "American and German photographer, born 1899 or 1900, died 1998",
+          "name_in_original_language": null,
+          "birth_year": "1899",
+          "death_year": "1998",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2016-12-05T00:00:00-05:00",
+      "sortable_date": 1936,
+      "date_added_to_oa": null,
+      "date_text": "1936",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:06.647000"
+    },
+    {
+      "id": 702246,
+      "accession_number": "2025.252",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Old Buildings (Jerusalem?), 1933–36. Ellen Auerbach (American, 1906–2004). Gelatin silver print. The Cleveland Museum of Art, GIft of the Estate of Joan Dowling, 2025.252",
+      "current_location": null,
+      "title": "Old Buildings (Jerusalem?)",
+      "creation_date": "1933–36",
+      "creation_date_earliest": 1933,
+      "creation_date_latest": 1936,
+      "artists_tags": [
+        "female",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "In<strong> </strong>Jerusalem, a very ancient city, many layers of history may be visible in the same building.",
+      "description": "Ellen Auerbach’s photograph shows the accretions that grew around this old building over time. Various generations (perhaps from different cultures) built beside the massive stone structure. Demonstrating the density of the old city is a single palm tree sticking up between the various facades.",
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2025.252",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "GIft of the Estate of Joan Dowling",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 702246,
+      "creators": [
+        {
+          "id": 523130,
+          "description": "Ellen Auerbach (American, 1906–2004)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "American photographer born in Germany, 1906",
+          "name_in_original_language": null,
+          "birth_year": "1906",
+          "death_year": "2004",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2025-12-08T05:00:00Z",
+      "sortable_date": 1933,
+      "date_added_to_oa": null,
+      "date_text": "1933–36",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:56.342000"
+    },
+    {
+      "id": 370131,
+      "accession_number": "2019.263",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Veracruz 272, 1973, printed 1980s. Aaron Siskind (American, 1903–1991). Gelatin silver print; image: 19.1 x 18 cm (7 1/2 x 7 1/16 in.); paper: 25.2 x 20.2 cm (9 15/16 x 7 15/16 in.). The Cleveland Museum of Art, Gift of George and Joan Violin, 2019.263",
+      "current_location": null,
+      "title": "Veracruz 272",
+      "creation_date": "1973, printed 1980s",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 19.1 x 18 cm (7 1/2 x 7 1/16 in.); Paper: 25.2 x 20.2 cm (9 15/16 x 7 15/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.191,
+          "width": 0.18
+        },
+        "paper": {
+          "height": 0.252,
+          "width": 0.202
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in black ink on recto: “V.C. 272 1973 Aaron Siskind (signed)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “VC 272-‘73/5”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “5”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “PF133086”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “ASF 15526”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Commercially imprinted throughout verso: “Agfa”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(G.W. Einstein, Inc., New York, NY)",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "George and Joan Violin",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 3, 2019",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Aaron Siskind taught high school English in New York City for 23 years before he took up photography.",
+      "description": "Siskind found motifs in the city or in nature that, when detached from their context through close-up, enter into a dialogue with contemporary avant-garde painting, especially Abstract Expressionism. Whether capturing fragments of nature, architecture, or the urban environment, Siskind created images that explored abstraction, symbolism, gesture, and texture.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q84279393"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2019.263",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George and Joan Violin",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 370131,
+      "creators": [
+        {
+          "id": 912,
+          "description": "Aaron Siskind (American, 1903–1991)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Aaron Siskind American, 1903-1991 Born in New York City, Aaron Siskind inspired many photographers through the example of his own work and his instruction at the Institute of Design, Illinois Institute of Technology, and at the Rhode Island School of Design. Graduating from City College of New York in 1926, Siskind taught English in the city's public schools for 23 years. He took up photography as a hobby in 1930 and two years later learned to process and print his own images. Around this time he joined the Photo League, an organization of socially concerned photographers who promoted documentary photography. Siskind headed the league's project focusing on Harlem (Harlem Document) and also produced his own series Tabernacle City, Bucks County and The Most Crowded Block in the World. In the early 1940s, Siskind's work gradually shifted from a social documentary approach to a more abstract and personal style. During summers on Martha's Vineyard and in Gloucester, Massachusetts, he began photographing natural objects close up, eliminating deep, naturalistic space and concentrating on the primacy of the flat, two-dimensional surface of the photograph. As a result of his experiments, he came to be interested in the photograph as a physical object in its own right, rather than as a reflection of the outside world. In 1947 Siskind exhibited his new work at the Egan Gallery in New York, where the paintings of the abstract expressionists were shown. He became friends with painter Franz Kline and other members of his circle and through their support published his first book, Aaron Siskind: Photographs (1959). In the 1950s Siskind also began to establish himself as a photography teacher. He gained his first experience as a part-time instructor at Trenton College (1949-51), then taught during the summer of 1951 at Black Mountain College in North Carolina. There he worked with Harry Callahan, who invited him to join the staff of the Institute of Design in Chicago. Siskind taught at the institute from 1951-71, when he left to join the Rhode Island School of Design where Callahan now headed the department of photography. Siskind continued to teach at the school until his retirement in 1976. Over the years Siskind remained interested in exploring the formal and abstract qualities of photography, becoming known for his closeup, abstracted views of rocks, peeling paint, bits of graffiti, torn signs, and other objects. He exhibited widely, and in 1982 his photographs were featured in a major retrospective, Aaron Siskind: Fifty Years, organized by the Center for Creative Photography, Tucson. M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1903",
+          "death_year": "1991",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-12-02T00:00:00-05:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973, printed 1980s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:04:50.794000"
+    },
+    {
+      "id": 282748,
+      "accession_number": "2016.556",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Stores in Plain City, Ohio, 1938. Ben Shahn (American, 1898–1969). Gelatin silver print; image: 16.2 x 24.3 cm (6 3/8 x 9 9/16 in.); paper: 20.5 x 25.3 cm (8 1/16 x 9 15/16 in.). The Cleveland Museum of Art, Gift of Samuel J. Lehr, 2016.556. ©  Estate of Ben Shahn / Licensed by VAGA at Artists Rights Society (ARS), NY",
+      "current_location": null,
+      "title": "Stores in Plain City, Ohio",
+      "creation_date": "1938",
+      "creation_date_earliest": 1938,
+      "creation_date_latest": 1938,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 16.2 x 24.3 cm (6 3/8 x 9 9/16 in.); Paper: 20.5 x 25.3 cm (8 1/16 x 9 15/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.162,
+          "width": 0.243
+        },
+        "paper": {
+          "height": 0.205,
+          "width": 0.253
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "©  Estate of Ben Shahn / Licensed by VAGA at Artists Rights Society (ARS), NY",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “$7500”\nWritten in pencil on verso: “August 1938/[illegible writing]/OH”\nWritten in pencil on verso: “6646 M4”\nWritten in black marker on verso: “P”\nStamped in black ink on verso: “BEN SHAHN/PHOTOGRAPHER/FARM SECURITY ADMINISTRATION/formerly from the collection of The Fogg Museum”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "American painter and printmaker Ben Shahn also had a significant career as a photographer in the 1930s surveying the impact of the Great Depression on the American people. In July and August 1938, the Farm Security Administration, a federal agency, commissioned Shahn to cover the harvest in Central Ohio. His photographs constitute an invaluable in-depth portrait of rural and small town life in 1930s Ohio.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80085531"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2016.556",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Samuel J. Lehr",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 282748,
+      "creators": [
+        {
+          "id": 4127,
+          "description": "Ben Shahn (American, 1898–1969)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1898",
+          "death_year": "1969",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2017-02-27T00:00:00-05:00",
+      "sortable_date": 1938,
+      "date_added_to_oa": null,
+      "date_text": "1938",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Untitled"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:05:32.992000"
+    },
+    {
+      "id": 313226,
+      "accession_number": "2018.215",
+      "share_license_status": "CC0",
+      "tombstone": "Agra. The Fort, 1890. Photoglob Co. (Zurich, active c. 1890–1910). Photochrom; image: 20.4 x 26.5 cm (8 1/16 x 10 7/16 in.); paper: 20.4 x 26.5 cm (8 1/16 x 10 7/16 in.). The Cleveland Museum of Art, Purchase from the Karl B. Goldfield Trust, 2018.215",
+      "current_location": null,
+      "title": "Agra. The Fort",
+      "creation_date": "1890",
+      "creation_date_earliest": 1890,
+      "creation_date_latest": 1890,
+      "artists_tags": [],
+      "culture": [
+        "India, 19th century"
+      ],
+      "technique": "Photochrom",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 20.4 x 26.5 cm (8 1/16 x 10 7/16 in.); Paper: 20.4 x 26.5 cm (8 1/16 x 10 7/16 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.204,
+          "width": 0.265
+        },
+        "image": {
+          "height": 0.204,
+          "width": 0.265
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Imprinted in gold on recto in lower left corner: “20027. P.Z.-AGRA. THE FORT.”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Bruno Tartarin, Photovintagefrance, Lorraine, France",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "the Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "September 4, 2018",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "It took 1,444,000 builders eight years to build the sandstone fort, which was completed in 1573.",
+      "description": "Known as the Red Fort because of the rosy sandstone used to build it; the fort was a walled city that served as home to the Mughal emperors until 1638. The height and massiveness of the walls are emphasized by the inclusion of the Indian travelers resting in the foreground.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79873850"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2018.215-agra-the-fort"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.215",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2018.215/2018.215_web.jpg",
+          "width": "900",
+          "height": "696",
+          "filesize": "328387",
+          "filename": "2018.215_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2018.215/2018.215_print.jpg",
+          "width": "3400",
+          "height": "2631",
+          "filesize": "3558637",
+          "filename": "2018.215_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2018.215/2018.215_full.tif",
+          "width": "6218",
+          "height": "4812",
+          "filesize": "89792400",
+          "filename": "2018.215_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2019-04-10T15:30:37",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2018.215/2018.215_alt0_web.jpg",
+            "width": "900",
+            "height": "698",
+            "filesize": "167756"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2018.215/2018.215_alt0_print.jpg",
+            "width": "3400",
+            "height": "2638",
+            "filesize": "1974444"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2018.215/2018.215_alt0_full.tif",
+            "width": "6389",
+            "height": "4958",
+            "filesize": "95056048"
+          }
+        }
+      ],
+      "creditline": "Purchase from the Karl B. Goldfield Trust",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 313226,
+      "creators": [
+        {
+          "id": 313224,
+          "description": "Photoglob Co. (Zurich, active c. 1890–1910)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-09-04T00:00:00-04:00",
+      "sortable_date": 1890,
+      "date_added_to_oa": null,
+      "date_text": "1890",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:59.860000"
+    },
+    {
+      "id": 370124,
+      "accession_number": "2019.259",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Chicago 35, 1949. Aaron Siskind (American, 1903–1991). Gelatin silver print; image: 19.6 x 34.1 cm (7 11/16 x 13 7/16 in.). The Cleveland Museum of Art, Gift of George and Joan Violin, 2019.259",
+      "current_location": null,
+      "title": "Chicago 35",
+      "creation_date": "1949",
+      "creation_date_earliest": 1949,
+      "creation_date_latest": 1949,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 19.6 x 34.1 cm (7 11/16 x 13 7/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.196,
+          "width": 0.341
+        },
+        "paper": {
+          "height": 0.225,
+          "width": 0.352
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “Chicago 35 1949/Aaron Siskind (signed)/Ch 35 ‘49/K4”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “12/56”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “PF133108”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “28047”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(G.W. Einstein, Inc., New York, NY)",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "George and Joan Violin",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 3, 2019",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Aaron Siskind taught high school English in New York City for 23 years before he took up photography.",
+      "description": "Siskind found motifs in the city or in nature that, when detached from their context through close-up, enter into a dialogue with contemporary avant-garde painting, especially abstract expressionism.  Whether capturing fragments of nature, architecture, or the urban environment, Siskind created images that explored abstraction, symbolism, gesture, and texture.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q84279321"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2019.259",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George and Joan Violin",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 370124,
+      "creators": [
+        {
+          "id": 912,
+          "description": "Aaron Siskind (American, 1903–1991)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Aaron Siskind American, 1903-1991 Born in New York City, Aaron Siskind inspired many photographers through the example of his own work and his instruction at the Institute of Design, Illinois Institute of Technology, and at the Rhode Island School of Design. Graduating from City College of New York in 1926, Siskind taught English in the city's public schools for 23 years. He took up photography as a hobby in 1930 and two years later learned to process and print his own images. Around this time he joined the Photo League, an organization of socially concerned photographers who promoted documentary photography. Siskind headed the league's project focusing on Harlem (Harlem Document) and also produced his own series Tabernacle City, Bucks County and The Most Crowded Block in the World. In the early 1940s, Siskind's work gradually shifted from a social documentary approach to a more abstract and personal style. During summers on Martha's Vineyard and in Gloucester, Massachusetts, he began photographing natural objects close up, eliminating deep, naturalistic space and concentrating on the primacy of the flat, two-dimensional surface of the photograph. As a result of his experiments, he came to be interested in the photograph as a physical object in its own right, rather than as a reflection of the outside world. In 1947 Siskind exhibited his new work at the Egan Gallery in New York, where the paintings of the abstract expressionists were shown. He became friends with painter Franz Kline and other members of his circle and through their support published his first book, Aaron Siskind: Photographs (1959). In the 1950s Siskind also began to establish himself as a photography teacher. He gained his first experience as a part-time instructor at Trenton College (1949-51), then taught during the summer of 1951 at Black Mountain College in North Carolina. There he worked with Harry Callahan, who invited him to join the staff of the Institute of Design in Chicago. Siskind taught at the institute from 1951-71, when he left to join the Rhode Island School of Design where Callahan now headed the department of photography. Siskind continued to teach at the school until his retirement in 1976. Over the years Siskind remained interested in exploring the formal and abstract qualities of photography, becoming known for his closeup, abstracted views of rocks, peeling paint, bits of graffiti, torn signs, and other objects. He exhibited widely, and in 1982 his photographs were featured in a major retrospective, Aaron Siskind: Fifty Years, organized by the Center for Creative Photography, Tucson. M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1903",
+          "death_year": "1991",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-12-02T00:00:00-05:00",
+      "sortable_date": 1949,
+      "date_added_to_oa": null,
+      "date_text": "1949",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:23.222000"
+    },
+    {
+      "id": 370129,
+      "accession_number": "2019.261",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Jalapa (Homage to Franz Kline) 6, 1973, printed later. Aaron Siskind (American, 1903–1991). Gelatin silver print; image: 25.5 x 24.6 cm (10 1/16 x 9 11/16 in.); paper: 35.5 x 27.6 cm (14 x 10 7/8 in.). The Cleveland Museum of Art, Gift of George and Joan Violin, 2019.261",
+      "current_location": null,
+      "title": "Jalapa (Homage to Franz Kline) 6",
+      "creation_date": "1973, printed later",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1973,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 25.5 x 24.6 cm (10 1/16 x 9 11/16 in.); Paper: 35.5 x 27.6 cm (14 x 10 7/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.255,
+          "width": 0.246
+        },
+        "paper": {
+          "height": 0.355,
+          "width": 0.276
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in black ink on recto: “Aaron Siskind (signed)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “Jalapa 6 1973/Aaron Siskind (signed)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “Jalapa 6 ‘73/4”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “62”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “PF133143”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “ASF 14704”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(G.W. Einstein, Inc., New York, NY)",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "George and Joan Violin",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 3, 2019",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Aaron Siskind taught high school English in New York City for 23 years before he took up photography.",
+      "description": "Siskind found motifs in the city or in nature that, when detached from their context through close-up, enter into a dialogue with contemporary avant-garde painting, especially Abstract Expressionism. Whether capturing fragments of nature, architecture, or the urban environment, Siskind created images that explored abstraction, symbolism, gesture, and texture.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q84279354"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2019.261",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George and Joan Violin",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 370129,
+      "creators": [
+        {
+          "id": 912,
+          "description": "Aaron Siskind (American, 1903–1991)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Aaron Siskind American, 1903-1991 Born in New York City, Aaron Siskind inspired many photographers through the example of his own work and his instruction at the Institute of Design, Illinois Institute of Technology, and at the Rhode Island School of Design. Graduating from City College of New York in 1926, Siskind taught English in the city's public schools for 23 years. He took up photography as a hobby in 1930 and two years later learned to process and print his own images. Around this time he joined the Photo League, an organization of socially concerned photographers who promoted documentary photography. Siskind headed the league's project focusing on Harlem (Harlem Document) and also produced his own series Tabernacle City, Bucks County and The Most Crowded Block in the World. In the early 1940s, Siskind's work gradually shifted from a social documentary approach to a more abstract and personal style. During summers on Martha's Vineyard and in Gloucester, Massachusetts, he began photographing natural objects close up, eliminating deep, naturalistic space and concentrating on the primacy of the flat, two-dimensional surface of the photograph. As a result of his experiments, he came to be interested in the photograph as a physical object in its own right, rather than as a reflection of the outside world. In 1947 Siskind exhibited his new work at the Egan Gallery in New York, where the paintings of the abstract expressionists were shown. He became friends with painter Franz Kline and other members of his circle and through their support published his first book, Aaron Siskind: Photographs (1959). In the 1950s Siskind also began to establish himself as a photography teacher. He gained his first experience as a part-time instructor at Trenton College (1949-51), then taught during the summer of 1951 at Black Mountain College in North Carolina. There he worked with Harry Callahan, who invited him to join the staff of the Institute of Design in Chicago. Siskind taught at the institute from 1951-71, when he left to join the Rhode Island School of Design where Callahan now headed the department of photography. Siskind continued to teach at the school until his retirement in 1976. Over the years Siskind remained interested in exploring the formal and abstract qualities of photography, becoming known for his closeup, abstracted views of rocks, peeling paint, bits of graffiti, torn signs, and other objects. He exhibited widely, and in 1982 his photographs were featured in a major retrospective, Aaron Siskind: Fifty Years, organized by the Center for Creative Photography, Tucson. M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1903",
+          "death_year": "1991",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-12-02T00:00:00-05:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973, printed later",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:58.576000"
+    },
+    {
+      "id": 360442,
+      "accession_number": "2019.185",
+      "share_license_status": "CC0",
+      "tombstone": "India. Benares. Aurangzeb's Mosque, after a photo by Dr. Kurt Boeck, c. 1890–1910. Photoglob Co. (Zurich, active c. 1890–1910). Photochrom; image: 20.5 x 26.7 cm (8 1/16 x 10 1/2 in.); paper: 20.5 x 26.7 cm (8 1/16 x 10 1/2 in.); mounted: 25.4 x 29.8 cm (10 x 11 3/4 in.). The Cleveland Museum of Art, Gift of Catherine Glynn Benkaim and Barbara Timmer, 2019.185",
+      "current_location": null,
+      "title": "India. Benares. Aurangzeb's Mosque, after a photo by Dr. Kurt Boeck",
+      "creation_date": "c. 1890–1910",
+      "creation_date_earliest": 1885,
+      "creation_date_latest": 1915,
+      "artists_tags": [],
+      "culture": [
+        "India, 19th century"
+      ],
+      "technique": "Photochrom",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 20.5 x 26.7 cm (8 1/16 x 10 1/2 in.); Paper: 20.5 x 26.7 cm (8 1/16 x 10 1/2 in.); Mounted: 25.4 x 29.8 cm (10 x 11 3/4 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.205,
+          "width": 0.267
+        },
+        "image": {
+          "height": 0.205,
+          "width": 0.267
+        },
+        "mounted": {
+          "height": 0.254,
+          "width": 0.298
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Imprinted in type on recto: “20.026.P.Z.-BENARES.AURUNGZEB’S MOSQUE",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso of mount: “5 (circled and scribbled out)/1 (circled) GUR AUPP”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Collection of Gunther Heil, Germany",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "Catherine Glynn Benkaim and Barbara Timmer, Beverly Hills, CA, given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 9, 2019",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The Taj Mahal was created as a tomb for Aurangzeb’s mother.",
+      "description": "The sixth Mughal emperor Aurangzeb, a very pious Muslim, had this enormous mosque built in a blend of Islamic and Hindu architectural styles. It was constructed in the late 17th century on the site of one of the most sacred ancient Hindu temples in the city of Varanasi (formerly Benares).",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79877998"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2019.185-india-benares-aurang"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2019.185",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.185/2019.185_web.jpg",
+          "width": "900",
+          "height": "764",
+          "filesize": "327691",
+          "filename": "2019.185_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.185/2019.185_print.jpg",
+          "width": "3400",
+          "height": "2886",
+          "filesize": "3748147",
+          "filename": "2019.185_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.185/2019.185_full.tif",
+          "width": "10589",
+          "height": "8988",
+          "filesize": "285552700",
+          "filename": "2019.185_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2020-08-28T15:55:03",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2019.185/2019.185_alt0_web.jpg",
+            "width": "900",
+            "height": "766",
+            "filesize": "203426"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2019.185/2019.185_alt0_print.jpg",
+            "width": "3400",
+            "height": "2895",
+            "filesize": "3033862"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2019.185/2019.185_alt0_full.tif",
+            "width": "10587",
+            "height": "9016",
+            "filesize": "286383072"
+          }
+        }
+      ],
+      "creditline": "Gift of Catherine Glynn Benkaim and Barbara Timmer",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 360442,
+      "creators": [
+        {
+          "id": 313224,
+          "description": "Photoglob Co. (Zurich, active c. 1890–1910)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-09-09T00:00:00-04:00",
+      "sortable_date": 1885,
+      "date_added_to_oa": null,
+      "date_text": "c. 1890–1910",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:09.687000"
+    },
+    {
+      "id": 370130,
+      "accession_number": "2019.262",
+      "share_license_status": "Copyrighted",
+      "tombstone": "New York Windows 1, 1947, printed 1981. Aaron Siskind (American, 1903–1991). Gelatin silver print; image: 32.9 x 25.4 cm (12 15/16 x 10 in.); paper: 35.3 x 27.9 cm (13 7/8 x 11 in.). The Cleveland Museum of Art, Gift of George and Joan Violin, 2019.262",
+      "current_location": null,
+      "title": "New York Windows 1",
+      "creation_date": "1947, printed 1981",
+      "creation_date_earliest": 1947,
+      "creation_date_latest": 1947,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 32.9 x 25.4 cm (12 15/16 x 10 in.); Paper: 35.3 x 27.9 cm (13 7/8 x 11 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.329,
+          "width": 0.254
+        },
+        "paper": {
+          "height": 0.353,
+          "width": 0.279
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “(arrow pointing up)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “New York 1 1947/Aaron Siskind (signed)/(9/81)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “Windows/NYC 1 47”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “17”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “ASFD1103-SP”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “PF133098”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “10.032”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(G.W. Einstein, Inc., New York, NY)",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "George and Joan Violin",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 3, 2019",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Aaron Siskind taught high school English in New York City for 23 years before he took up photography.",
+      "description": "Siskind found motifs in the city or in nature that, when detached from their context through close-up, enter into a dialogue with contemporary avant-garde painting, especially Abstract Expressionism. Whether capturing fragments of nature, architecture, or the urban environment, Siskind created images that explored abstraction, symbolism, gesture, and texture.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q84279373"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2019.262",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George and Joan Violin",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 370130,
+      "creators": [
+        {
+          "id": 912,
+          "description": "Aaron Siskind (American, 1903–1991)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Aaron Siskind American, 1903-1991 Born in New York City, Aaron Siskind inspired many photographers through the example of his own work and his instruction at the Institute of Design, Illinois Institute of Technology, and at the Rhode Island School of Design. Graduating from City College of New York in 1926, Siskind taught English in the city's public schools for 23 years. He took up photography as a hobby in 1930 and two years later learned to process and print his own images. Around this time he joined the Photo League, an organization of socially concerned photographers who promoted documentary photography. Siskind headed the league's project focusing on Harlem (Harlem Document) and also produced his own series Tabernacle City, Bucks County and The Most Crowded Block in the World. In the early 1940s, Siskind's work gradually shifted from a social documentary approach to a more abstract and personal style. During summers on Martha's Vineyard and in Gloucester, Massachusetts, he began photographing natural objects close up, eliminating deep, naturalistic space and concentrating on the primacy of the flat, two-dimensional surface of the photograph. As a result of his experiments, he came to be interested in the photograph as a physical object in its own right, rather than as a reflection of the outside world. In 1947 Siskind exhibited his new work at the Egan Gallery in New York, where the paintings of the abstract expressionists were shown. He became friends with painter Franz Kline and other members of his circle and through their support published his first book, Aaron Siskind: Photographs (1959). In the 1950s Siskind also began to establish himself as a photography teacher. He gained his first experience as a part-time instructor at Trenton College (1949-51), then taught during the summer of 1951 at Black Mountain College in North Carolina. There he worked with Harry Callahan, who invited him to join the staff of the Institute of Design in Chicago. Siskind taught at the institute from 1951-71, when he left to join the Rhode Island School of Design where Callahan now headed the department of photography. Siskind continued to teach at the school until his retirement in 1976. Over the years Siskind remained interested in exploring the formal and abstract qualities of photography, becoming known for his closeup, abstracted views of rocks, peeling paint, bits of graffiti, torn signs, and other objects. He exhibited widely, and in 1982 his photographs were featured in a major retrospective, Aaron Siskind: Fifty Years, organized by the Center for Creative Photography, Tucson. M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1903",
+          "death_year": "1991",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2019-12-02T00:00:00-05:00",
+      "sortable_date": 1947,
+      "date_added_to_oa": null,
+      "date_text": "1947, printed 1981",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:38.643000"
+    },
+    {
+      "id": 147955,
+      "accession_number": "1974.53",
+      "share_license_status": "Copyrighted",
+      "tombstone": "New Shoes for H, 1973–74. Don Eddy (American, 1944-). Acrylic on canvas; framed: 122.7 x 133 x 8.2 cm (48 5/16 x 52 3/8 x 3 1/4 in.); unframed: 111.7 x 121.9 cm (44 x 48 in.). The Cleveland Museum of Art, Purchased with a grant from the NEA and matched by gifts from members of The Cleveland Society for Contemporary Art, 1974.53",
+      "current_location": null,
+      "title": "New Shoes for H",
+      "creation_date": "1973–74",
+      "creation_date_earliest": 1973,
+      "creation_date_latest": 1974,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "acrylic on canvas",
+      "support_materials": [],
+      "department": "Contemporary Art",
+      "collection": "CONTEMP - Painting",
+      "type": "Painting",
+      "measurements": "Framed: 122.7 x 133 x 8.2 cm (48 5/16 x 52 3/8 x 3 1/4 in.); Unframed: 111.7 x 121.9 cm (44 x 48 in.)",
+      "dimensions": {
+        "framed": {
+          "height": 1.227,
+          "width": 1.33,
+          "depth": 0.082
+        },
+        "unframed": {
+          "height": 1.117,
+          "width": 1.219
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "signed and dated on back of painting:  Don Eddy, 1973-74",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 444754,
+            "title": "Selections in Contemporary Realism",
+            "description": "<i>Selections in Contemporary Realism</i>. Akron Art Museum, Akron, OH (organizer) (October 27-December 1, 1974).",
+            "opening_date": "1974-10-27T04:00:00"
+          },
+          {
+            "id": 444303,
+            "title": "Image, Color, and Form",
+            "description": "<i>Image, Color, and Form</i>. The Toledo Museum of Art, Toledo, OH (organizer) (January 11-February 9, 1975).",
+            "opening_date": "1975-01-11T05:00:00"
+          },
+          {
+            "id": 302084,
+            "title": "Year in Review: 1974",
+            "description": "<i>Year in Review: 1974</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 11-April 6, 1975).",
+            "opening_date": "1975-03-11T04:00:00"
+          },
+          {
+            "id": 444323,
+            "title": "Don Eddy: Recent Paintings and Drawings",
+            "description": "<i>Don Eddy: Recent Paintings and Drawings</i>. Williams College Museum of Art, Williamstown, MA (organizer) (April 7-May 7, 1975).",
+            "opening_date": "1975-04-07T04:00:00"
+          },
+          {
+            "id": 302349,
+            "title": "Materials and Techniques of 20th-Century Artists",
+            "description": "<i>Materials and Techniques of 20th-Century Artists</i>. The Cleveland Museum of Art, Cleveland, OH (November 17, 1976-January 2, 1977).",
+            "opening_date": "1976-11-17T05:00:00"
+          },
+          {
+            "id": 187192,
+            "title": "Object in Focus: New Shoes for H by Don Eddy",
+            "description": "<i>Object in Focus: New Shoes for H by Don Eddy</i>. The Cleveland Museum of Art (organizer) (August 3-October 3, 1999).",
+            "opening_date": "1999-08-03T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "<em>One Eye View: Impact of Photography on Paintings and Prints Since 1960</em>. Ann Arbor, MI, The University of Michigan Museum of Art. (1976).",
+            "opening_date": "1976-01-01T05:00:00Z"
+          },
+          {
+            "description": "<em>Partner's in Purchase: Ohio Museum and the National Endowment for the Art</em>s. Columbus Museum of Art, Columbus, OH (September 23–29, 1985).",
+            "opening_date": "1985-09-23T04:00:00Z"
+          },
+          {
+            "description": "Arts Day USA, Jun 7, 1990 (covered in black to encourage people to support the NEA and NEH).",
+            "opening_date": "1990-06-07T00:00:00"
+          },
+          {
+            "description": "<em>Hyperrealismes USA 1965-1975</em>. Musee d'Art moderne et contemporain de Strasbourg (June 27–Oct. 5, 2003).",
+            "opening_date": "2003-06-27T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "(Nancy Hoffman Gallery, NY)",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The storefront in <em>New Shoes for H</em> depicts Simco Shoes, a store that once stood on the corner of University and East 14th Street in New York City.",
+      "description": "Don Eddy numbers among the American painters called \"Photorealists.\" These artists used photographs as inspiration for skillfully rendered representational images, but in reality, their work did not report the factual accuracy that a photograph implies. Eddy once explained, \"You can either look through the window, or at the window, or at the reflection in the window. Nobody ever looks at all three at once, because it is impossible to focus on all three.\" In New Shoes for H, however, Eddy tried to accomplish this feat. Rather than creating a realistic representation of the matter, Eddy re-interpreted the image, exaggerated colors, and combined elements of several different photographs. Although rendered in a realistic style, the resulting painting is a product of the artist's creativity and interpretation.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60472669"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Doty, Robert M, New Gallery of Contemporary Art, Akron Art Institute, New Gallery (Cleveland, Ohio), and Akron Art Institute. 1974. <em>Selections in Contemporary Realism</em>. Akron, Ohio: Akron Art Institute.",
+          "page_number": "Reproduced: cover;  p. 11",
+          "url": ""
+        },
+        {
+          "citation": "Toledo Museum of Art and Toledo Modern Art Group. 1975. <em>Image, Color, and Form : Recent Paintings by Eleven Americans : January 12 through February 9, 1975 : Organized by the Toledo Museum of Art and the Toledo Modern Art Group</em>. Toledo, Ohio: Toledo Museum of Art.",
+          "page_number": "cat. no. 13",
+          "url": ""
+        },
+        {
+          "citation": "Lee, Sherman E. “The Year in Review for 1974.” <em>The Bulletin of the Cleveland Museum of Art</em> 62, no. 3 (March 1975): 62–102.",
+          "page_number": "Mentioned: p. 101, no. 174; Reproduced: p. 85",
+          "url": "http://www.jstor.org/stable/25152580"
+        },
+        {
+          "citation": "Hinson, Tom E. “Eddy: New Shoes for H.” <em>The Bulletin of the Cleveland Museum of Art</em> 62, no. 10 (December 1975): 291–299.",
+          "page_number": "Mentioned: p. 291-299; Reproduced: p. 292-293, fig. 1-4",
+          "url": "http://www.jstor.org/stable/25152614"
+        },
+        {
+          "citation": "Weisberg, Gabriel P, Cleveland State University, and Cleveland Museum of Art, 1976. <em>Materials and Techniques of 20th-Century Artists : An Exhibition</em>. Themes in Art. Cleveland: Dept. of Art History &amp; Education, Cleveland Museum of Art.",
+          "page_number": "Cat no. 16, reproduced on frontispiece, detail on cover.",
+          "url": ""
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+          "page_number": "Reproduced: p. 257",
+          "url": "https://archive.org/details/CMAHandbook1978/page/n277"
+        },
+        {
+          "citation": "Lebensztejn, Jean Claude, Patrick Javault, and Musée d’art moderne et contemporain de Strasbourg. 2003. <em>Hyperréalismes Usa, 1965-1975 : Musée D’art Moderne Et Contemporain De Strasbourg, 27 Juin-5 Octobre 2003</em>. Paris: Hazan.",
+          "page_number": "exh. cat. p. 189",
+          "url": ""
+        },
+        {
+          "citation": "Buser, Thomas. <em>Experiencing Art Around Us</em>. Australia; United States: Thomson Wadsworth, 2006.",
+          "page_number": "Mentioned and Reproduced: p. 14, fig 1-13",
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/1974.53",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Purchased with a grant from the NEA and matched by gifts from members of The Cleveland Society for Contemporary Art",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 147955,
+      "creators": [
+        {
+          "id": 3432,
+          "description": "Don Eddy (American, 1944-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1944",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1974-05-21T00:00:00",
+      "sortable_date": 1973,
+      "date_added_to_oa": null,
+      "date_text": "1973–74",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:35.857000"
+    },
+    {
+      "id": 317933,
+      "accession_number": "2018.881",
+      "share_license_status": "Copyrighted",
+      "tombstone": "East 100th Street: Untitled, 1966–1968. Bruce Davidson (American, b. 1933). Gelatin silver print; image: 15.7 x 21.2 cm (6 3/16 x 8 3/8 in.); paper: 27.6 x 35.5 cm (10 7/8 x 14 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.881",
+      "current_location": null,
+      "title": "Untitled",
+      "series": "East 100th Street",
+      "creation_date": "1966–1968",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1968,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 15.7 x 21.2 cm (6 3/16 x 8 3/8 in.); Paper: 27.6 x 35.5 cm (10 7/8 x 14 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.276,
+          "width": 0.355
+        },
+        "image": {
+          "height": 0.157,
+          "width": 0.212
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"Bruce Davidson\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"66-46-221/3\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Davidson’s photographs of Spanish Harlem were used as evidence of squalid housing conditions in claims against New York City.",
+      "description": "Davidson spent two years photographing in Spanish Harlem, attempting to integrate himself into the daily lives of its residents. In the past he had used a 35mm camera, but here he turned to a large-format, 4 x 5-inch camera, which requires a tripod and slows down the act of photographing, making the session more of a shared experience, a give and take.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876864"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.881",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317933,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–1968",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:15.597000"
+    },
+    {
+      "id": 317936,
+      "accession_number": "2018.884",
+      "share_license_status": "Copyrighted",
+      "tombstone": "East 100th Street: Untitled, 1966–1968. Bruce Davidson (American, b. 1933). Gelatin silver print; image: 22.2 x 30.6 cm (8 3/4 x 12 1/16 in.); paper: 27.6 x 35 cm (10 7/8 x 13 3/4 in.). The Cleveland Museum of Art, Gift of an anonymous donor, 2018.884",
+      "current_location": null,
+      "title": "Untitled",
+      "series": "East 100th Street",
+      "creation_date": "1966–1968",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1968,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 22.2 x 30.6 cm (8 3/4 x 12 1/16 in.); Paper: 27.6 x 35 cm (10 7/8 x 13 3/4 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.276,
+          "width": 0.35
+        },
+        "image": {
+          "height": 0.222,
+          "width": 0.306
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"Bruce Davidson\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"66-46-888/1\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Davidson’s photographs of Spanish Harlem were used as evidence of squalid housing conditions in claims against New York City.",
+      "description": "Davidson spent two years photographing in Spanish Harlem, attempting to integrate himself into the daily lives of its residents. In the past he had used a 35mm camera, but here he turned to a large-format, 4 x 5-inch camera, which requires a tripod and slows down the act of photographing, making the session more of a shared experience, a give and take.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79876873"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.884",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of an anonymous donor",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 317936,
+      "creators": [
+        {
+          "id": 64191,
+          "description": "Bruce Davidson (American, b. 1933)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1933",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–1968",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:33.271000"
+    }
+  ]
+}

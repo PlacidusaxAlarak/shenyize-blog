@@ -1,0 +1,371 @@
+{
+  "data": {
+    "id": 132908,
+    "accession_number": "1955.36",
+    "share_license_status": "CC0",
+    "tombstone": "Landscape after Guo Zhongshu (仿郭忠恕山水), c. 1680–1705. Bada Shanren (Chinese, 1626–1705). Hanging scroll; ink on paper; painting: 109.9 x 56.4 cm (43 1/4 x 22 3/16 in.); overall with knobs: 247.7 x 84.5 cm (97 1/2 x 33 1/4 in.). The Cleveland Museum of Art, John L. Severance Fund, 1955.36",
+    "current_location": null,
+    "title": "Landscape after Guo Zhongshu",
+    "title_in_original_language": "仿郭忠恕山水",
+    "creation_date": "c. 1680–1705",
+    "creation_date_earliest": 1675,
+    "creation_date_latest": 1705,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "China, Qing dynasty (1644-1911)"
+    ],
+    "technique": "Hanging scroll; ink on paper",
+    "support_materials": [],
+    "department": "Chinese Art",
+    "collection": "ASIAN - Hanging scroll",
+    "type": "Painting",
+    "measurements": "Painting: 109.9 x 56.4 cm (43 1/4 x 22 3/16 in.); Overall with knobs: 247.7 x 84.5 cm (97 1/2 x 33 1/4 in.)",
+    "dimensions": {
+      "painting": {
+        "height": 1.099,
+        "width": 0.564
+      },
+      "overall with knobs": {
+        "height": 2.477,
+        "width": 0.845
+      },
+      "overall": {
+        "height": 2.477,
+        "width": 0.74
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Artist's inscription, signature, and 3 seals: Painting after Guo Shuxian [Guo Zhongshu]. Bada shanren. [2 seals] Shanren; Kede shenxian 可得神仙. [seal, lower left corner] Yaozhu 遥属",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      },
+      {
+        "inscription": "8 additional seals: 1 of Li Shifen (1821-1885); 4 of Chang Yüan 張爰 [Zhang Daqian 張大千] (1899-1983); 3 unidentified.",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 300857,
+          "title": "Art: The International Language",
+          "description": "<i>Art: The International Language</i>. The Cleveland Museum of Art (October 2-November 4, 1956).",
+          "opening_date": "1956-10-02T04:00:00"
+        },
+        {
+          "id": 520794,
+          "title": "Fifteen Chinese Paintings from the Cleveland Museum of Art",
+          "description": "<i>Fifteen Chinese Paintings from the Cleveland Museum of Art</i>. Smith College Museum of Art, Northampton, MA (organizer) (October 9-28, 1964).",
+          "opening_date": "1964-10-09T04:00:00"
+        },
+        {
+          "id": 444960,
+          "title": "Chu Ta: Selected Paintings and Calligraphy",
+          "description": "<i>Chu Ta: Selected Paintings and Calligraphy</i>. The Frances Lehman Loeb Art Center (organizer) (December 2, 1972-January 28, 1973); The New York Cultural Center, New York, NY (February 28-April 15, 1973).",
+          "opening_date": "1972-12-02T05:00:00"
+        },
+        {
+          "id": 310041,
+          "title": "Mountains, Rocks, and Water: Landscape Painting in Asia",
+          "description": "<i>Mountains, Rocks, and Water: Landscape Painting in Asia</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 2-December 13, 1987).",
+          "opening_date": "1987-10-02T04:00:00"
+        },
+        {
+          "id": 666887,
+          "title": "The Dancing Brush: Ming Dynasty Calligraphers and Eccentrics",
+          "description": "<i>The Dancing Brush: Ming Dynasty Calligraphers and Eccentrics</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 8, 2024-March 2, 2025).",
+          "opening_date": "2024-09-08T04:00:00"
+        }
+      ],
+      "legacy": [
+        {
+          "description": "<em>Chinese Landscape Painting</em>. The Cleveland Museum of Art, Cleveland, OH (1954).",
+          "opening_date": "1954-01-01T00:00:00"
+        },
+        {
+          "description": "<em>Fifteen Chinese Paintings from the Cleveland Museum of Art</em>. Smith College Museum, Northampton, MA (1964).",
+          "opening_date": "1964-01-01T00:00:00"
+        },
+        {
+          "description": "<em>Chu Ta</em>. Vassar College Art Gallery, Poughkeepsie, NY (1973).",
+          "opening_date": "1973-01-01T00:00:00"
+        },
+        {
+          "description": "<em>Eight Dynasties of Chinese Painting</em>. The Nelson-Atkins Museum of Art (November 7, 1980-January 4, 1981); The Cleveland Museum of Art (February 10-March 29, 1981); Tokyo National Museum (October 4-November 17, 1982).",
+          "opening_date": "1981-02-10T00:00:00"
+        },
+        {
+          "description": "<em>Main Asian Rotation (Gallery 242)</em>. The Cleveland Museum of Art, Cleveland, OH (November 21, 2013-July 28, 2014).",
+          "opening_date": "2013-11-21T00:00:00"
+        }
+      ]
+    },
+    "provenance": [
+      {
+        "description": "Chang Dai-chien [Zhang Daqian 張大千] [1899–1983]",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": 1
+      },
+      {
+        "description": "(Walter Hochstadter [1914–2007], New York, NY,  sold to the Cleveland Museum of Art)",
+        "citations": [],
+        "footnotes": null,
+        "date": "?–1955",
+        "sortorder": 2
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "1955–",
+        "sortorder": 3
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "Zhu Da's inscription acknowledges that this painting was done after the early Song master Guo Zhongshu 郭忠恕, but there is almost no tangible stylistic relation to be found between Zhu Da and his 10th-century model.",
+    "description": "Similar to some calligraphers of his time, Zhu Da rejected conventions in favor of an individual, personal expression. He is known for ambiguous compositions of fish, flowers, birds, and rocks in contrasting ink tonality. As a member of the Ming imperial family, Zhu lost his princely status and hid in a monastery when the Manchus, foreigners from the north, established the Qing dynasty in 1644.<br><br>In this late work, mountain ranges are rendered in diverse and dense strokes rising toward the top of the scroll. It references the artist Dong Qichang (1555–1636) in concept. Yet the cursory brushwork and composition present Zhu’s personal style.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q60516766"
+      ],
+      "internet_archive": [
+        "https://archive.org/details/clevelandart-1955.36-landscape-after-guo"
+      ]
+    },
+    "citations": [
+      {
+        "citation": "Zhang, Daqian 張大千. <em>Da feng tang shu hua lu</em> 大風堂書畫錄. Chengdu: [publisher not identified], 1943.",
+        "page_number": "p. 42(b)",
+        "url": null
+      },
+      {
+        "citation": "Lee, Sherman E. <em>Chinese Landscape Painting</em>. Cleveland, OH: Cleveland Museum of Art, 1954.",
+        "page_number": "Reproduced: cat. no. 98",
+        "url": null
+      },
+      {
+        "citation": "Sirén, Osvald. <em>Chinese Painting: Leading Masters and Principles</em>. New York: Ronald Press, 1956.",
+        "page_number": "Mentioned and Reproduced: V, 154; VII, Lists, 325",
+        "url": null
+      },
+      {
+        "citation": "Lee, Sherman E. “The Two Styles of Chu Ta.” <em>The Bulletin of the Cleveland Museum of Art</em>, vol. 45, no. 9, 1958, pp. 215–219.",
+        "page_number": "Mentioned: pp. 218, 219; Reproduced: p. 210",
+        "url": "www.jstor.org/stable/25142297"
+      },
+      {
+        "citation": "Grousset, René. <em>Chinese Art &amp; Culture</em>. London: A. Deutsch, 1959.",
+        "page_number": "Reproduced: pl. 58",
+        "url": null
+      },
+      {
+        "citation": "Lee, Sherman E. <em>Chinese Landscape Painting</em>. Cleveland, OH: The Cleveland Museum of Art, 1962.",
+        "page_number": "Mentioned: p. 116, no. 92",
+        "url": null
+      },
+      {
+        "citation": "Lee, Sherman E. <em>A History of Far Eastern Art</em>. New York: H.N. Abrams, 1964.",
+        "page_number": "Mentioned and Reproduced:  pp. 446, 451, fig. 592",
+        "url": null
+      },
+      {
+        "citation": "Zhang, Wanli 張萬里 and Hu Renmu 胡仁牧. <em>Badashanren shu hua ji </em>八大山人書畫集. Xianggang Jiulong: Kai fa gu fen you xian gong si, 1969.",
+        "page_number": "Reproduced: I, pl. 11",
+        "url": null
+      },
+      {
+        "citation": "<em>Chu Ta: Selected Paintings &amp; Calligraphy</em>. [Poughkeepsie, N.Y.]: [publisher not identified], 1973.",
+        "page_number": "Reproduced: cat. no. 2",
+        "url": null
+      },
+      {
+        "citation": "Yonezawa, Yoshiho 米澤嘉圃 and Takeyoshi Tsuruta 鶴田武良. <em>Hachidai Sanjin, Yōshū hakkai </em>八大山人・揚州八怪<em>.</em> Tōkyō: Kōdansha, Shōwa 50 [1975].",
+        "page_number": "Mentioned and Reproduced: p. 156, pl. 68",
+        "url": null
+      },
+      {
+        "citation": "Fu, Shen 傅申. <em>Ming Qing zhi ji di ke bi gou le feng shang yu Shitao di zao qi zuo pin </em>[明清之際的渴筆勾勒風尚與石濤的早期作品 = An aspect of mid-seventeenth century Chinese painting: The \"dry linear\" style and the early work of Tao-chi]. Hong Kong: Xianggang Zhong wen da xue [香港中文大學 = The Chinese University of Hong Kong], 1976.",
+        "page_number": "p. 596",
+        "url": null
+      },
+      {
+        "citation": "Ho, Wai-kam, Sherman E. Lee, Laurence Sickman, and Marc F. Wilson. <em>Eight Dynasties of Chinese Painting: The Collections of the Nelson Gallery-Atkins Museum, Kansas City, and the Cleveland Museum of Art</em>. Cleveland, OH: Cleveland Museum of Art, in cooperation with Indiana University Press, 1980.",
+        "page_number": "Reproduced: cat. no. 236, p. 319-320",
+        "url": null
+      },
+      {
+        "citation": "Wang, Fangyu, Richard M. Barnhart, and Judith G. Smith. <em>Master of the Lotus Garden: The Life and Art of Bada Shanren, 1626-1705</em>. New Haven, Conn: Yale University Art Gallery, 1990.",
+        "page_number": "Mentioned and Reproduced: pp. 173-174, cat. no. 49",
+        "url": null
+      }
+    ],
+    "url": "https://clevelandart.org/art/1955.36",
+    "images": {
+      "annotation": null,
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1955.36/1955.36_web.jpg",
+        "width": "386",
+        "height": "893",
+        "filesize": "272761",
+        "filename": "1955.36_web.jpg"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1955.36/1955.36_print.jpg",
+        "width": "1468",
+        "height": "3400",
+        "filesize": "3610743",
+        "filename": "1955.36_print.jpg"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1955.36/1955.36_full.tif",
+        "width": "2859",
+        "height": "6622",
+        "filesize": "56829052",
+        "filename": "1955.36_full.tif"
+      }
+    },
+    "alternate_images": [
+      {
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1955.36/1955.36_alt0_web.jpg",
+          "width": "405",
+          "height": "893",
+          "filesize": "48915"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1955.36/1955.36_alt0_print.jpg",
+          "width": "928",
+          "height": "2048",
+          "filesize": "229623"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1955.36/1955.36_alt0_full.tif",
+          "width": "928",
+          "height": "2048",
+          "filesize": "235633"
+        }
+      },
+      {
+        "date_created": "2009-03-03T13:31:02",
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1955.36/1955.36_alt1_web.jpg",
+          "width": "506",
+          "height": "893",
+          "filesize": "346836"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1955.36/1955.36_alt1_print.jpg",
+          "width": "1926",
+          "height": "3400",
+          "filesize": "4652940"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1955.36/1955.36_alt1_full.tif",
+          "width": "3618",
+          "height": "6387",
+          "filesize": "69357928"
+        }
+      },
+      {
+        "date_created": "2009-03-03T13:49:02",
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1955.36/1955.36_alt2_web.jpg",
+          "width": "278",
+          "height": "893",
+          "filesize": "172090"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1955.36/1955.36_alt2_print.jpg",
+          "width": "1058",
+          "height": "3400",
+          "filesize": "2609779"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1955.36/1955.36_alt2_full.tif",
+          "width": "1709",
+          "height": "5490",
+          "filesize": "28177160"
+        }
+      },
+      {
+        "date_created": "2009-03-03T13:51:33",
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1955.36/1955.36_alt3_web.jpg",
+          "width": "272",
+          "height": "893",
+          "filesize": "149676"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1955.36/1955.36_alt3_print.jpg",
+          "width": "1035",
+          "height": "3400",
+          "filesize": "2213692"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1955.36/1955.36_alt3_full.tif",
+          "width": "2029",
+          "height": "6668",
+          "filesize": "40618808"
+        }
+      }
+    ],
+    "creditline": "John L. Severance Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 132908,
+    "creators": [
+      {
+        "id": 6306,
+        "description": "Bada Shanren (Chinese, 1626–1705)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": "八大山人",
+        "birth_year": "1626",
+        "death_year": "1705",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1955-03-10T00:00:00",
+    "sortable_date": 1675,
+    "date_added_to_oa": null,
+    "date_text": "c. 1680–1705",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [
+      "Landscape after Kuo Chung-shu"
+    ],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:07:23.305000"
+  }
+}

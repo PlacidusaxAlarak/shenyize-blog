@@ -1,0 +1,142 @@
+{
+  "data": {
+    "id": 142654,
+    "accession_number": "1966.378",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Street Scene, c. 1926/30. Maurice de Vlaminck (French, 1876–1958). Brush and black ink and pastel; sheet: 45 x 53.9 cm (17 11/16 x 21 1/4 in.); secondary support: 45.7 x 55.5 cm (18 x 21 7/8 in.). The Cleveland Museum of Art, Gift of Lewis C. Williams in memory of Lewis B. Williams, 1966.378. © Artists Rights Society (ARS), New York",
+    "current_location": null,
+    "title": "Street Scene",
+    "creation_date": "c. 1926/30",
+    "creation_date_earliest": 1926,
+    "creation_date_latest": 1930,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "France, 20th century"
+    ],
+    "technique": "brush and black ink and pastel",
+    "support_materials": [
+      {
+        "description": "cream(3) wove paper laid down on yellow-cream board",
+        "watermarks": []
+      }
+    ],
+    "department": "Drawings",
+    "collection": "DR - French",
+    "type": "Drawing",
+    "measurements": "Sheet: 45 x 53.9 cm (17 11/16 x 21 1/4 in.); Secondary Support: 45.7 x 55.5 cm (18 x 21 7/8 in.)",
+    "dimensions": {
+      "sheet": {
+        "height": 0.45,
+        "width": 0.539
+      },
+      "secondary support": {
+        "height": 0.457,
+        "width": 0.555
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": "© Artists Rights Society (ARS), New York",
+    "inscriptions": [
+      {
+        "inscription": "signed, lower right, in graphite: Vlaminck ; VERSO OF SECONDARY SUPPORT, center, in red crayon: 22508",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 301129,
+          "title": "Year in Review: 1967",
+          "description": "<i>Year in Review: 1967</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 29-December 31, 1967).",
+          "opening_date": "1967-11-29T05:00:00"
+        },
+        {
+          "id": 283693,
+          "title": "Pure Color: Pastels from the Cleveland Museum of Art",
+          "description": "<i>Pure Color: Pastels from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 19, 2016-March 19, 2017).",
+          "opening_date": "2016-11-19T05:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "[Scott & Fowles] (according to departmental card)",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": null
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "Soon after the end of World War I, Vlaminck acquired a motorcycle and traveled hundreds of miles exploring remote villages of France; their empty streets became frequent subjects of his paintings, prints, and pastels throughout the 1920s. <br><br><strong>Comparative image:</strong><em>Vallangoujard,</em> c. 1923. Maurice de Vlaminck. Lithograph. From <em>Vlaminck: Master of Graphic Art: A Retrospective Exhibition of Graphic Works, 1905–1926</em>, exh. cat. (Chicago: R. S. Johnson-International Gallery, 1975).",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q80042560"
+      ],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "“Year in Review.” <em>The Bulletin of the Cleveland Museum of Art</em> 54, no. 10 (December 1967): 302–346.",
+        "page_number": "Reproduced: p. 328; Mentioned: p. 343, no. 69",
+        "url": "http://www.jstor.org/stable/25152183"
+      },
+      {
+        "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+        "page_number": "Reproduced: p. 182",
+        "url": "https://archive.org/details/CMAHandbook1969/page/n206"
+      }
+    ],
+    "url": "https://clevelandart.org/art/1966.378",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Lewis C. Williams in memory of Lewis B. Williams",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 142654,
+    "creators": [
+      {
+        "id": 2142,
+        "description": "Maurice de Vlaminck (French, 1876–1958)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1876",
+        "death_year": "1958",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1966-11-05T00:00:00",
+    "sortable_date": 1926,
+    "date_added_to_oa": null,
+    "date_text": "c. 1926/30",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:02:11.778000"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "data": {
+    "id": 168588,
+    "accession_number": "2010.311",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Garden 2000 #3, 2000. Willard Traub (American, 1943–2015). Chromogenic process color print; paper: 101 x 118.1 cm (39 3/4 x 46 1/2 in.). The Cleveland Museum of Art, Gift of the Artist in honor of Tom Hinson, 2010.311",
+    "current_location": null,
+    "title": "Garden 2000 #3",
+    "creation_date": "2000",
+    "creation_date_earliest": 2000,
+    "creation_date_latest": 2000,
+    "artists_tags": [
+      "May Show",
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "chromogenic process color print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1951-Present",
+    "type": "Photograph",
+    "measurements": "Paper: 101 x 118.1 cm (39 3/4 x 46 1/2 in.)",
+    "dimensions": {
+      "paper": {
+        "height": 1.01,
+        "width": 1.181
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Artist; Cleveland Museum of Art",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": null
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": null,
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q80074680"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2010.311",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of the Artist in honor of Tom Hinson",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 168588,
+    "creators": [
+      {
+        "id": 60669,
+        "description": "Willard Traub (American, 1943–2015)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "Willard Traub American, 1943- Willard Traub (born in Cleveland) left a tenured position as a high school English teacher in 1978 to pursue a career as an architectural and fine arts photographer. Largely self-taught in the medium, he has taken workshops with Lewis Baltz, Barbara Crane, Ralph Gibson, and Eikoh Hosoe under the auspices of the Friends of Photography (1977-78), with Henry Holmes Smith at the Visual Studies Workshop, Rochester (1980), and with Emmet Gowin, Alan Magee, Ezra Stoller, and Peter Aaron at the Maine Photographic Workshop (1983, 1984). In 1980 and 1986 Traub earned awards in the Cleveland Museum of Art's May Show, a regional juried exhibition, and since then has continued to exhibit his works nationwide. His photographs have been published in the Boston Globe, Boston Magazine, New England Living, New Home, the New York Times, and Popular Photography. He lives in Framingham, Massachusetts. A.W.<br>Biographical information exists in the Cleveland Museum of Art Archives.",
+        "name_in_original_language": null,
+        "birth_year": "1943",
+        "death_year": "2015",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2010-11-29T00:00:00",
+    "sortable_date": 2000,
+    "date_added_to_oa": null,
+    "date_text": "2000",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:02:34.151000"
+  }
+}

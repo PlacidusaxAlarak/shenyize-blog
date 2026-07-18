@@ -1,0 +1,146 @@
+{
+  "data": {
+    "id": 150715,
+    "accession_number": "1982.14.a",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Figure in the Street at Night (recto), 1913. Ludwig Meidner (German, 1884–1966). Pen and black ink and brush and black ink over black chalk; sheet: 50.8 x 80.6 cm (20 x 31 3/4 in.). The Cleveland Museum of Art, Andrew R. and Martha Holden Jennings Fund, 1982.14.a",
+    "current_location": null,
+    "title": "Figure in the Street at Night (recto)",
+    "creation_date": "1913",
+    "creation_date_earliest": 1913,
+    "creation_date_latest": 1913,
+    "artists_tags": [
+      "male",
+      "Jewish artists"
+    ],
+    "culture": [
+      "Germany, 20th century"
+    ],
+    "technique": "pen and black ink and brush and black ink over black chalk",
+    "support_materials": [
+      {
+        "description": "cream(2) wove paper discolored to yellow-cream",
+        "watermarks": []
+      }
+    ],
+    "department": "Drawings",
+    "collection": "DR - German",
+    "type": "Drawing",
+    "measurements": "Sheet: 50.8 x 80.6 cm (20 x 31 3/4 in.)",
+    "dimensions": {
+      "sheet": {
+        "height": 0.508,
+        "width": 0.806
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "by artist, lower center, in black chalk: Dr. Fleisch  passage  Nr. 4  250/h",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 441786,
+          "title": "Ludwig Meidner",
+          "description": "<i>Ludwig Meidner</i>. Mathildenhohe Darmstadt, Darmstadt, Germany (organizer) (September 15-December 1, 1991).",
+          "opening_date": "1991-09-15T04:00:00"
+        },
+        {
+          "id": 299699,
+          "title": "Graphic Discontent: German Expressionism on Paper",
+          "description": "<i>Graphic Discontent: German Expressionism on Paper</i>. The Cleveland Museum of Art (organizer) (January 14-May 27, 2018).",
+          "opening_date": "2018-01-14T05:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "D. Thomas Bergen, NY and London",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": null
+      },
+      {
+        "description": "[Karl & Faber, Munich, 19-20 Oct. 1965, p. 188, no. 1572]; [Galerie Stangl, Munich (letter from Isolde Neumann of Karl & Faber in departmental file)]; D. Thomas Bergen, NY and London (exhibition catalog of his collection); [Christie's, London, 2 Dec. 1980, p. 23, no. 220 (photocopy in deparmental file)]; [Margo Schab Inc., New York]",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": null
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "Ludwig Meidner was not formally associated with an Expressionist group, but this scene of explosive light above a deserted street encapsulates the urban anxiety conveyed in the work of many of his contemporaries. The striking patterns of black and white drawn in ink are reminiscent of the cut surfaces of a woodcut. The back (verso) of the drawing features a lively portrait of a young woman. The artist once advised that in making a portrait one should “dig like a mole down into the mysterious deep of the pupils and into the white of the eye and don’t let your pen stop until the soul of that one opposite you is welded to yours in a covenant of pathos.”",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79933341"
+      ],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "Cleveland Museum of Art. <em>Images of the Mind.</em> Cleveland, Ohio: Cleveland Museum of Art, 1987.",
+        "page_number": "Reproduced: [p. 30]",
+        "url": ""
+      },
+      {
+        "citation": "Peters, Emily J. \"Graphic Discontent: The German Expressionists strove for spontaneity and unexpected results.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 58. no. 1 (January/February 2018): Cover, P. 5-7, 22.",
+        "page_number": "Reproduced: P. 22; Mentioned: P. 7",
+        "url": "https://archive.org/details/CMAMM2018-01/page/n1/mode/2up"
+      }
+    ],
+    "url": "https://clevelandart.org/art/1982.14.a",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Andrew R. and Martha Holden Jennings Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 150715,
+    "creators": [
+      {
+        "id": 12696,
+        "description": "Ludwig Meidner (German, 1884–1966)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1884",
+        "death_year": "1966",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1982-03-08T00:00:00",
+    "sortable_date": 1913,
+    "date_added_to_oa": null,
+    "date_text": "1913",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "part",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": "1982.14",
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:02:00.295000"
+  }
+}

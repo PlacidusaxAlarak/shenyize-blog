@@ -1,0 +1,136 @@
+{
+  "data": {
+    "id": 149389,
+    "accession_number": "1978.46",
+    "share_license_status": "Copyrighted",
+    "tombstone": "West 79th Street, II, 1977. Hugh M. Kepets (American, b. 1946). Acrylic on canvas; unframed: 61 x 182.9 cm (24 x 72 in.). The Cleveland Museum of Art, Norman O. Stone and Ella A. Stone Memorial Fund, 1978.46. © Hugh Kepets/Licensed by VAGA, New York, NY",
+    "current_location": null,
+    "title": "West 79th Street, II",
+    "creation_date": "1977",
+    "creation_date_earliest": 1977,
+    "creation_date_latest": 1977,
+    "artists_tags": [
+      "May Show",
+      "male",
+      "Jewish artists"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "acrylic on canvas",
+    "support_materials": [],
+    "department": "Contemporary Art",
+    "collection": "CONTEMP - Painting",
+    "type": "Painting",
+    "measurements": "Unframed: 61 x 182.9 cm (24 x 72 in.)",
+    "dimensions": {
+      "unframed": {
+        "height": 0.61,
+        "width": 1.829
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": "© Hugh Kepets/Licensed by VAGA, New York, NY",
+    "inscriptions": [
+      {
+        "inscription": "Signed on stretcher: © Hugh Kepets 1977",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 304286,
+          "title": "Year in Review: 1978",
+          "description": "<i>Year in Review: 1978</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 13-March 18, 1979).",
+          "opening_date": "1979-02-13T05:00:00"
+        },
+        {
+          "id": 442569,
+          "title": "Cleveland Arts Prize Exhibition",
+          "description": "<i>Cleveland Arts Prize Exhibition</i>. The Women's City Club of Cleveland, Cleveland, OH (organizer) (April 19-May 30, 1979).",
+          "opening_date": "1979-04-19T05:00:00"
+        },
+        {
+          "id": 423351,
+          "title": "The Spirit of Cleveland: The Visual Arts Recipients of the Cleveland Arts Prize, 1961-1995",
+          "description": "<i>The Spirit of Cleveland: The Visual Arts Recipients of the Cleveland Arts Prize, 1961-1995</i>. The Cleveland Institute of Art (organizer) (September 19-October 22, 1995); Canton Museum of Art (November 24, 1995-January 6, 1996); ArtSpace Lima (January 19-March 2, 1996); Riffe Gallery (May 9-July 27, 1996); Beck Center for the Arts (September 15-October 30, 1996).",
+          "opening_date": "1995-09-01T04:00:00"
+        }
+      ],
+      "legacy": [
+        {
+          "description": "\"Cleveland Arts Prize Exhibition,\" The Women's City Club of Cleveland, 1979.",
+          "opening_date": "1979-01-01T00:00:00"
+        },
+        {
+          "description": "\"The Cleveland Museum of Art Collects Cleveland Art,\" Frank J. Lausche State Office Building, Cleveland, Ohio (Sept. 18 - 28, 1980).",
+          "opening_date": "1980-09-18T00:00:00"
+        },
+        {
+          "description": "\"Contemporary Art,\" Cleveland Museum of Art (Nov. 3 - Dec. 12, 1982).",
+          "opening_date": "1982-11-03T00:00:00"
+        }
+      ]
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [
+      "566.78"
+    ],
+    "did_you_know": "New York City served as both muse and backdrop for the artist's experimentations in space and abstraction.",
+    "description": "In <em>West 79th St, II,</em> Hugh M. Kepets presents a closely cropped view of a building’s facade. He combines a series of geometric shapes to create the architectural structure, using light and shadow to achieve a three-dimensional effect on an otherwise flat surface. Though native to Cleveland, Kepets has lived and worked in New York City since 1973. It is there that he began his intense investigation into minute, cropped details.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q60473496"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/1978.46",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Norman O. Stone and Ella A. Stone Memorial Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 149389,
+    "creators": [
+      {
+        "id": 3494,
+        "description": "Hugh M. Kepets (American, b. 1946)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "Biographical information exists in the Cleveland Museum of Art Archives.",
+        "name_in_original_language": null,
+        "birth_year": "1946",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1978-08-10T00:00:00",
+    "sortable_date": 1977,
+    "date_added_to_oa": null,
+    "date_text": "1977",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-26 23:59:09.190000"
+  }
+}

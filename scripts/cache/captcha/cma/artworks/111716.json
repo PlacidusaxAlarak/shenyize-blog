@@ -1,0 +1,144 @@
+{
+  "data": {
+    "id": 111716,
+    "accession_number": "1930.243",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Grief (Mural Study), 1929. José Clemente Orozco (Mexican, 1883–1949), published by Delphic Studios. Lithograph; image: 30.2 x 35.1 cm (11 7/8 x 13 13/16 in.). The Cleveland Museum of Art, Dudley P. Allen Fund, 1930.243. © José Clemente Orozco / Artists Rights Society (ARS), New York / SOMAAP, Mexico \r\n\r\n",
+    "current_location": null,
+    "title": "Grief (Mural Study)",
+    "creation_date": "1929",
+    "creation_date_earliest": 1929,
+    "creation_date_latest": 1929,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "Mexico, 20th century"
+    ],
+    "technique": "lithograph",
+    "support_materials": [],
+    "department": "Prints",
+    "collection": "PR - Lithograph",
+    "type": "Print",
+    "measurements": "Image: 30.2 x 35.1 cm (11 7/8 x 13 13/16 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.302,
+        "width": 0.351
+      }
+    },
+    "state_of_the_work": "I/I",
+    "edition_of_the_work": "edition of 100",
+    "copyright": "© José Clemente Orozco / Artists Rights Society (ARS), New York / SOMAAP, Mexico \r\n\r\n",
+    "inscriptions": [
+      {
+        "inscription": "signed at lower right, in pencil: J.C. Orozco; inscribed at lower left, in pencil: 56/100",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 357312,
+          "title": "Prints of the Fifteenth to Twentieth Century from the Museum Collection",
+          "description": "<i>Prints of the Fifteenth to Twentieth Century from the Museum Collection</i>. The Cleveland Museum of Art, Cleveland, OH (June 5-September 12, 1934).",
+          "opening_date": "1934-06-05T04:00:00"
+        },
+        {
+          "id": 373919,
+          "title": "A Graphic Revolution: Prints and Drawings in Latin America",
+          "description": "<i>A Graphic Revolution: Prints and Drawings in Latin America</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 14-August 2, 2020).",
+          "opening_date": "2020-03-08T05:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "(Korner & Wood Co., Cleveland, OH, sold to the Cleveland Museum of Art, Cleveland, OH)",
+        "citations": [],
+        "footnotes": [],
+        "date": "?-1930",
+        "sortorder": 1
+      },
+      {
+        "description": "Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": [],
+        "date": "1930-",
+        "sortorder": 2
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "In this print, Orozco incorporated the architecture of the building where the related mural was located in the form of a partial column along the left side of the image.",
+    "description": "José Clemente Orozco reinterpreted the mural projects he completed as commissions for the Mexican government as lithographs to share their imagery more widely. Orozco’s focus on universal emotions—such as grief, seen here—appealed to an especially broad audience. This print features a detail from murals that the artist created for the National Preparatory School in Mexico City.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q80004178"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "catalogue_raisonne": "Hopkins 34; Orozco 7",
+    "url": "https://clevelandart.org/art/1930.243",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Dudley P. Allen Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 111716,
+    "creators": [
+      {
+        "id": 3234,
+        "description": "José Clemente Orozco (Mexican, 1883–1949)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1883",
+        "death_year": "1949",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      },
+      {
+        "id": 370942,
+        "description": "Delphic Studios",
+        "extent": "published by",
+        "qualifier": null,
+        "role": "publisher",
+        "biography": null,
+        "name_in_original_language": null,
+        "use_in_caption": true,
+        "include_extent": true,
+        "weight": 2
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1930-05-10T00:00:00",
+    "sortable_date": 1929,
+    "date_added_to_oa": null,
+    "date_text": "1929",
+    "collapse_artists": true,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": "56",
+    "alternate_titles": [
+      "Mural Study"
+    ],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:02:06.312000"
+  }
+}

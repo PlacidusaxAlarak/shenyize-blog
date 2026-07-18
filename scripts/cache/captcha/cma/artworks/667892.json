@@ -1,0 +1,150 @@
+{
+  "data": {
+    "id": 667892,
+    "accession_number": "2024.6.i",
+    "share_license_status": "CC0",
+    "tombstone": "Afghanistan, February 1880: Khyber Side of Sarkai Hill, 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.i",
+    "current_location": null,
+    "title": "Khyber Side of Sarkai Hill",
+    "series": "Afghanistan, February 1880",
+    "creation_date": "1878–80",
+    "creation_date_earliest": 1878,
+    "creation_date_latest": 1880,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "Ireland"
+    ],
+    "technique": "albumen print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - Misc. 19th Century",
+    "type": "Photograph",
+    "dimensions": {},
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": [],
+        "date": "?–2023",
+        "sortorder": 1
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": [],
+        "date": "December 4, 2023–",
+        "sortorder": 2
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+    "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q125448760"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2024.6.i",
+    "images": {
+      "annotation": null,
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2024.6.i/2024.6.i_web.jpg",
+        "width": "900",
+        "height": "723",
+        "filesize": "216574",
+        "filename": "2024.6.i_web.jpg"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2024.6.i/2024.6.i_print.jpg",
+        "width": "3400",
+        "height": "2731",
+        "filesize": "3262214",
+        "filename": "2024.6.i_print.jpg"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2024.6.i/2024.6.i_full.tif",
+        "width": "7001",
+        "height": "5623",
+        "filesize": "118130078",
+        "filename": "2024.6.i_full.tif"
+      }
+    },
+    "alternate_images": [
+      {
+        "date_created": "2024-11-25T13:59:18",
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.i/2024.6.i_alt0_web.jpg",
+          "width": "900",
+          "height": "593",
+          "filesize": "133611"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.i/2024.6.i_alt0_print.jpg",
+          "width": "3400",
+          "height": "2239",
+          "filesize": "1941545"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.i/2024.6.i_alt0_full.tif",
+          "width": "14204",
+          "height": "9353",
+          "filesize": "398579142"
+        }
+      }
+    ],
+    "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 667892,
+    "creators": [
+      {
+        "id": 667822,
+        "description": "John Burke (Irish, 1845–1915)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": "British photographer, active late 19th century in India and Afghanistan",
+        "name_in_original_language": null,
+        "birth_year": "1845",
+        "death_year": "1915",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2024-02-26T05:00:00Z",
+    "sortable_date": 1878,
+    "date_added_to_oa": null,
+    "date_text": "1878–80",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": true,
+    "record_type": "part",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": "2024.6",
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:05:35.599000"
+  }
+}

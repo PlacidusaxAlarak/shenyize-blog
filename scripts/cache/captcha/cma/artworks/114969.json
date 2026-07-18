@@ -1,0 +1,107 @@
+{
+  "data": {
+    "id": 114969,
+    "accession_number": "1935.141",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Functional Architecture, 1935. Lowell Merritt Lee (American, 1905–1953). Etching. The Cleveland Museum of Art, Gift of The Print Club of Cleveland, 1935.141",
+    "current_location": null,
+    "title": "Functional Architecture",
+    "creation_date": "1935",
+    "creation_date_earliest": 1935,
+    "creation_date_latest": 1935,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America, Ohio, Cleveland"
+    ],
+    "technique": "etching",
+    "support_materials": [],
+    "department": "Prints",
+    "collection": "PR - Etching",
+    "type": "Print",
+    "dimensions": {},
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 382026,
+          "title": "The May Show: 17th Annual Exhibition of Works by Cleveland Artists and Craftsmen",
+          "description": "<i>The May Show: 17th Annual Exhibition of Works by Cleveland Artists and Craftsmen</i>. The Cleveland Museum of Art (organizer) (April 24-June 2, 1935).",
+          "opening_date": "1935-04-24T05:00:00"
+        },
+        {
+          "id": 356130,
+          "title": "Prints Accessioned in 1935",
+          "description": "<i>Prints Accessioned in 1935</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 14-November 8, 1936).",
+          "opening_date": "1936-10-14T05:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": null,
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q80007911"
+      ],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "Lowell Merritt Lee Entry Card to 1935 May Show. Cleveland Museum of Art May Show Records, Cleveland Museum of Art Archives.",
+        "page_number": null,
+        "url": "https://archive.org/details/CMAMS03669/"
+      }
+    ],
+    "url": "https://clevelandart.org/art/1935.141",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of The Print Club of Cleveland",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 114969,
+    "creators": [
+      {
+        "id": 31269,
+        "description": "Lowell Merritt Lee (American, 1905–1953)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1905",
+        "death_year": "1953",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1935-06-24T00:00:00",
+    "sortable_date": 1935,
+    "date_added_to_oa": null,
+    "date_text": "1935",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:07:04.509000"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": 166754,
+    "accession_number": "2008.47",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Architecture of Density #45, 2005. Michael Wolf (American, 1954–2019). Chromogenic process color print; image: 63.5 x 95.6 cm (25 x 37 5/8 in.); mounted: 83.6 x 114.1 cm (32 15/16 x 44 15/16 in.); paper: 83.6 x 114.1 cm (32 15/16 x 44 15/16 in.). The Cleveland Museum of Art, Gift of Amy and Neil Viny, 2008.47",
+    "current_location": null,
+    "title": "Architecture of Density #45",
+    "creation_date": "2005",
+    "creation_date_earliest": 2005,
+    "creation_date_latest": 2005,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "chromogenic process color print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1951-Present",
+    "type": "Photograph",
+    "measurements": "Image: 63.5 x 95.6 cm (25 x 37 5/8 in.); Mounted: 83.6 x 114.1 cm (32 15/16 x 44 15/16 in.); Paper: 83.6 x 114.1 cm (32 15/16 x 44 15/16 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.635,
+        "width": 0.956
+      },
+      "mounted": {
+        "height": 0.836,
+        "width": 1.141
+      },
+      "paper": {
+        "height": 0.836,
+        "width": 1.141
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Written in pencil on verso of mount: \"MWO 08\"\r\n",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Artist; Robert Koch Gallery, San Francisco; Cleveland Museum of Art",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": null
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": null,
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79997435"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2008.47",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Amy and Neil Viny",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 166754,
+    "creators": [
+      {
+        "id": 57002,
+        "description": "Michael Wolf (American, 1954–2019)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1954",
+        "death_year": "2019",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2008-06-23T00:00:00",
+    "sortable_date": 2005,
+    "date_added_to_oa": null,
+    "date_text": "2005",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": "1",
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:04:50.544000"
+  }
+}

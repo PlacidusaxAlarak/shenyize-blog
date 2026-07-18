@@ -1,0 +1,140 @@
+{
+  "data": {
+    "id": 311830,
+    "accession_number": "2018.308",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Brooklyn, N.Y., 1988. Dawoud Bey (American, b. 1953). Gelatin silver print from Type 55 Polaroid film; image: 54.9 x 43.2 cm (21 5/8 x 17 in.); paper: 60.7 x 50.8 cm (23 7/8 x 20 in.). The Cleveland Museum of Art, Gift of Carl and Joan Schneider, 2018.308",
+    "current_location": null,
+    "title": "Brooklyn, N.Y.",
+    "creation_date": "1988",
+    "creation_date_earliest": 1988,
+    "creation_date_latest": 1988,
+    "artists_tags": [
+      "Black American Artists",
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "gelatin silver print from Type 55 Polaroid film",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1951-Present",
+    "type": "Photograph",
+    "measurements": "Image: 54.9 x 43.2 cm (21 5/8 x 17 in.); Paper: 60.7 x 50.8 cm (23 7/8 x 20 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.549,
+        "width": 0.432
+      },
+      "paper": {
+        "height": 0.607,
+        "width": 0.508
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Written in pencil on verso: “663.109.1.13”",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      },
+      {
+        "inscription": "Written in pencil on verso: “Dawoud Bey (signed) 1988”",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Private Collection",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": 1
+      },
+      {
+        "description": "Stephen Daiter Gallery, Chicago, IL",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": 2
+      },
+      {
+        "description": "Carl and Joan Schneider, Whitmore Lake, MI",
+        "citations": [],
+        "footnotes": null,
+        "date": "2017-2018",
+        "sortorder": 3
+      },
+      {
+        "description": "the Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "December 3, 2018",
+        "sortorder": 4
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "Spike Lee’s movie set in Brooklyn, <em>Do the Right Thing</em>, was shot the same year Bey shot this photograph.",
+    "description": "Bey’s forty-year career began with street photography, a spontaneous, voyeuristic way of shooting. After sixteen years, he started feeling frustrated by the distance from the subject imposed by that practice and in 1988, he initiated a series of studied portraits like this one that directly engaged the sitters in consensual exchange.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79874504"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2018.308",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Carl and Joan Schneider",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 311830,
+    "creators": [
+      {
+        "id": 42884,
+        "description": "Dawoud Bey (American, b. 1953)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1953",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2018-12-03T00:00:00-05:00",
+    "sortable_date": 1988,
+    "date_added_to_oa": null,
+    "date_text": "1988",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-26 23:59:47.752000"
+  }
+}

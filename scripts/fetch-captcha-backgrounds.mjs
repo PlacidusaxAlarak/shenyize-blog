@@ -9,6 +9,9 @@ const DEFAULT_DOWNLOAD_CONCURRENCY = 8;
 const DEFAULT_FETCH_TIMEOUT_MS = 30_000;
 const DEFAULT_FETCH_RETRIES = 3;
 const DEFAULT_SEARCH_CANDIDATE_MULTIPLIER = 3;
+const CONTENT_ANALYSIS_SAMPLE_SIZE = 160;
+const CONTENT_ANALYSIS_BORDER_WIDTH = 8;
+const CONTENT_ANALYSIS_DISTANCE_THRESHOLD = 26;
 
 function sanitizeFileStem(value) {
 	return String(value)
@@ -375,6 +378,12 @@ const SCENIC_REJECT_PATTERNS = [
 	/\bcalligraphy\b/,
 	/\bpin(s)?\b/,
 ];
+const SPARSE_PRESENTATION_PATTERNS = [
+	/\bhandscroll(s)?\b/,
+	/\bhanging scroll(s)?\b/,
+	/\balbum\b/,
+	/\bfolding fan mounted as an album leaf\b/,
+];
 
 function countPatternMatches(text, patterns) {
 	let score = 0;
@@ -397,6 +406,47 @@ export function isLikelyScenicCaptchaObject({ object, keyword: _keyword }) {
 	const supportMatches = countPatternMatches(metadataText, SCENIC_SUPPORT_PATTERNS);
 
 	return strongMatches > 0 && strongMatches * 3 + supportMatches >= 3;
+}
+
+function getPresentationText(object) {
+	return [object?.objectName, object?.classification]
+		.filter((value) => typeof value === "string")
+		.join(" ")
+		.toLowerCase();
+}
+
+function isSparsePresentationObject(object) {
+	const presentationText = getPresentationText(object);
+	return SPARSE_PRESENTATION_PATTERNS.some((pattern) => pattern.test(presentationText));
+}
+
+export function isLikelySparseCaptchaPresentation({ object, metrics }) {
+	if (!object || !metrics || !isSparsePresentationObject(object)) {
+		return false;
+	}
+
+	const contentRatio =
+		typeof metrics.contentRatio === "number" && Number.isFinite(metrics.contentRatio)
+			? metrics.contentRatio
+			: 0;
+	const bboxAreaRatio =
+		typeof metrics.bboxAreaRatio === "number" && Number.isFinite(metrics.bboxAreaRatio)
+			? metrics.bboxAreaRatio
+			: 0;
+
+	if (contentRatio < 0.2) {
+		return true;
+	}
+
+	if (contentRatio < 0.34 && bboxAreaRatio >= 0.72) {
+		return true;
+	}
+
+	if (contentRatio < 0.38 && bboxAreaRatio >= 0.9) {
+		return true;
+	}
+
+	return false;
 }
 
 function scoreLandscapePriority({ object, keyword }) {
@@ -422,7 +472,87 @@ async function downloadImageBuffer(imageUrl) {
 	);
 }
 
-async function processImageBuffer({ imageBuffer, outputFilePath, minLongEdge }) {
+function getColorDistance(first, second) {
+	return Math.sqrt(
+		(first[0] - second[0]) ** 2 +
+			(first[1] - second[1]) ** 2 +
+			(first[2] - second[2]) ** 2,
+	);
+}
+
+async function measureImageContentMetrics(image) {
+	const { data, info } = await image
+		.clone()
+		.resize({
+			width: CONTENT_ANALYSIS_SAMPLE_SIZE,
+			height: CONTENT_ANALYSIS_SAMPLE_SIZE,
+			fit: "inside",
+		})
+		.removeAlpha()
+		.raw()
+		.toBuffer({ resolveWithObject: true });
+	const { width, height, channels } = info;
+	const borderWidth = Math.max(
+		1,
+		Math.min(CONTENT_ANALYSIS_BORDER_WIDTH, Math.floor(Math.min(width, height) / 4)),
+	);
+	const borderPixels = [];
+
+	for (let y = 0; y < height; y += 1) {
+		for (let x = 0; x < width; x += 1) {
+			if (
+				x < borderWidth ||
+				y < borderWidth ||
+				x >= width - borderWidth ||
+				y >= height - borderWidth
+			) {
+				const index = (y * width + x) * channels;
+				borderPixels.push([data[index], data[index + 1], data[index + 2]]);
+			}
+		}
+	}
+
+	const backgroundColor = [0, 1, 2].map(
+		(channelIndex) =>
+			borderPixels.reduce((sum, pixel) => sum + pixel[channelIndex], 0) /
+			Math.max(borderPixels.length, 1),
+	);
+
+	let minX = width;
+	let minY = height;
+	let maxX = -1;
+	let maxY = -1;
+	let contentPixelCount = 0;
+
+	for (let y = 0; y < height; y += 1) {
+		for (let x = 0; x < width; x += 1) {
+			const index = (y * width + x) * channels;
+			const pixel = [data[index], data[index + 1], data[index + 2]];
+			if (getColorDistance(pixel, backgroundColor) <= CONTENT_ANALYSIS_DISTANCE_THRESHOLD) {
+				continue;
+			}
+
+			contentPixelCount += 1;
+			minX = Math.min(minX, x);
+			minY = Math.min(minY, y);
+			maxX = Math.max(maxX, x);
+			maxY = Math.max(maxY, y);
+		}
+	}
+
+	const totalPixelCount = width * height;
+	const bboxAreaRatio =
+		maxX >= minX && maxY >= minY
+			? ((maxX - minX + 1) * (maxY - minY + 1)) / totalPixelCount
+			: 0;
+
+	return {
+		contentRatio: contentPixelCount / Math.max(totalPixelCount, 1),
+		bboxAreaRatio,
+	};
+}
+
+async function processImageBuffer({ imageBuffer, outputFilePath, minLongEdge, object }) {
 	const image = sharp(imageBuffer, { failOn: "none" }).rotate();
 	const metadata = await image.metadata();
 	const width = metadata.width ?? 0;
@@ -431,6 +561,16 @@ async function processImageBuffer({ imageBuffer, outputFilePath, minLongEdge }) 
 		return {
 			accepted: false,
 			reason: "low_resolution",
+			width,
+			height,
+		};
+	}
+
+	const contentMetrics = await measureImageContentMetrics(image);
+	if (isLikelySparseCaptchaPresentation({ object, metrics: contentMetrics })) {
+		return {
+			accepted: false,
+			reason: "incomplete_composition",
 			width,
 			height,
 		};
@@ -699,6 +839,7 @@ async function downloadMetBackgrounds({
 						imageBuffer,
 						outputFilePath,
 						minLongEdge: config.minLongEdge,
+						object,
 					});
 
 					if (!processedImage.accepted) {

@@ -1,0 +1,3105 @@
+{
+  "info": {
+    "total": 338,
+    "parameters": {
+      "skip": 0,
+      "limit": 20,
+      "q": "photograph landscape",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,collection,department,classification_type,gallery",
+      "search": "photograph landscape"
+    }
+  },
+  "data": [
+    {
+      "id": 157013,
+      "accession_number": "1993.162",
+      "share_license_status": "CC0",
+      "tombstone": "Landscape, 1856. Henry White (British, 1819–1903). Albumen print from wet collodion negative; image: 19 x 25 cm (7 1/2 x 9 13/16 in.); matted: 50.8 x 61 cm (20 x 24 in.). The Cleveland Museum of Art, Dudley P. Allen Fund, 1993.162",
+      "current_location": null,
+      "title": "Landscape",
+      "creation_date": "1856",
+      "creation_date_earliest": 1856,
+      "creation_date_latest": 1856,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "albumen print from wet collodion negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "Photography",
+      "type": "Photograph",
+      "measurements": "Image: 19 x 25 cm (7 1/2 x 9 13/16 in.); Matted: 50.8 x 61 cm (20 x 24 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.19,
+          "width": 0.25
+        },
+        "matted": {
+          "height": 0.508,
+          "width": 0.61
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in black ink on recto: \"Photographed by Henry White\";  in pencil on verso: \"2500\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 311875,
+            "title": "Legacy of Light: Master Photographs from the Cleveland Museum of Art",
+            "description": "<i>Legacy of Light: Master Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 24, 1996-February 2, 1997).",
+            "opening_date": "1996-11-24T05:00:00"
+          },
+          {
+            "id": 186948,
+            "title": "Pioneers of Landscape Photography from the Museum's Collection",
+            "description": "<i>Pioneers of Landscape Photography from the Museum's Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 12, 2000-January 3, 2001).",
+            "opening_date": "2000-08-12T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, September 13 - November 27, 1994: \"Recent Acquisitions: Prints, Drawings, Photographs,\" no exhibition catalogue.",
+            "opening_date": "1994-09-13T00:00:00"
+          },
+          {
+            "description": "CMA, November 20,1996 - February 2, 1997: \"Legacy of Light: Master Photographs from the Cleveland Museum of Art.\"",
+            "opening_date": "1997-02-02T00:00:00"
+          },
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; August 12, 2000 - January 3, 2001.  \"Pioneers of Landscape Photography from the Museum's Collection.\"",
+            "opening_date": "2000-08-12T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "In the 1850s London lawyer Henry White was also recognized as one of Britain's most gifted landscape photographers. His work helped to establish the aesthetic standard for 19th-century British landscape photography. This charming image is an example of his best known work—intimate, lyrical landscapes taken in northern Wales. Here White carefully balanced his desire to faithfully record elaborate details with broad atmospheric effects. As with many of his photographs, this print registers a city-dweller's delight in finding himself in natural surroundings.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79947168"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1993.162-landscape"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "“1993 Annual Report.” <em>The Bulletin of the Cleveland Museum of Art</em> 81, no. 6 (July 1994): 143–218.",
+          "page_number": "Mentioned: p. 162",
+          "url": "http://www.jstor.org/stable/25161457"
+        },
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 387",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1993.162",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1993.162/1993.162_web.jpg",
+          "width": "1173",
+          "height": "893",
+          "filesize": "880357",
+          "filename": "1993.162_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1993.162/1993.162_print.jpg",
+          "width": "3400",
+          "height": "2588",
+          "filesize": "5392257",
+          "filename": "1993.162_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1993.162/1993.162_full.tif",
+          "width": "5052",
+          "height": "3846",
+          "filesize": "58324912",
+          "filename": "1993.162_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Dudley P. Allen Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 157013,
+      "creators": [
+        {
+          "id": 1088,
+          "description": "Henry White (British, 1819–1903)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Henry White British, 1819-1903\r\n\r\nAn amateur photographer, Henry White was a London lawyer who in 1841 joined his father in their firm, White and Son, continuing the practice after his father's death in 1857. Active during the 1850s-60s, White produced picturesque landscapes of England and North Wales. Common subjects were cottages, mills, and fields, as well as closeup views of foliage and other images of nature.\r\n\tWhite joined the Photographic Society of London in 1855 and was active in the group, serving as treasurer for many years and contributing photographs to their albums in 1855 and 1857. He also belonged to the Photographic Society of Great Britain. His exhibited work met with considerable praise; he won the highest medal at the 1855 Exposition Universelle in Paris, and his landscape photographs were honored at the International Exhibition in Brussels in 1856. That same year, White published a series of views of London. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1819",
+          "death_year": "1903",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1993-12-06T00:00:00",
+      "sortable_date": 1856,
+      "date_added_to_oa": null,
+      "date_text": "1856",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:05:15.091000"
+    },
+    {
+      "id": 667960,
+      "accession_number": "2024.6.yy",
+      "share_license_status": "CC0",
+      "tombstone": "Afghanistan, February 1880: Untitled (Landscape Scene), 1878–80. John Burke (Irish, 1845–1915). Albumen print. The Cleveland Museum of Art, Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund, 2024.6.yy",
+      "current_location": null,
+      "title": "Untitled (Landscape Scene)",
+      "series": "Afghanistan, February 1880",
+      "creation_date": "1878–80",
+      "creation_date_earliest": 1878,
+      "creation_date_latest": 1880,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ireland"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Adnan Sezer Gallery, Paris, France), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–2023",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 4, 2023–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This album includes some of the earliest photographs of Afghanistan.",
+      "description": "The subject of this album is the Second Anglo-Afghan War, which was fought from 1878 to 1880. John Burke was the first photographer to photograph extensively in Afghanistan and the main photographer covering that conflict. The technology of the day did not permit action shots of battles. As is usual for early conflict photography, the pictures are landscapes of the sites of momentous incidents, views of camps and civil and military infrastructure, and portraits of the soldiers and their leaders.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q125448837"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.6.yy",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.yy/2024.6.yy_web.jpg",
+          "width": "900",
+          "height": "648",
+          "filesize": "176142",
+          "filename": "2024.6.yy_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.yy/2024.6.yy_print.jpg",
+          "width": "3400",
+          "height": "2449",
+          "filesize": "2618157",
+          "filename": "2024.6.yy_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.6.yy/2024.6.yy_full.tif",
+          "width": "7083",
+          "height": "5101",
+          "filesize": "108419998",
+          "filename": "2024.6.yy_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-11-27T12:08:14",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.yy/2024.6.yy_alt0_web.jpg",
+            "width": "900",
+            "height": "593",
+            "filesize": "125439"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.yy/2024.6.yy_alt0_print.jpg",
+            "width": "3400",
+            "height": "2239",
+            "filesize": "1905714"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.6.yy/2024.6.yy_alt0_full.tif",
+            "width": "14204",
+            "height": "9353",
+            "filesize": "398578886"
+          }
+        }
+      ],
+      "creditline": "Mr. and Mrs. Richard W. Whitehill Art Purchase Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 667960,
+      "creators": [
+        {
+          "id": 667822,
+          "description": "John Burke (Irish, 1845–1915)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British photographer, active late 19th century in India and Afghanistan",
+          "name_in_original_language": null,
+          "birth_year": "1845",
+          "death_year": "1915",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1878,
+      "date_added_to_oa": null,
+      "date_text": "1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2024.6",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:50.045000"
+    },
+    {
+      "id": 440587,
+      "accession_number": "2021.113",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Hungarian Memory: Hungarian Landscape, Puszta, 1914, printed 1980. André Kertész (American, 1894–1985). Gelatin silver print; image: 18.7 x 24.7 cm (7 3/8 x 9 3/4 in.); paper: 20.3 x 25.2 cm (8 x 9 15/16 in.). The Cleveland Museum of Art, Gift of Alan and Monah L. Gettner, 2021.113",
+      "current_location": null,
+      "title": "Hungarian Landscape, Puszta",
+      "series": "Hungarian Memory",
+      "creation_date": "1914, printed 1980",
+      "creation_date_earliest": 1914,
+      "creation_date_latest": 1914,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 18.7 x 24.7 cm (7 3/8 x 9 3/4 in.); Paper: 20.3 x 25.2 cm (8 x 9 15/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.187,
+          "width": 0.247
+        },
+        "paper": {
+          "height": 0.203,
+          "width": 0.252
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"A Kertesz (signed)\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Alan and Monah L. Gettner, New York, NY",
+          "citations": [],
+          "footnotes": null,
+          "date": "1980-2021",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "June 7, 2021",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "André Kertész had only been photographing for two years when he made this photograph.",
+      "description": "The pustza are the Hungarian plains, vast areas of shrubs and grassland.  The apparatus is a typical Eastern European draw well; a bucket and chain are used to fetch the water. The trenches surrounding it may be part of an irrigation system.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q107378572"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Kertész, André, and Hilton Kramer. Hungarian Memories. 1982.",
+          "page_number": "p. 11",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/2021.113",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Alan and Monah L. Gettner",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 440587,
+      "creators": [
+        {
+          "id": 180,
+          "description": "André Kertész (American, 1894–1985)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "André Kertész American, b. Austria-Hungary, 1894-1985 André Kertész was one of the first photographers to work with the small, 35mm camera, becoming famous for his skill at capturing the fleeting moments of everyday life. In 1911 he bought his first camera and began taking photographs in his native Budapest and the surrounding countryside. The following year, after graduating from Budapest's Academy of Commerce, Kertész took a job as a clerk at the Budapest stock exchange. His interest in photography continued, and he began making spontaneous photographic studies of the city's people and street life. Kertész also took photographs recording the daily life of his fellow soldiers during his service in the Austro-Hungarian army during World War I. After his discharge in 1918, he returned to Budapest and worked there until 1925. He moved to Paris, establishing himself as a freelance photographer, and soon became a member of the avant-garde. His work was published in a variety of magazines and newspapers, including the Münchner Illustrierte Presse, Berliner Illustrierte Zeitung, Uhu, Vu, the London Sunday Times, and L'Esprit nouveau. In 1927 he had his first exhibition at the progressive Galerie au Sacre du Printemps and two years later took part in the Film und Foto show in Stuttgart. Kertész became known for his candid photography and was recognized as a leader in modern, subjective photojournalism. In the early 1930s he also made his well-known series called Distortions, featuring almost 200 studies of the nude female figure reflected in a parabolic mirror. In 1936 Kertész came to New York to work for Keystone Studios under a one-year contract. He remained in the city, producing pictures on a freelance basis until joining the staff of Condé Nast Publications in 1949. Following his retirement in 1962, Kertész focused on his own work, remaining active as a photographer until his death. Over the years he published a number of books and was featured in many exhibitions and publications, including André Kertész: Of Paris and New York, a major show organized by the Art Institute of Chicago and the Metropolitan Museum of Art, New York (1985). M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1894",
+          "death_year": "1985",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 68258,
+          "description": "Hyperion Press",
+          "extent": "printed by",
+          "qualifier": null,
+          "role": "printer",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": false,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2021-06-07T04:00:00Z",
+      "sortable_date": 1914,
+      "date_added_to_oa": null,
+      "date_text": "1914, printed 1980",
+      "collapse_artists": true,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:37.306000"
+    },
+    {
+      "id": 157126,
+      "accession_number": "1993.28",
+      "share_license_status": "CC0",
+      "tombstone": "Untitled (Winter Landscape), c. 1900. William B. Post (American, 1857–1925). Platinum print; image: 14.9 x 23 cm (5 7/8 x 9 1/16 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, John L. Severance Fund, 1993.28",
+      "current_location": null,
+      "title": "Untitled (Winter Landscape)",
+      "creation_date": "c. 1900",
+      "creation_date_earliest": 1895,
+      "creation_date_latest": 1905,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "platinum print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 14.9 x 23 cm (5 7/8 x 9 1/16 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.149,
+          "width": 0.23
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"L82:2415:38\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 185373,
+            "title": "American Space:  Landscape Photography 1900-1950",
+            "description": "<i>American Space:  Landscape Photography 1900-1950</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 6-May 23, 2001).",
+            "opening_date": "2001-01-06T00:00:00"
+          },
+          {
+            "id": 194095,
+            "title": "Icons of American Photography: A Century of Photographs from the Cleveland Museum of Art",
+            "description": "<i>Icons of American Photography: A Century of Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 24-September 16, 2007); Frick Art and Historical Center, Pittsburgh, PA (October 3, 2009-January 3, 2010).",
+            "opening_date": "2007-06-24T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, September 13 - November 27, 1994: \"Recent Acquisitons: Prints, Drawings, Photographs,\" no exhibition catalogue.",
+            "opening_date": "1994-09-13T00:00:00"
+          },
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; January 3-May 23, 2001.  \"American Space:  Landscape Photography, 1900-1950.\"",
+            "opening_date": "2001-01-03T00:00:00"
+          },
+          {
+            "description": "The Cleveland Museum of Art (6/24/07 - 9/16/07) and Frick Art and Historical Center, Pittburgh, PA (10/3/2009 - 1/3/2010); \"Icons of American Photography: A Century of Photographs from the Cleveland Museum of Art\", no exhibition catalogue.",
+            "opening_date": "2007-06-24T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "In the decades around the turn of the 20th century, Post frequently exhibited his Pictorial photographs in the United States, Canada, and Europe. This well-regarded amateur photographer was especially known for his winter scenes, often taken in the vicinity of his home in Fryeburg, Maine. Cleverly positioned, the photographer used two mounds of earth in the foreground to frame a complex landscape of open fields populated by stands of trees and a weaving line of fences leading the eye to the distant mountain range. Post hoped his ability to compose and his mastery of powerful visual effects would earn him recognition as a master of landscape photography.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79947461"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1993.28-untitled-winter-land"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "“1993 Annual Report.” <em>The Bulletin of the Cleveland Museum of Art</em> 81, no. 6 (July 1994): 143–218.",
+          "page_number": "Mentioned: p. 160",
+          "url": "http://www.jstor.org/stable/25161457"
+        },
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 269",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1993.28",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1993.28/1993.28_web.jpg",
+          "width": "1263",
+          "height": "815",
+          "filesize": "646625",
+          "filename": "1993.28_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1993.28/1993.28_print.jpg",
+          "width": "3400",
+          "height": "2195",
+          "filesize": "3869588",
+          "filename": "1993.28_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1993.28/1993.28_full.tif",
+          "width": "5316",
+          "height": "3432",
+          "filesize": "54765236",
+          "filename": "1993.28_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 157126,
+      "creators": [
+        {
+          "id": 784,
+          "description": "William B. Post (American, 1857–1925)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "William B. Post American, 1857-1925\r\n\r\nBorn in New York City, William B. Post was a member of the Photo-Secession and one of only 10 lifetime members of New York's Society of Amateur Photographers. Today, he is perhaps best known for introducing Alfred Stieglitz to the hand camera in 1892.\r\n\tIn the decades around the turn of the century, Post exhibited his photographs frequently in the United States, Canada, and Europe. His images were reproduced in Camera Notes (1901) and Camera Work (1904), and he assembled one of the earliest collections of the work of his pictorialist peers. Post's own photographs show a special interest in winter scenes, often taken in the vicinity of his home in Fryeburg, Maine. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1857",
+          "death_year": "1925",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1993-02-17T00:00:00",
+      "sortable_date": 1895,
+      "date_added_to_oa": null,
+      "date_text": "c. 1900",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:03.667000"
+    },
+    {
+      "id": 141754,
+      "accession_number": "1965.334",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Vines, 1965. Harold M. Null (American, 1916-). Gelatin silver print; image: 42.9 x 51.4 cm (16 7/8 x 20 1/4 in.); matted: 61 x 71.1 cm (24 x 28 in.). The Cleveland Museum of Art, Gift of Photography in the Fine Arts, 1965.334",
+      "current_location": null,
+      "title": "Vines",
+      "creation_date": "1965",
+      "creation_date_earliest": 1965,
+      "creation_date_latest": 1965,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 42.9 x 51.4 cm (16 7/8 x 20 1/4 in.); Matted: 61 x 71.1 cm (24 x 28 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.429,
+          "width": 0.514
+        },
+        "matted": {
+          "height": 0.61,
+          "width": 0.711
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written on label on verso: \" 'Vines' / Original Photograph / by Harold M. Null\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 300794,
+            "title": "Year in Review: 1965",
+            "description": "<i>Year in Review: 1965</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 27-November 14, 1965).",
+            "opening_date": "1965-10-27T04:00:00"
+          },
+          {
+            "id": 301411,
+            "title": "Photograph Exhibition",
+            "description": "<i>Photograph Exhibition</i>. The Cleveland Museum of Art, Cleveland, OH (July 13-September 19, 1971).",
+            "opening_date": "1971-07-13T04:00:00"
+          },
+          {
+            "id": 301622,
+            "title": "Source Material for Studio Projects",
+            "description": "<i>Source Material for Studio Projects</i>. The Cleveland Museum of Art, Cleveland, OH (June 20-August 27, 1972).",
+            "opening_date": "1972-06-20T04:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "New York World's Fair, 1965: \"Photography in the Fine Arts.\"",
+            "opening_date": "1965-01-01T00:00:00"
+          },
+          {
+            "description": "CMA, October 27 - November 14, 1965: \"Year in Review,\" CMA Bulletin 52 (November 1965), p. 157, no. 179.",
+            "opening_date": "1965-10-27T00:00:00"
+          },
+          {
+            "description": "Cleveland, The Kenneth C. Beck Center for the Cultural Arts, 1979: \"Selections of Photography from the Cleveland Museum of Art.\"",
+            "opening_date": "1979-01-01T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Harold M. Null was born in Pennsylvania, but he spent most of his adult life in Italy.",
+      "description": "Photographs express a photographer’s vision, materialized through choices of subject matter, camera angle, cropping, editing, and other factors. Here the artist chose to represent a site from a specific viewpoint in black and white, resulting in an image that creates the illusion of two-dimensional pattern. <em>Vines</em> depicts bare grapevines creeping over rows of trellises in a winter landscape. From a distance, the image appears to have dark geometric and organic lines over a white background. The closer we look, the clearer the subject becomes.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80041449"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 257",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1965.334",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Photography in the Fine Arts",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 141754,
+      "creators": [
+        {
+          "id": 745,
+          "description": "Harold M. Null (American, 1916-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Harold Miller Null (American, 1916-1996). Harold M. Null was active in the 1960s, taking part in three Photography in the Fine Arts exhibitions at the Metropolitan Museum of Art, New York (1963, 1967), and the 1965 New York World's Fair. M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1916",
+          "death_year": "1996",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1965-09-11T00:00:00",
+      "sortable_date": 1965,
+      "date_added_to_oa": null,
+      "date_text": "1965",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:50.825000"
+    },
+    {
+      "id": 161277,
+      "accession_number": "1999.51",
+      "share_license_status": "CC0",
+      "tombstone": "Landscape with Seated Figure on Stream Bank, c. 1856. Frank Chauvassaignes (French). Salted paper print from waxed paper negative; image: 16.5 x 21.5 cm (6 1/2 x 8 7/16 in.); mounted: 25.1 x 32.5 cm (9 7/8 x 12 13/16 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, John L. Severance Fund, 1999.51",
+      "current_location": null,
+      "title": "Landscape with Seated Figure on Stream Bank",
+      "creation_date": "c. 1856",
+      "creation_date_earliest": 1851,
+      "creation_date_latest": 1857,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "salted paper print from waxed paper negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - French 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 16.5 x 21.5 cm (6 1/2 x 8 7/16 in.); Mounted: 25.1 x 32.5 cm (9 7/8 x 12 13/16 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.165,
+          "width": 0.215
+        },
+        "mounted": {
+          "height": 0.251,
+          "width": 0.325
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 186948,
+            "title": "Pioneers of Landscape Photography from the Museum's Collection",
+            "description": "<i>Pioneers of Landscape Photography from the Museum's Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 12, 2000-January 3, 2001).",
+            "opening_date": "2000-08-12T00:00:00"
+          },
+          {
+            "id": 178867,
+            "title": "Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art",
+            "description": "<i>Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 26-June 16, 2005).",
+            "opening_date": "2005-02-26T00:00:00"
+          },
+          {
+            "id": 197576,
+            "title": "France at the Dawn of Photography",
+            "description": "<i>France at the Dawn of Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 4, 2009-January 24, 2010).",
+            "opening_date": "2009-10-04T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; August 12, 2000 - January 3, 2001.  \"Pioneers of Landscape Photography from the Museum's Collection.\"",
+            "opening_date": "2000-08-12T00:00:00"
+          },
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; February 26 - June 16, 2005 . \"Drawn with Light: Pioneering French Photography from the Cleveland Museum of Art\".",
+            "opening_date": "2005-02-26T00:00:00"
+          },
+          {
+            "description": "The Cleveland Museum of Art (10/04/2009 - 01/24/2010); \"France at the Dawn of Photography\"",
+            "opening_date": "2009-10-04T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Flooded with bright light and enveloped in deep shadows, this romantic landscape is the remarkable achievement of the early French photographer Chauvassaignes, about whom little biographical information is known. His mastery of composition and technique reveals itself in this picturesque composition of water, stream banks, trees, and foliage, evoking a feeling of great tranquility. Inspired by the compositions of paintings and lithographs, Chauvassaignes exploited the inherent characteristics of the paper negative, enabling him to subordinate details while emphasizing the effects of light and shadow. The idyllic view, contemplated by a solitary seated gentleman, recedes into deep space through flickering sunlight and leafy boughs. A photographer with a trained and sophisticated eye, Chauvassaignes conveyed an uncommon intimacy in this forest landscape, a favorite subject of mid-19th-century artists.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79983849"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1999.51-landscape-with-seate"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, “Major Contemporary German Painting Acquired by CMA,” June 9, 1999, Cleveland Museum of Art Archives.",
+          "page_number": null,
+          "url": "https://archive.org/details/cmapr4262"
+        }
+      ],
+      "url": "https://clevelandart.org/art/1999.51",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1999.51/1999.51_web.jpg",
+          "width": "1166",
+          "height": "893",
+          "filesize": "746900",
+          "filename": "1999.51_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1999.51/1999.51_print.jpg",
+          "width": "3400",
+          "height": "2605",
+          "filesize": "5548901",
+          "filename": "1999.51_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1999.51/1999.51_full.tif",
+          "width": "4518",
+          "height": "3462",
+          "filesize": "46956420",
+          "filename": "1999.51_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 161277,
+      "creators": [
+        {
+          "id": 30187,
+          "description": "Frank Chauvassaignes (French)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1999-06-07T00:00:00",
+      "sortable_date": 1851,
+      "date_added_to_oa": null,
+      "date_text": "c. 1856",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:06.106000"
+    },
+    {
+      "id": 156064,
+      "accession_number": "1991.312",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Untitled (Landscape), 1911. Karl F. Struss (American, 1886–1981). Platinum print; image: 9.2 x 11.3 cm (3 5/8 x 4 7/16 in.). The Cleveland Museum of Art, John L. Severance Fund, 1991.312",
+      "current_location": null,
+      "title": "Untitled (Landscape)",
+      "creation_date": "1911",
+      "creation_date_earliest": 1911,
+      "creation_date_latest": 1911,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "platinum print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 9.2 x 11.3 cm (3 5/8 x 4 7/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.092,
+          "width": 0.113
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on recto: \"1911\"; in pencil on verso: \"5 [circled]\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 185373,
+            "title": "American Space:  Landscape Photography 1900-1950",
+            "description": "<i>American Space:  Landscape Photography 1900-1950</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 6-May 23, 2001).",
+            "opening_date": "2001-01-06T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; January 3-May 23, 2001.  \"American Space:  Landscape Photography, 1900-1950.\"",
+            "opening_date": "2001-01-03T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Struss Estate",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "In this picturesque scene, Struss used a soft-focus lens of his own design and the warm gray tones of the platinum medium to express his primary concern, rendering the variations and nuances of light. The photograph's wide tonal range and composition of broad planes emphasize the landscape's expansiveness.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79944950"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 348",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1991.312",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 156064,
+      "creators": [
+        {
+          "id": 970,
+          "description": "Karl F. Struss (American, 1886–1981)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Karl F. Struss American, 1886-1981\r\n\r\nBorn and raised in New York City, Karl Fischer Struss was an important early pictorialist and a cofounder of the Pictorial Photographers of America. He was also a member of the Photo-Secession, publishing his works in Camera Work (April 1912), and a photographer for publications such as Vogue, Vanity Fair, and Harper's Bazaar.\r\n\tA student of Clarence H. White, Struss was influenced by both White and Alvin Langdon Coburn. He developed his own style, however, an elegant synthesis of random qualities with formal composition. Struss experimented with various technical processes. He developed multiple platinum printing to enhance the depth of shadows and in 1909 designed the Struss Pictorial lens, which entered commercial production in 1915.\r\n\tShortly after the First World War, Struss moved to Hollywood, where he became a successful cinematographer. He worked first for Cecil B. De Mille and later freelanced for both independent and major studios until his retirement in 1970. Among his film credits are Ben Hur (1926), Dr. Jekyll and Mr. Hyde (1932), and the Chaplin classics The Great Dictator (1940) and Limelight (1952). In 1928 Struss received an Academy Award for his work on De Mille's film Sunrise. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1886",
+          "death_year": "1981",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1992-02-24T00:00:00",
+      "sortable_date": 1911,
+      "date_added_to_oa": null,
+      "date_text": "1911",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:06.070000"
+    },
+    {
+      "id": 313228,
+      "accession_number": "2018.217",
+      "share_license_status": "CC0",
+      "tombstone": "Darjeeling. Kinchinjunga and the Snows from Beechwood Park, 1890. Photoglob Co. (Zurich, active c. 1890–1910). Photochrom; image: 20.9 x 26.8 cm (8 1/4 x 10 9/16 in.); paper: 20.9 x 26.8 cm (8 1/4 x 10 9/16 in.). The Cleveland Museum of Art, Purchase from the Karl B. Goldfield Trust, 2018.217",
+      "current_location": null,
+      "title": "Darjeeling. Kinchinjunga and the Snows from Beechwood Park",
+      "creation_date": "1890",
+      "creation_date_earliest": 1890,
+      "creation_date_latest": 1890,
+      "artists_tags": [],
+      "culture": [
+        "India, 19th century"
+      ],
+      "technique": "Photochrom",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 20.9 x 26.8 cm (8 1/4 x 10 9/16 in.); Paper: 20.9 x 26.8 cm (8 1/4 x 10 9/16 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.209,
+          "width": 0.268
+        },
+        "image": {
+          "height": 0.209,
+          "width": 0.268
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Imprinted in gold on recto in lower left corner: “20059. P.Z-DARJEELING. KINCHINJUNGA/AND THE SNOWS FROM BEECHWOOD PARK”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Bruno Tartarin, Photovintagefrance, Lorraine, France",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "the Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "September 4, 2018",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The composition evokes traditions in European landscape painting, not surprising since the photograph was made by Europeans for sale to Europeans and Americans.",
+      "description": "This view looks down at the town of Darjeeling, established in the early 1800s by the British colonial administration at 6,900 feet above sea level and across the foothills at Kinchinjunga, the third highest mountain in the world, which rises to more than 28,000 feet.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79873856"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2018.217-darjeeling-kinchinju"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2018.217",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2018.217/2018.217_web.jpg",
+          "width": "900",
+          "height": "701",
+          "filesize": "410141",
+          "filename": "2018.217_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2018.217/2018.217_print.jpg",
+          "width": "3400",
+          "height": "2647",
+          "filesize": "3952948",
+          "filename": "2018.217_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2018.217/2018.217_full.tif",
+          "width": "6310",
+          "height": "4912",
+          "filesize": "93016240",
+          "filename": "2018.217_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2019-04-10T15:40:18",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2018.217/2018.217_alt0_web.jpg",
+            "width": "900",
+            "height": "704",
+            "filesize": "161719"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2018.217/2018.217_alt0_print.jpg",
+            "width": "3400",
+            "height": "2659",
+            "filesize": "1893208"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2018.217/2018.217_alt0_full.tif",
+            "width": "6470",
+            "height": "5059",
+            "filesize": "98221348"
+          }
+        }
+      ],
+      "creditline": "Purchase from the Karl B. Goldfield Trust",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 313228,
+      "creators": [
+        {
+          "id": 313224,
+          "description": "Photoglob Co. (Zurich, active c. 1890–1910)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-09-04T00:00:00-04:00",
+      "sortable_date": 1890,
+      "date_added_to_oa": null,
+      "date_text": "1890",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:10:21.427000"
+    },
+    {
+      "id": 155637,
+      "accession_number": "1990.8",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Lot's Wife, 1989. Anselm Kiefer (German, 1945-). Oil paint, ash, stucco, chalk, linseed oil, polymer emulsion, salt, and applied elements (copper heating coil), on canvas, attached to lead foil, on plywood panels; framed: 350 x 410 cm (137 13/16 x 161 7/16 in.). The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund, 1990.8. © Anselm Kiefer",
+      "current_location": "229B Contemporary",
+      "title": "Lot's Wife",
+      "creation_date": "1989",
+      "creation_date_earliest": 1989,
+      "creation_date_latest": 1989,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Germany, 20th century"
+      ],
+      "technique": "oil paint, ash, stucco, chalk, linseed oil, polymer emulsion, salt, and applied elements (copper heating coil), on canvas, attached to lead foil, on plywood panels",
+      "support_materials": [],
+      "department": "Contemporary Art",
+      "collection": "CONTEMP - Painting",
+      "type": "Painting",
+      "measurements": "Framed: 350 x 410 cm (137 13/16 x 161 7/16 in.)",
+      "dimensions": {
+        "framed": {
+          "height": 3.5,
+          "width": 4.1
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© Anselm Kiefer",
+      "inscriptions": [
+        {
+          "inscription": "Titled in chalk on recto of lower panel: Lots Frau",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 311440,
+            "title": "Notable Acquisitions",
+            "description": "<i>Notable Acquisitions</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 7-September 15, 1991).",
+            "opening_date": "1991-06-07T04:00:00"
+          },
+          {
+            "id": 393229,
+            "title": "Contemporary Installation",
+            "description": "<i>Contemporary Installation</i>. The Cleveland Museum of Art (organizer).",
+            "opening_date": "2021-04-12T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH, purchased from the artist",
+          "citations": [],
+          "footnotes": [],
+          "date": "1990 -",
+          "sortorder": 1
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The subject of railroad tracks was inspired by the artist’s photograph of the Bordeaux rail facility.",
+      "description": "Born in the final year of World War II, Anselm Kiefer addresses the history and legacy of the Third Reich in his native Germany. \"We see railway tracks anywhere and think about Auschwitz,\" the artist said soon after painting <em>Lot's Wife.</em> \"It will remain that way in the long run.\" The drama of the railway tracks dissecting a barren landscape is heightened by the work's surface, dense with gesture and a range of materials, including salt. Referring to the fate of Lot's wife in the Book of Genesis—who was turned to a pillar of salt when she looked back at the destruction of Sodom—Kiefer frames a historical narrative within a biblical one.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60476539"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Hinson, Tom E. \"Notable Acquisitions.\" <em>The Bulletin of the Cleveland Museum of Art</em> 78, no. 3 (1991): 63-147.",
+          "page_number": "Reproduced and Mentioned: p. 109",
+          "url": "https://www.jstor.org/stable/25161319"
+        },
+        {
+          "citation": "Hinson, Tom E. \"Anselm Kiefer: \"Lot's Wife\".\" <em>The Bulletin of the Cleveland Museum of Art</em> 80, no. 4 (1993): 180-85.",
+          "page_number": "Reproduced: p. 180, 183; Mentioned: p. 180-85",
+          "url": "https://www.jstor.org/stable/25161410"
+        },
+        {
+          "citation": "Cleveland Museum of Art, “The Cleveland Museum of Art Acquires Major Works,” December 20, 1995, Cleveland Museum of Art Archives.",
+          "page_number": null,
+          "url": "https://archive.org/details/cmapr4002"
+        },
+        {
+          "citation": "Arasse, Daniel. <em>Anselm Kiefer</em>. London: Thames &amp; Hudson, 2014.",
+          "page_number": "Reproduced: P. 84",
+          "url": ""
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+          "page_number": "Mentioned and reproduced: P. 121",
+          "url": ""
+        },
+        {
+          "citation": "Moore, John L., Esther Jun, Clodagh Keogh, William H. Robinson, Danni Shen, Enid Shomer, and Reto Thüring. Demise: Rina Banerjee, Esperanza Cortés, Jae Rhim Lee, Brian Maguire, Paolo Pelosini, Levent Tuncer. 2018, 8.",
+          "page_number": "Mentioned: p. 5; reproduced: p. 8.",
+          "url": ""
+        },
+        {
+          "citation": "Gallagher, Lowell. <em>Sodomscapes: Hospitality in the Flesh</em>. New York: Fordham University Press, 2017.",
+          "page_number": "1, 2",
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/1990.8",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Leonard C. Hanna Jr. Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": "Paula and Eugene Stevens Gallery",
+      "athena_id": 155637,
+      "creators": [
+        {
+          "id": 533,
+          "description": "Anselm Kiefer (German, 1945-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Anselm Kiefer German, 1945-\r\n\r\nOne of the most significant and reclusive artists of the past 20 years, Anselm Kiefer was born in Donaueschingen, Bavaria, two months before the end of World War II. His enormous mixed-media canvases, as well as his smaller bookworks, are laden with cultural, political, mythic, and religious symbolism. These works are made in direct response to his Teutonic heritage and, in particular, Germany's war experience. Kiefer addresses questions regarding German identity in the postwar world, a highly sensitive subject that has brought him both critical acclaim and adamant opposition.\r\n\tKiefer studied law and French at the University of Freiburg in 1965 before turning to painting. He graduated in 1970 and began informal study at the Staatliche Kunstakademie in Düsseldorf with Joseph Beuys, who encouraged him to paint despite dominance of conceptual art at the time and the declaration that painting was dead. Kiefer often spends years on a piece, working intermittently, and retains rigid control of the placement of his paintings after they leave his studio.\r\n\tAlthough Kiefer's work has changed little throughout his career, his earlier imagery relied on figurative elements and his later paintings have become more abstract, often incorporating architectural elements. He frequently begins with an enlarged photographic image, which he distorts by such techniques as scorching, staining, and burning. His materials include molten lead, tar, straw, and clay, metaphorical substances associated with the German land and its mythologies. The transformative process also recalls alchemy, a subject that interested Beuys, who believed art had the power to evoke a change of state from physical to spiritual.\r\n\tKiefer has had numerous international exhibitions and published monographs, and is represented in major American and European collections. In addition to one-person exhibitions in Germany, the Netherlands, Italy, France, Israel, and England, the Philadelphia Museum of Art organized a retrospective of his work that toured the United States in 1987-88. In recent years, Kiefer has begun to make films that, rooted in the medium of photography, extend the physical and narrative qualities characteristic of all his work into the realms of motion and time. He lives in Barjac, France. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1945",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1990-01-29T00:00:00",
+      "sortable_date": 1989,
+      "date_added_to_oa": null,
+      "date_text": "1989",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "cover",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-04-09 11:25:41.856000"
+    },
+    {
+      "id": 172598,
+      "accession_number": "2015.80",
+      "share_license_status": "Copyrighted",
+      "tombstone": "New Primordial Chaos (新渾淪圖), 2014. Michael Cherney (American, b. 1969). Photograph in handscroll format, ink on mitsumata washi paper; image: 29.7 x 86.2 cm (11 11/16 x 33 15/16 in.); overall: 31.6 x 337.2 cm (12 7/16 x 132 3/4 in.). The Cleveland Museum of Art, The Jane B. Tripp Charitable Lead Annuity Trust, 2015.80",
+      "current_location": null,
+      "title": "New Primordial Chaos",
+      "title_in_original_language": "新渾淪圖",
+      "creation_date": "2014",
+      "creation_date_earliest": 2014,
+      "creation_date_latest": 2014,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "China"
+      ],
+      "technique": "Photograph in handscroll format, ink on mitsumata washi paper",
+      "support_materials": [],
+      "department": "Chinese Art",
+      "collection": "Chinese Art",
+      "type": "Painting",
+      "measurements": "Image: 29.7 x 86.2 cm (11 11/16 x 33 15/16 in.); Overall: 31.6 x 337.2 cm (12 7/16 x 132 3/4 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.297,
+          "width": 0.862
+        },
+        "overall": {
+          "height": 0.316,
+          "width": 3.372
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Artist's seal \"Qiu\" 秋 impressed in the lower left corner of the photo",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 202963,
+            "title": "Chinese Landscape Duets of Arnold Chang and Michael Cherney",
+            "description": "<i>Chinese Landscape Duets of Arnold Chang and Michael Cherney</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 12, 2015-February 7, 2016).",
+            "opening_date": "2015-07-12T00:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Collection of the artist",
+          "citations": [],
+          "footnotes": null,
+          "date": "2014–2015",
+          "sortorder": 1
+        },
+        {
+          "description": "(Kaikodo America Inc., New York, NY, sold to the Cleveland Museum of Art)",
+          "citations": [],
+          "footnotes": null,
+          "date": "2015",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2015–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "On the day Cherney took the photograph, Beijing’s Air Quality Index was 517 (150 is unhealthy).",
+      "description": "Michael Cherney has a \"painterly\" style of landscape photography much inspired by the aesthetics of Chinese painting. Here, he superimposed a photograph of the sun onto the composition of <em>Hunlun tu</em> by Zhu Derun (1294–1365), a famous 14th-century Chinese painting variously translated as \"Primordial Chaos\" or the \"Cosmic Circle.\" Zhu Derun depicted a circle to convey the Daoist cosmological idea of primordial chaos—the great undifferentiated matter out of which heaven and earth and all forms emerged. <br> <br>Cherney's <em>New Primordial Chaos</em> revisits the chaos after creation, a human-generated chaos that is so overwhelming and toxic that it can cloud the sun, making it look like not itself but the moon. Polluted air and clouds shroud the sun on a Beijing day. The resulting image, which resembles the moon shining in the night sky, is the artist's deliberate attempt to create confusion and subtle critique of the contemporary environmental crisis.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60482453"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "\"Elegant Solutions.\" <em>Kaikodo Journal </em>XXXI (Spring 2015).",
+          "page_number": "Reproduced:  cat. no. 60, pp. 132–133, 213–214",
+          "url": null
+        },
+        {
+          "citation": "von Spee, Clarissa. “Interview-Clarissa von Spee: Better understanding the close cross-cultural ties among Asian cultures.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 57, no. 1 (January/February 2017): 14–15.",
+          "page_number": "Reproduced and Mentioned: p. 14",
+          "url": "https://archive.org/details/CMAMM2017-01/page/n7/mode/2up"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2015.80",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The Jane B. Tripp Charitable Lead Annuity Trust",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 172598,
+      "creators": [
+        {
+          "id": 66158,
+          "description": "Michael Cherney (American, b. 1969)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "秋麥",
+          "birth_year": "1969",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2015-09-08T00:00:00",
+      "sortable_date": 2014,
+      "date_added_to_oa": null,
+      "date_text": "2014",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:18.955000"
+    },
+    {
+      "id": 151365,
+      "accession_number": "1983.206",
+      "share_license_status": "CC0",
+      "tombstone": "Life and Landscape on the Norfolk Broads, pl. XXI: Rowing Home the Schoof-Stuff, 1886. Peter Henry Emerson (British, 1856–1936), Sampson Low, Marston, Seale and Riverton (with T.F. Goodall). Platinum print; image: 13.6 x 27.6 cm (5 3/8 x 10 7/8 in.); matted: 35.6 x 45.7 cm (14 x 18 in.). The Cleveland Museum of Art, Bequest of Edgar A. Hahn by exchange and Director's Contingent Fund, 1983.206",
+      "current_location": null,
+      "title": "Rowing Home the Schoof-Stuff",
+      "series": "Life and Landscape on the Norfolk Broads, pl. XXI",
+      "creation_date": "1886",
+      "creation_date_earliest": 1886,
+      "creation_date_latest": 1886,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England"
+      ],
+      "technique": "platinum print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 13.6 x 27.6 cm (5 3/8 x 10 7/8 in.); Matted: 35.6 x 45.7 cm (14 x 18 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.136,
+          "width": 0.276
+        },
+        "matted": {
+          "height": 0.356,
+          "width": 0.457
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": "from Deluxe Edition",
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"G 3/5\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 309669,
+            "title": "The Year in Review for 1983",
+            "description": "<i>The Year in Review for 1983</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 22-April 8, 1984).",
+            "opening_date": "1984-02-22T05:00:00"
+          },
+          {
+            "id": 311875,
+            "title": "Legacy of Light: Master Photographs from the Cleveland Museum of Art",
+            "description": "<i>Legacy of Light: Master Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 24, 1996-February 2, 1997).",
+            "opening_date": "1996-11-24T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA 1984: \"Year in Review 1983,\" Bulletin LXXI (Feb. 1984), p. 71, no. 76.",
+            "opening_date": "1984-02-01T00:00:00"
+          },
+          {
+            "description": "Princeton, NJ, The Princeton University Art Museum, Pictorial Effect/Naturalistic Vision, March 21-June 7, 1994, cat. #61, p. 84.",
+            "opening_date": "1994-03-21T00:00:00"
+          },
+          {
+            "description": "also to:  Norfolk, VA, The Chrysler Museum, June 21-September 11, 1994.",
+            "opening_date": "1994-06-21T00:00:00"
+          },
+          {
+            "description": "CMA, November 20,1996 - February 2, 1997: \"Legacy of Light: Master Photographs from the Cleveland Museum of Art.\"",
+            "opening_date": "1997-02-02T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Thackery Robinson, San Francisco, CA",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Reacting against the theatrical, sentimental photogaphs made by his contemporaries, Peter Henry Emerson pursued a direct and more naturalistic form of photography. He discovered his subjects in familiar scenes from everyday life and captured them on film. This image was included among the 40 prints illustrating <em>Life and Landscape on the Norfolk Broads</em>, one of many books Emerson published on the marsh dwellers of East Anglia. In this photograph the word \"schoof\" refers to the sheaf of marsh plants that have been harvested to be dried and stored at home.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79934763"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1983.206-rowing-home-the-scho"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 146",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1983.206",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1983.206/1983.206_web.jpg",
+          "width": "1263",
+          "height": "634",
+          "filesize": "491658",
+          "filename": "1983.206_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1983.206/1983.206_print.jpg",
+          "width": "3400",
+          "height": "1707",
+          "filesize": "3478951",
+          "filename": "1983.206_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1983.206/1983.206_full.tif",
+          "width": "5013",
+          "height": "2517",
+          "filesize": "37884232",
+          "filename": "1983.206_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Bequest of Edgar A. Hahn by exchange and Director's Contingent Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 151365,
+      "creators": [
+        {
+          "id": 110,
+          "description": "Peter Henry Emerson (British, 1856–1936)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Peter Henry Emerson British, b. Cuba, 1856-1936\r\n\r\nTrained as a physician, Peter Henry Emerson abandoned medicine soon after receiving his degree in order to take up photography. His thorough command of the medium and his interest in reproducing rural subjects in a simple, direct manner led to an approach that he called naturalism. Emerson argued vehemently that the inherent qualities of photography should be used to portray subjects in a manner that eschewed artifice and the unnatural intrusions of the photographer's aesthetic style. This was in distinction to the academicism that Emerson despised, exemplified by the artificially constructed, often cloying images of Oscar G. Rejlander and Henry Peach Robinson.\r\n\tEmerson's several illustrated volumes of rural British life, beginning with Life and Landscape on the Norfolk Broads (1886), combined a clarity of vision derived from the advanced science of his day with a retrospective romanticism derived from French and British painting. The result was a unique style that helped direct photography away from artifice toward the visual integrity now associated with modernism and straight photography. Emerson's attempts as a writer and speaker to develop a theoretical base for his style, while highly regarded, are today thought to be a less powerful statement of his opinions than the work he produced. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1856",
+          "death_year": "1936",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 69167,
+          "description": "Sampson Low, Marston, Seale and Riverton (with T.F. Goodall)",
+          "extent": null,
+          "qualifier": null,
+          "role": "published by",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1983-12-05T00:00:00",
+      "sortable_date": 1886,
+      "date_added_to_oa": null,
+      "date_text": "1886",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:36.957000"
+    },
+    {
+      "id": 439500,
+      "accession_number": "2021.65",
+      "share_license_status": "CC0",
+      "tombstone": "Fontaine du Jardin du Luxembourg (grotte de Marie de Médécis), c. 1850. Charles Marville (French, 1813–1879). Salted paper print, Blanquart-Évrard process; image: 20 x 15.9 cm (7 7/8 x 6 1/4 in.); paper: 53.6 x 34.7 cm (21 1/8 x 13 11/16 in.). The Cleveland Museum of Art, Gift of Michael Mattis and Judith Hochberg, 2021.65",
+      "current_location": null,
+      "title": "Fontaine du Jardin du Luxembourg (grotte de Marie de Médécis)",
+      "creation_date": "c. 1850",
+      "creation_date_earliest": 1845,
+      "creation_date_latest": 1855,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France"
+      ],
+      "technique": "Salted paper print, Blanquart-Évrard process",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - French 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 20 x 15.9 cm (7 7/8 x 6 1/4 in.); Paper: 53.6 x 34.7 cm (21 1/8 x 13 11/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.2,
+          "width": 0.159
+        },
+        "paper": {
+          "height": 0.536,
+          "width": 0.347
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Imprinted on recto: \"Melanges Photographiques\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Imprinted on recto: \"Imprimerie Photographique de Blanquart-Evrard a Lille\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Imprinted on recto: \"36/Fontaine du Jardin du Luxembourg/(Grotte de Marie de Médicis)/Jacques de Brosse, 17em siecle\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"30/14\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"20.1 x 16/53.5x  34.5\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Michael Mattis and Judith Hochberg, Scarsdale, NY",
+          "citations": [],
+          "footnotes": null,
+          "date": "?-2021",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "June 7, 2021",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "In the 1620s, French queen Marie de’ Medici built an Italianate palace and gardens on Paris’s Left Bank.",
+      "description": "This fountain was part of those gardens. Charles Marville, who specialized in photographing landscapes, architecture, and urban views, made this photograph four decades after the fountain’s 1811 restoration, which added the white marble statue of Venus bathing. If you go to Paris now, you will see the 1864 restoration, which radically restructured it and moved it 100 feet to make way for a street.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q107378553"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2021.65-fontaine-du-jardin-d"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2021.65",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2021.65/2021.65_web.jpg",
+          "width": "744",
+          "height": "900",
+          "filesize": "278046",
+          "filename": "2021.65_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2021.65/2021.65_print.jpg",
+          "width": "2812",
+          "height": "3400",
+          "filesize": "3033506",
+          "filename": "2021.65_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2021.65/2021.65_full.tif",
+          "width": "6347",
+          "height": "7674",
+          "filesize": "146147174",
+          "filename": "2021.65_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2021-06-23T13:41:32",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.65/2021.65_alt0_web.jpg",
+            "width": "590",
+            "height": "900",
+            "filesize": "194450"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.65/2021.65_alt0_print.jpg",
+            "width": "2230",
+            "height": "3400",
+            "filesize": "1932595"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.65/2021.65_alt0_full.tif",
+            "width": "8269",
+            "height": "12609",
+            "filesize": "312816286"
+          }
+        },
+        {
+          "date_created": "2021-06-23T13:41:50",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.65/2021.65_alt1_web.jpg",
+            "width": "590",
+            "height": "900",
+            "filesize": "143806"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.65/2021.65_alt1_print.jpg",
+            "width": "2230",
+            "height": "3400",
+            "filesize": "1505619"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.65/2021.65_alt1_full.tif",
+            "width": "8269",
+            "height": "12610",
+            "filesize": "312839658"
+          }
+        }
+      ],
+      "creditline": "Gift of Michael Mattis and Judith Hochberg",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 439500,
+      "creators": [
+        {
+          "id": 635,
+          "description": "Charles Marville (French, 1813–1879)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "At the invitation of the city of Paris, photographer Charles Marville was among the first to document the ancient quarters of his birthplace. His views, taken in the late 1850s, were intended to record the many buildings and neighborhoods ultimately destroyed by Baron Georges-Eugène Haussmann's urban planning project that would create the boulevards and open spaces of modern Paris. While Marville's survey of the city, extensive and thorough in scope, prefigured other important efforts of its kind, it is distinguished by its emotional accessibility. His work beautifully reveals a Paris that has long disappeared. Originally trained as a painter and illustrator, Marville worked with both calotype and glass plate negatives. He photographed in France, Italy, Germany, and Algeria, becoming most well known for his architectural imagery but also producing acclaimed landscapes and studies of trees. Many of Marville's early views, often considered his best, were included in the albums of Louis-Désiré Blanquart-Évrard before the printer's establishment in Lille closed in 1855. Named official photographer of Paris in 1862, Marville also served as photographer to the Imperial Museum of the Louvre and to King Vittorio Emmanuelle of Italy. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1813",
+          "death_year": "1879",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2021-06-07T04:00:00Z",
+      "sortable_date": 1845,
+      "date_added_to_oa": null,
+      "date_text": "c. 1850",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 16:32:50.723000"
+    },
+    {
+      "id": 164940,
+      "accession_number": "2006.4",
+      "share_license_status": "CC0",
+      "tombstone": "Winter Trees Reflected in a Pond, 1841–42. William Henry Fox Talbot (British, 1800–1877). Salted paper print from calotype negative; image: 16.4 x 19.1 cm (6 7/16 x 7 1/2 in.); paper: 19.8 x 24.8 cm (7 13/16 x 9 3/4 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 2006.4",
+      "current_location": null,
+      "title": "Winter Trees Reflected in a Pond",
+      "creation_date": "1841–42",
+      "creation_date_earliest": 1841,
+      "creation_date_latest": 1842,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "salted paper print from calotype negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 16.4 x 19.1 cm (6 7/16 x 7 1/2 in.); Paper: 19.8 x 24.8 cm (7 13/16 x 9 3/4 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.164,
+          "width": 0.191
+        },
+        "paper": {
+          "height": 0.198,
+          "width": 0.248
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "William Henry Fox Talbot [1800-1877] (the artist), Chippenham, United Kingdom",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "Matilda Theresa Talbot [1871-1956], Chippenham, United Kingdom",
+          "citations": [],
+          "footnotes": [],
+          "date": "?-1930s",
+          "sortorder": 2
+        },
+        {
+          "description": "Science Museum, London, United Kingdom",
+          "citations": [],
+          "footnotes": [],
+          "date": "1930s",
+          "sortorder": 3
+        },
+        {
+          "description": "Unknown",
+          "citations": [],
+          "footnotes": [],
+          "date": "1970s",
+          "sortorder": 4
+        },
+        {
+          "description": "(Robert Hershkowitz, Ltd., Sussex, United Kingdom)",
+          "citations": [],
+          "footnotes": [],
+          "date": "1970s-2006",
+          "sortorder": 5
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "February 27, 2006",
+          "sortorder": 6
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Talbot made this image just a few years after he invented the photograph on paper.",
+      "description": "Talbot captured tree branches flawlessly mirrored on the glassy surface of the pond at his family seat, the 13th-century Lacock Abbey in Wiltshire. A longer exposure, or a lusher season, would have risked a blurred image. The result was a radically abstract composition for its time—a starkly beautiful landscape, as expressive and personal as any painting.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79993203"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2006.4-winter-trees-reflect"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Solender, Katie. \"The Hinson Perspective.\" <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 51, no. 4 (July/August 2011): 22-24.",
+          "page_number": "Mentioned and reproduced: p. 24",
+          "url": "https://archive.org/details/CMAMM2011-04/page/22/mode/2up"
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+          "page_number": "Mentioned and reproduced: P. 304-305",
+          "url": ""
+        },
+        {
+          "citation": "Tannenbaum, Barbara. “From Long Shot to Close-up: A brief history of the photography collection.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>63, no. 1 (2023): 30-33.",
+          "page_number": "Reproduced: P. 33",
+          "url": "https://archive.org/details/CMAMM2023-01/page/n29/mode/2up"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2006.4",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2006.4/2006.4_web.jpg",
+          "width": "1034",
+          "height": "893",
+          "filesize": "761922",
+          "filename": "2006.4_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2006.4/2006.4_print.jpg",
+          "width": "3400",
+          "height": "2936",
+          "filesize": "6239311",
+          "filename": "2006.4_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2006.4/2006.4_full.tif",
+          "width": "4282",
+          "height": "3698",
+          "filesize": "47539776",
+          "filename": "2006.4_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Purchase from the J. H. Wade Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 164940,
+      "creators": [
+        {
+          "id": 994,
+          "description": "William Henry Fox Talbot (British, 1800–1877)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "William Henry Fox Talbot British, 1800-1877\r\n\r\nBorn in Melbury, Dorset, Fox Talbot was a gentleman of the 19th century who, like many others of his class, pursued leisure activities in the arts and sciences. He experimented with means for capturing permanently the elusive images formed on paper by the camera obscura, an instrument used as a drawing aid. After several years of varying results, Talbot successfully devised a process that chemically recorded the image made by light on a piece of paper. On February 21, 1839, one month after the announcement of Louis-Jacques-Mandé Daguerre's photographic process, Talbot presented his experiments to the Royal Society in London.\r\n\tTalbot's process differed greatly from that of Daguerre. Unlike the daguerreotype's sharply detailed image, the calotype, or Talbotype, was softly blurred; yet because the positive image was made from a negative, it had the advantage of multiple reproduction. This formed the basis of conventional photography.\r\n\tA graduate of Trinity College, Cambridge, Talbot was a man of scholarly and scientific bent whose interests included optics and botany. Before his work in photography, he also had published on mathematics and linguistics. He later played an important role in the deciphering of Assyrian and other cuneiform inscriptions of interest to biblical scholars.\r\n\tTalbot was made a Fellow of the Royal Society at age 32. He is credited with the first photographic negative, which still exists, a view of a set of windows at his home, Lacock Abbey. He invented a form of engraving that was a forerunner of photogravure, as well as other innovations in the quickly growing art form for which he was largely responsible. Talbot's The Pencil of Nature (1844-46) and Sun Pictures in Scotland (1845) are two of the earliest photographically illustrated books. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1800",
+          "death_year": "1877",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2006-02-27T00:00:00",
+      "sortable_date": 1841,
+      "date_added_to_oa": null,
+      "date_text": "1841–42",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": true,
+      "updated_at": "2026-03-27 00:09:26.647000"
+    },
+    {
+      "id": 156526,
+      "accession_number": "1992.237",
+      "share_license_status": "CC0",
+      "tombstone": "Switzerland. Grindelwald, Upper Glacier, Source of the Lutschine, 1875–77. Adolphe Braun (French, 1812–1877). Carbon print, toned, from wet collodion negative; image: 38.7 x 48.3 cm (15 1/4 x 19 in.); paper: 40 x 50.7 cm (15 3/4 x 19 15/16 in.); matted: 55.9 x 71.1 cm (22 x 28 in.); framed: 59.1 x 74.3 cm (23 1/4 x 29 1/4 in.). The Cleveland Museum of Art, The A. W. Ellenberger, Sr., Endowment Fund, 1992.237",
+      "current_location": null,
+      "title": "Switzerland. Grindelwald, Upper Glacier, Source of the Lutschine",
+      "creation_date": "1875–77",
+      "creation_date_earliest": 1875,
+      "creation_date_latest": 1877,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "Carbon print, toned, from wet collodion negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - French 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 38.7 x 48.3 cm (15 1/4 x 19 in.); Paper: 40 x 50.7 cm (15 3/4 x 19 15/16 in.); Matted: 55.9 x 71.1 cm (22 x 28 in.); Framed: 59.1 x 74.3 cm (23 1/4 x 29 1/4 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.387,
+          "width": 0.483
+        },
+        "framed": {
+          "height": 0.591,
+          "width": 0.743
+        },
+        "paper": {
+          "height": 0.4,
+          "width": 0.507
+        },
+        "matted": {
+          "height": 0.559,
+          "width": 0.711
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"3/8\"; \"318\"; \"D [?]\"\r\n\r\n",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 311552,
+            "title": "Selected Acquisitions",
+            "description": "<i>Selected Acquisitions</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 9-April 11, 1993).",
+            "opening_date": "1993-02-09T05:00:00"
+          },
+          {
+            "id": 311876,
+            "title": "Legacy of Light: Seven Masters in Depth",
+            "description": "<i>Legacy of Light: Seven Masters in Depth</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 20-February 2, 1996).",
+            "opening_date": "1996-11-20T05:00:00"
+          },
+          {
+            "id": 208365,
+            "title": "Image and Enterprise: The Photographs of Adolphe Braun",
+            "description": "<i>Image and Enterprise: The Photographs of Adolphe Braun</i>. Rhode Island School of Design (February 4-April 22, 2000); The Cleveland Museum of Art, Cleveland, OH (June 18-August 27, 2000).",
+            "opening_date": "2000-02-04T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, January 28 - March 15, 1992: \"Selected Acquisitions,\" CMA Bulletin, 80 (February 1993), p. 68, no. 87.",
+            "opening_date": "1992-01-28T00:00:00"
+          },
+          {
+            "description": "CMA, November 20,1996 - February 2, 1997: \"Legacy of Light: Seven Masters in Depth.\"",
+            "opening_date": "1997-02-02T00:00:00"
+          },
+          {
+            "description": "Providence, RI: Museum of Art, Rhode Island School of Design (2/4/00 - 4/22/00); CMA (6/18/00 - 8/27/2000).  \"Image and Enterprise: The Photographs of Adolphe Braun\"  cat. no. 60, p. 148.",
+            "opening_date": "2000-02-04T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Adolphe Braun Archive, Musée Unterlinden, Colmar, France",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "Joachim Bonnemasion [1943-], Paris, France",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "(Charles Isaacs Photographs, Inc., New York, NY)",
+          "citations": [],
+          "footnotes": null,
+          "date": "?-1992",
+          "sortorder": 3
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 7, 1992",
+          "sortorder": 4
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Braun's photographs often bore a stylistic resemblance to realist painting in France. Photography was an important factor in the evolution of realism, a style that was then gaining popularity. With its forthright depiction of natural forces, this photograph of a river springing from a glacier clearly recalls landscape paintings by Gustave Courbet (1819–1877). Courbet's numerous river scenes were contemporary with Braun's work and were part of the aesthetic context of the time.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60756634"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1992.237-switzerland-grindelw"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Turner, Evan H. “The Year in Review for 1992.” <em>The Bulletin of the Cleveland Museum of Art</em> 80, no. 2 (February 1993): 38–79.",
+          "page_number": "Mentioned: p. 68",
+          "url": "http://www.jstor.org/stable/25161388"
+        },
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 111",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1992.237",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1992.237/1992.237_web.jpg",
+          "width": "1111",
+          "height": "893",
+          "filesize": "728955",
+          "filename": "1992.237_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1992.237/1992.237_print.jpg",
+          "width": "3400",
+          "height": "2734",
+          "filesize": "5554708",
+          "filename": "1992.237_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1992.237/1992.237_full.tif",
+          "width": "5000",
+          "height": "4020",
+          "filesize": "60334076",
+          "filename": "1992.237_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "The A. W. Ellenberger, Sr., Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 156526,
+      "creators": [
+        {
+          "id": 274,
+          "description": "Adolphe Braun (French, 1812–1877)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Adolphe Braun French, 1812-1877\r\n\r\nAdolphe Braun, a French textile designer born in Besançon and trained in Paris, opened his own studio in Dornach, Alsace, before becoming involved in photography in the early 1850s. He produced several early floral textile designs that were published as lithographs. In 1853 Braun began work on a large album of some 300 photographic still-life studies of flowers, intended as aids for artists in the field of decorative arts. The work met with such success at the 1855 Exposition Universelle in Paris that he left the field of design for photography. Braun's carefully executed still lifes are considered to be among the finest ever done.\r\n\tFrom the mid-1850s on, Braun's firm, Adolphe Braun et Cie., later headed by his son Gaston (1845–1928), became one of the world's largest studios and publishers of topographical views and of reproductions of works of art. In the latter effort, their importance was in part due to Gaston's success with the orthochromatic process, in which photographic reproductions retained a tonal range very close to that of the original work of art. Braun et Cie. were the official photographers to Napoléon III and Pope Pius IX. Their reproductions of works in the Louvre, the Sistine Chapel, and many other subjects in architecture, sculpture, painting, and drawing, sometimes using the more permanent carbon or Woodburytype processes, were offered in all sizes and formats, and became the standard in their field. The number of negatives taken by the Brauns or their operators was variously estimated in 1870 to be between 4,000 and 8,000. The Brauns were members of the Société française de photographie. Both were awarded the French Legion of Honor-Adolphe in 1860, and Gaston in 1892. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1812",
+          "death_year": "1877",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1992-12-07T00:00:00",
+      "sortable_date": 1875,
+      "date_added_to_oa": null,
+      "date_text": "1875–77",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Landscape with Glacier"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:56.394000"
+    },
+    {
+      "id": 324697,
+      "accession_number": "2018.296",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Night Coming Tenderly, Black: Untitled #11 (Bent Branches), 2017. Dawoud Bey (American, b. 1953). Gelatin silver print; image: 121.9 x 149.9 cm (48 x 59 in.); framed: 122.7 x 151.1 x 5.1 cm (48 5/16 x 59 1/2 x 2 in.). The Cleveland Museum of Art, Dorothea Wright Hamilton Fund, 2018.296. © Dawoud Bey",
+      "current_location": null,
+      "title": "Untitled #11 (Bent Branches)",
+      "series": "Night Coming Tenderly, Black",
+      "creation_date": "2017",
+      "creation_date_earliest": 2017,
+      "creation_date_latest": 2017,
+      "artists_tags": [
+        "Black American Artists",
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 121.9 x 149.9 cm (48 x 59 in.); Framed: 122.7 x 151.1 x 5.1 cm (48 5/16 x 59 1/2 x 2 in.)",
+      "dimensions": {
+        "image": {
+          "height": 1.219,
+          "width": 1.499
+        },
+        "framed": {
+          "height": 1.227,
+          "width": 1.511,
+          "depth": 0.051
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": "edition of 6 + 2 artist's proofs",
+      "copyright": "© Dawoud Bey",
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 443702,
+            "title": "Currents and Constellations: Black Art in Focus",
+            "description": "<i>Currents and Constellations: Black Art in Focus</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 20-June 26, 2022).",
+            "opening_date": "2022-02-20T05:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Dawoud Bey (the artist)",
+          "citations": [],
+          "footnotes": null,
+          "date": "2017",
+          "sortorder": 1
+        },
+        {
+          "description": "Stephen Daiter Gallery, Chicago, IL",
+          "citations": [],
+          "footnotes": null,
+          "date": "2018",
+          "sortorder": 2
+        },
+        {
+          "description": "the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 3, 2018",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This series was shot in Northeast Ohio at real sites used by the Underground Railroad and in landscapes typical of the region.",
+      "description": "Bey describes this series as “a visual reimagining of the movement of fugitive slaves through the Cleveland and Hudson, Ohio landscape as they approached Lake Erie and the final passage to freedom in Canada…These photographs seek to approximate the spatial and sensory experience of those moving furtively through the darkness, and the landscapes they encountered.”",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79875682"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Lee, Key Jo. “Currents and Constellations: A universe of ideas.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine  </em>62, no. 1: 12-15.",
+          "page_number": "Reproduced: P. 13; Mentioned: P. 12.",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/2018.296",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Dorothea Wright Hamilton Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 324697,
+      "creators": [
+        {
+          "id": 42884,
+          "description": "Dawoud Bey (American, b. 1953)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1953",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2018-12-03T00:00:00-05:00",
+      "sortable_date": 2017,
+      "date_added_to_oa": null,
+      "date_text": "2017",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:58.739000"
+    },
+    {
+      "id": 304779,
+      "accession_number": "2017.139",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Landscape, Glen Canyon, c. 1960. Brett Weston (American, 1911–1993). Gelatin silver print; image: 19.3 x 24.4 cm (7 5/8 x 9 5/8 in.); paper: 20.2 x 25.1 cm (7 15/16 x 9 7/8 in.). The Cleveland Museum of Art, Gift of the Christian Keesee Collection, 2017.139. © The Brett Weston Archive",
+      "current_location": null,
+      "title": "Landscape, Glen Canyon",
+      "creation_date": "c. 1960",
+      "creation_date_earliest": 1955,
+      "creation_date_latest": 1965,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 19.3 x 24.4 cm (7 5/8 x 9 5/8 in.); Paper: 20.2 x 25.1 cm (7 15/16 x 9 7/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.193,
+          "width": 0.244
+        },
+        "paper": {
+          "height": 0.202,
+          "width": 0.251
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© The Brett Weston Archive",
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “gc88”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: “05138.60”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 304783,
+            "title": "Brett Weston: Photographs",
+            "description": "<i>Brett Weston: Photographs</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 21-May 6, 2018).",
+            "opening_date": "2018-01-21T05:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Weston’s photographs are about the act of seeing, of translating his experience of the world into visual terms. His images hover between abstraction and representation. “It seems to me,” Weston wrote, “that this powerful duality, this combination of the abstract, in the emphasis upon form, and the sense of presence, in the rendering of light and substance, is something only photography can do.”",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79873153"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Tannenbaum, Barbara. \"Natural Eye: Four decades of the work of Brett Weston.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 58, no. 1 (January/February 2018): 8-9.",
+          "page_number": "Reproduced: P. 8; Mentioned: P. 8, 9",
+          "url": "https://archive.org/details/CMAMM2018-01/page/n3/mode/2up"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2017.139",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of the Christian Keesee Collection",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 304779,
+      "creators": [
+        {
+          "id": 1079,
+          "description": "Brett Weston (American, 1911–1993)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Brett Weston (born in Los Angeles) was the second son of well-known American photographer Edward Weston. After learning photography from his father and working in his father's studio, in 1930 Weston set up his own studio in Santa Barbara. Two years later he was invited to exhibit in the first Group f/64 show at the M. H. de Young Museum in San Francisco. During World War II Weston was stationed in New York, where he served as an army photographer. In 1947 he received a fellowship from the John Simon Guggenheim Memorial Foundation to photograph along the East Coast. The following year he returned to California to assist with the care of his father and with making prints from his father's negatives. In the 1960s Weston began a series of trips to photograph in Europe, Baja California, Japan, and Hawaii, and in 1973 a fellowship from the National Endowment for the Arts allowed him to photograph in Alaska. Throughout his long career, Weston often worked with a large-format camera, creating sharp, detailed images that focused on his subjects' abstract, formal elements, such as texture, form, pattern, and tone. M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1911",
+          "death_year": "1993",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 0
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2017-09-11T00:00:00-04:00",
+      "sortable_date": 1955,
+      "date_added_to_oa": null,
+      "date_text": "c. 1960",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:39.690000"
+    },
+    {
+      "id": 540568,
+      "accession_number": "2024.21",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Iowa: House with Melting Roof, Pomeroy, Ohio, 1971. Nancy Rexroth (American, 1946-). Gelatin silver print; image: 10.3 x 10.5 cm (4 1/16 x 4 1/8 in.); paper: 20 x 25.4 cm (7 7/8 x 10 in.); matted: 43.2 x 35.6 cm (17 x 14 in.); framed: 44.8 x 37.1 x 3.2 cm (17 5/8 x 14 5/8 x 1 1/4 in.). The Cleveland Museum of Art, Gift of Sharon & Del Zogg, 2024.21",
+      "current_location": null,
+      "title": "House with Melting Roof, Pomeroy, Ohio",
+      "series": "Iowa",
+      "creation_date": "1971",
+      "creation_date_earliest": 1971,
+      "creation_date_latest": 1971,
+      "artists_tags": [
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 10.3 x 10.5 cm (4 1/16 x 4 1/8 in.); Paper: 20 x 25.4 cm (7 7/8 x 10 in.); Matted: 43.2 x 35.6 cm (17 x 14 in.); Framed: 44.8 x 37.1 x 3.2 cm (17 5/8 x 14 5/8 x 1 1/4 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.103,
+          "width": 0.105
+        },
+        "paper": {
+          "height": 0.2,
+          "width": 0.254
+        },
+        "matted": {
+          "height": 0.432,
+          "width": 0.356
+        },
+        "framed": {
+          "height": 0.448,
+          "width": 0.371,
+          "depth": 0.032
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Nancy Rexroth (the artist) [1946–], sold to Del Zogg, Concord, NC",
+          "citations": [],
+          "footnotes": null,
+          "date": "1971–2000",
+          "sortorder": 1
+        },
+        {
+          "description": "Del Zogg, Concord, NC, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2000–24",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "February 26, 2024–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Nancy Rexroth took this image with a plastic toy camera, the Diana, which imparts a dreamy look to its photographs.",
+      "description": "The Diana camera tends to vignette the scenes, darkening their edges, and offers a uniformly soft focus. In the 1970s, Ohio artist Nancy Rexroth used it to photograph the humble frame houses, rural landscapes, and homey interiors of southeastern Ohio. She sought subjective, rather than, objective or documentary images. Her goal, she said, was to portray “my own private landscape, a state of mind.”",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q126084611"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.21",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Sharon & Del Zogg",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 540568,
+      "creators": [
+        {
+          "id": 51196,
+          "description": "Nancy Rexroth (American, 1946-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1946",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-02-26T05:00:00Z",
+      "sortable_date": 1971,
+      "date_added_to_oa": null,
+      "date_text": "1971",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:04:54.214000"
+    },
+    {
+      "id": 163333,
+      "accession_number": "2004.154",
+      "share_license_status": "Copyrighted",
+      "tombstone": "New Mexico Landscape #8, 1980. Art Sinsabaugh (American, 1924–1983). Gelatin silver print; image: 29.8 x 49.7 cm (11 3/4 x 19 9/16 in.); paper: 40.5 x 50.5 cm (15 15/16 x 19 7/8 in.); matted: 55.9 x 71.1 cm (22 x 28 in.). The Cleveland Museum of Art, Gift of Mark Schwartz and Bettina Katz, 2004.154. ©2004, Katherine Anne Sinsabaugh and Elisabeth Sinsabaugh de la Cova",
+      "current_location": null,
+      "title": "New Mexico Landscape #8",
+      "creation_date": "1980",
+      "creation_date_earliest": 1980,
+      "creation_date_latest": 1980,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 29.8 x 49.7 cm (11 3/4 x 19 9/16 in.); Paper: 40.5 x 50.5 cm (15 15/16 x 19 7/8 in.); Matted: 55.9 x 71.1 cm (22 x 28 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.298,
+          "width": 0.497
+        },
+        "paper": {
+          "height": 0.405,
+          "width": 0.505
+        },
+        "matted": {
+          "height": 0.559,
+          "width": 0.711
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "©2004, Katherine Anne Sinsabaugh and Elisabeth Sinsabaugh de la Cova",
+      "inscriptions": [
+        {
+          "inscription": "inscribed on verso in pencil \"N.M.8\" ans \"Geri & Aaron\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 199873,
+            "title": "Contemporary Landscape Photography",
+            "description": "<i>Contemporary Landscape Photography</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 26-August 14, 2011).",
+            "opening_date": "2011-03-26T00:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "One of the most insightful photographers of his generation, Sinsabaugh used a 12-by-20-inch banquet camera to make lyrical, sun-filled landscapes like this one, taken in New Mexico. He used this bulky camera to emphasize the breadth of space he was trying to understand and reveal.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79989212"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2004.154",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Mark Schwartz and Bettina Katz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 163333,
+      "creators": [
+        {
+          "id": 909,
+          "description": "Art Sinsabaugh (American, 1924–1983)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Art Sinsabaugh American, 1924-1983\r\n\r\nArthur Reeder Sinsabaugh (born in Irvington, New Jersey) made his reputation as a landscape photographer and was known for his extensive application of the banquet camera, a device that enabled use of 12 x 20-inch sheet film to produce long, horizontal scenes. His trademark subjects were the prairies and plateaus of Illinois and Indiana (1960-70), but he also photographed throughout Arizona, New Mexico, Utah, Colorado, and Texas (1980-81).\r\n\tAlthough Sinsabaugh was a Junior Photographer for the War Department during high school, his formal training came from Harry Callahan, Aaron Siskind, and László Moholy-Nagy at the Institute of Design, Illinois Institute of Technology (B.S., 1949; M.S., 1967). He later taught there as an instructor in photography (1951-59) before moving to the University of Illinois, Urbana-Champaign. Sinsabaugh was a founding member of the Society for Photographic Education and the recipient of fellowships from the John Simon Guggenheim Memorial Foundation (1969) and the National Endowment for the Arts (1976). He was elected a Nettie Maries Jones Fellow in 1983. Since 1978 Sinsabaugh's archives have been housed in the Indiana University Art Museum. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1924",
+          "death_year": "1983",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2005-02-28T00:00:00",
+      "sortable_date": 1980,
+      "date_added_to_oa": null,
+      "date_text": "1980",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:05:02.930000"
+    },
+    {
+      "id": 386333,
+      "accession_number": "2020.235",
+      "share_license_status": "CC0",
+      "tombstone": "Untitled (River, Hong Kong or Macau, China), 1866–73. William Pryor Floyd (British, 1834–c. 1900). Albumen print; image: 21.9 x 27.9 cm (8 5/8 x 11 in.); paper: 21.9 x 27.9 cm (8 5/8 x 11 in.); mounted: 26.8 x 34.1 cm (10 9/16 x 13 7/16 in.). The Cleveland Museum of Art, Sundry Art - Photography Fund, 2020.235",
+      "current_location": null,
+      "title": "Untitled (River, Hong Kong or Macau, China)",
+      "creation_date": "1866–73",
+      "creation_date_earliest": 1866,
+      "creation_date_latest": 1873,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 21.9 x 27.9 cm (8 5/8 x 11 in.); Paper: 21.9 x 27.9 cm (8 5/8 x 11 in.); Mounted: 26.8 x 34.1 cm (10 9/16 x 13 7/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.219,
+          "width": 0.279
+        },
+        "paper": {
+          "height": 0.219,
+          "width": 0.279
+        },
+        "mounted": {
+          "height": 0.268,
+          "width": 0.341
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Alexander Young Herries [1827-1918]",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "(Pump Park Vintage Photography, Co. Down, Ireland)",
+          "citations": [],
+          "footnotes": null,
+          "date": "?-2020",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 14, 2020",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "A photographer’s choice of viewpoint and framing can radically change how we see a landscape.",
+      "description": "A young art form, photography had not yet fully developed its own visual traditions when William Pryor Floyd was working, so he often borrowed compositional formats from classical landscape painting. Here, he instead daringly placed the stream right in the middle of this composition. It wends its way in gentle S curves into the distance, drawing the viewer’s eye up and across the picture plane, until it disappears into distant trees.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117244801"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2020.235-untitled-river-hong"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2020.235",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.235/2020.235_web.jpg",
+          "width": "900",
+          "height": "712",
+          "filesize": "274249",
+          "filename": "2020.235_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.235/2020.235_print.jpg",
+          "width": "3400",
+          "height": "2688",
+          "filesize": "3138526",
+          "filename": "2020.235_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.235/2020.235_full.tif",
+          "width": "12330",
+          "height": "9748",
+          "filesize": "360606544",
+          "filename": "2020.235_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2020-08-13T16:34:58",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2020.235/2020.235_alt0_web.jpg",
+            "width": "900",
+            "height": "712",
+            "filesize": "181122"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2020.235/2020.235_alt0_print.jpg",
+            "width": "3400",
+            "height": "2688",
+            "filesize": "2213867"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2020.235/2020.235_alt0_full.tif",
+            "width": "12331",
+            "height": "9749",
+            "filesize": "360669772"
+          }
+        }
+      ],
+      "creditline": "Sundry Art - Photography Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 386333,
+      "creators": [
+        {
+          "id": 386323,
+          "description": "William Pryor Floyd (British, 1834–c. 1900)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1834",
+          "death_year": "1900",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2020-09-14T00:00:00-04:00",
+      "sortable_date": 1866,
+      "date_added_to_oa": null,
+      "date_text": "1866–73",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:03:31.467000"
+    },
+    {
+      "id": 85873,
+      "accession_number": "2022.62",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Tide Pool, Mont Saint-Michel, France, 1982, printed 1995. William Clift (American, b. 1944). Gelatin silver print; image: 16.4 x 22.8 cm (6 7/16 x 9 in.); paper: 17.5 x 24 cm (6 7/8 x 9 7/16 in.). The Cleveland Museum of Art, Gift of Tom E. Hinson and Diana S. Tittle, 2022.62",
+      "current_location": null,
+      "title": "Tide Pool, Mont Saint-Michel, France",
+      "creation_date": "1982, printed 1995",
+      "creation_date_earliest": 1982,
+      "creation_date_latest": 1982,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "Gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "Photography",
+      "type": "Photograph",
+      "measurements": "Image: 16.4 x 22.8 cm (6 7/16 x 9 in.); Paper: 17.5 x 24 cm (6 7/8 x 9 7/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.164,
+          "width": 0.228
+        },
+        "paper": {
+          "height": 0.175,
+          "width": 0.24
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": "print no. 2",
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on mat, recto, lower left: “Tide Pool, Mont Saint Michel, France 1982/Print #2, 6-7/16 x 9”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on mat, recto, lower right: “William Clift (signed)”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "William Clift (the artist) [1944-], Santa Fe, NM, 1995, to Tom Hinson, Truth or Consequences, NM",
+          "citations": [],
+          "footnotes": null,
+          "date": "?-1995",
+          "sortorder": 1
+        },
+        {
+          "description": "Tom Hinson, Truth or Consequences, NM, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1995-2022",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "June 6, 2022-",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "William Clift was a close friend of Georgia O'Keeffe and photographed her numerous times; see 1990.111 and 2019.93.",
+      "description": "During visits to France in 1977 and 1981–82, architectural and landscape photographer William Clift photographed in and around the majestic abbey of Mont-Saint-Michel. Mont-Saint-Michel is a tidal island and was originally accessible via a causeway only at low tides. The tide pool in Clift’s photograph echoes the island's isolation from the mainland but with an inversion: the tide pool is composed of rocks and water, and the \"water\" surrounding it is dry sand.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q115909319"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2022.62",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of Tom E. Hinson and Diana S. Tittle",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 85873,
+      "creators": [
+        {
+          "id": 29900,
+          "description": "William Clift (American, b. 1944)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "William Clift American, 1944- Throughout his career, William Brooks Clift III has photographed the land and architecture as quiet yet complex subjects filled with cultural and spiritual metaphor. Celebrating the nuances of light and composition in his images, which are primarily black and white, he is a careful and thoughtful technician. He digests, rather than dramatizes, his subjects, often spending several years exploring a theme before completing it. Born in Boston, Clift first took an interest in photography at age 10, building his own darkroom. As a teenager, he attended a workshop with Paul Caponigro. Beginning in 1962, Clift spent eight years specializing in architectural subjects, commissioned on a freelance basis by various organizations -- including the Massachusetts Council on the Arts for an extensive documentation of Old Boston City Hall (1970). He moved to Santa Fe in 1971 and began to photograph the landscape that continues to inspire his work. He has been awarded fellowships from the National Endowment for the Arts (1972, 1979) and the John Simon Guggenheim Memorial Foundation (1973, 1980). Returning to Boston in 1975, Clift photographed the architecture of Beacon Hill. During 1975-76 he worked for the Joseph Seagram and Son's bicentennial project on American county courthouses. In 1977 he traveled to France to take pictures of Mont-Saint-Michel and began an ongoing project picturing the sculpture of Juan Hamilton. Commissions followed from AT&amp;T for their American Images project (1978) and from the Reader's Digest Association (1985-86) to photograph the Hudson River Highlands with Steven Shore, who eventually discontinued the endeavor. A one-person exhibition of Clift's work, Certain Places, was on view at the Art Institute of Chicago and the Amon Carter Museum, Fort Worth (1987). That same year he received the Governor's Award for Excellence and Achievement in the Arts in New Mexico and began a color project with Polaroid materials, making family pictures that were exhibited in the Equitable Gallery, New York (1992). He has produced and distributed two books, Certain Places (1987) and A Hudson Landscape (1994). Clift continues to photograph the mountain and desert landscape throughout the southwestern United States. He lives in Santa Fe. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1944",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2022-06-06T04:00:00Z",
+      "sortable_date": 1982,
+      "date_added_to_oa": null,
+      "date_text": "1982, printed 1995",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:28.811000"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "data": {
+    "id": 151515,
+    "accession_number": "1983.67",
+    "share_license_status": "Copyrighted",
+    "tombstone": "The Houses of Parliament from Westminster Bridge, 1906. André Derain (French, 1880–1954). Oil on canvas; framed: 106 x 124.5 x 10 cm (41 3/4 x 49 x 3 15/16 in.); unframed: 73.6 x 92 cm (29 x 36 1/4 in.). The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund, 1983.67. © Artists Rights Society (ARS), New York / ADAGP, Paris",
+    "current_location": "223 20th Century Avant-Garde",
+    "title": "The Houses of Parliament from Westminster Bridge",
+    "creation_date": "1906",
+    "creation_date_earliest": 1906,
+    "creation_date_latest": 1906,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "France, 20th century"
+    ],
+    "technique": "oil on canvas",
+    "support_materials": [],
+    "department": "Modern European Painting and Sculpture",
+    "collection": "Mod Euro - Painting 1800-1960",
+    "type": "Painting",
+    "measurements": "Framed: 106 x 124.5 x 10 cm (41 3/4 x 49 x 3 15/16 in.); Unframed: 73.6 x 92 cm (29 x 36 1/4 in.)",
+    "dimensions": {
+      "framed": {
+        "height": 1.06,
+        "width": 1.245,
+        "depth": 0.1
+      },
+      "unframed": {
+        "height": 0.736,
+        "width": 0.92
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": "© Artists Rights Society (ARS), New York / ADAGP, Paris",
+    "inscriptions": [
+      {
+        "inscription": "Signed lower left: \"a derain / '06\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 411173,
+          "title": "Andre Derain Retrospective",
+          "description": "<i>Andre Derain Retrospective</i>. Musée d'Art Moderne de la Ville de Paris (organizer) (November 8, 1994-March 15, 1995).",
+          "opening_date": "1994-11-08T05:00:00"
+        },
+        {
+          "id": 223638,
+          "title": "Claude Monet and Modernist London",
+          "description": "<i>Claude Monet and Modernist London</i>. Museum of Fine Arts, St. Petersburg, Florida, St. Petersburg, FL (organizer) (January 16-April 17, 2005).",
+          "opening_date": "2005-01-16T00:00:00"
+        },
+        {
+          "id": 182153,
+          "title": "Monet to Dalí: Modern Masters from the Cleveland Museum of Art",
+          "description": "<i>Monet to Dalí: Modern Masters from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 21, 2007-January 13, 2008).",
+          "opening_date": "2006-05-27T00:00:00"
+        }
+      ],
+      "legacy": [
+        {
+          "description": "Museum of Fine Arts, St. Petersburg, Florida (1/16/2005 - 4/17/2005): \"Claude Monet and Modernist London\" ex. cat. no. 7 , p. 62.",
+          "opening_date": "2005-01-16T00:00:00"
+        }
+      ]
+    },
+    "provenance": [
+      {
+        "description": "(A. Vollard, Paris); H. Gonzalez, Mexico City; Van der Velde coll., Le Havre; (London sale 1978); (E. V. Thaw)",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": null
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "André Derain painted this view of parliament over a century ago, but you can still stand on Westminster Bridge and see the same vista.",
+    "description": "This painting is from a series of 30 London views painted by André Derain between 1906 and 1907. It exemplifies the artist’s Fauve style—characterized by intense, vivid color and energetic brushwork— that Derain developed with his friend Henri Matisse in the summer of 1905 while visiting Collioure, a fishing village in the South of France. Nicknamed the Fauves (“wild beasts”) by contemporary critics, the artists aimed for the liberation of color from reality, using it instead for compositional and expressive purposes.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q60475233"
+      ],
+      "internet_archive": []
+    },
+    "citations": [
+      {
+        "citation": "Turner, Evan H. “Year in Review for 1983.” <em>The Bulletin of the Cleveland Museum of Art</em> 71, no. 2 (February 1984): 38–79.",
+        "page_number": "Mentioned: p. 71, no. 75; Reproduced: p. 49",
+        "url": "http://www.jstor.org/stable/25159848"
+      }
+    ],
+    "url": "https://clevelandart.org/art/1983.67",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Leonard C. Hanna Jr. Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": "Michael J. Horvitz Family Gallery",
+    "athena_id": 151515,
+    "creators": [
+      {
+        "id": 2115,
+        "description": "André Derain (French, 1880–1954)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1880",
+        "death_year": "1954",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1983-05-09T00:00:00",
+    "sortable_date": 1906,
+    "date_added_to_oa": null,
+    "date_text": "1906",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": true,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:08:26.102000"
+  }
+}

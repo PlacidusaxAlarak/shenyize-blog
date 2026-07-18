@@ -1,0 +1,121 @@
+{
+  "data": {
+    "id": 161737,
+    "accession_number": "2000.90",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Monet's Garden, Giverny, France, 1992. Lynn Geesaman (American, 1938–2020). Gelatin silver print; image: 47.9 x 48.2 cm (18 7/8 x 19 in.); paper: 60.9 x 50.9 cm (24 x 20 1/16 in.); matted: 66 x 66 cm (26 x 26 in.). The Cleveland Museum of Art, Gift of The Cleveland Museum of Art Photography Seminar, 2000, 2000.90",
+    "current_location": null,
+    "title": "Monet's Garden, Giverny, France",
+    "creation_date": "1992",
+    "creation_date_earliest": 1992,
+    "creation_date_latest": 1992,
+    "artists_tags": [
+      "female"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "gelatin silver print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1951-Present",
+    "type": "Photograph",
+    "measurements": "Image: 47.9 x 48.2 cm (18 7/8 x 19 in.); Paper: 60.9 x 50.9 cm (24 x 20 1/16 in.); Matted: 66 x 66 cm (26 x 26 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.479,
+        "width": 0.482
+      },
+      "paper": {
+        "height": 0.609,
+        "width": 0.509
+      },
+      "matted": {
+        "height": 0.66,
+        "width": 0.66
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "written in pencil on verso: \"Monet's Garden/ Giverny, France/ Lynn Geesaman [signed] 1992; 4-92-24-10-#12\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 188270,
+          "title": "Lynn Geesaman Photographs:  Poetics of Place",
+          "description": "<i>Lynn Geesaman Photographs:  Poetics of Place</i>. The Cleveland Museum of Art (organizer) (March 18-May 24, 2000).",
+          "opening_date": "2000-03-18T00:00:00"
+        }
+      ],
+      "legacy": [
+        {
+          "description": "Cleveland, Ohio:  The Cleveland Museum of Art; March 18-May 24, 2000.  \"Lynn Geesaman Photographs:  Poetics of Place\".",
+          "opening_date": "2000-03-18T00:00:00"
+        }
+      ]
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": null,
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79984855"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2000.90",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of The Cleveland Museum of Art Photography Seminar, 2000",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 161737,
+    "creators": [
+      {
+        "id": 37879,
+        "description": "Lynn Geesaman (American, 1938–2020)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1938",
+        "death_year": "2020",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2000-09-18T00:00:00",
+    "sortable_date": 1992,
+    "date_added_to_oa": null,
+    "date_text": "1992",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": "4",
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:07:35.773000"
+  }
+}

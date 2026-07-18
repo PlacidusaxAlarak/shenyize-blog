@@ -1,0 +1,117 @@
+{
+  "data": {
+    "id": 161421,
+    "accession_number": "2000.114.6",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Zen Gardens, 1973. Birgit Skiöld (British, 1923–1982), Circle Press. Photoetching and linocut relief; sheet: 29.7 x 59.6 cm (11 11/16 x 23 7/16 in.); platemark: 8.8 x 11.3 cm (3 7/16 x 4 7/16 in.). The Cleveland Museum of Art, Gift of Jane Weiss Garrett, 2000.114.6",
+    "current_location": null,
+    "title": "Zen Gardens",
+    "creation_date": "1973",
+    "creation_date_earliest": 1973,
+    "creation_date_latest": 1973,
+    "artists_tags": [
+      "female"
+    ],
+    "culture": [
+      "England, 20th century"
+    ],
+    "technique": "photoetching and linocut relief",
+    "support_materials": [],
+    "department": "Prints",
+    "collection": "PR - Etching",
+    "type": "Portfolio",
+    "measurements": "Sheet: 29.7 x 59.6 cm (11 11/16 x 23 7/16 in.); Platemark: 8.8 x 11.3 cm (3 7/16 x 4 7/16 in.)",
+    "dimensions": {
+      "sheet": {
+        "height": 0.297,
+        "width": 0.596
+      },
+      "platemark": {
+        "height": 0.088,
+        "width": 0.113
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": "100; numbers 1-75 printed in English with 10 artist's proofs; 76-100 printed in Japanese with 5 artist's proofs",
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "the colophon is signed by the artist and the poet",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "Skiöld was raised on the coast of Sweden and the influence of the sea was expressed in rhythmic\r\npatterns printed in relief and a delicate, ethereal sense of color. During a 1970 trip to Japan the inspiration of nature and the simplicity of Asian art also affected her work. Photographs she took there were transferred to etching plates to illustrate Zen Gardens where they, and the embossed designs, echo verbal references to stones, sand, sea birds, and sky. The poems (by James Kirkup) and images enhance each other producing a satisfying whole.\r\n",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79984092"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2000.114.6",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Jane Weiss Garrett",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 161421,
+    "creators": [
+      {
+        "id": 38704,
+        "description": "Birgit Skiöld (British, 1923–1982)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1923",
+        "death_year": "1982",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      },
+      {
+        "id": 67706,
+        "description": "Circle Press",
+        "extent": null,
+        "qualifier": null,
+        "role": "published by",
+        "biography": null,
+        "name_in_original_language": null,
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 2
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2000-09-18T00:00:00",
+    "sortable_date": 1973,
+    "date_added_to_oa": null,
+    "date_text": "1973",
+    "collapse_artists": true,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "component",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": "2000.114",
+    "is_nazi_era_provenance": false,
+    "impression": "25/100",
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:02:38.252000"
+  }
+}

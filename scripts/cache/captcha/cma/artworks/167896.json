@@ -1,0 +1,99 @@
+{
+  "data": {
+    "id": 167896,
+    "accession_number": "2009.486",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Barnum & Bailey Circus Performers, Old Madison Square Garden, New York, NY, 1950. Louis Faurer (American, 1916–2001). Gelatin silver print; paper: 28 x 35.6 cm (11 x 14 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, Gift of Howard Greenberg, 2009.486",
+    "current_location": null,
+    "title": "Barnum & Bailey Circus Performers, Old Madison Square Garden, New York, NY",
+    "creation_date": "1950",
+    "creation_date_earliest": 1950,
+    "creation_date_latest": 1950,
+    "artists_tags": [
+      "male",
+      "Jewish artists"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "gelatin silver print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - American 1951-Present",
+    "type": "Photograph",
+    "measurements": "Paper: 28 x 35.6 cm (11 x 14 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+    "dimensions": {
+      "paper": {
+        "height": 0.28,
+        "width": 0.356
+      },
+      "matted": {
+        "height": 0.406,
+        "width": 0.508
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": null,
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q80073007"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2009.486",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Gift of Howard Greenberg",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 167896,
+    "creators": [
+      {
+        "id": 58919,
+        "description": "Louis Faurer (American, 1916–2001)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1916",
+        "death_year": "2001",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2010-03-01T00:00:00",
+    "sortable_date": 1950,
+    "date_added_to_oa": null,
+    "date_text": "1950",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:06:27.724000"
+  }
+}

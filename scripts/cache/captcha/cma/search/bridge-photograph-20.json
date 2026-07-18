@@ -1,0 +1,2726 @@
+{
+  "info": {
+    "total": 114,
+    "parameters": {
+      "skip": 20,
+      "limit": 20,
+      "q": "bridge photograph",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,collection,department,classification_type,gallery",
+      "search": "bridge photograph"
+    }
+  },
+  "data": [
+    {
+      "id": 306827,
+      "accession_number": "2017.243",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Trout Fisher under Aurora Road Bridge, 2013. Jeffrey Whetstone (American, b. 1968). Gelatin silver print; image: 25.3 x 35.5 cm (9 15/16 x 14 in.); paper: 30.3 x 40.5 cm (11 15/16 x 15 15/16 in.). The Cleveland Museum of Art, The George Gund Foundation Collection in honor of David Bergholz, 2017.243",
+      "current_location": null,
+      "title": "Trout Fisher under Aurora Road Bridge",
+      "creation_date": "2013",
+      "creation_date_earliest": 2013,
+      "creation_date_latest": 2013,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 25.3 x 35.5 cm (9 15/16 x 14 in.); Paper: 30.3 x 40.5 cm (11 15/16 x 15 15/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.253,
+          "width": 0.355
+        },
+        "paper": {
+          "height": 0.303,
+          "width": 0.405
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: “Trout Fisher under Aurora Road Bridge Jeff Whetstone (signed) 2013”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Jeff Whetstone was commissioned to photograph the Cuyahoga River for the 2012 George Gund Foundation Annual Report. The luminous, formally poetic, and instructive photographs he created reflect the river’s dual role as recreational and industrial resource. In some photos, nature is dominant and uplifting; in others, the river seems entirely at the mercy of human whim and desire.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79873245"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2017.243",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The George Gund Foundation Collection in honor of David Bergholz",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 306827,
+      "creators": [
+        {
+          "id": 306823,
+          "description": "Jeffrey Whetstone (American, b. 1968)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1968",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 0
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2017-12-04T00:00:00-05:00",
+      "sortable_date": 2013,
+      "date_added_to_oa": null,
+      "date_text": "2013",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:35.165000"
+    },
+    {
+      "id": 542074,
+      "accession_number": "2023.89",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Cuyahoga River Scene, Cleveland, 1950s–60s. Lawrence Schreiber (American, 1904–1982). Bromoil print. The Cleveland Museum of Art, Gift of William Kubat, 2023.89",
+      "current_location": null,
+      "title": "Cuyahoga River Scene, Cleveland",
+      "creation_date": "1950s–60s",
+      "creation_date_earliest": 1950,
+      "creation_date_latest": 1969,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "bromoil print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "dimensions": {},
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Lawrence Schreiber uses the verticality of the composition to present three layers of the history of river transport in this image.",
+      "description": "In the foreground, the rotting remnants of a wooden pier suggest that older, smaller scale forms of transport gave way to massive freighters, one of which occupies the middle ground. A tugboat helps it navigate the river bends. At the top, Schreiber has placed the Detroit Superior Bridge, completed in 1919 and so tall that it need not open to allow the freighters to pass.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q122828797"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2023.89",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of William Kubat",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 542074,
+      "creators": [
+        {
+          "id": 6505,
+          "description": "Lawrence Schreiber (American, 1904–1982)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "A specialist in the pictorialist techniques of bromoil transfer and gum bichromate, Lawrence Schreiber spent more than 40 years creating evocative photographs of Cleveland harbor and the Flats. While supporting himself until 1967 as the chief librarian of the Cleveland Press, he was active in local camera clubs, the Photographic Society of America, and the New Pictorialists Society. He preferred the bromoil and gum bichromate processes because they afforded more opportunities for manupulating the printing process, thus facilitating personal expression. Through these techniques he attained subtle tonal variations and emphasized qualities of abstract pictorial design. In 1954 he exhibited with the New Pictorialists at the Smithsonian Institution in Washington, D.C., and at the Pasadena Central Library. Posthumous exhibitions of Schreiber graphs were organized by the Cleveland Public Library (1989–90) and the Beck Center in Lakewood, Ohio (1991). <br>\"Transformations in Cleveland Art\" (CMA, 1996), p. 237",
+          "name_in_original_language": null,
+          "birth_year": "1904",
+          "death_year": "1982",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2023-06-05T04:00:00Z",
+      "sortable_date": 1950,
+      "date_added_to_oa": null,
+      "date_text": "1950s–60s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:09:14.612000"
+    },
+    {
+      "id": 452646,
+      "accession_number": "2022.33",
+      "share_license_status": "CC0",
+      "tombstone": "Lyon. Viaduc du Rhône, c. 1860. Édouard Baldus (French, 1813–1889). Albumen print from collodion negative; image: 22.8 x 42.5 cm (9 x 16 3/4 in.); paper: 22.8 x 42.5 cm (9 x 16 3/4 in.); mounted: 45.7 x 60.9 cm (18 x 24 in.). The Cleveland Museum of Art, Gift of Michael Mattis and Judith Hochberg, 2022.33",
+      "current_location": null,
+      "title": "Lyon. Viaduc du Rhône",
+      "creation_date": "c. 1860",
+      "creation_date_earliest": 1855,
+      "creation_date_latest": 1865,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "albumen print from collodion negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - French 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 22.8 x 42.5 cm (9 x 16 3/4 in.); Paper: 22.8 x 42.5 cm (9 x 16 3/4 in.); Mounted: 45.7 x 60.9 cm (18 x 24 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.228,
+          "width": 0.425
+        },
+        "paper": {
+          "height": 0.228,
+          "width": 0.425
+        },
+        "mounted": {
+          "height": 0.457,
+          "width": 0.609
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Imprinted in black ink on recto of mount: “LYON. VIADUC DU RHÔNE”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in black ink on recto of mount: “E. Baldus”",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Harry Lunn, Washington, D.C., sold to Michael Mattis and Judith Hochberg, Scarsdale, NY",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "Michael Mattis & Judith Hochberg, Scarsdale, NY, given to The Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "?-2022",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "March 7, 2022-",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This cast-iron railway bridge, completed in 1857, still carries trains today.",
+      "description": "Edouard Baldus, one of the greatest French architectural photographers, documented many of the engineering projects and economic growth that accompanied the construction of the railroads in France. Bridges and viaducts were examples of advancing engineering technology and critical structures for commerce. In this view by Baldus, the viaduct’s repeating arches form a soothing rhythm suggestive of classical balance and symmetry at odds with its modern role.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117247112"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2022.33-lyon-viaduc-du-rhone"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2022.33",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.33/2022.33_web.jpg",
+          "width": "900",
+          "height": "686",
+          "filesize": "167915",
+          "filename": "2022.33_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.33/2022.33_print.jpg",
+          "width": "3400",
+          "height": "2590",
+          "filesize": "1729586",
+          "filename": "2022.33_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.33/2022.33_full.tif",
+          "width": "12529",
+          "height": "9543",
+          "filesize": "358720957",
+          "filename": "2022.33_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2022-04-13T15:48:50",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2022.33/2022.33_alt0_web.jpg",
+            "width": "900",
+            "height": "686",
+            "filesize": "136713"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2022.33/2022.33_alt0_print.jpg",
+            "width": "3400",
+            "height": "2590",
+            "filesize": "1544325"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2022.33/2022.33_alt0_full.tif",
+            "width": "12529",
+            "height": "9543",
+            "filesize": "358719933"
+          }
+        }
+      ],
+      "creditline": "Gift of Michael Mattis and Judith Hochberg",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 452646,
+      "creators": [
+        {
+          "id": 214,
+          "description": "Édouard Baldus (French, 1813–1889)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Édouard Baldus French, b. Prussia, 1813 - 1889\r\n\r\nThe large and regal prints made by Édouard-Denis Baldus are widely agreed to be among the finest photographic images ever produced. After serving as an artillery officer in the Prussian army, Baldus left his native country for France during the 1830s to become a painter. He exhibited his paintings of religious subjects, portraits, and genre scenes in the Paris Salons from 1841 - 51 and was naturalized as a French citizen in 1849, the same year his interests turned to photography.\r\n\tCombining his training in painting with an inquisitive, inventive technical expertise, Baldus produced a body of work of exceptional quality and interest. His subjects included architecture, landscape, and engineering feats. In 1851 the Commission des monuments historiques selected him for the Missions héliographique—a government project that sponsored the photographing of endangered classical and medieval architecture in France. For this important series Baldus produced views of Burgundy, Provence, and the Dauphiné, and the following year he completed a commission for the Ministry of the Interior. In 1855 he began his photography of railroads, some of his most distinctive work. A copy of his album recording the line between Paris and Boulogne was presented to Queen Victoria. He also documented the flooding of the Rhone, as well as construction of the new Louvre and other Paris views.\r\n\tA founding member of the Société héliographique and a member of the Société française de photographie (1857), Baldus exhibited his photographs widely in London, Amsterdam, Edinburgh, Brussels, and Paris and won numerous medals of award. A master printer, he produced combination prints in the early 1850s, frequently retouching his images with pencil and ink. His best work appears most often in specially assembled albums -- such as Les principaux Monuments de la France reproduits en héliogravure par E. Baldus, published in 1875 from plates drawn from earlier negatives. Today, his work continues to be much sought after and to set a standard by which other photographers are judged. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1813",
+          "death_year": "1889",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2022-03-07T05:00:00Z",
+      "sortable_date": 1855,
+      "date_added_to_oa": null,
+      "date_text": "c. 1860",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-26 23:59:46.839000"
+    },
+    {
+      "id": 132432,
+      "accession_number": "1954.881",
+      "share_license_status": "CC0",
+      "tombstone": "Etchings of Paris:  The Little Bridge, 1850. Charles Meryon (French, 1821–1868). Etching and engraving; sheet: 36.7 x 26.9 cm (14 7/16 x 10 9/16 in.); platemark: 26 x 18.7 cm (10 1/4 x 7 3/8 in.). The Cleveland Museum of Art, The Milton Curtiss Rose Collection in memory of Evelyn Curtiss Rose, 1954.881",
+      "current_location": null,
+      "title": "Etchings of Paris:  The Little Bridge",
+      "creation_date": "1850",
+      "creation_date_earliest": 1850,
+      "creation_date_latest": 1850,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "etching and engraving",
+      "support_materials": [
+        {
+          "description": "green paper",
+          "watermarks": []
+        }
+      ],
+      "department": "Prints",
+      "collection": "PR - Etching",
+      "type": "Print",
+      "measurements": "Sheet: 36.7 x 26.9 cm (14 7/16 x 10 9/16 in.); Platemark: 26 x 18.7 cm (10 1/4 x 7 3/8 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.367,
+          "width": 0.269
+        },
+        "platemark": {
+          "height": 0.26,
+          "width": 0.187
+        }
+      },
+      "state_of_the_work": "III/VII  Schneiderman, state IV/IX",
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 301359,
+            "title": "The Print Club of Cleveland, 1919 - 1969: Fifty Years in Review",
+            "description": "<i>The Print Club of Cleveland, 1919 - 1969: Fifty Years in Review</i>. The Cleveland Museum of Art, Cleveland, OH (January 14-March 31, 1970).",
+            "opening_date": "1970-01-14T05:00:00"
+          },
+          {
+            "id": 187619,
+            "title": "Inventive Impressions:  18th- and 19-Century French Prints",
+            "description": "<i>Inventive Impressions:  18th- and 19-Century French Prints</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 26-October 28, 2001).",
+            "opening_date": "2001-08-26T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "The Cleveland Museum of Art; 8/26/01-10/28/01.  \"Inventive Impressions:  18th- and 19th-Century French Prints\".",
+            "opening_date": "2001-08-26T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Although Meryon made the first study for this scene with a camera <em>lucida </em>(an apparatus containing a prism or an arrangement of mirrors that reflects the image on a surface so that its outlines may be traced), the artist then made changes to improve the composition—extending the height of the towers of Notre-Dame, for instance. Meryon did not mean his plates to have the precision of a photograph. Rather, he combined two views—a sketch from a low point at the water's edge and a view from the parapet—which, although not totally accurate, are believable. Charles Baudelaire (1821–1867) reported in a letter that he discussed this print with the artist who claimed \"that the shadow cast by a portion of the stonework on the side wall of the Pont Neuf looked exactly like the profile of a sphinx; that this was entirely coincidence on his part and only later did he take note of this peculiarity.\"",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80024459"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1954.881-etchings-of-paris-th"
+        ]
+      },
+      "citations": [],
+      "catalogue_raisonne": "Delteil & Wright 24; Schneiderman 21",
+      "url": "https://clevelandart.org/art/1954.881",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1954.881/1954.881_web.jpg",
+          "width": "642",
+          "height": "893",
+          "filesize": "517809",
+          "filename": "1954.881_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1954.881/1954.881_print.jpg",
+          "width": "2445",
+          "height": "3400",
+          "filesize": "7025901",
+          "filename": "1954.881_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1954.881/1954.881_full.tif",
+          "width": "3784",
+          "height": "5262",
+          "filesize": "59767648",
+          "filename": "1954.881_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "The Milton Curtiss Rose Collection in memory of Evelyn Curtiss Rose",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 132432,
+      "creators": [
+        {
+          "id": 29529,
+          "description": "Charles Meryon (French, 1821–1868)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1821",
+          "death_year": "1868",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1954-12-20T00:00:00",
+      "sortable_date": 1850,
+      "date_added_to_oa": null,
+      "date_text": "1850",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:21.224000"
+    },
+    {
+      "id": 543771,
+      "accession_number": "2023.121.15",
+      "share_license_status": "CC0",
+      "tombstone": "B. c/o Devonshire Regiment, Jhansi (recto); Staff of Messrs. Glover & Co., Sindh Bridge (verso), c. 1882–87. Raja Deen Dayal (Indian, 1844–1905). Albumen print; image: 18.3 x 27.3 cm (7 3/16 x 10 3/4 in.). The Cleveland Museum of Art, John L. Severance Fund, 2023.121.15",
+      "current_location": null,
+      "title": "B. c/o Devonshire Regiment, Jhansi (recto); Staff of Messrs. Glover & Co., Sindh Bridge (verso)",
+      "creation_date": "c. 1882–87",
+      "creation_date_earliest": 1877,
+      "creation_date_latest": 1892,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "India"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 18.3 x 27.3 cm (7 3/16 x 10 3/4 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.183,
+          "width": 0.273
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Private Collection, England",
+          "citations": [],
+          "footnotes": null,
+          "date": "1960s–2015",
+          "sortorder": 1
+        },
+        {
+          "description": "(Prahlad Bubbar, Ltd., London, England), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2015–23",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 11, 2023–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Raja Deen Dayal is regarded now, and was considered during his lifetime, to be India’s most important 19th-century photographer.",
+      "description": "These photographs are part of an album, now disassembled, of around 105 photographs taken in India between 1885 and summer 1887 that provide glimpses into the lives of the British colonial elite and royal and upper-class Indians. The museum holds another group of 37 pictures from this album (2016.266), which was probably commissioned by a British civil servant visiting or working in India around 1888 as a personal souvenir of his experiences there.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q123115827"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2023.121.15-b-c-o-devonshire-reg"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2023.121.15",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2023.121.15/2023.121.15_web.jpg",
+          "width": "654",
+          "height": "900",
+          "filesize": "340065",
+          "filename": "2023.121.15_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2023.121.15/2023.121.15_print.jpg",
+          "width": "2471",
+          "height": "3400",
+          "filesize": "3308306",
+          "filename": "2023.121.15_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2023.121.15/2023.121.15_full.tif",
+          "width": "7713",
+          "height": "10614",
+          "filesize": "245630860",
+          "filename": "2023.121.15_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 543771,
+      "creators": [
+        {
+          "id": 290400,
+          "description": "Raja Deen Dayal (Indian, 1844–1905)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1844",
+          "death_year": "1905",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2023-09-11T04:00:00Z",
+      "sortable_date": 1877,
+      "date_added_to_oa": null,
+      "date_text": "c. 1882–87",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2023.121",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:20.415000"
+    },
+    {
+      "id": 449531,
+      "accession_number": "2021.209",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Rising Cantilevers, 1927. Margaret Bourke-White (American, 1904–1971). Gelatin silver print; image: 24.2 x 18.7 cm (9 1/2 x 7 3/8 in.); paper: 25.3 x 20.3 cm (9 15/16 x 8 in.). The Cleveland Museum of Art, Gift of William and Margaret Lipscomb, 2021.209",
+      "current_location": null,
+      "title": "Rising Cantilevers",
+      "creation_date": "1927",
+      "creation_date_earliest": 1927,
+      "creation_date_latest": 1927,
+      "artists_tags": [
+        "May Show",
+        "female"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 24.2 x 18.7 cm (9 1/2 x 7 3/8 in.); Paper: 25.3 x 20.3 cm (9 15/16 x 8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.242,
+          "width": 0.187
+        },
+        "paper": {
+          "height": 0.253,
+          "width": 0.203
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"A58234\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil on verso: \"Industrial Scene, Cleveland/Bourke-White photo\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in navy crayon: \"X\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil and navy crayon: \"Steel Workers\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in pencil and crossed out with navy crayon: \"A244\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in navy crayon and crossed out in pencil: \"A304\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Stamped in purple ink on verso: \"REFERRED-E DEPT./JAN 2529-/N.E.A.\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "William S. and Margaret Lipscomb, Shaker Heights, OH, given to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "?-2021",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "December 6, 2021",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Margaret Bourke-White launched her career as a professional photographer in Cleveland.",
+      "description": "Bourke-White photographed the start of construction of Cleveland’s Lorain-Carnegie Bridge (now the Hope Memorial Bridge). Industrial imagery was not a traditional subject for women, but it attracted Bourke-White. \"To me . . . industrial forms were all the more beautiful because they were never designed to be beautiful. They had a simplicity of line that came from their direct application of purpose. Industry . . . had evolved an unconscious beauty—often a hidden beauty that was waiting to be discovered.\" A print of this image was exhibited at the museum in the 1929 May Show.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117247082"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2021.209",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of William and Margaret Lipscomb",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 449531,
+      "creators": [
+        {
+          "id": 262,
+          "description": "Margaret Bourke-White (American, 1904–1971)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Margaret Bourke-White American, 1904-1971 Margaret Bourke-White was a preeminent photojournalist who gained fame for her striking images published in Fortune and Life magazines in the 1930s-50s. In 1922, while at Columbia University Teachers College in her native New York City, Bourke-White studied photography with Clarence White. She attended several other colleges before graduating from Cornell University (1927), then moved to Cleveland. The city's industrial landscape was influential in the development of Bourke-White's photographic style. One of her images from this period, Romance of Steel, was a first-place winner in the Cleveland Museum of Art's 1928 May Show, a regional juried exhibition. The following year Bourke-White moved back to New York to work for Henry Luce's new business magazine, Fortune. In 1934 she was sent by the magazine to cover the drought in the Midwest, an assignment she credited with awakening her social conscience. Three years later she collaborated with writer Erskine Caldwell on You Have Seen Their Faces, an acclaimed study of the plight of rural Southerners during the Great Depression. Bourke-White's long association with Life began in 1936 when she joined the magazine as one of its first staff photographers. When it premiered on November 23, 1936, her photographs of Fort Peck Dam in Montana were featured on the cover and in the lead story. During her career, Bourke-White covered many major world events: the Great Depression, World War II, the partitioning of India, and the Korean War. She continued to photograph throughout the 1950s, publishing her images in magazines and in a number of books, including Eyes on Russia (1931), North of the Danube, with Erskine Caldwell (1939), Say, Is This the U.S.A.?, with Erskine Caldwell (1941), Shooting the Russian War (1942), Dear Fatherland, Rest Quietly (1946), Halfway to Freedom: A Report on the New India (1949), and Portrait of Myself (her autobiography, 1963). M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1904",
+          "death_year": "1971",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2021-12-06T05:00:00Z",
+      "sortable_date": 1927,
+      "date_added_to_oa": null,
+      "date_text": "1927",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:00:27.154000"
+    },
+    {
+      "id": 438504,
+      "accession_number": "2021.20",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Over the Bridge on Rights March: Marchers stream across the Edmund Pettus Bridge over the Alabama River at Selma today on start of their five day, 50-mile march on the state capitol at Montgomery. The civil rights marchers, eight abreast, were led by Dr. Martin Luther King, March 21, 1965, 1965, printed 1990. America. Gelatin silver print; image: 27.9 x 19.3 cm (11 x 7 5/8 in.); paper: 29.2 x 20.2 cm (11 1/2 x 7 15/16 in.). The Cleveland Museum of Art, The Jane B. Tripp Charitable Lead Annuity Trust, 2021.20",
+      "current_location": null,
+      "title": "Over the Bridge on Rights March: Marchers stream across the Edmund Pettus Bridge over the Alabama River at Selma today on start of their five day, 50-mile march on the state capitol at Montgomery. The civil rights marchers, eight abreast, were led by Dr. Martin Luther King, March 21, 1965",
+      "creation_date": "1965, printed 1990",
+      "creation_date_earliest": 1965,
+      "creation_date_latest": 1965,
+      "artists_tags": [],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 27.9 x 19.3 cm (11 x 7 5/8 in.); Paper: 29.2 x 20.2 cm (11 1/2 x 7 15/16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.279,
+          "width": 0.193
+        },
+        "paper": {
+          "height": 0.292,
+          "width": 0.202
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"CVL-AL-116.3 2500\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Written in black marker on verso: \"EB/2A/60%/2-(illegible)/monument/bridge (written in pencil)\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Imprinted on paper label taped to verso: \"APN SUNDAY ILLUSTRATIONS/50 ROCKEFELLER PLAZA, NEW YORK, N.Y. 10020/AP NEWSFEATURES PHOTO/PLEASE CREDIT/(For use Sun., March 18, 1990, with Jules/Loh's Selma, Ala., APN Extra story slugged/Selma-II.)/THE STARTING POINT/Civil rights marchers stream across the/Alabama River bridge in Selma, Ala. (circled in red pencil)at the/start of their five-day, 50-mile march on the/state Capitol in Montgomery, March 21, 1965./jb-2/27/90 fls sil400\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Commercially imprinted throughout verso of paper: \"THIS PAPER/MANUFACTURED/BY KODAK\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Michael Mattis and Judith Hochberg, Scarsdale, NY",
+          "citations": [],
+          "footnotes": null,
+          "date": "?-2021",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "March 1, 2021",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Despite the Civil Rights Act of 1964 banning racial discrimination in voting, Blacks in southern states were still being denied voting access in 1965.",
+      "description": "Protests demanding equal voting rights for Blacks were met with resistance, arrests, and sometime, violence. Alabama became the focus of these protests, culminating in the famous 54-mile march from Selma to Montgomery led by Dr. Martin Luther King, Jr. on March 21-25, 1965. Press coverage, especially photographs, aroused public awareness and helped lead, five months later, to passage of the national Voting Rights Act, which allowed Black voters to challenge restrictions and greatly strengthened their participation in elections.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117246702"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2021.20",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The Jane B. Tripp Charitable Lead Annuity Trust",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 438504,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "2021-03-01T00:00:00-05:00",
+      "sortable_date": 1965,
+      "date_added_to_oa": null,
+      "date_text": "1965, printed 1990",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:32.699000"
+    },
+    {
+      "id": 543801,
+      "accession_number": "2023.121.16",
+      "share_license_status": "CC0",
+      "tombstone": "Managing staff of Meprs. Glover & Co. at Sindh Bridge (recto, top); Untitled: Woman on horse (verso, right), c. 1882–87. Raja Deen Dayal (Indian, 1844–1905). Albumen print; image: 13.2 x 21.2 cm (5 3/16 x 8 3/8 in.). The Cleveland Museum of Art, John L. Severance Fund, 2023.121.16",
+      "current_location": null,
+      "title": "Managing staff of Meprs. Glover & Co. at Sindh Bridge (recto, top); Untitled: Woman on horse (verso, right)",
+      "creation_date": "c. 1882–87",
+      "creation_date_earliest": 1877,
+      "creation_date_latest": 1892,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "India"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 13.2 x 21.2 cm (5 3/16 x 8 3/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.132,
+          "width": 0.212
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Private Collection, England",
+          "citations": [],
+          "footnotes": null,
+          "date": "1960s–2015",
+          "sortorder": 1
+        },
+        {
+          "description": "(Prahlad Bubbar, Ltd., London, England), sold to The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2015–23",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 11, 2023–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Raja Deen Dayal is regarded now, and was considered during his lifetime, to be India’s most important 19th-century photographer.",
+      "description": "These photographs are part of an album, now disassembled, of around 105 photographs taken in India between 1885 and summer 1887 that provide glimpses into the lives of the British colonial elite and royal and upper-class Indians. The museum holds another group of 37 pictures from this album (2016.266), which was probably commissioned by a British civil servant visiting or working in India around 1888 as a personal souvenir of his experiences there.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q123115880"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2023.121.16-managing-staff-of-me"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2023.121.16",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2023.121.16/2023.121.16_web.jpg",
+          "width": "900",
+          "height": "529",
+          "filesize": "232053",
+          "filename": "2023.121.16_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2023.121.16/2023.121.16_print.jpg",
+          "width": "3400",
+          "height": "2000",
+          "filesize": "2174073",
+          "filename": "2023.121.16_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2023.121.16/2023.121.16_full.tif",
+          "width": "15169",
+          "height": "8921",
+          "filesize": "405998524",
+          "filename": "2023.121.16_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 543801,
+      "creators": [
+        {
+          "id": 290400,
+          "description": "Raja Deen Dayal (Indian, 1844–1905)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1844",
+          "death_year": "1905",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2023-09-11T04:00:00Z",
+      "sortable_date": 1877,
+      "date_added_to_oa": null,
+      "date_text": "c. 1882–87",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "component",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2023.121",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:36.841000"
+    },
+    {
+      "id": 680765,
+      "accession_number": "2024.83",
+      "share_license_status": "CC0",
+      "tombstone": "View of the Riverbank of the Narmada at Omkareshwar, 1882. Raja Deen Dayal (Indian, 1844–1905). Albumen print; paper: 19.4 x 26 cm (7 5/8 x 10 1/4 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 2024.83",
+      "current_location": null,
+      "title": "View of the Riverbank of the Narmada at Omkareshwar",
+      "creation_date": "1882",
+      "creation_date_earliest": 1882,
+      "creation_date_latest": 1882,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "India"
+      ],
+      "technique": "albumen print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - Misc. 19th Century",
+      "type": "Photograph",
+      "measurements": "Paper: 19.4 x 26 cm (7 5/8 x 10 1/4 in.)",
+      "dimensions": {
+        "paper": {
+          "height": 0.194,
+          "width": 0.26
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Graphite inscription on verso: \"1624\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Jeffrey Bates, United Kingdom",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "Prahlad Bubbar Ltd, London, England",
+          "citations": [],
+          "footnotes": null,
+          "date": "2001",
+          "sortorder": 2
+        },
+        {
+          "description": "Sold to Private Collection, London, England",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 3
+        },
+        {
+          "description": "(Prahlad Bubbar Ltd., London, England, sold to The Cleveland Museum of Art, Cleveland, OH)",
+          "citations": [],
+          "footnotes": null,
+          "date": "2001–2024",
+          "sortorder": 4
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "September 9, 2024–",
+          "sortorder": 5
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The Omkareshwar shrine, located on an island in the sacred Narmada River, was accessible in the 1800s only by boat.",
+      "description": "Bridges now span the river, which is dammed to the east to provide hydroelectric power. When this photograph was made, the river was an important site of trade and transportation, and the riverbank a major locale for commerce and commuting.",
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.83",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.83/2024.83_web.jpg",
+          "width": "900",
+          "height": "670",
+          "filesize": "277114",
+          "filename": "2024.83_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.83/2024.83_print.jpg",
+          "width": "3400",
+          "height": "2530",
+          "filesize": "3644277",
+          "filename": "2024.83_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.83/2024.83_full.tif",
+          "width": "10522",
+          "height": "7829",
+          "filesize": "247163004",
+          "filename": "2024.83_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2024-08-27T14:45:42",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.83/2024.83_alt0_web.jpg",
+            "width": "900",
+            "height": "684",
+            "filesize": "235091"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.83/2024.83_alt0_print.jpg",
+            "width": "3400",
+            "height": "2585",
+            "filesize": "4219378"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.83/2024.83_alt0_full.tif",
+            "width": "10991",
+            "height": "8358",
+            "filesize": "275616288"
+          }
+        },
+        {
+          "date_created": "2024-08-27T14:44:40",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.83/2024.83_alt1_web.jpg",
+            "width": "900",
+            "height": "684",
+            "filesize": "274997"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.83/2024.83_alt1_print.jpg",
+            "width": "3400",
+            "height": "2585",
+            "filesize": "3571663"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2024.83/2024.83_alt1_full.tif",
+            "width": "10991",
+            "height": "8358",
+            "filesize": "275621208"
+          }
+        }
+      ],
+      "creditline": "Purchase from the J. H. Wade Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 680765,
+      "creators": [
+        {
+          "id": 290400,
+          "description": "Raja Deen Dayal (Indian, 1844–1905)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1844",
+          "death_year": "1905",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2024-09-09T00:00:00-04:00",
+      "sortable_date": 1882,
+      "date_added_to_oa": null,
+      "date_text": "1882",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:34.212000"
+    },
+    {
+      "id": 169385,
+      "accession_number": "2011.236",
+      "share_license_status": "Copyrighted",
+      "tombstone": "The Destruction of Lower Manhattan: Aerial View of Manhattan, 1966–67. Danny Lyon (American, 1942-). Gelatin silver print; image: 25.2 x 25 cm (9 15/16 x 9 13/16 in.); paper: 35.4 x 27.6 cm (13 15/16 x 10 7/8 in.). The Cleveland Museum of Art, Gift of George Stephanopoulos, 2011.236",
+      "current_location": null,
+      "title": "Aerial View of Manhattan",
+      "series": "The Destruction of Lower Manhattan",
+      "creation_date": "1966–67",
+      "creation_date_earliest": 1966,
+      "creation_date_latest": 1967,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 25.2 x 25 cm (9 15/16 x 9 13/16 in.); Paper: 35.4 x 27.6 cm (13 15/16 x 10 7/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.252,
+          "width": 0.25
+        },
+        "paper": {
+          "height": 0.354,
+          "width": 0.276
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Signed, titled and dated on verso\r\nartist's \"Bleak Beauty\" stamp also on verso",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 306442,
+            "title": "Danny Lyon: The Destruction of Lower Manhattan",
+            "description": "<i>Danny Lyon: The Destruction of Lower Manhattan</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 19-October 7, 2018).",
+            "opening_date": "2018-05-19T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "George Stephanopoulos",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "A grant from the New York State Council on the Arts to photograph the demolition of sections of Lower Manhattan provided Lyon with partial funding, a letter asking that he be given access to city-owned abandoned buildings, and a ride in a Port Authority helicopter. “They were kind enough to strap me in, remove my door, and fly me over the Brooklyn Bridge,” the artist remembers. “The pilot . . . turned the aircraft on its side, with me dangling from my harness watching things in my pocket drift down to the East River a thousand feet below.” This photograph shows the west tower of the Brooklyn Bridge and, just right of center, the demolition area at Gold and Beekman Streets.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80076626"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2011.236",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Gift of George Stephanopoulos",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 169385,
+      "creators": [
+        {
+          "id": 601,
+          "description": "Danny Lyon (American, 1942-)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Danny Lyon American, 1942- Danny Lyon (born in Brooklyn) came to attention in the 1960s as a social documentary photographer whose sympathies with his subjects often grew from personal involvement in their causes. While studying history at the University of Chicago (B.A., 1963), he joined the Student Non-Violent Coordinating Committee and served as the group's photographer. Since 1967 he has been an associate for the magnum photo agency and made extensive photo essays in the late 1960s-70s on the civil rights movement (The Movement, 1964), the Chicago Outlaws Motorcycle Club, of which he was a member (The Bikeriders, 1968), the demolition of historic 19th-century buildings in New York City (The Destruction of Lower Manhattan, 1969), and Texas prisons (Conversations with the Dead, 1971). For that series, Lyon included with his black-and-white photographs excerpts from handwritten letters, drawings, police reports, and telegrams. In 1977 the U.S. Justice Department used his images in a landmark legal case (Ruiz vs. Estelle) to improve conditions in prisons throughout Texas. Since the 1980s, Lyon has traveled to Colombia to photograph street children and prostitutes (The Paper Negative, 1980) and to Haiti to cover the events leading up to the collapse of the Duvalier regime in 1986. His own family has also become a continued subject of his work. Parallel to his photography, Lyon has made numerous films that are shown regularly in universities across the United States: Social Sciences 127 (1969), Llanito (1971), El Mojado (1973), Los Niños Abandonados (1975), Dear Mark (1975-80), Little Boy (1977), Willie (1986-87), and Media Man (c. 1993). He has published his own works since 1988 under the imprint Bleak Beauty Books, in collaboration with his wife, Nancy Lyon, and Michael Hausman. Lyon has also taught nonfiction film at the State University of New York at Buffalo (1986) and at Columbia University (1987-90). Among his honors are fellowships from the John Simon Guggenheim Memorial Foundation (1969, 1979) and the Rockefeller Foundation (1990). He has had one-person exhibitions at the Art Institute of Chicago (1966, 1969), the Newport Harbor Art Museum in California (1973), and the Philadelphia Museum of Art (1982). In 1991 a retrospective, Danny Lyon Photo Film, with accompanying catalogue, traveled internationally. Lyon lives in Clintondale, New York. A.W.",
+          "name_in_original_language": null,
+          "birth_year": "1942",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2011-12-05T00:00:00",
+      "sortable_date": 1966,
+      "date_added_to_oa": null,
+      "date_text": "1966–67",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:08:30.837000"
+    },
+    {
+      "id": 439497,
+      "accession_number": "2021.55",
+      "share_license_status": "CC0",
+      "tombstone": "Chemin de fer de Toulouse à Bayonne. Pont de l'Aran (en trois arches de 17m d'ouverture chacune). Situation des travaux au 21 juillet 1861, 1861. Édouard Baldus (French, 1813–1889). Albumen print from collodion negative; image: 31.1 x 43.2 cm (12 1/4 x 17 in.). The Cleveland Museum of Art, Gift of Michael Mattis and Judith Hochberg, 2021.55",
+      "current_location": null,
+      "title": "Chemin de fer de Toulouse à Bayonne. Pont de l'Aran (en trois arches de 17m d'ouverture chacune). Situation des travaux au 21 juillet 1861",
+      "creation_date": "1861",
+      "creation_date_earliest": 1861,
+      "creation_date_latest": 1861,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France"
+      ],
+      "technique": "albumen print from collodion negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - French 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 31.1 x 43.2 cm (12 1/4 x 17 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.311,
+          "width": 0.432
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Michael Mattis and Judith Hochberg, Scarsdale, NY",
+          "citations": [],
+          "footnotes": null,
+          "date": "?-2021",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "June 7, 2021",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The rise of photography coincided with the creation of the railroads and the modernization of France.",
+      "description": "Edouard Baldus, the most important French 19th-century architectural photographer, here reveals the process of constructing a bridge. In 1861 he was commissioned by the railway company that owned the principal route across southwest France to document the region’s landscape, towns, monuments, and railroad structures such as bridges and viaducts.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q107378549"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2021.55-chemin-de-fer-de-tou"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2021.55",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2021.55/2021.55_web.jpg",
+          "width": "900",
+          "height": "694",
+          "filesize": "226769",
+          "filename": "2021.55_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2021.55/2021.55_print.jpg",
+          "width": "3400",
+          "height": "2620",
+          "filesize": "2140985",
+          "filename": "2021.55_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2021.55/2021.55_full.tif",
+          "width": "11846",
+          "height": "9130",
+          "filesize": "324488246",
+          "filename": "2021.55_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2021-06-23T13:33:51",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.55/2021.55_alt0_web.jpg",
+            "width": "900",
+            "height": "694",
+            "filesize": "132331"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.55/2021.55_alt0_print.jpg",
+            "width": "3400",
+            "height": "2620",
+            "filesize": "1332294"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/2021.55/2021.55_alt0_full.tif",
+            "width": "11846",
+            "height": "9130",
+            "filesize": "324485450"
+          }
+        }
+      ],
+      "creditline": "Gift of Michael Mattis and Judith Hochberg",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 439497,
+      "creators": [
+        {
+          "id": 214,
+          "description": "Édouard Baldus (French, 1813–1889)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Édouard Baldus French, b. Prussia, 1813 - 1889\r\n\r\nThe large and regal prints made by Édouard-Denis Baldus are widely agreed to be among the finest photographic images ever produced. After serving as an artillery officer in the Prussian army, Baldus left his native country for France during the 1830s to become a painter. He exhibited his paintings of religious subjects, portraits, and genre scenes in the Paris Salons from 1841 - 51 and was naturalized as a French citizen in 1849, the same year his interests turned to photography.\r\n\tCombining his training in painting with an inquisitive, inventive technical expertise, Baldus produced a body of work of exceptional quality and interest. His subjects included architecture, landscape, and engineering feats. In 1851 the Commission des monuments historiques selected him for the Missions héliographique—a government project that sponsored the photographing of endangered classical and medieval architecture in France. For this important series Baldus produced views of Burgundy, Provence, and the Dauphiné, and the following year he completed a commission for the Ministry of the Interior. In 1855 he began his photography of railroads, some of his most distinctive work. A copy of his album recording the line between Paris and Boulogne was presented to Queen Victoria. He also documented the flooding of the Rhone, as well as construction of the new Louvre and other Paris views.\r\n\tA founding member of the Société héliographique and a member of the Société française de photographie (1857), Baldus exhibited his photographs widely in London, Amsterdam, Edinburgh, Brussels, and Paris and won numerous medals of award. A master printer, he produced combination prints in the early 1850s, frequently retouching his images with pencil and ink. His best work appears most often in specially assembled albums -- such as Les principaux Monuments de la France reproduits en héliogravure par E. Baldus, published in 1875 from plates drawn from earlier negatives. Today, his work continues to be much sought after and to set a standard by which other photographers are judged. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1813",
+          "death_year": "1889",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2021-06-07T04:00:00Z",
+      "sortable_date": 1861,
+      "date_added_to_oa": null,
+      "date_text": "1861",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:01.688000"
+    },
+    {
+      "id": 159471,
+      "accession_number": "1996.246",
+      "share_license_status": "CC0",
+      "tombstone": "Bridge Street, Chester, 1865. Augustus Kelham (British, 1819–1897). Albumen print from wet collodion negative; image: 16.7 x 21.7 cm (6 9/16 x 8 9/16 in.); matted: 35.6 x 45.7 cm (14 x 18 in.). The Cleveland Museum of Art, John L. Severance Fund, 1996.246",
+      "current_location": null,
+      "title": "Bridge Street, Chester",
+      "creation_date": "1865",
+      "creation_date_earliest": 1865,
+      "creation_date_latest": 1865,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "albumen print from wet collodion negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "Photography",
+      "type": "Photograph",
+      "measurements": "Image: 16.7 x 21.7 cm (6 9/16 x 8 9/16 in.); Matted: 35.6 x 45.7 cm (14 x 18 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.167,
+          "width": 0.217
+        },
+        "matted": {
+          "height": 0.356,
+          "width": 0.457
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on recto: \"Bridge Street / Chester\"; \"16\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 189766,
+            "title": "Industry and Photography: Selections from the Permanent Collection",
+            "description": "<i>Industry and Photography: Selections from the Permanent Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 16, 1997-March 1, 1998).",
+            "opening_date": "1997-11-16T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; 11/16/97 - 3/1/98.  \"Industry and Photography:  Selections from the Permanent Collection.\"",
+            "opening_date": "1997-11-16T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79979092"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1996.246-bridge-street-cheste"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 207",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1996.246",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1996.246/1996.246_web.jpg",
+          "width": "1163",
+          "height": "893",
+          "filesize": "815680",
+          "filename": "1996.246_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1996.246/1996.246_print.jpg",
+          "width": "3400",
+          "height": "2611",
+          "filesize": "6469359",
+          "filename": "1996.246_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1996.246/1996.246_full.tif",
+          "width": "5273",
+          "height": "4050",
+          "filesize": "64100936",
+          "filename": "1996.246_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 159471,
+      "creators": [
+        {
+          "id": 524,
+          "description": "Augustus Kelham (British, 1819–1897)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Augustus Kelham is known for a series of architectural views of English county seats. Extremely rare today, these 35 albumen prints were taken in the mid-1860s and published in Photographic Views of Seats in Cheshire, Shropshire, Flintshire, and Denbighshire (c. 1870). Kelham also produced albums of cathedrals, churches, ruined abbeys, and other ecclesiastical architecture, as well as seaside views and genre scenes. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1819",
+          "death_year": "1897",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1996-06-03T00:00:00",
+      "sortable_date": 1865,
+      "date_added_to_oa": null,
+      "date_text": "1865",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:06:46.481000"
+    },
+    {
+      "id": 154815,
+      "accession_number": "1989.397",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Brooklyn Bridge, c. 1920s. Herbert J. Seligmann (American, 1891–1984). Gelatin silver print; image: 10.1 x 7.5 cm (4 x 2 15/16 in.); paper: 10.8 x 8.2 cm (4 1/4 x 3 1/4 in.); matted: 30.6 x 25.4 cm (12 1/16 x 10 in.). The Cleveland Museum of Art, John L. Severance Fund, 1989.397",
+      "current_location": null,
+      "title": "Brooklyn Bridge",
+      "creation_date": "c. 1920s",
+      "creation_date_earliest": 1920,
+      "creation_date_latest": 1929,
+      "artists_tags": [
+        "male",
+        "Jewish artists"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1900-1950",
+      "type": "Photograph",
+      "measurements": "Image: 10.1 x 7.5 cm (4 x 2 15/16 in.); Paper: 10.8 x 8.2 cm (4 1/4 x 3 1/4 in.); Matted: 30.6 x 25.4 cm (12 1/16 x 10 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.101,
+          "width": 0.075
+        },
+        "paper": {
+          "height": 0.108,
+          "width": 0.082
+        },
+        "matted": {
+          "height": 0.306,
+          "width": 0.254
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"Seligman [sic] B-LORE....[?]\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 310333,
+            "title": "The Year in Review for 1989",
+            "description": "<i>The Year in Review for 1989</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 6-April 15, 1990).",
+            "opening_date": "1990-02-06T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA, Feb. 6 - April 15, 1990: \"Year in Review 1989,\" CMA Bulletin, 77 (Feb. 1990), p. 68, no. 54.",
+            "opening_date": "1990-02-06T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79942440"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 317",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1989.397",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 154815,
+      "creators": [
+        {
+          "id": 877,
+          "description": "Herbert J. Seligmann (American, 1891–1984)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Herbert J. Seligmann American, 1891-1984 Born in New York City, Herbert J. Seligmann was an author and journalist who wrote about his association with Alfred Stieglitz during the 1920s in his book Alfred Stieglitz Talking. Seligmann graduated from Harvard University (1912) and from 1914 until the early 1940s worked for the New Republic, the New York Evening Post, the New York Globe, and the New York Tribune. In addition to Alfred Stieglitz Talking (1966), which recounted conversations heard while at Stieglitz's Intimate Gallery during the years 1925-31, Seligmann's publications included The Negro Faces America (1924), Race Against Man (1939), and The Letters of John Marin (1931). Interested in architectural and industrial subjects, Seligmann used the abstract qualities inherent in the scenes he photographed to create complex patterns in his images. M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1891",
+          "death_year": "1984",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1990-01-29T00:00:00",
+      "sortable_date": 1920,
+      "date_added_to_oa": null,
+      "date_text": "c. 1920s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:46.135000"
+    },
+    {
+      "id": 155040,
+      "accession_number": "1989.590",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Wade Park Avenue Bridge, 1987. Cervin Robinson (American, 1928–2022). Gelatin silver print; image: 39 x 49.7 cm (15 3/8 x 19 9/16 in.); paper: 40.5 x 50.5 cm (15 15/16 x 19 7/8 in.); matted: 54.6 x 67.3 cm (21 1/2 x 26 1/2 in.). The Cleveland Museum of Art, Funded by a grant from The Cleveland Foundation and the East Ohio Gas Company, 1989.590. © 1989 Cervin Robinson",
+      "current_location": null,
+      "title": "Wade Park Avenue Bridge",
+      "creation_date": "1987",
+      "creation_date_earliest": 1987,
+      "creation_date_latest": 1987,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 39 x 49.7 cm (15 3/8 x 19 9/16 in.); Paper: 40.5 x 50.5 cm (15 15/16 x 19 7/8 in.); Matted: 54.6 x 67.3 cm (21 1/2 x 26 1/2 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.39,
+          "width": 0.497
+        },
+        "paper": {
+          "height": 0.405,
+          "width": 0.505
+        },
+        "matted": {
+          "height": 0.546,
+          "width": 0.673
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© 1989 Cervin Robinson",
+      "inscriptions": [
+        {
+          "inscription": "Written in black marker on verso: \"© Cervin Robinson 1989\"; in pencil: \"I 1021-3\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": [
+          {
+            "description": "CMA, Nov. 22, 1989 - Jan. 20, 1990: \"Cervin Robinson/Cleveland, Ohio,\" cat. p. 27.",
+            "opening_date": "1989-11-22T00:00:00"
+          },
+          {
+            "description": "CMA, Feb. 6 - April 15, 1990: \"Year in Review 1989,\" CMA Bulletin, p. 68, no. 51 (not exhibited).",
+            "opening_date": "1990-02-06T00:00:00"
+          },
+          {
+            "description": "Lakewood, Ohio. The Beck Center for the Cultural Arts, July 15 - August 12, 1990: \"American Cities: The Artist's View,\" no exhibition catalogue.",
+            "opening_date": "1990-07-15T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79942973"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1989.590",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Funded by a grant from The Cleveland Foundation and the East Ohio Gas Company",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 155040,
+      "creators": [
+        {
+          "id": 14005,
+          "description": "Cervin Robinson (American, 1928–2022)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Born May 18, 1928. Photographer, historian, and critic Cervin Robinson is considered one of the most distinguished American architectural scholars. Born in Boston to an architect and his wife, Robinson's interest in topography, perspective, and the cultural significance of cities and buildings developed at the encouragement of his father and grew during his two-year duty in the U.S. Army. After earning a B.A. in English literature from Harvard University (1950), he worked as an assistant to Walker Evans in New York (1953-57), an experience that further sparked his fascination with American architecture. Over the years he received numerous commissions from historical societies, the Library of Congress, architects and architectural magazines, and the film industry. Robinson's still photographs served as backdrops for Superman the Movie and Superman II. Robinson lectured and wrote regularly for various architectural and academic periodicals, and taught architectural photography at Columbia University. He received a fellowship from the John Simon Guggenheim Memorial Foundation (1971) and directed a project funded by the National Endowment for the Arts/New York State Council on the Arts (1978). In 1978 he was named a J. Clauson Mills Scholar. In 1989 the Cleveland Museum of Art organized Cervin Robinson: Cleveland, Ohio, an exhibition and catalogue of black-and-white views of the city commissioned by the museum. Robinson lived in New York. A. W.",
+          "name_in_original_language": null,
+          "birth_year": "1928",
+          "death_year": "2022",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1990-01-29T00:00:00",
+      "sortable_date": 1987,
+      "date_added_to_oa": null,
+      "date_text": "1987",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:04:49.019000"
+    },
+    {
+      "id": 438483,
+      "accession_number": "2021.16",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Civil Rights March: The Reverend Andrew Young, foreground, wearing tie, precedes Dr. Martin Luther King Jr., first row, second from right, as civil rights activists and clergymen (including James Forman, James Farmer, Ralph Abernathy, and Charles Evers) conducted a second protest march in Selma, Alabama. King led about 2,500 marchers out on the Edmund Pettus Bridge and held a short prayer session before turning them around, thereby obeying the court order preventing them from making the full march. March 9, 1965, 1965, printed 1983. America. Gelatin silver print; image: 26.3 x 18.7 cm (10 3/8 x 7 3/8 in.); paper: 26.3 x 18.7 cm (10 3/8 x 7 3/8 in.). The Cleveland Museum of Art, The Jane B. Tripp Charitable Lead Annuity Trust, 2021.16",
+      "current_location": null,
+      "title": "Civil Rights March: The Reverend Andrew Young, foreground, wearing tie, precedes Dr. Martin Luther King Jr., first row, second from right, as civil rights activists and clergymen (including James Forman, James Farmer, Ralph Abernathy, and Charles Evers) conducted a second protest march in Selma, Alabama. King led about 2,500 marchers out on the Edmund Pettus Bridge and held a short prayer session before turning them around, thereby obeying the court order preventing them from making the full march. March 9, 1965",
+      "creation_date": "1965, printed 1983",
+      "creation_date_earliest": 1965,
+      "creation_date_latest": 1965,
+      "artists_tags": [],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 26.3 x 18.7 cm (10 3/8 x 7 3/8 in.); Paper: 26.3 x 18.7 cm (10 3/8 x 7 3/8 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.263,
+          "width": 0.187
+        },
+        "paper": {
+          "height": 0.263,
+          "width": 0.187
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on verso: \"3000\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Imprinted in black type on paper label taped to verso: \"CVL-LDR-281.2 3000 (written in pencil)/APN SUNDAY ILLUSTRATIONS/50 ROCKEFELLER PLAZA, NEW YORK, N.Y. 10020/AP NEWSFEATURES PHOTO/PLEASE CREDIT/(For release Sunday, July 17, 1983,/with David Pace's Atlanta, APN/story slugged Andrew Young.)/CIVIL RIGHTS MARCH/Then Rev. Andrew Young, fore-/ground wearing tie, precedes Dr./Martin Luther King Jr., first row,/second from right, as civil rights/activists and clergymen conducted/a protest march in Selma, Ala.,/in March 1965. Young is now the/mayor of Atlanta./jzc-6/28/83 fls sil360\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Michael Mattis and Judith Hochberg, Scarsdale, NY",
+          "citations": [],
+          "footnotes": null,
+          "date": "?-2021",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "March 1, 2021",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Despite the Civil Rights Act of 1964 banning racial discrimination in voting, Blacks in southern states were still being denied voting access in 1965.",
+      "description": "Alabama became the focus of protests for equal voting rights; these demonstrations were met with resistance, arrests, and even violence. National leaders in the Civil Rights struggle came and attempted to lead a peaceful march from Selma to the state capital Montgomery on March 7. It became known as “Bloody Sunday.” The marchers were attacked by state troopers, some mounted, using whips, nightsticks, and tear gas. This photograph shows a shorter march two days later.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q117246684"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2021.16",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "The Jane B. Tripp Charitable Lead Annuity Trust",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 438483,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "2021-03-01T00:00:00-05:00",
+      "sortable_date": 1965,
+      "date_added_to_oa": null,
+      "date_text": "1965, printed 1983",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:02:11.613000"
+    },
+    {
+      "id": 159882,
+      "accession_number": "1997.182",
+      "share_license_status": "CC0",
+      "tombstone": "Glen Tilt: Shepherd's Bridge near Forest Lodge, 1871. James Valentine (British, 1815–1880). Albumen print from wet collodion negative; image: 18.6 x 24 cm (7 5/16 x 9 7/16 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, John L. Severance Fund, 1997.182",
+      "current_location": null,
+      "title": "Shepherd's Bridge near Forest Lodge",
+      "series": "Glen Tilt",
+      "creation_date": "1871",
+      "creation_date_earliest": 1871,
+      "creation_date_latest": 1871,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "albumen print from wet collodion negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - British 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 18.6 x 24 cm (7 5/16 x 9 7/16 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.186,
+          "width": 0.24
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "In graphite on recto of mount: \"Shepherd's Bridge near Forest Lodge,\" \"10 AC\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 186948,
+            "title": "Pioneers of Landscape Photography from the Museum's Collection",
+            "description": "<i>Pioneers of Landscape Photography from the Museum's Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 12, 2000-January 3, 2001).",
+            "opening_date": "2000-08-12T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Cleveland, Ohio:  The Cleveland Museum of Art; August 12, 2000 - January 3, 2001.  \"Pioneers of Landscape Photography from the Museum's Collection.\"",
+            "opening_date": "2000-08-12T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "(Charles Isaacs Photographs, Inc., New York, NY)",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "September 15, 1997",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79980211"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1997.182-shepherd-s-bridge-ne"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1997.182",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1997.182/1997.182_web.jpg",
+          "width": "1147",
+          "height": "893",
+          "filesize": "776035",
+          "filename": "1997.182_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1997.182/1997.182_print.jpg",
+          "width": "3400",
+          "height": "2648",
+          "filesize": "5788905",
+          "filename": "1997.182_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1997.182/1997.182_full.tif",
+          "width": "5370",
+          "height": "4182",
+          "filesize": "67405288",
+          "filename": "1997.182_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 159882,
+      "creators": [
+        {
+          "id": 1043,
+          "description": "James Valentine (British, 1815–1880)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "James Valentine British, b. Scotland, 1815-1880\r\n\r\nJames Valentine was a topographical and landscape photographer, printer, and publisher. Producing work of superior quality, he was appointed official photographer to the queen in 1868. His company, Valentine & Sons, Ltd., published his views and those of other operators. The Dundee-based firm was said to be the largest and best equipped in Britain, capable of turning out as many as 3,000 prints on a bright, sunny day. After Valentine's death, his sons, George D. (d. 1890) and W. D. Valentine, continued the operation. Among the important projects taken on by the firm in the 1880s was the printing of Peter Henry Emerson's gravure plates for Life and Landscape of the Norfolk Broads. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1815",
+          "death_year": "1880",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1997-09-15T00:00:00",
+      "sortable_date": 1871,
+      "date_added_to_oa": null,
+      "date_text": "1871",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:05:04.756000"
+    },
+    {
+      "id": 155038,
+      "accession_number": "1989.589",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Wade Park Avenue Bridge, 1987. Cervin Robinson (American, 1928–2022). Gelatin silver print; image: 27 x 34.3 cm (10 5/8 x 13 1/2 in.); paper: 28 x 35.4 cm (11 x 13 15/16 in.); matted: 40.6 x 50.8 cm (16 x 20 in.). The Cleveland Museum of Art, Funded by a grant from The Cleveland Foundation and the East Ohio Gas Company, 1989.589. © 1989 Cervin Robinson",
+      "current_location": null,
+      "title": "Wade Park Avenue Bridge",
+      "creation_date": "1987",
+      "creation_date_earliest": 1987,
+      "creation_date_latest": 1987,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 27 x 34.3 cm (10 5/8 x 13 1/2 in.); Paper: 28 x 35.4 cm (11 x 13 15/16 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.27,
+          "width": 0.343
+        },
+        "paper": {
+          "height": 0.28,
+          "width": 0.354
+        },
+        "matted": {
+          "height": 0.406,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© 1989 Cervin Robinson",
+      "inscriptions": [
+        {
+          "inscription": "Written in black ink on verso: \"© Cervin Robinson 1989\"; in pencil: \" I 1021-3\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": [
+          {
+            "description": "CMA, Nov. 22, 1989 - Jan. 20, 1990: \"Cervin Robinson/Cleveland, Ohio,\" cat. p. 27 (not exhibited).",
+            "opening_date": "1989-11-22T00:00:00"
+          },
+          {
+            "description": "CMA, Feb. 6 - April 15, 1990: \"Year in Review 1989,\" CMA Bulletin, p. 68, no. 51 (not exhibited).",
+            "opening_date": "1990-02-06T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79942968"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 306",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1989.589",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Funded by a grant from The Cleveland Foundation and the East Ohio Gas Company",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 155038,
+      "creators": [
+        {
+          "id": 14005,
+          "description": "Cervin Robinson (American, 1928–2022)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Born May 18, 1928. Photographer, historian, and critic Cervin Robinson is considered one of the most distinguished American architectural scholars. Born in Boston to an architect and his wife, Robinson's interest in topography, perspective, and the cultural significance of cities and buildings developed at the encouragement of his father and grew during his two-year duty in the U.S. Army. After earning a B.A. in English literature from Harvard University (1950), he worked as an assistant to Walker Evans in New York (1953-57), an experience that further sparked his fascination with American architecture. Over the years he received numerous commissions from historical societies, the Library of Congress, architects and architectural magazines, and the film industry. Robinson's still photographs served as backdrops for Superman the Movie and Superman II. Robinson lectured and wrote regularly for various architectural and academic periodicals, and taught architectural photography at Columbia University. He received a fellowship from the John Simon Guggenheim Memorial Foundation (1971) and directed a project funded by the National Endowment for the Arts/New York State Council on the Arts (1978). In 1978 he was named a J. Clauson Mills Scholar. In 1989 the Cleveland Museum of Art organized Cervin Robinson: Cleveland, Ohio, an exhibition and catalogue of black-and-white views of the city commissioned by the museum. Robinson lived in New York. A. W.",
+          "name_in_original_language": null,
+          "birth_year": "1928",
+          "death_year": "2022",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1990-01-29T00:00:00",
+      "sortable_date": 1987,
+      "date_added_to_oa": null,
+      "date_text": "1987",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:07:17.853000"
+    },
+    {
+      "id": 154923,
+      "accession_number": "1989.487",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Bascule Bridge in the Flats, 1987. Cervin Robinson (American, 1928–2022). Gelatin silver print; image: 49.7 x 39.7 cm (19 9/16 x 15 5/8 in.); paper: 50.5 x 40.7 cm (19 7/8 x 16 in.); matted: 67.3 x 54.6 cm (26 1/2 x 21 1/2 in.). The Cleveland Museum of Art, Funded by a grant from The Cleveland Foundation and the East Ohio Gas Company, 1989.487. © 1989 Cervin Robinson",
+      "current_location": null,
+      "title": "Bascule Bridge in the Flats",
+      "creation_date": "1987",
+      "creation_date_earliest": 1987,
+      "creation_date_latest": 1987,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 49.7 x 39.7 cm (19 9/16 x 15 5/8 in.); Paper: 50.5 x 40.7 cm (19 7/8 x 16 in.); Matted: 67.3 x 54.6 cm (26 1/2 x 21 1/2 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.497,
+          "width": 0.397
+        },
+        "paper": {
+          "height": 0.505,
+          "width": 0.407
+        },
+        "matted": {
+          "height": 0.673,
+          "width": 0.546
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© 1989 Cervin Robinson",
+      "inscriptions": [
+        {
+          "inscription": "Written in black ink on verso: \"© Cervin Robinson 1989\"; in pencil: \"I 730-7\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": [
+          {
+            "description": "CMA, Nov. 22, 1989 - Jan. 20, 1990: \"Cervin Robinson/Cleveland, Ohio,\" cat. p. 31.",
+            "opening_date": "1989-11-22T00:00:00"
+          },
+          {
+            "description": "CMA, Feb. 6 - April 15, 1990: \"Year in Review 1989,\" CMA Bulletin, p. 68, no. 51 (not exhibited).",
+            "opening_date": "1990-02-06T00:00:00"
+          },
+          {
+            "description": "Lakewood, Ohio. The Beck Center for the Cultural Arts, July 15 - August 12, 1990: \"American Cities: The Artist's View,\" no exhibition catalogue.",
+            "opening_date": "1990-07-15T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79942692"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1989.487",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Funded by a grant from The Cleveland Foundation and the East Ohio Gas Company",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 154923,
+      "creators": [
+        {
+          "id": 14005,
+          "description": "Cervin Robinson (American, 1928–2022)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Born May 18, 1928. Photographer, historian, and critic Cervin Robinson is considered one of the most distinguished American architectural scholars. Born in Boston to an architect and his wife, Robinson's interest in topography, perspective, and the cultural significance of cities and buildings developed at the encouragement of his father and grew during his two-year duty in the U.S. Army. After earning a B.A. in English literature from Harvard University (1950), he worked as an assistant to Walker Evans in New York (1953-57), an experience that further sparked his fascination with American architecture. Over the years he received numerous commissions from historical societies, the Library of Congress, architects and architectural magazines, and the film industry. Robinson's still photographs served as backdrops for Superman the Movie and Superman II. Robinson lectured and wrote regularly for various architectural and academic periodicals, and taught architectural photography at Columbia University. He received a fellowship from the John Simon Guggenheim Memorial Foundation (1971) and directed a project funded by the National Endowment for the Arts/New York State Council on the Arts (1978). In 1978 he was named a J. Clauson Mills Scholar. In 1989 the Cleveland Museum of Art organized Cervin Robinson: Cleveland, Ohio, an exhibition and catalogue of black-and-white views of the city commissioned by the museum. Robinson lived in New York. A. W.",
+          "name_in_original_language": null,
+          "birth_year": "1928",
+          "death_year": "2022",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1990-01-29T00:00:00",
+      "sortable_date": 1987,
+      "date_added_to_oa": null,
+      "date_text": "1987",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:07.514000"
+    },
+    {
+      "id": 159071,
+      "accession_number": "1995.27",
+      "share_license_status": "CC0",
+      "tombstone": "Gorge at Eaux Chaudes, Pyrenees, c. 1855. Jean-Jacques Heilmann (French, 1822–1859). Salted paper print from wet collodion negative; image: 25.8 x 19.7 cm (10 3/16 x 7 3/4 in.); matted: 61 x 50.8 cm (24 x 20 in.). The Cleveland Museum of Art, Andrew R. and Martha Holden Jennings Fund, 1995.27",
+      "current_location": null,
+      "title": "Gorge at Eaux Chaudes, Pyrenees",
+      "creation_date": "c. 1855",
+      "creation_date_earliest": 1850,
+      "creation_date_latest": 1858,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "salted paper print from wet collodion negative",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - French 19th Century",
+      "type": "Photograph",
+      "measurements": "Image: 25.8 x 19.7 cm (10 3/16 x 7 3/4 in.); Matted: 61 x 50.8 cm (24 x 20 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.258,
+          "width": 0.197
+        },
+        "matted": {
+          "height": 0.61,
+          "width": 0.508
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Written in pencil on recto of mount: \"À Mon Ami Nicola / JJH\"; \"Nouvelle Route des Eaux Chaudes\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 311875,
+            "title": "Legacy of Light: Master Photographs from the Cleveland Museum of Art",
+            "description": "<i>Legacy of Light: Master Photographs from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 24, 1996-February 2, 1997).",
+            "opening_date": "1996-11-24T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Metropolitan Museum of Art, New York, Dec. 18, 1980 - Feb. 15, 1981: \"After Daguerre: Masterworks of French Photography (1848-1900) from the Bibliothèque Nationale.\" Marbot, Bernard. After Daguerre: Masterworks of French Photography (1848-1900) from the Bibliothèque Nationale (New York: Metropolitan Museum of Art, 1981).  no. 76.",
+            "opening_date": "1980-12-18T00:00:00"
+          },
+          {
+            "description": "CMA, November 20,1996 - February 2, 1997: \"Legacy of Light: Master Photographs from the Cleveland Museum of Art.\"",
+            "opening_date": "1997-02-02T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": "Little is known of the life and career of J. J. Heilmann. He was fascinated by the subject of civilized human life in the context of the primitive world. In this instance, the monumental stone bridge with a few tiny figures insert a human presence into what would otherwise be an overpowering natural setting. The arched structure is not only a reminder of the human ambition to compete with nature, it also blends in with the surrounding stone cliffs, suggesting a harmonious relationship.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79978097"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1995.27-gorge-at-eaux-chaude"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 194",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1995.27",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1995.27/1995.27_web.jpg",
+          "width": "647",
+          "height": "893",
+          "filesize": "377454",
+          "filename": "1995.27_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1995.27/1995.27_print.jpg",
+          "width": "2464",
+          "height": "3400",
+          "filesize": "4551424",
+          "filename": "1995.27_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1995.27/1995.27_full.tif",
+          "width": "4040",
+          "height": "5574",
+          "filesize": "67587908",
+          "filename": "1995.27_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Andrew R. and Martha Holden Jennings Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 159071,
+      "creators": [
+        {
+          "id": 479,
+          "description": "Jean-Jacques Heilmann (French, 1822–1859)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Jean-Jacques Heilmann French, 1822-1859\r\n\r\nOriginally from Mulhouse, J. J. Heilmann made his living as a photographer, publisher, and printer in Pau, a town in southern France near the northern border of the Pyrenees. Most of his work was produced between 1852-57. Using rapid collodion plates perfected by Adolphe Bertsch and Farnham Maxwell Lyte, Heilmann also made calotypes and ivory types of considerable sophistication. In 1853 he developed a mechanism for enlarging negatives.\r\n\tHeilmann frequently photographed the landscape of the Pyrenees, although he also did portraits, urban scenes, and photographic reproductions of paintings of Alsace and Pau. His images often resemble those of Lyte and John Stewart, British photographers whose scenes of man and nature were produced in the Pyrenees during the same era. Heilmann's photographs, however, have a more defined composition. His use of figures, animals, vehicles, and natural elements reveals an interest in depicting civilized man in a primitive setting. A founding member of the Société française de photographie, Heilmann was also affiliated with the Photographic Club of Great Britain. He exhibited his work at the 1855 Exposition Universelle in Paris. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1822",
+          "death_year": "1859",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1995-06-07T00:00:00",
+      "sortable_date": 1850,
+      "date_added_to_oa": null,
+      "date_text": "c. 1855",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 16:32:41.751000"
+    },
+    {
+      "id": 154922,
+      "accession_number": "1989.486",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Bascule Bridge in the Flats, 1987. Cervin Robinson (American, 1928–2022). Gelatin silver print; image: 34.5 x 26.9 cm (13 9/16 x 10 9/16 in.); paper: 35.6 x 27.7 cm (14 x 10 7/8 in.); matted: 50.8 x 40.6 cm (20 x 16 in.). The Cleveland Museum of Art, Funded by a grant from The Cleveland Foundation and the East Ohio Gas Company, 1989.486. © 1989 Cervin Robinson",
+      "current_location": null,
+      "title": "Bascule Bridge in the Flats",
+      "creation_date": "1987",
+      "creation_date_earliest": 1987,
+      "creation_date_latest": 1987,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "gelatin silver print",
+      "support_materials": [],
+      "department": "Photography",
+      "collection": "PH - American 1951-Present",
+      "type": "Photograph",
+      "measurements": "Image: 34.5 x 26.9 cm (13 9/16 x 10 9/16 in.); Paper: 35.6 x 27.7 cm (14 x 10 7/8 in.); Matted: 50.8 x 40.6 cm (20 x 16 in.)",
+      "dimensions": {
+        "image": {
+          "height": 0.345,
+          "width": 0.269
+        },
+        "paper": {
+          "height": 0.356,
+          "width": 0.277
+        },
+        "matted": {
+          "height": 0.508,
+          "width": 0.406
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© 1989 Cervin Robinson",
+      "inscriptions": [
+        {
+          "inscription": "Written in black ink on verso: \"C.R.  I 730-7\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": [
+          {
+            "description": "CMA, Nov. 22, 1989 - Jan. 20, 1990: \"Cervin Robinson/Cleveland, Ohio,\" cat. p. 31 (not exhibited - see errata).",
+            "opening_date": "1989-11-22T00:00:00"
+          },
+          {
+            "description": "CMA, Feb. 6 - April 15, 1990: \"Year in Review 1989,\" CMA Bulletin, p. 68, no. 51 (not exhibited).",
+            "opening_date": "1990-02-06T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79942691"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, Tom E Hinson. <em>Catalogue of Photography</em>. Cleveland, OH: Cleveland Museum of Art, 1996.",
+          "page_number": "Reproduced: P. 280",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1989.486",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Funded by a grant from The Cleveland Foundation and the East Ohio Gas Company",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 154922,
+      "creators": [
+        {
+          "id": 14005,
+          "description": "Cervin Robinson (American, 1928–2022)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Born May 18, 1928. Photographer, historian, and critic Cervin Robinson is considered one of the most distinguished American architectural scholars. Born in Boston to an architect and his wife, Robinson's interest in topography, perspective, and the cultural significance of cities and buildings developed at the encouragement of his father and grew during his two-year duty in the U.S. Army. After earning a B.A. in English literature from Harvard University (1950), he worked as an assistant to Walker Evans in New York (1953-57), an experience that further sparked his fascination with American architecture. Over the years he received numerous commissions from historical societies, the Library of Congress, architects and architectural magazines, and the film industry. Robinson's still photographs served as backdrops for Superman the Movie and Superman II. Robinson lectured and wrote regularly for various architectural and academic periodicals, and taught architectural photography at Columbia University. He received a fellowship from the John Simon Guggenheim Memorial Foundation (1971) and directed a project funded by the National Endowment for the Arts/New York State Council on the Arts (1978). In 1978 he was named a J. Clauson Mills Scholar. In 1989 the Cleveland Museum of Art organized Cervin Robinson: Cleveland, Ohio, an exhibition and catalogue of black-and-white views of the city commissioned by the museum. Robinson lived in New York. A. W.",
+          "name_in_original_language": null,
+          "birth_year": "1928",
+          "death_year": "2022",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1990-01-29T00:00:00",
+      "sortable_date": 1987,
+      "date_added_to_oa": null,
+      "date_text": "1987",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-03-27 00:01:43.602000"
+    }
+  ]
+}

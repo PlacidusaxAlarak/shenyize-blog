@@ -1,0 +1,113 @@
+{
+  "data": {
+    "id": 164609,
+    "accession_number": "2006.127",
+    "share_license_status": "Copyrighted",
+    "tombstone": "Bridge of Dreams #101, 1986, printed 1999. Burhan Dogançay (Turkish, 1929–2013). Platinum print; image: 24.5 x 16.2 cm (9 5/8 x 6 3/8 in.); with borders: 26 x 18.7 cm (10 1/4 x 7 3/8 in.); paper: 43.8 x 35.8 cm (17 1/4 x 14 1/8 in.); matted: 61 x 50.8 cm (24 x 20 in.). The Cleveland Museum of Art, Anonymous Gift, 2006.127",
+    "current_location": null,
+    "title": "Bridge of Dreams #101",
+    "creation_date": "1986, printed 1999",
+    "creation_date_earliest": 1986,
+    "creation_date_latest": 1986,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "Turkey, 20th century"
+    ],
+    "technique": "platinum print",
+    "support_materials": [],
+    "department": "Photography",
+    "collection": "PH - Misc. 20th Century",
+    "type": "Photograph",
+    "measurements": "Image: 24.5 x 16.2 cm (9 5/8 x 6 3/8 in.); with borders: 26 x 18.7 cm (10 1/4 x 7 3/8 in.); Paper: 43.8 x 35.8 cm (17 1/4 x 14 1/8 in.); Matted: 61 x 50.8 cm (24 x 20 in.)",
+    "dimensions": {
+      "image": {
+        "height": 0.245,
+        "width": 0.162
+      },
+      "with borders": {
+        "height": 0.26,
+        "width": 0.187
+      },
+      "paper": {
+        "height": 0.438,
+        "width": 0.358
+      },
+      "matted": {
+        "height": 0.61,
+        "width": 0.508
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "written in pencil below black margin on recto: \"1/25 Burhan Dogançay (signed) \r\nwritten in pencil on verso of printed paper: \"0100 0100 14371190\"\r\nlabeled in black type on verso of bottom mat: \"Burhan Dogançay/ Bridge of Dreams No. 101, 1999/ Platinum print-edition 1/25/44 x 36cm\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [],
+      "legacy": []
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": null,
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79992357"
+      ],
+      "internet_archive": []
+    },
+    "citations": [],
+    "url": "https://clevelandart.org/art/2006.127",
+    "images": {},
+    "alternate_images": [],
+    "creditline": "Anonymous Gift",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 164609,
+    "creators": [
+      {
+        "id": 54279,
+        "description": "Burhan Dogançay (Turkish, 1929–2013)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1929",
+        "death_year": "2013",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2006-06-05T00:00:00",
+    "sortable_date": 1986,
+    "date_added_to_oa": null,
+    "date_text": "1986, printed 1999",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": "1",
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:09:51.239000"
+  }
+}

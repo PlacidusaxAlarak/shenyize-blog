@@ -1,0 +1,347 @@
+{
+  "data": {
+    "id": 135483,
+    "accession_number": "1958.472",
+    "share_license_status": "CC0",
+    "tombstone": "Ruins in a Rocky Landscape, c. 1640. Salvator Rosa (Italian, 1615–1673). Oil on canvas; framed: 157.5 x 189.2 x 7 cm (62 x 74 1/2 x 2 3/4 in.); unframed: 144 x 176.7 cm (56 11/16 x 69 9/16 in.). The Cleveland Museum of Art, Gift of Rosenberg & Stiebel, Inc., 1958.472",
+    "current_location": null,
+    "title": "Ruins in a Rocky Landscape",
+    "creation_date": "c. 1640",
+    "creation_date_earliest": 1635,
+    "creation_date_latest": 1645,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "Italy, 17th century"
+    ],
+    "technique": "oil on canvas",
+    "support_materials": [],
+    "department": "European Painting and Sculpture",
+    "collection": "P - Italian 16th & 17th Century",
+    "type": "Painting",
+    "measurements": "Framed: 157.5 x 189.2 x 7 cm (62 x 74 1/2 x 2 3/4 in.); Unframed: 144 x 176.7 cm (56 11/16 x 69 9/16 in.)",
+    "dimensions": {
+      "framed": {
+        "height": 1.575,
+        "width": 1.892,
+        "depth": 0.07
+      },
+      "unframed": {
+        "height": 1.44,
+        "width": 1.767
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Signed lower right: \"SR [monogram]\"",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 309864,
+          "title": "Baroque Imagery",
+          "description": "<i>Baroque Imagery</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 6, 1984-January 6, 1985).",
+          "opening_date": "1984-11-06T05:00:00"
+        },
+        {
+          "id": 221931,
+          "title": "Disegni da una grande collezione.  Maestri italiani dal XV al XVII secolo delle antiche raccolte estensi di Modena",
+          "description": "<i>Disegni da una grande collezione.  Maestri italiani dal XV al XVII secolo delle antiche raccolte estensi di Modena</i>. Palazzo Ducale di Sassuolo (September 12-November 30, 1998).",
+          "opening_date": "1998-09-12T00:00:00"
+        },
+        {
+          "id": 223575,
+          "title": "Painting the Italian Landscape: Views from the Uffizi",
+          "description": "<i>Painting the Italian Landscape: Views from the Uffizi</i>. Taft Museum of Art, Cincinnati, OH (organizer) (June 13-October 19, 2008).",
+          "opening_date": "2008-06-13T00:00:00"
+        },
+        {
+          "id": 219832,
+          "title": "Landscape Painting in Rome, 1600-1650",
+          "description": "<i>Landscape Painting in Rome, 1600-1650</i>. Galeries Nationales du Grand Palais, 75008 Paris, France (March 8-June 6, 2011); Museo Nacional del Prado, Madrid, Spain (June 27-September 25, 2011).",
+          "opening_date": "2011-03-08T00:00:00"
+        },
+        {
+          "id": 205152,
+          "title": "The Novel and the Bizarre: Salvator Rosa’s Scenes of Witchcraft",
+          "description": "<i>The Novel and the Bizarre: Salvator Rosa’s Scenes of Witchcraft</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 15-June 14, 2015).",
+          "opening_date": "2015-02-15T00:00:00"
+        }
+      ],
+      "legacy": [
+        {
+          "description": "CMA, November 6, 1984-January 6, 1985: \"Baroque Imagery, cat. # 40, pp. 70-72, repr. p. 71.",
+          "opening_date": "1984-11-06T00:00:00"
+        },
+        {
+          "description": "Italy: Pasazzo Ducale di Sassuolo \"Disegni da una grande collezione. Maestri Italiani dalle antiche raccolte estensi da Parigi e da Modena\" 9/12 - 11/29/98.",
+          "opening_date": "1998-11-29T00:00:00"
+        },
+        {
+          "description": "Taft Museum of Art, Cincinnati, OH (6/13/2008 - 10/19/2008):  \"Painting the Italian Landscape: Views from the Uffizi\"",
+          "opening_date": "2008-06-13T00:00:00"
+        },
+        {
+          "description": "RMN (organizer).  Galeries Nationales du Grand Palais, Paris (3/8/2011 - 6/6/2011) and Museo Nacional del Prado, Madrid (6/2/2011 - 9/25/2011): \"Landscape Painting in Rome, 1600-1650\"",
+          "opening_date": "2011-03-08T00:00:00"
+        },
+        {
+          "description": "The Cleveland Museum of Art (2/15/2015 - 6/14/2015); \"The Novel and the Bizarre: Salvator Rosa's Scenes of Witchcraft\"",
+          "opening_date": "2015-02-15T00:00:00"
+        }
+      ]
+    },
+    "provenance": [
+      {
+        "description": "Duke Francesco I d’Este, Modena; Duke Francesco V d’Este, Modena and Vienna:",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": null
+      },
+      {
+        "description": "Duke Francis Ferdinand, Vienna;",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": null
+      },
+      {
+        "description": "Maximillian, Duke of Hohenberg, Palace of the Prince of Liechtenstein, Vienna;",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": null
+      },
+      {
+        "description": "Rosenberg & Stiebel (New York, New York), by gift to the Cleveland Museum of Art, 1958.",
+        "citations": [],
+        "footnotes": null,
+        "date": null,
+        "sortorder": null
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "description": "In 1635, Rosa left his native Naples for Rome, the undisputed art center of the 17th century, where a new type of landscape painting was emerging, distinguished by the effects of light and atmosphere. Rosa’s fame grew quickly as a painter of landscapes that conjured the beauty and fertility of the Bay of Naples. Ruins in a Rocky Landscape incorporates classical ruins, iridescent reflections of light, and a pastoral tone evoked by the idling shepherds, exemplifying the work that earned Rosa his early fame. The dark, dramatic rocks that rise along the left foreshadow the wildness that Rosa would cultivate in his later sublime landscapes.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q60465151"
+      ],
+      "internet_archive": [
+        "https://archive.org/details/clevelandart-1958.472-ruins-in-a-rocky-lan"
+      ]
+    },
+    "citations": [
+      {
+        "citation": "Langdon, Helen. Salvator Rosa Paint and Performance. London: Reaktion Books, Limited, 2022. pp.42-48.",
+        "page_number": "Chapter 1",
+        "url": ""
+      },
+      {
+        "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Catalogue of Paintings, Part 3: European Paintings of the 16th, 17th, and 18th Centuries</em>. Cleveland, OH: The Cleveland Museum of Art, 1982.",
+        "page_number": "Reproduced: p. 397; Mentioned: p. 396-398",
+        "url": null
+      },
+      {
+        "citation": "Coe, Nancy. “A Landscape Painting by Salvator Rosa.” <em>The Bulletin of the Cleveland Museum of Art</em> 46, no. 4 (April 1959): 62–63.",
+        "page_number": "Mentioned and reproduced: p. 62-63",
+        "url": "http://www.jstor.org/stable/25142336"
+      },
+      {
+        "citation": "Lee, Sherman E. \"The Forest and the Trees and Chinese Painting.\" <em>National Palace Museum Quarterly </em>故宮週刊 1, no. 2 (October 1966): 1–14.",
+        "page_number": "Reproduced: Pl. XV:B",
+        "url": ""
+      },
+      {
+        "citation": "Žakula, Tijana. \"Reforming Dutch Art: Gerard del Lairesse on Beauty, Morals and Class.\" <em>Simiolus</em> 37 (2013-2014): 7-130.",
+        "page_number": "Mentioned andreproduced: p. 68, fig. 53",
+        "url": ""
+      },
+      {
+        "citation": "Segrave, Hannah. \"The Novel and the Bizarre: A focus exhibition looks at four 17-th century <em>tondi </em>by Salvator Rosa.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 55, no. 1 (January/February 2015): 8-10.",
+        "page_number": "Reproduced: p. 10; Mentioned: p. 9, 10",
+        "url": "https://archive.org/details/CMAMM2015-01"
+      },
+      {
+        "citation": "Zakula, Tijana. \"Reforming Dutch Art: Gerard de Lairesse on Beauty, Morals, and Class.\" Simiolus 37, special edition (2013-2014): 8-138.",
+        "page_number": "Reproduced: P. 58, fig. 53.",
+        "url": null
+      },
+      {
+        "citation": "Farina, Viviana. <em> Il giovane Salvator Rosa: gli inizi di un grande maestro del '600 europeo</em>. Monghidoro (BO) - Italy: Con-fine edizioni, dicembre, 2015.",
+        "page_number": "Reproduced: P.82, fig.93; P. 136, fig. D49 Cfr.",
+        "url": null
+      },
+      {
+        "citation": "Loire, Stéphane. <em>Nature et idéal: le paysage à Rome, 1600-1650: album de l'exposition.</em> Paris: Réunion des musées nationaux, 2011.",
+        "page_number": "Reproduced: P. 28, fig. 25",
+        "url": null
+      }
+    ],
+    "url": "https://clevelandart.org/art/1958.472",
+    "images": {
+      "annotation": null,
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1958.472/1958.472_web.jpg",
+        "width": "1095",
+        "height": "893",
+        "filesize": "639069",
+        "filename": "1958.472_web.jpg"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1958.472/1958.472_print.jpg",
+        "width": "3400",
+        "height": "2772",
+        "filesize": "6739138",
+        "filename": "1958.472_print.jpg"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1958.472/1958.472_full.tif",
+        "width": "5957",
+        "height": "4857",
+        "filesize": "86826864",
+        "filename": "1958.472_full.tif"
+      }
+    },
+    "alternate_images": [
+      {
+        "date_created": "2008-03-06T15:34:19",
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1958.472/1958.472_alt0_web.jpg",
+          "width": "1101",
+          "height": "893",
+          "filesize": "662947"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1958.472/1958.472_alt0_print.jpg",
+          "width": "3400",
+          "height": "2758",
+          "filesize": "6361464"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1958.472/1958.472_alt0_full.tif",
+          "width": "5276",
+          "height": "4280",
+          "filesize": "67781232"
+        }
+      },
+      {
+        "date_created": "2011-02-08T13:57:41",
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1958.472/1958.472_alt1_web.jpg",
+          "width": "1077",
+          "height": "893",
+          "filesize": "610942"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1958.472/1958.472_alt1_print.jpg",
+          "width": "3400",
+          "height": "2818",
+          "filesize": "7153881"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1958.472/1958.472_alt1_full.tif",
+          "width": "5452",
+          "height": "4520",
+          "filesize": "73956800"
+        }
+      },
+      {
+        "date_created": "2011-02-08T14:22:19",
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1958.472/1958.472_alt2_web.jpg",
+          "width": "1073",
+          "height": "893",
+          "filesize": "871706"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1958.472/1958.472_alt2_print.jpg",
+          "width": "3400",
+          "height": "2829",
+          "filesize": "8306483"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1958.472/1958.472_alt2_full.tif",
+          "width": "3652",
+          "height": "3039",
+          "filesize": "33322212"
+        }
+      },
+      {
+        "date_created": "2011-02-08T13:23:26",
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1958.472/1958.472_alt3_web.jpg",
+          "width": "1193",
+          "height": "893",
+          "filesize": "581586"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1958.472/1958.472_alt3_print.jpg",
+          "width": "3400",
+          "height": "2545",
+          "filesize": "4842403"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/alternate/1958.472/1958.472_alt3_full.tif",
+          "width": "6668",
+          "height": "4992",
+          "filesize": "99892340"
+        }
+      }
+    ],
+    "creditline": "Gift of Rosenberg & Stiebel, Inc.",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 135483,
+    "creators": [
+      {
+        "id": 2285,
+        "description": "Salvator Rosa (Italian, 1615–1673)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1615",
+        "death_year": "1673",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1958-12-19T00:00:00",
+    "sortable_date": 1635,
+    "date_added_to_oa": null,
+    "date_text": "c. 1640",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": true,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-03-27 00:01:20.961000"
+  }
+}
