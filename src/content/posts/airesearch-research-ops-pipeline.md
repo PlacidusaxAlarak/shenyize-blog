@@ -7,7 +7,7 @@ tags: ["技术"]
 category: "技术"
 draft: false
 lang: "zh-CN"
-priority: 8
+priority: 7
 ---
 
 在 LLM、RLHF、Agent 与推理研究持续高频更新的背景下，论文跟踪的问题早已不再是“信息是否足够”，而是“如何在过量信息中维持稳定、可复用的筛选流程”。仅依赖人工往返于 arXiv、Hugging Face Daily Papers、作者主页与笔记工具之间，通常会带来较高的时间成本，也难以形成可以长期复用的研究机制。
