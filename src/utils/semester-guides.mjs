@@ -8,11 +8,13 @@ export function getSemesterGuides(posts) {
 			if (!match || post.data.draft === true) return [];
 
 			const semester = `大${match[1]}${match[2]}`;
-			return [{
-				slug: post.slug,
-				semester,
-				order: "一二三四".indexOf(match[1]) * 2 + "上下".indexOf(match[2]),
-			}];
+			return [
+				{
+					slug: post.slug,
+					semester,
+					order: "一二三四".indexOf(match[1]) * 2 + "上下".indexOf(match[2]),
+				},
+			];
 		})
 		.sort((a, b) => a.order - b.order)
 		.map(({ slug, semester }) => ({ slug, semester }));
