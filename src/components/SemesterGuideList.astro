@@ -1,0 +1,31 @@
+---
+import { getCollection } from "astro:content";
+import { getPostUrlBySlug } from "@utils/url-utils";
+import { getSemesterGuides } from "@utils/semester-guides.mjs";
+
+interface Props {
+	includeOverview?: boolean;
+}
+
+const { includeOverview = false } = Astro.props;
+const guides = getSemesterGuides(await getCollection("posts"));
+---
+
+{includeOverview ? (
+	<ul>
+		<li>
+			<strong>课内课程</strong>：<a href={getPostUrlBySlug("苏州大学软件工程专业生存指南")}>苏州大学软件工程专业生存指南</a>
+			<ul>
+				{guides.map(({ slug, semester }) => (
+					<li><a href={getPostUrlBySlug(slug)}>{semester}学期生存指南</a></li>
+				))}
+			</ul>
+		</li>
+	</ul>
+) : (
+	<ul>
+		{guides.map(({ slug, semester }) => (
+			<li><a href={getPostUrlBySlug(slug)}>苏州大学软件工程{semester}生存指南</a></li>
+		))}
+	</ul>
+)}
